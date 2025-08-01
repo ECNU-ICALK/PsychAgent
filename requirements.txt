@@ -192,7 +192,7 @@ tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.35.0
 uvloop==0.21.0
-verl @ file:///mnt/workspace2/yyt/verl-main
+git+https://github.com/volcengine/verl.git
 virtualenv==20.32.0
 vllm==0.10.0
 wandb==0.21.0
