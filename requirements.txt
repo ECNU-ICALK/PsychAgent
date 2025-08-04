@@ -109,7 +109,7 @@ opencv-python-headless==4.12.0.88
 opentelemetry-api==1.35.0
 opentelemetry-exporter-prometheus==0.56b0
 opentelemetry-proto==1.35.0
-opentelemetry-sdk==1.35.0
+opentelemetry-sdk==1.36.0
 opentelemetry-semantic-conventions==0.56b0
 orjson==3.11.1
 outlines_core==0.2.10
