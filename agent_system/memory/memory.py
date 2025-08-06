@@ -15,7 +15,7 @@
 
 from typing import List, Dict, Any, Tuple
 from .base import BaseMemory
-from mem0 import Memory
+from .mymem0 import Memory
 
 class SimpleMemory(BaseMemory):
     """
