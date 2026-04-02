@@ -1,0 +1,134 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "张瑞凯",
+      "gender": "男",
+      "occupation": "学生（目标为成为护士）",
+      "educational_background": "正在攻读护理学位",
+      "marital_status": "未婚",
+      "family_status": "居住在城市，未提及具体家庭成员",
+      "social_status": "有几位亲密朋友但尚未向他们敞开谈论焦虑；与同学或教授讨论这些想法存在困难",
+      "medical_history": "未经历类似心理问题；既往未接受心理治疗；无显著身体疾病",
+      "language_features": "表达清晰，愿意配合与尝试新策略，能进行自我反思与识别思维模式；语速未提及"
+    },
+    "main_problem": "我一直被“我永远无法大学毕业并成为护士”的想法压得喘不过气，这些想法在考试或遇到具有挑战性的作业时更为强烈，影响我的动力、自信以及睡眠与饮食。",
+    "topic": "学业压力",
+    "core_demands": "这些愈发强烈的念头严重影响了我的动力和心理健康，我因此寻求咨询以获得支持；我希望找到办法跨越这些想法，并对自己的未来更有信心。",
+    "growth_experiences": [
+      "在一次药理学考试前，我非常恐惧并担心会失败，但最终以不错的成绩通过了考试。尽管如此，当我再次感到焦虑时，很难回想起这些成功的经历，往往继续担忧下一次考试或作业的表现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "临近重要考试或截止日期",
+          "conditional_assumptions": "如果我在考试中表现不好，就证明我不够好，并会导致无法毕业与实现职业目标",
+          "compensatory_strategies": "加倍学习与寻求学业支持；尝试忽视这些想法、硬撑完成任务",
+          "automatic_thoughts": "我会考砸，永远毕不了业，最终无法成为护士",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "收到具有挑战性的作业或课程任务",
+          "conditional_assumptions": "如果我不能很好地完成艰难任务，就说明我不合格、注定失败",
+          "compensatory_strategies": "加班学习、减少与他人讨论以避免被评价",
+          "automatic_thoughts": "这次一定会失败，这证明我不适合护理专业",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "取得好成绩后仍面对后续考试或作业",
+          "conditional_assumptions": "过去的成功不算数，下一次更难、我可能会失败",
+          "compensatory_strategies": "忽略积极证据，继续担忧并自我否定",
+          "automatic_thoughts": "这次只是运气，下一次我还是会失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成就与被认可（顺利毕业、成为护士）",
+        "fear": "害怕失败与被否定，担心无法实现自我价值",
+        "defense_goal": [
+          "压下焦虑并维持掌控感（通过努力学习与忽视负面念头）",
+          "避免暴露脆弱以免被他人评价（减少与同学或教授讨论内心担忧）"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生、容易失败者",
+          "object_representation": "苛刻的评判者（考试与课程作为高门槛）",
+          "linking_affect": "焦虑、挫败感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与同伴或教授讨论内心的失败担忧与焦虑",
+            "拥有朋友但未向其敞开谈论这些想法"
+          ],
+          "outcomes": [
+            "社交互动受影响",
+            "焦虑加重与自我怀疑持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外表达的冲动或放弃向外寻求他人帮助，转而把能量对自己使用（把应向外发出的能量回收至自我）。",
+          "manifestations": [
+            "不向朋友或教授表达担忧，选择独自承受压力",
+            "在强烈焦虑时尝试硬撑与忽视念头，而非寻求外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在重要考试前，来访者通常会被灾难化与预测失败的想法困住，出现强烈焦虑与自我怀疑，导致注意力下降、睡眠与饮食被打乱，学习效率受损。",
+          "unique_outcome": "在一次药理学考试中，尽管事前非常恐惧，来访者并未被焦虑完全困住，而是完成了考试并以不错的成绩通过。",
+          "reason": "不同做法：进行了系统复习并寻求学业支持；不同理解：意识到自己已通过多数课程、存在成功经验，这些线索在该次考试中发挥了作用。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "已有通过多数课程与单科高分的成功经验",
+          "愿意寻求学业支持并加倍学习",
+          "对咨询持开放与合作态度，愿意练习重构思维与积极可视化"
+        ],
+        "negative_force": [
+          "灾难化与预测失败的认知模式显著",
+          "核心自我否定信念（“我不够好”）",
+          "考试与截止日期前焦虑加重，导致睡眠与饮食紊乱与学习效率下降",
+          "难以向他人表达与寻求支持，倾向独自承受压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在临近考试或截止日期时出现灾难化与预测失败的思维，伴随显著焦虑与自我否定，影响专注与学习行为",
+          "antecedent": [
+            "重要考试临近",
+            "作业或课程任务难度高",
+            "面临紧迫的截止日期"
+          ],
+          "core_reason": "深层自我评价为“我不够好”，并将单次表现推断为整体失败，形成对未来无法毕业与无法成为护士的灾难化预测",
+          "function": "逃避失败的恐惧、试图通过焦虑驱动更多准备以获得控制感",
+          "consequence": "学习动力下降与偶发“瘫痪”状态，注意力与效率受损；睡眠与饮食被扰乱；社交互动受影响；学业进度可能受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1314
+}

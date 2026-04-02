@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "陈思婷",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与家人关系不佳，自青少年期持续至今",
+      "social_status": "缺乏社会支持，不愿与朋友讨论家庭问题",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗或咨询",
+      "language_features": "略显紧张但积极配合，表达清晰，能够反思并识别负性思维模式"
+    },
+    "main_problem": "我与家人持续发生冲突，并且我常常对日常生活感到失望。我还强烈渴望成为动物而不是人类。",
+    "topic": "家庭关系",
+    "core_demands": "寻求支持与指导，以应对持续的家庭冲突和强烈的失望感，改善心理健康与日常功能",
+    "growth_experiences": [
+      "家庭冲突自青少年时期开始，主要源于沟通破裂以及在优先事项与价值观上的差异；长期高压使其感到孤独与隔离，随着在困难时期感到缺乏支持，冲突与失望逐步加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不会得到家人的支持",
+        "事情永远不会变好"
+      ],
+      "special_situations": [
+        {
+          "event": "与家人就工作发生激烈争吵，他们认为我应该做更“成功”的工作",
+          "conditional_assumptions": "如果我达不到家人的成功标准，就等于失败并令他们失望",
+          "compensatory_strategies": "试图通过解释与沟通来获得家人的理解与认可，或回避与家人进一步交流",
+          "automatic_thoughts": "我是让家人失望的失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在遇到困难或紧急情况时想到需要家人帮助的情境",
+          "conditional_assumptions": "如果家人过去一直批评我、与我关系不佳，那么在紧急情况中也不会帮助我",
+          "compensatory_strategies": "不向家人或朋友求助，选择独自承受",
+          "automatic_thoughts": "他们不会帮我，我只能自己面对",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在反思日常生活与日常例行时感到持续失望",
+          "conditional_assumptions": "如果现在过得不好，那未来也不会改善",
+          "compensatory_strategies": "用阅读、散步等爱好分散注意，但效果逐渐下降",
+          "automatic_thoughts": "事情永远不会变好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "家人经常提出批评，几乎不提及我的优点",
+          "conditional_assumptions": "如果没有被家人表扬，就说明我做得都不好、不值得认可",
+          "compensatory_strategies": "减少与家人交流，转而在工作中寻求外部认可",
+          "automatic_thoughts": "我做得很差，没有值得被肯定的地方",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人理解、认可与支持，并获得更简单、平和的生活",
+        "fear": "害怕被批评、被拒绝与无人支持，担心自己永远是失败者",
+        "defense_goal": [
+          "通过保持疏离与自我保护来减少伤害",
+          "避免求助以避免被拒绝",
+          "用幻想逃离高压期待以暂时缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被批评的失败者/被误解者",
+          "object_representation": "挑剔、苛责、拒绝支持的家人",
+          "linking_affect": "孤独、绝望、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及作为人所承受的期待与压力、或被家人批评时",
+          "interpretation": "来访者潜意识认为只有逃离人类角色（变成动物）才能摆脱评判与冲突",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "以温和共情的语气认可其对简单生活的向往，邀请其把幻想背后的需求转化为具体可行的生活简化与边界设置方案。"
+        },
+        {
+          "trigger_condition": "当咨询师探索家人是否曾提供支持或肯定，或讨论向他人求助的可能性时",
+          "interpretation": "来访者倾向于将冲突与批评内化为自我问题，认为自己不配被支持或肯定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持温柔而坚定的语气，指出自责的模式，鼓励表达对家人的真实感受与需求，使用开放式问题引导其识别可寻求的支持资源。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "青少年期开始的家庭冲突导致长期的孤独与隔离",
+            "在困难时期感到缺乏支持",
+            "不愿向朋友讨论家庭问题"
+          ],
+          "outcomes": [
+            "情绪低落与失望感加重",
+            "自我照护动力下降（睡眠与饮食受影响）",
+            "人际支持系统薄弱"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "渴望成为动物以摆脱人类角色中的期待与压力",
+            "希望生活更简单与平和"
+          ],
+          "outcomes": [
+            "对现实生活产生回避与无力感",
+            "工作表现下降",
+            "难以建立自主的生活边界"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "接受家人对“成功”的标准并以此评价自我",
+            "使用“应该”式规则看待职业选择"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在遇到困难时不向家人或朋友求助",
+            "把对家人的不满与愤怒转向自责与自我否定"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "用阅读、散步等兴趣分散注意以回避负面感受",
+            "在谈及积极证据时难以直接接触与承认"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求心理咨询并积极配合",
+          "具备分散注意的兴趣爱好（阅读、散步）",
+          "在工作中曾获得他人欣赏的经历",
+          "能够识别并开始挑战负性自动思维"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白等认知扭曲显著",
+          "长期缺乏家庭与朋友支持",
+          "自我照护动力不足（睡眠与饮食不佳）",
+          "将愤怒与不满转向自身导致自责",
+          "倾向于预测负面未来并否定积极证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避寻求支持（不向家人或朋友求助）",
+          "antecedent": [
+            "遇到家庭冲突或面临挑战、紧急情况时"
+          ],
+          "core_reason": "预期他人不会支持自己、害怕被否定或拒绝",
+          "function": "逃避被拒绝与受伤的可能性，维持自我保护",
+          "consequence": "社会支持缺失与孤独感加剧，问题得不到缓解"
+        },
+        {
+          "behavior": "自我照护不足（睡眠不规律、饮食不健康）",
+          "antecedent": [
+            "在日常生活中感到持续失望与情绪低落时"
+          ],
+          "core_reason": "对生活的失望与无意义感导致动机下降，忽视自我照护",
+          "function": "暂时逃避自我要求与压力，以降低当下不适",
+          "consequence": "身心状态下降，进一步影响工作表现与总体功能"
+        },
+        {
+          "behavior": "负性自动思维反刍（灾难化、全或无等）",
+          "antecedent": [
+            "与家人发生冲突后或反思日常时"
+          ],
+          "core_reason": "内摄家人的成功标准并将自我价值与他人评价绑定，导致自我否定",
+          "function": "维持认知一致性与自我解释（虽不适应），暂时避免面对复杂的现实因素",
+          "consequence": "绝望与孤独感增强，日常动力下降，工作表现受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 470
+}

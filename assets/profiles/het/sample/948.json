@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "美国文学与教育学学士",
+      "marital_status": "未婚",
+      "family_status": "独居于大城市",
+      "social_status": "拥有支持性的朋友群体，但未与其分享失败感；与家人和朋友的关系因负面信念而紧张",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗或辅导；无类似心理问题史",
+      "language_features": "表达清晰、逻辑性较强；语气消极，倾向全或无、过度概括与心理过滤；能合作且愿意尝试，但自我否定明显"
+    },
+    "main_problem": "我觉得以3.5的GPA从大学毕业是种浪费，我本可以做得更好。这一信念让我感到痛苦与失败。",
+    "topic": "情绪管理",
+    "core_demands": "这些失败感正在影响我的自尊和对生活的整体看法，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "大学期间长期承受学业表现与社会期待的压力，毕业后立即将3.5的GPA视为未达标准，从而产生并维持失败感。",
+      "毕业后多年反复与同学的更高GPA进行比较，加剧自我贬低与挫败体验。",
+      "不主动寻求帮助、期望时间能冲淡问题；未向支持性的朋友群体分享失败感，关系因此紧张；个人生活动机下降（如减少徒步）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于学业成绩",
+        "如果不是最好，那就是失败",
+        "我不够好/我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "独自回想大学经历与自己的3.5 GPA时",
+          "conditional_assumptions": "如果GPA不是更高的分数，就说明我浪费了大学、我就是失败者",
+          "compensatory_strategies": "用全或无的标准评估自我，否定大学期间的正面收获以维持“高标准”",
+          "automatic_thoughts": "我的大学白费了；我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同学比较学业成绩或看到同学更高的GPA时",
+          "conditional_assumptions": "如果我比不过同学，就不值得被认可、说明我不够好",
+          "compensatory_strategies": "频繁进行社会比较，贬低自我来“鞭策”自己",
+          "automatic_thoughts": "我不如他们；我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "家人或朋友谈及学业表现/成就话题时",
+          "conditional_assumptions": "必须达到他人期待的成绩才能有价值，否则会被看低",
+          "compensatory_strategies": "回避分享真实感受以避免被评价或失望",
+          "automatic_thoughts": "他们会觉得我失败",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾大学经历时，面对积极经历（如教学实习获表彰、结交朋友）",
+          "conditional_assumptions": "只有GPA才算真正的成就，其他都不重要",
+          "compensatory_strategies": "过滤信息、只关注成绩数字，主动忽略正向证据",
+          "automatic_thoughts": "那些好经历都不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与看见（通过显著成就来证明自我价值）",
+        "fear": "害怕未达高标准会被否定、失去价值并在比较中蒙羞",
+        "defense_goal": [
+          "以严苛的自我标准维持“安全感”，避免被外界评价否定",
+          "减少表达脆弱与不分享失败感以自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生/失败者",
+          "object_representation": "挑剔、以成绩为唯一标准的他者（社会/同学/家人）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        },
+        {
+          "self_representation": "努力却被数字遮蔽的个体",
+          "object_representation": "只看分数、忽视多元成就的评判者",
+          "linking_affect": "失望、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其进行现实检验、辨识认知歪曲并考虑大学期间的积极经历时",
+          "interpretation": "认为咨询师在淡化自己的标准、忽视“事实”，体验到自己的严苛内在批判被挑战（移情：将内在的苛责体验成外界的否认）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持共情与肯定，语气温和、慢速；先验证其感受，再以开放式问题邀请具体化例证；避免就数字高低争辩，帮助其连结情绪与意义。"
+        },
+        {
+          "trigger_condition": "当谈及是否向朋友或家人分享失败感、或探索人际影响时",
+          "interpretation": "认为表达脆弱会引发评价与关系恶化，因此倾向维持沉默",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性语气承认其顾虑；使用温和反问区分“担心”与“证据”，鼓励微小、可控的分享尝试与界限设定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将3.5的GPA定义为“大学白费”，否定大学期间的人际与实践成长",
+            "以单一指标（GPA）衡量自我价值，忽视生活的多元意义"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "生活动机下降（如减少徒步）",
+            "对人生整体展望变得消极"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有支持性朋友却不分享失败感",
+            "人际关系因负面信念而紧张"
+          ],
+          "outcomes": [
+            "关系疏离感增强",
+            "情绪承载增重、缺乏外部支持的缓冲"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须更高的GPA才算成功”为硬性标准",
+            "用单一分数定义自我价值，忽略多元成就"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我贴标签（“失败者”）",
+            "在会谈中强调自己的不足并否定积极证据"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友分享失败感，将能量转向自我反刍与自我批评",
+            "减少参与原有的徒步等兴趣活动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在回想大学经历或与同学比较时，来访者通常会陷入“大学白费/我是失败者”的负面思维，并回避表达，导致情绪低落与人际紧张。",
+          "unique_outcome": "大学教学实习中获得表彰，得到具体的正向反馈与认可；该经历体现了能力与成长，成为与“大学白费”叙事不同的例外证据。",
+          "reason": "不同支持：来自实习导师的积极反馈与正式表彰；不同情境：实践教学任务、评价维度更为多元，能看到除GPA外的能力表现。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性朋友网络",
+          "大学教学实习获得表彰，体现教学能力与实践经验",
+          "目前职业表现稳定，工作功能未受影响",
+          "愿意寻求心理咨询并尝试改变"
+        ],
+        "negative_force": [
+          "频繁进行社会比较、过度依赖外部评价",
+          "全或无、过度概括、心理过滤与否定正面等认知偏差",
+          "将GPA作为唯一价值标准，忽视其他成就",
+          "不分享脆弱与失败感，人际关系紧张",
+          "自尊受损与生活动机下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复出现的负面自动思维与自我贴标签（如“大学白费”“我是失败者”）",
+          "antecedent": [
+            "回想大学与GPA",
+            "与同学进行成绩比较或看到他人更高的GPA",
+            "家人或朋友谈及学业表现/成就"
+          ],
+          "core_reason": "内摄的高标准与对外部评价的依赖，形成以单一分数定义自我价值的认知规则",
+          "function": "通过自我批评维持对标准的控制感，避免面对更复杂的自我评价与不确定性",
+          "consequence": "自尊下降、持续情绪困扰、对生活的整体展望恶化"
+        },
+        {
+          "behavior": "回避分享脆弱与减少兴趣参与（如徒步）",
+          "antecedent": [
+            "产生失败感时计划社交或活动",
+            "与同学比较后自我贬低",
+            "被提及学业表现话题"
+          ],
+          "core_reason": "担心被评价、羞耻感与关系恶化的恐惧",
+          "function": "逃避不受欢迎的情绪与可能的负面评价，以短期减轻焦虑",
+          "consequence": "人际关系紧张、支持减少、生活质量与动机下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 948
+}

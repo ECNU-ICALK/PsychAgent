@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "方明",
+      "gender": "男性",
+      "occupation": "目前有工作，正在寻找第二份工作",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与同为跑者的朋友关系因其对自我跑步能力的负面心态而出现紧张；有少数支持性的朋友，但尚未与他们讨论自己的不安与不足感。",
+      "medical_history": "未曾就心理问题接受治疗；无显著身体疾病或既往重要病史。",
+      "language_features": "表达清晰、逻辑连贯，能进行自我反思与合作；态度积极，但存在显著的自我否定与与他人比较的倾向。"
+    },
+    "main_problem": "近几个月来，我在跑步方面持续感到自我不足，尽管跑步是我喜欢的爱好。随着我希望提升跑步水平，这种不足感更明显。与社区中的其他跑者比较让我感到中度压力，每次跑步看到他人超过我就会沮丧，以至于不再从跑步中获得乐趣。我尝试过不同的训练计划与技术，但没有显著进步。",
+    "topic": "个人成长",
+    "core_demands": "这些不足感开始影响我对跑步的整体享受，并且削弱了我追求“开一家让跑步能参与其中的餐馆”的梦想的动力，因此我决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不是一个好跑者"
+      ],
+      "special_situations": [
+        {
+          "event": "在社区跑步时看到其他跑者速度更快、超过自己",
+          "conditional_assumptions": "如果我不能像他们一样快或至少跟上他们，就说明我不够好、不是好跑者",
+          "compensatory_strategies": "加大训练强度、尝试不同训练计划以证明自己",
+          "automatic_thoughts": "我永远不会足够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "跑后朋友给予正面反馈，指出我在进步",
+          "conditional_assumptions": "只有达到更高的客观成绩或名次才算“进步”，别人的称赞不可靠",
+          "compensatory_strategies": "否定正面反馈，只关注自身不足",
+          "automatic_thoughts": "他们只是安慰我，这不算真正的进步",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "跑步前想到可能会在跑道上看到更快的跑者",
+          "conditional_assumptions": "如果无法达到他们的水平，继续跑步就没有意义",
+          "compensatory_strategies": "为了避免挫败与羞耻而跳过跑步、减少训练",
+          "automatic_thoughts": "反正我追不上他们，为什么还要跑？",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾最近的训练记录时，只注意到表现不佳的几次",
+          "conditional_assumptions": "负面表现更能真实反映我的水平，正面体验只是偶然",
+          "compensatory_strategies": "忽略好的跑步体验与积极数据，加强对负面证据的关注",
+          "automatic_thoughts": "我整体表现很差，那几次好的只是偶然",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过跑步获得认可与成就感，并感到自己有价值",
+        "fear": "害怕被比较后显得不够好、被贬低或被拒绝，梦想因自己的不足而受挫",
+        "defense_goal": [
+          "通过加倍训练与持续比较来维持掌控与证明自己",
+          "通过跳过跑步、与跑步朋友疏远来降低羞耻与挫败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的跑者、容易自我贬低的“落后者”",
+          "object_representation": "更快且带有评判意味的“他者/跑者群体”",
+          "linking_affect": "羞愧、沮丧、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或朋友给予积极反馈、鼓励其关注自身进步与正面证据时",
+          "interpretation": "倾向将他人的正面评价理解为“只是安慰”，难以相信积极证据（移情：对他人认可的不信任）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气犹疑、轻描淡写积极证据，反复以“但是/不过”开头强调不足，淡化正面体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "跑步逐渐失去乐趣与意义",
+            "每次跑步看到他人超过自己就感到沮丧",
+            "对跑步相关的梦想动力下降"
+          ],
+          "outcomes": [
+            "动机降低",
+            "跳过跑步与训练",
+            "整体生活热情下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "与同为跑者的朋友关系紧张",
+            "未与支持性的朋友讨论内心不足与不安"
+          ],
+          "outcomes": [
+            "社交支持未被有效利用",
+            "孤立感与自我怀疑增加",
+            "情绪低落影响睡眠"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以“我不够好”评价自己",
+            "否定他人的正面反馈与自己的好体验",
+            "与他人比较后强化自责与自我怀疑"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在预期会感到挫败时选择跳过跑步以避免直接面对刺激",
+            "没有向支持性的朋友表达自己的不足与不安"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在社区跑步时，来访者通常会因与更快跑者比较而感到自卑与沮丧，进而动力下降并偶尔跳过训练",
+          "unique_outcome": "在少数几次跑步过程中，来访者主观感到状态良好、强壮且有能力，能够完成当次训练；跑后朋友也反馈其有所进步",
+          "reason": "不同支持：跑后朋友给予积极反馈；不同体验线索：当次跑步中主观感觉更强壮、更有掌控感"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有“强壮/有能力”的跑步体验并享受跑步",
+          "有少数支持性的朋友",
+          "愿意寻求咨询且态度积极",
+          "当前工作表现满意，具备一定的稳定性与执行力"
+        ],
+        "negative_force": [
+          "习惯性与他人比较导致自我否定",
+          "否定正面反馈与积极体验",
+          "个人化与心理过滤等认知偏差强化挫败感",
+          "动机下降并以跳过跑步回避训练",
+          "睡眠与整体动力受负面情绪影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在跑步相关情境中出现自我贬低并回避训练（跳过跑步）",
+          "antecedent": [
+            "每次外出跑步时",
+            "看到社区其他跑者超过自己时",
+            "在跑步前想到自己进展停滞或他人更快时"
+          ],
+          "core_reason": "受“我不够好/不是好跑者”的核心信念与比较与绝望、心理过滤、否定正面等认知偏差驱动，以避免羞耻与挫败",
+          "function": "逃避不受欢迎的情绪（羞耻、沮丧），短期内降低焦虑并保护自尊",
+          "consequence": "失去跑步的乐趣与动力，关系紧张，睡眠与日常活力受影响"
+        },
+        {
+          "behavior": "否定积极反馈与自我进步迹象",
+          "antecedent": [
+            "当朋友给予正面评价或指出其进步时",
+            "回顾训练记录同时包含好与坏的表现时"
+          ],
+          "core_reason": "对自我价值缺乏安全感，并存在“否定正面”“心理过滤”的认知偏差",
+          "function": "维持负面的自我图式以避免期望与随之而来的失望",
+          "consequence": "自信心难以建立，持续自我否定，进一步降低训练动力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 816
+}

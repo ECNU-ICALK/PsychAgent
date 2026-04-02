@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "李楠",
+      "gender": "未说明",
+      "occupation": "研究生",
+      "educational_background": "在读硕士",
+      "marital_status": "单身",
+      "family_status": "父母住在街对面",
+      "social_status": "有支持的朋友和家人，但近期因负面思维而对朋友和家人更为疏离",
+      "medical_history": "无显著躯体疾病；此前未接受过心理治疗；过去未出现类似问题",
+      "language_features": "表达清晰、逻辑连贯，能具体描述情绪与躯体感受（胸闷、失眠）；配合度高；存在“应该”句式与自我比较倾向；对外界评价较敏感"
+    },
+    "main_problem": "在研究生阶段感到能力不足与后悔，持续怀疑自己的学业选择与能力，认为自己本该成为犯罪题材作家；这些负面感受自学期开始逐渐加重，并在面对困难作业或考试时尤为强烈。",
+    "topic": "学业压力",
+    "core_demands": "希望缓解持续的失败感与后悔，改善学业表现与整体健康；希望走出负面思维，减少焦虑，重新享受艺术创作。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在研究生阶段遇到困难的作业或考试",
+          "conditional_assumptions": "如果我在研究生阶段表现不佳，就证明我不够好、选错了道路",
+          "compensatory_strategies": "尝试时间管理技巧并与朋友交谈以减轻压力，但仍反复自我怀疑",
+          "automatic_thoughts": "我本该去做犯罪题材写作，而不是读研；我不适合学术",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "临近艺术展览并想到观众观看与购买行为",
+          "conditional_assumptions": "如果没有人购买或认可我的画作，就说明我不值得",
+          "compensatory_strategies": "刻意关注作品积极面，但很快被负面想法压过",
+          "automatic_thoughts": "没人会买我的画",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到他人会如何评价自己的作品",
+          "conditional_assumptions": "他人的看法决定我的价值和能力感受",
+          "compensatory_strategies": "在内心预设他人负面评价以“提前防备”打击",
+          "automatic_thoughts": "他们会觉得我的画很业余、不值得他们的时间或金钱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到朋友与同事的正面反馈",
+          "conditional_assumptions": "身边人的夸奖不可信，可能只是礼貌或关系使然",
+          "compensatory_strategies": "否定积极信息、坚持自我批评以维持“谨慎的低期待”",
+          "automatic_thoughts": "他们只是客气，因为认识我才说好话",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学业与艺术上被看见与认可，并确认自我价值",
+        "fear": "害怕被他人否定与评判为“不够好”，害怕选择错误导致失败",
+        "defense_goal": [
+          "通过怀疑赞美、维持低期待与自我批评来减少外界否定带来的打击"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生/艺术家，随时可能被否定",
+          "object_representation": "苛刻的评判者或不真诚的旁观者",
+          "linking_affect": "焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问他人对作品的评价、或指出他已获得正面反馈时",
+          "interpretation": "认为他人的赞美不真诚，只是出于礼貌或因为认识自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚定的语气强调对赞美的不信任，给出“他们认识我所以客气”的理由，避免深入探讨积极反馈的可信度。"
+        },
+        {
+          "trigger_condition": "当谈及展览的销售与观众反应、或面临结果未知的情境时",
+          "interpretation": "预设最坏情况会发生，以此来心理上“提前准备”失败与否定",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "使用担忧与保守的语气频繁进行负面预测，强调“提前做好心理准备”，避免接纳更平衡的可能性。"
+        },
+        {
+          "trigger_condition": "当谈到学业与职业选择时，出现大量“应该/必须”的自我要求",
+          "interpretation": "将他人或社会标准未经消化地当成自己的必须遵守的准则",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "频繁使用“我应该/必须……”等句式，语气僵硬，强调外在标准的重要性，弱化个人兴趣与内在体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "反复以“应该”句式自我要求，纠结于学业道路与职业（犯罪题材写作）的选择",
+            "将艺术创作是否被他人认可作为行动的准绳，感到选择受外界评价制约"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "自我怀疑与退缩",
+            "学业表现受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在怀疑学术路径与艺术价值时，难以从创作中持续获得意义感与满足",
+            "将作品价值过度系于他人评价，削弱内在的意义来源"
+          ],
+          "outcomes": [
+            "对创作失去持久的自豪感",
+            "专注困难与睡眠受扰",
+            "整体幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设观众会觉得作品“很业余、不值得时间与金钱”",
+            "认为朋友与同事的正面反馈“不真诚、只是礼貌”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "创作过程中持续自我怀疑与苛责",
+            "在面对展览时过度审视自我、降低行动自信"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁出现“我应该/必须……”的自我要求",
+            "以他人的评价与社会标准作为自我价值的核心依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在准备或创作艺术作品时，李楠通常会被强烈的自我怀疑与对他人评价的担心所困住，导致焦虑与失眠。",
+          "unique_outcome": "在某些完成作品的时刻，李楠专注于创作本身而非他人看法，体验到真正的自豪与满意，焦虑暂时减轻。",
+          "reason": "线索：当他将注意力转向创作的乐趣与初衷、不过度追求外部认可时，出现了不同的体验与更好的情绪结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持的朋友与家人可提供情感支持",
+          "能够在专注过程时体验自豪与满意（存在内在意义感的潜能）",
+          "愿意求助并接受心理咨询，具备改变动机"
+        ],
+        "negative_force": [
+          "频繁的“应该”句式导致僵化的自我要求",
+          "过度比较与自我否定，依赖外部评价",
+          "否定积极反馈、预设负面结果，增加焦虑与退缩",
+          "睡眠受扰与专注困难，进一步削弱功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对研究生作业/考试或艺术展时出现强烈自我否定与焦虑（伴随胸闷、失眠）",
+          "antecedent": [
+            "遇到困难的学业任务（作业、考试）",
+            "临近艺术展览与创作过程"
+          ],
+          "core_reason": "将自我价值过度系于外界评价，并以“应该”句式设定僵化标准，同时对未来结果进行负面预测",
+          "function": "逃避不受欢迎的事物（失败与被否定），通过自我批评与低期待来获得表面的安全感与控制感",
+          "consequence": "学业表现受影响、睡眠障碍与专注困难加重、对社交与支持的撤退"
+        },
+        {
+          "behavior": "在收到他人正面反馈时进行否定或贬低（质疑赞美的真诚）",
+          "antecedent": [
+            "朋友与同事给予正面评价或鼓励时"
+          ],
+          "core_reason": "维持消极自我图式以避免期待落空和再度受挫，保持认知一致性",
+          "function": "自我保护（降低外界评价带来的不确定与失望）、避免情绪波动",
+          "consequence": "难以积累自信与正向经验，社交进一步疏离，持续的自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 969
+}

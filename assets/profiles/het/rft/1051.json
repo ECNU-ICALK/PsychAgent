@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "陈琳",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "未披露",
+      "social_status": "人际关系未受此问题直接影响；有少数可以倾诉的朋友，但尚未与他们讨论学习新语言的困扰。",
+      "medical_history": "无显著躯体疾病；无既往心理治疗/咨询史；未有类似问题的既往经历。",
+      "language_features": "表达清晰具体，能回忆并描述学习情境；情绪略焦虑但合作度高；能识别“感觉与事实的区别”，对自动化思维有一定反思能力，愿意尝试行为实验。"
+    },
+    "main_problem": "对当前生活方式感到无聊，渴望学会一门新语言；然而持有“我永远学不会另一门语言”的信念，这一信念导致痛苦和挫败感，并在反复学习受挫时加重。",
+    "topic": "个人成长",
+    "core_demands": "我此刻寻求咨询，是因为“我永远学不会另一门语言”的消极信念正在阻碍我的学习进展并造成情绪困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是“不够聪明/不适合学语言”的人",
+        "我注定学不会一门新语言"
+      ],
+      "special_situations": [
+        {
+          "event": "上周使用语言学习应用进行简单对话练习时频繁出错",
+          "conditional_assumptions": "如果连简单对话都无法做好，就证明我不适合学语言，未来也不会成功",
+          "compensatory_strategies": "当日停止练习以暂时减轻挫败感，避免进一步失败感",
+          "automatic_thoughts": "我太差了，这说明我永远学不会。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在练习中反复忘记词汇或用错语法",
+          "conditional_assumptions": "如果我记不住词汇和语法，就证明我不够聪明、不适合学习语言",
+          "compensatory_strategies": "反复使用多种学习应用和课程加练，试图弥补“能力不足”的担忧",
+          "automatic_thoughts": "我就是学不会，这说明我不够聪明。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在学习时想到“别人都能学会新语言而我不行”的比较",
+          "conditional_assumptions": "如果别人都能掌握而我不能，说明我比别人差，注定失败",
+          "compensatory_strategies": "减少与他人讨论学习进展，回避社交比较以免感到羞耻",
+          "automatic_thoughts": "别人都能做到，只有我不行。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "多次尝试学习后仍感觉记不住，在再次学习前回想以往失败经历",
+          "conditional_assumptions": "过去经常失败意味着将来也会一直失败",
+          "compensatory_strategies": "降低期待、被动应对，维持“谨慎尝试”以避免再次受挫",
+          "automatic_thoughts": "之前都不行，这次肯定也不行。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过学习新语言拓展自我与世界、获得能力感与自我价值的确认",
+        "fear": "害怕失败暴露“无能/不够聪明”，被他人（或自我）评判与否定，感到羞耻",
+        "defense_goal": [
+          "通过自我贬低和降低期待来避免再次受挫",
+          "在受挫时暂时回避练习以减轻焦虑并维持脆弱的自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、注定失败的学习者",
+          "object_representation": "轻易就能掌握的“他人/大众”（隐含为潜在的评判者）",
+          "linking_affect": "羞耻、挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在会谈中回顾学习时的错误与失败，或被邀请检视“证据与假设”的差异",
+          "interpretation": "将错误视为自身无能的证据，并担心他人也会这样看待自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责、内疚的语气描述经历，使用绝对化词汇（如“永远”“一定不行”）；语气放低、减少主观感受的展开，将注意力转向自我否定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对当前生活方式感到无聊，渴望通过学习新语言来“拓展视野”",
+            "在反复受挫后陷入对自我能力的否定，难以从学习中体验意义与成长"
+          ],
+          "outcomes": [
+            "焦虑与挫败感增加",
+            "自尊与动机下降，学习投入减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在会谈与练习中用绝对化评价自我（如“我不够聪明”“我永远学不会”）",
+            "出错后对自己严厉批评，并以降低期待与减少暴露来保护自尊"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有明确的成长动机（希望拓展视野、学习新语言）",
+          "已采取多种尝试（使用多款应用与在线课程）并保持一定练习频率",
+          "能识别并讨论负性自动化思维，愿意配合行为实验"
+        ],
+        "negative_force": [
+          "固着性消极信念（“我永远学不会”）削弱自我效能",
+          "过度概括与灾难化、比较式思维，强化失败预期",
+          "自我贬低与当下回避策略（出错后当日放弃练习）",
+          "未有效动用社会支持（虽有朋友但未求助或讨论）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学习新语言时出现自我否定的消极自我对话并在出错后放弃当日练习",
+          "antecedent": [
+            "使用语言学习应用进行对话或练习时频繁出错",
+            "在记忆词汇或语法时卡住、遗忘",
+            "在学习过程中想到“别人都能学会而我不行”的比较画面"
+          ],
+          "core_reason": "对错误的灾难化与过度概括（将一次/多次失误视为永久失败）导致自我效能感低下，并以自我标签化解释困难（“我不够聪明”）",
+          "function": "逃避继续失败带来的羞耻与挫败，短期降低焦虑与不适",
+          "consequence": "学习中断、练习时长与投入下降；自尊与动机进一步减弱，负性信念得到强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1051
+}

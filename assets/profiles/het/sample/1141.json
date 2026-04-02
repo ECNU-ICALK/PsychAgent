@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "陈婉莎",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与一只宠物狗同住，其他家庭成员情况未提及",
+      "social_status": "有支持性的朋友群体，但因对养宠能力反复寻求安慰而影响友谊",
+      "medical_history": "无显著躯体疾病；无既往心理治疗；既往未出现类似问题",
+      "language_features": "表达清晰，配合度较高，语气焦虑与自责，存在怀疑但愿意尝试观察任务；容易将事件个人化并进行比较"
+    },
+    "main_problem": "我一直觉得自己是个不称职的狗主人，只要我的狗某天没有回应我，就说明我不是一个好主人。",
+    "topic": "情绪管理",
+    "core_demands": "这些作为宠物主人的不够胜任感开始影响我的心理健康和与宠物的联结，因此我决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职的人（不合格的宠物主人）",
+        "我的价值必须通过外界（宠物行为与他人评价）来证明"
+      ],
+      "special_situations": [
+        {
+          "event": "宠物狗在呼唤时没有回应或显得不配合",
+          "conditional_assumptions": "如果宠物没有立刻回应我的指令，就说明我做得不够好、是不称职的主人",
+          "compensatory_strategies": "更加密切关注宠物需求、加倍照顾与训练，试图用行为来证明自己",
+          "automatic_thoughts": "他不理我就是我做错了，我是个糟糕的主人。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在社交媒体上看到“完美宠物主人”的展示",
+          "conditional_assumptions": "如果达不到社交媒体上的完美标准，就等同失败并且不配被认可",
+          "compensatory_strategies": "与他人进行比较、设立过高标准、不断寻求外界肯定",
+          "automatic_thoughts": "我比他们差，看来我做得很糟糕。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "宠物看起来冷淡或无聊",
+          "conditional_assumptions": "宠物的每个情绪变化都反映我的养护水平；我必须让它随时表现愉悦才说明我合格",
+          "compensatory_strategies": "增加互动与玩耍、过度解读宠物行为以寻找问题",
+          "automatic_thoughts": "他看起来不开心，说明我没有做好。",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "向朋友频繁寻求肯定后仍感到不安",
+          "conditional_assumptions": "只有他人的肯定才能证明我足够好；没有明确的外部赞许就意味着不合格",
+          "compensatory_strategies": "不断向朋友求证与寻求安慰",
+          "automatic_thoughts": "他们只是安慰我，实际上我还是不够好。",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为合格且值得被爱（与宠物保持稳定亲密的联结）",
+        "fear": "害怕被否定、害怕不够好导致与宠物的联结破裂并被他人评价为失败",
+        "defense_goal": [
+          "通过内化高标准与持续自我监控来避免被否定",
+          "依赖外部验证以维持自我价值与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、需要不断证明自己的养宠者",
+          "object_representation": "苛责且完美的他人/社会标准（社交媒体中的“完美主人”）",
+          "linking_affect": "羞愧、焦虑"
+        },
+        {
+          "self_representation": "渴望被爱与回应的照顾者",
+          "object_representation": "冷淡且不配合的宠物（被动的评判者）",
+          "linking_affect": "内疚、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到社交媒体上的完美宠物主人或被比较、被询问其养宠表现时",
+          "interpretation": "来访者将他人视为苛责的评判者，认为达不到完美就等于失败（移情：将外界标准带入自我评价）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
+          "response_instruction": "倾向使用“应该/必须”句式，语气紧张并自责；强调需要达到完美标准以获得认可，同时寻求咨询师的肯定。"
+        },
+        {
+          "trigger_condition": "当咨询师建议进行行为实验与观察，而不立即下结论时",
+          "interpretation": "将尝试视为可能证明自己不够好，预期会更糟并被否定",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
+          "response_instruction": "提前表达担忧与保留，语气谨慎，要求小步推进和明确边界；必要时请求额外的安抚与说明。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以社交媒体标准界定自我与行为，充满“应该/必须”的完美化追求",
+            "将自我价值交由外界（宠物行为、他人评价）裁定，缺乏内在自主评价",
+            "担心观察与实验会“证实不够好”，因此对自主选择与承担的自由感到焦虑"
+          ],
+          "outcomes": [
+            "持续焦虑与内疚",
+            "睡眠受扰",
+            "人际关系紧张（反复寻求安慰）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“应该/必须成为完美宠物主人”的语句",
+            "将社交媒体的完美标准当作自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责与怀疑",
+            "频繁向朋友寻求肯定仍不安心",
+            "担心观察会证实自己不足而犹豫不决"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在宠物不回应或显得冷淡的情境下，来访者通常会立即自责并认定自己不称职，随后反复担忧并影响睡眠。",
+          "unique_outcome": "在某些时刻（如来访者回家时，宠物摇尾巴并主动依偎），来访者注意到积极信号，短暂相信“我做对了一些事”，当下情绪有所缓解。",
+          "reason": "线索：不同情境（回家时宠物主动亲近）、可观察的积极行为（摇尾与依偎）；不同理解（允许自己注意到正面迹象）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "日常对宠物细心照料（每日两次散步、优质饲喂、陪玩、提供舒适环境）",
+          "拥有支持性的朋友群体",
+          "愿意尝试观察与行为实验，具备改变意愿"
+        ],
+        "negative_force": [
+          "过度寻求外部认可，缺乏内在自我评价",
+          "社交比较导致完美化标准与自我苛责",
+          "灾难化、个人化、跳结论等认知偏差",
+          "睡眠受扰与持续担忧加重压力",
+          "自我贴标签为“坏主人”并否定积极证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "把宠物的不响应或冷淡立即视为自己的过失并产生强烈内疚与焦虑",
+          "antecedent": [
+            "宠物不回应召唤",
+            "宠物看起来冷淡或无聊"
+          ],
+          "core_reason": "内摄社交媒体的完美标准、将自我价值系于外界反应，并伴随灾难化与个人化解释。",
+          "function": "通过自责与过度关注来获得控制感与潜在的外部认可，逃避“不确定是否做得足够好”的不适。",
+          "consequence": "情绪低落与内疚加重；与宠物的联结感受受损；睡眠受扰。"
+        },
+        {
+          "behavior": "频繁向朋友寻求安慰与肯定",
+          "antecedent": [
+            "看到社交媒体上的“完美主人”",
+            "宠物出现不配合行为",
+            "自我怀疑升高"
+          ],
+          "core_reason": "依赖外部验证以维持自我价值，内在自我评价薄弱。",
+          "function": "获得他人关注与安抚以暂时减轻焦虑。",
+          "consequence": "社交关系受影响但缓解有限，持续不安与依赖强化。"
+        },
+        {
+          "behavior": "睡前过度担心宠物与自己是否称职（睡眠受扰）",
+          "antecedent": [
+            "白天发生宠物不响应或冷淡的事件",
+            "浏览社交媒体进行比较",
+            "就寝前反刍与担忧"
+          ],
+          "core_reason": "灾难化、跳结论与情绪化推理导致持续警觉与反刍。",
+          "function": "试图通过思考与预期来避免失败并获得掌控感。",
+          "consequence": "睡眠不足与疲劳，焦虑与自责维持甚至加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1141
+}

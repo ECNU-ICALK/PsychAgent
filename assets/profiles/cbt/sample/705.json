@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "军人（军事人员）",
+      "educational_background": "大学辍学",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "在军队中有朋友的支持，但在与老朋友的社交中因担心被评判而紧张、受影响",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；此前未出现类似心理问题的病史",
+      "language_features": "表达清晰、逻辑性较强；自我觉察良好；语气谨慎、伴随焦虑；在谈及脆弱议题时有回避倾向；配合度积极"
+    },
+    "main_problem": "我有自卑感，并且一直害怕朋友因为我为追求飞行梦想而大学辍学、参军，而把我贴上“没脑子的失败者”的标签。这些感受在社交聚会或与朋友讨论教育背景时尤为明显，影响了我的自尊和与朋友的互动。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些自卑感与对他人评判的恐惧正在影响我的心理健康和社交关系。",
+    "growth_experiences": [
+      "在大学期间选择辍学，加入军队以追求飞行梦想。此后在与朋友讨论教育背景时逐渐产生自卑与被评判的担忧；近几个月在一次社交聚会上，一位朋友随口提到“高等教育很重要”，这句话触发了她更强烈的自我怀疑与焦虑，导致社交受限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个不够好的人",
+        "我是一个“失败者/蠢货”"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会上，朋友提到“高等教育很重要”",
+          "conditional_assumptions": "如果没有大学学位，就会被视为不聪明、价值低、不被接纳",
+          "compensatory_strategies": "避免在朋友面前谈及学历；内心不断理性化自己的选择以对冲焦虑",
+          "automatic_thoughts": "他们一定觉得我只是个没脑子的失败者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友谈论各自的教育背景时",
+          "conditional_assumptions": "一次重要的选择（辍学）就决定了我的整体价值与身份",
+          "compensatory_strategies": "用“要么成功要么失败”的标准衡量自我，强化自我批评来“鞭策”自己",
+          "automatic_thoughts": "辍学这件事说明我整体就是失败的",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与拥有更高学历的朋友相处、比较时",
+          "conditional_assumptions": "如果我在学历上不如别人，就不配被尊重和喜欢",
+          "compensatory_strategies": "与他人持续比较、回避深入交流以降低被评判的风险",
+          "automatic_thoughts": "我不如他们/我不配和他们在一起",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "朋友称赞她的飞行技能与军旅投入时",
+          "conditional_assumptions": "没有学历的赞美不算数，正面证据不足以证明我有价值",
+          "compensatory_strategies": "否定或弱化他人的正面反馈，保留自我怀疑以维持一致的自我图式",
+          "automatic_thoughts": "这些赞美不算数，他们只是客气",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友认可、接纳，并被视为有价值的人",
+        "fear": "害怕被评判、被羞辱、被看不起，从而被排斥",
+        "defense_goal": [
+          "通过保持谨慎与疏离、避免暴露脆弱来降低被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、可能被贬低的失败者",
+          "object_representation": "苛刻的评判者/轻视者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友谈及学历或强调高等教育重要性时",
+          "interpretation": "将普通讨论解读为对自己的贬低与拒绝（把他人当作苛刻评判者）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和而谨慎，先陈述不确定性（如“我可能在过度猜测”），再提出澄清性问题（如“你提到学历重要时，你如何看待我的选择？”），避免绝对化用语与贴标签。"
+        },
+        {
+          "trigger_condition": "当内心涌现强烈自我怀疑时，试图以理由说服自己",
+          "interpretation": "以理性解释来与情绪隔离，将感受压在次要位置",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "在给出理由前先标注感受（如“我此刻也感到不安与羞耻”），用具体体验词替代抽象评判，放慢语速、减少辩解口吻，允许短句呈现当下体验。"
+        },
+        {
+          "trigger_condition": "当想到要向朋友敞开谈论自卑与恐惧时",
+          "interpretation": "将可能的拒绝视为确定的结果，转而压抑表达的冲动",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "鼓励用第一人称情绪词直接陈述（如“我害怕被评判”），语速放慢、留出停顿以承载情绪，避免绕开主题，用简短直接的句子描述当下体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向朋友敞开谈论自卑与恐惧",
+            "担心被评判而与群体保持心理距离",
+            "将普通话题解读为针对自己而进一步退缩"
+          ],
+          "outcomes": [
+            "社交焦虑与回避",
+            "自尊受损",
+            "与朋友关系紧张"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以自由选择追求飞行与军旅生涯",
+            "在社会对学历的主流价值期待与个人选择之间体验冲突与不确定"
+          ],
+          "outcomes": [
+            "选择后的责任焦虑",
+            "对自我价值的摇摆与怀疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "不敢直接表达脆弱感受，反复自我审查",
+            "在社交中刻意回避涉及学历的话题",
+            "自我苛责与自我否定（如“我不配”）"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "把他人普通言论解读为对自己轻视",
+            "认为朋友在“看不起我”“给我贴标签”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与朋友的社交场合、尤其讨论教育背景时，来访者通常会出现强烈自我怀疑与焦虑，并倾向于退缩、回避深入交流。",
+          "unique_outcome": "在一些与朋友的交流中，朋友曾明确称赞她的飞行技能与对军旅的投入；当时她能短暂地承认这些肯定并意识到自己具备价值感，社交互动较为顺畅。",
+          "reason": "不同支持：朋友注意到她的专业能力并给予具体肯定；不同情境：谈话主题聚焦于她的飞行与贡献而非学历；做法不同：她当时尝试回忆成就与他人赞赏，从而短暂减弱自我否定。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对航空与飞行的强烈热情",
+          "军旅经历带来的纪律、领导力与韧性",
+          "来自朋友的正向反馈与认可（飞行技能、投入度）",
+          "军中同侪的基本社会支持"
+        ],
+        "negative_force": [
+          "强烈的自我怀疑与自我贴标签",
+          "读心术与过度概括、比较导致的认知偏差",
+          "对被评判的恐惧导致回避与不敢敞开",
+          "否定正面证据，难以内化他人赞赏",
+          "将学历作为自我价值的严格条件（价值条件化）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合中因担心被评判而出现显著焦虑与回避（减少发言、避免深入交流）",
+          "antecedent": [
+            "社交聚会",
+            "与朋友讨论教育背景或学历话题"
+          ],
+          "core_reason": "对他人评价的读心与自我否定的核心信念（“我是失败者”），伴随灾难化的拒绝担忧",
+          "function": "逃避潜在的负面评价以降低即时焦虑",
+          "consequence": "与朋友关系紧张、社交参与减少、主观自尊下降"
+        },
+        {
+          "behavior": "否定正面反馈并强化自我标签（“赞美不算数”）",
+          "antecedent": [
+            "收到朋友对其飞行技能或军旅投入的称赞"
+          ],
+          "core_reason": "维持“失败者/不够好”的核心信念与心理过滤，避免与自我概念产生认知失调",
+          "function": "维持一致的自我图式、短期降低内在冲突",
+          "consequence": "阻碍自尊提升与情绪改善，强化负性自我评价的循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 705
+}

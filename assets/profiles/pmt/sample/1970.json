@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "梅丽莎",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与同事和朋友的关系因自我渺小与自我贬低感而紧张；有朋友可倾诉但因担心被评判或不被理解而未分享",
+      "medical_history": "未出现类似心理问题；既往未接受心理治疗；无重大躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我一直觉得，即便我是天才也没什么意义，因为有很多人和我有相同的智商，这让我感到自己不重要并且贬低自己的能力。",
+    "topic": "人际关系",
+    "core_demands": "我想摆脱这种怀疑和渺小感。我希望对自己的能力更有信心，并与周围的人建立更好的关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不重要/我的能力没有价值",
+        "我的价值取决于是否比他人更聪明"
+      ],
+      "special_situations": [
+        {
+          "event": "同事因智力获得认可",
+          "conditional_assumptions": "如果别人因为智力被认可而我没有被认可，就说明我不够聪明、我不重要",
+          "compensatory_strategies": "寻求他人认可并进行自我提升",
+          "automatic_thoughts": "我的天才没有意义；我不重要",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在社交场合或与他人讨论智识话题",
+          "conditional_assumptions": "如果我不能比别人表现得更聪明，就说明我不属于这里",
+          "compensatory_strategies": "在这些情境中变得防御，减少分享真实感受",
+          "automatic_thoughts": "他们在评判我；我不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "会议中我的想法未被采纳",
+          "conditional_assumptions": "如果我的建议被拒绝，就证明我的贡献没有价值",
+          "compensatory_strategies": "进一步寻求外部认可并自我怀疑",
+          "automatic_thoughts": "我的贡献一文不值；我可能没有我想的那样聪明",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到有许多人与我有相似的智力水平",
+          "conditional_assumptions": "如果我的智力不是独一无二的，那它就没有意义",
+          "compensatory_strategies": "进行自我提升以试图突出自己",
+          "automatic_thoughts": "成为天才没有意义；我的能力不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见并确认自身价值（尤其是智力与贡献）",
+        "fear": "害怕被否认、在比较中失败与被评判，从而体验到自我无价值感",
+        "defense_goal": [
+          "通过寻求外部认可、保持防御与减少自我暴露来降低被拒绝带来的伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "渺小且不被重视的贡献者",
+          "object_representation": "挑剔、评判的他者（同事/群体）",
+          "linking_affect": "羞耻、焦虑、无价值感"
+        },
+        {
+          "self_representation": "不被接纳的局外人",
+          "object_representation": "拒绝者/否定者（会议中的他人）",
+          "linking_affect": "无助、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人不采纳她的观点或她感到被评判时",
+          "interpretation": "认为对方在看不起自己、对自己进行评判（将过往的比较与否定经历投射到当前关系）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎、防御，强调自身合理性，避免过多自我暴露；若被追问，使用条件句与假设陈述保护边界。"
+        },
+        {
+          "trigger_condition": "当谈及自我价值与“是否比他人更聪明”等主题时",
+          "interpretation": "将情绪体验转化为对智力排名与效率的理性讨论，以避免触及羞耻与脆弱",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用分析性语气，聚焦事实与逻辑，减少情感词汇与自我感受的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "觉得“即使是天才也没有意义”，当看到他人被认可或在智识讨论中更易激发此感受"
+          ],
+          "outcomes": [
+            "自尊下降与自我贬低",
+            "自信心受损",
+            "人际关系紧张",
+            "工作动力与生产力降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在社交中感觉他人正在评判自己",
+            "会议中把对自身价值的疑虑归因于别人的否定与看不起"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "因担心被评判而不向朋友分享真实感受",
+            "在社交场合变得防御、格外谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在会议或社交讨论情境下，梅丽莎通常会因他人不采纳自己的观点而自我怀疑，并感到自己的贡献没有价值，进而影响关系与工作动力。",
+          "unique_outcome": "在之前的一个项目中，她的工作与贡献曾被良好地接纳与认可，她当时感到胜任与被欣赏。",
+          "reason": "不同支持/情境：该项目中她的输出获得积极反馈与认可，使其更容易体验到能力与价值。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有被认可的项目经验，能回忆到胜任与被欣赏的状态",
+          "主动寻求支持与自我提升的尝试",
+          "能觉察并命名负性思维模式（如否定积极、心理过滤）",
+          "具备一定的社交支持（有朋友可谈）"
+        ],
+        "negative_force": [
+          "过度比较并依赖外部认可来确定自我价值",
+          "否定积极证据（Disqualifying the Positive）",
+          "心理过滤（只关注他人的否定）",
+          "过度概括与跳到最坏结论的倾向",
+          "害怕被评判导致防御与减少自我表达"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在会议与社交讨论中出现强烈自我怀疑与防御性反应（自我贬低、减少表达）",
+          "antecedent": [
+            "看到同事因智力被认可",
+            "他人不采纳自己的观点",
+            "在社交场合或讨论智识话题"
+          ],
+          "core_reason": "将自我价值过度建立在“是否比他人更聪明、是否被认可”之上，并对自身能力进行负性比较与过滤",
+          "function": "逃避被评判与被拒绝的负性体验，维持心理安全感",
+          "consequence": "人际关系紧张，自尊受损，自信下降，工作动力与生产力降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1970
+}

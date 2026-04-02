@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "赵美嘉",
+      "gender": "女",
+      "occupation": "医生",
+      "educational_background": "医学学位",
+      "marital_status": "已婚，有2个孩子",
+      "family_status": "与配偶及两个孩子同住；配偶支持",
+      "social_status": "与队友关系因自我怀疑和回避而紧张",
+      "medical_history": "无显著躯体疾病；无既往心理问题治疗史；未经历类似问题",
+      "language_features": "表达清晰、逻辑连贯、合作度较高；倾向放大错误、否定积极经验并进行自我苛责"
+    },
+    "main_problem": "我一直觉得自己应该退出打棒球，因为我不是队里最好的球员，这导致了自卑和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自卑感和想要退出棒球影响了我的整体幸福感和对这项运动的享受，因此寻求咨询；我只是想重新享受打棒球。",
+    "growth_experiences": [
+      "几个月前在一场比赛中出现失误；此后开始反复聚焦于自己的短板并不断自我怀疑，逐渐回避球队训练和比赛以避免再次犯错与感到羞耻，与队友关系因此变得紧张，兴趣与身体活动减少。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（只有成为最好的才有价值）",
+        "犯错就意味着我不适合打棒球",
+        "我的价值取决于他人的评价与表现比较"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前在比赛中出现一次关键失误",
+          "conditional_assumptions": "如果我在比赛里犯错，就证明我不行、将来也会一直失败",
+          "compensatory_strategies": "减少参加训练与比赛以避免再次出错和被评价",
+          "automatic_thoughts": "我不适合这项运动，我会一直让大家失望",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要参加球队训练或即将上场比赛",
+          "conditional_assumptions": "如果我不是队里最好的，就不该继续留在队里，否则只会拖累他人",
+          "compensatory_strategies": "用“应该退出”来为回避正当化；寻求队友的认可以缓解焦虑",
+          "automatic_thoughts": "大家没有我会更好，我上场只会搞砸",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与队友比较时意识到自己不是队里最好的",
+          "conditional_assumptions": "必须成为最优秀才算合格；达不到顶尖等于失败",
+          "compensatory_strategies": "通过自我施压与自我批评驱动改进，或干脆退出以避免失败",
+          "automatic_thoughts": "我不是最好的，所以我应该退出",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回忆曾经的良好表现或愉快经历",
+          "conditional_assumptions": "只有零失误、完美表现才算数；偶尔发挥好并不代表我真的有能力",
+          "compensatory_strategies": "忽视和贬低积极证据，只盯着错误以“提醒自己努力”",
+          "automatic_thoughts": "那些发挥好的时刻不重要，和我的失误相比不算什么",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被团队接纳与认可，能放心享受运动并被视为有价值的成员",
+        "fear": "害怕犯错后被否定、让他人失望并被排斥",
+        "defense_goal": [
+          "通过回避训练与比赛来降低被评判与再次失败的风险",
+          "以自我贬低与“应该退出”的理由来获得控制感、减轻焦虑",
+          "通过寻求外部认可来暂时安抚自我价值的不安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、会拖累他人的队员",
+          "object_representation": "挑剔且容易失望的他人（队友/观众）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        },
+        {
+          "self_representation": "需要通过表现证明价值的孩子",
+          "object_representation": "以成绩与排名评判人的权威他者",
+          "linking_affect": "自卑、惧怕被拒绝"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师鼓励其设定小目标或尝试重返训练时",
+          "interpretation": "将咨询师的鼓励体验为推动自己暴露在失败与评判中",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性、规则化的语气强调“不是最好的就该退出”的理由，列举风险与不足，回避探讨情绪体验。"
+        },
+        {
+          "trigger_condition": "当谈及比赛失误或被邀请回想正向表现时",
+          "interpretation": "倾向把比赛中的负面结果归咎于自己，认为自己让他人失望",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "快速使用自责与否定语句（如“都是我不好”），语气低落，减少对积极证据的接纳。"
+        },
+        {
+          "trigger_condition": "当被邀请练习自我慈悲或接纳积极反馈时",
+          "interpretation": "感到这些正向信息“不真实”或与自我图式不符",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以平淡、疏离的语气承认事实层面的正向信息，但立即切换到错误与风险的分析，避免情感连结。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "不是队里最好的就想退出，把价值与名次绑定，忽视了对运动本身的热爱",
+            "回避训练与比赛导致与队友疏离，原有的乐趣感逐渐消退"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑加重",
+            "体验与价值感下降，难以从日常活动中获得意义",
+            "回避行为维持问题循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该退出”的僵化规则评判自己",
+            "将“必须是最好的才有资格”的他人标准内化为自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责并夸大错误影响，担心让他人失望",
+            "在讨论行动计划时犹豫、过度担忧失败而限制尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "过往存在良好发挥与愉快体验的客观证据（承认曾有打得好的时候）",
+          "具备行动意愿，愿意尝试小目标与认知重构",
+          "拥有配偶与朋友的潜在支持网络（虽尚未求助）"
+        ],
+        "negative_force": [
+          "完美主义式的价值条件：只有最优秀才算有价值",
+          "自我怀疑与自责倾向明显，依赖外部验证来确认自我价值",
+          "心理过滤与否定积极，过度关注错误，易产生灾难化与过度概括",
+          "回避训练与比赛以短期减轻焦虑，长期维持问题并恶化人际关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避球队训练与比赛",
+          "antecedent": [
+            "想到要参加训练或上场比赛",
+            "回忆起几个月前的那次比赛失误",
+            "与队友比较时意识到自己不是最好的"
+          ],
+          "core_reason": "将“不是最好的=失败=不配留队”的内摄规则与对再次犯错的灾难化担忧结合，害怕让他人失望",
+          "function": "逃避被评判与失败带来的焦虑与羞耻，获得短期情绪缓解",
+          "consequence": "与队友关系紧张、对运动的乐趣下降、身体活动减少"
+        },
+        {
+          "behavior": "消极自我言语与自我贬低（如“我不适合这项运动”“大家没有我会更好”）",
+          "antecedent": [
+            "回想错误或在比赛中出现小失误",
+            "被问及正向表现或回忆愉快时刻",
+            "与更优秀队友进行比较"
+          ],
+          "core_reason": "内化的完美主义标准与对外部认可的高度依赖，形成非黑即白与过度概括的认知框架",
+          "function": "通过自我批评来获得控制感与“避免再次犯错”的错觉，同时为退出提供合理化理由",
+          "consequence": "焦虑与自卑加重，回避行为增加，进一步削弱自我效能与参与度"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1488
+}

@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "李薇娅",
+      "gender": "女",
+      "occupation": "房地产经纪人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "8个兄弟姐妹中最小",
+      "social_status": "有一小圈可以依靠的亲密朋友，但因对快餐的羞耻与内疚而减少与朋友在快餐场景的聚会，关系受到影响",
+      "medical_history": "无重大躯体疾病；无以往心理治疗或精神科就诊经历",
+      "language_features": "表达清晰、配合度高，能觉察并反思自身思维模式；情绪态度较为中性，但言语中反复出现羞耻与自责主题"
+    },
+    "main_problem": "因为社会对快餐“不健康、低档”的刻板印象，我对自己喜欢吃麦当劳感到羞耻。",
+    "topic": "情绪管理",
+    "core_demands": "持续的内疚与羞耻影响到整体身心健康，希望通过咨询缓解这些情绪，并改变对快餐的负性想法。",
+    "growth_experiences": [
+      "高中时期，学校里一些受欢迎的同学会嘲笑吃快餐的人；来访者将吃快餐与“被看不起、低档”联系起来，羞耻感由此在青少年时期形成并延续至今。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不自律、低人一等的人",
+        "我的价值取决于他人对我饮食选择的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友提出去快餐店聚餐",
+          "conditional_assumptions": "如果我和他们一起吃快餐，别人会觉得我没品位、缺乏自律，是“低档”的人",
+          "compensatory_strategies": "找借口回避聚餐，或仅点“看起来更健康”的食物以避免被评价",
+          "automatic_thoughts": "他们会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "独自在麦当劳点餐和用餐",
+          "conditional_assumptions": "如果我享受快餐，就说明我是个坏人/无自律的人",
+          "compensatory_strategies": "制定更严苛的饮食规则、限制进食，事后自责以“弥补”",
+          "automatic_thoughts": "我真糟糕，这说明我是坏人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到社交媒体或现实生活中对快餐的负面评价，或想起高中被嘲笑的场景",
+          "conditional_assumptions": "如果他们嘲笑吃快餐的人，那么所有吃快餐的人都会被轻视",
+          "compensatory_strategies": "回避相关讨论与内容，隐藏自己对快餐的喜好",
+          "automatic_thoughts": "吃快餐的人都被看不起，我也一样",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "工作中想到自己最近吃了快餐并担心形象受损",
+          "conditional_assumptions": "如果同事或客户知道我吃快餐，会否定我的专业性和价值",
+          "compensatory_strategies": "在饮食上更用力控制并掩饰，工作中过度努力以“补偿”",
+          "automatic_thoughts": "我的专业形象会因此受影响",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同伴与社会接纳、以真实喜好被尊重",
+        "fear": "害怕被羞辱、被看不起，进而被排斥",
+        "defense_goal": [
+          "通过回避和自我苛责来降低被他人轻视的风险",
+          "维持与他人安全距离以避免再次被羞辱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评价为“低档/不自律”的羞耻者",
+          "object_representation": "带有评判与轻蔑的他者/群体",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请讨论或展示自己的真实饮食偏好，或感觉到他人可能的评价时",
+          "interpretation": "他人会像过去的同学那样嘲笑或轻视我",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和验证的语气反映感受，使用探询式问题澄清证据（如“你从哪些线索推断他们会轻视你？”），降低评判色彩，给予情感支持。"
+        },
+        {
+          "trigger_condition": "当羞耻与内疚情绪上涌、难以承受时",
+          "interpretation": "表达这些感受会让我更丢脸，不如压下去",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语速放缓、邀请命名情绪与身体感受，提供容许与接纳的框架（“我们可以安全地一起看看这些感受”），鼓励在可承受范围内暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在“社会对快餐的评价”与“自我真实偏好”之间挣扎，难以为自己的选择负责",
+            "以僵化规则取代个人选择（必须完全健康、不能吃‘低档’食物）"
+          ],
+          "outcomes": [
+            "持续的内疚与羞耻",
+            "自我价值受损与自我否定",
+            "对社交与饮食场景的回避"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因羞耻回避与朋友去快餐店聚餐",
+            "不愿向亲密朋友透露真实困扰，担心被轻视"
+          ],
+          "outcomes": [
+            "人际关系紧张与疏离",
+            "支持资源未被激活，主观孤立感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“快餐=不健康=低档”的社会评价内化为自我评价标准",
+            "用“应该完全吃得健康、不能吃快餐”来要求自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "在没有明确证据时假定他人会轻视自己吃快餐的选择",
+            "社交场景中预设他人不认可，从而回避参与"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对饮食与形象进行严格自我约束与苛责",
+            "担心一旦“失控”就会被否定，因而避免表达真实偏好"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有一小圈可依靠的朋友作为潜在支持资源",
+          "有改变思维方式与减少羞耻的明确动机与意愿",
+          "能够识别并命名自身的认知偏差（如过度概括、心理过滤）",
+          "愿意尝试以更平衡、适度的方式安排饮食"
+        ],
+        "negative_force": [
+          "内化社会刻板印象，将饮食选择与自我价值直接挂钩",
+          "读心术与灾难化思维，预设被他人轻视与拒绝",
+          "非黑即白的自我要求与僵化饮食规则",
+          "回避社交情境，导致孤立并强化羞耻循环",
+          "反复自责与内疚，削弱专注力与自尊"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与朋友在快餐场景的聚餐与社交",
+          "antecedent": [
+            "朋友提出去快餐店聚餐",
+            "想到他人可能的负面评价"
+          ],
+          "core_reason": "将高中时期被同伴嘲笑的经历与社会刻板印象内化，担心被看不起",
+          "function": "逃避被评判、短时减少羞耻与焦虑",
+          "consequence": "人际关系紧张与疏离，支持资源难以获得"
+        },
+        {
+          "behavior": "进食快餐后的过度内疚与自责",
+          "antecedent": [
+            "在快餐店点餐/进食",
+            "看到或想到他人对快餐的负面评价"
+          ],
+          "core_reason": "非黑即白与过度概括的认知，将一次饮食选择等同于“我是坏/低等的人”",
+          "function": "通过自我惩罚维持对形象与自律的表面控制",
+          "consequence": "自尊受损、情绪困扰增加，难以形成可持续的均衡饮食"
+        },
+        {
+          "behavior": "工作中因担忧“低档印象”而注意力分散",
+          "antecedent": [
+            "回想最近吃了快餐",
+            "同事或客户谈及健康、品味等话题"
+          ],
+          "core_reason": "读心术与灾难化，预期他人会否定其专业性",
+          "function": "通过担忧进行“预防性”警惕以避免被否定",
+          "consequence": "专注力下降与绩效受损，进一步加重自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1206
+}

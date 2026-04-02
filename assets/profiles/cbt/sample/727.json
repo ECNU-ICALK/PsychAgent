@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "张思薇",
+      "gender": "女",
+      "occupation": "农民",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚，育有两个孩子",
+      "family_status": "与配偶和两个孩子同住，养有两只宠物狗",
+      "social_status": "有配偶与孩子的支持，但因压力与自责带来关系紧张；难以与家人直接谈论失败感受",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗",
+      "language_features": "表达清晰、逻辑性较强，能自我反思，配合度高；语速未提及"
+    },
+    "main_problem": "因今年农作物歉收出现强烈的自责与不胜任感，逐渐发展为绝望与无价值感，明显影响工作动力与自尊，并伴随睡眠受扰与日常功能受损。",
+    "topic": "职业发展",
+    "core_demands": "希望通过咨询处理并改变因作物失败引发的负性思维模式（如灾难化、自责与无能感）。",
+    "growth_experiences": [
+      "此前曾经历与农作物相关的挑战，但未出现如此强烈的自责与绝望；无既往心理治疗经历；无重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/我是一个很糟糕的农民",
+        "我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "本年度农作物明显歉收",
+          "conditional_assumptions": "如果作物收成不好，就说明我能力不足、是失败者",
+          "compensatory_strategies": "不断向其他农民请教并尝试更改种植技术以证明自己有能力",
+          "automatic_thoughts": "我是一个很糟糕的农民",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在田间看到贫瘠的地块或失败的视觉提醒",
+          "conditional_assumptions": "如果我看到失败的结果，就代表我整体不行、没有希望",
+          "compensatory_strategies": "产生回避与退出的念头（如“我应该放弃”），减少与家人谈论失败以避免被评价",
+          "automatic_thoughts": "我应该就此退出",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "农事中的小挫折或操作上的细微出错",
+          "conditional_assumptions": "如果出现任何小问题，必然是我做得不够好，说明我永远也掌握不好",
+          "compensatory_strategies": "立即将原因归咎于自己并尝试改变技术流程以弥补",
+          "automatic_thoughts": "我永远都做不好/学不会",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任且有价值的人（在工作与家庭中被接纳与尊重）",
+        "fear": "害怕被视为无能、失败者，从而被否定或失去价值",
+        "defense_goal": [
+          "通过自责与将失败全盘归己来维持对局势的掌控感、降低面对不可控因素的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、失败的自我",
+          "object_representation": "批判或高期待的他者（家人/同行）",
+          "linking_affect": "羞愧、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当农事出现挫折、或在咨询中谈及失败与能力问题时",
+          "interpretation": "倾向于认为他人会把自己视为无能并感到失望（移情性担心被评判）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用温和、支持性的语气先共情其不安与负担；再引导其区分可控与不可控因素、扩大证据视野，避免指责性语言，并肯定其努力。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "作物失败后自我价值感显著下降，产生“我是失败者”的整体性标签",
+            "感到绝望与无价值感，对工作与生活的意义感动摇"
+          ],
+          "outcomes": [
+            "动力下降与自尊受损",
+            "睡眠受扰、焦虑与悲伤加重",
+            "家庭关系紧张、与家人沟通受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该放弃”等僵化的自我要求与规则化语言",
+            "将产量结果直接等同于个人价值与能力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责并将问题全盘归因于自身",
+            "难以与家人直接讨论失败与情绪，担心被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有配偶与孩子的支持，具备一定的社会支持基础",
+          "在困境中主动寻求他人建议并尝试调整技术",
+          "能进行认知反思并愿意练习新的思维与行为策略"
+        ],
+        "negative_force": [
+          "自我归因倾向明显（个人化），忽视外部因素如天气",
+          "灾难化与过度概括的思维加剧绝望感与无价值感",
+          "自我价值过度依附于产量与结果，导致非黑即白评估",
+          "与家人沟通困难、关系紧张，进一步减少支持的可用性",
+          "睡眠受扰与压力增高，降低恢复与问题解决能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在农事挫折时出现强烈自责与“我应该放弃”等负性自动思维，伴随焦虑与悲伤的情绪反应及生理不适（如胸闷、呼吸不畅）",
+          "antecedent": [
+            "本年度作物失败",
+            "在田间看到贫瘠地块的视觉提醒",
+            "农事中的小挫折或操作出错",
+            "想到作物或置身农场环境"
+          ],
+          "core_reason": "将失败单一归因于自身能力不足并忽略外部因素（如天气），以全或无的方式评估自我价值，试图通过自责与内部化控制感来缓解对不可控因素的焦虑",
+          "function": "维持主观的控制感并逃避面对不可控因素与他人评判（避免不确定性与羞愧）",
+          "consequence": "工作动力下降、职业绩效受损，自尊受损与绝望加重；睡眠与日常生活受影响，家庭关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 727
+}

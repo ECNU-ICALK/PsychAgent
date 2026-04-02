@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "艺术家",
+      "educational_background": "美术学位",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有几位密友可交谈，但因隐瞒重要爱好导致友谊受影响",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；无类似心理问题史",
+      "language_features": "情绪紧张但态度积极；表达清晰、条理性好；能自我反思并配合探索与练习"
+    },
+    "main_problem": "我对自己玩黏土模型的热情感到不安，害怕他人的评判，这导致我隐藏这一爱好并为之感到羞愧。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这种不安全感和被评判的恐惧正在影响我的心理健康，阻碍我自由享受爱好，我希望能自在地表达并拥抱我的爱好。",
+    "growth_experiences": [
+      "约一年前，一位朋友对我制作黏土模型的爱好发表了带有贬损意味的评论，由此我开始感到羞耻与不安全；当时压力水平较高，并逐渐形成“他人会把我的爱好视为幼稚或极客”的看法。随后我越来越倾向于隐藏这一爱好，不再公开参与，甚至在私下进行时也伴随负罪感与羞耻。此后，只要关于黏土模型的念头出现，我就会避免讨论或参与，长期影响情绪与人际。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "他人会因我的爱好而轻视我",
+        "表达真实的自我会带来评判与羞辱"
+      ],
+      "special_situations": [
+        {
+          "event": "一年前朋友对我的黏土模型爱好发表贬损性评论",
+          "conditional_assumptions": "如果有人贬低我的爱好，就说明它确实幼稚，别人也都会那样看我",
+          "compensatory_strategies": "隐藏爱好、减少与他人分享作品，避免相关话题",
+          "automatic_thoughts": "他们会笑话我，觉得我是“极客”或幼稚",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每当想到与他人分享黏土模型爱好时",
+          "conditional_assumptions": "如果我谈起或展示这个爱好，别人就会认为我奇怪、幼稚或在浪费时间",
+          "compensatory_strategies": "只在私下进行，主动回避讨论与社交场合的自我暴露",
+          "automatic_thoughts": "他们会觉得我很怪、会嘲笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友相处时意识到自己在隐瞒这部分生活",
+          "conditional_assumptions": "如果我不隐藏，关系会受损，他们会看不起我",
+          "compensatory_strategies": "继续隐瞒并回避，把注意力转移到其他话题",
+          "automatic_thoughts": "如果他们知道真实的我，就不会接纳我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作中感到创造力与热情被不安全感所削弱",
+          "conditional_assumptions": "如果我的爱好不被认可，那么我的创作热情也不值得公开",
+          "compensatory_strategies": "维持基本工作表现但压低表达热情与相关创作",
+          "automatic_thoughts": "我的创意不值得被看到，还是别公开了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见并以真实的兴趣被接纳（自由表达自我与创造力）",
+        "fear": "害怕被嘲笑、被评判、关系受损而被拒斥",
+        "defense_goal": [
+          "通过隐藏与回避来自我保护，降低被外界否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嘲笑与贬低的自我",
+          "object_representation": "挑剔、轻视与评判的他人",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈及“公开分享爱好”或被邀请进行现实检验练习时",
+          "interpretation": "将公开与自我暴露等同于被评判与羞辱（移情：将过往被贬低的经历投向当前互动）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气谨慎、降低自我暴露；轻描淡写真实感受，转向更安全话题（如工作），表达“再考虑一下”，避免被迫；咨询师需以低唤起、共情与正常化的方式邀请其逐步细化体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因害怕他人评判而隐藏爱好，自我表达受限",
+            "在社交情境中避免展示真实兴趣"
+          ],
+          "outcomes": [
+            "羞耻与不安全感加重",
+            "创造力与激情下降",
+            "对社交分享的回避"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系因隐瞒而紧张",
+            "拥有密友但未分享真实不安与重要爱好"
+          ],
+          "outcomes": [
+            "情感疏离与被理解感降低",
+            "社会支持的可用性下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "预设他人会把自己的爱好视为幼稚或极客",
+            "在未获得证据前先行判断他人会嘲笑或轻视自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有几位密友可作为潜在支持",
+          "工作表现稳定，具备持续的艺术创作能力",
+          "主动寻求咨询，具备改变动机与自我反思能力"
+        ],
+        "negative_force": [
+          "对他人评判的高度敏感与恐惧（读心术、过度概括）",
+          "羞耻感强烈，倾向隐瞒与回避自我暴露",
+          "自我价值过度依赖外部评价（外部验证）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在他人面前回避讨论或展示黏土模型爱好，并伴随羞耻与不安全感",
+          "antecedent": [
+            "想到与他人分享爱好或展示作品",
+            "与朋友相处被问及兴趣爱好",
+            "回忆起朋友的贬损评论"
+          ],
+          "core_reason": "朋友的贬损言论强化了对负面评价的恐惧与灾难化预期，形成读心术与过度概括的认知偏差，因而以回避来自我保护",
+          "function": "逃避不受欢迎的刺激（嘲笑、批评、被轻视），降低焦虑与羞耻的即时体验",
+          "consequence": "与朋友关系紧张、情感疏离；创造力与激情下降；在私下进行时伴随内疚与羞耻，进一步固化回避循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1251
+}

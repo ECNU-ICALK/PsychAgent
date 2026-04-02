@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "方珊",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "与朋友和家人疏远；有支持性的朋友但尚未谈及与学校相关的问题",
+      "medical_history": "此前有学业压力与应激的类似感受但未如此严重；未接受过心理治疗或咨询；无显著躯体疾病",
+      "language_features": "表达清晰、配合度高，能具体描述触发情境与感受；自我评价明显消极，常用“绝望、无望”等词；语速与逻辑细节未提及"
+    },
+    "main_problem": "我讨厌学校，并形成了“我永远无法毕业”的信念，这导致我感到绝望和无望。",
+    "topic": "学业压力",
+    "core_demands": "持续的消极想法与学业表现下滑让我意识到需要寻求咨询，以处理这些影响我未来的问题。我想找到应对这些想法的方法，并让自己对学校和自我感觉好一些。",
+    "growth_experiences": [
+      "在高中开始时，来访者对学校产生强烈厌恶，并形成“我永远无法毕业”的信念。压力来源于跟上学业进度与同伴表现的期待，近来愈加强烈。由于压力与“无论如何也不够好”的担忧，来访者的成绩下降，常常逃课，日常在上学前或需要学习、备考时出现强烈负性自动化思维（绝望、无望）。她逐渐与朋友和家人疏远，虽有支持性朋友却未向其谈及学校相关问题；曾尝试提升成绩与出勤，但因动力不足与压力感而失败。此前未接受任何心理治疗或咨询，且无重大躯体病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我一无是处/没有价值",
+        "我注定不会成功（永远无法毕业）"
+      ],
+      "special_situations": [
+        {
+          "event": "大考或重要考试来临之前",
+          "conditional_assumptions": "如果我这次考不好，就证明我不够好，未来会被毁掉",
+          "compensatory_strategies": "逃课、回避备考与学习任务，以减少当下的焦虑",
+          "automatic_thoughts": "这次考不好我就完了，我永远也毕业不了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "收到低于预期的成绩单",
+          "conditional_assumptions": "如果成绩比预期低，就说明我是失败者，将来也会一直失败",
+          "compensatory_strategies": "短暂地尝试提高出勤与学习来“证明自己”，但很快因压力与无力感而放弃",
+          "automatic_thoughts": "我就是失败者，我永远赶不上别人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到朋友或同学表现很好、取得好成绩",
+          "conditional_assumptions": "如果我不如同伴，就意味着我不行、不值得，被他们超越就是我的失败",
+          "compensatory_strategies": "减少社交、与朋友和家人疏远，以避免比较和被评价",
+          "automatic_thoughts": "我不如他们，我永远比不上他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每天在上学前或需要学习、做作业时",
+          "conditional_assumptions": "如果我无法保持动力去学习，就说明我注定无法毕业",
+          "compensatory_strategies": "拖延或逃课，暂时逃离学习情境以缓解焦虑",
+          "automatic_thoughts": "我做不到，我注定不能毕业",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力，顺利毕业并拥有有价值的未来",
+        "fear": "害怕失败与被评判、无法自立，担心未来会很糟糕",
+        "defense_goal": [
+          "通过回避学校相关情境来降低焦虑",
+          "与他人保持距离以避免比较与羞耻",
+          "通过努力提高成绩与出勤来暂时重建自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自己",
+          "object_representation": "他人（同伴、家人、老师）是苛刻的评判者与比较者",
+          "linking_affect": "羞耻、恐惧、绝望"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将学业失败视为“人生被毁”，认为自己“永远无法毕业、无法做值得的事”",
+            "对未来充满绝望与无望"
+          ],
+          "outcomes": [
+            "动力显著下降",
+            "逃课与学习回避",
+            "自我评价低下与绝望感增强"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友和家人疏远",
+            "虽有支持性朋友但不愿谈及学校相关问题"
+          ],
+          "outcomes": [
+            "社会支持未被利用",
+            "负性情绪维持与加重",
+            "主观孤独感增加"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友可供倾诉（虽暂未开启）",
+          "曾通过努力通过课程，具备一定成功经验的证据基础",
+          "已主动寻求咨询与帮助，态度积极、愿意尝试策略",
+          "能识别并表达自己的触发情境与消极思维，具备自我观察能力"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白等消极认知模式突出",
+          "核心信念“我不够好”“我不会成功”强化自我否定",
+          "逃课与学习回避维持问题循环",
+          "与朋友和家人疏远，外部支持未被使用",
+          "同伴比较与被评价的压力加剧自卑与无望"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "逃课与学习回避",
+          "antecedent": [
+            "上学前或临近学习/备考的时刻",
+            "收到低于预期的成绩后",
+            "看到同伴取得好成绩或表现优异"
+          ],
+          "core_reason": "在“我不够好/注定失败”的核心信念驱动下产生灾难化与预测未来的认知，强烈焦虑促使其通过回避来减少被评判与失败感",
+          "function": "逃避被认为的失败与负面评价，短期缓解焦虑与羞耻",
+          "consequence": "学业表现进一步下滑、对“无法毕业”的担忧加剧、绝望感增强、日常作息被打乱"
+        },
+        {
+          "behavior": "社交退缩与孤立",
+          "antecedent": [
+            "看到朋友或同学表现优秀时",
+            "想到他人对自己学业的期望或评价时",
+            "被问及与学校相关的情况时"
+          ],
+          "core_reason": "与他人比较触发自卑与无价值感，害怕暴露失败并被评判",
+          "function": "避免比较与负面评价，维持脆弱的自尊与安全感",
+          "consequence": "社会支持未被利用，主观孤独感增加，负性情绪维持并加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1175
+}

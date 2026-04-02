@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "林珊",
+      "gender": "女性",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "与父母和狗同住",
+      "social_status": "家庭支持性较强，与狗关系亲密，但不与家人讨论自卑感；人际关系未见明显影响",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、配合度较好，语气消极，常出现自我否定与灾难化表述；对改变持怀疑态度"
+    },
+    "main_problem": "我非常想拥有一辆保时捷，但我总认为自己永远无法实现，因为我永远赚不到足够的钱。这种信念导致我感到绝望和不够好。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我注意到这些自卑与绝望的感受正在影响我的日常动力和学业表现。",
+    "growth_experiences": [
+      "几年前开始更加关注豪车与财富，入读大学后看到同龄人追求高薪职业，激发与他人的比较，逐步形成“我永远赚不到好收入”的信念；每当看到豪车或听到成功人士的故事，就会触发自卑与绝望感。",
+      "毕业后申请营销岗位未果，自我评价迅速下滑，认为自己是失败者；因经济原因无法探望住得较远的家人，在社交媒体看到朋友的家庭聚会时，强烈体验到孤独与无用感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远赚不到好收入",
+        "我是不够好的/是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在街上或网络上看到豪华汽车（如保时捷）",
+          "conditional_assumptions": "如果我不能赚到足够的钱拥有豪车，就说明我失败、没有价值",
+          "compensatory_strategies": "回避相关信息、否定自身努力、停留在床上不行动以减少挫败感",
+          "automatic_thoughts": "我永远买不起保时捷；我不可能赚到好收入",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到或看到成功人士/同龄人追求高薪职业的消息",
+          "conditional_assumptions": "如果我不如他们成功，就证明我不行、不够好",
+          "compensatory_strategies": "不与家人讨论感受、减少求职与学习行动以避免再次感到失败",
+          "automatic_thoughts": "我不如别人，永远不会成功",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在社交媒体上看到朋友发布的家庭聚会",
+          "conditional_assumptions": "如果我负担不起探望家人，就说明我是不孝/无用的人",
+          "compensatory_strategies": "躺在床上、减少与他人互动，回避引发羞耻的场景",
+          "automatic_thoughts": "我永远负担不起去看家人；我是个失败者",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "持续求职未果（申请营销岗位但未拿到录用）",
+          "conditional_assumptions": "如果现在找不到工作，就意味着以后也不会有改变",
+          "compensatory_strategies": "降低行动频率、质疑任何计划的有效性、保持怀疑以避免失望",
+          "automatic_thoughts": "我可能永远找不到工作；这不会有任何改变",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力者、实现财富与成功，并与家人保持亲近与联结",
+        "fear": "害怕被视为失败或无用，担心努力仍无法改变现实、被他人（包括家人与同龄人）评判",
+        "defense_goal": [
+          "通过降低期望与回避行动来减少失败带来的羞耻与痛苦",
+          "保持疏离与不表露感受以避免外界评价带来的伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤独、无能的失败者",
+          "object_representation": "成功人士/同龄人是优越、遥不可及并可能带来比较与评判的他者",
+          "linking_affect": "羞耻、自卑、无力"
+        },
+        {
+          "self_representation": "想亲近却无力的离群者",
+          "object_representation": "家人是温暖但经济上难以接近的客体（距离与费用成为阻隔）",
+          "linking_affect": "内疚、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出积极重构与制定具体、可执行的小目标（如更新简历、投递岗位）时",
+          "interpretation": "来访者倾向于认为这些方法对自己不会奏效，感到“我注定失败”，从而否定改变可能性",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "使用消极、怀疑的语气，重复“这可能没用/不太现实”，以“也许吧，但……”的句式进行推拒；口头上勉强同意尝试，但不表达情感投入与期待。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感到绝望与不够好，认为努力无意义",
+            "日常动力下降与学业表现受影响",
+            "求职受挫后对未来失去信心"
+          ],
+          "outcomes": [
+            "动力不足与拖延",
+            "消极自我评价与自我怀疑",
+            "对生活目标与价值产生空虚感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "看到朋友家庭聚会时体验到强烈孤独与无用感",
+            "不与家人讨论内在感受，保持情感疏离"
+          ],
+          "outcomes": [
+            "情感隔离倾向加重",
+            "睡眠被打乱与情绪低落",
+            "减少行动与社会参与"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与自我否定（“我是失败者”）",
+            "对改变持强烈怀疑态度，难以允许自己尝试",
+            "过度关注自身不足，忽略已有能力与资源（学位、营销技能）"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向家人表达真实感受，将联结需求转为自我消耗",
+            "在负面情绪来袭时躺在床上不行动",
+            "放弃寻求支持，转而忍耐与自我折磨"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有学位与一定的营销技能，存在可发展的职业基础",
+          "家庭总体支持性较强，与宠物关系亲密，具备情感慰藉资源"
+        ],
+        "negative_force": [
+          "灾难化预测与过度概括，习惯性跳到最差结论",
+          "个人化与比较倾向导致持续自卑",
+          "动力不足与回避行为（长时间躺床、减少行动）",
+          "不与家人讨论感受，情感疏离加剧孤独",
+          "睡眠紊乱，进一步削弱精力与执行力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在负面情绪来袭时长时间躺在床上、减少求职与学习行动",
+          "antecedent": [
+            "看到豪车或成功人士信息",
+            "在社交媒体看到朋友的家庭聚会",
+            "醒来即体验到强烈的内疚与无价值感",
+            "持续求职未果的反馈"
+          ],
+          "core_reason": "对未来的灾难化预测与“我是失败者”的核心信念导致无力感与回避倾向",
+          "function": "逃避失败与焦虑、暂时减轻羞耻与压力",
+          "consequence": "学业与求职进展受阻，动力进一步下降，维持消极信念的恶性循环"
+        },
+        {
+          "behavior": "睡眠模式紊乱（入睡困难/睡眠被打乱）",
+          "antecedent": [
+            "夜间反复思考自卑与无望的内容",
+            "白天持续的负面比较与担忧"
+          ],
+          "core_reason": "持续的焦虑与消极自动化思维干扰生理节律",
+          "function": "试图通过睡眠/休息逃避压力但实际强化了疲惫与低效",
+          "consequence": "白天精力不足，行动力下降，加重学业与求职受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 643
+}

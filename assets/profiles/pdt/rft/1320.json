@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "林丹妮",
+      "gender": "女",
+      "occupation": "高中应届毕业生（即将入读大学）",
+      "educational_background": "高中毕业；即将就读肯塔基大学",
+      "marital_status": "未婚",
+      "family_status": "有两个兄弟，家庭支持性良好",
+      "social_status": "人际关系良好，与兄弟和朋友关系融洽，但他们并不知晓其对挂科的强烈恐惧",
+      "medical_history": "无重大躯体疾病；无类似心理问题史；未接受过心理治疗或咨询",
+      "language_features": "语气中性，略显紧张；表达清晰、有逻辑；能反思自身认知与证据，配合度较高"
+    },
+    "main_problem": "我有一个持续的想法，认为我可能会在大学的第一学期不及格，这让我非常焦虑和压力。",
+    "topic": "学业压力",
+    "core_demands": "失败的恐惧一直占据我的想法并影响身心健康，因此在入学前希望通过咨询缓解焦虑。",
+    "growth_experiences": [
+      "高中阶段学业表现良好，整体功能稳定；进入大学前的过渡期中，自我要求较高、对新环境的适应充满不确定感，逐渐影响自信心。",
+      "从高中末期开始，最初对大学感到兴奋；随着大学开学日期临近，因担心无法应对新的学业要求与环境而产生对“第一学期会不及格”的强烈恐惧；该恐惧每日反复出现，在独处、入睡或进食时尤为明显；虽有支持性家人和朋友，但未向他们透露这份强烈的失败恐惧，焦虑逐步影响睡眠与饮食。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有能力，难以应对大学的学业要求",
+        "如果我失败，就会让家人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "临近大学开学日期、独处时反复思考未来的大学学习与环境",
+          "conditional_assumptions": "如果我不能适应新的环境与学业要求，就会挂科并让家人失望",
+          "compensatory_strategies": "尝试自我安慰、关注积极结果；提前查找大学资源与制定学习计划",
+          "automatic_thoughts": "我大概会第一学期不及格",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "对比高中与大学难度，认为大学更难且与以往经验不同",
+          "conditional_assumptions": "大学比高中更难，我过去的成绩不能说明未来能成功；若无法完全掌控，就可能失败",
+          "compensatory_strategies": "忽视正面证据（高中成绩良好），只关注潜在困难与威胁",
+          "automatic_thoughts": "我可能应付不了大学课程",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在尝试睡觉或吃饭时，关于挂科的担忧反复出现并加剧",
+          "conditional_assumptions": "如果我无法在日常生活中缓解焦虑，说明我不能应对大学压力，最终会失败",
+          "compensatory_strategies": "避免与他人分享具体恐惧，独自反复担心以试图维持控制感",
+          "automatic_thoughts": "我可能会崩溃、第一学期很可能会挂科",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到家人的期待与支持时",
+          "conditional_assumptions": "如果我第一学期失败，就会让家人失望，证明我不行",
+          "compensatory_strategies": "将恐惧保留在心里，不向家人或朋友深入透露以避免被评价",
+          "automatic_thoughts": "我会让他们失望",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在新环境中保持学业成功并继续获得家人的认可与支持",
+        "fear": "害怕失败被视为不够能力，从而让家人失望、失去被认可的感觉",
+        "defense_goal": [
+          "通过控制与自我克制保护自尊，避免暴露脆弱；不向家人朋友透露具体恐惧以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易自我怀疑的努力学生",
+          "object_representation": "支持但可能因失败而失望的家人/他人",
+          "linking_affect": "焦虑、压力、害怕被失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到“可能挂科”或被询问是否与家人分享这类担忧时",
+          "interpretation": "来访者倾向认为表达恐惧会让他人失望、显得自己不够能力（移情：将家人的期待投射到咨询关系中）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气温和、支持性；先正常化其担忧，再以开放式问题温和探索其未表达的情绪与需求；避免评价，允许停顿，邀请其具体化感受与想象的后果。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在独处、思考未来时担忧加剧",
+            "未向家人和朋友透露对失败的强烈恐惧，选择独自承受",
+            "担心无法融入大学环境与学业要求"
+          ],
+          "outcomes": [
+            "持续性焦虑",
+            "睡眠与饮食受影响",
+            "自信心下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "会谈开场即表达“有点紧张、不确定会发生什么”",
+            "对自身能力反复怀疑与负向评估",
+            "未与支持系统分享具体恐惧，担心让家人失望而谨慎表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的家庭与朋友关系",
+          "高中阶段学业表现良好，具备勤奋与学习能力",
+          "愿意在入学前主动寻求咨询与规划学习资源（如辅导中心、学习小组、制定学习计划）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式强化失败焦虑",
+          "对自身能力的持续怀疑导致自信下降",
+          "在重要关系中隐忍恐惧、未及时获得外界支持，孤独负担增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对即将开始的大学学习的过度担忧与失败恐惧（焦虑）",
+          "antecedent": [
+            "临近大学开学日期",
+            "独处并思考未来",
+            "想到大学比高中更难",
+            "在尝试睡觉或吃饭时"
+          ],
+          "core_reason": "对新环境与学业要求的高度不确定感以及对让家人失望的担忧，形成对失败的灾难化预期",
+          "function": "通过不断担忧和预演最坏结果来寻求控制感与提前准备，同时回避与他人讨论以避免被评价",
+          "consequence": "焦虑加剧、睡眠与饮食受影响、自信心下降，未充分利用社会支持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1320
+}

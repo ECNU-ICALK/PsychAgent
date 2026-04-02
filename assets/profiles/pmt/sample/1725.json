@@ -1,0 +1,216 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "硕士学位",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与朋友和家人保持疏离；有少数朋友可交谈，但未分享其绝望感的程度",
+      "medical_history": "无重大躯体疾病；未经历类似心理问题；未接受过心理治疗",
+      "language_features": "态度中性；表达清晰、逻辑较为连贯；能配合咨询探索"
+    },
+    "main_problem": "对未来工作前景感到绝望与无望；在完成硕士学位后未能进入理想领域工作，担心自己会永远失业。该困扰自毕业后开始，几乎每天出现，在看到同龄人职业成功时加剧。",
+    "topic": "职业发展",
+    "core_demands": "“我想找到一种不那么被困住的感觉。”",
+    "growth_experiences": [
+      "完成硕士学位后进入求职阶段，长期遭遇拒绝与未能进入理想领域的挫败；在看到同龄人职业成功时感到自己“落后”，自尊受影响；逐渐疏离朋友与家人，动机下降并出现饮食习惯变化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的未来没有希望"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同龄人在职业上取得成功",
+          "conditional_assumptions": "如果我没有在理想领域拿到工作，就说明我不如他们，是失败者",
+          "compensatory_strategies": "疏离朋友与家人以避免比较和被评价；加大求职与社交网络尝试",
+          "automatic_thoughts": "我落后了；我不如他们；我可能永远找不到合适的工作",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "完成硕士后在求职中屡遭拒绝",
+          "conditional_assumptions": "如果多次被拒绝，就证明我没有能力，未来注定失败",
+          "compensatory_strategies": "反复打磨简历与面试技巧，但同时不断反刍负面结果",
+          "automatic_thoughts": "这些拒绝意味着我会永远失业",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "获得几次面试但未拿到录用",
+          "conditional_assumptions": "只有拿到录用才算成功；面试顺利不算正面证据",
+          "compensatory_strategies": "否定正面表现，忽视自身进步",
+          "automatic_thoughts": "面试表现好也没用，这说明我仍不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当前未在理想领域工作",
+          "conditional_assumptions": "如果不在理想领域工作，就等于失败，一生都将困在不喜欢的工作中",
+          "compensatory_strategies": "以极端化的方式预设最坏结局，反复担忧以寻求掌控",
+          "automatic_thoughts": "我会一直做我讨厌的工作，没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望从事有意义且与自身专长匹配的工作，获得认可与自我价值感",
+        "fear": "害怕失败与被拒绝，害怕被同龄人比较后显得不如人，最终过上无意义的一生",
+        "defense_goal": [
+          "通过疏离与否定正面证据来降低羞耻与焦虑感",
+          "以灾难化预期来避免不确定性带来的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后、失败的求职者（不够好的自我）",
+          "object_representation": "成功且带有隐性评判的他人/雇主",
+          "linking_affect": "羞耻、绝望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人指出求职中的正面迹象（如获得面试）时",
+          "interpretation": "来访者认为这些并不算数，只有拿到录用才有价值（移情：将正面反馈视为无效）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用否定性语言，强调“没意义/不算”，语气平淡偏消极，弱化正面证据。"
+        },
+        {
+          "trigger_condition": "当看到同龄人分享职业成功或听闻他人被录用时",
+          "interpretation": "来访者以极端方式比较，将自己视为“完全落后”，他人视为“完全成功”（移情：分裂式认知）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "使用绝对化词语（如“永远、一直、完全”），强化自我否定，避免讨论中间可能性。"
+        },
+        {
+          "trigger_condition": "在经历多次求职拒绝后独处或反思未来时",
+          "interpretation": "将外界的拒绝内化为对自我价值的全面否定（移情：把他人的判断吸收为自己的声音）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以自我批评的口吻陈述“我不够好”，减少情感表达而更多陈述结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "担心“一辈子做讨厌的工作、永远找不到匹配的岗位”",
+            "认为多年学习被浪费"
+          ],
+          "outcomes": [
+            "持续的绝望与无望感",
+            "动机下降与行为退缩",
+            "对未来的灾难化预期"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自卑而疏离朋友和家人",
+            "减少与支持系统的联系"
+          ],
+          "outcomes": [
+            "社交支持减少",
+            "情绪低落加剧",
+            "自我价值感进一步下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触",
+          "manifestations": [
+            "当被指出积极进展（如有面试）时，转而强调负面结论“没意义”",
+            "谈及未来时快速跳到最坏情形，避免细化现实可能性"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理",
+          "manifestations": [
+            "以“只有拿到录用才算成功”作为绝对标准",
+            "将雇主与他人的期望当作衡量自我价值的唯一依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自我否定与贬低成就",
+            "因自觉“不配”而减少与朋友家人的接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在求职过程中，来访者通常会因绝望与自我否定而忽视正面迹象，并对未来做灾难化预测，导致动力下降。",
+          "unique_outcome": "在几次面试中，来访者表现良好，并从过程中获得对雇主需求的理解与面试经验。与以往不同的是，这些时刻显示出可被雇主认可的潜力。",
+          "reason": "不同做法：持续进行求职与面试练习；不同理解：逐步了解雇主的关注点与岗位要求，从而提升了面试技能。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有硕士学位与相关技能",
+          "在面试中表现有所提升，逐步理解雇主需求",
+          "持续进行求职与网络拓展，未完全放弃",
+          "具备一定的社会支持（有几位朋友可交谈）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白等认知偏差显著",
+          "过度与同龄人比较，强化自卑与羞耻",
+          "否定正面证据，过滤积极信息",
+          "自我价值过度绑定职业成就，导致动机与情绪受挫",
+          "社交回避使支持减少、情绪恶化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对未来就业的灾难化预期与非黑即白思维",
+          "antecedent": [
+            "完成硕士后求职屡遭拒绝",
+            "看到同龄人职业成功",
+            "当前未在理想领域工作"
+          ],
+          "core_reason": "将自我价值与是否在理想领域获得录用高度捆绑，内摄外界“必须成功”的标准",
+          "function": "试图通过预设最坏结果来降低不确定性带来的焦虑与潜在失望（逃避情绪）",
+          "consequence": "持续的绝望与焦虑，减少求职动力与生活投入"
+        },
+        {
+          "behavior": "社交回避与疏离朋友家人",
+          "antecedent": [
+            "感到自卑与不如人",
+            "经历求职拒绝后",
+            "看到他人成功的消息"
+          ],
+          "core_reason": "羞耻感与比较导致对被评价的恐惧",
+          "function": "逃避他人的评价与比较，以短期缓解焦虑",
+          "consequence": "社交支持减少、孤独感增强，情绪进一步恶化"
+        },
+        {
+          "behavior": "活动减少与动机低下（包括饮食习惯改变）",
+          "antecedent": [
+            "长期的绝望感与压力高企",
+            "每日担忧未来"
+          ],
+          "core_reason": "认为努力无意义，陷入无望与自我否定",
+          "function": "避免投入可能失败的任务，短期降低压力与能量消耗",
+          "consequence": "生活质量下降，身心状态受损，求职效率降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1725
+}

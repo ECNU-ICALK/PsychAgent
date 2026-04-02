@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "何斌",
+      "gender": "男",
+      "occupation": "会计与音乐人",
+      "educational_background": "会计学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，养一条名为Spot的锦鲤",
+      "social_status": "与乐手同伴关系因自我怀疑与不够好的感受而紧张；有少数音乐人朋友但未向其倾诉具体不安",
+      "medical_history": "无重大躯体疾病；此前未出现类似心理问题；既往未接受心理咨询或治疗",
+      "language_features": "表达清晰，态度中性；能配合探索与练习；语速与逻辑细节未提及"
+    },
+    "main_problem": "我觉得人们不把我的音乐当回事，因为我同时做会计，这导致自我怀疑和不够好的感受。",
+    "topic": "职业发展",
+    "core_demands": "这些自我怀疑影响了我的音乐练习和整体心理健康，希望通过咨询应对与缓解。",
+    "growth_experiences": [
+      "开始同时以音乐与会计为职业时，逐渐出现被他人认为更重视会计而非音乐的评论，引发自我怀疑与不足感，并在与质疑自己投入的人互动后反复加重。",
+      "搬到新城市后，面对亲友或他人对其艺术表现（如跳舞）的赞美，常主观认定对方只是出于礼貌或并不了解真正的“好”，因此难以接收正向反馈，逐步降低投入与动力。",
+      "在家庭聚会时，姑妈称赞其表现（跳舞），其礼貌回应但内心否定赞美，认为“她只是因为是我的亲人才这么说”，加深对自我价值的怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不值得被认真对待"
+      ],
+      "special_situations": [
+        {
+          "event": "他人评论或暗示因有白天的会计工作而优先考虑会计，质疑其对音乐的投入",
+          "conditional_assumptions": "如果我有一份非音乐的日间工作，别人就会认为我不认真对待音乐，进而否定我的专业性",
+          "compensatory_strategies": "尝试寻求亲友的认可与肯定，或向他人解释自己的投入程度",
+          "automatic_thoughts": "他们觉得我不是专业的音乐人，我不被认真对待",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与质疑其音乐投入的人互动之后",
+          "conditional_assumptions": "如果别人质疑我的投入，就说明我不够好、不够专业",
+          "compensatory_strategies": "减少与同行交流，回避谈及不安或弱化表达",
+          "automatic_thoughts": "如果我不够好，那就没必要再努力了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "家庭聚会上被亲人夸赞其表现（如跳舞）",
+          "conditional_assumptions": "没有客观证明（如奖项或权威评价）的赞美都不算数",
+          "compensatory_strategies": "否定或忽视积极反馈，将赞美解释为客套",
+          "automatic_thoughts": "她只是出于礼貌在夸我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到电视或网络上更优秀的表演者并进行比较",
+          "conditional_assumptions": "如果达不到顶尖水平，就说明我不够好、不值得投入",
+          "compensatory_strategies": "降低练习动力，回避表演机会",
+          "automatic_thoughts": "我比不上他们，所以我是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认真对待、被认可为专业的艺术从业者（音乐人/表演者）",
+        "fear": "害怕被评价为不专业或不够好，担心被否定与羞辱",
+        "defense_goal": [
+          "通过寻求外部认可来缓解不被认真对待的焦虑",
+          "保持不表达不安、与同伴疏离以避免进一步被质疑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "我是不够好的、容易被质疑的艺术从业者",
+          "object_representation": "他人是评判者/质疑者，夸奖不真诚",
+          "linking_affect": "羞耻、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人赞美其表现（如家庭聚会时的夸奖）",
+          "interpretation": "将赞美理解为出于礼貌的虚假评价，认为对方并不真正认可自己",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以轻描淡写或自嘲的方式回应，强调“只是客气”，避免进一步探讨自身感受。"
+        },
+        {
+          "trigger_condition": "当被问及其是否优先考虑会计工作、是否真正投入音乐时",
+          "interpretation": "将他人的问题视为对自我价值的否定与审判",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观标准（奖项、资历）进行解释，避免表达脆弱与不安，语气理性克制。"
+        },
+        {
+          "trigger_condition": "与同行或朋友谈及其不安与自我怀疑时",
+          "interpretation": "担心被认为不自信或被视为“钓赞”，因此把情绪与人际隔离",
+          "defense_mechanism": "sring",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "避免深入表达内在体验，仅作表面回应或转移话题，保持礼貌与距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居但未向音乐朋友表达具体不安",
+            "与同伴的关系因自我怀疑而紧张，减少情感交流"
+          ],
+          "outcomes": [
+            "情感支持系统未被激活",
+            "自我价值感下降与焦虑增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当怀疑自己不够好时会产生“那为什么还要努力”的念头",
+            "否定赞美导致对投入的意义感削弱"
+          ],
+          "outcomes": [
+            "音乐练习动机降低",
+            "睡眠与日常活力受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心被看作不自信或“钓赞”，因此不向朋友表达真实不安",
+            "过度关注他人可能如何评价自己的职业选择"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“有日间工作就不专业”“没有奖项就不算好”的外部标准当成自我评价准则",
+            "把他人评论当作决定自身价值的依据"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制对他人的表达或向外寻求支持。",
+          "manifestations": [
+            "面对不安与自我怀疑时不寻求支持，转而压抑情绪",
+            "减少练习与表演机会而非与他人沟通需求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在被质疑其对音乐的投入或自我比较时，来访者通常会陷入自我怀疑并降低练习与表演的主动性。",
+          "unique_outcome": "在学校的演出场合，来访者没有像往常那样回避，接受了邀请进行表演，并获得持续的邀请与正向反馈。",
+          "reason": "不同支持与情境：正式的演出邀请与现场观众的反馈为其提供了外部证据与支持，使其当下更容易行动并暂时减少自我怀疑。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在一定的外部认可（学校邀请演出）",
+          "拥有音乐朋友的潜在支持网络",
+          "愿意尝试现实检验与行为实验，具备理性反思的能力"
+        ],
+        "negative_force": [
+          "过度依赖外部验证以决定自我价值",
+          "读心术、灾难化、否定积极等认知扭曲显著",
+          "难以接收赞美与正向证据，易自我否定",
+          "回避表达不安，导致支持系统未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因自我怀疑降低音乐练习与表演的主动性",
+          "antecedent": [
+            "被他人质疑其对音乐的投入",
+            "看到更优秀的表演者后进行不利比较",
+            "收到赞美但主观认为不真实"
+          ],
+          "core_reason": "对自身专业性与价值的灾难化、读心术与否定积极的认知模式导致自我评价下降",
+          "function": "逃避可能的负面评价与失败感，维持短期安全感",
+          "consequence": "音乐练习受损、表演机会减少、与同伴关系紧张、睡眠与动力下降"
+        },
+        {
+          "behavior": "否定赞美与自我贬低的言语与思维习惯",
+          "antecedent": [
+            "在家庭聚会或社交场合被亲友夸奖",
+            "被询问其职业投入与优先性"
+          ],
+          "core_reason": "将外界礼貌性赞美视为不真实，内摄严格标准并以全或无方式评价自我",
+          "function": "通过先行否定降低被揭露“不够好”的焦虑与羞耻感",
+          "consequence": "难以巩固正向自我概念与动机，进一步削弱练习与人际互动质量"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1968
+}

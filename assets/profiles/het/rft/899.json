@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "何婷",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "丈夫为美国陆军士兵；父亲是传道士；首次怀孕",
+      "social_status": "未提及",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、配合度良好、语气中性、逻辑思维清楚"
+    },
+    "main_problem": "我对怀孕和成为父母产生了自我不足感，因为我认为几乎任何人都可以选择怀孕，这削弱了我对自己的自豪感。",
+    "topic": "情绪管理",
+    "core_demands": "这些自卑感影响了我在孕期的喜悦，我希望在孩子出生前有效地处理与应对这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不足的",
+        "我的成就不值得被肯定"
+      ],
+      "special_situations": [
+        {
+          "event": "与其他准父母互动或在网上阅读怀孕相关内容",
+          "conditional_assumptions": "如果我的经历不比别人更特别或更优秀，就不值得自豪，说明我不够好",
+          "compensatory_strategies": "试图理性化并强迫自己关注积极面，但习惯性进行社会比较",
+          "automatic_thoughts": "几乎任何人都能怀孕，这不值得自豪；我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "独自完成婴儿房布置后回顾自己的表现",
+          "conditional_assumptions": "只有做到独一无二或非常卓越的事才值得被肯定",
+          "compensatory_strategies": "主动贬低自身成就以避免显得自夸或与他人相比显得普通",
+          "automatic_thoughts": "任何人都能做到，这没什么特别",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到或听到他人更积极、准备更充分的怀孕经历",
+          "conditional_assumptions": "如果我不如别人准备充分或看起来不够幸福，就说明我不称职",
+          "compensatory_strategies": "更多地关注他人的优势与经验，依赖外部标准衡量自我",
+          "automatic_thoughts": "他们更幸福、更准备充分；我不够好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "因怀孕相关情绪挣扎导致与丈夫关系紧张",
+          "conditional_assumptions": "如果我出现消极情绪或表现不佳，就等于失败并会让伴侣失望",
+          "compensatory_strategies": "减少向家人表达真实不足感，倾向自责以维持关系稳定",
+          "automatic_thoughts": "我让他失望了；我已经在当母亲这件事上失败了",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为母亲被认可、体验到独特而有价值的自我与成就感",
+        "fear": "害怕被比较后显得普通或不称职，从而让伴侣失望、被他人评判",
+        "defense_goal": [
+          "保持自我批评与谨慎表达，以减少被否定或羞耻的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的准母亲",
+          "object_representation": "更幸福、更准备充分、带有评判目光的他人（含其他准父母）",
+          "linking_affect": "羞耻、自卑、焦虑"
+        },
+        {
+          "self_representation": "难以让伴侣满意的自责者",
+          "object_representation": "难以理解自己感受的伴侣",
+          "linking_affect": "失望、紧张、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请分享孕期的自豪或被问及个人成就时",
+          "interpretation": "若表达自豪会被视为自夸或显得普通，从而被别人否定",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用谨慎、低调的语气，强调外在标准（如“应该”“必须”），淡化自我感受与成就。"
+        },
+        {
+          "trigger_condition": "当丈夫对其孕期情绪表示不理解或关系出现紧张时",
+          "interpretation": "把关系问题归结为自己不称职，认为自己正在失败（移情为自责）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我贬低与过度承担责任的表述，语气柔和并主动道歉。"
+        },
+        {
+          "trigger_condition": "在网上阅读他人的怀孕经验、进行大量社会比较时",
+          "interpretation": "以理性化的方式证明“怀孕并不特别”，从而避免面对自卑与羞耻感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用分析式、概括性语言（如“统计上几乎人人都能怀孕”），减少情绪表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为怀孕“几乎任何人都能做到”，因此不具独特性与意义，难以为自己感到自豪"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "孕期喜悦被削弱",
+            "自我照料减少",
+            "伴侣关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有父亲与丈夫的支持，但难以就怀孕相关的自卑感向家人敞开"
+          ],
+          "outcomes": [
+            "情感表达受限与压抑",
+            "自我比较与否定加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以外部标准衡量自我是否“够特别/够优秀”",
+            "用“应该/必须更特别才值得自豪”的隐性规则评判自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续进行社会比较并自我否定",
+            "难以承认自己的成就与价值"
+          ]
+        },
+        {
+          "mode": "压抑",
+          "definition": "个体将情感体验压制，难以在当下表达和接触自己的真实感受。",
+          "manifestations": [
+            "面对家人时难以表达关于怀孕的不足感与羞耻感",
+            "倾向理性化以替代情绪表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在进行怀孕相关准备或与他人比较时，来访者通常会迅速产生自我不足并贬低自身成就，难以持续体验喜悦。",
+          "unique_outcome": "某次来访者独自完成了婴儿房的布置，并在当下短暂地感到自豪与满足。",
+          "reason": "不同做法：独立完成具体任务；不同情境：成果可见且当下未与他人比较，从而出现短暂的积极体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭（父亲与丈夫）",
+          "愿意寻求专业帮助并尝试新的认知策略",
+          "能够完成具体的孕期准备任务（如独自布置婴儿房）"
+        ],
+        "negative_force": [
+          "过度社会比较与外部验证倾向",
+          "否定正向体验与成就",
+          "自我价值依赖他人标准，易自责",
+          "难以向家人就不足感敞开表达"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度比较并否定积极成果（完成任务后自我贬低）",
+          "antecedent": [
+            "与其他准父母互动",
+            "阅读怀孕相关的线上内容",
+            "完成孕期任务后进行自我评估"
+          ],
+          "core_reason": "自我价值感高度依赖外部标准与比较，认知上认为“凡是大众能做的就不值得被肯定”。",
+          "function": "通过自我贬低避免被他人评判，维持表面的安全感与控制感",
+          "consequence": "孕期喜悦下降、与丈夫关系紧张、成就感与自我照料受损"
+        },
+        {
+          "behavior": "自我照料与日常安排下降",
+          "antecedent": [
+            "在触发比较后产生自我不足与失败感",
+            "看到或听到他人更积极的怀孕经历"
+          ],
+          "core_reason": "情绪化推理与自我批评导致动机降低，进而回避积极行动",
+          "function": "逃避不适情绪与羞耻感",
+          "consequence": "日常功能与孕期自我照料受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 899
+}

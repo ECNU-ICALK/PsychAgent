@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "潘琪",
+      "gender": "女",
+      "occupation": "同时兼任三份工作",
+      "educational_background": "高中毕业",
+      "marital_status": "已向交往三年的女友求婚（未婚）",
+      "family_status": "独居",
+      "social_status": "有密友可交流，但尚未向他们谈及自己的自卑与焦虑；工作压力与筹备求婚影响了与伴侣的关系",
+      "medical_history": "无重要躯体疾病；既往未经历类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性良好、配合度高；语气中性，能进行自我反思；自我批判明显，常使用“应该”句式；在练琴场景中呈现灾难化、过度概括与非黑即白的认知倾向"
+    },
+    "main_problem": "在音乐能力（尤其是吉他）方面感到不足与自卑，练习新歌曲时反复受挫，甚至认为自己永远不会成为好的音乐人。",
+    "topic": "个人成长",
+    "core_demands": "因意识到这种自卑感正在影响自尊与整体福祉而寻求咨询，希望改善这种状态。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我永远不会成为好的音乐人"
+      ],
+      "special_situations": [
+        {
+          "event": "这周练习时未能顺利弹完两首新歌",
+          "conditional_assumptions": "如果我连两首歌都练不成，就说明我注定不会成为好的音乐人",
+          "compensatory_strategies": "观看教程并每天练习；在挫败时有时强行继续，有时干脆停止练习以避免更多失败感",
+          "automatic_thoughts": "我永远不会成为好的音乐人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "练习新歌曲时出现错误与卡顿",
+          "conditional_assumptions": "我现在就应该能弹好；如果还在犯错，就说明我很糟糕",
+          "compensatory_strategies": "加压自我、批评自己以促使进步；若压力过大则回避或中断练习",
+          "automatic_thoughts": "为什么还不会？我现在应该更好了",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在三份工作与筹备求婚的高压力下开始练习",
+          "conditional_assumptions": "如果我不能同时把工作、关系与练琴都处理好，就说明我总体不行",
+          "compensatory_strategies": "试图硬撑继续练习以证明自己；当压力过大时选择回避或停止",
+          "automatic_thoughts": "这太多了，我什么都做不好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "朋友肯定她的演奏，但她回想起学习新歌的挫败更为强烈",
+          "conditional_assumptions": "有任何困难都意味着总体不行；好的表现不具代表性",
+          "compensatory_strategies": "忽视或淡化正向反馈，只盯住错误与失败片段",
+          "automatic_thoughts": "这些好表现不算数，真正说明问题的是我的失败",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的音乐人，并在重要他人面前保持胜任与价值感",
+        "fear": "害怕失败与被否定，担心让自己与伴侣失望",
+        "defense_goal": [
+          "通过自我批评与回避降低失败暴露，维持安全感与自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的初学者",
+          "object_representation": "苛刻的评判者（内在化的高标准与批评声音）",
+          "linking_affect": "焦虑、羞耻、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调她的成功片段或正向反馈、邀请其承认能力时",
+          "interpretation": "来访者潜意识认为这些正向证据与其“我不够好”的内在叙事相矛盾，感觉被要求“粉饰现实”",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以温和、支持性语气反映其感受；不与其叙事对抗，先共情其焦虑，再以小步探询的方式邀请其具体化正向证据。避免直接纠正，使用开放式问题与具体化引导。"
+        },
+        {
+          "trigger_condition": "当咨询师提出结构化练习与记录计划、要求其检验信念时",
+          "interpretation": "感到被要求证明自己，若做不到会被评判；于是以外在压力（工作与筹备求婚）为由推迟或淡化任务",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "保持中性与不评判的语气，承认其客观负荷；协助将任务切分为更小的可达成单元，采用共同拟定与选择的措辞，强调可选项与节奏感，减少被控制感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "同时承担三份工作与筹备求婚，主观体验为“被责任压得喘不过气”",
+            "练琴时被“应该更好”的规则绑架，感到自我选择空间缩小"
+          ],
+          "outcomes": [
+            "焦虑与不堪负荷感",
+            "练习中的回避与中断",
+            "自尊受损",
+            "睡眠与饮食受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "语言中频繁出现“我应该更好”“现在就该掌握”的自我要求",
+            "将无误、迅速掌握作为评价自我价值的标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制向外表达行为或需求的冲动，转而对自己做，将原本对外的能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "练习受挫时停止练习，把批评与压力转向自我（自责与羞耻）",
+            "不向朋友表达不足与焦虑，选择独自承受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当尝试学习新的吉他曲目时，来访者通常会感到焦虑并产生自我否定（如“我永远不会成为好音乐人”），有时因此中断练习。",
+          "unique_outcome": "在演奏熟悉的歌曲时，体验到演奏流畅与自信；朋友称赞她的表现并表示喜欢听她弹奏。",
+          "reason": "线索：曲目难度与熟练度匹配、已有掌握经验；获得他人积极反馈与支持，降低了焦虑并增强了胜任感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对音乐有热情与投入",
+          "具备练习与自我提升的行动（观看教程、每日练习）",
+          "朋友的正向反馈与潜在支持网络",
+          "愿意尝试新方法与自我观察（对行为实验持开放态度）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与非黑即白的认知模式",
+          "高负荷的外在压力（三份工作与筹备求婚）",
+          "在挫败时倾向回避或中断练习",
+          "睡眠与饮食受影响导致精力与韧性下降",
+          "对困扰不向亲友表达，获得支持的渠道未被充分利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学习新曲目时出现焦虑并中断练习",
+          "antecedent": [
+            "开始练习前的预期焦虑",
+            "练习新歌曲时出现错误或卡顿",
+            "外在高压力（同时兼任三份工作与筹备求婚）"
+          ],
+          "core_reason": "将一次或一周的失败灾难化、过度概括为“永远不行”，并在资源负荷较大时注意力与耐受度下降。",
+          "function": "逃避失败感与焦虑等不适，短期降低压力（负强化）。",
+          "consequence": "练习时间与质量下降，自信心与自尊受损，进一步强化“我不行”的信念，影响睡眠与饮食，并波及工作与关系。"
+        },
+        {
+          "behavior": "自我批判的内在言语（如“我应该更好”“我太糟糕了”）",
+          "antecedent": [
+            "练习中出现错误",
+            "在预设时间内未掌握新曲目"
+          ],
+          "core_reason": "内摄的高标准与价值条件：将表现等同于自我价值，使用“应该”规则维持控制感。",
+          "function": "试图以自我施压促进表现（表面目的），但实质维持负性图式与焦虑水平。",
+          "consequence": "焦虑上升与动机下降，增加回避与中断练习的概率，并使整体福祉受损。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 90
+}

@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "陈雯",
+      "gender": "女性",
+      "occupation": "家庭主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与丈夫同住，育有两名高中男孩",
+      "social_status": "与丈夫相处尚可，但与朋友关系疏远、缺乏真实连接",
+      "medical_history": "无明显躯体疾病史，既往无类似心理问题及治疗经历",
+      "language_features": "态度中性，表达连贯，能进行自我反思"
+    },
+    "main_problem": "我感到迷失，远离真正的自我，正为身份与自我探索而挣扎。",
+    "topic": "自我探索",
+    "core_demands": "我意识到这些迷失感影响了我的关系和整体幸福感，寻求咨询以获得指导和支持，希望搞清我是谁并克服迷失感，重建与自我的连接。",
+    "growth_experiences": [
+      "在孩子进入高中后（他们对母亲的日常需求显著减少），陈雯感到角色发生转变：一方面继续承受育儿压力，另一方面在个人生活中感到未被满足；随着孩子更独立，她在生活中出现了“多出来的空白”，不知如何填充由此带来的失落与空虚。这一阶段，她逐渐感到与自我和周围环境脱节，尤其是在社交场合中感到疏离；兴趣爱好（如阅读与绘画）也逐渐缺乏以往的乐趣。这些经历使她日常生活受影响，常常感到自己“迷失”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有持续高效、被需要或符合高标准，我才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "丈夫在家中表现得异常安静",
+          "conditional_assumptions": "如果他沉默不语，就说明他在烦恼，可能与我有关或在不满我",
+          "compensatory_strategies": "过度关注对方的情绪、揣测其想法而非直接沟通",
+          "automatic_thoughts": "他心里有事，可能对我不满意",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "孩子进入高中后对母亲的需求减少，日常事务空档增多",
+          "conditional_assumptions": "如果我没有一直忙碌或被需要，就说明我没有价值",
+          "compensatory_strategies": "用“应该/必须”式高标准要求自己，试图通过更努力来证明价值",
+          "automatic_thoughts": "我应该做得更多，不能这么空",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "当被提及自身的积极面或成就时",
+          "conditional_assumptions": "如果不是非常突出或完美，就不值得肯定",
+          "compensatory_strategies": "强调和放大不足，主动忽视或贬低积极证据",
+          "automatic_thoughts": "这不算什么，不值得被看重",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友在社交场合互动时感到疏离",
+          "conditional_assumptions": "如果我与他们连不上，就说明我不够有趣或他们不会理解我",
+          "compensatory_strategies": "减少深入交流，维持表面交往以避免被拒绝",
+          "automatic_thoughts": "她们不会真正理解我，我们已经没有共同话题了",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解、被需要，并以真实自我被接纳",
+        "fear": "害怕暴露真实感受后被误解、被忽视或给他人增添负担，进而失去关系中的和谐与安全感",
+        "defense_goal": [
+          "通过压抑自我需求与情感来维持关系的表面和谐",
+          "避免深层自我暴露以降低被拒绝或被误解的风险",
+          "以自我批评和提高标准来维持控制感与价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "迷失且不够好的自我、需要不断证明价值的照料者",
+          "object_representation": "不易理解自己内心的他人（如丈夫、朋友）",
+          "linking_affect": "孤独、焦虑、失落"
+        },
+        {
+          "self_representation": "被需求减少后感到空心的母亲",
+          "object_representation": "逐渐独立且不再依赖自己的孩子",
+          "linking_affect": "空虚、被边缘化的伤感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议与丈夫进行更深层的情感沟通或表达脆弱时",
+          "interpretation": "认为表达情绪会让对方感觉被负担或无法理解自己（移情：担心被拒绝）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "语气克制、淡化情绪色彩，转而讨论日常细节或实际事务，避免直接描述内在感受。"
+        },
+        {
+          "trigger_condition": "当被指出或询问自身的积极面与成就时",
+          "interpretation": "倾向认为这些积极之处“不算数”，担心显露自我会被质疑",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "用否定句式或大量“但是”弱化他人肯定，语气平缓并迅速转移话题。"
+        },
+        {
+          "trigger_condition": "在咨询中遇到开放式探索“我是谁”的问题",
+          "interpretation": "感觉不确定与焦虑，担心一旦深入就失控或显得脆弱",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用分析性语言、概括化表述，避免使用情绪词，减少第一人称情感体验的细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在孩子更独立后感到角色空缺与迷失，难以定位“我是谁”",
+            "对曾经喜欢的阅读、绘画失去兴趣与灵感",
+            "在日常与社交中感到与自我和环境脱节"
+          ],
+          "outcomes": [
+            "空虚感与动力下降",
+            "自我怀疑与自我批评增多",
+            "难以投入曾经享受的活动，生活满意度降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系疏离、缺乏真实连接",
+            "与丈夫虽相处和谐但缺乏深层情感沟通",
+            "孩子需求减少导致被需要感下降"
+          ],
+          "outcomes": [
+            "情感上的孤立感与不被理解感",
+            "回避深层沟通以维持表面和谐",
+            "进一步强化自我疏离与迷失"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁以“我应该做得更多”为自我要求，以上外在标准评判自身价值",
+            "面对空档时间时用“必须更高效”来约束自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心向丈夫表达感受会“增加负担”而收缩自我表达",
+            "在咨询中对自我表达保持克制与谨慎"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "当丈夫异常安静时，推测其内心“在烦恼或不满我”而非先核实事实",
+            "在社交中预设他人不会理解自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "丈夫在日常生活层面具备一定支持性",
+          "曾有稳定的兴趣爱好（阅读、绘画），具备恢复兴趣的潜力",
+          "能进行自我反思（尝试写日记与自我检视）",
+          "愿意寻求专业帮助并尝试新的沟通方式",
+          "身心健康状况总体良好（无明显躯体疾病）"
+        ],
+        "negative_force": [
+          "自我否定与“应该”式高标准，导致长期内在压力",
+          "在不确定情境下的读心与跳结论，放大负面解读",
+          "忽视与贬低积极证据，强化负性自我图式",
+          "回避深层情感沟通以维持表面和谐，进一步加剧孤独与疏离",
+          "角色转变后对意义与价值感的缺失，导致动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在丈夫异常安静时进行读心推测并产生焦虑",
+          "antecedent": [
+            "丈夫在家中比平时更沉默",
+            "缺乏对实际状况的沟通与核实"
+          ],
+          "core_reason": "对不确定性的敏感与对被忽视/被不满的担忧，试图通过推测获得确定感",
+          "function": "获得控制感、降低不确定性带来的焦虑（短期）",
+          "consequence": "焦虑上升、减少直接沟通，亲密感下降"
+        },
+        {
+          "behavior": "以“应该/必须”式自我批评与高标准要求自己",
+          "antecedent": [
+            "在孩子更独立后出现的时间空档与角色空缺",
+            "感到迷失或低效率的时刻"
+          ],
+          "core_reason": "将自我价值与效率、被需要程度捆绑，试图通过高标准证明自身价值",
+          "function": "自我约束、避免内疚感与无价值感（短期）",
+          "consequence": "持续的自我否定与压力，兴趣降低，生活满意度下降"
+        },
+        {
+          "behavior": "回避与丈夫/朋友进行深层情感沟通",
+          "antecedent": [
+            "出现表达内心感受与需求的机会",
+            "担心被误解或成为负担的念头出现"
+          ],
+          "core_reason": "害怕被拒绝/不被理解，通过回避减少暴露脆弱的风险",
+          "function": "逃避潜在的负面评价与关系冲突（短期）",
+          "consequence": "关系亲密度降低、孤独感与疏离感加重，迷失感持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1971
+}

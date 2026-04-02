@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "王丹妮",
+      "gender": "女",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与家人联系有限",
+      "social_status": "社交支持系统薄弱，社交互动有限，难以向他人谈及个人困扰",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗",
+      "language_features": "表达清晰，能反思自身模式，配合度高，语气平稳，态度积极"
+    },
+    "main_problem": "我在除工作外的生活各方面都很缺乏生产力，这导致我缺乏动力和自我价值感，问题已影响到维持关系与自我照料，近几个月更加明显。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为我意识到个人领域的动力与生产力不足正在影响我的整体幸福与健康。",
+    "growth_experiences": [
+      "长期以来在工作之外的个人生活领域感到缺乏生产力与动力（自述“从记事起就如此”，近几个月显著加重），在与他人比较时更为明显，导致维持关系和自我照料困难。",
+      "在工作压力大的时期，曾反复出现低动力与低自我价值感的经历；尽管工作表现尚可，但个人生活的任务更难以推进。",
+      "社会与家庭支持薄弱：独居，与家人联系有限，整体社交支持系统较弱，难以与他人讨论个人困扰。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懒惰的",
+        "我缺乏个人自律与工作伦理",
+        "我不如别人那样有生产力"
+      ],
+      "special_situations": [
+        {
+          "event": "与那些“生活井井有条”的他人进行比较",
+          "conditional_assumptions": "如果我不像他们一样有条理且高效，就说明我懒惰或失败",
+          "compensatory_strategies": "减少尝试与回避个人任务，以避免被证实为失败",
+          "automatic_thoughts": "我不如别人，我很懒",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "面对缺乏外部结构的个人任务（如自我照料、饮食计划、关系维护）",
+          "conditional_assumptions": "没有清晰的外部结构我就做不好，最后一定会失败",
+          "compensatory_strategies": "拖延与回避，直到不得不做才去处理",
+          "automatic_thoughts": "我做不成，我会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "制定改变计划却未能坚持后回顾表现",
+          "conditional_assumptions": "如果我不能一直完成计划，就证明我本质上懒惰且没救",
+          "compensatory_strategies": "一次失败后停止尝试，强化自我否定与消极标签",
+          "automatic_thoughts": "我总是失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "工作压力增大的时期",
+          "conditional_assumptions": "感到压力说明我能力不足，证明我不行",
+          "compensatory_strategies": "在个人生活中进一步减少行动与社交，以降低焦虑",
+          "automatic_thoughts": "我不够好",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力且自律的人，在个人生活中也能像工作一样有结构、有成就，维持稳定的关系与自我价值感",
+        "fear": "害怕被比较后显得不如人、被评价为懒惰与没有价值；害怕尝试后失败加剧羞耻感",
+        "defense_goal": [
+          "通过回避个人任务与自我苛责来降低失败与羞耻的焦虑；停留在工作这一结构化环境以维持最低限度的自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够自律、容易失败的自我",
+          "object_representation": "他人是有条理且高效的评判者/标准持有者",
+          "linking_affect": "自卑、羞愧"
+        },
+        {
+          "self_representation": "孤立且缺乏支持的个体",
+          "object_representation": "他人/家人是疏离、难以获得支持的对象",
+          "linking_affect": "孤独、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在与他人比较或被问及个人生活安排与进展时",
+          "interpretation": "将比较解读为自己“本质懒惰、没有价值”，把个人领域的不足归结为稳定的人格缺陷",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气低落、倾向自责，使用“我不行/我很懒”等标签化语言，放大缺点、淡化长处，并回避进一步探讨具体可行的改变路径。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "长期感觉个人生活缺乏动力与方向，将自我价值与生产力等同",
+            "在个人领域难以启动与坚持任务"
+          ],
+          "outcomes": [
+            "自我价值感降低",
+            "回避个人任务与拖延",
+            "幸福感下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，与家人联系有限",
+            "社交互动少，难以讨论个人困扰"
+          ],
+          "outcomes": [
+            "关系维持困难",
+            "支持感缺失",
+            "进一步降低行动动力"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在缺乏外部结构的个人生活中感到无序与失控",
+            "难以自我安排与自我约束"
+          ],
+          "outcomes": [
+            "拖延与回避",
+            "个人生活任务推进困难"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以“懒惰”“缺乏自律”给自己贴标签",
+            "在与他人比较后过度自我否定，降低行动意愿"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“强个人工作伦理与高度自律”视为必须达到的绝对标准",
+            "若达不到即认定自己是失败者"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在结构化环境（工作）中能稳定完成任务，具备可迁移的执行与坚持能力",
+          "态度积极，愿意尝试新方法（如行为实验）",
+          "具备自我反思与清晰表达的能力"
+        ],
+        "negative_force": [
+          "习惯性与他人比较并自我否定",
+          "将问题归因于稳定的人格缺陷（“懒惰”“缺乏自律”）",
+          "缺乏社会支持，独居，与家人联系有限",
+          "面对缺乏结构的任务时预测失败并回避行动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在个人生活中回避和拖延日常任务与自我照料（动力不足、启动困难）",
+          "antecedent": [
+            "与他人比较后感到自卑",
+            "面对缺乏清晰结构或目标的个人任务",
+            "在工作压力增大或情绪低落时"
+          ],
+          "core_reason": "将生产力不足标签化为“懒惰”，并灾难化预测“我会失败/完成不了”，为避免羞耻与失败而退缩",
+          "function": "逃避失败与自我羞耻，短期降低焦虑与压力感",
+          "consequence": "人际关系维系受损，饮食与自我照料下降，整体幸福感与自我价值感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 604
+}

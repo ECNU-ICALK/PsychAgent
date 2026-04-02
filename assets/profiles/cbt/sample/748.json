@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "艺术家",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "养有两只边境牧羊犬，计划近期搬到新的州",
+      "social_status": "有可以倾诉的朋友，但尚未与他们分享这些想法，倾向寻求专业帮助",
+      "medical_history": "此前未出现类似心理问题；既往未接受心理治疗；无显著躯体疾病",
+      "language_features": "配合度高，表达清晰，能具体描述情绪与身体反应；态度积极；逻辑性较好；语速未提及"
+    },
+    "main_problem": "我总是预期最坏的结果，即使在我享受的情境中也是如此。例如，去徒步时我常常想到迷路并面临危险。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到持续的负性预期正在影响我对活动的享受并造成不必要的压力，因此希望在搬家前通过咨询减轻这些想法的影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界的未知和变化是危险的",
+        "我难以应对变化与不确定性"
+      ],
+      "special_situations": [
+        {
+          "event": "计划一次徒步旅行",
+          "conditional_assumptions": "如果路线或情况存在未知，我就会迷路并遭遇危险",
+          "compensatory_strategies": "通过自我安慰与为不同情境做计划（携带地图、选择较短且熟悉的路线）来提升掌控感",
+          "automatic_thoughts": "我享受徒步，但我可能会迷路",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "思考即将搬到新的州",
+          "conditional_assumptions": "如果进入陌生环境，未知会带来不好的结果，而我可能无法应对",
+          "compensatory_strategies": "提前过度预演各种可能情境并做详尽准备以降低不确定性",
+          "automatic_thoughts": "搬家后会发生糟糕的事，我可能无法适应",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在规划以往喜欢的活动（如徒步）时",
+          "conditional_assumptions": "为了避免风险，我应该提前预想最坏情况，否则会措手不及",
+          "compensatory_strategies": "反复列出应对方案、不断自我安慰以追求安全感",
+          "automatic_thoughts": "如果不做好最坏的准备，事情一定会变糟",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "回忆过去徒步中安全返回并享受的经历",
+          "conditional_assumptions": "积极结果不足以证明安全，下一次仍可能出事",
+          "compensatory_strategies": "忽视正向证据，持续关注潜在危险以维持高度戒备",
+          "automatic_thoughts": "那次只是运气好，这次可能会出事",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在变化与未知中保持安全与掌控，并能安心享受喜爱的活动",
+        "fear": "害怕未知与改变会带来危险和失控，使自己陷入无助",
+        "defense_goal": [
+          "通过预演最坏情境与过度准备来降低焦虑、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易受威胁、可能陷入无助的个体",
+          "object_representation": "世界/未知是危险且不可控的来源",
+          "linking_affect": "恐惧、预期性焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对未知与变化的恐惧在计划徒步或思考搬迁时被激活",
+            "为不确定的未来进行灾难化预期与过度准备"
+          ],
+          "outcomes": [
+            "预期性焦虑",
+            "躯体紧张与心率加快",
+            "对活动的享受度下降与压力增加"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在计划徒步等活动时，来访者通常会灾难化预期并被焦虑困扰，难以充分享受活动",
+          "unique_outcome": "有几次尽管出现类似恐惧，但并未发生不好的结果；她总能找到回去的路，并在投入活动后享受了徒步",
+          "reason": "线索：进入活动当下后注意力从恐惧转向体验；实际顺利找到路径的事实为其提供了纠正性经验"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，主动寻求专业帮助",
+          "具备规划与准备的倾向（事前制定方案）",
+          "过往徒步的正向经验（能找到路并享受活动）",
+          "具备一定的社会支持（有朋友可交谈）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式反复出现",
+          "对未知与变化的恐惧显著，易引发预期性焦虑",
+          "倾向忽视正面证据，强化负面预期",
+          "对社交支持的使用不足（未与朋友分享困扰）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在计划徒步或想到搬迁时出现强烈的预期性焦虑与灾难化思维（伴随紧张与心率加快）",
+          "antecedent": [
+            "计划徒步等以往喜欢的活动",
+            "思考即将搬到新的州",
+            "搬家日期临近"
+          ],
+          "core_reason": "对未知与改变的恐惧引发对危险的灾难化预测与“最坏情境”预演",
+          "function": "逃避潜在危险并获得主观的控制感与安全感",
+          "consequence": "活动乐趣下降、压力增加，可能减少参与度与体验质量"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 748
+}

@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "夏可欣",
+      "gender": "女",
+      "occupation": "环保活动家",
+      "educational_background": "环境科学学士学位",
+      "marital_status": "单身",
+      "family_status": "独居于佛蒙特州",
+      "social_status": "有少数环保圈朋友，但因自觉不够好而与亲友保持距离，未向其敞开感受",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题与治疗史",
+      "language_features": "表达清晰，能觉察并描述自动化思维；语气偏消极、倾向自我贬低与比较；对干预持怀疑但配合；逻辑连贯"
+    },
+    "main_problem": "我不断觉得自己的成就微不足道，因为我没有去过夏威夷的国家公园，这种信念让我很痛苦并影响自我价值。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这种持续的比较和“不够好”的感觉正在影响我的心理健康和对生活的享受，因此来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不配被肯定",
+        "只有做到完美（把所有目标都完成）才算有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "听到同事或他人去夏威夷或取得新成就的消息",
+          "conditional_assumptions": "如果我没去过夏威夷的国家公园，就说明我的努力与成就不算数",
+          "compensatory_strategies": "回避社交、与亲友保持距离以避免比较；在内心反复反刍不足之处",
+          "automatic_thoughts": "我在落后，我永远达不到他们那样",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回想自己已去过的12个国家公园",
+          "conditional_assumptions": "除非把所有国家公园都去过，否则已有的成就没有意义",
+          "compensatory_strategies": "否定积极经验，拒绝庆祝成就",
+          "automatic_thoughts": "这些都不算数，没有去过夏威夷就等于失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作压力增大、感到“落后”时",
+          "conditional_assumptions": "如果不能持续取得更多成就，就证明我无能、不值得被认可",
+          "compensatory_strategies": "设定更高标准、不断自我苛责以逼迫自己前进",
+          "automatic_thoughts": "无论我做什么都不够",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "夜间因睡眠受扰而反复思考未完成的目标",
+          "conditional_assumptions": "如果没有把清单完成，休息和放松就是不被允许的",
+          "compensatory_strategies": "在床上反复思考与担忧，试图通过思考获得控制感",
+          "automatic_thoughts": "我肯定去不了夏威夷，事情只会越来越糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过成就被看见与被认可，体验完整与有价值",
+        "fear": "害怕不够好、被比较后显得逊色，从而被忽视或否定",
+        "defense_goal": [
+          "以不断设定更高标准和与他人比较来维持控制感",
+          "与亲友保持距离以避免被评价和羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、总在落后的追赶者",
+          "object_representation": "他人是评判者/更优秀的对照组",
+          "linking_affect": "羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请关注已取得的成就或提出现实检验/行为实验时",
+          "interpretation": "担心这些方法无效、感受不会改变，隐约体验为“咨询师不理解我/过于乐观”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以共情与验证其怀疑的合理性开场，放慢节奏邀请描述具体情绪与身体感受，以开放式问题探索证据与例外；语气温和、非评判。"
+        },
+        {
+          "trigger_condition": "当谈及他人新成就或旅行经历时",
+          "interpretation": "将他人的成功体验为对自我的否定，认为自己被比下去",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "温和命名自责模式，允许表达被比较引发的不快与嫉妒，鼓励把攻击性能量转化为真实需要的表达；保持稳定、接纳的语气。"
+        },
+        {
+          "trigger_condition": "当讨论“为什么只有去完所有公园才算数”的标准时",
+          "interpretation": "不自觉地把外界（同侪/社会）的高标准当作必须遵守的内在规则",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以好奇心追问标准来源与功能，区分“他人的声音”和“自我的声音”，支持建立自我定义的衡量标准。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "虽然已访问12个国家公园，但因未去过夏威夷而觉得成就没有意义",
+            "难以从过往成就中获得满足与价值感",
+            "难以享受曾经热爱的徒步与骑行"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "情绪低落与挫败感",
+            "睡眠受扰",
+            "对生活的兴趣减退"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自觉不够好而与朋友和家人保持距离",
+            "未向环保圈朋友敞开谈及不足感"
+          ],
+          "outcomes": [
+            "社会支持减少",
+            "孤立感增强",
+            "负性思维循环加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复用“从不够好”的内在评判要求自己",
+            "对练习效果持怀疑态度、难以允许积极感受",
+            "在对话中更关注自我不足而非当下体验"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“必须把所有公园都去完才算有价值”的规则评判自我",
+            "用“有什么意义/永远不够”来否定现有成就"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "已访问12个国家公园，具备行动力与实践经验",
+          "在环保社群中有朋友，具备潜在社会支持",
+          "能够识别并描述负性自动化思维，愿意尝试记录练习",
+          "主动寻求心理咨询，动机明确"
+        ],
+        "negative_force": [
+          "过度比较与外部验证倾向，否定积极经验",
+          "全或无的完美化标准（未全部达成即作废）",
+          "工作压力与持续的自我苛责加剧焦虑与反刍",
+          "回避社交以避免被评价，导致支持减少",
+          "睡眠受扰，降低情绪与认知调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反刍式比较与自我贬低",
+          "antecedent": [
+            "听到他人旅行或成就的消息",
+            "想到尚未去过夏威夷的国家公园",
+            "工作压力增大"
+          ],
+          "core_reason": "将自我价值过度建立在成就与外界标准之上，形成全或无与比较的认知偏差",
+          "function": "逃避被视为“不够好”的恐惧，并通过自我苛责来维持控制与推动行为",
+          "consequence": "情绪低落与焦虑、难以享受成就、工作受影响"
+        },
+        {
+          "behavior": "社交回避/与亲友疏远",
+          "antecedent": [
+            "感到自己“落后”或不够好时",
+            "周围人讨论旅行或新成就时"
+          ],
+          "core_reason": "担心被比较或被评价，害怕羞耻与否定",
+          "function": "逃避可能的负面评价与羞耻体验",
+          "consequence": "社会支持减少、孤独感上升、负性思维加重"
+        },
+        {
+          "behavior": "睡眠受扰（入睡困难/夜间易醒）",
+          "antecedent": [
+            "夜间反复思考未完成的目标与比较念头"
+          ],
+          "core_reason": "持续反刍与焦虑激活，难以停止思维",
+          "function": "试图通过思考获得掌控与解决方案（短期的心理安慰）",
+          "consequence": "精力下降、兴趣减退、工作表现受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 545
+}

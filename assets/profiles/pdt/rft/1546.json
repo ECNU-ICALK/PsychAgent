@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45岁",
+      "name": "林凯",
+      "gender": "男性",
+      "occupation": "无人机工程师",
+      "educational_background": "工程学学士",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友可以谈及个人问题，但尚未与他们讨论失业与自卑感；在离职前因压力与同事关系恶化。",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无显著躯体疾病。",
+      "language_features": "表达清晰、有条理，能觉察并配合讨论自动化思维；态度积极、配合度高；可表达紧张与焦虑等情绪；愿意尝试家庭作业与现实检验。"
+    },
+    "main_problem": "我最近被一家无人机公司解雇，我觉得是因为他们认为我不够胜任。自那以后，我的自信心下降，对未来工作机会感到更焦虑。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些想法正在影响我的自尊，并阻止我投递新的工作机会。",
+    "growth_experiences": [
+      "在无人机公司承担一个高度复杂、截止紧张的项目时感到不堪重负，未能按时交付；在此之后被公司解雇。该事件发生时压力很高并伴随对失败的恐惧，随后频繁出现“我不够好”的想法（尤其在投递新职位时），自信心下降并对未来求职机会焦虑增加；在离职前因自身压力与同事关系恶化，失业后出现睡眠与饮食规律紊乱；虽然有几位亲密朋友，但尚未与其讨论失业与自卑感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任工作"
+      ],
+      "special_situations": [
+        {
+          "event": "被无人机公司解雇的情境",
+          "conditional_assumptions": "如果我错过项目截止或表现不达标，就证明我整体不够好；如果他们认为我不行，那就说明事实如此",
+          "compensatory_strategies": "回避或拖延投递新工作以避免再次失败与被评价",
+          "automatic_thoughts": "他们一定觉得我不行/我不够好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在投递新工作或浏览岗位信息的情境",
+          "conditional_assumptions": "一次失败意味着我以后也会失败，雇主都会认为我不够胜任",
+          "compensatory_strategies": "减少或暂停求职行动，优先回避应聘以降低不确定性带来的焦虑",
+          "automatic_thoughts": "我可能又会失败，没人会雇用我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对高复杂度且截止时间紧的项目",
+          "conditional_assumptions": "如果不能按时交付，就等于完全失败并证明自己能力不足",
+          "compensatory_strategies": "自我怀疑加剧、过度关注失误，导致工作表现进一步受影响",
+          "automatic_thoughts": "我做不到/我会失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同事互动在压力增大的阶段",
+          "conditional_assumptions": "如果我表现不好，别人会看不起我或疏远我，这说明我不行",
+          "compensatory_strategies": "减少直接沟通、在关系中退缩以避免被否定",
+          "automatic_thoughts": "他们觉得我很差",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为胜任并拥有稳定的职业安全感",
+        "fear": "害怕失败与被否定，担心再次被解雇与前途受阻",
+        "defense_goal": [
+          "通过回避投递新工作来避免再次经历否定与失败，以保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被否定的失败者",
+          "object_representation": "苛刻且带有评判的雇主/同事",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有几位亲密朋友但尚未与其讨论失业与自卑感",
+            "在压力增大时与同事关系恶化、减少直接沟通"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "自尊受损",
+            "睡眠与进食问题",
+            "回避求职行动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在咨询中频繁表达“我不够好”的自我评价",
+            "对他人可能的评价过度担心",
+            "倾向将一次失败全盘归因于自身能力不足",
+            "回避与朋友讨论相关困扰"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到被解雇与项目失败的情境中，来访者通常会反复自我否定并回避投递新职位，导致求职停滞与自信心进一步下降。",
+          "unique_outcome": "在此前的其他项目中曾获得积极反馈并被认可为有能力，这与“我不够好”的主导叙事不同，提示其具备专业胜任力。",
+          "reason": "线索：过往成功经验与同组成员也认为该项目难的事实，为能力与外部因素提供客观支持，弱化将一次失败全盘归因于自身无能的叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "过往项目中的正面反馈表明具备专业能力与经验",
+          "拥有几位可以提供情感支持的亲密朋友",
+          "能识别并接纳外部因素（公司重组与预算削减）对解雇的影响"
+        ],
+        "negative_force": [
+          "读心术、预测未来与非黑即白的认知偏差",
+          "自我否定与自尊受损",
+          "因焦虑导致的睡眠与饮食问题",
+          "回避与拖延求职行动",
+          "过度在意他人评价（寻求外部验证）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避/拖延投递新工作",
+          "antecedent": [
+            "想到被解雇与项目失败",
+            "准备投递或浏览职位信息时"
+          ],
+          "core_reason": "对失败与被否定的恐惧；读心术与预测未来的认知偏差；将一次失误过度概括为整体无能",
+          "function": "逃避潜在拒绝与负面评价，短期降低焦虑以保护自尊",
+          "consequence": "求职进程停滞，职业发展受阻，自信心进一步下降、焦虑维持"
+        },
+        {
+          "behavior": "睡眠与进食失调（入睡困难、饮食不规律）",
+          "antecedent": [
+            "失业后经历压力增大",
+            "回想项目失败与求职不确定性时"
+          ],
+          "core_reason": "高压焦虑与自我否定引发的生理与行为层面失调",
+          "function": "短期逃避面对情绪与压力（应激反应）",
+          "consequence": "体能与专注下降，焦虑加剧，进一步降低求职与自我效能感"
+        },
+        {
+          "behavior": "在高压项目情境中的自我怀疑与焦虑升高，影响工作绩效",
+          "antecedent": [
+            "高复杂度任务与紧迫截止时间"
+          ],
+          "core_reason": "非黑即白思维将按时交付视为能力唯一标准，情绪化推理将紧张体验等同于无能",
+          "function": "试图通过高度警觉“逼”自己表现却引发过度压力",
+          "consequence": "绩效下降、人际关系恶化，增加被负面评价与解雇的风险"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1546
+}

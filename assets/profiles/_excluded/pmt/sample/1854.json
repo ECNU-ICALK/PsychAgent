@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林俊",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "母亲为癌症幸存者",
+      "social_status": "有一群支持性的朋友与母亲作为支持系统；但在社交场合常感到被排斥与被误解，难以建立亲密关系",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰，能自我反思并识别思维偏差；配合度高、态度积极；首次来访略显焦虑"
+    },
+    "main_problem": "我认为在学校时因为我说最喜欢的科目是科学，孩子们就不喜欢我，由此产生被拒绝与孤立的感受；这种感受始于学生时期并延续至成年，影响自尊与社交，我在社交场合或尝试结交新朋友时常感到压力与被排斥。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些被拒绝的感受正在影响我建立有意义关系的能力并影响我的心理健康。",
+    "growth_experiences": [
+      "学生时期经历同伴的排斥与霸凌，因表达自己喜欢科学而被同学视为“不同”，由此压力升高、产生被拒绝与孤立的感受，学业表现受到影响，这些经历延续至成年并持续影响自尊与人际互动。",
+      "家庭方面：母亲曾罹患癌症并康复，为家庭重要事件。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被喜欢",
+        "我会被拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "学生时期公开表达自己最喜欢的科目是科学后，感到同学们都不喜欢自己",
+          "conditional_assumptions": "如果我的兴趣与多数人不同、暴露真实喜好，就会被排斥与讨厌",
+          "compensatory_strategies": "尽量迎合他人、尝试更外向以寻求认可，或在社交中隐藏真实兴趣",
+          "automatic_thoughts": "他们不喜欢我，是因为我喜欢科学",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上周参加朋友的聚会时收到正负混合信号（有人微笑打招呼，也有人对我投来异样目光），但我仍觉得不被欢迎并提前离开",
+          "conditional_assumptions": "负面线索比正面反馈更可信；如果不是所有人都热情，我就不被需要",
+          "compensatory_strategies": "将注意力集中在负面线索，减少互动并撤退以避免尴尬",
+          "automatic_thoughts": "他们不想我在这里，我不属于这里",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "尝试加入谈话时，有人用“奇怪”的眼神看我",
+          "conditional_assumptions": "如果他人的表情不够友好，就说明他们在嫌弃我或觉得我怪异",
+          "compensatory_strategies": "避免交谈、减少自我暴露以保护自己免受评价",
+          "automatic_thoughts": "他觉得我很奇怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在陌生的社交场合或尝试结交新朋友时",
+          "conditional_assumptions": "如果别人没有立刻表现出明确的接纳，那他们最终不会喜欢我",
+          "compensatory_strategies": "预设负面结果、减少主动接触，以避免可能的拒绝与羞辱",
+          "automatic_thoughts": "他们不会喜欢我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被喜欢并能建立有意义的亲密关系",
+        "fear": "害怕再次被同伴拒绝、羞辱与排斥，担心暴露真实自我会带来伤害",
+        "defense_goal": [
+          "通过保持疏离与减少自我暴露来避免被拒绝或尴尬",
+          "在社交中撤退以维持自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被排斥的局外人、容易尴尬且不被需要的自己",
+          "object_representation": "冷漠且批判的群体/同伴，随时可能拒绝与嘲笑",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期感到被拒绝与孤立",
+            "在社交场合预设自己不被喜欢并撤退",
+            "难以形成亲密关系、常觉得被误解"
+          ],
+          "outcomes": [
+            "社交回避与撤退",
+            "自尊受损",
+            "焦虑与不安"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在聚会上提前离开以避免直接互动",
+            "在社交中减少对话与自我暴露",
+            "面对混合信号时回避积极接触、专注负面线索"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "认为“如果我尝试交谈只会让情况更糟或让我尴尬”",
+            "在接触他人前过度担忧他人评价，限制自己的主动性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与母亲作为支持系统",
+          "能觉察并命名认知偏差（如注意到自己只关注负面）",
+          "态度积极，愿意尝试行为实验与新视角"
+        ],
+        "negative_force": [
+          "在社交中灾难化与过度概括，倾向读心术与个人化",
+          "心理过滤导致忽视正面线索、强化被拒绝感",
+          "社交回避与撤退，预设负面结果，降低互动机会",
+          "自尊受损、对他人评价高度敏感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与撤退（在社交场合减少对话、提前离场、避免自我暴露）",
+          "antecedent": [
+            "处于陌生的社交环境或尝试结交新朋友",
+            "参加聚会、试图加入谈话时",
+            "注意到他人不确定或略显负面的表情/反馈"
+          ],
+          "core_reason": "学生时期遭遇排斥与霸凌的经历内化为“我不被喜欢/会被拒绝”的核心信念，在当前社交中灾难化预测与读心术触发强烈焦虑与羞耻，进而选择撤退以自我保护",
+          "function": "逃避潜在的拒绝、羞辱与尴尬，以保护自尊与安全感",
+          "consequence": "难以建立和维持亲密关系；感到孤立与被误解；自尊进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1854
+}

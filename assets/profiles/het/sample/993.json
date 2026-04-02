@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "72",
+      "name": "艾琳",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "学士学历（美国文学与教育）",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "拥有支持性的同事群体，但未与他们分享关于学生成绩的具体担忧",
+      "medical_history": "无显著躯体疾病；无心理治疗史",
+      "language_features": "表达清晰、合作度高，能反思自身认知模式；在谈及学生成绩时语气紧张与焦虑"
+    },
+    "main_problem": "我持续担心我的学生可能在学校表现不好，尽管我热爱教学并相信他们的潜力。",
+    "topic": "情绪管理",
+    "core_demands": "不断升级的关于学生学业表现的担忧促使我寻求咨询，希望能解决这一持续存在的困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于学生的成绩",
+        "我是一个不称职的教师（若学生失败则证明我失败）"
+      ],
+      "special_situations": [
+        {
+          "event": "考试周期或收到学生成绩反馈时",
+          "conditional_assumptions": "如果学生表现不佳，就说明我教学失败、是不称职的教师",
+          "compensatory_strategies": "实施新的教学策略并寻求同事建议以提升学生成绩",
+          "automatic_thoughts": "他们会考不好，这都是我的错",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "课堂测评与家长会场景中",
+          "conditional_assumptions": "如果家长或评估显示学生存在问题，我会被视为失败和无能",
+          "compensatory_strategies": "在评估时过度关注学生的困难、提前设想最坏结果并加倍准备",
+          "automatic_thoughts": "他们会考砸，家长会觉得我不称职",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "看到学生在课堂上出现一时的学习困难",
+          "conditional_assumptions": "若学生当下挣扎，最终一定会失败且证明我没有教好",
+          "compensatory_strategies": "立即自责并试图额外辅导或迅速调整教学方案",
+          "automatic_thoughts": "他要失败了，因为我没教好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "周末徒步休闲时仍反复思虑学生的学业表现",
+          "conditional_assumptions": "即使在休息时间也必须时刻关注学生成绩，否则会出问题",
+          "compensatory_strategies": "持续反刍、难以放松，尝试通过思考来获得控制感",
+          "automatic_thoughts": "如果我放松了，学生的成绩会更糟",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望学生取得成功，并被认可为称职且有影响力的教师",
+        "fear": "害怕学生表现不佳意味着自己失败，进而被家长或同事否定与批评",
+        "defense_goal": [
+          "通过持续监控与自我加压来避免被批评或评判",
+          "把注意力集中在问题与最坏情境上以获得控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负责任且容易自责的教师（将学生的失败视为自己的失败）",
+          "object_representation": "家长/同事是苛刻的评判者，随时可能否定自己",
+          "linking_affect": "焦虑、内疚"
+        },
+        {
+          "self_representation": "必须时刻照护与负责的助人者",
+          "object_representation": "学生是脆弱、可能失败、需要自己拯救与支持的对象",
+          "linking_affect": "担忧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师指出她将学生的成绩等同于自身能力与价值时",
+          "interpretation": "来访者倾向于将外部评价理解为对自我不称职的指控，担心被否定（移情：自我批评加剧）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用温和与验证性语气，先共情其责任感与焦虑，再以开放式提问引导区分学生结果与自我价值，避免指责；语速放缓，鼓励具体事实与正向证据的回忆。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈的责任感与控制需求压缩了个人自由与休闲体验",
+            "周末徒步也被对学生成绩的担忧占据，难以放松"
+          ],
+          "outcomes": [
+            "持续性焦虑",
+            "生活质量下降",
+            "工作满意度降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有支持性的同事网络，但未分享具体担忧，倾向于独自承受压力"
+          ],
+          "outcomes": [
+            "情绪压力积累",
+            "担忧加剧",
+            "自我批评增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将学生成绩视为衡量自我价值的绝对标准（“我必须让他们都考好”）",
+            "在评估与家长会时以外部期望为自我评价的唯一依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "反复自责、将学生的失败视为自己的失败",
+            "在面对负面反馈时过度自我审视、提高内在标准并加剧压力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对教学怀有热情并坚信学生潜力",
+          "主动尝试新的教学策略并向同事寻求建议",
+          "曾通过周末徒步获得一定的压力缓解经验"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式导致焦虑加剧",
+          "将学生成绩与自我价值强绑定，形成过度自责",
+          "持续担忧侵入日常生活，削弱工作满意度与休闲质量"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续性担忧与预期性焦虑（反复预测学生会失败）",
+          "antecedent": [
+            "考试周期",
+            "收到学生成绩反馈",
+            "课堂测评",
+            "家长会"
+          ],
+          "core_reason": "将学生的表现与自我价值强绑定，并以灾难化与预测未来的方式解释当下困难",
+          "function": "通过过度担忧来获取控制感、逃避被批评或被视为不称职的风险",
+          "consequence": "焦虑水平升高，工作满意度降低，周末休闲受干扰"
+        },
+        {
+          "behavior": "在休闲场景中无法放松，持续反刍学生成绩问题",
+          "antecedent": [
+            "周末徒步或休息时间",
+            "想到即将进行的评估或家长会"
+          ],
+          "core_reason": "认为即使休息也必须持续关注与控制学生表现，否则会出现更糟结果（控制谬误）",
+          "function": "试图维持对结果的控制感、减少不确定性",
+          "consequence": "休闲体验被破坏、身心恢复不足、整体生活质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 993
+}

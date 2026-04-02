@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "郭磊",
+      "gender": "男",
+      "occupation": "海军人员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与朋友的关系因自我怀疑和情绪低落而紧张，较少向他人谈及内心困扰",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或精神科治疗史",
+      "language_features": "态度中性，表达清晰，能具体描述问题与触发情境，配合度较好"
+    },
+    "main_problem": "我报名参加电视节目《The Voice》，但我不断怀疑自己的能力，觉得自己永远不够好、不会被选中。",
+    "topic": "职业发展",
+    "core_demands": "我想摆脱这些自我怀疑的感受，能够重新享受生活，而不再持续担心自己是否够好。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不配被选中"
+      ],
+      "special_situations": [
+        {
+          "event": "观看《The Voice》节目时与其他选手的表现进行比较",
+          "conditional_assumptions": "如果我的水平不如其他选手，就说明我不够好、不会被选中",
+          "compensatory_strategies": "加倍练习并向朋友寻求反馈以证明自己",
+          "automatic_thoughts": "我的声音比不上他们，我肯定不会被选上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "提交申请后长期未收到节目组回复",
+          "conditional_assumptions": "如果没有很快得到回应，就意味着我不够好或已被拒绝",
+          "compensatory_strategies": "反复思考与担忧，回避与他人讨论此事",
+          "automatic_thoughts": "没有消息就是坏消息，我一定不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到自己的试唱与评委评判",
+          "conditional_assumptions": "如果不能表现得足够完美，就会被否定和羞辱",
+          "compensatory_strategies": "更加刻苦练习、选择更安全的曲目并谨慎寻求反馈",
+          "automatic_thoughts": "我会表现很差，结果只会让我更难堪",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "设想在朋友面前演唱并接受真实反馈",
+          "conditional_assumptions": "如果朋友觉得我不好，说明我客观上不够好",
+          "compensatory_strategies": "疏远朋友、减少互动以避免负面评价",
+          "automatic_thoughts": "他们会认为我唱得不好，会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被看见（希望自己的歌声得到接纳与肯定）",
+        "fear": "害怕被拒绝、被羞辱或被证明“不够好”",
+        "defense_goal": [
+          "通过保持谨慎与自我怀疑来降低被否定的风险",
+          "与他人保持一定距离以避免受伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的竞争者/可能被否定的自我",
+          "object_representation": "苛刻的评委与挑剔的观众",
+          "linking_affect": "焦虑、羞愧"
+        },
+        {
+          "self_representation": "容易被他人否定的朋友",
+          "object_representation": "可能看不起我的他人/朋友",
+          "linking_affect": "不安、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当长时间未收到节目方的任何回复或反馈时",
+          "interpretation": "将沉默理解为拒绝与否定，感觉自己已经被判定“不够好”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的情感或冲动归咎于他人，把对自我的否定投射为外界对我的否定",
+          "response_instruction": "以假设他人负面评价的方式表达，如“他们肯定觉得我不行”，语气谨慎、带自我否定色彩，减少展开细节"
+        },
+        {
+          "trigger_condition": "当被邀请或设想在朋友面前演唱并收集反馈时",
+          "interpretation": "将朋友视为苛刻的评判者，预期反馈会羞辱自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自责、自我批评或退缩",
+          "response_instruction": "使用自我贬低的语句，减少眼神接触，语气压低，主动降低自我价值以躲避外在评价"
+        },
+        {
+          "trigger_condition": "当咨询师指出其存在灾难化思维并邀请进行行为实验时",
+          "interpretation": "感觉被审视与要求证明自己，于是转向理性讨论以避免情绪暴露",
+          "defense_mechanism": "理智化",
+          "defense_definition": "以抽象、理性的分析来回避情感卷入与焦虑",
+          "response_instruction": "使用理论化、抽象化的语言，讨论方法与流程，弱化个人感受与脆弱处，语气平稳、客观"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友的关系因自我怀疑而紧张",
+            "不与朋友和同事讨论自己的自我怀疑",
+            "社交退缩、情绪低落时与他人保持距离"
+          ],
+          "outcomes": [
+            "孤立感与不被理解感增加",
+            "情绪困扰加重",
+            "动机降低"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自我怀疑影响日常兴趣与爱好（如阅读）",
+            "工作动力下降、注意力被试唱占据"
+          ],
+          "outcomes": [
+            "生活的可享受性下降",
+            "对个人价值的质疑加剧",
+            "行为参与度减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，常表现为“他们在看不起我”等",
+          "manifestations": [
+            "预期他人会认为自己不够好",
+            "将节目组的沉默理解为否定",
+            "担心朋友会看不起自己的歌声"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和过度自我限制、自我苛责，对接触过于小心谨慎，与“自主性”对应",
+          "manifestations": [
+            "用严苛标准审视自己的表现",
+            "在表演前过度担忧并自我否定",
+            "在反馈尚未出现前先行设想负面后果"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备基本的社会支持（朋友与同事可交流）",
+          "主动练习并寻求反馈，愿意采取行为实验",
+          "有动机改善自我怀疑与提升生活质量",
+          "职业纪律与执行力（海军人员背景）"
+        ],
+        "negative_force": [
+          "灾难化与过度预测负面结果的认知模式",
+          "与他人比较并否定自我（Comparing and Despairing）",
+          "过度依赖外部评价，缺乏内在自我肯定",
+          "社交退缩与人际紧张",
+          "注意力被试唱占据导致工作与兴趣受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "观看《The Voice》或想到试唱时出现强烈自我否定与焦虑",
+          "antecedent": [
+            "观看节目《The Voice》",
+            "想到自己的试唱与评判",
+            "未收到节目组回复"
+          ],
+          "core_reason": "对“我不够好”的核心信念与灾难化、预测未来的认知扭曲被激活",
+          "function": "逃避潜在的失败与羞辱，寻求短暂的心理安全感",
+          "consequence": "持续的焦虑与自我怀疑，工作注意力下降，情绪低落"
+        },
+        {
+          "behavior": "因自我怀疑而疏远朋友、减少社交与兴趣参与",
+          "antecedent": [
+            "预期在朋友面前演唱并收集反馈",
+            "与朋友互动时想到评价",
+            "情绪低落时"
+          ],
+          "core_reason": "将他人设定为苛刻评判者并进行读心术，担心被否定",
+          "function": "避免负面评价与尴尬，降低被伤害的风险",
+          "consequence": "人际关系紧张、孤立感增强、生活可享受性下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 124
+}

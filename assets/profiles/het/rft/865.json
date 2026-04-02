@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "汤明杰",
+      "gender": "男性",
+      "occupation": "房地产经纪人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "来自有8个兄弟姐妹的大家庭，自己是最小的",
+      "social_status": "有一群值得信任的朋友",
+      "medical_history": "无类似心理问题既往史；未接受过心理治疗或咨询；无显著身体疾病",
+      "language_features": "表达清晰，逻辑性较好；配合度良好；能进行自我反思；倾向反复思考负面事件；情绪体验为低落、失望与内疚"
+    },
+    "main_problem": "因为有一位兄弟姐妹没有参加上月的生日聚会，我一直感到难过与内疚，并认为整场活动被毁。",
+    "topic": "家庭关系",
+    "core_demands": "这起事件一直影响我的情绪和人际关系，我希望获得如何应对这些感受的指导；我想走出来，不再让它影响我那么多。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被在乎/我不重要",
+        "只有所有家人都在场，才说明我被重视、事情才算成功"
+      ],
+      "special_situations": [
+        {
+          "event": "生日聚会上有一位兄弟姐妹未到场",
+          "conditional_assumptions": "如果并非所有家人都到场，就意味着他们不在乎我，我的聚会也不算成功",
+          "compensatory_strategies": "反复回想并寻求缺席原因（询问对方、与朋友讨论、尝试理性化），以缓解不确定所带来的不适",
+          "automatic_thoughts": "他们不在乎我，整个生日都被毁了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "多数家人和朋友到场并且氛围良好，但自己被缺席的那位兄弟姐妹所吸引注意",
+          "conditional_assumptions": "好的部分不算数，只有全员到场才说明这次是好的/值得的",
+          "compensatory_strategies": "忽视积极细节，让负面片段主导评价",
+          "automatic_thoughts": "其他人来不重要，有一个没来就证明这次不值得",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "未能获得该兄弟姐妹缺席的明确解释",
+          "conditional_assumptions": "如果没有清楚的原因，就意味着是不在乎或不愿意来",
+          "compensatory_strategies": "用猜测填补信息空白，预设他人负面动机",
+          "automatic_thoughts": "他/她不想来，是不关心我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "工作中与客户发生一次不良互动",
+          "conditional_assumptions": "如果出现一次负面互动，这一天就被毁、说明我工作表现很差",
+          "compensatory_strategies": "让一次负面事件主导整天的评价，忽略其他正向经历",
+          "automatic_thoughts": "今天都糟了，工作很失败",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在重要时刻被家人看见与重视，期待完整的团聚与被关心的感受",
+        "fear": "害怕被忽视、关系疏离，自己的重要时刻不被承认",
+        "defense_goal": [
+          "通过个人化与寻找理由来获得确定感并缓解焦虑",
+          "让负面解释主导，以维持对关系意义的掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被重视的被忽视者",
+          "object_representation": "不关心/不重视自己的重要他人（家人）",
+          "linking_affect": "失望、内疚、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当重要他人（如兄弟姐妹）缺席且未给出明确解释时",
+          "interpretation": "认为对方不关心自己、缺席等于轻视",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以共情、温和探询的语气，先验证其失望与不确定感，再邀请其列举多种可能解释，避免单一负面归因。"
+        },
+        {
+          "trigger_condition": "当试图缓解不适却信息不足、无法得出明确结论时",
+          "interpretation": "为对方缺席与自身感受寻找看似合理的说明，以缓解内在冲突",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持中性、不评判的语气，区分事实与推测，鼓励以证据为基础检视解释，并同时允许与容纳未解的部分。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "将亲人缺席理解为不被关心与被忽视",
+            "在重要时刻渴望被看见与陪伴，但难以容忍不确定与缺席",
+            "因未获解释而反复沉思该事件"
+          ],
+          "outcomes": [
+            "情绪低落与内疚",
+            "工作表现受影响",
+            "与朋友关系受牵连、紧张",
+            "日常活动被负面情绪笼罩"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "把兄弟姐妹的缺席归因为“不在乎我”“不想来”",
+            "在信息不全时预设他人的负面动机"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续感到内疚，认为“整场聚会被毁”",
+            "在工作中因一次不良互动就自我否定、让整天情绪受影响"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在重要的家庭聚会中，一位成员缺席时，来访者通常会反复沉思并认为整场活动被毁，情绪低落，难以享受当下。",
+          "unique_outcome": "在生日聚会当晚的多个片刻，来访者与到场的家人朋友互动愉快，收到了贴心礼物；大家真心开心、一起欢笑，食物也令人满意，他当时体验到积极的感受。",
+          "reason": "不同支持：多数家人朋友到场并表达关心；不同做法：当下注意到并回忆积极片段，从而短暂偏离“整场被毁”的主导叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多数家人与朋友的实际支持与关心",
+          "愿意求助并接受认知重构与正念练习的建议",
+          "能回忆并识别到积极细节与美好片段"
+        ],
+        "negative_force": [
+          "心理过滤与否定积极，过度概括与个人化",
+          "对不确定性的容忍度低、倾向最坏假设",
+          "反复沉思习惯使负面情绪持续、放大"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复沉思生日缺席事件并将负面细节扩大化",
+          "antecedent": [
+            "想起生日聚会的细节",
+            "未获得缺席原因的明确解释"
+          ],
+          "core_reason": "在信息不全下进行个人化与读心式推断，将缺席解读为“不被关心”，并以过度概括与否定积极来维持这一解释",
+          "function": "在主观层面获取确定感与控制感，试图降低被忽视的焦虑",
+          "consequence": "持续的失望与内疚，影响工作表现、人际关系与日常活动"
+        },
+        {
+          "behavior": "因一次负面客户互动而让整天情绪低落、评价“整天被毁”",
+          "antecedent": [
+            "与客户发生一次不良互动"
+          ],
+          "core_reason": "过度概括与心理过滤，将单一负面事件推广到整体工作表现与当日体验",
+          "function": "通过负面评价为情绪找到“统一解释”，回避更复杂的情感加工",
+          "consequence": "工作效率与职业状态下降，对当天其他积极经历缺乏感知"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 865
+}

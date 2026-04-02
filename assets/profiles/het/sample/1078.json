@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "朱莉娅",
+      "gender": "女性",
+      "occupation": "父亲",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "已婚有子女",
+      "social_status": "有支持性的配偶与亲密朋友",
+      "medical_history": "无显著身体疾病；无既往心理治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰、能进行自我反思、配合度良好；语速未提及"
+    },
+    "main_problem": "因上周篮球比赛中错失绝杀，感到失望与自责，认为这次失误“毁掉了本来很好的经历”，并持续反复回放该画面、责备自己。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自己无法独自摆脱失望和自责的感受，这影响了我的情绪和与他人的互动，因此我来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "关键时刻必须成功，否则我就没有价值/让他人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "上周篮球赛最后时刻投篮未中，球队未能取胜",
+          "conditional_assumptions": "如果我在关键时刻没有投中，就证明我是失败者，并且我让大家失望了",
+          "compensatory_strategies": "反复在脑海中回放该失误、进行自我批评，减少谈论比赛或参与相关情境以避免再被评价",
+          "automatic_thoughts": "我毁了这场比赛/我让大家失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在工作或日常生活中想起与篮球相关的事物或比赛画面",
+          "conditional_assumptions": "如果最后一投没进，那么之前的良好表现都不算数",
+          "compensatory_strategies": "通过工作与陪伴家人来分散注意力，但内心仍持续聚焦于负面片段",
+          "automatic_thoughts": "我之前的助攻和关键球没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友互动或聚会后回想比赛",
+          "conditional_assumptions": "如果我在关键时刻失误，朋友会看不起我或对我失望",
+          "compensatory_strategies": "揣测他人的看法、减少与朋友谈及比赛以避免尴尬或评价",
+          "automatic_thoughts": "他们只是客套，其实觉得我搞砸了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾整场比赛并进行自我评价",
+          "conditional_assumptions": "如果没有赢下最后时刻，我就等同于彻底失败",
+          "compensatory_strategies": "用极端标准衡量表现，将结果与自我价值完全绑定",
+          "automatic_thoughts": "我就是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友与团队认可、接纳，证明自己在关键时刻有价值",
+        "fear": "害怕让他人失望、被评判和拒绝，担心自我价值被否定",
+        "defense_goal": [
+          "通过自我批评与高标准来避免再次失误，减少谈论比赛以维持人际安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让人失望的失败者",
+          "object_representation": "他人是隐性批评者/评判者（即便表面支持）",
+          "linking_affect": "羞愧、内疚、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾比赛中的积极表现或资源时",
+          "interpretation": "认为强调积极是在忽视“关键时刻失败的事实”，从而坚持负面结论",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和且具同理心，使用具体化与情感命名的开放式问题，引导其连结当下感受而非仅停留在抽象结论。"
+        },
+        {
+          "trigger_condition": "当谈到朋友的安慰与不再提及比赛时",
+          "interpretation": "把自己难以接纳的自责感归于他人，认为他们其实在失望只是出于客套",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以探询式语气，轻柔对焦于证据与体验差异，邀请其区分“推测”与“可观察到的迹象”，避免对抗。"
+        },
+        {
+          "trigger_condition": "当直接面对“我就是失败者”的自我评价时",
+          "interpretation": "将对外在结果的愤怒与失望转向自身，强化自我责备",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持稳定、低刺激的语调，使用温和的界限与重构，鼓励其识别自我攻击的模式并尝试更中性的自我描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将整场比赛的积极贡献视为“没有意义”，因为最后一投未中",
+            "以结果（是否赢下最后一球）来否定过程与体验的价值"
+          ],
+          "outcomes": [
+            "失望情绪加重",
+            "自我否定与自责",
+            "兴趣与动机下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "谈及比赛时将注意力从积极表现转向最后失误",
+            "用“人们只记得最后一刻”来回避对整体体验的接触"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友“只是客套”，将自我失望感归为他人对自己的失望"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自责、以高标准苛求自己在关键时刻的表现",
+            "把自我价值与单次结果完全绑定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在回想比赛或与朋友互动时，来访者通常会反复自责并沉浸在失误画面中，导致情绪低落与人际紧张。",
+          "unique_outcome": "在几次与朋友的聚会中，朋友并未提起比赛，来访者能够继续参与社交互动、维持关系而未出现当场冲突。",
+          "reason": "不同支持与情境：朋友的实际行为（持续相约、不提及比赛）提供了接纳的线索，使其在聚会情境中更易将注意力转向互动而非反刍。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶与朋友关系",
+          "过去通常能较好应对压力情境",
+          "能识别并表达自身感受与需求",
+          "愿意寻求专业帮助并尝试新方法"
+        ],
+        "negative_force": [
+          "强烈的自我批评与将自我价值完全绑定于结果",
+          "倾向于心理过滤与否定积极",
+          "读心与个人化倾向，过度关注他人可能的负面评价",
+          "持续反刍加重情绪低落并影响工作与兴趣"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复回放比赛中错失绝杀的画面并进行自我责备（反刍）",
+          "antecedent": [
+            "想到比赛或看到与篮球相关的线索",
+            "与朋友互动后独处时的回想",
+            "在工作中走神分心时想到比赛"
+          ],
+          "core_reason": "以非黑即白的标准将单次关键失误等同于整体失败，并将自我价值与结果绑定，且对他人期望高度敏感。",
+          "function": "通过自我批评与反刍试图防止未来失误、维持对他人认可的控制感（避免被评价），同时短期回避直接面对羞愧与失望。",
+          "consequence": "情绪低落、工作表现受影响、人际关系紧张、对兴趣与活动的动机下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1078
+}

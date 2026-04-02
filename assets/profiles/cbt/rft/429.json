@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "陈艾米",
+      "gender": "女",
+      "occupation": "高中高年级学生",
+      "educational_background": "计划进入肯塔基大学就读",
+      "marital_status": "单身",
+      "family_status": "有两个兄弟；与兄弟关系支持性良好",
+      "social_status": "有支持性的家人和朋友，但对向他们表达大学焦虑持犹豫态度",
+      "medical_history": "未出现类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "思维与表达清晰，能具体描述担忧；语气偏消极，倾向灾难化与预测未来；配合度良好，愿意尝试小步行动；自我怀疑较多（如“我不确定”“不够”）"
+    },
+    "main_problem": "对即将进入肯塔基大学感到焦虑，认为会因工作量过大而表现不佳。",
+    "topic": "学业压力",
+    "core_demands": "在入学前处理我的焦虑和消极想法。",
+    "growth_experiences": [
+      "在高中曾有几次面对项目或考试时，最初认为自己无法完成或考不好，但最终通过坚持学习计划与提醒自己“我曾经做得很好”而顺利完成并取得良好结果；这类经历增强了她在结构化学习与时间管理上的有效性。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任大学的学习",
+        "我无法应对高强度的学业压力"
+      ],
+      "special_situations": [
+        {
+          "event": "思考大学课程的工作量（大量阅读与作业），并回忆在读学生对课堂强度的描述",
+          "conditional_assumptions": "如果大学课程强度很高，我就一定会被压垮、无法跟上",
+          "compensatory_strategies": "提前制定学习计划，并向在读学生寻求建议以试图掌控不确定性",
+          "automatic_thoughts": "到了大学我会做得更差，因为会被工作压垮。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "开始准备大学申请，伴随对“要保持学业优秀”的压力上升",
+          "conditional_assumptions": "如果不能维持与高中同等的优秀表现，就说明我失败",
+          "compensatory_strategies": "强化时间管理与每日时间表，尝试严格执行以证明自己能胜任",
+          "automatic_thoughts": "不管我怎么计划，都不够，最终会失败。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与在读学生谈论大学课程的强度与作业量",
+          "conditional_assumptions": "他人的艰难经历预示我也会遇到同样的失败",
+          "compensatory_strategies": "减少向亲友表达焦虑以避免“拖累他们”，尽量独自消化",
+          "automatic_thoughts": "他们都觉得很难，我也必然撑不住。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当考虑采用每日时间表并尝试一周的行为实验",
+          "conditional_assumptions": "如果我不能完全坚持计划，就说明我不适应大学生活",
+          "compensatory_strategies": "在行动前反复自我怀疑，降低对外部支持的寻求",
+          "automatic_thoughts": "即使坚持一周也没什么用，终究还是跟不上。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望胜任并维持优秀表现，获得安心与认可",
+        "fear": "害怕在大学失败、被压力压垮，令自己与他人失望",
+        "defense_goal": [
+          "通过周密计划与自我控制来降低不确定性",
+          "避免向家人表达焦虑以免负担他们"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "担心失败、需要证明自己能胜任的学习者",
+          "object_representation": "在读学生与大学环境被视为苛刻的要求者/评判者",
+          "linking_affect": "焦虑、恐惧"
+        },
+        {
+          "self_representation": "不愿麻烦他人的犹疑求助者",
+          "object_representation": "兄弟被视为支持但可能被自己情绪所负担的他人",
+          "linking_affect": "犹豫、内疚、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其考虑积极结果或进行小步尝试（如坚持一周的日程）",
+          "interpretation": "将建议理解为必须“完美坚持”才算胜任，担心努力也不会足够",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以谨慎、保留的语气回应，用“也许/不确定”弱化承诺，强调计划可能不足。"
+        },
+        {
+          "trigger_condition": "当想到向兄弟或朋友表达大学焦虑、寻求支持时",
+          "interpretation": "认为自己的情绪会给他们造成负担，可能让他们不舒服或失望",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "回避开启相关话题，轻描淡写焦虑感受，转而自行消化。"
+        },
+        {
+          "trigger_condition": "当听到在读学生谈课程强度与大量作业时",
+          "interpretation": "将他人的困难视为对自己“必然失败”的预言，为退缩或不寻求支持提供理由",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调“课程非常严苛、大家都很难”的叙述，以笃定的语气为自身悲观预期辩护。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有支持的家庭与朋友，但犹豫向他们表达焦虑，担心给他们造成负担",
+            "倾向独自承担不确定性与压力"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "睡眠受影响",
+            "注意力下降",
+            "社会支持未被充分利用"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在大学过渡中感到选择与自我管理的责任增大（时间管理、保持优秀）",
+            "对“能否胜任”的自由选择伴随高度自我要求"
+          ],
+          "outcomes": [
+            "自我苛责与预期失败",
+            "持续焦虑",
+            "僵化的时间控制倾向"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须保持高中水平、在大学也要一样优秀”的外在要求当作自我标准",
+            "以“压力要持续优秀”为内在信条自我约束"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外发出的能量或请求，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不愿向兄弟或朋友表达焦虑与寻求支持，转而自我消化情绪",
+            "在焦虑时选择独自承受而非外求帮助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑（如“我不确定能坚持”“无论怎么计划都不够”）",
+            "对行动与尝试持保留态度，降低承诺强度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对被认为“强度很高”的学习任务时，来访者通常会预测自己会失败并陷入焦虑，随后睡眠紊乱、注意力下降。",
+          "unique_outcome": "在高中某几次项目或考试中，来访者起初认为自己无法完成或考不好，但最终坚持学习计划并顺利完成，表现良好。",
+          "reason": "不同做法：坚持并执行学习计划；不同理解：提醒自己过去曾经做得很好，从而减轻焦虑并维持投入。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "过去在学业任务上有成功经验，能通过计划与坚持完成高要求任务",
+          "有支持性的家人和朋友可成为资源",
+          "具备时间管理与学习计划的意识",
+          "愿意尝试小步行动（如先坚持一周的每日时间表）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式",
+          "过度概括他人困难到自身失败",
+          "犹豫寻求支持、担心给他人造成负担",
+          "睡眠紊乱与注意力下降维持问题循环",
+          "对自我效能缺乏信心、倾向自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对大学学业的持续焦虑与灾难化预测",
+          "antecedent": [
+            "思考大学的工作量（阅读与作业）",
+            "与在读学生交流其课程强度",
+            "准备大学申请并面临提高学业表现的压力"
+          ],
+          "core_reason": "基于他人经验与对大学强度的灾难化认知，过度概括自己将无法胜任",
+          "function": "逃避预期的失败与压力，并通过计划寻求控制感",
+          "consequence": "睡眠紊乱、注意力下降、信心不足、持续焦虑"
+        },
+        {
+          "behavior": "回避向家人（兄弟）表达焦虑与寻求支持",
+          "antecedent": [
+            "感到焦虑并想到寻求帮助时",
+            "与家人互动的机会出现时"
+          ],
+          "core_reason": "担心给他人造成负担、害怕让他人失望",
+          "function": "避免内疚与维持人际和谐",
+          "consequence": "社会支持未被充分利用，孤独感增加，焦虑得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 429
+}

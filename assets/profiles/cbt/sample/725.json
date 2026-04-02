@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈博文",
+      "gender": "男",
+      "occupation": "通勤者（开车一小时上下班）",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "社交支持系统匮乏（面对烹饪或负面想法时无人可倾诉或求助）",
+      "medical_history": "无重大躯体疾病；未接受过其他心理治疗；无类似问题的既往史",
+      "language_features": "表达清晰，能具体描述事件与感受；语气消极、带有自我批评；配合度尚可"
+    },
+    "main_problem": "我对自己的烹饪能力有极端的负面想法，尤其是在一次做蛋饼失败之后。",
+    "topic": "情绪管理",
+    "core_demands": "持续的负面想法开始影响我的情绪和整体健康，这促使我寻求咨询。",
+    "growth_experiences": [
+      "一次做蛋饼失败的经历：当时为自己做饭压力较高，蛋饼过度熟、奶酪边缘变得焦脆且蛋饼散开；事件后对自己产生强烈的“完全失败”感受，并逐步发展为对烹饪的回避与自我批评。",
+      "长期缺乏社会支持系统：在面对烹饪困难或被负面思维困扰时，没有可以倾诉或寻求帮助的具体对象，这加剧了无助感与回避。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的厨师",
+        "我永远也做不好烹饪",
+        "如果连简单的蛋饼都做不好，就说明我这个人不行"
+      ],
+      "special_situations": [
+        {
+          "event": "做蛋饼失败（过度熟、奶酪边缘焦脆、蛋饼散开）",
+          "conditional_assumptions": "如果连简单的蛋饼都做不好，就说明我在烹饪上很差、我这个人也是失败的",
+          "compensatory_strategies": "将该次失误视为全面失败并避免再次烹饪以免重复失败",
+          "automatic_thoughts": "我是个失败的厨师",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每次想到要做饭或计划为自己做一餐时",
+          "conditional_assumptions": "如果再尝试烹饪，我一定还会失败并感觉更糟",
+          "compensatory_strategies": "回避烹饪，选择不做饭或买现成食物",
+          "automatic_thoughts": "何必尝试？我又会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "试图关注自己烹饪中的小积极之处（例如“没有烧糊”），却仍感到被失败感压倒",
+          "conditional_assumptions": "积极之处不算数，失败才是真实",
+          "compensatory_strategies": "否定正面反馈，维持自我批评的叙事",
+          "automatic_thoughts": "那只是侥幸，不代表我会做得好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在为自己做饭的情境下感到压力很高（需要做出像样的一餐）",
+          "conditional_assumptions": "必须把简单料理做得完美，否则就是失败、没有意义",
+          "compensatory_strategies": "对自己设定过高标准，失败后自责并进一步回避",
+          "automatic_thoughts": "如果不能做到完美，就不该尝试",
+          "cognitive_pattern": "Should Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定与看见为有能力的人（在日常烹饪上能自我胜任）",
+        "fear": "害怕失败导致自我价值被否定与羞辱",
+        "defense_goal": [
+          "通过回避烹饪与否定正面证据来降低失败带来的焦虑并维持脆弱的自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的、无能的厨师",
+          "object_representation": "苛责的评判者（内在批评者或想象中的他人）",
+          "linking_affect": "羞愧、挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论蛋饼失败并被邀请关注其中的积极面或小的成功时",
+          "interpretation": "把积极证据视为“侥幸”，感觉他人试图安慰是“没有依据的乐观”，并维持“我就是失败者”的图式",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平静但坚决，反复强调“那只是侥幸”，使用否定性措辞，减少情感表达，避免被说服。"
+        },
+        {
+          "trigger_condition": "当被建议以“小步实验”（如做炒蛋）来尝试改变时",
+          "interpretation": "将尝试视为再次证明自己失败的考验，认为改变是“不现实的”或“只是理论上的可能”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用抽象化与概括性词语（如“理论上”“客观来说”），语气谨慎，回避主观感受词，保持距离感。"
+        },
+        {
+          "trigger_condition": "在面临必须为自己做饭、且担心不能做到完美的情境",
+          "interpretation": "将内在的苛责转向自身，把不完美解读为“我不该做/我很糟”，以自责来消解焦虑",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“我不行”），降低自我价值陈述，语气低沉，强调失败后果以维持回避。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在面对烹饪困难或负面思维时，没有可以倾诉或寻求帮助的人",
+            "独自承受压力与自我批评"
+          ],
+          "outcomes": [
+            "增加无助与焦虑感",
+            "回避烹饪行为",
+            "情绪低落、幸福感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次失败扩展为对自我价值的质疑（“如果连蛋饼都做不好，那我算什么”）",
+            "把完美表现作为价值条件，认为不完美即失败"
+          ],
+          "outcomes": [
+            "自我贬低与绝望感",
+            "动力下降与避免尝试",
+            "持续的负面自我评价"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责（“我是个糟糕的厨师”）",
+            "担心失败而不敢尝试，倾向于回避",
+            "把小的成功视为“侥幸”，不予承认"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把原本想要练习烹饪的冲动转而压制，对自己施加限制",
+            "选择不做饭以避免面对失败与焦虑"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "为简单料理设定完美标准，认为“不完美即失败”",
+            "将“必须做到完美”的规则当作衡量自我价值的绝对标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要为自己做饭的情境中，来访者通常会被强烈的负面思维困住并回避烹饪，导致饮食选择与习惯受影响。",
+          "unique_outcome": "曾经做出过还算像样的意面（可食用、并非完全失败），相较以往并未彻底陷入“我就是失败者”的状态。",
+          "reason": "线索：任务较简单（意面操作更直观）、当次压力相对较小；来访者能注意到小的积极方面，从而降低了失败感的主导性。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有具体的成功经验（做出过可食用的意面）",
+          "能够觉察并命名负面思维模式（如非黑即白、否定正面）",
+          "有动力寻求帮助（主动求助咨询）"
+        ],
+        "negative_force": [
+          "否定正面、非黑即白与预测未来等认知偏差显著",
+          "社交支持匮乏，遇到困难时独自承受",
+          "将完美表现作为价值条件，失败即自我否定",
+          "高压力情境下倾向回避，维持问题循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪（以及与烹饪相关的强烈自我批评与负性自动思维）",
+          "antecedent": [
+            "想到要为自己做饭",
+            "回忆起蛋饼失败的经历",
+            "在为自己做饭的情境中压力较高时"
+          ],
+          "core_reason": "将一次失败灾难化并进行非黑即白的归因，形成“我就是失败者”的核心图式以避免再次体验失败与羞愧",
+          "function": "逃避不受欢迎的情绪与失败体验，短期降低焦虑与压力",
+          "consequence": "饮食习惯与选择受到影响，整体情绪与幸福感下降，并维持负性自我图式与回避循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 725
+}

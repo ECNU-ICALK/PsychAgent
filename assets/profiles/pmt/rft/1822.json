@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "75",
+      "name": "林静",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有许多可以交谈的朋友，但因不喜欢音乐而在社交中感到孤立并减少参与含音乐的聚会",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；未报告类似问题史",
+      "language_features": "配合度高、表达清晰、语气平和；态度积极"
+    },
+    "main_problem": "因为我不喜欢音乐而别人都喜欢，我觉得自己永远不会受欢迎或融入，这导致孤立感和不属于感。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些孤立感正在影响我的社交生活和整体幸福，于是寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不会受欢迎或融入",
+        "与多数人不同意味着我会被排斥"
+      ],
+      "special_situations": [
+        {
+          "event": "在有音乐的社交聚会或活动中",
+          "conditional_assumptions": "如果我不喜欢音乐而别人都喜欢，我就无法受欢迎、也无法融入",
+          "compensatory_strategies": "回避或不参加含音乐的社交场合",
+          "automatic_thoughts": "他们会觉得我很奇怪或无聊",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友表达惊讶或评论“你怎么会不喜欢音乐？”",
+          "conditional_assumptions": "如果我的兴趣不符合大众，就会被评判和排斥",
+          "compensatory_strategies": "减少在话题中表达观点，保持沉默或离开场合",
+          "automatic_thoughts": "他们在评判我、看不起我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "独自思考未来的社交与受欢迎程度",
+          "conditional_assumptions": "如果我在一个重要兴趣上与他人不同，那么在社交上就注定失败",
+          "compensatory_strategies": "预先否定潜在社交机会以避免失望",
+          "automatic_thoughts": "我将永远不会受欢迎或适应群体",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "周围朋友谈论并热爱音乐的日常情境",
+          "conditional_assumptions": "要么和他们一样喜欢音乐才能被接纳，否则就完全不属于",
+          "compensatory_strategies": "把注意力放在差异上，忽视其他共同点与积极互动",
+          "automatic_thoughts": "我和他们毫无共同点，所以不可能融入",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、拥有归属感并与朋友建立稳固连接",
+        "fear": "害怕被评判、被排斥与不被理解",
+        "defense_goal": [
+          "通过回避含音乐的社交场景来降低被评价与受挫的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不合群的局外人",
+          "object_representation": "爱评判、无法理解我的群体/他人",
+          "linking_affect": "孤独、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在会谈中回忆社交聚会或他人评论“你怎么会不喜欢音乐？”的片段时",
+          "interpretation": "将他人的惊讶理解为评判与拒绝（移情：把外界反应视作否定）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "先共情其被评判感，语气温和；用开放式提问与现实检验引导其区分推测与证据，鼓励具体化他人行为与自身感受。"
+        },
+        {
+          "trigger_condition": "当咨询师提出替代解释或提供与其信念相矛盾的证据时",
+          "interpretation": "倾向于把“喜欢音乐才被接纳”的规则当作自我价值的前提（将群体规范内化）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用温和对质与重述，邀请其区分他人规则与自我价值；鼓励举例非音乐场景的积极互动，强化多元自我认同。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期感到孤立与不属于感",
+            "在有音乐的社交场合更为强烈",
+            "因担心不被接纳而回避聚会"
+          ],
+          "outcomes": [
+            "社交参与受限",
+            "与朋友的互动减少",
+            "主观孤立感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为“他们在看不起我”。",
+          "manifestations": [
+            "揣测朋友认为自己怪异或无聊",
+            "把他人的惊讶与提问理解为负面评判"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "回避含音乐的社交活动",
+            "在相关话题中保持沉默或转移话题以减少不适"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在含音乐的社交场合，来访者通常会感到孤立并选择回避，导致与朋友互动减少。",
+          "unique_outcome": "来访者提到与朋友一起进行不涉及音乐的其他活动时，大家依然玩得很开心，关系保持良好。",
+          "reason": "不同情境：该活动不涉及音乐、关注共同兴趣；朋友在这些活动中展示关心与投入，使其体验到连接感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意尝试认知重构与行为实验",
+          "在非音乐活动中与朋友有愉快互动的正向经验",
+          "拥有可交谈的朋友网络"
+        ],
+        "negative_force": [
+          "预测未来与灾难化（认为自己永远不会受欢迎）",
+          "过度概括与非黑即白思维（把单一兴趣差异等同为彻底不被接纳）",
+          "读心术与个人化倾向（将他人惊讶解读为评判）",
+          "回避含音乐的社交场景，进一步强化孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避含音乐的社交聚会与活动",
+          "antecedent": [
+            "看到或预期社交活动会有音乐",
+            "朋友谈论音乐并表达惊讶“你怎么会不喜欢音乐？”"
+          ],
+          "core_reason": "将“不喜欢音乐=无法被接纳/不受欢迎”的信念视为事实，担心被评判与排斥",
+          "function": "逃避不被接纳与被评判的潜在不适，短期降低焦虑",
+          "consequence": "社交参与与互动减少，孤立感与不属于感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1822
+}

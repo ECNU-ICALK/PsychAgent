@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "夏洁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母居住在佛罗里达；兄长目前在她家借住并与其共同生活",
+      "social_status": "有少量朋友与家人可交谈，但尚未就此问题与他们沟通",
+      "medical_history": "无显著躯体问题；此前未寻求心理治疗；过往未出现类似问题",
+      "language_features": "配合度较好，表达清晰连贯，能识别触发因素；语气偏消极，倾向自我批评；对“积极自我对话”持怀疑态度"
+    },
+    "main_problem": "我倾向于关注情境中的负面部分，导致失望和自我批评的感受。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自己关注负面影响了情绪和关系，因此此时寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不完美等于失败",
+        "犯错说明我不行"
+      ],
+      "special_situations": [
+        {
+          "event": "与兄长一起煮意面时稍微煮过头",
+          "conditional_assumptions": "如果事情没有做到完美，就意味着失败并让他人失望",
+          "compensatory_strategies": "设定更高的标准、过度控制步骤；事后进行自我批评以促使自己“下次必须完美”",
+          "automatic_thoughts": "我把一切都毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与兄长一起烘焙蛋糕结果失败",
+          "conditional_assumptions": "只要出现错误，整个经历就不值得；积极部分不算数",
+          "compensatory_strategies": "只盯着出错之处回放并否定正面体验，试图通过苛责自己来避免再次犯错",
+          "automatic_thoughts": "做砸了就说明整件事都很糟",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当事情没有按计划进行",
+          "conditional_assumptions": "如果出现偏差，后续必然会越来越糟",
+          "compensatory_strategies": "提前设想最坏情况、保持高度警惕以试图控制风险",
+          "automatic_thoughts": "这次不顺利，接下来也会出问题",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与兄长互动中出现小差错或冲突",
+          "conditional_assumptions": "如果发生不如意，我应为全部后果负责",
+          "compensatory_strategies": "将责任揽到自己身上并向兄长发脾气以释放压力",
+          "automatic_thoughts": "都是我的错，他会怪我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望与兄长保持亲密、被认可并拥有和谐相处的体验",
+        "fear": "害怕因犯错而被批评、被失望，关系因此受损",
+        "defense_goal": [
+          "通过追求完美与自我苛责来避免错误与被否定",
+          "把紧张与不满转移到次要目标以缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要完美才能被接纳的自责者",
+          "object_representation": "重要他人（兄长/亲人）是评判者，可能会失望或批评",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与兄长共同活动出现失误或被讨论“哪里做得不够好”时",
+          "interpretation": "将小失误视为全面失败，并认为兄长会责怪自己（移情：把过往被评判的体验投射到当前关系）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "语气急促、易烦躁；将不满指向兄长或次要话题，使用“都是我的错”“你看吧”之类短句，回避具体事实探讨。"
+        },
+        {
+          "trigger_condition": "当被要求放下完美标准、尝试更中性或现实的视角时",
+          "interpretation": "体验为“如果不坚持高标准就会失控”，将外界的“必须完美”的规则当作自己的准则",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "频繁使用“应该/必须”句式，自责语气，强调规则与标准，弱化感受层面的探索。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "高期待与“必须完美”的价值条件限制了选择与自发性",
+            "害怕犯错导致对日常活动的僵化控制"
+          ],
+          "outcomes": [
+            "焦虑与羞耻感增强",
+            "享受活动的能力下降",
+            "与兄长的关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在咨询中频繁自我批评，担心犯错",
+            "对新的视角持怀疑态度，谨慎表达感受"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "使用“应该/必须”式语句",
+            "将完美主义规则视为唯一正确方式"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试重构与作业（表示可以试试）",
+          "能识别触发情境（事情不按计划时）",
+          "与兄长关系中存在积极体验（一起做饭、烘焙）",
+          "具备一定社会支持（有朋友和家人可谈）"
+        ],
+        "negative_force": [
+          "高期待与完美主义",
+          "害怕犯错并倾向灾难化预测",
+          "否定积极面、只关注错误",
+          "自我批评并将情绪迁怒于兄长"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化与非黑即白的认知反应",
+          "antecedent": [
+            "事情未按计划进行",
+            "与兄长的共同活动出现小失误（如做饭、烘焙）"
+          ],
+          "core_reason": "高期待与对犯错的恐惧，导致将小失误等同全面失败",
+          "function": "逃避失败与羞耻感、通过认知控制寻求安全感",
+          "consequence": "情绪低落、羞耻、自我批评；影响与兄长关系与活动的乐趣"
+        },
+        {
+          "behavior": "对兄长易怒并迁怒",
+          "antecedent": [
+            "在共同活动发生失误之后",
+            "感到失败或被批评的威胁时"
+          ],
+          "core_reason": "将对失败的焦虑与自责转化为对外的发泄（防御性转移）",
+          "function": "释放紧张与不适，短暂减轻内在压力",
+          "consequence": "与兄长关系紧张，沟通质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 582
+}

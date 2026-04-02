@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13岁",
+      "name": "林凡",
+      "gender": "男",
+      "occupation": "服装零售店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单亲（育有一名孩子）",
+      "family_status": "与一个孩子同住",
+      "social_status": "有几位亲密朋友，但尚未向他们充分分享关于花园的焦虑",
+      "medical_history": "无类似问题经历；未接受过其他心理治疗；无重大躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我持续对花园感到焦虑和压力，一朵玫瑰不开花就让我认为整个花园很快会死亡。",
+    "topic": "情绪管理",
+    "core_demands": "当对花园的焦虑影响到我的日常生活以及工作与育儿的专注时，我决定寻求咨询；我想尝试感恩日记并更好地管理我的焦虑性思维，看看能否在没有那么多担忧的情况下享受我的花园。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "小问题必然会演变成大灾难",
+        "事情要么完美，要么彻底失败"
+      ],
+      "special_situations": [
+        {
+          "event": "看到一株玫瑰不开花",
+          "conditional_assumptions": "如果不立刻修复，一个小问题会迅速蔓延成更大的灾难，最终整个花园都会死亡",
+          "compensatory_strategies": "反复检查花园、立即寻找解决方案、阅读园艺博客",
+          "automatic_thoughts": "我的花园很快会毁掉",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在工作中联想到那株未开花的玫瑰",
+          "conditional_assumptions": "一旦出现异常迹象，后续一定会越来越糟",
+          "compensatory_strategies": "难以专注工作，转而频繁查看园艺信息或监测花园",
+          "automatic_thoughts": "接下来会变得更糟，所有植物可能都会死",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到其他植物状态良好，但目光与注意力仍停留在未开花的玫瑰上",
+          "conditional_assumptions": "问题才是关键，积极迹象不重要",
+          "compensatory_strategies": "忽略花园多数植物茁壮的事实，只关注问题植株",
+          "automatic_thoughts": "这株不开花说明整体有严重问题",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "大部分植物茁壮生长，但一株不理想时仍将整体评价为失败",
+          "conditional_assumptions": "只要有一处不完美就等同于整体失败",
+          "compensatory_strategies": "用“全好或全坏”的框架解释花园状况",
+          "automatic_thoughts": "如果有一株不好，我的花园就是失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到未开花的玫瑰时，来访者通常会灾难化思维、反复检查花园与上网查找解决方案，焦虑加剧并影响睡眠与工作专注。",
+          "unique_outcome": "最近看到新种的郁金香开得很美，并注意到多数植物茁壮成长，心情有所缓解，没有像以往那样完全陷入对那株玫瑰的担忧。",
+          "reason": "不同关注与情境线索：留意到花园里积极的事实（郁金香盛开、其他植物状态良好），因此当下没有把注意力全部集中在问题植株上。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对园艺投入与细致观察",
+          "愿意主动寻找方法（阅读园艺博客、尝试修复）",
+          "具备一定的自我反思与接受替代视角的意愿",
+          "拥有少量可谈心的朋友"
+        ],
+        "negative_force": [
+          "灾难化思维与非黑即白思维显著",
+          "心理过滤导致忽视积极事实",
+          "预测最坏结果的倾向",
+          "反复检查与过度关注造成精力耗竭",
+          "工作压力与个人责任增加加剧焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到未开花的玫瑰时出现强烈焦虑并反复检查花园、上网查找信息",
+          "antecedent": [
+            "看到或想到那株未开花的玫瑰",
+            "工作压力与个人责任增加"
+          ],
+          "core_reason": "将局部问题灾难化、以非黑即白的方式推断整体失败，并预测最坏结果",
+          "function": "通过监控与查找方案获得短暂的控制感与确定性，逃避焦虑不适",
+          "consequence": "睡眠受影响、工作专注下降、人际关系紧张、与孩子相处的放松度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 822
+}

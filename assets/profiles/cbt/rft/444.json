@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "林浩",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位可以谈心的亲密朋友，但尚未与他们讨论这些感受",
+      "medical_history": "未经历类似心理问题；未接受心理治疗；无显著身体疾病",
+      "language_features": "自我批评强烈、使用贬损性自我标签；倾向非黑即白与灾难化表达；能清晰描述经历与想法；因羞耻而回避与他人分享"
+    },
+    "main_problem": "最近因早晨吃了一些薯片而打破健康习惯，引发强烈的失败感与自我批评；此后只要在健康例行中出现小失误，失败感会加剧并频繁出现。",
+    "topic": "情绪管理",
+    "core_demands": "强烈的自我批评与失败感已开始影响日常生活与心理健康，希望能够打破这种负面循环，更加平和，并能更好地享受生活，而不再因错误而持续紧张与焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我永远不可能健康",
+        "我不能坚持任何事情"
+      ],
+      "special_situations": [
+        {
+          "event": "早晨吃了薯片，打破了健康意识的连续记录",
+          "conditional_assumptions": "如果我一次吃了不健康的食物，就等于彻底失败",
+          "compensatory_strategies": "不断重申健康目标，并立刻对自己提出严格要求",
+          "automatic_thoughts": "我永远不可能健康了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在健康例行中出现小失误（未能完美遵循健康习惯）",
+          "conditional_assumptions": "如果我不是完美执行，就说明我不行",
+          "compensatory_strategies": "通过严厉的自我批评来迫使自己完美执行",
+          "automatic_thoughts": "我什么都做不好，我不能坚持任何事情",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "任何轻微偏离既定的健康计划",
+          "conditional_assumptions": "一次失误会抹杀所有既往努力和进步",
+          "compensatory_strategies": "回避与朋友讨论以避免尴尬与被评价",
+          "automatic_thoughts": "我的努力都白费了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回顾最近的健康表现时，只关注自己出现的差错",
+          "conditional_assumptions": "负面表现更重要，积极部分“不算数”",
+          "compensatory_strategies": "用自我苛责来保持警醒，忽视正面证据",
+          "automatic_thoughts": "我又搞砸了，说明我根本不行",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持自律与健康并被视为“做得到”的人",
+        "fear": "害怕任何失误意味着自己是失败者，前功尽弃",
+        "defense_goal": [
+          "通过设定完美标准与严厉自我批评来避免失误",
+          "回避与他人分享以减少尴尬和被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够自律、容易失败的人",
+          "object_representation": "他人可能会评判或看轻我的群体",
+          "linking_affect": "羞耻、焦虑、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及健康习惯中的任何小失误，或被询问是否与朋友分享这些感受时",
+          "interpretation": "将他人的关注或提问理解为对自己失败的评判与否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责的语气描述自身，用“失败者”等贬损标签；淡化或否认积极进展；避免与他人深入交流。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以完美与“不得有任何偏差”的标准约束自我选择",
+            "将一次失误等同为彻底失败，难以允许人性的不完美"
+          ],
+          "outcomes": [
+            "持续的焦虑与压力",
+            "动机下降与自我价值感降低",
+            "难以享受生活与维持自我关怀"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度自我苛责、严厉自我标签（如“失败者”）",
+            "在咨询前不愿与朋友分享困扰，担心尴尬与被评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本欲向外表达或寻求的能量转而对自己，将冲动或需求对向自身。",
+          "manifestations": [
+            "不向朋友寻求支持，转而自我批评与自我惩罚",
+            "将失望与压力转回到自我责备上"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "健康意识强，明确健康目标",
+          "愿意寻求咨询并尝试改变",
+          "拥有几位亲密朋友，存在潜在支持资源",
+          "能清晰描述并觉察自身的负面思维与影响"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括与心理过滤等认知偏差显著",
+          "频繁且严厉的自我标签与自我批评",
+          "否定积极进展、聚焦错误",
+          "完美主义与极高标准导致压力增大与动机下降",
+          "因羞耻而回避寻求社交支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在健康习惯出现微小偏差后进行严厉自我批评与失败化自我标签",
+          "antecedent": [
+            "早晨吃薯片等偏离健康计划的行为",
+            "健康例行中的小失误",
+            "未能完美执行既定健康习惯"
+          ],
+          "core_reason": "完美主义与非黑即白的认知倾向，将一次失误等同于彻底失败，并灾难化预测“永远不可能健康”。",
+          "function": "通过自我惩罚与负性自我对话来试图强化自律、避免再次失误与维持对行为的控制感",
+          "consequence": "动机下降，焦虑与压力加剧，日常自我照护与生活节律受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 444
+}

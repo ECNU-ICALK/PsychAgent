@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "单身",
+      "family_status": "独居于大城市",
+      "social_status": "有朋友可交流，但因对爱好的自卑与怀疑而难以敞开心扉，关系受到影响",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题与心理治疗史",
+      "language_features": "表达清晰，能描述内在体验与负性思维模式；语气中性，合作度较好；倾向自我批评与关注负面"
+    },
+    "main_problem": "我在爱好方面（尤其是玩电子游戏）感到自卑与自我怀疑。几个月前在一次关于爱好的社交聚会后开始加重，如今我回避谈论爱好，并在玩游戏时感到内疚与“不属于/不够好”。",
+    "topic": "自我探索",
+    "core_demands": "我决定寻求咨询，因为这些自我怀疑开始影响到我的自尊和对爱好的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有擅长的事情才算有价值",
+        "我的价值取决于他人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会中，人们讨论各自的爱好",
+          "conditional_assumptions": "如果我在某项活动上不够擅长，就不配称之为爱好，他人会看不起我",
+          "compensatory_strategies": "回避在社交场合谈论爱好，尝试寻找“更体面”的新爱好，并寻求他人的认可",
+          "automatic_thoughts": "我不够好，这不算爱好，我不属于他们",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "独自在家玩电子游戏或计划玩游戏",
+          "conditional_assumptions": "只有把时间用在‘提升’或‘有产出’的事情上才算正当",
+          "compensatory_strategies": "压缩或减少游戏时间，试图用自责来迫使自己改变，尝试更换爱好",
+          "automatic_thoughts": "我不应该玩游戏，这是在浪费时间",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "朋友询问周末如何放松或兴趣爱好",
+          "conditional_assumptions": "如果暴露自己的真实爱好，就会被他人评判与贬低",
+          "compensatory_strategies": "模糊回答、话题回避、转而询问对方以避免被评价",
+          "automatic_thoughts": "他们会看轻我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在日本餐馆点餐时语言不通、沟通受阻",
+          "conditional_assumptions": "如果我不能流利沟通，就说明我无能且会被他人嘲笑或拒绝",
+          "compensatory_strategies": "依赖翻译应用、减少与陌生人的直接交流，尽量避免需要口头沟通的场景",
+          "automatic_thoughts": "大家都在盯着我，觉得我是个傻子",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，能以自己的方式享受爱好并拥有归属感",
+        "fear": "害怕被评判、被贬低与被拒绝，显得无能或不属于群体",
+        "defense_goal": [
+          "通过自我批评与回避暴露来减少被他人评价的风险",
+          "用遵从内在的“应该”规则与寻求外部认可来暂时缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被挑剔的局外人",
+          "object_representation": "挑剔的评判者/看轻自己的人",
+          "linking_affect": "羞耻、焦虑、孤立"
+        },
+        {
+          "self_representation": "在异国情境中笨拙且无助的沟通者",
+          "object_representation": "冷眼旁观、带着审视目光的他人",
+          "linking_affect": "恐惧、羞辱感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请关注并停留在一次积极体验（如参观寺庙的放松与愉悦）",
+          "interpretation": "积极体验“并不算数”，认为正面情绪不安全或终将被负面推翻",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件或想法分离，理智地谈论而缺乏情感反应",
+          "response_instruction": "语气克制而理性化，快速转换到负面细节，淡化或否认积极感受，使用诸如“这不代表什么”的表述。"
+        },
+        {
+          "trigger_condition": "当咨询师探询其对他人看法与社交情境的感受",
+          "interpretation": "将内心的自卑与自我否定归因于他人的负面评价（他人在看不起我）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不被承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "用不确定但肯定性的词语描述他人负面意图（如“他们一定觉得…”），语气谨慎，避免被进一步澄清。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在日本因语言障碍感到被隔离、难以沟通",
+            "在谈及爱好时感到“不属于”与格格不入，回避自我暴露"
+          ],
+          "outcomes": [
+            "自尊受损与自我怀疑加重",
+            "回避社交话题，主观孤立感增强"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "质疑“玩电子游戏”是否算爱好，否定带来快乐的活动",
+            "认为只有擅长/有产出才正当，短暂愉悦“不算数”"
+          ],
+          "outcomes": [
+            "玩乐时的内疚与自责，难以从休闲中恢复",
+            "生活满意度下降，对自我价值感的动摇"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "过度自我批评，认为不擅长就不配称为爱好",
+            "在社交对话中过分担心他人评价，谨慎而拘束"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触",
+          "manifestations": [
+            "当被邀请停留在积极体验时，迅速转回负面细节",
+            "在被问到兴趣爱好时含糊其辞、转换话题"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "认为周围人“都在盯着我、觉得我是傻子”",
+            "假定朋友会看轻自己对爱好的选择"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在旅行中遭遇语言障碍时，李博文通常会聚焦负面、感到孤立与恐惧，难以享受行程。",
+          "unique_outcome": "在参观历史寺庙的那一次，他没有被语言问题所困，能够放松并专注于景致，短暂地享受当下。",
+          "reason": "情境不同：以视觉体验为主、即时沟通压力较小；关系支持：朋友陪同；因此这次更容易脱离负面聚焦。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作与学业/职业功能稳定",
+          "有朋友的陪伴与支持资源",
+          "具备自我觉察负性思维模式的能力",
+          "愿意寻求专业帮助并尝试替代性视角与正向自我对话"
+        ],
+        "negative_force": [
+          "过度依赖外部认可，易因比较而自卑",
+          "否定正向、心理过滤等认知偏差显著",
+          "严格的“应该”规则导致内疚与自我否定",
+          "在社交中回避谈论爱好，强化不属于感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避谈论爱好/在社交场合隐瞒或模糊回应",
+          "antecedent": [
+            "社交聚会中被问到兴趣或周末如何放松",
+            "他人谈论各自的爱好"
+          ],
+          "core_reason": "害怕被评判与显得“不够好”，内在信念为“只有擅长才配得上称为爱好”",
+          "function": "逃避被否定的焦虑与羞耻感，保护自尊",
+          "consequence": "人际关系受影响，主观孤立与“不属于”的体验加重"
+        },
+        {
+          "behavior": "在玩游戏时产生强烈内疚与自责（伴随自我贬低的内语）",
+          "antecedent": [
+            "独自玩游戏或计划进行游戏娱乐",
+            "下班后安排休闲时刻"
+          ],
+          "core_reason": "内摄的价值条件：必须有产出/显得擅长才正当；将娱乐视为“浪费时间”",
+          "function": "通过自责施压以符合内在规则，试图获得道德感与控制感",
+          "consequence": "难以从休闲中恢复精力，整体情绪下降与自尊受损"
+        },
+        {
+          "behavior": "在语言障碍情境中过度关注负面并假定他人负面评价",
+          "antecedent": [
+            "旅行中需要用外语交流（如餐馆点餐）",
+            "翻译应用不够准确、沟通受阻"
+          ],
+          "core_reason": "对社交评价的高度敏感与自我否定的核心信念（担心被视为无能）",
+          "function": "通过预设他人否定来提前防御潜在羞辱（心理防护）",
+          "consequence": "旅行体验显著受损，焦虑与孤立感增强"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1453
+}

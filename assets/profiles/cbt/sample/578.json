@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "魏珊",
+      "gender": "女",
+      "occupation": "金融从业者",
+      "educational_background": "常春藤盟校毕业",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数朋友与家人可谈心，但尚未与他们讨论对薪资不满与自我不足感",
+      "medical_history": "无重大躯体疾病史，既往未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性好，能识别自身想法中的“应该”倾向；配合度高、态度积极"
+    },
+    "main_problem": "我认为尽管拥有名校教育背景和金融工作，我的收入没有达到我应得的水平，这使我感到不满和自我不足。",
+    "topic": "职业发展",
+    "core_demands": "设定更清晰的职业晋升目标并将其分解为可执行的小步骤；与经理讨论职业发展与晋升路径，从而提升工作满意度并减轻自我不足感。",
+    "growth_experiences": [
+      "常春藤盟校毕业后进入金融行业工作，因对薪资抱有很高期待而在入职之初即感到不满足与压力；该不满与自我不足感此后持续存在并随与同侪及行业标准的比较而加重。",
+      "上周同事提到其奖金显著高于自己，引发强烈的被低估感与全天心情受影响，加深了“收入应与教育背景高度匹配”的信念与不满。",
+      "尽管获得过上级的正向反馈与数次晋升，但仍倾向以薪资单一指标来衡量成功，从而忽视既有成就与支持性工作氛围，加剧对自我价值的怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值与成功取决于薪资水平"
+      ],
+      "special_situations": [
+        {
+          "event": "同事在谈论奖金时透露其奖金显著高于自己",
+          "conditional_assumptions": "如果我的收入低于同龄人或同事，就说明我不够优秀、价值更低",
+          "compensatory_strategies": "频繁与同事比较，尝试谈判加薪并寻求晋升，以证明自身价值",
+          "automatic_thoughts": "我被低估了／我不如他们／我应该拿到更多",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与同事讨论薪资或在工作场合被触发谈及收入与福利",
+          "conditional_assumptions": "以我的常春藤教育背景，我必须拿到更高的薪资，否则就是失败",
+          "compensatory_strategies": "设定僵化的薪酬期望，强化“应该”标准，围绕收入反复思考",
+          "automatic_thoughts": "以我的教育，我就应该赚得更多",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "收到上级的正向反馈或获得晋升",
+          "conditional_assumptions": "只有薪资才算真正的成功与认可，其他成就都不重要",
+          "compensatory_strategies": "忽视与贬低正面证据，继续以薪资为唯一评判自我价值的标准",
+          "automatic_thoughts": "这些认可不算数，关键还是我赚得不够",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "查看行业数据发现自己的薪资略低于平均但差距不大，同时拥有支持性的工作环境与良好同事关系",
+          "conditional_assumptions": "只要不是高于平均，就等于不被认可、没有价值",
+          "compensatory_strategies": "选择性关注偏低的一面，忽略工作环境与人际的积极面，持续加重不满",
+          "automatic_thoughts": "这仍然太低了，这说明我不被重视",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与公平回报自己的努力（最好以更高薪资体现）",
+        "fear": "害怕自己不够好、被低估，努力得不到应有回报",
+        "defense_goal": [
+          "通过维持高标准与“应该”规则获得掌控感与安全感",
+          "通过不断比较与追求外部认可来缓解内在的不安与自我怀疑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被低估、需要通过高薪证明价值的员工",
+          "object_representation": "同事/组织是评判与分配价值的权威者",
+          "linking_affect": "羞耻、焦虑、不满"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当听到同事谈论工资或奖金，或被要求看到自身成就与正面反馈时",
+          "interpretation": "将他人的陈述体验为对自身价值的否定或不足（被低估、没被认可）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、冷静的语气引用行业数据或市场差异，强调逻辑与事实，弱化或回避羞耻与失落等情绪表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "以薪资单一指标衡量成功与自我价值，忽视正向反馈与晋升、支持性的工作环境"
+          ],
+          "outcomes": [
+            "工作满意度下降",
+            "难以放松和享受兴趣爱好",
+            "持续的不满与自我不足感"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“我应该赚得更多”的内在规则所束缚，难以接纳现实差异与多元标准"
+          ],
+          "outcomes": [
+            "自我苛责与紧张加剧",
+            "对职业选择与路径的灵活度下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友与家人支持，却未与他们分享对薪资的不满与自卑"
+          ],
+          "outcomes": [
+            "情绪独自承受、主观孤立感增加",
+            "与同事互动受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "频繁使用“我应该赚得更多”的自我要求",
+            "将名校学历与高薪等同为必须达成的标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自责“我不够好”",
+            "与同事比较后在人际互动中更拘谨、敏感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "常春藤学历与金融从业经验为职业发展提供资源",
+          "获得过上级正向反馈与数次晋升，具备被认可的客观证据",
+          "工作环境支持性强、与同事关系良好",
+          "曾主动谈判加薪并寻求晋升，具有行动倾向",
+          "主动寻求心理咨询，态度积极、愿意改变"
+        ],
+        "negative_force": [
+          "过度依赖薪资作为外部验证以评估自我价值",
+          "频繁与同侪比较，强化自我不足感",
+          "僵化的“应该”规则导致目标与期待不切实际",
+          "倾向否定积极证据，聚焦负面（薪资）",
+          "对薪资的过度关注影响休闲与人际，降低工作满意度"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度关注薪资并反复与同侪比较，伴随自我贬低与反刍",
+          "antecedent": [
+            "与同事讨论薪资或奖金",
+            "查看行业薪资数据与同业对比",
+            "想到自己的常春藤教育背景并据此设定高期待",
+            "在获得正向反馈或晋升后仍查看薪资并产生落差感"
+          ],
+          "core_reason": "将自我价值与薪资水平直接等同，内化“应该赚得更多”的僵化规则，并依赖外部薪资作为价值验证来源",
+          "function": "寻求外部认可与确定感，以缓解对“不够好/被低估”的焦虑与羞耻；通过比较与施压行为期望促成加薪或晋升",
+          "consequence": "持续不满与自我不足感加剧，影响与同事互动，难以放松与享受兴趣，工作满意度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 578
+}

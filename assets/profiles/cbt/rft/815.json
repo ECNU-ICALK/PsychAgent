@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "张如迪",
+      "gender": "男",
+      "occupation": "母亲",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与配偶共同生活，有两个孩子（其中一个被诊断为自闭症），养两只狗",
+      "social_status": "与家人关系紧张；虽有支持性配偶，但因内疚而减少倾诉",
+      "medical_history": "无显著躯体疾病；无以往心理治疗史；孩子被诊断为自闭症后自责和失败感显著加重",
+      "language_features": "表达清晰、配合度高，整体语气消极与自我否定；常使用“应该/必须”的自我要求句式；焦虑与内疚突出，对小错误高度敏感"
+    },
+    "main_problem": "我经常觉得自己作为母亲在失败，尤其是当我犯小错误时。这种失败感在孩子被诊断为自闭症后开始。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询，因为这些作为母亲的失败感正在影响我的心理健康和与家人的关系。",
+    "growth_experiences": [
+      "在孩子被诊断为自闭症后，来访者的失败感与自责明显加重，起初将孩子的状况归因于自己，压力水平很高；此后只要在育儿方面出现小失误（如忘记准备零食、错过预约、叫醒晚了），就会触发每日的不足感与强烈自我批评，逐渐影响与配偶的关系以及日常自我照料与生活享受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用/不称职的母亲",
+        "我什么都做不好"
+      ],
+      "special_situations": [
+        {
+          "event": "某天忘记叫醒孩子，孩子未能准时到校",
+          "conditional_assumptions": "如果我没有把每件事都安排妥当、让孩子受到影响，就说明我是失败的母亲",
+          "compensatory_strategies": "加倍自我苛责以促改进；当天加紧安排并更严格管理日程以弥补失误",
+          "automatic_thoughts": "我是最差的母亲，我毁了他们的一天",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "忘记为孩子准备零食",
+          "conditional_assumptions": "如果我犯哪怕一个小错误，就证明我什么都做不好",
+          "compensatory_strategies": "更有组织、严格遵循育儿建议并制定清单以避免再犯",
+          "automatic_thoughts": "我总是把事情搞砸",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "错过孩子的预约（如学校或治疗相关）",
+          "conditional_assumptions": "如果孩子错过重要事项，都是我的责任，说明我不称职",
+          "compensatory_strategies": "减少与配偶或他人分享压力，独自承担以避免让他人失望",
+          "automatic_thoughts": "我让家人失望了，都是我的错",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "面对具有挑战性的育儿情境（尤其与孩子的自闭症相关）",
+          "conditional_assumptions": "作为母亲我必须时刻做到完美，不能出错",
+          "compensatory_strategies": "不断用“应该/必须”的高标准要求自己，以完美主义逼迫改进",
+          "automatic_thoughts": "我应该做得更好，不能犯错",
+          "cognitive_pattern": "Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为“足够好的”母亲，能掌控并保护孩子，获得认可与安心",
+        "fear": "害怕自己的不完美会伤害孩子、令家人失望，从而被视为失败的母亲",
+        "defense_goal": [
+          "通过自我苛责与完美主义维持控制感与改进感",
+          "减少向伴侣表达感受以避免被视为负担、维持关系表面稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败/不称职的母亲、容易犯错的照顾者",
+          "object_representation": "被我拖累、需要我完美照顾的孩子",
+          "linking_affect": "内疚、焦虑、羞愧"
+        },
+        {
+          "self_representation": "会给他人增加负担的人",
+          "object_representation": "支持但可能被我耗尽耐心的伴侣",
+          "linking_affect": "愧疚、担心被厌烦"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议练习自我慈悲、放下过度自责时",
+          "interpretation": "来访者认为“对自己好就是放纵和不负责任，会变得更糟”（移情性地将自我慈悲理解为失控）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "坚持高标准与‘应该’语句，强调必须完美；语气紧张与严厉，罗列自我批评的必要性，弱化情感感受。"
+        },
+        {
+          "trigger_condition": "当被鼓励与配偶更开放地沟通自身压力和感受时",
+          "interpretation": "来访者认为“我会让他厌烦、增加负担”，将自身担忧投射为对方的反应",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "表达对让伴侣厌烦的担心，语气犹豫，回避深入探讨，转而强调自己应当独自承受以避免麻烦他人。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心给伴侣带来负担而减少倾诉",
+            "在育儿压力下常独自承受，难以获得连接与支持"
+          ],
+          "outcomes": [
+            "亲密关系紧张",
+            "情绪耗竭，难以享受生活"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "每日被“不够好”的自我评价缠绕，难以从日常活动和自我照料中获得满足",
+            "积极努力（组织与遵循建议）被自己否定"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "内疚与焦虑加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“应该/必须”的自我要求（如必须完美，不能犯错）",
+            "将社会/养育规范未经消化地变为对自我的刚性标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "担心给伴侣增负而减少表达与求助",
+            "把压力与不满转向自我苛责与自我惩罚"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评并小心翼翼地约束自我表达",
+            "担心他人厌烦而压抑真实感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的配偶可提供情感支持",
+          "愿意寻求专业帮助并尝试自我慈悲练习",
+          "具备一定的组织性并努力遵循育儿建议"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、个人化等负性认知模式频繁出现",
+          "以高标准与‘应该’自我要求维持的完美主义与自我苛责",
+          "内疚感强，担心给伴侣增负而减少求助",
+          "对小错误反复思考，难以放松与享受日常"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在育儿出现小失误时的过度自责与反复思考（伴随焦虑与内疚）",
+          "antecedent": [
+            "忘记叫醒孩子导致迟到",
+            "忘记为孩子准备零食",
+            "错过孩子的预约",
+            "面对具有挑战性的育儿情境"
+          ],
+          "core_reason": "孩子被诊断为自闭症后将其处境部分归因于自己，形成“必须完美、不能犯错”的信念，并以灾难化方式评估失误的后果",
+          "function": "通过自我惩罚与高标准来维持主观的控制与改进感，试图避免再犯（负强化）；同时回避面对不确定性与脆弱感",
+          "consequence": "情绪困扰加重、难以享受日常活动与自我照料，家庭关系紧张"
+        },
+        {
+          "behavior": "回避向配偶表达真实压力与情绪、减少求助",
+          "antecedent": [
+            "担心自己的情绪会给配偶增加负担",
+            "担心被伴侣厌烦或否定"
+          ],
+          "core_reason": "对被视为失败与令他人失望的恐惧，将负面评价的可能性投射到伴侣身上",
+          "function": "避免被拒绝或被评判以维持关系的表面和谐（逃避不受欢迎的结果）",
+          "consequence": "社会支持减少、孤独感增强、压力累积并加剧自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 815
+}

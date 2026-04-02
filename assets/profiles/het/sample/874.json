@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "李婧",
+      "gender": "女",
+      "occupation": "高中生",
+      "educational_background": "高中在读",
+      "marital_status": "未婚",
+      "family_status": "与父母及年幼的弟妹同住",
+      "social_status": "与舞蹈队队友关系因自信不足而紧张；有几位密友可倾诉但不完全理解团队压力",
+      "medical_history": "无重大躯体疾病；既往未接受过心理治疗或咨询",
+      "language_features": "表达清晰、逻辑性较好，配合度高，能识别并讨论负性思维；情绪低落但态度积极，愿意尝试新方法"
+    },
+    "main_problem": "我觉得自己在运动方面很糟糕，因为在竞争性的舞蹈队里比赛时总是坐在替补席。这种不足感自从去年加入舞蹈队以来开始出现，随着一直无法从替补位置上升而加重，在训练和比赛时尤为明显并让我失去动力。",
+    "topic": "个人成长",
+    "core_demands": "这些不足感一直影响我的自尊和对舞蹈队活动的整体享受，我决定寻求咨询；我愿意尝试任何可能有帮助的方法，期待通过挑战消极标签与重构视角来提升自信与体验。",
+    "growth_experiences": [
+      "去年加入竞争性的舞蹈队后，比赛时长期坐在替补席。刚开始压力中等，随着无法从替补位置上升，逐渐产生并加重“我不够好、永远上不了场”的感受。在训练和比赛中明显感到失去动力；与队友关系因自信不足而紧张；虽然学业表现稳定并有几位密友可倾诉，但他们并不完全理解来自舞蹈队的压力。为改变此状况，曾加倍练习并主动寻求教练反馈，然而情绪和自我评价仍未改善。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我在运动方面很差"
+      ],
+      "special_situations": [
+        {
+          "event": "舞蹈队比赛时被安排坐在替补席观看队友上场",
+          "conditional_assumptions": "如果我不能上场，就证明我不够好、在运动上很差",
+          "compensatory_strategies": "通过加倍练习并主动寻求教练反馈来证明自己",
+          "automatic_thoughts": "我很糟糕，我永远都上不了场",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "训练课后某个动作未做到完美",
+          "conditional_assumptions": "如果动作不完美，就说明我不配上场、永远不会变好",
+          "compensatory_strategies": "追求完美、加练，并对自己进行苛责",
+          "automatic_thoughts": "我永远不会变好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "获得教练建议与反馈后仍未获上场机会",
+          "conditional_assumptions": "如果努力并得到反馈仍无变化，说明我没有希望、就是不够好",
+          "compensatory_strategies": "继续练习但忽视已有进步，只关注负面结果",
+          "automatic_thoughts": "我就是不行，做再多也没用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与队友互动时关系紧张",
+          "conditional_assumptions": "如果关系紧张，就说明我拖累团队、让别人失望",
+          "compensatory_strategies": "减少与队友交流、降低参与度以避免被评价",
+          "automatic_thoughts": "他们觉得我不够好、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，在团队中被看见并能上场表现自己",
+        "fear": "害怕被否定与排斥，担心“不够好”被暴露而感到羞耻",
+        "defense_goal": [
+          "通过自我要求和加倍练习争取认可、降低焦虑",
+          "降低参与与期待以避免公开失败与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、被边缘化的替补者",
+          "object_representation": "苛刻评判、只看表现的他者（教练/队友）",
+          "linking_affect": "自卑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在训练和比赛时因长期坐替补席而感到缺乏意义与希望",
+            "对舞蹈队活动的整体享受下降",
+            "对其他活动的参与动机降低"
+          ],
+          "outcomes": [
+            "动机下降",
+            "自尊受损",
+            "情绪低落"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与队友关系紧张",
+            "密友不完全理解舞蹈队的压力"
+          ],
+          "outcomes": [
+            "社交疏离感增强",
+            "压力加大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“上场=够好、不上场=不够好”视为绝对标准",
+            "以“必须完美”衡量训练表现",
+            "出现“永远不会变好”等僵化自我评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评，忽略进步，只记录负面表现",
+            "因自我怀疑降低参与其他活动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "把“我不够好”的自我感受归因于队友“看不起我”“他们觉得我不行”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意合作并尝试新方法（重构、记录、自我监测）",
+          "主动练习并寻求教练反馈，具有改进动机",
+          "学业表现稳定，具备一定自我管理能力",
+          "拥有几位密友可倾诉，具备一定社会支持"
+        ],
+        "negative_force": [
+          "自我否定与负性标签化严重",
+          "过度概括与心理过滤，忽略积极面",
+          "过度依赖外部评价（是否上场）来界定自我价值",
+          "动机下降并减少活动参与",
+          "与队友关系紧张，进一步削弱自我效能感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在舞蹈队训练与比赛中出现强烈的负性自我对话（如“我不够好/我很糟糕”），并伴随动力显著下降",
+          "antecedent": [
+            "训练中动作不够完美",
+            "比赛时坐在替补席"
+          ],
+          "core_reason": "将是否上场与自我价值直接等同，在过度概括、心理过滤、否定积极等认知偏差影响下形成自我贬低与失败预期",
+          "function": "逃避羞耻感与被否定的风险，通过退缩减少即时情绪痛苦",
+          "consequence": "训练投入度下降、难以持续改进；与队友关系紧张；对其他活动的参与度降低，自尊进一步受损"
+        },
+        {
+          "behavior": "减少参与其他活动与社交互动（回避）",
+          "antecedent": [
+            "在舞蹈队受挫后",
+            "处于自认为“不被理解”的社交情境"
+          ],
+          "core_reason": "自我效能感降低，并预测他人会给出负面评价",
+          "function": "逃避可能的失败与负面评价，降低焦虑",
+          "consequence": "活动参与度与社交质量下降，孤立感增加，自尊进一步降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 874
+}

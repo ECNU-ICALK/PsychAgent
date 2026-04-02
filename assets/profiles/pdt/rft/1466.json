@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "李曼",
+      "gender": "女",
+      "occupation": "求职者（申请出版岗位）",
+      "educational_background": "文学学士",
+      "marital_status": "单身",
+      "family_status": "母亲是图书管理员；与家人朋友关系支持性，但未谈及具体不安",
+      "social_status": "有支持性的亲友网络，但对自身不安全感保持隐瞒，社交中常自我怀疑与不信任他人",
+      "medical_history": "无重大躯体疾病；过去未接受过心理治疗；长期与“戴眼镜相关的不安全感”困扰",
+      "language_features": "表达清晰、逻辑性良好；语气谨慎、略消极；对改变持怀疑态度但愿意配合；在描述羞耻与焦虑时较为克制"
+    },
+    "main_problem": "我在童年因为担心别人会觉得我很蠢而停止戴眼镜，这种信念影响了我的自信和自我形象。随着时间推移问题持续存在，我仍因为害怕被评判而回避戴眼镜；在社交场合尤其是视力成为问题时，我感到不安全和自我怀疑。",
+    "topic": "个人成长",
+    "core_demands": "我想建立自信，不再被这些恐惧所束缚；我希望能舒适地戴上眼镜，而不再担心被评判。",
+    "growth_experiences": [
+      "童年开始戴眼镜后被同学取笑（如被贴上“戴眼镜=愚蠢”的标签），由此产生对被评判的恐惧与羞耻感。为避免再次被羞辱，她在当时选择停止佩戴眼镜，并逐步形成“戴眼镜会让人觉得我很蠢”的观念。此后多年，这一经历强化了她在社交与被评价场景中的不安全感与自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不够聪明/无能的",
+        "我的价值取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "求职出版岗位的面试中，因为没有戴眼镜视力模糊",
+          "conditional_assumptions": "如果别人看到我看不清或戴眼镜，就会认为我很蠢、我不属于这个行业",
+          "compensatory_strategies": "回避佩戴眼镜、在面试中强行坚持不暴露视力问题、过度自我监控以求不被挑剔",
+          "automatic_thoughts": "他们一定在评判我，觉得我不够好、不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在日常社交场合与他人互动",
+          "conditional_assumptions": "如果我显得笨拙或暴露脆弱，别人就会否定我",
+          "compensatory_strategies": "反复自我怀疑与二次猜测、迎合他人期待以求被认可",
+          "automatic_thoughts": "他们会看低我，我需要得到他们的认可才算可以",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "童年戴眼镜被同学取笑",
+          "conditional_assumptions": "戴眼镜=显得愚蠢，别人都会这么看我",
+          "compensatory_strategies": "立刻停止佩戴眼镜以避免再次被羞辱",
+          "automatic_thoughts": "只要戴眼镜，别人就会觉得我很蠢",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "考虑是否向朋友或家人透露关于眼镜与被评判的具体不安",
+          "conditional_assumptions": "如果我说出口，他们会看轻我、觉得我很软弱",
+          "compensatory_strategies": "回避披露、保持表面正常以避免潜在评价",
+          "automatic_thoughts": "说了只会更丢人，不如不说",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，被视为有能力并且属于专业群体",
+        "fear": "害怕被羞辱与否定、被视为“愚蠢”，从而被排斥",
+        "defense_goal": [
+          "通过保持距离与回避暴露（不戴眼镜、不表达脆弱）来减少被评判的风险",
+          "以自我监控与克制情感表达来维持表面的安全与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被取笑、可能不够聪明的局外人",
+          "object_representation": "苛刻、挑剔、随时准备评判与羞辱的他人",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "在专业场域中“不属于”的求职者",
+          "object_representation": "带有评判与筛选意味的权威/面试官",
+          "linking_affect": "恐惧、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请深入探索自动化思维与核心假设时",
+          "interpretation": "担心暴露“无能”会被评判，或认为过度探讨会证实自己的不足",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静克制、分析性的语气回应，更多讨论“方法是否有效/是否可行”，减少情绪词汇与自我暴露。"
+        },
+        {
+          "trigger_condition": "当被鼓励分享更私密、带有羞耻感的经历（如被取笑）",
+          "interpretation": "将内在对自我价值的负面评价投射到咨询师，感觉对方也会看轻自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用模糊与保留的表达，降低自我暴露强度，语气犹豫，强调“这只是小事、不值得说”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对被评判的恐惧导致不向亲友透露真实不安，形成关系中的情感隔离",
+            "在社交中反复自我怀疑，难以建立信任与真实联结"
+          ],
+          "outcomes": [
+            "持续的不安全感与羞耻感",
+            "社交回避与孤立体验"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被外界评价与“别人怎么看我”的规则所束缚，无法自由选择戴眼镜",
+            "在被评估情境（面试）中过度自我监控、难以自主表现"
+          ],
+          "outcomes": [
+            "焦虑与自我否定增强",
+            "职业表现受损与自我效能感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在面试与社交中反复二次猜测自己的言行是否“显得愚蠢”",
+            "表达谨慎、减少情感暴露，担心被负面评价"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设他人会看低或评判自己，将内在羞耻归因于他人的目光",
+            "在被评估场合认为对方“看出我的不足”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明知不适却不向亲友求助或倾诉，转而自我忍受与自我苛责",
+            "避免佩戴眼镜以自我抑制不安，但造成视力与表现受损"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的亲友网络（虽未谈及具体不安）",
+          "对问题有一定洞察并主动寻求咨询",
+          "对出版行业有明确目标与动机",
+          "愿意尝试识别自动化思维并开展现实检验"
+        ],
+        "negative_force": [
+          "对他人评价的高度敏感与依赖，长期的自我否定",
+          "回避佩戴眼镜与披露脆弱，形成恶性循环",
+          "稳定存在的认知偏差（读心术、过度概括、个人化）",
+          "在评估场景中焦虑显著、过度自我监控导致表现受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避佩戴眼镜",
+          "antecedent": [
+            "被评估或可能被他人注视的场景（如求职面试）",
+            "需要清晰视物的社交互动情境"
+          ],
+          "core_reason": "童年被嘲笑后将“戴眼镜=显得愚蠢”内化为信念，形成对被评判与羞耻的灾难化预期",
+          "function": "逃避潜在的负面评价与羞耻感，维持短期的安全感",
+          "consequence": "视力受影响、面试与社交表现下降，焦虑与自我怀疑加重"
+        },
+        {
+          "behavior": "在社交/面试中的过度读心与自我贬低的自动化思维",
+          "antecedent": [
+            "高压力的评估场景（如面试、陌生社交）",
+            "注意到自己视力吃力或出现小失误"
+          ],
+          "core_reason": "负性核心信念“我不够聪明/无能”与对他人评价的过度依赖驱动认知偏差（读心术、过度概括、个人化）",
+          "function": "通过预设最差评判来获得主观的控制感，避免更大失望或羞辱",
+          "consequence": "焦虑升高、注意力受损，表现变差并进一步强化负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1466
+}

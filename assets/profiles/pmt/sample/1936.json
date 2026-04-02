@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林海怡",
+      "gender": "女",
+      "occupation": "计算机公司实习生",
+      "educational_background": "学生",
+      "marital_status": "已婚，育有5个孩子",
+      "family_status": "家庭支持性较强，母亲是律师",
+      "social_status": "与同事的关系因焦虑与自我怀疑而受影响",
+      "medical_history": "无重大躯体疾病；过去未接受心理治疗；未曾有类似问题",
+      "language_features": "配合度较高，态度积极；能清晰表达紧张、焦虑与担忧"
+    },
+    "main_problem": "我在计算机公司实习，但总是担心自己会失败并被他人嘲笑。这种恐惧和自我怀疑从实习开始就存在，导致高压力、工作中的持续焦虑与不堪重负，产出下降，尤其在面对具有挑战性的任务或评估时。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为对失败的恐惧正在影响我的工作表现并造成显著的痛苦。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不称职",
+        "犯错就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "开始在计算机公司实习并面对较高的期望与要求",
+          "conditional_assumptions": "如果我不能完美表现或达不到他人的期望，就说明我不够好并会被嘲笑",
+          "compensatory_strategies": "加倍准备、提升技能、主动向主管寻求反馈与安慰",
+          "automatic_thoughts": "我会失败，大家会笑我",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在日常工作中面对具有挑战性的任务或被评估",
+          "conditional_assumptions": "只要出现任何失误，别人就会认为我不称职",
+          "compensatory_strategies": "反复检查、提前充分准备、向上级确认细节以降低风险",
+          "automatic_thoughts": "他们会觉得我很差、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "上周向主管汇报项目进展",
+          "conditional_assumptions": "如果我忘记任何细节或说错话，就会被认为不胜任",
+          "compensatory_strategies": "在汇报前过度准备与演练，细致核对材料",
+          "automatic_thoughts": "我肯定会忘词，表现很糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在完成任务并获得正面反馈之后仍反复思考自己的不足",
+          "conditional_assumptions": "只有做到完美，积极反馈才算数；有瑕疵就不合格",
+          "compensatory_strategies": "忽视正面信息、聚焦潜在问题以逼迫自己更努力",
+          "automatic_thoughts": "这次只是运气好，我其实不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，展现自己胜任可靠",
+        "fear": "害怕被嘲笑、被否定、被视为不称职",
+        "defense_goal": [
+          "通过完美表现与寻求他人保证来降低被否定的风险",
+          "保持高度自我警醒以避免犯错"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易出错且会被否定的自己",
+          "object_representation": "严苛挑剔、可能嘲笑与评判的他人（主管/同事）",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向主管汇报或接受评估时",
+          "interpretation": "来访者认为主管会像批评者一样挑剔并嘲笑自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "在对话生成中呈现防御性：提前为可能失误道歉、不断确认是否合格，语速偏快，语言谨慎并寻求保证。"
+        },
+        {
+          "trigger_condition": "当注意到自己出现强烈焦虑或担心犯错时",
+          "interpretation": "来访者将情绪与任务分离，试图用纯理性与流程化思维来控制不安",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用客观数据与步骤描述回应，弱化感受词汇，语气平稳克制，强调证据与标准。"
+        },
+        {
+          "trigger_condition": "当他人或咨询师强调其正面表现与反馈时",
+          "interpretation": "来访者认为这些积极评价“并不算数”，倾向用理由淡化成绩",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“只是运气好/任务很简单/标准不高”等理由淡化成绩，语气谦抑、回避直接接纳赞赏。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持性家庭但难以向家人敞开谈及恐惧与不安",
+            "在职场中担心被他人评判，不敢真实表达自我"
+          ],
+          "outcomes": [
+            "持续焦虑与自我怀疑",
+            "与同事关系受影响",
+            "睡眠与饮食受到干扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "从实习开始即给自己设定“必须完美表现”的标准",
+            "将“不能犯错”视为绝对规则"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为同事和主管会嘲笑、看不起自己",
+            "即使获得正面反馈仍假设他人持负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我怀疑与自我苛责",
+            "反复寻求他人确认以避免错误"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在向主管汇报或被评估的情境下，来访者通常会高度焦虑并预测失败，担心被嘲笑，导致表现受影响与产出下降",
+          "unique_outcome": "上周一次项目进展汇报中，来访者虽紧张但未出现预想的错误，汇报顺利结束并获得正面反馈",
+          "reason": "线索：提前充分准备与演练，任务与材料较为清晰；获得主管的积极反馈与确认，因此这次没有陷入以往的灾难化与自我否定"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动准备与练习，愿意进行行为实验",
+          "愿意寻求反馈与支持（与主管沟通）",
+          "态度积极，愿意尝试更平衡的视角"
+        ],
+        "negative_force": [
+          "灾难化、读心术与预测未来等认知偏差显著",
+          "完美主义倾向与外在评价依赖，难以容忍错误",
+          "难以向家人敞开，社会支持资源未充分利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在实习场合中的持续性焦虑与自我怀疑（灾难化预期他人嘲笑）",
+          "antecedent": [
+            "面对具有挑战性的任务",
+            "需要向主管汇报或接受评估",
+            "实习开始阶段压力较高",
+            "工作中可能出现的失误提醒"
+          ],
+          "core_reason": "内摄的完美主义标准与对他人评价的高度敏感，伴随灾难化、读心术与预测未来的认知偏差，担心被视为不称职与被嘲笑",
+          "function": "逃避不受欢迎的结果（避免被否定/嘲笑）；通过过度准备与寻求保证获得短期安全感",
+          "consequence": "工作效率下降；与同事关系受影响；睡眠与饮食受到干扰"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1936
+}

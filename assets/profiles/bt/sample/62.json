@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "朱莉",
+      "gender": "女",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与一只宠物猫同住，母亲曾是护士",
+      "social_status": "有少数朋友可倾诉，但难以与他们讨论自己的不够好感受；与同事关系因对赞美的轻视而紧张",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、能回顾具体事件；配合度高；自述紧张但抱有希望；能识别并描述自动化思维与认知模式；愿意尝试策略"
+    },
+    "main_problem": "我倾向于否定积极评论和赞美，尤其是来自工作中上司的，这导致自卑感并削弱我的自信心。",
+    "topic": "职业发展",
+    "core_demands": "我意识到不断否定正面反馈影响了我的自尊和工作满意度，因此寻求咨询。",
+    "growth_experiences": [
+      "在一次为一对情侣拍摄的摄影中，朱莉在未保存图像前误格式化了存储卡，导致所有照片丢失；尽管对方非常理解，她仍强烈感到自己辜负了对方和自己。自那次事件后，与摄影和烘焙相关的负面自我评价与恐惧增强，开拍或准备下厨前常被“我会再搞砸”的想法困扰，并逐渐回避这些原本喜欢的活动。",
+      "约六个月前开始在咖啡馆担任服务员工作，频繁在收到上司或同事的赞美后出现“这不重要/不真诚”的解释，将正面反馈视为不值一提，逐步影响工作表现、同事关系以及日常心情与动机。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "上司夸赞她当日上午亲手缝制的衬衫",
+          "conditional_assumptions": "如果赞美来自不被我视为“专家”的人，就不具备价值",
+          "compensatory_strategies": "立即否定或缩小赞美的意义，过滤掉积极信息",
+          "automatic_thoughts": "她不是时尚达人，她的认可不算数，这并不说明我有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作中收到同事或顾客的表扬",
+          "conditional_assumptions": "如果正面反馈不够专业或具体，就可能是不真诚或只是客套，因此不值得采纳",
+          "compensatory_strategies": "将赞美归为客套话并淡化其意义，逐渐与同事疏远或关系紧张",
+          "automatic_thoughts": "他们只是随口说说，并不真心",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在开始一次摄影或准备烘焙之前",
+          "conditional_assumptions": "如果我曾经犯过一次严重错误，就意味着我总会失败",
+          "compensatory_strategies": "通过回避摄影/烘焙或在开始前不断自我否定来“预防”失败",
+          "automatic_thoughts": "我又会搞砸，我是失败者",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面临与朋友或同事的社交互动",
+          "conditional_assumptions": "如果我感觉自己不够好，那就说明我真的不够好，应该避免接触以免被看出问题",
+          "compensatory_strategies": "回避社交互动，减少与同伴交流",
+          "automatic_thoughts": "我不配与他们交往",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实认可与肯定，获得他人的真诚赞赏",
+        "fear": "害怕再次失败或被否定，担心他人的赞美不真诚从而暴露自己的不够好",
+        "defense_goal": [
+          "通过否认赞美与理智化他人的肯定来降低焦虑",
+          "保持一定疏离与回避社交以避免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易犯错的失败者",
+          "object_representation": "不专业、赞美不可信的评价者（如上司/同事/他人）",
+          "linking_affect": "自我怀疑、羞耻、焦虑"
+        },
+        {
+          "self_representation": "愧疚的摄影师",
+          "object_representation": "理解但令自己感到失望的客户",
+          "linking_affect": "内疚、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人在会谈中给予肯定或强调其成功经验时",
+          "interpretation": "来访者潜意识认为这些肯定不真诚或不专业（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己难以接纳的感受归于他人",
+          "response_instruction": "轻声、谨慎地表示怀疑，提出对方“不够专业”等理由，避免直接接受肯定；语气保留，减少情感外露。"
+        },
+        {
+          "trigger_condition": "当讨论到那次摄影失误或被问及其能力时",
+          "interpretation": "以一次错误推断整体能力不足，用“专业性标准”等理性框架来回避痛苦情绪（移情：理智化）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用专业术语或标准化语言解释为何赞美不可靠，语气冷静克制，尽量不谈感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "摄影与烘焙等曾带来乐趣的活动如今难以享受",
+            "日常烹饪与园艺的动机下降"
+          ],
+          "outcomes": [
+            "兴趣降低与不满足感上升",
+            "自我怀疑加剧、工作满意度下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避与朋友和同事的社交互动",
+            "难以与朋友讨论自己的不够好感受"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "孤立感与疏离感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在会谈与工作情境中将他人的赞美解释为不真诚或不重要",
+            "认为他人只是“客套”而非真实认可"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在开始摄影或烘焙前过度自我批评，反复预设失败",
+            "与同事互动时对自我表现过分挑剔而缩减接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过往多数摄影与烘焙经历取得良好结果，具备真实能力与经验",
+          "有几位朋友可倾诉",
+          "已尝试深呼吸与散步等自我调节策略",
+          "主动寻求专业帮助，咨询态度积极"
+        ],
+        "negative_force": [
+          "倾向否定正面反馈，外部验证依赖失衡",
+          "心理过滤与过度概括，倾向只看负面并预测失败",
+          "自我价值感低、强烈自我批评",
+          "社交回避导致关系紧张与支持减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "否定他人赞美与正面反馈",
+          "antecedent": [
+            "在工作中收到上司、同事或顾客的赞美/表扬"
+          ],
+          "core_reason": "一次严重失误被内化为“我是失败者”，并将非专业来源的赞美视为无效或不重要",
+          "function": "逃避可能的被评判与失望，短期维持自我防护与可控感",
+          "consequence": "工作表现受影响、与同事关系紧张、自尊降低"
+        },
+        {
+          "behavior": "在开始摄影或烘焙前的灾难化焦虑与负面预测",
+          "antecedent": [
+            "在开始拍摄前",
+            "准备进入厨房烘焙时"
+          ],
+          "core_reason": "一次错误被过度概括为“我总会失败”，并进行负面预测",
+          "function": "通过预设失败降低不确定性与焦虑的不可控感，避免投入",
+          "consequence": "回避或降低参与度，难以享受活动，信心受损"
+        },
+        {
+          "behavior": "回避社交互动",
+          "antecedent": [
+            "与朋友或同事约见或交流前",
+            "工作场合的集体互动"
+          ],
+          "core_reason": "情绪化推理与自我否定（感觉不够好→认为不够好）",
+          "function": "避免可能的评价或尴尬，短期降低社交焦虑",
+          "consequence": "人际关系紧张、孤立感增加、支持系统弱化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 62
+}

@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "陈然",
+      "gender": "男",
+      "occupation": "科学家",
+      "educational_background": "理学硕士",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几位亲密朋友，但通常不与他们讨论自己容易放弃的感受；倾向回避与朋友的竞争情境",
+      "medical_history": "无心理治疗史；无重大躯体疾病",
+      "language_features": "态度积极、愿意改变；在谈及失败时使用绝对化表述（如“我永远不会…”）；倾向关注负面并以回避作为主要应对"
+    },
+    "main_problem": "我容易在失败后轻易放弃，最近在视频游戏段位赛失利后觉得自己永远不会再玩，这一模式近期加重并导致我回避游戏和其他竞争情境。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这种在失败后轻易放弃的模式正在负面影响我对电子游戏和吉他的享受，因此寻求咨询。",
+    "growth_experiences": [
+      "长期以来在学业与游戏等竞争情境中，失败后常以彻底回避作为主要应对（停止参与活动），未曾接受心理治疗；一直对自己抱有较高期待，最初压力中等，近来逐渐加重并扩展到工作与日常兴趣（如烹饪、弹吉他）。",
+      "在工作中虽然总体表现良好，但因害怕失败而倾向回避具有挑战性的项目，这一倾向在过去已有反复经历，并影响到与朋友的竞争互动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我最终会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "在视频游戏中最近一次段位排名对战失利",
+          "conditional_assumptions": "如果我失败，就说明我不够好，继续玩也没有意义",
+          "compensatory_strategies": "立即停止游戏并避免再次参与排名对战",
+          "automatic_thoughts": "我永远不会再玩这个游戏了/我不会成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作中面对具有挑战性的项目",
+          "conditional_assumptions": "如果不能确保成功，就不应该尝试；失败会证明我不行",
+          "compensatory_strategies": "回避参与或推开挑战性项目",
+          "automatic_thoughts": "我大概率会失败，最好不要做",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与朋友处于竞争性的活动或场景",
+          "conditional_assumptions": "如果我表现不如他人，就等于失败，会让我难堪",
+          "compensatory_strategies": "尽量避免与朋友进行竞争性的活动",
+          "automatic_thoughts": "我不如他们，参与只会更糟",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试烹饪新的菜式或练习吉他时遭遇挫折",
+          "conditional_assumptions": "一次做不好就说明我这方面不行",
+          "compensatory_strategies": "停止尝试新的菜式或减少练习",
+          "automatic_thoughts": "这次没做好，证明我不擅长，还是别继续了",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在竞争与挑战中被认可并证明自身价值",
+        "fear": "害怕失败导致自我价值被否定、引发强烈的挫败与压力",
+        "defense_goal": [
+          "通过回避竞争与挑战来维持自尊与情绪的稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者（一旦失败就全盘否定自己）",
+          "object_representation": "挑剔且带有评判的他人/竞争对手（可能令我丢脸）",
+          "linking_affect": "焦虑、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被要求回顾失败或被邀请尝试具有挑战性的任务（例如在咨询中讨论“近期失败”或“做小实验”）",
+          "interpretation": "将一次失败视为永久失败的证据，认为继续尝试只会证明自己“不行”（移情：将他人期待体验为评判）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用温和、不评判的语气，承认其感受，提示灰度与连续谱；通过开放式提问引导其发现部分成功与学习点，避免绝对化词语。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在电子游戏、吉他、烹饪等兴趣中因失败而轻易放弃，主观乐趣显著下降",
+            "回避竞争使生活体验变窄，难以从活动中获得满足"
+          ],
+          "outcomes": [
+            "动机下降",
+            "回避行为增加",
+            "压力与焦虑加重"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因害怕失败而缩减选择与行动自由，倾向只做可确保成功的事",
+            "把一次失败解读为永久性的限制，丧失自我主导感"
+          ],
+          "outcomes": [
+            "自主性受限",
+            "自我效能感降低",
+            "僵化的自我期待"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁以绝对化语言评价自己（如“我不够好”“我永远不会成功”）",
+            "难以回忆成功经验，主要关注失败",
+            "在竞争情境前过度自我审视而选择回避"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "面对挑战或竞争的冲动时选择把能量转为自我退缩与停止行动（如停止游戏、避开项目）",
+            "倾向不向朋友表达或寻求支持，而是独自消化并撤退"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作表现总体良好，具备稳定的职业功能",
+          "拥有几位可以交流的朋友（潜在支持资源）",
+          "愿意改变，态度积极，愿意尝试识别并重构自动化思维",
+          "能够识别自身问题模式（觉察到“失败后轻易放弃”）"
+        ],
+        "negative_force": [
+          "对失败的高度恐惧与全或无思维",
+          "心理过滤，更多关注负面经验，难以回忆成功",
+          "回避作为主要应对策略，限制了尝试与成长",
+          "僵化的高期待与自我苛责"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在经历失败或预期失败后立即放弃并回避竞争/挑战性活动",
+          "antecedent": [
+            "在电子游戏段位赛中失利",
+            "面对工作中的挑战性项目",
+            "与朋友处于竞争性场景",
+            "尝试新菜式或练习吉他时遇到挫折"
+          ],
+          "core_reason": "对失败的灾难化和全或无认知（一次失败即等于永久失败/不够好），加之长期高期待与自我价值与成败过度捆绑",
+          "function": "逃避失败带来的焦虑与自我否定，以短期缓解压力",
+          "consequence": "兴趣与乐趣下降、技能学习与发展受阻、职业发展受限、社交互动减少与回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1160
+}

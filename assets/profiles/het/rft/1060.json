@@ -1,0 +1,228 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "艾米丽·白克斯特",
+      "gender": "女",
+      "occupation": "餐厅经理",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与配偶和子女同住",
+      "social_status": "与上司关系紧张，因自我怀疑影响工作表现；在社交场合倾向撤退；家庭支持但尚未向家人敞开谈论感受",
+      "medical_history": "无重大躯体疾病；无既往心理治疗经历；过去未出现类似心理问题",
+      "language_features": "表达清晰、条理较好；配合度高；语气中度焦虑；自我评价苛刻，常使用“应该”句式；总体态度中性"
+    },
+    "main_problem": "我在面对自己缺乏知识或意识的情境时，感到无能与自我价值低下；这一切始于我发现自己不认识鲍勃·马利，引发了强烈的自我批评。我现在持续怀疑自己的智力，并对自己的知识感到不安全。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些无能感与低自我价值正在影响我的日常生活和与他人的互动，包括在工作中的表现与与上司的关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个“白痴”",
+        "如果我不知道常识或信息，就说明我不够聪明/不称职",
+        "我必须对所有事情都有所了解，才算聪明和值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友聊天时提到鲍勃·马利，我表示不认识，对方的反应让我感到被当成“白痴”",
+          "conditional_assumptions": "如果我不知道一个广为人知的人或知识，就证明我愚蠢",
+          "compensatory_strategies": "事后加倍自学、主动补课以避免再次尴尬",
+          "automatic_thoughts": "我真是个白痴",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中遇到不熟悉的信息或问题",
+          "conditional_assumptions": "我应该对所有事情都了如指掌，否则就不够聪明/不称职",
+          "compensatory_strategies": "在工作中过度准备、谨慎发言，试图弥补知识漏洞",
+          "automatic_thoughts": "我不够聪明，胜任不了经理的工作",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "与上司沟通或接受评估反馈时",
+          "conditional_assumptions": "如果我表现出不了解的地方，上司会认为我能力差",
+          "compensatory_strategies": "减少沟通、避免暴露“不知道”的部分",
+          "automatic_thoughts": "他会看不起我/我让他失望了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交谈话中担心出现自己不知道的话题",
+          "conditional_assumptions": "如果再次暴露无知，我会被嘲笑、被轻视",
+          "compensatory_strategies": "回避谈话、从对话中撤退以防尴尬",
+          "automatic_thoughts": "他们会觉得我很蠢，场面会很难堪",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为聪明且胜任，被他人认可与接纳",
+        "fear": "害怕被羞辱、被看轻、被评判为愚蠢与无能",
+        "defense_goal": [
+          "通过自我批评与撤退来避免评判与羞耻",
+          "减少暴露“不知道”的情境以维持安全感",
+          "通过加倍学习来控制未知与不确定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧的、不够聪明的自己",
+          "object_representation": "苛刻的评判者（朋友、上司）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要支持却不敢开口的避让者",
+          "object_representation": "可能会看轻我的家人",
+          "linking_affect": "恐惧、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人关注其“不知道”的内容、提出问题或在对话中等待其回答时",
+          "interpretation": "倾向将他人的关注理解为评判或轻视（将朋友/上司的形象投射到当前互动对象）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用支持性与正常化的语气，避免评判；通过现实检验与开放式提问邀请举证，先共情羞耻再进行认知重构。"
+        },
+        {
+          "trigger_condition": "谈及在社交场景中暴露“不知道”的经历时",
+          "interpretation": "认为他人会像朋友一样把自己当“白痴”，并因此疏远或羞辱自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "温和指出自我苛责的代价，邀请识别自我批评语句，使用重述与界限澄清，鼓励自我慈悲。"
+        },
+        {
+          "trigger_condition": "当想到向家人表达自己的感受时",
+          "interpretation": "担心家人会看轻自己而不愿表达，倾向压住感受",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "采用安全探索与分步暴露的语气，邀请命名情绪强度，允许保留隐私并提供替代表达方式（书写、分段分享）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在社交对话中因害怕尴尬而撤退",
+            "未向家人敞开谈论感受，担心被看轻"
+          ],
+          "outcomes": [
+            "人际疏离",
+            "与上司关系紧张",
+            "焦虑加重"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“我应该知道一切”的外在标准约束自我（内摄）",
+            "将自我价值系于全知与他人评价"
+          ],
+          "outcomes": [
+            "自我苛责与低自我价值",
+            "持续焦虑",
+            "回避导致选择空间缩小"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须……”的自我要求",
+            "相信“要被认为聪明必须知道一切”"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在社交谈话中回避或从对话撤退，避免面对未知话题",
+            "减少与他人交流以回避可能的尴尬"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友/上司会看不起自己",
+            "预设他人会羞辱或轻视自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我怀疑与限制行为",
+            "因担心表现不佳而谨慎过度，影响工作和交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭（可寻求帮助与指导）",
+          "具备餐厅管理与客户沟通的实际能力与经验",
+          "愿意自我教育与自学提升知识",
+          "能够识别并描述自身问题与触发情境（自我觉察）"
+        ],
+        "negative_force": [
+          "过度依赖外部评价来确定自我价值（External Validation）",
+          "僵化的“应该知道一切”信念",
+          "过度概括与非黑即白的自我评价",
+          "读心术与负性预测导致社交回避",
+          "自我贬低与低自我价值感持续"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬低/内心辱骂（“我是白痴”）",
+          "antecedent": [
+            "与朋友谈话中暴露不知道的常识（如鲍勃·马利）",
+            "被问到不熟悉的问题",
+            "面对不熟悉的信息或知识空白"
+          ],
+          "core_reason": "将一次知识缺口过度概括为整体能力不足，并以“应该知道一切”的内摄标准进行自我否定与自我惩罚",
+          "function": "通过自我惩罚宣泄羞耻并试图预防外界批评",
+          "consequence": "焦虑与低自我价值加剧，影响工作表现与人际互动"
+        },
+        {
+          "behavior": "社交回避/从谈话撤退",
+          "antecedent": [
+            "担心出现自己不知道话题的社交场合",
+            "与上司沟通或接受反馈时害怕被评判"
+          ],
+          "core_reason": "害怕尴尬与被看轻（负性预测与读心术）",
+          "function": "逃避潜在的羞耻与评判以获得短期安全感",
+          "consequence": "人际疏离、与上司关系紧张、职业沟通受阻"
+        },
+        {
+          "behavior": "工作中的过度自我怀疑导致表现下降",
+          "antecedent": [
+            "执行管理任务时遇到不熟悉问题",
+            "收到或预期来自上司的反馈"
+          ],
+          "core_reason": "将一次社交尴尬过度概括为自身无能，并持续自我否定",
+          "function": "避免承担风险与责任以减轻焦虑",
+          "consequence": "绩效下降、职业发展受阻、与上司关系进一步紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1060
+}

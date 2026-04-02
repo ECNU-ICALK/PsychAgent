@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "张宇",
+      "gender": "男",
+      "occupation": "音乐制作人",
+      "educational_background": "自学音乐制作",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有少数朋友可谈一般问题，但未向他人谈及该困扰；与合作者因完美主义而关系紧张",
+      "medical_history": "无重大躯体疾病；此前未接受过心理治疗；既往无类似心理问题就诊史",
+      "language_features": "表达清晰、逻辑性好，能自我反思并配合讨论；语气克制偏理性，愿意尝试新的视角"
+    },
+    "main_problem": "我在制作完美的音乐播放列表时很困难，当我找不到最后一首歌时，就觉得整个播放列表都被毁了。",
+    "topic": "情绪管理",
+    "core_demands": "我想减少仓促下结论的倾向，在追求质量与接纳不完美之间找到平衡。",
+    "growth_experiences": [
+      "大约一年前开始更认真地投入音乐制作后，对“完美”的要求显著提高；在制作播放列表时常因找不到“最后一首完美的歌”而感到挫败，逐渐影响到工作表现、与合作者的关系以及睡眠和饮食节律。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美的作品才有价值",
+        "不完美等于失败，别人不会喜欢我或我的作品"
+      ],
+      "special_situations": [
+        {
+          "event": "在制作播放列表时找不到“最后一首完美的歌”",
+          "conditional_assumptions": "如果缺少一首完美契合的歌，整个播放列表就被毁了",
+          "compensatory_strategies": "反复搜索与打磨、推迟收尾与发布，难以停止修改",
+          "automatic_thoughts": "整个播放列表都毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "他人对播放列表给出正面反馈",
+          "conditional_assumptions": "只有达到我心中完美标准才算好，外界的正面反馈并不能说明质量过关",
+          "compensatory_strategies": "淡化他人赞美，继续反复修改列表",
+          "automatic_thoughts": "他们只是客气，这不算真正好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与合作者沟通时对方认为“这样已经可以了”",
+          "conditional_assumptions": "如果我放松标准就会显得不专业，别人会否定我的作品",
+          "compensatory_strategies": "坚持更高标准、强烈控制细节，与合作者争论或拒绝妥协",
+          "automatic_thoughts": "他们会觉得我不专业，作品会被否定",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "准备发布或分享播放列表时想到未来受众的评价",
+          "conditional_assumptions": "如果不是完美，发布后一定会被批评或不被喜欢",
+          "compensatory_strategies": "反复检查推迟发布，持续搜寻“更完美”的替代",
+          "automatic_thoughts": "一定会出问题，没人会喜欢",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过完美作品获得认可与掌控感",
+        "fear": "害怕被否定、被评价为不专业或失败",
+        "defense_goal": [
+          "通过维持高标准与控制细节来避免暴露缺陷",
+          "尽量回避不完美以降低被批评的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要通过完美表现来证明价值的创作者",
+          "object_representation": "可能挑剔、否定自己的他者（合作者/受众）",
+          "linking_affect": "焦虑、挫败、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当合作者建议“这样已经足够好”，或要求推进项目进度时",
+          "interpretation": "对方不重视质量，若妥协我会被视为不专业",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气坚决、罗列专业理由坚持更高标准，强调风险与不足，避免触及“害怕被否定”的情绪。"
+        },
+        {
+          "trigger_condition": "在发布或分享前想到受众/同行的潜在评价",
+          "interpretation": "他们不会喜欢我的作品，会认为不够好",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，频繁使用推测性表述（例如“他们大概会……”），放大他人负面评价的可能性以证明继续修改的必要。"
+        },
+        {
+          "trigger_condition": "当被询问是否存在积极证据（如过往的正面反馈）时",
+          "interpretation": "正面反馈并不能证明质量足够",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "轻描淡写积极反馈，用“这不算”“他们只是客气”等语句降低其重要性，保持冷静理性语气回避情绪认可。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对不完美高度排斥，导致逐渐失去对音乐制作过程的享受",
+            "工作被完美主义主导，创作带来的内在满足感降低"
+          ],
+          "outcomes": [
+            "持续压力与挫败感",
+            "睡眠与饮食节律被打乱",
+            "工作热情与效率下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与他人谈及该具体困扰",
+            "与合作者关系紧张，边界更趋封闭"
+          ],
+          "outcomes": [
+            "情绪负担自我封存、缺乏支持性回馈",
+            "在关键节点更依赖内在苛刻标准，加剧内耗"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把“必须完美”视为硬性规则，用以评判作品与自我价值",
+            "对正面反馈难以吸收，认为不符合内在标准就不算数"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我审查、难以结束作品",
+            "担忧他人评价而过度修正，牺牲睡眠与饮食"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对音乐制作具有高度热情与投入",
+          "具备自我反思与改变意愿，愿意尝试替代视角与记录思维",
+          "曾获得过他人的正面反馈，可作为平衡证据",
+          "有一定的社会支持（有几位朋友可沟通一般性事务）"
+        ],
+        "negative_force": [
+          "完美主义与非黑即白思维显著",
+          "倾向于忽视正向证据（否定积极）",
+          "读心术与灾难化的未来预期增加焦虑",
+          "过度自我监控与控制，导致拖延收尾与反复打磨",
+          "睡眠与饮食节律受扰，进一步削弱情绪与执行力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在制作播放列表时因追求完美出现强烈焦虑与反复打磨、难以收尾",
+          "antecedent": [
+            "开始制作播放列表并遇到找不到“最后一首完美的歌”的情况",
+            "想到受众或合作者可能的评价",
+            "准备发布或分享作品的时刻"
+          ],
+          "core_reason": "完美主义核心信念（不完美等于失败），并担心被否定/被视为不专业",
+          "function": "逃避潜在的负面评价与失败感，获得暂时的控制感与安全感",
+          "consequence": "工作表现下降、与合作者关系紧张、睡眠和饮食节律紊乱、对创作的乐趣显著降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1732
+}

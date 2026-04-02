@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "朱莉",
+      "gender": "女",
+      "occupation": "银行员工",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "独居，与父母和兄弟姐妹关系亲密",
+      "social_status": "与同事关系良好，但因负面心态有时感到疏离",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "思路清晰、能识别并描述自身思维模式、配合度良好、语气平和"
+    },
+    "main_problem": "我总觉得自己在全市最差的银行工作，尽管并不总是忙，这种负性信念影响了我的情绪和工作动力。",
+    "topic": "职业发展",
+    "core_demands": "我想找到停止这些负面想法的方式。我需要对自己的工作感觉更好，并改善整体的身心健康。",
+    "growth_experiences": [
+      "六个月前被调至新的网点后，开始持续与其他网点比较；在较慢的工作节奏或顾客抱怨时更容易触发“这是全市最差的银行”的信念。",
+      "长期对工作抱有较高期待，并倾向于以其他网点作为参照标准；虽然拥有支持性的家庭与同事，但尚未向家人倾诉负面想法。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在全市最差的银行工作"
+      ],
+      "special_situations": [
+        {
+          "event": "工作变慢、客流减少的较安静工作日",
+          "conditional_assumptions": "如果网点不忙，就说明这家银行很差、没有前途。",
+          "compensatory_strategies": "刻意关注积极面（如同事支持、地理位置好），但很快被负面想法覆盖。",
+          "automatic_thoughts": "不忙就证明这是全市最差的银行。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "顾客抱怨等待时间",
+          "conditional_assumptions": "如果出现顾客抱怨，说明整个网点服务很差。",
+          "compensatory_strategies": "进行自我安慰与重框思考，但效果短暂。",
+          "automatic_thoughts": "这就是全市最差的银行，顾客也会这么看。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "被调至新网点后，与其他网点进行比较",
+          "conditional_assumptions": "如果不如其他网点忙或口碑好，就等于这个网点很差，我的工作也没有价值。",
+          "compensatory_strategies": "通过强调少数积极面来缓冲挫败，同时给网点贴上总体负面标签以寻求确定感。",
+          "automatic_thoughts": "相比其他网点，这里就是最差。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "多次尝试关注积极面但仍被负面想法覆盖",
+          "conditional_assumptions": "如果没有持续的积极证据，任何优点都不算数。",
+          "compensatory_strategies": "列出积极点（同事支持、位置好），随后将其否定。",
+          "automatic_thoughts": "这些优点也没用，这里还是最差。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在工作中获得价值感与被认可、对优秀环境的归属感",
+        "fear": "害怕身处“最差的银行”意味着没有前途、被他人负面评价与贬低",
+        "defense_goal": [
+          "通过贴负面标签与保持一定情感距离来维持掌控感、避免失望",
+          "减少向家人求助以回避可能的误解或无效支持"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在糟糕环境中受挫、动力下降的员工",
+          "object_representation": "工作场所与顾客被体验为苛刻的批评者或低劣的机构",
+          "linking_affect": "挫败、沮丧、低落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注积极体验或质疑“最差”标签时",
+          "interpretation": "倾向将复杂的工作现实简化为单一负面评价，认为积极面“不足以说明问题”",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用客观、中性语气，强调事实与效率，弱化情绪感受；如被追问感受，转而讨论数据或流程。"
+        },
+        {
+          "trigger_condition": "当被问及是否与家人讨论负面情绪与工作困扰时",
+          "interpretation": "认为家人不会理解，讨论会带来更多失望或无益",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以解释性语言说明“他们不会理解”，将话题转移到外部因素，回避深入情感表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为自己在全市最差的银行工作",
+            "工作变慢时感到缺乏价值与前途",
+            "对工作与生活中原本喜欢的活动失去兴趣"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "工作动力下降与绩效受影响",
+            "与同事的连接感减弱",
+            "生活乐趣下降与饮食习惯受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "没有向支持性的家庭倾诉负面想法",
+            "在工作受挫时将不满与压力向内承受，而非寻求外界帮助"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将其他网点的忙碌程度与口碑内化为自己的“必须标准”",
+            "以外界评价为依据给当前网点贴上“最差”的标签"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与同事关系良好（同事支持与帮助）",
+          "拥有支持性的家庭资源",
+          "能觉察并命名负性思维模式（如过度概括、读心术等）",
+          "主动尝试关注工作与环境中的积极面"
+        ],
+        "negative_force": [
+          "高期待与强比较倾向，易以他人或其他网点为标准评价自身环境",
+          "过度概括、读心术、否定积极等认知偏差反复激活",
+          "工作节奏波动（安静时段、顾客抱怨）成为显著触发器",
+          "减少寻求社会支持，导致负面反刍与疏离感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对工作环境的负性标签化与自动化思维（反复认定“这是全市最差的银行”）",
+          "antecedent": [
+            "工作变慢或客流减少",
+            "顾客抱怨等待时间",
+            "被调至新网点后与其他网点比较",
+            "较安静的工作日"
+          ],
+          "core_reason": "较高期待与强比较倾向在慢节奏或抱怨情境下触发灾难化与过度概括的认知解释。",
+          "function": "通过负面标签获得一种确定感与自我保护，短期内逃避不确定与焦虑。",
+          "consequence": "工作动力与满意度下降、绩效受影响；与同事的连接感减弱；生活乐趣下降并影响饮食习惯。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1269
+}

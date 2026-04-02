@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "77",
+      "name": "张宇",
+      "gender": "男",
+      "occupation": "办公室职员（朝九晚五）",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "家庭曾经营一家小餐馆",
+      "social_status": "有人际支持（有朋友可谈个人问题），但关于烹饪的自卑难以启齿；与家人关系因其负面想法而紧张",
+      "medical_history": "未有类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度高；首次咨询略感紧张但坦诚；对家人评价高度在意；倾向关注负面反馈并否定正面评价"
+    },
+    "main_problem": "我觉得家人永远不会喜欢我做的任何菜，这让我很痛苦，也影响了我对烹饪的热情。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询，因为这些自卑感开始影响我对烹饪的热爱和整体身心健康。",
+    "growth_experiences": [
+      "原生家庭背景：家里曾经营一家小餐馆，来访者对家人的饮食评价高度重视，这为其将家人的反馈作为自我价值的重要参照奠定了基础。",
+      "一次为家人做饭后收到褒贬不一的评价：部分家人称赞，部分提出批评；最初压力中等，但此后在家庭聚会或需要为家人做饭时，来访者反复提前焦虑、预设负面反馈，专注负面评论并忽视正面评价，逐渐导致自卑感加重、与家人关系紧张、对烹饪的热情下降与饮食习惯变化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我做得永远不够好",
+        "我是个糟糕的厨师",
+        "家人不会认可我的付出"
+      ],
+      "special_situations": [
+        {
+          "event": "开始准备为家人做饭时，回想上次得到褒贬不一的评价",
+          "conditional_assumptions": "如果出现任何批评，就说明我是个糟糕的厨师",
+          "compensatory_strategies": "加倍练习、参加烹饪课程、尝试新菜谱并主动索取反馈",
+          "automatic_thoughts": "这次他们也不会喜欢",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在家庭聚会或活动中需要为家人准备餐食",
+          "conditional_assumptions": "如果不能让所有人都满意，就等于失败",
+          "compensatory_strategies": "回避为家人做饭或在上菜前拖延",
+          "automatic_thoughts": "我又会失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "上菜后听到中性或混合性的反馈",
+          "conditional_assumptions": "他人的每一句评价都直接说明我的价值与能力",
+          "compensatory_strategies": "将注意力紧盯负面细节，忽略正面信息",
+          "automatic_thoughts": "他们在挑我毛病；我就是个糟糕的厨师",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "家人给予明确的正面反馈或表现出享受",
+          "conditional_assumptions": "正面反馈只是客套或敷衍，不算数",
+          "compensatory_strategies": "否定积极体验，继续寻找负面证据",
+          "automatic_thoughts": "他们只是礼貌，不是真的喜欢",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人认可与欣赏（希望自己的烹饪被真诚喜欢）",
+        "fear": "害怕被批评与否定，担心自己不够好、被轻视",
+        "defense_goal": [
+          "通过否定积极反馈来维持自我一致的认知",
+          "避免为家人做饭以躲避批评",
+          "过度准备以控制可能的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时会被否定的厨师",
+          "object_representation": "挑剔、严苛的评判者（家人）",
+          "linking_affect": "焦虑、羞愧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人强调家人曾经的正面反馈、询问例外时",
+          "interpretation": "认为赞美只是客套或被美化，真实情况仍是自己不够好",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "温和指出其推论缺乏证据，使用开放式提问与具体化引导，语气稳重、不对抗，邀请其回到事实与可观察细节。"
+        },
+        {
+          "trigger_condition": "在上菜前或谈及为家人做饭的场景时",
+          "interpretation": "把可能的批评视为必然发生的失败，认为自己“永远不够好”",
+          "defense_mechanism": "sring",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "先共情其担忧，再引导进行情境分化与证据检视，语气温和，鼓励其识别可能的多种结果。"
+        },
+        {
+          "trigger_condition": "当回忆起家人的批评或担心被苛责时",
+          "interpretation": "将对家人的不满与怒气转为自我指责，强化“我是糟糕的厨师”的认知",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持支持性语气，区分事实与评价，邀请其表达对他人评价的感受，同时练习自我同情语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "曾经热爱烹饪，如今因家人评价而感到失去热情",
+            "在烹饪中难以从正面反馈汲取意义，持续否定积极体验",
+            "为家人做饭前充满焦虑与预期失败"
+          ],
+          "outcomes": [
+            "对烹饪的热情下降",
+            "回避为家人做饭",
+            "与家人关系紧张",
+            "焦虑与紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将家人的评价当作衡量自我价值的唯一标准",
+            "认为“必须让所有人满意才算成功”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "把家人的正面反馈解释为“只是客套”，揣测他人真实想法为负面",
+            "在尚未得到反馈时预设他人会不喜欢"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自责为“糟糕的厨师”，在上菜前过度紧张与谨慎",
+            "回避为家人做饭以避免可能的批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在为家人做饭的情境下，来访者通常会提前焦虑、预设负面反馈，并在上菜后只关注批评，导致关系紧张与对烹饪的厌倦。",
+          "unique_outcome": "有几次家人确实表现出享受他的菜，并给予了正面反馈；当时结果比以往更积极。",
+          "reason": "线索：家人的实际反应更积极，使其短暂看见与主导叙事不同的证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾经对烹饪充满热情并具备持续投入的意愿",
+          "主动参加烹饪课程、尝试新菜谱并寻求反馈",
+          "有人际支持（有朋友可倾诉）",
+          "愿意接受咨询并尝试行为实验，态度积极",
+          "工作表现稳定，生活有一定结构与纪律"
+        ],
+        "negative_force": [
+          "强烈依赖家人的外部评价来定义自我价值",
+          "认知扭曲显著（否定积极、心理过滤、读心术、预测未来、过度概括、个人化）",
+          "在上菜前高度焦虑并预期失败",
+          "回避为家人做饭，进一步固化负面信念",
+          "与家人关系紧张，增加负面循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "为家人烹饪时出现显著的焦虑与回避",
+          "antecedent": [
+            "开始准备为家人做饭",
+            "在家庭聚会或活动需要做饭",
+            "上菜前回忆起以往的褒贬不一",
+            "听到中性或混合反馈"
+          ],
+          "core_reason": "过度在意家人的评价，内摄“必须让所有人满意”的标准；认知扭曲（心理过滤、否定积极、读心术、预测未来、过度概括）导致自我否定与失败预期",
+          "function": "逃避批评与负面情绪，试图降低焦虑与维持自我保护",
+          "consequence": "对烹饪的热情下降、饮食习惯改变、与家人关系紧张、持续的自我否定与痛苦"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1291
+}

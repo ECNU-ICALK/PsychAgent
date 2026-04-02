@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "马杰",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲在来访者2岁时去世；其余未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或精神科治疗",
+      "language_features": "表达清晰，能进行自我反思，配合度较高；语气平和，存在自我苛责与负面自我标签倾向"
+    },
+    "main_problem": "我非常热爱钓鱼，但我一直担心自己再也不能钓到了。",
+    "topic": "情绪管理",
+    "core_demands": "对失去钓鱼能力的恐惧已变得压倒性，并影响了我对这项活动的享受，因此我寻求咨询以获得帮助。",
+    "growth_experiences": [
+      "原生家庭事件：来访者在2岁时父亲去世，长期处于缺失父性支持的环境中；这一早期丧失可能带来持续的孤独与支持匮乏感。",
+      "学业经历：在本学年开始时注意到成绩下滑，进而将自己贴上“懒惰、无效”的标签；在晚上和周末缺乏结构时，该自我标签与负面情绪加剧，出现睡眠增多、内疚与动力下降的循环；曾尝试通过设定闹钟与制定学习计划来改善，但效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好，无法在任何事情上成功",
+        "我是个懒惰的废物"
+      ],
+      "special_situations": [
+        {
+          "event": "最近一次钓鱼之旅中遇到多重挑战，难以上鱼",
+          "conditional_assumptions": "如果钓鱼时遇到困难或没有收获，就证明我没有能力，未来也不会再钓到鱼",
+          "compensatory_strategies": "通过观看教学视频、向其他渔友请教来提升技巧与减少失败",
+          "automatic_thoughts": "我再也钓不到鱼了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次想到要去钓鱼时，强烈担忧与恐惧涌现",
+          "conditional_assumptions": "如果我在想到钓鱼时感到焦虑，说明我不适合继续这项活动",
+          "compensatory_strategies": "事前查阅教程与寻求建议以降低不确定性，但焦虑仍持续",
+          "automatic_thoughts": "我会再次失败，去也不会有任何乐趣",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "本学年开始后成绩下滑",
+          "conditional_assumptions": "一旦成绩下降，就说明我本质上是懒惰且无能的",
+          "compensatory_strategies": "设置闹钟与制定学习计划，试图用更严格的自我要求来纠正",
+          "automatic_thoughts": "我是个懒惰的废物；我不够好，什么都不会成功",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在没有学习任务的晚上与周末缺乏结构",
+          "conditional_assumptions": "我应该一直高效；如果没有产出就一文不值",
+          "compensatory_strategies": "强制自我制定严格计划，但很快又拖延并睡得更多",
+          "automatic_thoughts": "我不该休息，我应该更努力，否则我就是失败者",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力，并在重要领域（如钓鱼、学业）保持掌控感与自尊",
+        "fear": "害怕失败与被否定，被视为“懒惰/无能”，从而失去价值感与乐趣",
+        "defense_goal": [
+          "通过自我批评与高标准约束自己以避免失败",
+          "通过增加准备与学习来降低不确定性与被否定的风险",
+          "避免向亲友透露担忧以防被评价或羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失去支持的孩子，渴望被看见与被支撑",
+          "object_representation": "缺席的父亲或无法提供稳定支持的客体",
+          "linking_affect": "孤独、空缺感"
+        },
+        {
+          "self_representation": "被贴上“懒惰/无能”标签的失败者",
+          "object_representation": "苛刻的评判者（内化的外界标准与期待）",
+          "linking_affect": "羞耻、内疚、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探索来访者的负面自我评价与失败体验时",
+          "interpretation": "将外界的“必须高效与成功”的标准内化为对自己的苛刻审判，认为稍有不佳即等同失败者",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用温和、共情且不评判的语气；承认其痛苦，邀请其具体化体验；帮助识别自我攻击的声音并与之拉开距离。"
+        },
+        {
+          "trigger_condition": "当被建议与亲友分享恐惧、寻求反馈时",
+          "interpretation": "担心暴露脆弱会被看轻或被贴上“懒惰/无能”的标签",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以安全与允许的姿态逐步暴露；建议小步验证，先与最信任的朋友分享一个小且具体的担忧。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "父亲在2岁时去世，原生支持缺失",
+            "与亲近的钓友未分享自己的恐惧与脆弱"
+          ],
+          "outcomes": [
+            "情绪与动机下降",
+            "在重要活动中难以获得联结与支持"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "担心再也无法享受钓鱼",
+            "每次想到钓鱼即被恐惧占据，乐趣被剥夺"
+          ],
+          "outcomes": [
+            "乐趣丧失",
+            "动力下降与拖延"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我标签为“懒惰的废物”",
+            "将成绩下滑完全归因于自身缺乏努力",
+            "在咨询中强调“我不够好”并担心无法改变"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "在无结构时段认为“我应该一直高效”，否则就是失败者",
+            "使用“我不该休息，我应该更努力”类自我要求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在没有学习任务的晚上和周末时，来访者通常会自我标签为懒惰、拖延并睡得过多，随后感到内疚与动力下降。",
+          "unique_outcome": "来访者表示曾经有几次能按时完成作业，这些时刻目标更清晰、并对自己更有信心。",
+          "reason": "线索：在目标更具体、并且自我效能感稍高的情况下，出现了与以往不同的表现（更投入并完成任务）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在目标清晰与自信提升时能够完成任务",
+          "愿意寻求帮助与学习（观看教程、向渔友请教、制定计划）",
+          "态度积极，愿意尝试现实检验与认知重构"
+        ],
+        "negative_force": [
+          "灾难化与预测未来导致回避与焦虑",
+          "过度自我标签与自我苛责",
+          "在无结构时段动机低下与睡眠过多",
+          "对他人支持保持沉默，缺乏外部反馈"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对钓鱼失败的强烈担忧与灾难化思维",
+          "antecedent": [
+            "最近一次钓鱼之旅遇到多重挑战且未能顺利上鱼",
+            "每次想到要去钓鱼时"
+          ],
+          "core_reason": "基于过度概括与预测未来的认知偏差，将一次或几次不顺视为永久失败。",
+          "function": "逃避潜在失败与负面情绪，试图通过担忧来提前控制结果",
+          "consequence": "钓鱼的乐趣显著下降，持续焦虑，难以享受活动"
+        },
+        {
+          "behavior": "自我标签与自我批评（如“我是懒惰的废物”“我不够好”）",
+          "antecedent": [
+            "本学年开始成绩下滑",
+            "在没有结构的晚上和周末"
+          ],
+          "core_reason": "内摄的高标准与全或无思维，将短期表现视为全局自我价值。",
+          "function": "用自我惩罚驱动改变或防止他人批评",
+          "consequence": "情绪低落与内疚加重，进一步拖延与失去动力"
+        },
+        {
+          "behavior": "睡眠过多与拖延",
+          "antecedent": [
+            "晚上与周末无学习任务或结构",
+            "自我批评后感到低落与无力"
+          ],
+          "core_reason": "通过回摄将对外的行动能量转向自身，用睡眠逃避压力与失败感。",
+          "function": "短期逃避焦虑与内疚，寻求暂时舒适",
+          "consequence": "任务积压、动力进一步下降，形成恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1764
+}

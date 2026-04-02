@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "陈思睿",
+      "gender": "男",
+      "occupation": "网站开发工程师",
+      "educational_background": "计算机科学学士学位",
+      "marital_status": "单身",
+      "family_status": "独居，直系亲属不在身边",
+      "social_status": "与朋友关系有所紧张（经常谈论股市亏损）",
+      "medical_history": "无显著身体疾病；无既往心理治疗经历；此前未遇到类似心理问题",
+      "language_features": "表达清晰、能具体描述触发情境与担忧；整体情绪偏焦虑与悲观；对积极自我对话持怀疑态度但愿意尝试；在同事互动中有撤退与易怒表现；配合度尚可"
+    },
+    "main_problem": "过去一个月股票投资组合下跌带来显著痛苦；尽管进行了充分研究，所有选股表现仍然不佳。",
+    "topic": "情绪管理",
+    "core_demands": "因近期投资组合下跌与持续亏损对心理健康和财务稳定造成影响，寻求咨询中的指导与支持。",
+    "growth_experiences": [
+      "约一年前公司发生重组，自此在绩效评估或出现裁员相关谈论时显著紧张与不安；担忧被解雇的念头频繁出现，导致睡眠受损、难以专注以及与同事的互动撤退与易怒。",
+      "六个月前开始积极参与股票交易，最初认为可以凭借技术能力轻松赚钱，压力水平中等；近一个月投资组合持续下跌、选股表现不佳，失望与沮丧升级；每次查看投资组合或阅读财经新闻都会出现强烈焦虑；尝试根据新闻和分析师建议调整策略但未见改善，导致日常作息被打乱。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的研究与能力应该确保投资上涨，亏损意味着我失败。",
+        "职场变化等外部不确定性意味着不安全，我随时可能失去工作。"
+      ],
+      "special_situations": [
+        {
+          "event": "每次查看股票账户或阅读财经新闻",
+          "conditional_assumptions": "如果我做了充分研究，股价就应该上涨；下跌说明我做错了或不够好",
+          "compensatory_strategies": "频繁监控账户，并依据新闻与分析师建议不断调整策略",
+          "automatic_thoughts": "我的选股本该上涨，现在下跌说明我不行/失败",
+          "cognitive_pattern": "Should\" Statements"
+        },
+        {
+          "event": "公司出现重组、管理变更或传出裁员消息",
+          "conditional_assumptions": "一旦公司变化，裁员几乎不可避免，我很可能会被解雇",
+          "compensatory_strategies": "对同事撤退、时刻警觉，出现失眠与注意力难以集中",
+          "automatic_thoughts": "我快要被解雇了，接下来一切都会崩塌",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回顾工作中的成功或收到正向反馈",
+          "conditional_assumptions": "除非完全没有风险，否则现有成就不算数",
+          "compensatory_strategies": "忽视正面证据，只关注潜在负面结果",
+          "automatic_thoughts": "这些成功不重要，我仍旧可能失去工作/失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "根据新闻更新和分析师建议调整投资策略",
+          "conditional_assumptions": "他人的意见更可靠，需要外部认可才能减少损失",
+          "compensatory_strategies": "不断寻求外部权威意见并频繁调整策略",
+          "automatic_thoughts": "如果不听专家的，我会继续亏钱",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定与掌控，并被看见为有能力、可靠的人",
+        "fear": "害怕失去控制与安全（被裁员、财务崩溃），以及让亲友失望",
+        "defense_goal": [
+          "通过保持警觉与自我约束来避免失败与被否定",
+          "减少暴露与分享以维持“我一切都很好”的形象"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、随时可能被淘汰的员工",
+          "object_representation": "不可预测、可能随时拒绝或惩罚的管理层/组织",
+          "linking_affect": "恐惧、紧张"
+        },
+        {
+          "self_representation": "必须维持完美形象、不应让他人担心的人",
+          "object_representation": "期待我“都搞得定”的旁观者（若我表现脆弱会失望）",
+          "linking_affect": "内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议练习积极自我对话或肯定句时",
+          "interpretation": "潜意识将咨询师视作过度乐观、不能理解现实压力的人，认为这些方法不切实际",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以怀疑但礼貌的语气表达“这听起来有点俗气/不太现实”，列举现实压力作为理由，选择推迟尝试。"
+        },
+        {
+          "trigger_condition": "当咨询师强调其过往工作成功与正面反馈以增强安全感时",
+          "interpretation": "将积极反馈视为无关紧要，认为他人终将否定自己",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "轻描淡写地承认成功，随后快速转向潜在风险与最坏结果，语气平淡但紧张。"
+        },
+        {
+          "trigger_condition": "当被询问是否愿意向朋友或母亲表达担忧时",
+          "interpretation": "认为袒露脆弱会让他人失望并导致关系恶化",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回答“没必要让他们担心”，避免深入细节，语气克制并转移话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "市场波动与公司重组令其感到不可控与不确定",
+            "在绩效评估、管理变更时体验强烈焦虑与失去掌控感"
+          ],
+          "outcomes": [
+            "持续性焦虑与灾难化思维",
+            "睡眠受损与警觉性过高",
+            "工作专注下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "倾向于独自承担担忧，不与朋友或母亲讨论",
+            "与同事关系疏离、偶有易怒"
+          ],
+          "outcomes": [
+            "社交退缩与支持减少",
+            "情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "谈及工作与投资时频繁自我检视与自责",
+            "担忧让他人失望，谨慎表达真实感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在管理层变动或裁员传闻时，坚信他人（公司/管理层）会裁掉自己，即使缺乏直接证据"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“应该”的规则看待投资结果（我的选股应该上涨）",
+            "将外界分析与规则未经消化地当作必须遵循的标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在公司管理变动或绩效评估时，来访者通常会高度焦虑，预期被解雇，导致注意力下降并与同事互动撤退。",
+          "unique_outcome": "尽管存在担忧，来访者曾领导成功项目并获得积极反馈，说明在关键任务中仍能维持产出与能力。",
+          "reason": "线索：过往专业技能与来自工作的正向反馈在任务场景中提供了支持，帮助其维持表现并缓冲焦虑。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备稳定的职业技能与过往成功经验（曾领导项目并获得正面反馈）",
+          "拥有少量可倾诉的朋友",
+          "能够识别并表达触发情境与思维模式"
+        ],
+        "negative_force": [
+          "灾难化与“应该”式思维显著",
+          "过度将外部波动个体化为自身失败",
+          "频繁监控投资与依赖外部意见导致作息紊乱与焦虑加剧",
+          "对亲友表达担忧的回避使社会支持难以有效利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "频繁监控股票账户并根据新闻/分析师建议不断调整策略",
+          "antecedent": [
+            "查看股票组合",
+            "阅读财经新闻",
+            "注意到市场波动或亏损"
+          ],
+          "core_reason": "僵化的“应该”信念与对不确定性的焦虑，认为外部权威能提供确定性",
+          "function": "短期降低不确定感与焦虑（寻求控制）",
+          "consequence": "日常作息被打乱，焦虑与失望加重，投资表现未改善"
+        },
+        {
+          "behavior": "在职场变动或评估情境下的灾难化焦虑（失眠、难以专注、对同事撤退/易怒）",
+          "antecedent": [
+            "公司重组",
+            "管理层变更",
+            "新项目启动",
+            "绩效评估或裁员传闻"
+          ],
+          "core_reason": "对失业和崩溃的灾难化预期与安全感不足",
+          "function": "试图通过过度警觉与撤退来避免被否定或伤害",
+          "consequence": "睡眠受损、工作专注下降、人际关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1534
+}

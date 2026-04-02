@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "陈婧",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "社会支持系统较弱，缺乏可以讨论无能感与自责的对象",
+      "medical_history": "无重要躯体疾病；既往未有类似心理问题，未接受心理治疗",
+      "language_features": "表达清晰、逻辑较好、配合度高，态度积极"
+    },
+    "main_problem": "在竞争情境中持续出现无能感与自责，这些感受在最近一次电子游戏展团队失利后加重。",
+    "topic": "情绪管理",
+    "core_demands": "我想停止总是对自己感到沮丧，并重新享受事情。",
+    "growth_experiences": [
+      "最近在电子游戏展团队比赛中承受高压力并最终失利，将失败归因于自身能力不足，触发持续的无能感与自责；其后在社区团队体育活动中再度表现不佳，重复“都是我的错”的自我归因模式，加深羞耻与焦虑；同时缺乏强社会支持，难以向他人倾诉与获得情绪上的缓冲。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的竞争者",
+        "我不够好/不胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "在电子游戏展的团队赛事中，在高压下团队失利",
+          "conditional_assumptions": "如果我的表现不够完美，团队就会失败；失败就意味着我很无能",
+          "compensatory_strategies": "赛后加倍练习、努力提升技能与表现以证明自己",
+          "automatic_thoughts": "我们输是因为我差；我让大家失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在社区的团队体育活动中团队表现不佳",
+          "conditional_assumptions": "如果我不如队友，就证明我不胜任、比别人差",
+          "compensatory_strategies": "过度自我批评，并计划更加刻苦训练以弥补不足",
+          "automatic_thoughts": "我不如别人，我就是不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "置身任何竞争性活动（电子游戏或团队赛）",
+          "conditional_assumptions": "如果一次失败，就代表我总体上是失败者",
+          "compensatory_strategies": "减少对兴趣活动的享受、避免参与或过度练习以避免再次失败",
+          "automatic_thoughts": "这次没赢，证明我不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "比赛过程中团队整体发挥不佳且存在外部因素影响",
+          "conditional_assumptions": "我必须为结果负全责，若不如此就是在推卸责任",
+          "compensatory_strategies": "将全部责任揽到自己身上，试图通过控制来避免再次失败",
+          "automatic_thoughts": "比赛输掉完全是因为我",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的竞争者、被团队接纳与尊重",
+        "fear": "害怕被否定、被归咎于失败、让他人失望",
+        "defense_goal": [
+          "通过先发制人的自责与承担过度责任来降低外界批评的风险",
+          "以完美表现维持安全感与自我价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让人失望的失败者/不够好的队员",
+          "object_representation": "挑剔、评判的他人或团队",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要不断证明自己的不安者",
+          "object_representation": "更强、更优秀、需要被迎合的他人",
+          "linking_affect": "自卑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈及比赛失利或被询问个人表现与责任时",
+          "interpretation": "潜意识里将咨询师的探问理解为他人对自己能力的审视与评判，担心被归咎为失败的原因",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "倾向用自责性语言回应，主动承担过多责任，语气谨慎、降低自我价值，弱化他人或情境因素"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "缺乏强有力的社会支持系统，难以与他人讨论无能感与自责",
+            "在竞争失败后独自承受羞耻与焦虑"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "持续的自责与羞耻",
+            "焦虑与身体紧张（胃部紧绷、全身紧张）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "使用“我应该练得更多”“我必须表现更好”之类的自我要求",
+            "将胜负结果视为必须达到的外部标准并内化为自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "频繁自我责备（“都是我的错”）",
+            "在探索自身表现时过度苛责、难以承认情境和团队因素"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在竞争性活动中，来访者通常会把失败完全归因于自己，陷入羞耻与焦虑，从而降低对活动的享受并回避参与",
+          "unique_outcome": "在电子游戏展的部分时段，她没有一味自责，而是专注参与、与他人交流并享受过程；她学到了团队协作与压力管理，体验到一些乐趣",
+          "reason": "线索：当与队友和参与者建立积极互动、关注学习与合作时，注意力从自我评判转向过程体验；同时现场的社交与学习机会提供了支持，使自责与焦虑一度减轻"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意投入改变（表示“准备付出努力”）",
+          "能识别并反思自动化思维与认知模式（在对话中能列举证据并重构观点）",
+          "愿意寻求专业帮助与监测进展",
+          "具备从失败中提炼经验与意义的能力（能看到团队协作与压力管理的收获）"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括（认为“我是糟糕的竞争者”）",
+          "过度个人化，将团队失败归咎于自身",
+          "缺乏社会支持，独自承受压力与自责",
+          "羞耻与焦虑伴随明显身体紧张反应"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "竞争情境下的过度自责与自我否定伴随焦虑和羞耻",
+          "antecedent": [
+            "参与电子游戏展或团队体育等竞争性活动",
+            "比赛过程压力较大、团队整体发挥不佳或出现外部因素"
+          ],
+          "core_reason": "形成了“我是无能的”核心信念与认知扭曲（个人化、过度概括、比较与绝望），并在社会支持薄弱的背景下将失败全盘内归因于自身",
+          "function": "通过自责来获得对结果的感知控制并驱动自我加练（试图避免未来失败），同时回避面对他人可能的批评与复杂情绪",
+          "consequence": "自尊受损、活动乐趣下降、出现焦虑与羞耻及身体紧张，进一步影响日常生活与爱好"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 262
+}

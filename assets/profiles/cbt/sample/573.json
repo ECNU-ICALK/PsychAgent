@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "陈宇",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "与哥哥同住（哥哥有鲜红色头发）",
+      "social_status": "因担心被评判而在建立与维持人际关系上存在困难",
+      "medical_history": "无显著躯体疾病；无以往心理治疗史；此前未出现类似问题",
+      "language_features": "表达清晰，能描述自动化思维；态度偏消极与怀疑；在涉及昵称与社交的话题上有回避倾向；配合度尚可"
+    },
+    "main_problem": "我担心人们会因为我的昵称“Bubblegum”认为我幼稚并疏远我。",
+    "topic": "人际关系",
+    "core_demands": "希望减轻因昵称引发的被拒绝与被评判的恐惧，提升自信与社交互动，并获得咨询支持。",
+    "growth_experiences": [
+      "自从获得“Bubblegum”这一昵称后，便开始担心被视为幼稚而被疏远；近几个月担忧加重，导致在社交、工作及家庭场合回避使用昵称或减少互动。此前未出现类似问题，也未接受过心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被认真对待",
+        "我会被他人拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作会议上被要求自我介绍",
+          "conditional_assumptions": "如果我使用昵称“Bubblegum”，别人会觉得我幼稚、不会尊重我",
+          "compensatory_strategies": "避免使用昵称或回避自我介绍",
+          "automatic_thoughts": "他们会把我当笑话，没人会尊重我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合准备认识新朋友或被问及名字",
+          "conditional_assumptions": "只要别人知道我的昵称，他们就会疏远我",
+          "compensatory_strategies": "减少社交互动、隐瞒或不提昵称",
+          "automatic_thoughts": "他们会疏远我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与家人互动时涉及昵称的话题",
+          "conditional_assumptions": "如果家人知道或提起昵称，他们也会觉得我不成熟并看不起我",
+          "compensatory_strategies": "避免与哥哥讨论与昵称相关的担忧和话题",
+          "automatic_thoughts": "他会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾过往他人对昵称的反应",
+          "conditional_assumptions": "负面线索才重要，正面或中性反应不代表他们真正尊重我",
+          "compensatory_strategies": "忽视正面证据、持续关注可能的负面评价",
+          "automatic_thoughts": "即使没有人说什么，他们心里也在否定我",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认真对待并被接纳",
+        "fear": "害怕因昵称被轻视、被拒绝",
+        "defense_goal": [
+          "通过保持距离与减少自我暴露（不使用昵称）来降低被评判与被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被轻视、需要自我保护的自我",
+          "object_representation": "带有评判与拒绝倾向的他人",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验或建议以昵称开展小规模测试时",
+          "interpretation": "来访者将此视为会暴露自己并招致他人评判的风险，认为“逻辑虽可行但现实很难”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "采用谨慎、保留的语气，强调实施难度与风险，回避具体情绪体验与承诺"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其回忆昵称未导致负面后果的经历时",
+          "interpretation": "认为此类正向证据稀少或不具代表性，倾向忽略积极信息",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
+          "response_instruction": "以平淡、抽离的方式回应，如“可能有，但我得想很久”，避免深入具体细节与感受"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心因昵称被他人疏远，难以建立或维持关系",
+            "在社交、工作、家庭场合回避互动或使用昵称",
+            "不愿与同住的哥哥讨论自身担忧"
+          ],
+          "outcomes": [
+            "社交回避与退缩",
+            "自信下降与自我怀疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。语言表现为：“他在看不起我”、“他们想排挤我”等。",
+          "manifestations": [
+            "在会议与社交场合预设他人会把自己当笑话或不予尊重",
+            "认为他人会因昵称疏远自己，即便没有直接证据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有一定的自我反思能力（能识别自动化思维与认知模式）",
+          "愿意尝试并接受循序渐进的探索（表示可以尝试回忆正向例证，愿意继续下一次会谈）",
+          "具备理性自我陈述的能力（尝试告诉自己昵称不定义自我）"
+        ],
+        "negative_force": [
+          "过度依赖他人评价与外部认可（担心不被认真对待）",
+          "认知偏差突出（读心术、心理过滤、预测负面结果）",
+          "社交回避行为强化恐惧（在社交、工作、家庭场合减少互动或不使用昵称）",
+          "与家人的情感沟通不足（不愿与哥哥讨论担忧）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因昵称相关的被评判恐惧导致的社交回避与不使用昵称自我介绍",
+          "antecedent": [
+            "在工作会议或社交场合被要求自我介绍",
+            "与家人互动时涉及昵称话题",
+            "想到他人可能知道自己的昵称"
+          ],
+          "core_reason": "害怕因昵称被轻视、不被尊重；受“读心术”“预测未来”“心理过滤”等认知偏差影响",
+          "function": "逃避可能的尴尬与负面评价，维持短期安全感",
+          "consequence": "难以结识新朋友或维持既有关系；日常互动与自信受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 573
+}

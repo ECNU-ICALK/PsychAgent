@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "张明",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "与家人关系紧张，沟通较少",
+      "social_status": "有少数可倾诉的朋友，但他们不完全理解其家庭关系的复杂性",
+      "medical_history": "无显著躯体疾病；此前未因家庭冲突接受心理咨询",
+      "language_features": "态度消极；常以自我否定与情绪化表述为主（如“我只是觉得”“我会搞砸”）；能配合对话与回答引导问题；存在标签化、过度概括、个人化、读心术与非黑即白思维"
+    },
+    "main_problem": "由于冲突与误解，我与家人难以相处，并因此感到自己是个失败者。",
+    "topic": "家庭关系",
+    "core_demands": "与家人的持续紧张和失败感显著影响了我的心理健康，因此寻求咨询以改善关系与减轻负面影响。",
+    "growth_experiences": [
+      "过去几年里，与家人长期存在冲突与误解，互动压力很高，经常引发争吵与紧张；沟通逐渐减少，在家庭聚会中常感到孤立与被误解；尝试通过自助书籍与网络论坛改善，但冲突与紧张关系仍持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的性格是有缺陷的"
+      ],
+      "special_situations": [
+        {
+          "event": "在家庭聚会或讨论家庭事务时出现意见分歧与误解",
+          "conditional_assumptions": "如果我不能让所有人满意并避免冲突，就说明我性格失败，是问题的根源",
+          "compensatory_strategies": "回避沟通、减少与家人互动以降低被指责的可能",
+          "automatic_thoughts": "这是我的错，我会让大家失望。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "当与家人互动的压力升高、争吵升级时",
+          "conditional_assumptions": "如果出现争吵，说明我们关系本质上就是坏的，我也不配被理解",
+          "compensatory_strategies": "自我否定并选择沉默或退出场合，以避免局势恶化",
+          "automatic_thoughts": "我们总是这样吵，永远好不了。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当被家人或亲友批评、提及过去误解时",
+          "conditional_assumptions": "如果被批评或被误解，就说明我完全失败、没有任何价值",
+          "compensatory_strategies": "用非黑即白的标准评判自己，否定正面反馈；通过阅读自助书与论坛试图“修复”自己",
+          "automatic_thoughts": "我就是一个失败者。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "向朋友倾诉时发现他们并不完全理解家庭动态",
+          "conditional_assumptions": "如果朋友也不理解，那就证明没有人能帮我，问题无解",
+          "compensatory_strategies": "减少求助、选择独自承受以避免再次失望",
+          "automatic_thoughts": "没人懂我，事情只会越来越糟。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人理解与接纳，建立稳定和谐的亲密连接",
+        "fear": "害怕被指责与否定、冲突升级、被排斥而感到羞耻与孤立",
+        "defense_goal": [
+          "通过保持距离与减少沟通来降低被伤害与被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、羞耻的失败者／孤立者",
+          "object_representation": "苛责、误解且不支持的家庭成员",
+          "linking_affect": "羞耻、焦虑、失望、孤独"
+        },
+        {
+          "self_representation": "难以被理解的诉说者",
+          "object_representation": "无法共情、理解有限的朋友",
+          "linking_affect": "失望、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、识别积极行为并设定小步改变目标时",
+          "interpretation": "将改变视为对“失败者”自我标签的威胁，担心建议对自己无效，易用理性分析来淡化情绪",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以冷静、理性分析的语气强调“这很难”“对我不现实”，减少情感表达，列举改变为何不可行的理由。"
+        },
+        {
+          "trigger_condition": "当谈到与家人的冲突或子女的未来而想到自身局限时",
+          "interpretation": "将复杂外部因素过度归因于自身不足，把焦虑转化为自责与内疚",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "以自责的语气重复“都是我的问题”“我会搞砸”，忽略他人角色与可用支持。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "沟通降至最低，在家庭聚会上常感到孤立",
+            "朋友虽可倾诉但无法真正理解家庭动态"
+          ],
+          "outcomes": [
+            "长期焦虑与紧张",
+            "情绪低落与失败感",
+            "睡眠质量下降与身心疲惫"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感觉努力改善（自助书、论坛）也无效",
+            "认为关系“总是这样”，难以改变"
+          ],
+          "outcomes": [
+            "动力与生产力下降（注意力与工作受影响）",
+            "对改善关系的希望感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等。",
+          "manifestations": [
+            "在冲突中选择沉默与退出，减少与家人沟通",
+            "将对家人的不满与受伤转为自责与内疚"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "频繁自我怀疑，强调自身局限会限制他人机会",
+            "在与家人互动或做决定前反复犹豫、过度谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在家庭事件或讨论时，来访者通常会高度紧张、减少沟通并陷入自责，导致关系进一步疏远与冲突加剧。",
+          "unique_outcome": "在女儿的作业与申请过程中，来访者曾主动给予鼓励与具体帮助，而非陷入自我否定；这次他采取了支持性行动，促进了实际进展并带来一定的积极影响。",
+          "reason": "线索：采取了不同做法——以具体行动支持对方（鼓励、协助申请），而非仅进行消极反思；关系支持——伴侣表现支持与理解。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一定的主动性与支持性行为（鼓励与具体协助家人）",
+          "愿意尝试小步改变与问题解决训练",
+          "有少数朋友可倾诉，具备一定社会支持",
+          "曾主动寻找资源（自助书与网络论坛）"
+        ],
+        "negative_force": [
+          "自我失败标签与严重自我否定",
+          "认知歪曲显著：读心术、过度概括、个人化、非黑即白",
+          "长期紧张与冲突导致沟通减少、在家庭聚会中感到孤立",
+          "焦虑影响注意力、工作效率与睡眠，降低整体幸福感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在家庭互动中的回避与沉默（沟通显著减少、在家庭聚会中感到孤立）",
+          "antecedent": [
+            "家庭事件或讨论家庭事务时",
+            "出现意见分歧与误解",
+            "互动压力升高、争吵升级"
+          ],
+          "core_reason": "在个人化与非黑即白的认知框架下，将冲突归咎于自身失败，为避免被否定与冲突加剧而选择回避与沉默。",
+          "function": "逃避不受欢迎的刺激（冲突、批评与羞耻），以短期降低焦虑与风险。",
+          "consequence": "关系进一步疏远与紧张维持甚至加剧，孤独感增加，改善关系的机会减少。"
+        },
+        {
+          "behavior": "广泛性焦虑导致注意力难以集中、工作效率下降、睡眠质量变差",
+          "antecedent": [
+            "想到与家人相关的紧张与冲突",
+            "讨论家庭计划或回想争吵",
+            "长期的误解与压力积累"
+          ],
+          "core_reason": "对关系前景的负面预期与过度担忧（过度概括）维持高警觉与自责，形成持续的生理与认知唤醒。",
+          "function": "试图通过持续警觉来避免“出错”与进一步冲突的发生（逃避潜在威胁）。",
+          "consequence": "工作与日常生产力下降，睡眠质量变差，整体身心健康受损。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 589
+}

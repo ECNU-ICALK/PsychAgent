@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "李辰",
+      "gender": "男",
+      "occupation": "立志成为护士",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "与朋友和家人的关系因自我隔离而紧张；总体家庭支持，但未向家人分享担忧",
+      "medical_history": "无重大躯体疾病；无以往类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰，逻辑较为连贯，语气中性，能配合探索与制定计划"
+    },
+    "main_problem": "我感到被困在小镇，认为这会阻碍我在大城市成为护士的梦想，这让我感到焦虑和无望。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些消极想法正在影响我追求梦想职业的动力。",
+    "growth_experiences": [
+      "高中毕业后，李辰意识到所在小镇缺乏护理学校，这一现实令他非常沮丧；最初压力很大，随着时间推移，浏览大城市护理项目或就业信息时反复出现“被困”与“梦想不可及”的认知，逐渐加重为焦虑与无望，同时开始自我隔离、延迟进一步教育，并影响驾驶、购物等日常活动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不可能搬去大城市并实现我的护理梦想",
+        "即使我努力，最终也会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "浏览大城市的护理项目或护理岗位信息",
+          "conditional_assumptions": "如果我所在小镇没有通往护理职业的直接路径，我就无法实现去大城市工作的目标",
+          "compensatory_strategies": "尝试搜索线上课程和远程学习作为替代路径，但因质疑其质量而持续犹疑",
+          "automatic_thoughts": "我永远都去不了大城市",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "毕业后发现当地缺乏“有声誉”的护理项目",
+          "conditional_assumptions": "如果附近没有“体面”的护理学校，就意味着我的梦想破灭",
+          "compensatory_strategies": "否定线上课程的积极面，认为“不如线下好”，从而延迟行动",
+          "automatic_thoughts": "这里没有好项目=不可能成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到搬去大城市需要资金和人脉支持",
+          "conditional_assumptions": "如果没有足够的钱和人脉，我的努力也不会有结果",
+          "compensatory_strategies": "在脑中预演失败、降低尝试意愿以避免“徒劳无功”的打击",
+          "automatic_thoughts": "我会投入很多却还是失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到是否向家人分享当前的担忧与计划",
+          "conditional_assumptions": "如果他们不理解，就说明我只能独自面对问题",
+          "compensatory_strategies": "不分享、保持沉默并自我隔离",
+          "automatic_thoughts": "他们不会理解我现在的担忧",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望实现职业理想，离开小镇并在大城市成为护士",
+        "fear": "害怕投入努力后仍然失败、梦想不可及",
+        "defense_goal": [
+          "通过犹疑与回避（延迟教育、不分享担忧、减少行动）来降低失败带来的痛苦和焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被困住、无助的追梦者",
+          "object_representation": "支持但可能无法理解自己忧虑的家人/他人",
+          "linking_affect": "孤独、无望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其探索可行选项或设定具体行动计划时",
+          "interpretation": "即便尝试也可能失败，资源不足使努力没有意义（对失败的预期加剧）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和、共情的语气，先承认其担忧与恐惧；以开放式问题轻柔挑战其假设，帮助将大目标拆分为可管理的微步骤，避免批评或指责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "反复感到被小镇“困住”，认为现实条件限制了选择（缺乏当地护理学校、资源不足）",
+            "对搬迁和路径选择的无力感"
+          ],
+          "outcomes": [
+            "焦虑升级",
+            "无望感增强",
+            "延迟进一步教育",
+            "日常活动参与度下降（驾驶、购物受影响）"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "自我隔离，不与家人和朋友分享担忧",
+            "认为家人可能不理解自己的忧虑"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "主观支持感降低",
+            "动力下降与行动犹疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制向外表达或寻求他人帮助的冲动，将能量转而对自己。",
+          "manifestations": [
+            "不向家人分享担忧",
+            "自我隔离、独自承受压力",
+            "在高焦虑时减少行动而非寻求支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受或期待归于他人。",
+          "manifestations": [
+            "预设家人“不会理解”自己的担忧，从而避免接触与沟通"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "家庭总体支持",
+          "职业目标清晰（希望在大城市成为护士）",
+          "曾主动搜索线上课程与远程学习选项"
+        ],
+        "negative_force": [
+          "预测未来、过度概括、非黑即白等认知偏差",
+          "对失败的强烈恐惧",
+          "自我隔离与回避行动",
+          "当地缺乏护理学校的客观限制",
+          "对资金与人脉不足的担忧导致行动犹疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我隔离，减少与家人朋友的交流",
+          "antecedent": [
+            "浏览大城市护理项目或岗位信息时的焦虑与无望",
+            "反复出现“被困在小镇”的想法"
+          ],
+          "core_reason": "对失败的恐惧与灾难化、预测未来等认知导致情绪高涨，转而通过隔离来降低不适",
+          "function": "逃避负性情绪与潜在失败带来的痛苦",
+          "consequence": "人际关系紧张，主观支持感下降，进一步削弱动力"
+        },
+        {
+          "behavior": "延迟追求进一步教育（推迟申请或深入了解可行路径）",
+          "antecedent": [
+            "毕业后发现当地缺乏“有声誉”的护理项目",
+            "想到资金与人脉不足时"
+          ],
+          "core_reason": "非黑即白与否定正面思维使其将非理想方案视为“无效”，并以合理化维持犹疑",
+          "function": "避免不确定性与可能失败带来的焦虑",
+          "consequence": "职业发展停滞，感到被困与无望加重"
+        },
+        {
+          "behavior": "减少日常活动参与（如驾驶、购物受影响）",
+          "antecedent": [
+            "反复涌现“被困住”的念头",
+            "在高压情境中对目标的无力感增强"
+          ],
+          "core_reason": "情绪化推理与灾难化加剧焦虑，导致广泛回避",
+          "function": "降低即时不适与焦虑强度",
+          "consequence": "生活功能降低、活动范围缩小，进一步强化无助与停滞体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 807
+}

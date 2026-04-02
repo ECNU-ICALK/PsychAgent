@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "方丽娜",
+      "gender": "女",
+      "occupation": "学生（即将完成学位）",
+      "educational_background": "正在攻读学位",
+      "marital_status": "未婚",
+      "family_status": "与父母同住并照顾他们；有一名姐妹及一名外甥和外甥女",
+      "social_status": "与家人关系亲密且社会支持良好，但对该特定困扰不愿与家人讨论",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或精神科就诊史",
+      "language_features": "表达清晰、逻辑连贯；能识别并描述内疚与压力感受；积极配合、愿意尝试CBT重构；常使用“应该”句式并伴随自责；紧张但抱有希望"
+    },
+    "main_problem": "我在为这样一个想法而挣扎：作为一个成年男人，我应该喜欢蔬菜，但我并不喜欢。这种冲突性的想法让我感到痛苦和内疚。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为围绕食物偏好的内在冲突开始影响我的心理健康与用餐的愉悦。",
+    "growth_experiences": [
+      "长期与父母同住并承担照护职责，同时在完成学位的过程中兼顾学业与家庭责任。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有符合社会期待与健康规范，我才算是负责任的成年人",
+        "个人偏好若不符合“健康标准”，就意味着我有欠缺或不成熟"
+      ],
+      "special_situations": [
+        {
+          "event": "每次用餐包含蔬菜时",
+          "conditional_assumptions": "如果我不喜欢（或不吃）蔬菜，就不是一个负责任的成年人",
+          "compensatory_strategies": "强迫自己吃蔬菜，尝试通过不同做法培养口味",
+          "automatic_thoughts": "我应该喜欢蔬菜；不喜欢就说明我不够成熟/不负责任",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "阅读健康建议与社会宣传时",
+          "conditional_assumptions": "如果不按大众和健康专家所说去做，就会被视为不健康和不负责任",
+          "compensatory_strategies": "不断查找资料、遵循外在规范来纠正自己",
+          "automatic_thoughts": "大家都认为必须吃并且要喜欢蔬菜，我不喜欢就是错的",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "制定改善健康的计划时",
+          "conditional_assumptions": "只有学会喜欢蔬菜，我才可能真正健康；否则都是徒劳",
+          "compensatory_strategies": "把“喜欢蔬菜”当作达成健康目标的前提条件来逼迫自己",
+          "automatic_thoughts": "如果我不喜欢蔬菜，我就无法变得健康",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在用餐前预期自己会再次“不喜欢蔬菜”",
+          "conditional_assumptions": "不喜欢蔬菜会带来失败与内疚，所以必须改变偏好",
+          "compensatory_strategies": "在心理上自我施压，用“必须/应该”来驱动自己",
+          "automatic_thoughts": "这顿饭我还是会失败，因为我又不喜欢蔬菜",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为合格、负责任且健康的成年人并获得认可",
+        "fear": "害怕因个人偏好与社会期待不一致而被评价为不成熟或不负责任",
+        "defense_goal": [
+          "通过内化社会规范与“应该”规则来维持自我价值与安全感",
+          "以自我要求和遵循外在标准来避免被批评或被视为不合格"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够成熟、需要被规范和纠正的个体",
+          "object_representation": "要求严格、带有评判的社会与健康规范的代表者",
+          "linking_affect": "内疚、压力、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于信念来源或探讨其“应该”信念的合理性时",
+          "interpretation": "倾向以外在健康规范来解释自身选择，将理性规则置于主观感受之上以维持自我评价的稳定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持平稳、克制的语气，优先引用健康知识与社会规范，较少触及羞愧与内疚等主观感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被社会与健康规范所规训，频繁以“应该”要求自己在饮食偏好上做出符合标准的选择",
+            "难以自由地承认并接纳个人偏好（不喜欢蔬菜）"
+          ],
+          "outcomes": [
+            "内疚与压力上升",
+            "用餐愉悦度下降",
+            "内在冲突反复出现"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该喜欢蔬菜”之类的规则化叙述",
+            "将大众健康建议直接内化为必须遵守的个人标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "因不喜欢蔬菜而自责，认为“不成熟/不负责任”",
+            "用餐时反复监控并评判自己的偏好是否“达标”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭支持良好（与父母及家人关系亲密）",
+          "具备自我觉察与学习意愿，主动查找信息与寻求帮助",
+          "学业进展良好（即将完成学位），具备坚持与执行力"
+        ],
+        "negative_force": [
+          "过度依赖外在规范与评价（“应该”信念）",
+          "易产生内疚与自我否定",
+          "在用餐与健康议题上倾向将偏好与“是否合格”进行二分化判断"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "用餐时出现强烈的“应该”自责与自我施压，并强迫自己吃蔬菜",
+          "antecedent": [
+            "每次用餐中出现蔬菜",
+            "阅读健康建议或想起大众对健康饮食的规范",
+            "制定/回顾健康计划时"
+          ],
+          "core_reason": "内化社会期待与健康规范，形成“只有喜欢并吃蔬菜才算负责任/成熟/健康”的认知规则",
+          "function": "避免被视为不负责任或不成熟，维持合格感与自我价值（同时试图通过服从规则来缓解焦虑）",
+          "consequence": "内疚与压力加重、用餐愉悦度下降、对饮食的回避和冲突感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 48
+}

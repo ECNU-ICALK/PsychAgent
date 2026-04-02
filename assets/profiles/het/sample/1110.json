@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "魏杰",
+      "gender": "男",
+      "occupation": "兽医",
+      "educational_background": "兽医学博士（Doctorate in Veterinary Medicine）",
+      "marital_status": "未婚",
+      "family_status": "成长于农场；兄长在军队服役；有两个侄子",
+      "social_status": "与同事互动因自信不足而紧张；拥有支持性的朋友与家人网络，但未向他们分享具体的不安与自我怀疑",
+      "medical_history": "无重大躯体疾病；既往无心理治疗经历；此前未出现类似心理问题",
+      "language_features": "表达清晰、有条理；配合度尚可但持怀疑态度；倾向消极自我评价与反复自我否定"
+    },
+    "main_problem": "认为在农场长大的背景限制自己在农业之外的成功，导致自我怀疑和缺乏动力，并逐渐影响到每日的自信与工作满意度，尤其在面对工作挑战时加剧。",
+    "topic": "职业发展",
+    "core_demands": "意识到这些信念正在阻碍我的个人和职业成长，因此决定此时寻求咨询。",
+    "growth_experiences": [
+      "从小在农场长大，家庭以农业为主要背景；兄长服役于军队，有两个侄子。该成长环境使其逐渐形成“出身与背景决定职业前途”的认知框架。",
+      "在成年后选择从农业转向成为兽医（农业之外的职业）时，原有关于背景的信念与新的职业路径发生冲突，开始出现持续的自我怀疑与压力，在非农业的专业环境中遇到挑战时此类感受显著加剧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的出身（在农场长大）决定我无法在农业之外获得成功"
+      ],
+      "special_situations": [
+        {
+          "event": "工作中接到复杂病例，感觉自己“完全迷失”",
+          "conditional_assumptions": "如果我在复杂病例面前不能表现得完美，就证明我不够好，而我的农场背景使我不具备在农业之外成功的能力",
+          "compensatory_strategies": "反复自我怀疑、尝试忽视和压下这些想法以继续工作",
+          "automatic_thoughts": "我不够好；我不该离开农场",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "同事请其对治疗方案发表意见",
+          "conditional_assumptions": "如果我不能立刻给出完美而权威的答案，别人就会认为我不称职",
+          "compensatory_strategies": "给出含糊其辞的回答、回避与同事的直接交流",
+          "automatic_thoughts": "他们会发现我是个骗子；我不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在非农业领域的日常工作中不断面对挑战与压力",
+          "conditional_assumptions": "如果我离开了农业，我就注定不会成功；面对挑战意味着我最终会失败",
+          "compensatory_strategies": "降低期望、缺乏动力，努力避免被要求承担更高责任",
+          "automatic_thoughts": "我注定不会成功；这迟早会证明我不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事的日常互动因自信不足而紧张",
+          "conditional_assumptions": "如果同事与我互动时我表现得不够好，就说明关系紧张是我的无能造成的",
+          "compensatory_strategies": "减少社交接触、尽量避免被评价的情境",
+          "automatic_thoughts": "他们能看穿我不称职；都是我的问题",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并在农业之外的职业中取得成功与归属感",
+        "fear": "害怕被看穿为不够好/不称职的“骗子”，担心被他人否定与排斥",
+        "defense_goal": [
+          "通过回避、降低暴露和保持疏离来减少被评判与失败的风险，维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的局外人/可能被揭穿的“骗子”",
+          "object_representation": "挑剔、会评判并能“看穿”自己的他者（如同事）",
+          "linking_affect": "焦虑、羞耻、失落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议识别并检验自动化思维、进行现实检验时",
+          "interpretation": "认为这些方法对自己“可能没有用”，改变很难发生，从而降低参与与期待（对改变的否认）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以怀疑与保留的语气回应，使用诸如“这可能没用”“我不觉得会改变”的表述，避免深入细节与情绪，尽量把话题保持在表面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "工作满意度下降，难以在工作与生活中获得乐趣",
+            "持续的自我怀疑与缺乏动力，使职业追求的意义感减弱"
+          ],
+          "outcomes": [
+            "动力不足",
+            "压力与焦虑增加",
+            "自我照顾困难"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被看穿或被评判而回避与同事的互动",
+            "不愿向支持性的家人朋友分享具体不安与疑虑"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "主观疏离与孤立感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，包含过多的自我限制与谨慎，对接触过于小心。",
+          "manifestations": [
+            "在咨询中反复表达怀疑与低期望（如“我不觉得这会改变什么”）",
+            "频繁二次猜测自己的行为与决定，担心被看穿不称职"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在互动中预设他人会认为自己是骗子/不称职（读心式推断）",
+            "因担心他人评价而减少直接接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有兽医学博士与专业训练背景",
+          "热爱动物，具有内在动机支持职业选择",
+          "具备家人与朋友的支持网络（与兄长关系亲近）",
+          "曾处理过类似病例，具备一定的实际经验"
+        ],
+        "negative_force": [
+          "僵化的自我标签与过度概括（将出身等同为能力与未来）",
+          "读心术与预测未来导致的对他人评价的过度担忧",
+          "回避同事互动与给出含糊回答的应对模式",
+          "持续的自我怀疑与动力不足，影响工作满意度与自我照顾"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在同事询问专业意见时给出含糊回答并回避互动",
+          "antecedent": [
+            "同事要求其就治疗方案发表意见",
+            "需在团队交流中表达专业判断"
+          ],
+          "core_reason": "将农场成长背景视为限制，自我贴上“不称职/不够好”的标签，担心被看穿与被评判",
+          "function": "逃避被评估与潜在失败，短期降低焦虑与羞耻感",
+          "consequence": "人际关系紧张、团队协作受损、自我评价进一步下降"
+        },
+        {
+          "behavior": "工作中的持续焦虑与自我怀疑（自我负性思维循环）",
+          "antecedent": [
+            "面对复杂病例与高难度任务",
+            "在非农业领域的工作环境中遇到挑战与压力"
+          ],
+          "core_reason": "核心信念“出身决定成败”激活，并过度概括到当前所有挑战，产生自我否定与失败预期",
+          "function": "通过自我防御（降低期望、回避）来短期减少不确定性带来的紧张",
+          "consequence": "动力下降、工作满意度降低、日常自我照顾困难、职业发展受限"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1110
+}

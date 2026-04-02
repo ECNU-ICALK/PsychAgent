@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "柯伦",
+      "gender": "男",
+      "occupation": "目前正在求职",
+      "educational_background": "会多种语言（英语、法语、西班牙语）",
+      "marital_status": "有两个孩子的母亲",
+      "family_status": "两个孩子",
+      "social_status": "有家人和朋友可以交流，但尚未与他们讨论对潜在无家可归的恐惧",
+      "medical_history": "未曾出现类似心理问题；无既往心理治疗或咨询经历；无显著躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "因无法找到工作而感到不堪重负与焦虑，并产生可能无家可归的念头；搬到新地区后六个月一直难以就业，财务压力使问题发展为对无法供养家庭与失去住所的持续担忧，每天在搜索职位且未获回复时尤为明显。",
+    "topic": "职业发展",
+    "core_demands": "因对潜在无家可归的恐惧及其对心理健康的影响而寻求咨询支持与应对策略。",
+    "growth_experiences": [
+      "六个月前搬到新地区后求职受挫；最初因财务担忧而压力很大，随后问题发展为对无法供养家庭与失去住所的持续担忧；目前每天在搜索岗位而未获回复时焦虑加剧，睡眠受影响、注意力下降，亲子关系受压；尽管有家人与朋友可交流，但因羞耻与担心被视为失败而未向他们说明对无家可归的恐惧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我无法保障家庭的安全与稳定"
+      ],
+      "special_situations": [
+        {
+          "event": "在招聘网站上持续投递简历却没有收到用人单位的回复",
+          "conditional_assumptions": "如果没有人回复我的申请，说明我不值得被雇用，最终无法养家",
+          "compensatory_strategies": "不断投递简历、联系招聘机构、扩大求职范围",
+          "automatic_thoughts": "没有人会看我的申请，我不可能被录用",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "搬到新地区六个月仍未找到工作，经济压力持续存在",
+          "conditional_assumptions": "如果近期找不到工作，我们就会失去房子并最终无家可归",
+          "compensatory_strategies": "把全部精力投入求职，每天搜索岗位、加大投递量",
+          "automatic_thoughts": "也许我们会失去房子，最后无家可归",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "面对远程岗位的激烈竞争",
+          "conditional_assumptions": "如果竞争很激烈，我就没有机会",
+          "compensatory_strategies": "犹豫是否继续投递远程岗位，倾向于放弃",
+          "automatic_thoughts": "我不可能有机会",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑搬到机会更多的地区但面临搬家费用不足",
+          "conditional_assumptions": "如果不能搬家，我就会一直被困住、没有出路",
+          "compensatory_strategies": "暂停搬家计划，维持现状并强化“被困住”的叙事",
+          "automatic_thoughts": "我被困住了，毫无出路",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为能够供养与保护家庭的可靠照料者，获得认可与安全感",
+        "fear": "害怕失去家与安全、被视为失败而遭到羞辱或拒绝",
+        "defense_goal": [
+          "通过持续求职与紧绷警觉来维持掌控感、避免暴露脆弱与被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不能胜任、容易失败的照料者",
+          "object_representation": "冷漠或拒绝的外界（雇主、招聘机构）",
+          "linking_affect": "无助、焦虑、羞耻"
+        },
+        {
+          "self_representation": "害怕被评判的脆弱者",
+          "object_representation": "可能批评或担忧自己的亲友",
+          "linking_affect": "尴尬、羞耻、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与家人或朋友分享关于潜在无家可归的担忧时",
+          "interpretation": "来访者认为一旦暴露脆弱就会被视为失败者并遭到评判",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气迟疑、保留，轻描淡写真实担忧，迅速转向更“务实”的话题以回避情绪暴露。"
+        },
+        {
+          "trigger_condition": "当被询问是否继续探索远程工作或考虑搬迁时",
+          "interpretation": "来访者将选项视为不可行，体验强烈的无力感并以外部障碍为主因",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“竞争太激烈/资金不足”等理由迅速否定方案，语气防御、列举障碍以结束讨论。"
+        },
+        {
+          "trigger_condition": "当咨询师给予鼓励并强调小步行动与持续反馈时",
+          "interpretation": "来访者将鼓励理解为不切实际的乐观或隐含的要求，因而与情绪保持距离",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以平淡、理性的口吻回应，如“我会试试，但很难”，避免深入探讨感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到“被困住”，在远程求职与搬迁决策间难以抉择，体验强烈责任压力（供养家庭）"
+          ],
+          "outcomes": [
+            "广泛性焦虑与失眠",
+            "注意力下降与效率降低",
+            "回避寻求支持，选择受限的主观体验加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有家人与朋友但因羞耻与担心被视为失败而不愿分享恐惧",
+            "在压力中试图独自承担"
+          ],
+          "outcomes": [
+            "社会支持未被利用，孤立感增强",
+            "焦虑维持并加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我在辜负孩子”",
+            "担心他人会认为自己失败，从而犹豫分享真实处境"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明知有亲友可交流却将求助冲动收回，独自承受压力",
+            "把对外求援的能量转为自我消耗与担忧"
+          ]
+        },
+        {
+          "mode": "压抑",
+          "definition": "个体将来自内部或外部环境的刺激所引发的感受压制住，与他人接触时不呈现或降低呈现强度。",
+          "manifestations": [
+            "尽量不在孩子面前表达压力与恐惧",
+            "与他人谈及近况时淡化真实感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备多语言能力，有望拓展就业面向（英语、法语、西班牙语）",
+          "持续主动求职（广泛投递、联系招聘机构、探索远程与替代性收入）",
+          "拥有家人与朋友的潜在支持网络",
+          "对孩子的责任感与照料动机提供内在驱动力"
+        ],
+        "negative_force": [
+          "灾难化与预测未来倾向，放大最坏结果",
+          "自我标签为失败者与羞耻感，阻碍求助与外部支持利用",
+          "睡眠受损与持续性高焦虑，影响日常功能与求职效率",
+          "心理过滤：过度关注未回复与负面信息，忽视可能的积极线索",
+          "非黑即白思维：将搬家等选项视为唯一出路，从而加剧“被困住”的感受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与求职相关的高强度焦虑与灾难化联想",
+          "antecedent": [
+            "查看招聘信息但未收到回复",
+            "想到经济压力与家庭开销"
+          ],
+          "core_reason": "对失业后果的灾难化解释与对未来失败的预测（如担心失去住房与无家可归）",
+          "function": "通过担忧维持警觉与控制感，试图提前规避风险",
+          "consequence": "睡眠受损、注意力下降、求职效率降低，亲子互动质量下降"
+        },
+        {
+          "behavior": "回避向家人或朋友表达真实担忧与寻求支持",
+          "antecedent": [
+            "想到与亲友讨论财务与住房问题时",
+            "被他人询问近况时"
+          ],
+          "core_reason": "羞耻与自我标签为失败者，担心被评判或让他人担心",
+          "function": "逃避不舒服的情绪与潜在负面评价",
+          "consequence": "社会支持资源未被利用，孤立感增强，焦虑维持"
+        },
+        {
+          "behavior": "对远程或替代性工作机会的消极预期与放弃尝试",
+          "antecedent": [
+            "看到远程岗位竞争激烈",
+            "考虑搬迁但资金不足"
+          ],
+          "core_reason": "非黑即白与预测未来的认知偏差，提前认定“没有机会”",
+          "function": "避免可能的失败与失望，短期降低不适",
+          "consequence": "就业机会缩减、财务压力持续、问题维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 343
+}

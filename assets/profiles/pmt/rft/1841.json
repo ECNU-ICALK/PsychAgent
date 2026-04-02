@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "电影制作人",
+      "educational_background": "电影学学士",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "否认类似心理问题史；未接受过心理治疗；无重大躯体疾病史",
+      "language_features": "表达清晰、逻辑性较好；态度偏消极但配合度较高；常出现自我否定与怀疑；语速未提及"
+    },
+    "main_problem": "在涉及欺骗或说谎的社交情境中，感到无能和无用，近几年更为突出并影响社交关系。",
+    "topic": "人际关系",
+    "core_demands": "希望在社交场合更自信，不在需要虚张声势或说谎时立刻认为自己无能。",
+    "growth_experiences": [
+      "几年前的一次社交活动中，为了掩盖自己的错误而不得不说谎；该事件最初引发的压力为中等，随后问题逐步升级，来访者在需要欺骗/说谎的社交情境中持续自我怀疑并回避参与，最终影响社交互动与人际关系。来访者曾尝试通过阅读社交互动相关书籍与练习说谎来改善，但感到效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/无用的",
+        "如果我不能有效撒谎或虚张声势，就说明我在社交中不行"
+      ],
+      "special_situations": [
+        {
+          "event": "与同事或朋友进行友谊扑克/需要虚张声势的游戏时",
+          "conditional_assumptions": "如果我不能成功地 bluff 或说谎，就证明我是一个无用的玩家/不适合社交",
+          "compensatory_strategies": "回避参与此类游戏；通过阅读社交书籍与练习说谎来提升技巧",
+          "automatic_thoughts": "我无法拉起一个有效的虚张声势，我就是个无用的玩家",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在社交活动中需要说谎去掩盖自己的错误",
+          "conditional_assumptions": "如果我不能圆谎或被看出不擅长欺骗，我会被羞辱、关系会受损",
+          "compensatory_strategies": "减少发言、迅速退出该情境或避免类似场合",
+          "automatic_thoughts": "如果我搞砸了，事情会变得很糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与喜欢玩笑和“善意欺骗”的同事互动时",
+          "conditional_assumptions": "如果我不能跟上他们的玩笑和欺骗，我就会被看不起或被排斥",
+          "compensatory_strategies": "谨慎少言、保持距离或不参与相关互动",
+          "automatic_thoughts": "他们会觉得我很差、很扫兴",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "意识到自己工作未受影响且有支持性的朋友，但仍面对需要欺骗的社交情境",
+          "conditional_assumptions": "除非我能像别人一样熟练地说谎/bluff，否则任何积极方面都不算数",
+          "compensatory_strategies": "否定积极反馈与支持，持续关注自身不足",
+          "automatic_thoughts": "这些优点不重要，我还是不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在社交中被接纳、被视为有能力且能游刃有余地互动",
+        "fear": "害怕暴露无能被羞辱或被拒绝，担心失败导致关系受损",
+        "defense_goal": [
+          "通过回避需要欺骗/说谎的社交场景来维持安全感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不擅长欺骗、容易被看穿的“无能参与者”",
+          "object_representation": "爱评判、重技巧的“玩笑/欺骗的他者”（同事或朋友）",
+          "linking_affect": "羞耻、焦虑、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验或建议在低风险场合练习 bluff 时",
+          "interpretation": "将可能的学习尝试视为一场“能力检验”，若失败就证明自己无能（对失败的预期放大）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "表达对失败的担忧（如“如果不成功怎么办”），语气谨慎而礼貌，请求循序渐进的小步尝试，避免深入触及羞耻情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因回避涉及欺骗/说谎的社交活动而减少参与社交",
+            "难以信任他人、难以参与玩笑与轻松互动"
+          ],
+          "outcomes": [
+            "社交退缩与孤立感增强",
+            "人际关系受影响",
+            "显著的心理痛苦与自我怀疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我怀疑（如“我不行”“我没用”）",
+            "担心行为实验失败、要求循序渐进",
+            "在涉及欺骗的互动中小心谨慎、降低参与度"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "拥有支持性的朋友却不分享自己的困扰",
+            "不主动寻求外部帮助与支持，转而通过自我压抑与回避来应对"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络",
+          "愿意尝试行为实验并接受循序渐进的策略",
+          "职业功能未受直接影响，保持一定稳定性",
+          "曾主动自助（阅读社交互动书籍、练习）"
+        ],
+        "negative_force": [
+          "显著的自我怀疑与自我贬低",
+          "回避涉及欺骗/说谎的社交情境",
+          "难以信任他人、难以参与玩笑与轻松互动",
+          "认知偏差显著（否定正面、心理过滤、过度概括、个人化）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避涉及欺骗或虚张声势的社交互动（如玩笑、友谊扑克）",
+          "antecedent": [
+            "社交聚会",
+            "与喜欢玩笑和“善意欺骗”的同事互动",
+            "需要说谎以掩盖错误的场景"
+          ],
+          "core_reason": "在几年前的社交事件中因说谎掩盖错误而形成“无能/无用”的自我评价，担心被看穿与被评判，以避免羞耻与失败",
+          "function": "逃避不受欢迎的情绪（羞耻、焦虑）与潜在的负面评价，维持短期安全感",
+          "consequence": "人际关系受影响、减少社交参与，产生孤立感与持续的自我怀疑和痛苦"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1841
+}

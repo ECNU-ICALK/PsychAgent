@@ -1,0 +1,78 @@
+{
+  "theoretical": "het",
+  "client_info": {
+    "client_id": "het-1001",
+    "static_traits": {
+      "name": "赵宁",
+      "age": "30",
+      "gender": "男",
+      "occupation": "互联网产品经理",
+      "educational_background": "硕士",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "新城市支持系统有限",
+      "medical_history": "无重大病史"
+    },
+    "main_problem": "长期孤独感与意义感下降，难以维持稳定连接。",
+    "topic": "个人成长",
+    "core_demands": "希望重建与他人的真实连接并恢复生活方向感。",
+    "growth_experiences": [
+      "工作迁移后离开原有支持圈",
+      "在人际冲突中常把需求压回自己体内"
+    ],
+    "existentialism_topic": [
+      {
+        "theme": "孤独",
+        "manifestations": [
+          "在社交活动中仍感到隔离",
+          "即便与人交流也很难感到被理解"
+        ],
+        "outcomes": [
+          "情绪低落",
+          "减少主动接触"
+        ]
+      }
+    ],
+    "contact_model": [
+      {
+        "mode": "自我监控",
+        "definition": "过度监控自己的表达是否得体，削弱当下接触。",
+        "manifestations": [
+          "说话前反复删改",
+          "对情绪体验保持距离"
+        ]
+      }
+    ]
+  },
+  "global_plan": {
+    "overall_goal": "提升当下觉察与真实表达能力",
+    "milestones": [
+      "识别回避接触时刻",
+      "练习情绪命名",
+      "尝试真实回应"
+    ]
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "user",
+          "text": "我这段时间和人接触很多，但还是会有一种深层的孤独感。"
+        },
+        {
+          "role": "assistant",
+          "text": "当你说“深层孤独”时，此刻身体里最明显的感受是什么？"
+        },
+        {
+          "role": "user",
+          "text": "胸口有点空，像是我在场但没有真正被看见。"
+        },
+        {
+          "role": "assistant",
+          "text": "我们可以在这里慢下来，先和这种“空”的体验待一会儿。"
+        }
+      ]
+    }
+  ]
+}

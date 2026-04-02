@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈婉宁",
+      "gender": "女",
+      "occupation": "未就业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住；家人支持但对聋人处境理解不足",
+      "social_status": "人际关系受限，因相信他人不愿沟通而回避社交；有一定家庭支持但对自身处境的理解有限",
+      "medical_history": "失聪；无显著躯体疾病；无既往心理问题治疗史",
+      "language_features": "表达清晰、逻辑性较好；整体语气消极、持怀疑态度；愿意尝试但期望值低，配合度尚可"
+    },
+    "main_problem": "因为我是聋人，我觉得人们永远不愿意尝试与我交流，这导致我感到孤立和孤独。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为我注意到孤立和孤独正在影响我的心理健康和整体幸福感。",
+    "growth_experiences": [
+      "自青春期开始，在社交聚会与结识新朋友的情境中，因失聪而感到被忽视与难以沟通，逐步形成“他人不会与我交流”的信念，并在近几个月显著加重；虽尝试加入聋人与重听者的线上社群，但未能缓解孤立感；家庭成员总体支持，但难以充分理解作为聋人在社会中面临的沟通障碍。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "因为我是聋人，别人永远不会愿意与我沟通",
+        "我注定会孤独，难以被他人接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "参加社交聚会或与新认识的人接触",
+          "conditional_assumptions": "如果我是聋人，大多数人不会愿意花时间与我沟通",
+          "compensatory_strategies": "回避社交场合以避免被拒绝或出现尴尬",
+          "automatic_thoughts": "他们不会想和我交流；去也没有意义",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当有人尝试与我沟通但互动显得尴尬",
+          "conditional_assumptions": "如果对方显得尴尬，说明他们只是出于同情而并非真心",
+          "compensatory_strategies": "将他人的积极尝试解读为怜悯，迅速结束或减少深入交流",
+          "automatic_thoughts": "他们只是可怜我，不会再尝试了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到要参加社区中心的线下聚会",
+          "conditional_assumptions": "如果我去，大家会忽视我或不知道如何与我沟通",
+          "compensatory_strategies": "降低期待、保持怀疑并倾向于不去或被动参与",
+          "automatic_thoughts": "不会有任何改变，结果只会让我更孤独",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "有一位高中朋友持续与我保持联系",
+          "conditional_assumptions": "个别人的主动联系只是例外，不能代表多数人的态度",
+          "compensatory_strategies": "忽视积极证据以维持既有消极信念",
+          "automatic_thoughts": "这只是个例，不代表别人会愿意沟通",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被平等地看见、理解与沟通，获得真实的联结",
+        "fear": "害怕被忽视、被怜悯或被拒绝，担心在关系中遭遇羞辱与尴尬",
+        "defense_goal": [
+          "通过保持疏离与回避社交来减少被拒绝和尴尬的风险，维持脆弱自尊的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视的孤独者，不值得他人花时间沟通的人",
+          "object_representation": "冷漠或只会出于同情的他者，不愿沟通的群体",
+          "linking_affect": "孤独、羞耻、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调积极例外（如朋友持续联系）或建议参与社交活动、进行行为实验时",
+          "interpretation": "倾向认为这些建议无法适用于自己，或他人的善意只是出于同情（移情：将他人好意视为怜悯）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但怀疑的语气回应，使用“也许/但是”等转折弱化积极证据，强调自身特殊处境的限制；避免承诺明确行动，轻描淡写正面信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期感到被社会与他人忽视；在社交聚会与结识新朋友时体验显著孤立感；因担心他人不愿沟通而回避社交互动"
+          ],
+          "outcomes": [
+            "持续的孤独与隔离感",
+            "关系难以建立与维持",
+            "心理健康受影响（睡眠紊乱、减少自我照顾）"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "面对社交互动时产生“没有意义”的感受（如“我不觉得有意义去尝试”）"
+          ],
+          "outcomes": [
+            "行为动机下降与社交退缩",
+            "生活质量下降与自我照顾减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将他人的沟通尝试解释为“出于同情”",
+            "在互动尴尬时推断对方不愿再沟通（读心）"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以绝对化方式认定“人们永远不会愿意与我沟通”",
+            "将社会对聋人的误解内化为自我评价标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交前预设失败并降低参与度",
+            "对自身沟通能力与价值过度苛责，限制尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人建立联系的情境中，来访者通常会因为相信别人不愿与自己沟通而回避社交，结果进一步加重孤独感。",
+          "unique_outcome": "一位高中同学至今仍主动尝试与来访者保持联系，这与来访者的主导叙事（“没人会愿意沟通我”）不同，带来被看见与被重视的体验。",
+          "reason": "线索：由于共同的高中经历与对方持续的主动联络，这次获得了稳定与真诚的支持，使来访者感到“这位朋友与多数人不同”。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭资源（虽理解有限）",
+          "有一位持续联系的老朋友作为积极例外与支持来源",
+          "愿意尝试参加社区活动并接受咨询（改变意愿）"
+        ],
+        "negative_force": [
+          "预测未来与读心术导致的社交回避",
+          "对积极证据的贬低与绝对化结论（“永远不会”）",
+          "长期孤独引发睡眠紊乱与自我照顾减少，进一步削弱行动力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交互动与结识新朋友",
+          "antecedent": [
+            "参加社交聚会",
+            "在社区活动中面对陌生人",
+            "预期他人会忽视或无法与自己沟通"
+          ],
+          "core_reason": "基于“因为我是聋人，人们不会愿意与我沟通”的核心信念与对他人反应的负性预测（读心/预测未来）",
+          "function": "逃避被拒绝、尴尬与焦虑，维持短期安全感",
+          "consequence": "孤立与孤独加重，关系难以建立与维持，未就业状态延续，整体生活质量下降"
+        },
+        {
+          "behavior": "自我照顾减少（睡眠紊乱、降低日常护理）",
+          "antecedent": [
+            "在经历社交退缩与孤独感加剧后",
+            "夜间反复思考他人不会沟通的念头"
+          ],
+          "core_reason": "孤独与消极信念导致情绪低落与动机下降，形成消极行为循环",
+          "function": "短期内减少面对情绪痛苦的能量消耗",
+          "consequence": "心理健康受损、疲劳增加、进一步削弱社交与生活参与"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1852
+}

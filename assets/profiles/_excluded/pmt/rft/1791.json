@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "王浩",
+      "gender": "男",
+      "occupation": "未确定",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "家中最小的孩子",
+      "social_status": "有人际支持（有一位要好的朋友），但因自我怀疑难以开展新的关系；自尊问题影响人际与工作表现",
+      "medical_history": "既往在面对挑战时有自尊低与无能感；未接受过心理治疗；无显著身体疾病",
+      "language_features": "态度中性；表达较清楚，能区分逻辑与情绪；与咨询师合作度尚可"
+    },
+    "main_problem": "我觉得自己永远不会聪明，因为在尝试学习新事物时失败，这导致了无能感和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "这些无能感正在阻碍我追求新的机会，并影响我的自尊，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "过往在面对挑战时反复出现自尊低落与无能感的体验，但未曾接受过心理咨询或治疗；无显著身体疾病。",
+      "成长背景为家中最小的孩子，这一角色在长期人际与自我评价中可能影响自我价值感与自我效能感（原文仅提供身份背景）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不聪明的",
+        "我是无能的"
+      ],
+      "special_situations": [
+        {
+          "event": "在尝试学习一项新技能失败之后",
+          "conditional_assumptions": "如果我学习新东西时失败，就证明我不聪明、将永远学不会",
+          "compensatory_strategies": "独自硬撑、试图强行推进学习并压下情绪",
+          "automatic_thoughts": "我永远不会聪明",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次吃披萨或其他高热量食物时",
+          "conditional_assumptions": "只要吃不健康的食物，就必然会引发严重疾病并导致痛苦的后果",
+          "compensatory_strategies": "严格控制饮食、花大量时间上网研究糖尿病预防、回避涉及食物的社交",
+          "automatic_thoughts": "我会得糖尿病并因负担不起胰岛素而痛苦死亡",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "当面临新的挑战或尝试学习新的内容时",
+          "conditional_assumptions": "如果不能很快掌握新内容，就说明我不够聪明",
+          "compensatory_strategies": "带着高度焦虑勉强推进任务，同时不断自我怀疑",
+          "automatic_thoughts": "我肯定会失败，我不够聪明",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作或生活中出现表现下降、注意力不集中时",
+          "conditional_assumptions": "一处表现不佳就意味着我整体能力不足",
+          "compensatory_strategies": "自我批评、加重自我怀疑，试图通过更严格自我要求来“纠正”",
+          "automatic_thoughts": "我在各方面都不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为聪明且有能力、获得稳定的自我价值与安全感",
+        "fear": "害怕失败被证明无能，或因自己的选择导致灾难（如患病并痛苦死亡），从而被否定与失去掌控",
+        "defense_goal": [
+          "通过控制与回避（控制饮食、研究预防、回避涉食社交），以及用理性解释来降低焦虑并避免失败或灾难"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、容易失败的自我",
+          "object_representation": "他人是潜在的评判者（新的挑战与社交情境中可能否定我）",
+          "linking_affect": "焦虑、羞耻、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议以更平衡的视角看待饮食风险或减少过度查阅资料时",
+          "interpretation": "潜意识认为“只有持续研究和严格控制才安全”，将建议理解为不够重视风险",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以理性、冷静的语气列举数据与风险、强调预防细则，尽量回避对“恐惧与不确定”的直接感受表达。"
+        },
+        {
+          "trigger_condition": "当被邀请参加涉及高热量食物的社交聚会时",
+          "interpretation": "认为他人会逼迫我吃不健康食物或不理解我的担忧（把自己的不安归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "语气紧张、防御性强，强调“他们会让我失控”，用他人动机作为回避的理由。"
+        },
+        {
+          "trigger_condition": "面对新的学习任务或挑战、出现一次失败时",
+          "interpretation": "将情境与自我能力全盘地划归为“好/坏”“聪明/愚蠢”的两极",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "使用绝对化词汇（如“永远”“一定”“完全”），语气急促，坚持二元结论，排除中间地带与复杂性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "吃披萨或高热量食物后强烈联想到会患糖尿病并因负担不起胰岛素而痛苦死亡",
+            "对健康与生命的‘最坏结局’反复思考，难以摆脱“如果…”的担忧"
+          ],
+          "outcomes": [
+            "显著的焦虑与恐惧",
+            "睡眠受影响",
+            "回避涉食的社交活动",
+            "工作专注与效率下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因自我怀疑与灾难化担忧而限制选择与行动（如回避新的挑战与涉食社交）"
+          ],
+          "outcomes": [
+            "机会受限、职业发展受阻",
+            "体验到自主性降低与受困感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在尝试建立新关系时过度自我怀疑，认为自己不够好从而退缩",
+            "面对新挑战时以自我否定为先，谨小慎微"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "“我尝试自己硬撑着过”，不愿主动寻求支持",
+            "把应对压力的能量转向自我苛责与自我控制（饮食严格控制）"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "以大量在线研究与理论化来绕开对恐惧的直接体验",
+            "在涉食社交情境中选择回避而非直面与协调"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能区分逻辑与情绪、具备一定理性评估能力（承认并非每次不健康饮食都会导致疾病）",
+          "愿意求助并开始接受心理咨询",
+          "具备初步改变动机与意愿（愿意尝试更平衡的视角与小步行动）",
+          "存在基础社会支持（有一位要好的朋友）"
+        ],
+        "negative_force": [
+          "自我否定显著（将一次失败等同于全局无能）",
+          "灾难化与预测未来的思维导致健康焦虑",
+          "非黑即白的认知模式加重自尊问题",
+          "过度研究与控制饮食，维持焦虑循环",
+          "回避涉食社交、睡眠与动力受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在摄入高热量食物时出现强烈健康灾难化焦虑与回避行为",
+          "antecedent": [
+            "吃披萨或其他高热量食物",
+            "涉及食物的社交场景"
+          ],
+          "core_reason": "将不健康饮食与必然患上严重疾病并痛苦死亡的结果相连，担心无法负担治疗费用而形成灾难化认知",
+          "function": "逃避感知到的危险并获得控制感（通过严格控制饮食、过度查资料、回避社交）",
+          "consequence": "工作注意力与效率下降、睡眠受影响、回避社交、整体生活质量降低"
+        },
+        {
+          "behavior": "面对新挑战时的自我否定与预期失败（伴随焦虑与退缩）",
+          "antecedent": [
+            "尝试学习新技能失败后",
+            "每次面临新的挑战或学习任务"
+          ],
+          "core_reason": "过度概括与非黑即白信念（“失败=我不聪明/永远学不会”）导致自尊受损与自我效能感降低",
+          "function": "逃避失败与羞耻感、维持表面安全感",
+          "consequence": "在多领域怀疑自身能力、职业与学业表现受影响、难以开展新的关系与机会"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1791
+}

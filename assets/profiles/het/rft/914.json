@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "李诚",
+      "gender": "男",
+      "occupation": "销售助理",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "无子女",
+      "social_status": "有一位亲密朋友可倾诉，但尚未分享目前困扰；与潜在恋爱对象的互动受低自我价值影响",
+      "medical_history": "无显著躯体疾病；过往未接受心理治疗/咨询",
+      "language_features": "表达清晰、配合度高，能识别并描述自动化思维；倾向忽视正向反馈并用否定性解释替代；情绪语气平稳、具有反思意愿"
+    },
+    "main_problem": "我觉得自己缺乏开朗，男人可能认为我不可爱，这让我感到不值得、很孤独。",
+    "topic": "人际关系",
+    "core_demands": "我想提升自尊，停止感到如此不值得；我希望以更好的视角看待自己，不再被这些消极想法过度影响。",
+    "growth_experiences": [
+      "多次恋爱失败与被拒的经历，尤其最近一次分手后（约6个月前起）负面感受显著加重，持续出现“不值得与孤独感”，在社交或认识新朋友时被反复激活。",
+      "以往每次分手后也会出现类似的自我无价值与孤独感，但之前未寻求过专业帮助；无显著躯体疾病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "我没有吸引力/我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交或结识新朋友（如约会、聚会）时",
+          "conditional_assumptions": "如果我不够开朗或不够有趣，别人就会不喜欢我/不会爱我",
+          "compensatory_strategies": "刻意改变外表、强迫自己更外向以取悦他人",
+          "automatic_thoughts": "他们会觉得我不可爱/不会有人喜欢我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "约会结束后反馈不明确或有小失误时",
+          "conditional_assumptions": "只要有一点不顺利就意味着彻底失败并证明我不可爱",
+          "compensatory_strategies": "事后反复反刍经历、过早下结论以降低期待",
+          "automatic_thoughts": "我们不会再见了，我可能注定一个人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "从朋友或同事处收到正面评价或肯定时",
+          "conditional_assumptions": "他人的肯定不可靠，往往只是客套话",
+          "compensatory_strategies": "忽略或贬低积极证据以维持既有看法",
+          "automatic_thoughts": "他们只是出于礼貌在说好听的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想过去的分手或被拒经历时",
+          "conditional_assumptions": "过去的失败证明我本质上不被爱",
+          "compensatory_strategies": "降低期望、减少自我暴露以避免再次受伤",
+          "automatic_thoughts": "我本来就不值得被喜欢",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱与接纳，建立稳定且相互欣赏的亲密关系",
+        "fear": "害怕被拒绝、被否定，暴露“不够好/不可爱”后被抛弃",
+        "defense_goal": [
+          "通过先行自我否定与降低期待来减少被拒绝时的伤害",
+          "保持心理距离以回避亲密中的脆弱与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被爱的、价值不足的被拒者",
+          "object_representation": "挑剔的评判者/潜在拒绝者（尤其是潜在亲密对象）",
+          "linking_affect": "羞耻、恐惧与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交或约会中对方沉默、表情中立或反馈不明确时",
+          "interpretation": "对方像过去的拒绝者一样在评判我（他们觉得我无聊/不可爱）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用假设性语句陈述他人想法（如“他们一定觉得……”），语气迟疑，避免直接探询事实。"
+        },
+        {
+          "trigger_condition": "当收到他人积极反馈、夸奖或表达愿意再见面时",
+          "interpretation": "这只是客套或敷衍，不是对我真实的肯定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用“他们只是礼貌/场面话”等解释淡化积极信息，语气克制，迅速转移话题。"
+        },
+        {
+          "trigger_condition": "被问及是否向亲密朋友求助或表达脆弱时",
+          "interpretation": "表达需求会给他人添麻烦并导致被嫌弃/拒绝",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以理性理由（不想麻烦别人）回避情感表述，语气理性客观，减少情绪词汇。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "分手后持续感到孤独与不被需要",
+            "在社交与约会情境中坚信“没有人会爱我”",
+            "不向亲密朋友求助，选择独自承受"
+          ],
+          "outcomes": [
+            "自尊受损与自我否定",
+            "回避接纳支持导致孤立加深",
+            "对关系建立产生消极预期与焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“应当开朗/外向才会被爱”当作自我标准",
+            "尝试改变外表与强行外向以迎合他人"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，抑制向外表达或寻求帮助的冲动。",
+          "manifestations": [
+            "明知有亲密朋友仍不求助，认为“不要麻烦别人”",
+            "把需要支持的冲动压回自己，独自承受情绪"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "对正面评价以“只是客套”处理，回避直接接纳肯定",
+            "在获得积极信号时迅速转移注意，不与积极体验接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在约会或社交后，来访者通常会自动化地认为“没人会爱我”，情绪显著低落，并用负面结论看待关系前景。",
+          "unique_outcome": "在一次晚餐约会中，对方表示“享受交谈”并主动建议再见面；当时对话顺畅、整场约会顺利完成，出现了与以往信念相反的积极线索。",
+          "reason": "线索：情境为一对一晚餐、交流顺畅；对方给出直接的积极反馈（建议再见面）；来访者尽管紧张仍持续参与对话。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定工作，职业功能未受影响",
+          "有一位亲密朋友可提供潜在支持",
+          "愿意求助与改变，态度积极",
+          "能够识别自动化思维并尝试形成更平衡的表述",
+          "在真实约会情境中能展开并维持高质量对话"
+        ],
+        "negative_force": [
+          "核心自我价值感低，倾向自我否定",
+          "读心术、预测未来、心理过滤等认知偏差显著",
+          "否定正向信息，难以内化积极反馈",
+          "担心麻烦他人而回避寻求支持，社会支持利用不足",
+          "将“开朗/外向”与“被爱”僵化地绑定（价值条件）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交/约会后产生强烈的自我贬低与“注定不被爱”的消极自语，伴随情绪低落与孤独感",
+          "antecedent": [
+            "参加社交活动或约会",
+            "互动过程中出现小失误或获得不明确反馈",
+            "活动结束后的独处与反刍"
+          ],
+          "core_reason": "多次分手/被拒经历强化“我不值得被爱”的信念，并通过读心术、预测未来、心理过滤等偏差维持",
+          "function": "短期内通过降低期待来回避再次被拒的焦虑与不确定感",
+          "consequence": "长期自尊受损、孤独感加剧、亲密关系建立受阻，兴趣与日常乐趣下降"
+        },
+        {
+          "behavior": "回避向亲密朋友表达困扰与寻求支持（自我封闭）",
+          "antecedent": [
+            "情绪低落或在社交后感到挫败时想到求助",
+            "担心给他人“添麻烦”的念头出现"
+          ],
+          "core_reason": "害怕暴露脆弱导致被拒或被嫌弃，以理性理由压抑求助冲动",
+          "function": "逃避羞耻与被拒的潜在风险，维持表面控制感",
+          "consequence": "社会支持缺失，负面情绪维持时间延长，加深孤立与无助感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 914
+}

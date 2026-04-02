@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "李娜",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母是律师",
+      "social_status": "未提及",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "态度中性；表达清晰、条理较好；能合作配合；在触及泳衣/游泳相关话题时倾向回避或转移；主观感受以焦虑与不适为主"
+    },
+    "main_problem": "我对穿泳衣存在恐惧，这源于一次差点溺水的创伤经历；每当想到泳衣或游泳就感到焦虑与不适，并长期回避涉水活动，影响我参与和享受生活。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这种恐惧妨碍了我参与活动和享受生活，希望通过咨询来解决这一问题。",
+    "growth_experiences": [
+      "几年前与朋友度假在海边时，进入海水后短时间内出现“难以自救、难以保持漂浮”的窘境，感到强烈的恐慌与脆弱感，几分钟后被人救起；该事件伴随高应激强度并在记忆中形成持久负性烙印，使我此后对穿泳衣、靠近水域产生显著焦虑与回避，认为“那次旅行因此被毁”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在水边是不安全的",
+        "我是脆弱的，无法保护自己"
+      ],
+      "special_situations": [
+        {
+          "event": "计划或谈论去海边/泳池的活动",
+          "conditional_assumptions": "如果穿上泳衣或到水边，我就会像那次旅行一样再次遇到危险，整段经历会被毁掉",
+          "compensatory_strategies": "改变话题或找借口回避相关活动与讨论",
+          "automatic_thoughts": "会发生不好的事，我可能会再次溺水",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "靠近水域（海边、泳池）",
+          "conditional_assumptions": "如果不能百分之百保证安全，那就等同于危险",
+          "compensatory_strategies": "远离水域，不靠近海边或泳池",
+          "automatic_thoughts": "要么完全安全，要么很危险",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到他人游泳或穿泳衣",
+          "conditional_assumptions": "只要涉及水的场景，对我来说都不安全，我也会出事",
+          "compensatory_strategies": "拒绝参与所有涉水活动",
+          "automatic_thoughts": "凡是与水有关的情况都不安全",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "被提醒或回忆起“差点溺水”的经历",
+          "conditional_assumptions": "一旦被触发回忆，就说明水和泳衣本身是危险的，灾难可能再次发生",
+          "compensatory_strategies": "停止思考、转移注意力以避免情绪升级",
+          "automatic_thoughts": "最坏情况会重演",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望能自由、安全地参与与水相关的休闲活动，享受生活与与亲友的相处",
+        "fear": "害怕再次失去控制并遭遇危险（如溺水），甚至引发严重后果",
+        "defense_goal": [
+          "通过回避涉水情境与相关话题来维持安全感与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易受伤的个体",
+          "object_representation": "危险且可能造成伤害的环境（水域/泳衣所指向的场景）",
+          "linking_affect": "恐惧、惊恐、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到泳衣、游泳、海滩或靠近水域时",
+          "interpretation": "将相关话题或情境视为危险即将重演，认为自己会失去控制并受到伤害",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "语气温和、支持性；先肯定其保护自己的用意，再以开放式问题温柔探索其担忧；避免指责或逼迫，邀请其描述当下身体感受与想法，并逐步将话题拉回到可承受的具体细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "“差点溺水”的生命威胁体验在记忆中持续存在，触发对再次遭遇灾难的担忧"
+          ],
+          "outcomes": [
+            "对水/泳衣的强烈恐惧与焦虑",
+            "显著回避行为导致生活范围缩小"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧限制了参与与水相关活动的选择，影响与亲友的休闲与联结"
+          ],
+          "outcomes": [
+            "生活自主性受限",
+            "体验与活动减少、错失享受生活的机会"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "当出现泳衣/游泳话题时改变话题或以玩笑/借口回避",
+            "在社交场景中主动避开与水相关的活动安排"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "认为他人可能不理解自己的恐惧而选择不提及",
+            "在涉及水的场景前过度担忧并自我限制参与"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一般性的社会支持网络（朋友与家人，虽尚未谈及此恐惧）",
+          "有明确动机希望克服恐惧以更自由地参与活动",
+          "愿意尝试记录想法与从小步开始（如先靠近水域、不强迫入水）"
+        ],
+        "negative_force": [
+          "长期回避涉水场景与相关话题，强化恐惧联结",
+          "灾难化、过度概括与非黑即白的思维模式",
+          "强烈的焦虑和对最坏情况的预测",
+          "对支持网络保持沉默，减少外部资源的使用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对穿泳衣与涉水情境的强烈恐惧与回避（伴随焦虑/不适/偶发惊恐感）",
+          "antecedent": [
+            "想到或谈论泳衣/游泳/海滩",
+            "靠近海边或泳池等水域",
+            "看到他人穿泳衣或游泳",
+            "被触发回忆“差点溺水”的经历"
+          ],
+          "core_reason": "近乎溺水的创伤性记忆与对再次发生危险的灾难化预期（自我脆弱与不安全的核心信念）",
+          "function": "逃避不受欢迎的事物（潜在危险与强烈焦虑），以维持短期安全感与控制感",
+          "consequence": "错失与亲友的休闲活动与联结；生活乐趣与参与度下降；对水相关环境的回避逐步加剧恐惧维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 506
+}

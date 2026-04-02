@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "周莉",
+      "gender": "女",
+      "occupation": "私人健身教练",
+      "educational_background": "认证私人健身教练",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与朋友关系有些紧张（常为优先钓鱼而取消与朋友的计划）",
+      "medical_history": "无重要躯体疾病；既往无相似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、合作态度积极；能识别并描述自己的僵化思维"
+    },
+    "main_problem": "每到周末若只能钓鱼一天而无法两天都去，就会持续感到失望和沮丧，觉得周末被“毁了”，产生不满足与错失感；自从几个月前因工作取消一次钓鱼后愈发加重。",
+    "topic": "情绪管理",
+    "core_demands": "这些失望感影响了我的整体情绪和对周末的享受，希望通过咨询减少失望并提高周末的愉悦感与灵活度。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有按计划完成周末两天的钓鱼，我的周末才有价值",
+        "如果计划被打乱，整段体验就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "周末因工作安排或其他事务只能钓鱼一天",
+          "conditional_assumptions": "如果我不能两天都去钓鱼，这个周末就没有意义",
+          "compensatory_strategies": "优先安排钓鱼、尽量挤压或取消其他活动以增加钓鱼时间",
+          "automatic_thoughts": "我的周末被毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "因工作承诺不得不取消一次原定的钓鱼行程",
+          "conditional_assumptions": "如果计划被打乱，就说明这个周末注定不开心",
+          "compensatory_strategies": "尝试重排日程、把其他安排尽量移到非钓鱼时间以维持规则",
+          "automatic_thoughts": "这次周末不会好，以后也很难享受",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "周末安排繁忙、有其他承诺导致钓鱼时间减少",
+          "conditional_assumptions": "如果不能把周末完全用于钓鱼，我就会失去放松与享受",
+          "compensatory_strategies": "减少与朋友的计划、更多地围绕钓鱼来安排周末",
+          "automatic_thoughts": "我一定会错过最重要的享受",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "朋友提出与钓鱼冲突的活动邀请",
+          "conditional_assumptions": "如果不选择钓鱼，就等于牺牲周末的质量",
+          "compensatory_strategies": "取消与朋友的活动，优先保障钓鱼安排",
+          "automatic_thoughts": "其他活动都不值得，我还是会不开心",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过稳定、可控的周末钓鱼获得放松与满足",
+        "fear": "害怕计划被打乱后周末失去意义，感到强烈失望与错失",
+        "defense_goal": [
+          "维持刚性周末规则以降低焦虑",
+          "优先钓鱼并回避其他安排以保障控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要按既定规则才能获得放松与满足的自己",
+          "object_representation": "朋友（他人）不理解我的需求、外部承诺会夺走我的快乐",
+          "linking_affect": "失望、挫败、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友邀请与钓鱼时间冲突，或出现工作安排打乱周末计划时",
+          "interpretation": "将任何变化理解为会“毁掉”周末的享受（把变动视为负面、不可承受）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以强调日程安排与需要放松为理由拒绝他人邀请，语气平静但坚决，优先确保钓鱼计划。"
+        },
+        {
+          "trigger_condition": "当听到他人表示“不理解为何错过一天钓鱼会如此沮丧”",
+          "interpretation": "认为他人普遍不理解自己并可能轻视自己的感受（移情：将不被理解的感受赋予他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "强调他人态度与看法，弱化对自身僵化规则的探讨；用防御性语句保护既有安排。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当周末不能两天钓鱼时，体验被定义为“被毁了”、“不值得”",
+            "将周末的意义单一地系于钓鱼这一活动"
+          ],
+          "outcomes": [
+            "情绪低落与失望加重",
+            "对其他活动丧失动力与兴趣",
+            "主观周末满意度下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为优先钓鱼而取消与朋友的计划",
+            "感到朋友并不理解自己为何如此沮丧"
+          ],
+          "outcomes": [
+            "人际紧张与疏离感增强",
+            "社会支持感降低"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被僵化的周末规则所束缚，难以灵活应对变动",
+            "将“必须两天钓鱼”视为硬性标准"
+          ],
+          "outcomes": [
+            "选择弹性下降、心理灵活性受限",
+            "适应变动的能力减弱而增加压力"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须两天钓鱼”“周末否则就被毁”作为硬性自我标准",
+            "难以容许计划的差异与变动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "觉得朋友不理解、甚至可能轻视自己的感受",
+            "将内在的被误解体验归因于他人态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对咨询持积极态度、愿意练习重构“规则为愿望”",
+          "具备其他兴趣（徒步、阅读）可作为替代活动资源",
+          "工作表现未受影响，基本生活稳定",
+          "能够识别自身的非黑即白与僵化思维模式"
+        ],
+        "negative_force": [
+          "对周末活动存在刚性规则与非黑即白思维",
+          "过度将周末价值绑定在钓鱼上，否定其他积极体验",
+          "常取消与朋友的计划以优先钓鱼，导致人际紧张",
+          "当计划被打乱时倾向灾难化地评价为“被毁了”",
+          "对错失的担忧与执着加重失望感与动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "周末计划受扰时出现强烈失望与沮丧，并反复认定“周末被毁了”",
+          "antecedent": [
+            "工作承诺或其他事务导致不能两天都去钓鱼",
+            "朋友的活动邀请与钓鱼时间冲突",
+            "周末安排繁忙、计划被打乱"
+          ],
+          "core_reason": "对周末体验持僵化的非黑即白规则，将周末意义单一绑定在钓鱼上",
+          "function": "维持控制感、逃避不确定与变化带来的焦虑",
+          "consequence": "整体情绪低落、对其他活动缺乏动力与兴趣，主观周末满意度下降"
+        },
+        {
+          "behavior": "为优先钓鱼而频繁取消与朋友的计划",
+          "antecedent": [
+            "朋友邀请与钓鱼安排冲突",
+            "周末忙碌、时间有限"
+          ],
+          "core_reason": "担心错过钓鱼会失去周末的放松与满足，将钓鱼视为唯一关键活动",
+          "function": "获得更多钓鱼时间与掌控感，避免面对计划变动带来的不适",
+          "consequence": "人际关系紧张、社会支持减少，进一步加重周末的不满足感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 110
+}

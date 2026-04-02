@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "房地产办公室职员",
+      "educational_background": "部分大学教育",
+      "marital_status": "与老板恋爱中",
+      "family_status": "未提及",
+      "social_status": "有几位朋友可倾诉，但尚未与他们讨论工作相关问题",
+      "medical_history": "无显著躯体疾病，未接受过心理治疗；既往未出现类似问题",
+      "language_features": "未提及"
+    },
+    "main_problem": "今天在工作中失去一笔房屋销售后，我感到自己对老板不值得信任，这让我非常焦虑与紧张。",
+    "topic": "职业发展",
+    "core_demands": "这些想法和感受正在影响我的工作表现并造成显著痛苦；我希望能够证明自己对老板是值得信任的，并减轻焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被信任",
+        "我不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "工作中丢失了一笔房屋销售（当天的带看与谈判失败，客户在谈判阶段退出）",
+          "conditional_assumptions": "如果我没有成交，就说明我不可信、不胜任，并且会被老板否定",
+          "compensatory_strategies": "不断自我合理化、向老板寻求安慰与保证",
+          "automatic_thoughts": "这次失败证明我不可信，我会一直让老板失望",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "事件后老板表现得有些疏远，尽管他曾尝试安慰",
+          "conditional_assumptions": "如果他没有像平时那样亲近或热情，那就意味着他对我失望、认为我不可信",
+          "compensatory_strategies": "过度谨慎、反复揣测他的看法、事事自我怀疑",
+          "automatic_thoughts": "他一定觉得我让他失望、他不再信任我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想客户在谈判阶段退出导致成交失败",
+          "conditional_assumptions": "客户的退出表明我能力不足，这会引发职业危机与关系破裂",
+          "compensatory_strategies": "过度担忧与失眠，试图通过自我说服来缓解焦虑",
+          "automatic_thoughts": "这次失败会毁掉我的工作和关系",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "持续担心老板对自己可信度的评价",
+          "conditional_assumptions": "我的价值与可信度取决于老板的认可",
+          "compensatory_strategies": "不断向老板寻求安慰与认可以确认自我价值",
+          "automatic_thoughts": "只有老板认可我，我才值得信任",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被重要他人（老板/伴侣）认可与信任，维持亲密而稳定的关系",
+        "fear": "害怕被否定、被拒绝与失去关系，同时担心职业前途受损",
+        "defense_goal": [
+          "通过合理化与过度自我监控来降低被否定的风险",
+          "努力获得外部认可以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败后感到自己是“不可信、不胜任”的下属/伴侣",
+          "object_representation": "疏远且可能失望的权威者/伴侣",
+          "linking_affect": "焦虑、羞耻、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及工作失败或想到老板对自己的看法时",
+          "interpretation": "倾向认为老板会因为一次失误否定自己，关系与职业都面临危险（带有投射/读心的倾向）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以解释和理由为主，语气平静但回避深入情绪；强调外在因素以降低自责，避免面对内在羞耻与恐惧。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与老板的关系因事件变得紧张且对方显得疏远",
+            "对朋友感到尴尬而未寻求支持，保持沉默与自我隔离"
+          ],
+          "outcomes": [
+            "显著焦虑与持续担忧",
+            "睡眠受损（失眠）",
+            "工作投入与专注度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在缺乏证据的情况下认定老板“觉得我不可信/让我失望”",
+            "把内在的不安与羞耻感投向他人的评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "事事谨慎、反复自我怀疑，担心任何举动会被老板负面评价",
+            "持续紧张与过度在意他人看法，导致工作表现受损"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我必须证明自己值得信任”作为自我要求",
+            "把老板的期望直接内化为自我价值判断的标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过往工作中表现为可靠且擅长成交（资源基础）",
+          "愿意开放沟通（计划与老板坦诚交流）",
+          "具有一定的自我反思与改进动机",
+          "拥有一定的社会支持网络（有几位朋友可交流）"
+        ],
+        "negative_force": [
+          "过度依赖外部认可来判断自我价值（外部验证）",
+          "灾难化、过度概括与读心等不良认知模式强化焦虑",
+          "失眠与持续担忧削弱工作专注与表现",
+          "工作与亲密关系边界不清导致压力聚焦于单一他者评价"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对老板是否信任自己的持续性焦虑与过度担忧",
+          "antecedent": [
+            "当天丢失房屋销售后回想失败情境",
+            "老板表现出疏远或不如以往亲近",
+            "想到未来工作表现与老板评价"
+          ],
+          "core_reason": "对失败的灾难化与过度概括认知、并以老板的认可作为自我价值的主要来源（外部验证）",
+          "function": "逃避不确定性与潜在批评，通过担忧与自我监控试图获得控制感与安全感",
+          "consequence": "工作表现下降、睡眠受损、与老板关系紧张、日常生活被持续焦虑打断"
+        },
+        {
+          "behavior": "回避与朋友讨论工作相关困扰",
+          "antecedent": [
+            "感到尴尬与羞耻",
+            "担心他人无法理解与评价自己"
+          ],
+          "core_reason": "为了避免暴露脆弱与遭遇否定，选择保持沉默以短期减轻不适",
+          "function": "逃避可能的负面评价或不被理解的风险",
+          "consequence": "社会支持利用不足，孤立感加重，焦虑维持与加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 170
+}

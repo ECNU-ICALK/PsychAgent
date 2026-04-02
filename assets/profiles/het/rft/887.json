@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "陈宇",
+      "gender": "男",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与母亲同住，关系亲近，但尚未向母亲表达自己的无价值感",
+      "social_status": "因自我价值感低而减少社交，社交互动受限",
+      "medical_history": "无类似心理问题既往史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "配合度较好，表达清晰，能描述触发情境与情绪；情绪较为平稳（态度中性）"
+    },
+    "main_problem": "I am struggling with feelings of worthlessness and hopelessness related to my stamp collection.",
+    "topic": "情绪管理",
+    "core_demands": "The realization that my feelings of worthlessness are affecting my motivation and overall well-being pushed me to seek counseling.",
+    "growth_experiences": [
+      "几个月前，陈宇在杂志上看到关于“高价值邮票收藏”的报道后，将自己的收藏与之比较，强烈感到自己的收藏“永远不值钱”，由此产生无价值感与无望感。此后每当看到自己的邮票收藏都会被上述情绪触发。他尝试通过查资料、研究如何提升收藏价值来“补救”，但未见成效，逐渐失去对收藏这一爱好的兴趣与动力，影响到日常作息、自我照料与求职动机，并因低自我价值而减少社交。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没有价值的",
+        "我的收藏永远一文不值"
+      ],
+      "special_situations": [
+        {
+          "event": "在杂志上看到他人“高价值”的邮票收藏报道并与自己的收藏进行比较",
+          "conditional_assumptions": "如果我的收藏达不到那些水平和价值，就说明我是不够好的、没有价值的",
+          "compensatory_strategies": "加紧研究提升收藏价值的办法、不断比较与评估",
+          "automatic_thoughts": "我的收藏不值一提，我也不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每当看见或想到自己的邮票收藏",
+          "conditional_assumptions": "如果看不到立刻的升值或亮点，就等于完全没有价值",
+          "compensatory_strategies": "回避观赏和整理收藏，减少投入以避免失望",
+          "automatic_thoughts": "它永远不会值钱，我在浪费时间",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "尝试查找如何提高收藏价值但没有看到成效",
+          "conditional_assumptions": "如果努力了仍无成效，就证明我整体都是无能的",
+          "compensatory_strategies": "自我批评、减少尝试以避免再度失败感",
+          "automatic_thoughts": "我什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要申请工作或准备投递简历",
+          "conditional_assumptions": "如果我不够好，申请也不会成功，因此不如不开始",
+          "compensatory_strategies": "拖延与回避求职行动",
+          "automatic_thoughts": "反正也不会被录用",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看到价值，并通过兴趣与成就获得肯定",
+        "fear": "害怕被否定与比较后显得“一文不值”，引发羞耻与无望",
+        "defense_goal": [
+          "通过回避尝试与减少暴露来降低被评判的风险",
+          "以理性分析和寻找客观依据来控制不确定性、缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自我贬低者/不够好的人",
+          "object_representation": "苛刻的评判者（他人/媒体标准/市场）",
+          "linking_affect": "羞耻、无望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回忆并接纳积极证据（如做成过的一件事）时",
+          "interpretation": "把积极经验视为“例外/不算数”，以维持“我不行”的图式",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "语气平淡地淡化成功，强调偶然性或外因，用“只是运气好/不代表我行”之类说法来否定积极证据。"
+        },
+        {
+          "trigger_condition": "当谈及与他人或市场标准的比较时",
+          "interpretation": "将自己的自我批评体验投射为“他人会看不起/否定我”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "以“他们都会觉得……”等他人视角陈述，回避表达自身真实需要与脆弱。"
+        },
+        {
+          "trigger_condition": "当面对情绪探索或行动改变的建议时",
+          "interpretation": "通过讨论“市场、证据、价值标准”等客观层面来远离羞耻与无望感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "转向数据与逻辑细节，弱化情绪词汇，以分析口吻延长话题、降低情感接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为自己的邮票收藏“永远不值钱”，由此对兴趣与投入的意义产生怀疑",
+            "在比较之下体验到无价值与无望"
+          ],
+          "outcomes": [
+            "动机下降与回避",
+            "情绪低落与自我否定",
+            "日常作息与自我照料受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因低自我价值而减少社交",
+            "与母亲关系亲近却未分享真实感受与困扰"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "情绪困扰得不到外部调节，负性循环加深"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "以杂志/市场给出的价值标准来界定自我与收藏的价值",
+            "将“必须有高市场价值才算好”的他者标准当作自我评价依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制/苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "不愿与母亲谈及无价值感，谨慎表达脆弱情绪",
+            "在社交中因担心“不够好”而回避互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在学习/协作任务中，来访者通常因自我怀疑而降低参与度或回避，事后进一步自我否定",
+          "unique_outcome": "上学期曾带领一个学习小组且进展顺利；与以往不同的是，他主动承担并体验到成效良好",
+          "reason": "线索：任务结构清晰、同伴合作支持较多；做法不同：主动承担组织角色；由此出现了更高的投入与正向体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对兴趣（邮票收藏）曾有持续投入",
+          "主动寻求提升收藏价值的方法，具备问题解决倾向",
+          "与母亲关系亲近，潜在可利用的家庭支持",
+          "有过成功经验（带领学习小组）",
+          "能意识到问题并主动寻求咨询帮助"
+        ],
+        "negative_force": [
+          "灾难化与比较驱动的自我否定",
+          "将外部价值标准内化为自我评价依据",
+          "求职与日常生活动机不足，回避倾向上升",
+          "社交退缩，未有效利用已有支持系统"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避邮票相关活动并反复出现“收藏没有价值”的负性自我陈述，伴随低落与无望",
+          "antecedent": [
+            "看到杂志中高价值收藏的报道",
+            "看到或想到自己的邮票收藏",
+            "想到提升价值未见成效"
+          ],
+          "core_reason": "将自我价值与收藏的市场价值等同，通过外部比较形成“我不行”的信念",
+          "function": "短期逃避羞耻与失败感、降低焦虑",
+          "consequence": "对兴趣与活动投入减少，动机下降，日常自我照料受损，进一步强化自我否定"
+        },
+        {
+          "behavior": "社交回避与不表露情绪（包括不与母亲谈感受）",
+          "antecedent": [
+            "想到要与他人互动或分享感受时",
+            "担心被比较或被否定的场合"
+          ],
+          "core_reason": "害怕被评判、被看作“一无是处”，以回避来预防被否定的体验",
+          "function": "逃避潜在的负面评价与尴尬，维持表面安全感",
+          "consequence": "社会支持减少、孤独与无望感加重，问题循环延续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 887
+}

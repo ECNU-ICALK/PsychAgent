@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "林凯",
+      "gender": "男",
+      "occupation": "高中生",
+      "educational_background": "高中",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "拥有支持性的朋友与家人，但未向他们谈及学业恐惧；因对失败的尴尬而与朋友和同学疏离",
+      "medical_history": "无显著躯体疾病；未接受心理治疗；此前未出现类似问题",
+      "language_features": "表达清晰、逻辑较好，能够自我觉察并描述想法与情绪，配合度高；语速未提及"
+    },
+    "main_problem": "在历史课中因最近一次测验得了F而产生强烈焦虑与对失败的恐惧，坚信自己接下来整年都会在历史科目中不及格，导致专注和学习能力下降并出现拖延。",
+    "topic": "学业压力",
+    "core_demands": "希望通过咨询缓解对失败的恐惧，减少焦虑对学业表现与心理健康的负面影响，提升对学习的掌控感，不再让焦虑支配学习与生活。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不擅长历史",
+        "无论我怎么努力，我都无法理解历史"
+      ],
+      "special_situations": [
+        {
+          "event": "历史测验得了F后回想该成绩",
+          "conditional_assumptions": "如果一次重要测验不及格，就说明我在历史上整体不行，并且之后也会继续失败",
+          "compensatory_strategies": "加倍学习并向同学求助来证明自己可以提高",
+          "automatic_thoughts": "这次F证明了我的最坏担心；我会在整年里都不及格",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要为历史学习或准备下一次评估",
+          "conditional_assumptions": "如果不能彻底理解学习内容，就一定会再次失败并感到更加尴尬",
+          "compensatory_strategies": "拖延与回避实际学习以暂时缓解焦虑",
+          "automatic_thoughts": "我再怎么学也会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到要接收老师或课程的反馈",
+          "conditional_assumptions": "如果反馈不理想，就说明我不擅长历史",
+          "compensatory_strategies": "减少与老师和同学的交流，避免谈论历史成绩以回避尴尬",
+          "automatic_thoughts": "我很丢脸",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "回顾历史课整体表现时只关注这次失败",
+          "conditional_assumptions": "失败比过往的作业与小测的成功更能说明问题",
+          "compensatory_strategies": "反复回想失败经历，忽视既往的成功经验",
+          "automatic_thoughts": "这次失败说明我整体就是不行",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望重新获得对学业的掌控与信心，减少焦虑并稳定历史课的表现",
+        "fear": "害怕再次失败并因此感到尴尬与羞耻",
+        "defense_goal": [
+          "通过回避社交与反馈来降低羞耻感与紧张",
+          "通过加倍学习来防止再次失败并获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不擅长历史、容易失败且感到尴尬的学生",
+          "object_representation": "老师/同学是评估者，其反馈可能暴露自己的不足",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因对失败的尴尬而与朋友和同学疏离",
+            "面对支持系统（家人和朋友）也未谈及学业恐惧"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "睡眠紊乱",
+            "学习拖延与回避"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在历史学习或评估前，来访者通常会因害怕失败而严重焦虑、产生“必定会失败”的想法并拖延，从而影响准备与成绩",
+          "unique_outcome": "此前在部分历史作业与小测中曾取得较好成绩，并体验到相对更有把握与信心的时刻",
+          "reason": "线索：任务难度更可承受、对知识点理解更清晰，或获得了他人帮助与澄清，因此当次准备更充分、焦虑更低，能够投入完成任务"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具有一定的学习投入与努力倾向（尝试加倍学习）",
+          "愿意寻求同学帮助与澄清",
+          "此前在部分作业与小测中有成功经验",
+          "对咨询持积极态度，愿意练习与尝试新方法",
+          "拥有支持性的朋友与家人"
+        ],
+        "negative_force": [
+          "对失败的恐惧与尴尬感强烈",
+          "过度概括与预测未来（一次失败即推断长期失败）",
+          "学习拖延与回避行为维持问题",
+          "社交疏离减少外部支持",
+          "睡眠受扰，进一步削弱学习效率与情绪调节"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在历史学习中的拖延与回避（伴随强烈焦虑与灾难化预测）",
+          "antecedent": [
+            "想到要为历史学习或准备评估",
+            "回想上次历史测验得了F",
+            "预期将收到老师或课程反馈"
+          ],
+          "core_reason": "将一次测验失败过度概括为长期失败，并进行负性预测（我会一直不及格），由此产生强烈焦虑与羞耻，导致回避与拖延",
+          "function": "逃避失败与尴尬的可能性，短期缓解焦虑",
+          "consequence": "学习准备不足、成绩下降、焦虑持续并加重、睡眠紊乱以及与同学朋友疏离"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 243
+}

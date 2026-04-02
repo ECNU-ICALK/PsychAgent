@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "张迪",
+      "gender": "男",
+      "occupation": "汽车制造商",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "社会支持系统不强，倾向于独自处理问题",
+      "medical_history": "未经历心理治疗；无重大躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "自一个月前起，一位常购车的客户不再回我的电话，我因此感到持续的焦虑与压力；我认为他一定觉得我工作很糟，这引发自卑与自我怀疑，并使我害怕被拒绝，从而回避联系其他客户。",
+    "topic": "职业发展",
+    "core_demands": "这次寻求咨询的决定性因素是：意识到焦虑与对工作能力的自我怀疑正在影响整体身心健康与工作表现。",
+    "growth_experiences": [
+      "过去在工作中曾遭遇过拒绝，短期内影响自尊但未升级到当前程度；此前未接受过任何心理治疗，且无重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "一位常购车的客户停止回电话已约一个月",
+          "conditional_assumptions": "如果客户不回我电话，就证明我工作很糟、不可被信任",
+          "compensatory_strategies": "尝试以不同方式联系该客户，但因害怕被拒绝而最终停止行动",
+          "automatic_thoughts": "他一定觉得我很糟/他讨厌我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当需要主动联系其他客户时",
+          "conditional_assumptions": "如果再次被拒绝，就说明我不适合这份工作；必须避免进一步失败",
+          "compensatory_strategies": "回避拨打客户电话，尽量低调，不与他人互动",
+          "automatic_thoughts": "他们会拒绝我/没有人会接我的电话",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到工作相关的人际互动与业绩压力时",
+          "conditional_assumptions": "如果我有一次失误，未来都会搞砸；只有完美才算合格",
+          "compensatory_strategies": "通过自我怀疑与退缩来避免暴露不完美与失败",
+          "automatic_thoughts": "我会一直卖不出车/一切都会出错",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与同事相处或想到同事可能看到自己的不足",
+          "conditional_assumptions": "如果同事看到我的缺点，他们就会认为我是失败者并看不起我",
+          "compensatory_strategies": "与同事隔离、减少互动以避免被评价",
+          "automatic_thoughts": "他们会看不起我/他们觉得我是失败者",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被接纳，尤其在工作表现上得到客户与同事的肯定",
+        "fear": "害怕被拒绝、被视为无能并被否定",
+        "defense_goal": [
+          "通过自我隔离与减少外部联系来避免遭遇否定",
+          "以退缩与回避来维持脆弱自尊的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的员工",
+          "object_representation": "批判性、随时会拒绝或轻视自己的他者（客户/同事）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面对需要主动联系客户、而对方沉默或未回应时",
+          "interpretation": "将对方的沉默理解为对自己无能的否定（把自我怀疑投射为他人的负面看法）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用共情且温和的语气，提出开放式问题帮助区分事实与假设；轻度挑战投射内容，邀请列举证据与备用解释，避免指责与对立。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "社会支持系统薄弱，倾向于独自承受问题",
+            "因自卑而与同事隔离"
+          ],
+          "outcomes": [
+            "持续焦虑与自我怀疑",
+            "睡眠受扰与不安",
+            "工作绩效下降与回避行为增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将客户的沉默解读为“他觉得我很糟”",
+            "预设同事会看不起自己"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "害怕被拒绝而避免拨打客户电话",
+            "在工作中“把头埋起来”，减少互动以自我保护"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要联系客户时，来访者通常会因害怕被拒绝而回避拨打电话，导致销售机会减少与工作绩效下降。",
+          "unique_outcome": "去年曾以为会失去一笔大单，但他主动致电客户后，对方最终购买了三辆车，结果明显好于预期。",
+          "reason": "不同做法/心态：当时更有自信，没有让恐惧主导，选择主动联系客户；情境：客户当时可能有实际需求。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在重大销售情境中主动联系并取得显著成功（客户一次购买三辆车）",
+          "工作出勤规律",
+          "曾尝试以不同方式联系不回电的客户，具有一定的行动意愿"
+        ],
+        "negative_force": [
+          "害怕被拒绝导致回避拨打电话",
+          "过度概括、读心术与预测未来等负性认知模式强化自我怀疑",
+          "自卑与自我否定，降低与同事的互动",
+          "社会支持薄弱，倾向独自承受压力",
+          "焦虑影响睡眠，恢复力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避主动联系客户（尤其是电话沟通）",
+          "antecedent": [
+            "客户长时间不回电话",
+            "想到或需要进行工作相关的客户联络时"
+          ],
+          "core_reason": "对被拒绝的灾难化预测与自我怀疑（将沉默/未回应等同于否定与失败）",
+          "function": "短期逃避潜在拒绝以暂时降低焦虑",
+          "consequence": "客户联络减少、销售机会流失、工作绩效下降，并进一步加重自卑与社交隔离"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 410
+}

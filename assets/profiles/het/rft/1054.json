@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "李正辉",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一位支持性的伴侣；因通勤压力与家人关系紧张",
+      "social_status": "有伴侣支持，但不愿与朋友讨论该困扰，担心他们无法理解",
+      "medical_history": "无重大躯体疾病；此前未接受心理咨询；过去未出现与通勤相关的类似问题",
+      "language_features": "表达清晰，合作度高，逻辑性较强；能自我反思；语气紧张，存在灾难化与预测未来的倾向"
+    },
+    "main_problem": "因每日通勤（每程约一小时，交通状况糟糕）导致的压力和焦虑显著增加，且担心交通只会越来越糟。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询降低每日通勤引发的压力与焦虑，找到更好的应对方式，并改善工作表现、睡眠与家庭关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "坏的结果是必然的",
+        "我无法掌控外部环境，因而难以有效应对"
+      ],
+      "special_situations": [
+        {
+          "event": "每天在早晚高峰驾车通勤，路况拥堵严重",
+          "conditional_assumptions": "一旦交通拥堵，整天都会被毁，压力不可避免",
+          "compensatory_strategies": "在车上听舒缓音乐和播客以缓解焦虑",
+          "automatic_thoughts": "今天的交通会糟透了，而且只会越来越糟。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "睡前想到第二天的通勤",
+          "conditional_assumptions": "如果我不提前担心并做好心理准备，明天会更糟",
+          "compensatory_strategies": "熬夜担忧、反复预想最坏情况，导致入睡困难",
+          "automatic_thoughts": "明天的交通一定会更糟。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "到达公司时因拥堵通勤已感到疲惫",
+          "conditional_assumptions": "上班前被堵车耗尽精力意味着我今天的工作表现会很差",
+          "compensatory_strategies": "强迫自己硬撑完成工作任务",
+          "automatic_thoughts": "我今天肯定表现不好。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "下班回家后与家人互动（仍处于通勤后的高压力与易怒状态）",
+          "conditional_assumptions": "通勤让我心情糟糕，因此我无法与家人好好相处",
+          "compensatory_strategies": "减少交流或以烦躁的语气回应",
+          "automatic_thoughts": "我回家时心情一定很差，肯定会和家人闹不愉快。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定可控的日常与情绪平稳，能够顺利工作并与家人和谐相处",
+        "fear": "害怕失去控制导致工作受损、关系紧张与身心耗竭",
+        "defense_goal": [
+          "通过提前担忧和预设最坏情境来获得控制感并降低不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被外界环境压垮的无助者",
+          "object_representation": "不可控、压迫性的外部环境（拥堵交通）",
+          "linking_affect": "焦虑、挫败、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨其对未来交通的负面预测并邀请其检验证据时",
+          "interpretation": "来访者倾向将“提前担心”视为必要与负责任，担心若不担心就会失控",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性、坚持的语气为自己的担忧寻找合理理由，列举路况变差的实例，回避对焦虑情绪的直接感受与探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友讨论通勤压力，担心他们无法理解",
+            "伴侣虽支持但无法完全理解压力的程度"
+          ],
+          "outcomes": [
+            "主观孤立感增强",
+            "焦虑加剧",
+            "家庭关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不向朋友求助与分享该困扰",
+            "在通勤中自我消化压力，尝试听音乐和播客自行调节",
+            "睡前独自反复担忧次日通勤"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在早晚通勤时，来访者通常会提前灾难化预测并产生强烈焦虑，抵达公司时已感到疲惫，回家后易怒导致与家人关系紧张。",
+          "unique_outcome": "偶尔有一天交通没有他预期得那么糟，实际行车较为顺畅；相较平时，他的紧张与烦躁减轻，通勤体验不那么糟糕。",
+          "reason": "线索：当日拥堵程度较低（情境不同）；由于播客内容更能吸引注意力（做法有效），因此焦虑未持续攀升。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的伴侣",
+          "态度积极、愿意尝试认知重构与练习感恩",
+          "能从工作与播客中发现积极面并进行一定的自我调节"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括等认知偏差显著",
+          "睡前反复担忧导致睡眠受损与疲惫",
+          "不愿与朋友讨论问题导致社会支持利用不足",
+          "对外部环境的不可控性感到无力与失控"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "通勤相关的高度焦虑与灾难化预测",
+          "antecedent": [
+            "早晚高峰驾车通勤，路况拥堵严重",
+            "睡前想到次日通勤"
+          ],
+          "core_reason": "对不可控交通环境的灾难化认知和对未来的负面预测，使其以担忧与过度警觉来寻求控制感",
+          "function": "逃避不确定性与无力感、获得主观的控制感与准备感",
+          "consequence": "工作表现下降，回家后易怒导致家庭关系紧张，睡眠被扰动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1054
+}

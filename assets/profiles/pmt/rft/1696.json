@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "74",
+      "name": "何文达",
+      "gender": "男",
+      "occupation": "IT专员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "父亲在 Stifle 工作",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；此前未出现类似心理问题；过去未接受心理治疗",
+      "language_features": "表达清晰、逻辑性较好；能觉察自身思维模式（自我贴标签、过度概括、个人化）；对改变持保留与怀疑态度但愿意尝试；在压力与任务不清晰时倾向于“关闭”与拖延"
+    },
+    "main_problem": "我在吸食大麻后尤其感到懒惰和缺乏动力，经常因为这些感受把自己贴上“颓废的瘾君子”的标签。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我注意到这些懒惰的感觉显著影响了我的工作表现和日常生活。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个颓废的瘾君子",
+        "我无法处理自己的责任"
+      ],
+      "special_situations": [
+        {
+          "event": "在吸食大麻之后的当天或几次每周出现懒惰与低动力",
+          "conditional_assumptions": "如果我在吸完大麻后不能高效完成任务，就证明我是一个懒惰、颓废的人",
+          "compensatory_strategies": "尝试减少吸食量与设定严格的日程来证明自己不是懒惰",
+          "automatic_thoughts": "一旦抽了就会变懒，我做不成事",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面对工作截止日期时压力上升，出现拖延与难以启动",
+          "conditional_assumptions": "如果不能按时高质量完成任务，就说明我不称职、很懒",
+          "compensatory_strategies": "通过拖延与回避暂时降低焦虑",
+          "automatic_thoughts": "我又要搞砸了，这次也做不完",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事关系因产出下降而紧张",
+          "conditional_assumptions": "如果关系紧张就都是我的问题，说明我很糟糕",
+          "compensatory_strategies": "自责、给自己贴标签，减少互动以避免被评价",
+          "automatic_thoughts": "我让他们失望了，都是我的错",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "当任务模糊或过于庞大时感到不堪重负并“关闭”",
+          "conditional_assumptions": "如果目标不清晰我就无法开始，说明我缺乏动力和能力",
+          "compensatory_strategies": "停止行动、等待任务更清晰或可管理",
+          "automatic_thoughts": "事情太乱太多，我做不了",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、能保持对工作与生活的掌控与动力",
+        "fear": "害怕被贴上“懒惰/失败者”的标签、无法胜任职责、被同事否定",
+        "defense_goal": [
+          "通过控制行为（减少大麻、设定严格日程）来维持掌控感与自尊",
+          "通过拖延与自责暂时躲避压力与评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "懒惰且不称职的员工/“颓废的瘾君子”",
+          "object_representation": "批判与失望的同事（会评价与否定我）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出认知重构或建议进行行为实验与设定小目标时",
+          "interpretation": "认为改变思维很困难，怀疑这些方法对自己不起作用（将自己视为固定的“懒惰者”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用支持性、探询式语气；先验证来访者的怀疑与辛苦，再以开放式问题邀请其回忆例外时刻与具体情境；协助分解任务并设定微小可实现目标；避免对抗与贴标签，用具体化语言替代抽象评判。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "持续的低动力与懒惰感，工作与日常生活缺乏活力",
+            "自我以负性标签（“颓废的瘾君子”）定义与限制",
+            "在任务模糊或压力高时出现关闭与拖延"
+          ],
+          "outcomes": [
+            "拖延与生产力下降",
+            "羞耻与自我贬损",
+            "与同事关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁使用自我贬损标签来定义自己",
+            "对改变持怀疑态度，担心方法无效",
+            "在任务不清晰与压力增大时自我关闭与拖延",
+            "倾向将动机下降归咎于自身并限制行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在吸食大麻后或面临工作截止日期时，来访者通常会拖延并难以完成任务，导致工作表现下降。",
+          "unique_outcome": "有几次在压力较低、任务明确且吸食较少的日子里，来访者能够专注并保持生产力，完成具体可管理的任务。",
+          "reason": "线索：由于压力较低、任务清晰可管理、设定了明确目标且吸食量减少，因此这次没有像往常那样拖延，能够投入并完成任务。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试结构化的小目标与行为实验",
+          "能觉察影响动机的模式（压力、任务清晰度、吸食量）",
+          "存在可用的社会支持（有一位要好的朋友）",
+          "曾有过高效时刻，证明具备胜任与投入的能力"
+        ],
+        "negative_force": [
+          "负性自我标签与过度概括（“颓废的瘾君子”）",
+          "高工作压力与任务不明确带来的不堪重负",
+          "吸食大麻与社交圈影响促使动机下降",
+          "以拖延/回避来短期缓解焦虑的习惯性应对",
+          "对改变持怀疑态度，降低尝试与坚持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在吸食大麻后及高压工作情境中出现拖延与低动力、难以启动任务",
+          "antecedent": [
+            "吸食大麻后",
+            "面临工作截止日期",
+            "任务模糊或过于庞大",
+            "工作压力较高"
+          ],
+          "core_reason": "将“懒惰/无能”的自我标签内化，并在压力与任务不清晰时进行情绪化推理；吸食大麻的影响与高压力、任务不明确共同作用，降低自我效能感与启动能力",
+          "function": "短期逃避高压与失败感、降低焦虑与羞耻体验",
+          "consequence": "工作表现受损；与同事关系紧张；日常自我照护与家务受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1696
+}

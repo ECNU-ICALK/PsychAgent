@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "王欣怡",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "拥有支持性的朋友与家人，烹饪与分享是人际互动的重要部分，但因负性信念而受影响",
+      "medical_history": "无显著躯体疾病；无类似问题史；未接受过以往心理咨询或治疗",
+      "language_features": "表达清晰，能够具体描述经历；配合度高；情绪略显焦虑；能探讨并接受咨询计划"
+    },
+    "main_problem": "“我一直相信自己做的民族菜味道很糟，虽然我很喜欢烹饪。这种信念让我缺乏动力，影响了我对烹饪的享受。”",
+    "topic": "个人成长",
+    "core_demands": "“持续的负性信念影响了我对烹饪的热情和整体幸福感，因此寻求咨询。”",
+    "growth_experiences": [
+      "几个月前，朋友对王欣怡做的一道菜做出负面评价；此后该评论在其心中挥之不去，逐渐发展为“我的菜很难吃”的持续性信念。尽管家人常给予积极反馈（例如上周对新菜肴的热烈称赞），她仍不相信正向评价，认为他人“只是出于礼貌”。为改进，她参加线上课程并尝试不同食谱，但负性信念仍然持续，对烹饪的热情与享受感明显下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的烹饪很差，别人不会真正喜欢",
+        "负面评价比正面反馈更真实、更可信"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前朋友对她的一道菜作出负面评价",
+          "conditional_assumptions": "如果有人提出批评，就说明我的菜一贯都很难吃/我没有烹饪天赋",
+          "compensatory_strategies": "反复回想负面评价并以其作为判断标准，忽视其他正向证据",
+          "automatic_thoughts": "他在说真话，这证明我的菜真的很难吃。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "家人或朋友在品尝她做的菜后给出称赞",
+          "conditional_assumptions": "如果别人称赞，多半是出于礼貌，不能说明真实水平",
+          "compensatory_strategies": "贬低正向反馈的价值，不断寻找不足以维持“菜难吃”的信念",
+          "automatic_thoughts": "他们只是客气而已，实际上味道并不好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每次开始烹饪民族菜前或烹饪过程中",
+          "conditional_assumptions": "如果这道菜达不到我心中的完美标准，就等于失败/就是难吃",
+          "compensatory_strategies": "反复检查、二次猜测、过度学习技巧以试图避免失败感",
+          "automatic_thoughts": "这次做出来又会很难吃。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在回顾一次烹饪经历时同时存在正向与负向反馈",
+          "conditional_assumptions": "负面信息更可信且更能代表真实水平",
+          "compensatory_strategies": "只聚焦负面评价，过滤掉正面证据",
+          "automatic_thoughts": "那句负面评价才是事实，其他称赞都不算数。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自己的付出与烹饪被真实看见与肯定，获得作为“被喜爱且有能力的厨者”的认同",
+        "fear": "害怕被否定、被嘲笑或被当作不称职，由此产生羞耻与挫败",
+        "defense_goal": [
+          "通过贬低正向反馈、内化批评来预防潜在的羞耻与受伤",
+          "以追求完美与理性化学习来控制不确定性与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能失败的厨者/自我",
+          "object_representation": "挑剔且带有评判的他人（他们的肯定不可信）",
+          "linking_affect": "焦虑、羞耻、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人对她的菜品表达称赞时",
+          "interpretation": "认为对方并不真诚，只是出于礼貌（移情/投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气平和而克制，含蓄质疑他人的动机（如“你们是客气吧”），避免直接接纳赞美。"
+        },
+        {
+          "trigger_condition": "准备烹饪或在烹饪中出现不确定感与焦虑时",
+          "interpretation": "把情绪性担忧转为技术问题，认为只要再学更多就能避免失败",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用冷静、技术化的语言谈食谱与技巧，回避表达主观感受（如不直接谈“害怕难吃”）。"
+        },
+        {
+          "trigger_condition": "回想起朋友对菜品的负面评价时",
+          "interpretation": "将对方的批评内化为稳定的自我评价标准",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "语气坚决，引用批评性语句作为“事实依据”，以此否决其他正向证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本热爱的烹饪因持续的自我否定而变得缺乏乐趣与活力",
+            "无法将他人的积极反馈内化为自我认可，体验被外界评价主导"
+          ],
+          "outcomes": [
+            "动力下降、热情减退",
+            "焦虑与自我怀疑增加，对烹饪的参与感与满足感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将朋友一次负面评论内化为恒定的评价标准，认为“批评更真实”。"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "他人称赞时认为“他们只是出于礼貌”，把自身的不安与怀疑归因于对方动机。"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "烹饪时频繁自我怀疑与二次猜测，难以允许不完美或接纳积极反馈。"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对烹饪具有稳定的热爱与投入",
+          "拥有支持性的家人和朋友网络",
+          "能主动采取行动学习（参加线上课程、尝试不同食谱）"
+        ],
+        "negative_force": [
+          "过度概括、心理过滤、否定正向的认知模式强化了负性自我评价",
+          "过度依赖外部评价（将批评视为更真实），难以内化正向反馈",
+          "焦虑与自我怀疑在烹饪情境中高频触发，导致动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在烹饪民族菜时出现持续的自我否定与焦虑（坚持“味道很糟”并否定他人称赞）",
+          "antecedent": [
+            "开始准备或烹饪民族菜品",
+            "想起朋友的负面评论",
+            "在家人/朋友给予正向反馈时"
+          ],
+          "core_reason": "将一次负面评价泛化为稳定结论，过滤正向信息并过度依赖外界评价以评估自我能力",
+          "function": "短期内通过否定正向反馈来避免“被揭穿”的羞耻与焦虑，获得一种可控感",
+          "consequence": "烹饪乐趣与投入减少，动力下降；对家人朋友的互动质量受影响（难以接纳赞美）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 900
+}

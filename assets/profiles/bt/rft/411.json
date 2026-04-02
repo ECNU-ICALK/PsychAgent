@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "林雪莉",
+      "gender": "女",
+      "occupation": "厨师",
+      "educational_background": "自小接受烹饪课程",
+      "marital_status": "单身",
+      "family_status": "未提及具体家庭细节",
+      "social_status": "有一位要好的朋友可倾诉，但尚未深入讨论困扰；因自我怀疑而不易分享作品并回避反馈",
+      "medical_history": "此前未有与烹饪相关的不足感；未接受过心理咨询治疗；无重大躯体疾病",
+      "language_features": "表达清晰、条理较好，合作度高，态度中性；倾向自责与使用“应该”句式；对积极反馈持保留，常关注负面细节"
+    },
+    "main_problem": "未通过烹饪节目试镜后，持续出现自我怀疑与失落，认为自己是“糟糕的厨师”，负性思维反复侵入，降低了在厨房的自信、动力和创造力。",
+    "topic": "职业发展",
+    "core_demands": "持续的负性想法与自我怀疑影响了对烹饪的热情与整体身心状态，希望通过咨询获得支持与改善。",
+    "growth_experiences": [
+      "从小参加烹饪课程并持续接受相关训练，这一早期经历影响了其职业选择与自我定位。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不胜任。",
+        "我是一个糟糕的厨师。"
+      ],
+      "special_situations": [
+        {
+          "event": "烹饪节目试镜未通过的结果公布",
+          "conditional_assumptions": "如果一次重要试镜失败，就说明我整体能力不足、不是好厨师。",
+          "compensatory_strategies": "反复回放试镜细节、苛责自我，同时试图通过加练与寻求同伴反馈来证明自己。",
+          "automatic_thoughts": "这次没通过就证明我真的不行/我就是个差厨师。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "站在厨房准备下厨或想到要做饭",
+          "conditional_assumptions": "如果我不能立刻做出完美菜肴，就证明我不够格。",
+          "compensatory_strategies": "减少下厨、拖延或选择更简单的菜来降低风险。",
+          "automatic_thoughts": "我又要搞砸了，这次也会失败。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友对两周前晚餐的积极反馈与称赞",
+          "conditional_assumptions": "除非得到权威评审的认可，否则他人的称赞不算数。",
+          "compensatory_strategies": "否定正向反馈、只关注不足之处以维持谨慎与“清醒”。",
+          "automatic_thoughts": "他们只是客气而已，我其实不行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回忆试镜中的某个错误（如酱汁不理想）",
+          "conditional_assumptions": "有一个重大失误就等于全盘失败。",
+          "compensatory_strategies": "持续反刍错误细节、忽视过往成功经验，以促使自己“更严格”。",
+          "automatic_thoughts": "我不该选那么复杂的菜，我就是不行。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力且值得肯定的厨师",
+        "fear": "害怕失败与被否定，进而被视为不够好或不配得",
+        "defense_goal": [
+          "通过否定正向反馈与强化自我批评来避免再次失望与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能失败的厨师",
+          "object_representation": "严苛的评判者（如评委/他人），其认可难以获得",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人给予积极反馈、强调其以往成功时",
+          "interpretation": "认为对方只是出于礼貌或在安慰自己，真实评价仍是负面的（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "轻描淡写地否认赞美，用模糊与保留的语气回应，并迅速转回失败细节或不足之处。"
+        },
+        {
+          "trigger_condition": "当被邀请描述失败带来的情绪体验时",
+          "interpretation": "体验脆弱会带来更多评判与不适，情绪表达是危险的",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用事实与技术性语言描述过程，减少情感词与第一人称感受表达，语气平缓、克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "试镜失败后对自我能力的质疑冲淡了对烹饪的热情",
+            "难以接纳正向经验，感觉以往成功不再“有意义”"
+          ],
+          "outcomes": [
+            "动力下降与创造力受阻",
+            "在厨房的焦虑与沮丧增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有要好朋友，但未深入分享内心困扰",
+            "因自我怀疑而回避分享作品与反馈"
+          ],
+          "outcomes": [
+            "情绪压抑与反刍加剧",
+            "支持系统未能充分发挥作用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁以“应该/必须”要求自己在试镜与烹饪中做到完美",
+            "将一次失败等同于整体能力不足"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "在获得朋友称赞时迅速轻描淡写并转回失败内容",
+            "面对积极证据难以停留与吸收，转而聚焦负面细节"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要下厨或分享作品时，来访者通常因自我怀疑与对失败的担心而焦虑、动力下降，并回避积极反馈。",
+          "unique_outcome": "两周前为朋友准备的晚餐获得一致称赞，当晚她感受到被认可与愉悦（虽之后又被试镜失败所遮蔽）。",
+          "reason": "不同情境/支持：非竞争性、友好的社交环境与朋友的积极反馈；不同做法：选择下厨并完成整套菜单；因此这次更易体验到胜任与被认可。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "自小接受烹饪训练，具备稳定的技能基础",
+          "能主动尝试改进并寻求同伴反馈",
+          "存在被他人称赞的成功经历可供回顾",
+          "愿意在咨询中尝试认知重建与自我关怀"
+        ],
+        "negative_force": [
+          "过度概括、心理过滤与否定积极证据等认知偏差",
+          "对自我要求苛刻（“应该”句式），将失败等同于无能",
+          "反复反刍失败细节，导致焦虑上升与动力下降",
+          "在烹饪情境中预测失败，回避尝试和接触正向反馈"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避下厨/烹饪动机明显下降",
+          "antecedent": [
+            "想到要做饭或进入厨房",
+            "回想起试镜失败",
+            "预期可能再次失败或被评判"
+          ],
+          "core_reason": "将一次失败等同于整体无能，灾难化/预测未来导致对再次失败的强烈担忧。",
+          "function": "逃避潜在的失败与负面评价，短期降低焦虑与不确定感。",
+          "consequence": "烹饪频率降低、创造力受阻，职业表现与自信持续受损。"
+        },
+        {
+          "behavior": "反复负性反刍与自我苛责（如专注错误细节、使用“应该”自责）",
+          "antecedent": [
+            "回放试镜过程",
+            "在获得正向反馈时仍联想到失败"
+          ],
+          "core_reason": "内摄“必须完美”的标准并进行心理过滤，忽视积极证据以维持对自我控制的幻觉。",
+          "function": "通过自责寻求对改进的控制感，短期缓解不确定与焦虑。",
+          "consequence": "情绪低落与焦虑加剧，自信心下降，进一步削弱行动与创造力。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 411
+}

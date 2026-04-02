@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与父母同住，父母均为红发",
+      "social_status": "有少数朋友可交谈，但未向他们分享恐惧；因回避幽默与社交，朋友与同伴关系受到影响",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰，能具体描述情绪与身体反应（如胃部紧张、脸红）；态度偏消极；在咨询中配合度较好"
+    },
+    "main_problem": "由于一次被陌生人恶意嘲笑的经历，我对讲笑话产生了恐惧，这让我感到自己很无能，并影响了我在社交场合的自信。",
+    "topic": "人际关系",
+    "core_demands": "希望解决对讲笑话的恐惧，并改善自信与社交互动。",
+    "growth_experiences": [
+      "在一次派对上，林可欣讲了一个笑话，一位陌生人以很刻薄的方式嘲笑她，她感到极度尴尬与羞耻，并开始认为“大家都觉得我很糟糕”；此后她回避任何涉及幽默的社交情境。值得注意的是，在该事件之前，她的朋友常常对她的笑话做出积极反应并给予支持。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是糟糕的",
+        "我很无能"
+      ],
+      "special_situations": [
+        {
+          "event": "在派对上讲笑话时，被一位陌生人恶意地嘲笑",
+          "conditional_assumptions": "如果有人对我的笑话反应负面，就说明我是糟糕的、不会被接纳",
+          "compensatory_strategies": "停止讲笑话，回避涉及幽默的社交情境",
+          "automatic_thoughts": "他觉得我很糟糕，其他人也会像他一样嘲笑我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到在朋友面前再次讲笑话",
+          "conditional_assumptions": "如果他们不笑，就证明我很笨、没有价值",
+          "compensatory_strategies": "不讲笑话，或只与最亲近的朋友交流以尽量避免试探",
+          "automatic_thoughts": "他们会觉得我很蠢，会笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想过去朋友对自己笑话的积极反馈",
+          "conditional_assumptions": "一次失败就能否定过去所有成功；正面证据不算数",
+          "compensatory_strategies": "忽视正面反馈，不再尝试讲笑话",
+          "automatic_thoughts": "过去的好反应不算数，现在大家不会再觉得我好笑",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "面对任何可能需要幽默的社交场合",
+          "conditional_assumptions": "必须通过幽默获得他人的认可；如果不能逗笑，就等于失败",
+          "compensatory_strategies": "过度在意他人评价，或完全回避以保护自己",
+          "automatic_thoughts": "如果我不能让大家笑，我就不被喜欢、就是失败者",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过幽默被他人喜欢、认可并被接纳",
+        "fear": "害怕被嘲笑、被否定与羞辱",
+        "defense_goal": [
+          "通过回避讲笑话和相关社交情境来避免被评判与羞辱、维持自尊的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嘲笑、不够幽默的孩子",
+          "object_representation": "苛刻、爱评判和嘲讽的他人/旁观者",
+          "linking_affect": "羞耻、焦虑、尴尬"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请或想到在社交场合讲笑话时（例如咨询师建议尝试对亲密朋友讲一个小笑话）",
+          "interpretation": "将他人可能的中性或支持性反应解读为会像那位陌生人一样嘲笑自己（移情：将陌生人的嘲讽经验投射到当前他人）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以谨慎、克制的语气表达担忧，强调“可能不行/先不”，避免过多自我暴露，优先提出理由与假设而非感受"
+        },
+        {
+          "trigger_condition": "回忆那次被嘲笑的经历或预期他人评价",
+          "interpretation": "把一次负面事件泛化为所有人都会如此对待自己（移情：将过去的羞耻经验套用到当前关系）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "使用非黑即白的判断语句，如“要么好笑要么很糟”，语气坚定但紧张，拒绝探索灰度可能性"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "通过幽默寻求他人认同；一次被嘲笑后将他人视为潜在评判者",
+            "为避免被嘲笑而回避社交与幽默",
+            "担心被他人否定、不被喜欢"
+          ],
+          "outcomes": [
+            "社交退缩与隔离感增强",
+            "自尊与自信下降",
+            "显著的焦虑与羞耻感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "在谈及讲笑话时过度担心他人反应，反复自我否定（如“我不够好/会弄砸”）",
+            "在咨询中倾向于小心翼翼地选择最小风险的尝试"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "未验证就假定他人会觉得自己“很蠢”“会嘲笑我”",
+            "把过去一个陌生人的恶意反应套用于所有人"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在涉及幽默的社交情境时，林可欣通常会预期被嘲笑，产生强烈焦虑并选择回避，导致与朋友互动减少",
+          "unique_outcome": "在那次负面事件之前，她的朋友常对她的笑话作出正向反应并支持她，她能自然地讲笑话、获得愉快互动与认可",
+          "reason": "不同支持与情境：对象是熟悉的朋友、氛围安全友好，外界压力与对他人认可的焦虑较低，因此更容易展现幽默与获得正向反馈"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得朋友对其幽默的正向反馈，具备社交与幽默的实际能力",
+          "拥有几位可以交谈的朋友，存在基本的社会支持",
+          "具备一定的理性反思能力（尝试用“不是所有人都会欣赏我的幽默”来调节认知）"
+        ],
+        "negative_force": [
+          "过度依赖外部认可，易将自我价值系于他人反应",
+          "灾难化、过度概括、读心术与非黑即白等认知偏差显著",
+          "对涉及幽默的社交情境产生回避行为",
+          "自尊与自信下降，容易自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对讲笑话/涉及幽默的社交情境的显著恐惧与回避",
+          "antecedent": [
+            "在派对或群体场合准备讲笑话",
+            "想到要在朋友面前说笑话",
+            "记起被陌生人恶意嘲笑的经历",
+            "被建议在现实中尝试一个小笑话"
+          ],
+          "core_reason": "一次被陌生人嘲笑的负性事件触发灾难化与过度概括的认知，并因寻求他人认可而将自我价值过度依赖于他人反应",
+          "function": "逃避潜在的羞辱与负面评价，短期维持心理安全与自尊",
+          "consequence": "减少社交参与、与朋友关系受损、自我表达受限；自尊与自信下降，并伴随躯体焦虑反应（胃部紧张、脸红）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1499
+}

@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "何宁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可交流（一般性话题），友谊总体未受明显影响；但未向朋友谈及与游戏相关的怀疑与失败感",
+      "medical_history": "无类似问题史；未接受过心理治疗或心理问题治疗；无重大躯体疾病",
+      "language_features": "语气平和、配合度较高；能清晰描述自动化思维与感受；略显焦虑与自我怀疑；逻辑清晰"
+    },
+    "main_problem": "在电子游戏（尤其是Fortnite）相关的目标上产生失败感与能力怀疑，持续数月并导致回避游戏。",
+    "topic": "情绪管理",
+    "core_demands": "这些怀疑和失败感影响了我对电子游戏的享受以及整体自信，我希望通过咨询改善。",
+    "growth_experiences": [
+      "过去几个月与朋友一起玩Fortnite时，朋友逐渐变得很厉害，而何宁自己难以跟上进度；在比较之下产生压力与自我怀疑，进而将失败感与恐惧与游戏联系起来，最终开始完全回避Fortnite，休闲与娱乐受到影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "一想到要玩Fortnite或面临开局准备时",
+          "conditional_assumptions": "如果我不能通关，就证明我是失败者",
+          "compensatory_strategies": "彻底回避游戏、停止尝试以避免失败感",
+          "automatic_thoughts": "我可能永远不能完成Fortnite",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到朋友讨论Fortnite或看到朋友在游戏中表现出色",
+          "conditional_assumptions": "如果我不如朋友，就不值得被接纳",
+          "compensatory_strategies": "回避与朋友一起玩Fortnite，减少在游戏上的互动",
+          "automatic_thoughts": "我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "设定并尝试游戏中的小目标时",
+          "conditional_assumptions": "如果连小目标都完成不了，就说明我很差劲",
+          "compensatory_strategies": "提前退出、停止练习、否定任何进步",
+          "automatic_thoughts": "即使是小目标我也做不到，做一点也不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到别人可能会评价我的游戏水平时",
+          "conditional_assumptions": "如果我表现不好，别人会看不起我或觉得我在小题大做",
+          "compensatory_strategies": "不向朋友表达真实感受，避免被评价的场景",
+          "automatic_thoughts": "大家会觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同伴接纳、被视为有能力并融入群体",
+        "fear": "害怕被评判为无能、显得“矫情”，从而被排斥或看不起",
+        "defense_goal": [
+          "通过回避游戏来避免失败与羞耻感",
+          "隐匿脆弱、不向朋友表达，以维持安全感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者、容易被比较的人",
+          "object_representation": "会评判自己的同伴群体",
+          "linking_affect": "羞耻、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及朋友可能如何看待自己（如是否会觉得在小题大做或很差）",
+          "interpretation": "倾向把内在的被拒绝担忧投向他人，认为朋友会负面评价自己（移情）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用温和、验证式语气；先共情其担忧，再邀请其检视证据与其他可能解释；避免指责与武断，使用开放式问题引导其具体化担忧与事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心与朋友水平差距导致不被接纳或被看不起",
+            "避免参与群体游戏以规避评价",
+            "不向朋友表达真实感受以躲避脆弱暴露"
+          ],
+          "outcomes": [
+            "自我怀疑与焦虑增强",
+            "回避行为加重",
+            "休闲与游戏乐趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或环境做出的行为冲动，放弃向外寻求他人为其做事，转而对自己做，将原本对外的能量转向自身。",
+          "manifestations": [
+            "不向朋友表达自己的疑虑与失败感",
+            "将压力和批评转向自己（自我苛责）",
+            "宁愿回避共同游戏也不寻求外部支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心显得“矫情”或“软弱”，从而压抑表达",
+            "过分在意他人可能的看法，谨慎克制自己行为",
+            "以“我不配/不该麻烦别人”为由减少求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备朋友潜在支持的社会资源（预期朋友可能支持）",
+          "愿意尝试现实检验与行为实验，开放探索思维",
+          "能识别自动化思维并愿意采取小步行动（短时游玩）"
+        ],
+        "negative_force": [
+          "频繁比较同伴水平导致自我贬低",
+          "灾难化预测与仓促下结论（认为永远不能完成）",
+          "回避行为维持失败感与恐惧",
+          "过度在意他人评价、寻求外部验证以确定自我价值"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避玩Fortnite",
+          "antecedent": [
+            "想到要开始玩Fortnite",
+            "听到朋友讨论Fortnite",
+            "看到朋友在游戏中表现出色或进展很快"
+          ],
+          "core_reason": "与同伴比较产生自我怀疑与羞耻，害怕失败与被评价，形成负性自动化思维（“我可能永远不能完成”）",
+          "function": "逃避失败感与羞耻、避免他人负面评价与自我贬低",
+          "consequence": "休闲与游戏乐趣下降，整体自信受损，焦虑与自我怀疑维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1571
+}

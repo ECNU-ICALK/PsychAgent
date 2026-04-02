@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "69",
+      "name": "李莉安",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "恋爱中（与男友交往）",
+      "family_status": "未提及",
+      "social_status": "与男友关系整体良好；通常会在遇到困难时与朋友交流，但这次未向朋友分享不安全感与焦虑",
+      "medical_history": "无重大躯体疾病史；未接受过心理咨询或心理治疗",
+      "language_features": "表达清晰、配合度高、能进行自我反思；主观感受紧张但抱有希望"
+    },
+    "main_problem": "我一直对与男友共同参加的舞蹈课感到焦虑和不安全感；我有一种非理性的信念，认为因为舞蹈课进展不顺利，他会离开我。",
+    "topic": "人际关系",
+    "core_demands": "因在与男友的舞蹈课中出现的关系不安全感与焦虑日益加重而寻求支持，希望缓解这些问题并获得更均衡的看法与应对方式。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/不够好",
+        "如果关系出现不顺，我会被抛弃"
+      ],
+      "special_situations": [
+        {
+          "event": "在与男友的舞蹈课中出现步伐出错、配合不佳",
+          "conditional_assumptions": "如果我们在舞蹈上不顺利，就说明我们的关系出了问题",
+          "compensatory_strategies": "课前后反复过度思考与预演最坏情况，试图通过提前担忧来获得控制感",
+          "automatic_thoughts": "他会因为我们跳得不好而离开我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在男友与教练面前担心失败与被评价",
+          "conditional_assumptions": "如果我在他和教练面前失败，他会认为我不够胜任、关系是个错误",
+          "compensatory_strategies": "在课程中高度自我监控、尽量避免失误以防被否定",
+          "automatic_thoughts": "他一定觉得这段关系是个错误",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每次舞蹈课前想到此前的失误并以此推断整体表现",
+          "conditional_assumptions": "一次或几次表现不佳就意味着我们今后都会失败",
+          "compensatory_strategies": "将注意力集中在错误上以“提醒”自己改进，忽视中性或积极信息",
+          "automatic_thoughts": "我们总是跳不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在课程中忽视男友的鼓励与积极反馈，聚焦于出错之处",
+          "conditional_assumptions": "正面反馈不代表真实情况，错误才说明问题",
+          "compensatory_strategies": "否定积极信号，以自我苛责来促使改进",
+          "automatic_thoughts": "他的鼓励只是安慰，我其实不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在亲密关系中被稳定接纳与肯定、被安全地依恋",
+        "fear": "害怕因失败被评判与拒绝，最终被抛弃、陷入孤立",
+        "defense_goal": [
+          "通过提前预期最坏、读心与过度自我监控来避免被伤害与被否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、容易出错、需要被认可的自我",
+          "object_representation": "表面支持但被想象为潜在的评判者/拒绝者的伴侣",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在舞蹈课中出现失误或感到被男友/教练关注与评价时",
+          "interpretation": "将自身的不安投射为对方的负面看法：认为对方把关系视为错误并可能离开自己（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以不确定且紧张的语气表达担忧，频繁使用“他会不会…”的猜测性句式，寻求保证与安抚。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "强烈害怕被抛弃，将舞蹈课的失误等同于关系失败",
+            "对他人（男友）如何看待自己高度在意与猜测"
+          ],
+          "outcomes": [
+            "显著焦虑与不安",
+            "在每次舞蹈课前后预期最坏结果，整体心情受影响，关系受压"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在课程中高度自我监控、害怕失误",
+            "过度担心被伴侣与教练评价",
+            "以灾难化方式预演最坏结果"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为男友把关系视为错误、会离开自己（读心）",
+            "将自身不安解释为对方的负面看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "虽有朋友支持网络，但这次没有向朋友分享焦虑与不安",
+            "将压力向内承受、以自我苛责方式应对"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "伴侣在课程中持续鼓励与支持（坚持上课、赞赏小进步）",
+          "能觉察并命名认知模式，愿意尝试更均衡的视角",
+          "主动寻求咨询，态度积极、愿意尝试行为实验",
+          "具备朋友支持网络（尽管未在此次问题上求助）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、过度泛化与心理过滤等认知偏差",
+          "对失败高度敏感，将表现不佳直接等同于关系质量下降",
+          "过度自我监控与自我苛责，过分在意他人评价",
+          "对孤独与被抛弃的恐惧强化了不良解释循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与男友共同参加舞蹈课时的显著焦虑与不安全感",
+          "antecedent": [
+            "与男友共同上舞蹈课时",
+            "出现步伐出错或配合不佳",
+            "在教练或伴侣的注视与评价情境下"
+          ],
+          "core_reason": "将舞蹈表现与关系质量直接等同的认知偏差（灾难化、读心、预测未来、过度泛化），并伴随对被评判与被抛弃的恐惧",
+          "function": "逃避不受欢迎的情绪并寻求安全感；通过提前预期最坏来尝试获得控制与保证",
+          "consequence": "每次课程前后均出现显著焦虑，整体情绪与生活乐趣下降，关系受到额外压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1121
+}

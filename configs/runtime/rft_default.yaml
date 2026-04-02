@@ -1,0 +1,22 @@
+rollout_n: 8
+rollout_concurrency: 8
+
+reward_method_concurrency: 8
+reward_api_concurrency: 64
+reward_api_rps: null
+reward_api_rps_period: 1.0
+
+# Optional explicit reward endpoint settings.
+# If omitted, rft will fallback to sample runtime/baseline endpoint settings and env vars.
+reward_api_key: null
+reward_api_base_url: null
+reward_api_model: null
+
+keep_all_rollout_transcripts: true
+
+method_by_modality:
+  bt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, MITI, STAI]
+  cbt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, CTRS, BDI_II]
+  pmt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, EFT_TFS, SFBT]
+  het: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, TES, CCT]
+  pdt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, PSC, IPO]

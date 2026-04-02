@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "陈宇",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "有丈夫；表单提及“Grandparent at 44”，具体含义不详",
+      "social_status": "有少数朋友可倾诉，但不愿与他们讨论婚姻问题；与丈夫关系紧张",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "配合度高，表达清晰，思路连贯，情绪略焦虑但能接纳新观点，态度积极"
+    },
+    "main_problem": "我认为丈夫拒绝带我去度假是因为他讨厌我，因此感到被拒绝和悲伤。",
+    "topic": "婚姻关系",
+    "core_demands": "我决定寻求咨询，因为这些被拒绝的想法正在影响我的情绪健康，并在我的婚姻中造成紧张。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被爱",
+        "我不被需要"
+      ],
+      "special_situations": [
+        {
+          "event": "我提出一起度假的建议时，丈夫以“太忙”为由拒绝",
+          "conditional_assumptions": "如果伴侣拒绝与我一起度假，就说明他不在乎我/讨厌我",
+          "compensatory_strategies": "直接与丈夫对质，寻求对方给出明确的保证或改变决定",
+          "automatic_thoughts": "他讨厌我，不想和我在一起",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每当讨论度假话题时",
+          "conditional_assumptions": "如果他多次拒绝同一请求，就证明他从未关心我",
+          "compensatory_strategies": "反复在脑中寻找负面证据，忽视先前关系良好的经历",
+          "automatic_thoughts": "他一直在拒绝=他根本不在乎我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到其他情侣去旅行或发旅行动态",
+          "conditional_assumptions": "别人都能一起旅行而我们没有，说明我们的关系不如别人、我不被珍惜",
+          "compensatory_strategies": "与他人比较，沉浸在自卑与被排除感中",
+          "automatic_thoughts": "我们的关系很糟，我被冷落",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试表达感受时与丈夫发生争吵",
+          "conditional_assumptions": "如果我不逼他表态，他就不会重视我；他的防御就是不爱的证据",
+          "compensatory_strategies": "以指责或质问的方式沟通，强求对方承诺",
+          "automatic_thoughts": "他不愿沟通——他更不在乎我",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣无条件地爱与重视、共度时光（例如一起度假）",
+        "fear": "害怕被拒绝、被抛弃与不被爱",
+        "defense_goal": [
+          "通过先下结论来降低不确定性（把“忙”解释为“不爱”）",
+          "通过对质与要求承诺来获得安全感与确定感",
+          "关注负面线索以自我保护，避免期望落空"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被拒绝、不被需要的伴侣",
+          "object_representation": "冷漠/拒绝、容易防御的丈夫",
+          "linking_affect": "悲伤、焦虑、被拒感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及丈夫拒绝度假，或咨询师提出“他可能只是很忙”等替代解释时",
+          "interpretation": "将对方的忙或防御解读为不爱与回避（移情：把内在的被弃感投射到对方意图上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气肯定而带有指责色彩，使用“你就是不想”“你根本不在乎”之类绝对化措辞；当被解释或澄清时，提高语速并回到“你讨厌我”的结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "持续感到“不被爱、不被需要”",
+            "不愿与朋友讨论婚姻困扰，体验到与他人的隔离",
+            "看到他人旅行时产生被排除感"
+          ],
+          "outcomes": [
+            "焦虑与悲伤加重",
+            "与伴侣的紧张与争吵",
+            "倾向以灾难化与读心术理解关系"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为“他在看不起我”“他们想排挤我”等。",
+          "manifestations": [
+            "把丈夫的“忙”解释成“讨厌我、避免我”",
+            "在对话中先入为主地断言对方动机，缺乏对当下体验的直接接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "积极的求助动机与合作态度，愿意参与咨询",
+          "能够在引导下考虑替代解释并尝试重构自动化思维",
+          "愿意练习以平和方式表达感受、准备沟通计划"
+        ],
+        "negative_force": [
+          "灾难化、读心术、过度概括等认知扭曲显著",
+          "将伴侣的具体行为外归为“讨厌我”，过度依赖外部验证来确认自我价值",
+          "回避向朋友寻求支持，社交比较加重自卑与被拒感",
+          "沟通中倾向指责与逼迫承诺，导致冲突升级"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及度假的情境中出现强烈的被拒感与“他讨厌我”的自动化思维，伴随焦虑/悲伤",
+          "antecedent": [
+            "提出或讨论度假计划",
+            "看到其他情侣去旅行"
+          ],
+          "core_reason": "将“被拒绝度假”灾难化并读心，等同于“不被爱/被讨厌”的核心信念与条件假设",
+          "function": "避免不确定性，通过快速下结论获得心理上的确定感；为自我价值寻求外部确认",
+          "consequence": "持续情绪低落与关系紧张，强化“不被爱”的信念"
+        },
+        {
+          "behavior": "与丈夫对质、使用指责式沟通，导致争吵升级",
+          "antecedent": [
+            "丈夫以忙为由拒绝度假",
+            "内心被拒体验被触发"
+          ],
+          "core_reason": "试图通过对质与强求承诺获得安全感与控制感",
+          "function": "获得伴侣的关注与明确表态，短期缓解不安",
+          "consequence": "争吵与误解增加，亲密感下降，进一步加剧被拒体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 988
+}

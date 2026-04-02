@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "林思悦",
+      "gender": "女",
+      "occupation": "立志成为博物馆策展人",
+      "educational_background": "正在攻读艺术史学士学位",
+      "marital_status": "单身",
+      "family_status": "与父母及一名兄弟姐妹同住",
+      "social_status": "家人支持、并有一位亲密朋友可倾诉，但他们未能充分理解其对财务与旅行的焦虑",
+      "medical_history": "无重要躯体疾病；既往未接受心理治疗；未曾出现类似心理问题",
+      "language_features": "表达清晰、逻辑性较好、配合度高；态度积极；能描述具体情境与主观感受"
+    },
+    "main_problem": "因认为“我将再也负担不起去纽约”，持续感到焦虑与压迫；在想到旅行或个人财务稳定性时反复担忧，近几个月因财务挫折而加重。",
+    "topic": "情绪管理",
+    "core_demands": "寻求支持与指导，以缓解持续的焦虑和压倒性的财务与旅行相关念头。",
+    "growth_experiences": [
+      "一年前首次赴纽约旅行，此后在涉及旅行或财务稳定性的话题时，频繁触发焦虑与压迫感，形成对再次成行的强烈渴望与担忧。",
+      "近几个月遭遇财务挫折与收入不稳定，导致焦虑显著加剧，影响睡眠与专注，进一步冲击学业表现并使与家人关系紧张。",
+      "长期与父母及兄弟姐妹同住，整体支持度较好，但他们未能充分理解其对财务与旅行的焦虑强度，关系因此受到压力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "无论我怎么做，都无法保障我想要的财务稳定与未来",
+        "我的储蓄与计划最终会是徒劳"
+      ],
+      "special_situations": [
+        {
+          "event": "上周在为课程写论文时突然想到“我永远负担不起再去纽约”。",
+          "conditional_assumptions": "如果当前收入不稳定且计划受挫，就意味着未来旅行不可能实现。",
+          "compensatory_strategies": "更加努力学习以获得稳定职业，并尝试通过预算与财务规划来弥补不确定性。",
+          "automatic_thoughts": "我永远负担不起再去纽约；我的努力可能毫无意义。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在想到旅行或个人财务稳定性时，尤其在最近经历财务挫折之后。",
+          "conditional_assumptions": "如果现在出现财务挫折，就说明将来也会持续失败。",
+          "compensatory_strategies": "持续制定更严格的预算与财务计划以寻求掌控感。",
+          "automatic_thoughts": "以后都会这么糟，我再也负担不起旅行。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想自己曾通过预算与储蓄成功去过纽约，但随即否定其对未来的意义。",
+          "conditional_assumptions": "除非拥有完全稳定且更高的收入，否则任何计划都没有意义。",
+          "compensatory_strategies": "否定过往积极经验，不断推翻可行方案。",
+          "automatic_thoughts": "之前的成功只是偶然，不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与家人讨论财务或旅行话题时，家人未能充分理解其焦虑强度。",
+          "conditional_assumptions": "如果家人不理解或支持，就说明问题都是我的错、我让关系紧张。",
+          "compensatory_strategies": "把担忧揽到自己身上，减少与家人深入讨论财务与旅行话题。",
+          "automatic_thoughts": "都是我让家人关系变得紧张。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得财务稳定与可自由旅行的生活（对掌控与安全的需要）",
+        "fear": "害怕不确定性与失败，使努力变得徒劳，无法实现期待的未来",
+        "defense_goal": [
+          "通过持续规划与理性分析来降低焦虑",
+          "避免直面不确定性带来的脆弱感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑且担心无法掌控未来的自我",
+          "object_representation": "支持但不完全理解的家人/他者",
+          "linking_affect": "紧张、焦虑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于财务不确定性、邀请其检视证据与思维时",
+          "interpretation": "倾向将探询理解为需要用更理性的规划来“解决情绪”，以理性分析疏离情绪体验",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平稳、客观的语气回应，强调数据与计划细节，减少情绪词汇；同时轻柔追问其当下感受，逐步连接情绪体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈渴望再次前往纽约旅行，却因财务不确定性体验到受限与失控感",
+            "在想到旅行与未来时感到焦虑与压迫",
+            "通过计划与预算追求可控性以对抗不确定"
+          ],
+          "outcomes": [
+            "广泛性焦虑与反复担忧",
+            "睡眠受影响",
+            "注意力下降、学业受损",
+            "与家人关系紧张"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在涉及旅行或个人财务稳定性的情境下，来访者通常会陷入强烈焦虑与灾难化预期，导致注意力涣散、学业受影响。",
+          "unique_outcome": "一年前通过预算与储蓄成功完成首次纽约之行，证明其具备规划与执行的能力，并体验到可行的结果。",
+          "reason": "不同做法：系统性预算与财务规划；将旅行目标分解为可执行步骤，从而积累资金并实现成行。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾成功通过预算与储蓄实现旅行，具备规划与执行的经验",
+          "对咨询保持开放态度，愿意记录思维并检视证据",
+          "拥有家人与亲密朋友的情感支持"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括、否定积极与心理过滤等认知偏差",
+          "收入不稳定与近期财务挫折带来的客观压力",
+          "持续担忧导致睡眠与专注下降，并加剧家庭关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与财务与旅行相关的持续性焦虑与反复担忧",
+          "antecedent": [
+            "想到旅行计划",
+            "考虑个人财务与未来稳定性",
+            "遭遇近期财务挫折",
+            "进行学习任务（如写论文）时被念头打断"
+          ],
+          "core_reason": "灾难化与预测未来的认知将不确定性视为必然失败，进而以反复担忧来寻求控制感。",
+          "function": "逃避不确定性并获得短暂的控制感/准备感（通过担忧与计划）",
+          "consequence": "睡眠受影响、注意力下降、学业受损、与家人关系紧张、整体压力水平升高"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 684
+}

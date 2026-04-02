@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "林佩婷",
+      "gender": "女",
+      "occupation": "办公室职员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几位可交谈的朋友，但尚未向任何人谈及对老板的负面想法",
+      "medical_history": "无显著躯体疾病；过去未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、合作度良好、语气中性；能进行一定的自我反思，但倾向使用“应该”式绝对标准与预测性判断；情绪中度负性，注意力与工作动机受负面思维影响"
+    },
+    "main_problem": "在工作中对老板持有持续的负面想法，认为他总会出错、永远搞不好，导致工作动力下降与情绪受影响。",
+    "topic": "人际关系",
+    "core_demands": "这些负面想法正在影响我的工作表现和整体幸福感，我希望能够有效地处理和管理它们。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "犯错是不可接受的",
+        "领导者必须完美，不能犯错"
+      ],
+      "special_situations": [
+        {
+          "event": "约一个月前，老板在一封重要邮件中出现拼写错误",
+          "conditional_assumptions": "作为老板不应犯错；老板的错误会让我感到尴尬并可能影响工作",
+          "compensatory_strategies": "试图把这些念头当作不重要而压下，但它们反复出现",
+          "automatic_thoughts": "他永远都搞不好／他总会犯错",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到老板的邮件",
+          "conditional_assumptions": "老板的邮件很可能存在错误；领导应该不犯错",
+          "compensatory_strategies": "在收邮件时等待他出错来“证明”自己的判断",
+          "automatic_thoughts": "这次他肯定又会出错",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "团队会议期间与老板交流或观察其表现",
+          "conditional_assumptions": "作为领导，任何错误都不可接受，必须表现完美",
+          "compensatory_strategies": "对老板保持高度批判与紧绷，工作投入下降并对同事缺乏耐心",
+          "automatic_thoughts": "如果他不完美，事情就会被他搞砸",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望可靠、无差错的领导与秩序感，追求可控与确定性",
+        "fear": "担心他人的错误使自己陷入尴尬或工作受损，害怕失控与不确定",
+        "defense_goal": [
+          "通过维持严格的绝对化标准与批判立场来保护自己免受不确定与失控的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "挑剔且易受他人错误影响的下属",
+          "object_representation": "不称职、会反复犯错的领导",
+          "linking_affect": "尴尬、挫败、焦虑与易怒"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当收到老板的邮件或在团队会议中预期他会犯错时",
+          "interpretation": "将一次错误视为其整体不称职，并认为他将持续犯错（移情：以全好/全坏的视角看待他）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用温和、探询的语气，邀请其提供具体事实与正反两面例证；避免评判，帮助其看到复杂与灰度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”的标准评判领导（如“作为老板不能犯错”）",
+            "将领导应当“完美无误”的外界期待内化为自我判断准则"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并参与现实检验等认知行为策略",
+          "能够承认人人会犯错，并注意到老板曾成功管理大型项目",
+          "具备一定社会支持（有几位朋友）"
+        ],
+        "negative_force": [
+          "灾难化预测、过度概括与非黑即白思维显著",
+          "以内摄的“应该”式完美标准评判领导",
+          "负面情绪影响工作动机与专注，并对同事表现出易怒",
+          "在工作情境中过度关注错误、忽略正面信息"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对老板的灾难化预测与非黑即白的负性自动思维反复出现",
+          "antecedent": [
+            "收到老板的邮件",
+            "参与团队会议",
+            "回想起一次重要邮件的拼写错误"
+          ],
+          "core_reason": "将一次错误泛化为整体无能，受内摄的完美标准驱动，并担心再次陷入尴尬与失控",
+          "function": "通过预设最坏结果来寻求控制感、暂时缓解不确定性带来的焦虑",
+          "consequence": "工作动机下降、注意力受损、心情低落，整体幸福感受影响"
+        },
+        {
+          "behavior": "对同事易怒、耐心下降",
+          "antecedent": [
+            "在工作中被负性思维触发时",
+            "团队会议中的互动与压力情境"
+          ],
+          "core_reason": "对领导的绝对化期待引发挫败与紧张，将情绪转移到同事身上",
+          "function": "释放紧张与挫败感，短暂缓解内在压力",
+          "consequence": "人际关系受影响，团队协作质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1413
+}

@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "周诚",
+      "gender": "男",
+      "occupation": "服装零售店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与配偶共同生活，有一个孩子",
+      "social_status": "与同事关系因对自我表现的负性想法而趋于紧张；家庭总体支持性较好，但他不愿与家人讨论与工作相关的问题",
+      "medical_history": "无重大躯体疾病；无既往心理问题的治疗或咨询史",
+      "language_features": "表达清晰，能觉察并描述情绪与想法，配合度较高；语速未提及"
+    },
+    "main_problem": "因为没有收到加薪，我在工作中觉得自己是个很糟糕的员工。",
+    "topic": "职业发展",
+    "core_demands": "未加薪与不足感影响了我的自尊与整体幸福感，这促使我寻求咨询。",
+    "growth_experiences": [
+      "大约六个月前，周诚意识到自己没有得到加薪，而同事得到了，这使他开始持续感到无能并怀疑自己的工作表现；问题持续存在并影响了自尊与工作动力。他尝试向主管寻求反馈并更努力工作，但未见改善；每当看到同事获得认可或奖励时，这种不足感就会再次被激活。",
+      "在一次歌手试音中因压力过大出现嗓音破裂并忘词，现场失利后，他反复回想尴尬场面并产生“我唱不好”的念头，开始回避唱歌甚至练习，认为再尝试也没有意义，导致对原本热爱的活动的兴趣与信心下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同事获得表彰或奖励/加薪",
+          "conditional_assumptions": "如果我没有得到与同事相同的加薪或认可，就说明我能力差、是不称职的员工",
+          "compensatory_strategies": "更努力地工作并主动向主管寻求反馈，以证明自己",
+          "automatic_thoughts": "我不如他们，我一定是个糟糕的员工。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "发现自己未获得加薪而同事获得加薪（约六个月前）",
+          "conditional_assumptions": "如果公司没有给我加薪，原因一定在我身上，说明我表现不好",
+          "compensatory_strategies": "自我反思并加倍用功，试图通过提升业绩换取认可",
+          "automatic_thoughts": "没有加薪就是我不行。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在寻求主管反馈并更努力后仍未见明显改善",
+          "conditional_assumptions": "如果努力后仍看不到变化，就证明我永远也不会变好",
+          "compensatory_strategies": "回避向家人求助，选择独自承受压力",
+          "automatic_thoughts": "我可能永远得不到认可/不会被加薪。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "歌手试音失利（嗓音破裂、忘词）",
+          "conditional_assumptions": "如果在公众场合失败，就说明我在这方面完全不行",
+          "compensatory_strategies": "回避唱歌与练习，以避免再次失败与尴尬",
+          "automatic_thoughts": "我再也唱不好了，再尝试也没有意义。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定（来自主管、同事或观众）",
+        "fear": "害怕被否定与羞辱，担心在比较中显得不如人",
+        "defense_goal": [
+          "通过自我批评和加倍努力来控制失败风险并换取认可",
+          "回避高压或被评价的场景以降低羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能出丑的人",
+          "object_representation": "挑剔与评判的他人（同事/主管）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        },
+        {
+          "self_representation": "受挫且脆弱的表演者",
+          "object_representation": "苛刻的观众/权威",
+          "linking_affect": "羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈到工作表现、加薪或被比较/被评判的话题时",
+          "interpretation": "将咨询师或他人体验为可能的评判者，担心自己会被否定或被看低",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "语气克制、简短，淡化情绪，用“没什么”“不重要”带过，或转向客观细节，避免深入感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持性的家庭，但不愿与家人讨论工作相关困扰",
+            "在试音失败后选择独自承受羞耻与恐惧，较少寻求他人情感支持"
+          ],
+          "outcomes": [
+            "自尊受损、工作动力下降",
+            "对唱歌的热情减退并回避尝试"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "当负性想法出现时，通过分散注意力来回避",
+            "面对与唱歌相关的话题时选择不去练习，以躲避被评价的焦虑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁进行自我批评（如“我不行”“我该克服”）",
+            "高度在意他人评价，因害怕失败而压缩行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "家庭整体支持性较好（有可倾诉的家人）",
+          "愿意主动寻求主管反馈并在工作中更努力",
+          "在试音之前曾享受表演并对唱歌有信心，具备投入与热情的基础",
+          "有求助意识并主动寻求心理咨询"
+        ],
+        "negative_force": [
+          "将未获加薪主要归因为自身不足，易个人化、灾难化与自我标签",
+          "过度依赖外部认可（加薪、表彰）来评估自我价值",
+          "在被评价或高压情境下以回避（如不练习、不再唱歌）来减轻焦虑",
+          "不愿与家人讨论工作困扰，导致支持难以转化为实际资源",
+          "负性自动化思维反复出现，侵蚀自尊与动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在未获加薪与他人被表彰的情境下出现的自我贬损与灾难化思维（如“我是个糟糕的员工”）",
+          "antecedent": [
+            "看到同事获得认可或奖励/加薪",
+            "意识到自己尚未加薪",
+            "想到工作表现被比较和评判"
+          ],
+          "core_reason": "将加薪与认可等同于个人能力好坏的核心信念，倾向将复杂结果个人化解释为自身不行",
+          "function": "通过自责为“未加薪”寻找确定性解释并试图以自我施压来促使改进",
+          "consequence": "自尊受损、工作动力下降、人际关系（与同事）紧张"
+        },
+        {
+          "behavior": "回避唱歌与练习（因害怕再次失败与尴尬）",
+          "antecedent": [
+            "想到唱歌或音乐",
+            "回想试音失败的情境",
+            "预期会被他人评判"
+          ],
+          "core_reason": "将一次公开失败过度概括为能力全盘不足，形成非黑即白与预测未来的负性信念",
+          "function": "逃避被评价带来的羞耻与焦虑",
+          "consequence": "兴趣与乐趣减少、技能停滞，进一步加剧自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 412
+}

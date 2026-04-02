@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "方思平",
+      "gender": "男",
+      "occupation": "渔夫",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与妻子育有两个孩子",
+      "social_status": "与妻子关系支持性但因减少共同活动而出现紧张；尚未向妻子倾诉当前困扰",
+      "medical_history": "无重要躯体疾病；以往未有类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、配合度高、语气平和、思维逻辑性较好；态度积极，但易陷入负面自动思维"
+    },
+    "main_problem": "因最近一次钓鱼未能捕到太阳鱼而感到痛苦，并因此相信自己将再也抓不到它们，产生无望与失望。",
+    "topic": "情绪管理",
+    "core_demands": "这些持续的负面想法正在影响我对钓鱼的享受，我希望通过咨询减少这些想法，重新找回钓鱼带来的放松与乐趣。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个失败的渔夫"
+      ],
+      "special_situations": [
+        {
+          "event": "两周前的钓鱼旅行未能捕到太阳鱼",
+          "conditional_assumptions": "如果这次没能抓到太阳鱼，就说明我作为渔夫失败，并且以后也抓不到",
+          "compensatory_strategies": "暂停钓鱼、通过其他活动分散注意力",
+          "automatic_thoughts": "我永远抓不到太阳鱼；我是失败的渔夫",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次想到或计划下一次钓鱼",
+          "conditional_assumptions": "一旦失败过，就意味着今后同样会失败，继续计划毫无意义",
+          "compensatory_strategies": "取消或减少与钓鱼相关的计划，回避与妻子一起进行相关活动",
+          "automatic_thoughts": "这次也会失败，没有希望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "对上次旅行的高度期待后遭遇失望",
+          "conditional_assumptions": "钓鱼要么成功要么失败；只要没抓到太阳鱼，就等于彻底失败",
+          "compensatory_strategies": "为了避免再次失望，减少谈论或参与钓鱼",
+          "automatic_thoughts": "如果抓不到，就说明我完全不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望胜任并从钓鱼中获得放松与愉悦，同时与妻子共享活动",
+        "fear": "害怕再次失败、害怕让自己与伴侣失望",
+        "defense_goal": [
+          "通过撤退和减少参与来避免暴露失败与引发失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "把自己视为失败的、能力不足的渔夫",
+          "object_representation": "重要他人（妻子）被表象为可能失望的旁观者或评价者",
+          "linking_affect": "失望、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到再次钓鱼、计划钓鱼，或涉及与妻子一起进行以往喜欢的活动（如钓鱼）时",
+          "interpretation": "将钓鱼结果理解为“全好或全坏”，一旦不成功就等于被否定，并担心妻子会因此失望",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "语气温和但坚定，避免二元化判断，使用开放式提问引导其回忆灰度经验（如曾更换钓点或技巧后成功），邀请其描述当下感受与需求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本从钓鱼获得的放松与乐趣因一次失败而大幅降低",
+            "对钓鱼的期待与意义感被“我永远抓不到”的预言性想法侵蚀",
+            "与妻子共享活动减少，关系因此紧张"
+          ],
+          "outcomes": [
+            "无望感上升",
+            "对自我能力的怀疑",
+            "回避原本有意义的活动",
+            "情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "通过其他活动分散注意力以避免直接面对与钓鱼相关的失望与焦虑",
+            "在想到钓鱼时迅速回避具体计划与行动"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将自己贴上“失败的渔夫”的标签",
+            "过度关注一次失败并由此限制后续接触与尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到或计划钓鱼时，来访者通常会出现无望感并怀疑自己的能力，进而减少或取消钓鱼安排。",
+          "unique_outcome": "在过去一些钓鱼不顺的日子里，他没有像这次一样陷入“永不成功”的想法，而是尝试更换钓点或技巧，并最终捕到鱼。",
+          "reason": "不同做法：主动调整策略（换地点、换技巧）；不同理解：将一次不顺视为可改进的挑战而非永久失败。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾能通过调整钓点和技巧解决困难并重新捕到鱼",
+          "具有支持性的配偶",
+          "工作表现未受影响，生活结构相对稳定",
+          "愿意求助且态度积极"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知偏差",
+          "过度概括与非黑即白的评价方式",
+          "回避与妻子沟通，撤退共同活动",
+          "对一次失败高度敏感，容易自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在想到或计划钓鱼时出现强烈的无望感与自我否定，并回避钓鱼及与妻子共同活动",
+          "antecedent": [
+            "两周前一次未能捕到太阳鱼的经历",
+            "每次想到或计划钓鱼"
+          ],
+          "core_reason": "将一次失败过度概括为永久性结论，并以预测未来与非黑即白的认知方式解释自身能力，导致自我效能感下降",
+          "function": "逃避可能的再次失败与随之而来的失望情绪",
+          "consequence": "兴趣与日常心情下降；与妻子关系紧张；对钓鱼的享受减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1326
+}

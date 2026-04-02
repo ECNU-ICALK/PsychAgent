@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "梁思文",
+      "gender": "男",
+      "occupation": "全职家庭父亲",
+      "educational_background": "时装设计学士学位",
+      "marital_status": "已婚",
+      "family_status": "已婚有子女，积极参与子女的体育赛事与学校活动",
+      "social_status": "拥有支持性的配偶与朋友，参与志愿服务与团体；但因对生活的无聊与不满足感，人际关系出现紧张，尚未与他们讨论自身感受",
+      "medical_history": "无重大躯体疾病；既往未出现类似问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、能自我反思、配合度较好，整体态度中性、情绪较为平稳"
+    },
+    "main_problem": "尽管参与志愿工作和多个群组活动，我仍觉得生活无聊且缺乏满足感。",
+    "topic": "自我探索",
+    "core_demands": "“我想找到一种让自己对生活更有满足感和满意度的方式；希望能在不总是拿自己与他人比较的情况下，感到踏实与快乐。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的生活没有意义或不够充实",
+        "我不如别人（我的生活比别人差）"
+      ],
+      "special_situations": [
+        {
+          "event": "看到社交媒体上他人的冒险或精彩生活的帖子",
+          "conditional_assumptions": "如果我的生活不如他们精彩，就说明我不够好、我的生活不值得",
+          "compensatory_strategies": "通过增加社交活动与安排更多事务来试图让生活显得更充实",
+          "automatic_thoughts": "我在错过重要的东西；我的生活很普通、毫无意义",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与朋友的聚会或社交活动结束后回到日常",
+          "conditional_assumptions": "如果没有持续的高峰体验，说明我的生活就是失败",
+          "compensatory_strategies": "继续安排更多活动来“填满”空虚感",
+          "automatic_thoughts": "活动一结束，我的生活又变得毫无意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "晚间或安静的独处时刻",
+          "conditional_assumptions": "如果我现在感到无聊，这种状态会一直持续下去",
+          "compensatory_strategies": "寻找新的活动或分心方式来对抗无聊",
+          "automatic_thoughts": "我的人生会一直这样乏味下去",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "意识到与家人/朋友关系紧张并考虑是否向他们倾诉时",
+          "conditional_assumptions": "如果我表达感受，就会给他们增加负担并让他们看轻我",
+          "compensatory_strategies": "选择保持沉默、独自消化情绪，不向亲近的人求助",
+          "automatic_thoughts": "我不该把这些问题告诉他们，他们会觉得我很没用",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有有意义、被认可的生活体验，并在重要他人面前被理解与接纳",
+        "fear": "害怕暴露脆弱后被评判或让他人失望，担心自己显得无能或不够有趣",
+        "defense_goal": [
+          "通过不向亲近的人表达感受来维持表面和谐与安全；以增加活动的方式掩盖内在空虚"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "平凡、缺乏意义、可能会拖累他人的人",
+          "object_representation": "他人拥有更精彩生活、可能会对自己的困扰感到负担或评判者",
+          "linking_affect": "羞耻、空虚、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被鼓励向配偶或朋友表达真实感受、寻求支持时",
+          "interpretation": "认为分享会给他们增加负担、自己会被看轻（对他人反应的负性预测）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以顾虑与自责的语气表示“不想麻烦别人”，回避具体细节，转而谈自己的活动安排或一般性近况。"
+        },
+        {
+          "trigger_condition": "当咨询聚焦于具体情绪体验与其意义时",
+          "interpretation": "担心深入情绪会让自己失控或显得脆弱，因此倾向用抽象方式谈论",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用概括性与分析性的表达，强调“模式”“逻辑”，减少情感词与细节，保持平稳中性的语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复体验到生活无聊、乏味与空虚感",
+            "在社交后出现显著的低落与“失落感”",
+            "安静时刻与晚间独处时质疑“我是否在浪费时间”",
+            "将自己生活与他人精彩经历对比，贬低自我体验"
+          ],
+          "outcomes": [
+            "总体满意度下降与心理负担加重",
+            "人际关系紧张与疏离",
+            "减少与亲近者的情感沟通",
+            "持续的自我否定与比较"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿向支持性的配偶和朋友表达感受",
+            "在安静时段感到与他人疏离",
+            "担心给他人“增添负担”而选择独自消化"
+          ],
+          "outcomes": [
+            "支持系统未被激活",
+            "情绪累积，关系质量下降",
+            "主观孤独感与羞耻感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "明知配偶与朋友支持，但避免向他们表达困扰",
+            "独自承受与消化负面情绪，担心“麻烦别人”"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "通过增加活动与社交来分散注意，规避直面“生活无意义”的核心议题",
+            "在反思时以泛化的方式谈“忙碌”和“安排”，避免深入自我体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶与朋友",
+          "持续参与志愿服务与社团，保持社会连接",
+          "具备自我觉察，能识别并愿意观察负性思维模式",
+          "主动寻求咨询，配合度较高"
+        ],
+        "negative_force": [
+          "习惯性与他人比较并否定自身体验",
+          "非黑即白与灾难化思维倾向",
+          "社交媒体刺激下的强烈“错失感”",
+          "回避向亲近的人表达与求助",
+          "安静时段出现意义感缺失与低落，导致人际紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避向配偶与朋友表达真实感受与需求",
+          "antecedent": [
+            "被问及近况或想到与配偶/朋友沟通时",
+            "关系紧张或情绪低落时"
+          ],
+          "core_reason": "担心给他人增加负担与被评判，伴随羞耻感；因与他人比较而自我贬低",
+          "function": "逃避潜在的负面评价与不适情绪，维持表面和谐",
+          "consequence": "支持系统未被激活、关系疏离加重、负面情绪累积"
+        },
+        {
+          "behavior": "通过增加活动与社交来分心、避免直面内在空虚",
+          "antecedent": [
+            "社交活动结束后的低落时刻",
+            "安静的晚间独处",
+            "看到社交媒体中他人的精彩生活"
+          ],
+          "core_reason": "试图以外在忙碌来弥补对“生活无聊与缺乏意义”的感受，并证明自己不平凡",
+          "function": "短期缓解空虚与焦虑，逃避核心议题的直面与处理",
+          "consequence": "疲惫与挫败感增加，核心问题未被解决，负面体验反复出现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1087
+}

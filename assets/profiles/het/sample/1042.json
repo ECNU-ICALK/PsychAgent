@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "王欣迪",
+      "gender": "女性",
+      "occupation": "视频游戏设计师",
+      "educational_background": "游戏设计/计算机科学学位",
+      "marital_status": "已婚",
+      "family_status": "与妻子和儿子组成家庭",
+      "social_status": "有支持性的妻子与朋友，但难以与他们讨论自己的恐惧与负面想法",
+      "medical_history": "无显著身体疾病；无既往心理咨询或类似心理问题",
+      "language_features": "表达清晰、逻辑性强、合作度高，能识别触发因素与情绪，愿意尝试练习；语气中夹杂明显焦虑与担忧"
+    },
+    "main_problem": "与创办自己的游戏公司相关的负面想法令人不堪重负；对失败与财务不稳定的恐惧带来显著压力。妻子被裁员后加重，随着创业推进，失败想法更频繁、几乎每日出现。",
+    "topic": "职业发展",
+    "core_demands": "寻求支持以应对对失败与财务压力的恐惧，恢复对工作的专注，并减轻对个人与家庭生活造成的困扰。",
+    "growth_experiences": [
+      "妻子被裁员后，王欣迪决定认真追求长期以来的创业梦想，创办一家游戏公司；随着创业流程推进，压力与负面思维逐步加剧，遇到技术问题或进度延迟时尤为明显，并在思考家庭财务时显著升高；曾尝试用积极思考与分心来管理，但负面想法反复出现。",
+      "在游戏与商业领域有过成功经历，并具备清晰的创业计划，这些过往成就与资源为当前创业提供现实基础，但在焦虑与不确定感中常被忽视。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于事业成功与为家庭提供稳定的财务保障",
+        "不确定意味着危险与失败"
+      ],
+      "special_situations": [
+        {
+          "event": "妻子被裁员后家庭收入减少，创业初期尚无稳定现金流",
+          "conditional_assumptions": "如果我创业失败，家庭将陷入经济危机，我就是让家人失望的人",
+          "compensatory_strategies": "试图以积极思考和分心来压下担忧，同时反复预演最坏结果、保持过度警觉",
+          "automatic_thoughts": "我们很快就会没有收入，撑不下去",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "创业过程中出现技术问题或进度延期",
+          "conditional_assumptions": "任何挫折都预示整个项目会失败；只有一切顺利才算安全与成功",
+          "compensatory_strategies": "由于焦虑而回避关键任务或推迟决策",
+          "automatic_thoughts": "这次出问题说明项目要完了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "反复思考家庭财务与妻子失业的现状",
+          "conditional_assumptions": "如果不能立刻带来稳定收入，就证明创业决定是错误的，我让家人受苦",
+          "compensatory_strategies": "减少与亲友讨论恐惧，选择独自承受压力",
+          "automatic_thoughts": "我会让家人失望，都是我的责任",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "评估公司前景时更关注风险与负面反馈，忽视既往成就和当前计划",
+          "conditional_assumptions": "只有完全确定的成功证据才可靠；过去的成功在此刻不算数",
+          "compensatory_strategies": "用分心和“正向口号”试图覆盖焦虑，而非系统检验证据",
+          "automatic_thoughts": "这些积极证据不可靠/不算数",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过创业实现自我价值、获得他人认可并为家庭提供稳定与安全",
+        "fear": "害怕失败导致家庭受损、被指责或失去控制与安全感",
+        "defense_goal": [
+          "通过保持高度警觉与担忧来预防风险，降低失败的可能性",
+          "避免向亲友暴露脆弱，依赖理性分析与分心来压制焦虑以维持掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能让家人失望的负担者/潜在失败者",
+          "object_representation": "需要自己供养、容易受伤害的家人",
+          "linking_affect": "内疚、焦虑"
+        },
+        {
+          "self_representation": "在不确定环境中脆弱且容易犯错的创业者",
+          "object_representation": "苛刻且随时可能否定自己的他人/市场",
+          "linking_affect": "恐惧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请深入探讨“如果失败会发生什么”的情景，并引导停留在情绪体验时",
+          "interpretation": "将情绪探索体验为失控或被评判，担心谈论会加剧风险",
+          "sring": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "采用客观、分析性的语气，转向列举数据与计划，减少情绪词汇，快速回到问题解决话题。"
+        },
+        {
+          "trigger_condition": "当被询问是否与家人或朋友分享恐惧、寻求支持时",
+          "interpretation": "认为表达担忧会增加对方负担并使关系更紧张",
+          "sring": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "以简短句式表示“没关系/我能扛”，回避细节，迅速转回到工作与任务层面的描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "自主选择创业带来更高的责任与不确定性",
+            "担忧失败及其对家庭财务的影响"
+          ],
+          "outcomes": [
+            "持续焦虑与恐慌感",
+            "任务回避与注意力下降",
+            "睡眠与饮食节律紊乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持性的妻子与朋友，但难以与他们讨论恐惧与负面想法",
+            "在压力中倾向独自承受"
+          ],
+          "outcomes": [
+            "关系紧张与冲突增多",
+            "内疚与情绪困扰加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与接受对应。",
+          "manifestations": [
+            "用分心活动转移注意，避免直接接触失败与焦虑感受",
+            "在叙述中更多谈计划与解决方案，较少停留在当下情绪体验"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与冲动对应。",
+          "manifestations": [
+            "很难向妻子和朋友表达恐惧与负面想法，选择自己消化",
+            "压力升高时减少沟通与求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，与自主性对应。",
+          "manifestations": [
+            "反复担心“会让家人失望”，在挫折时自责与过度谨慎",
+            "因害怕犯错而回避尝试或拖延关键任务"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备游戏设计/计算机背景与过往成功经历",
+          "拥有较为清晰的创业计划与现实资源",
+          "妻子与朋友总体上提供情感支持",
+          "求助动机强，态度积极，愿意练习现实检验等策略"
+        ],
+        "negative_force": [
+          "灾难化、心理过滤、预测未来等认知偏差显著",
+          "对不确定性的容受度低，维持高度警觉与担忧",
+          "难以与亲友沟通恐惧，倾向独自承受压力",
+          "焦虑促发任务回避与注意力下降，影响工作表现",
+          "睡眠与饮食紊乱加重生理与情绪负荷"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在创业挫折情境下出现强烈焦虑并回避/拖延关键任务",
+          "antecedent": [
+            "创业中的技术问题或进度延期",
+            "想到家庭财务与妻子失业的现实压力",
+            "面临不确定的决策节点"
+          ],
+          "core_reason": "将不确定性等同于失败与家庭受损的灾难化信念与预测未来的思维方式",
+          "function": "短期逃避不适、降低即时焦虑并获得暂时的控制感",
+          "consequence": "工作效率下降、错误增多、创业推进受阻，家庭关系紧张"
+        },
+        {
+          "behavior": "睡眠与饮食节律紊乱（失眠、食欲受影响）",
+          "antecedent": [
+            "夜间反复思考失败与财务问题",
+            "白天经历挫折后的情绪余波"
+          ],
+          "core_reason": "持续警觉与反刍维持高水平焦虑，难以停机",
+          "function": "通过保持警惕尝试预防风险与控制不确定",
+          "consequence": "精力与注意力下降，进一步削弱工作表现并放大焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1042
+}

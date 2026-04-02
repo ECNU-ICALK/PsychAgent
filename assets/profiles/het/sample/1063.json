@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "王艾琳",
+      "gender": "女",
+      "occupation": "体育爱好者",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "有支持性的朋友和家人可倾诉，但尚未就该具体困扰与他们沟通；与偏好不同的朋友之间因体育偏好产生一些紧张，社交聚会中的享受度下降",
+      "medical_history": "无显著躯体疾病；无既往心理治疗或心理问题治疗史",
+      "language_features": "表达清晰，能识别并描述自身的负性思维模式；语气略显紧张但配合度高，能够进行自我反思"
+    },
+    "main_problem": "我倾向于把自己贴上“没有体育品味”的标签，因为我更喜欢棒球而不是橄榄球。这种想法导致自我批评和对自己偏好的怀疑。",
+    "topic": "自我探索",
+    "core_demands": "这些负面思维影响了我对体育的享受并带来不必要的压力，因此我寻求咨询。",
+    "growth_experiences": [
+      "高中时期，同龄人普遍热衷橄榄球而非棒球，我因偏好不同而感到格格不入与被排斥的风险；自此形成自我贴标签（“没有体育品味”“很奇怪”）的思维习惯，并在讨论体育或观看比赛的社交情境中反复体验到内疚与尴尬；为迎合社会和群体期待，曾尝试改变偏好以与大众一致，但未成功，长期延续到成年。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有体育品味",
+        "我很奇怪"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友讨论橄榄球（如超级碗）时",
+          "conditional_assumptions": "如果我不喜欢橄榄球，就说明我没有体育品味/不正常，会被视为奇怪",
+          "compensatory_strategies": "回避体育话题或假装更喜欢橄榄球以迎合他人",
+          "automatic_thoughts": "我一定很奇怪/我没有体育品味",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在观看体育比赛的社交聚会中，周围人普遍偏好橄榄球",
+          "conditional_assumptions": "我应该与大家保持一致，喜欢橄榄球才算“正常”",
+          "compensatory_strategies": "强迫自己关注橄榄球、迎合主流观点",
+          "automatic_thoughts": "我应该像大家一样喜欢橄榄球",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "回忆高中时期同龄人普遍热爱橄榄球的环境",
+          "conditional_assumptions": "与大众不同就意味着不被接纳",
+          "compensatory_strategies": "自我批评并尝试改变偏好以获得认同",
+          "automatic_thoughts": "我不喜欢橄榄球，说明我不合群",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友谈论体育时，预设他人会评价自己的偏好",
+          "conditional_assumptions": "如果表达真实偏好，会被看不起或被认为很奇怪",
+          "compensatory_strategies": "改变话题、避免讨论体育",
+          "automatic_thoughts": "他们会觉得我很奇怪/看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、能够自由而真实地表达自己的体育兴趣",
+        "fear": "害怕被评判、羞辱或被群体排斥，成为“格格不入的人”",
+        "defense_goal": [
+          "通过迎合他人偏好与自我压抑来避免被拒绝",
+          "回避谈论体育以降低暴露带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "与众不同、易被否定的局外人",
+          "object_representation": "挑剔的评判者/以主流偏好划分价值的群体",
+          "linking_affect": "羞耻、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与朋友讨论橄榄球或超级碗、他人表达强烈的主流偏好时",
+          "interpretation": "来访者认为若不随众就会被视为“奇怪”，关系会受损（将评判性意图归于他人）",
+          "defense_mechanism": "反向形成",
+          "defense_definition": "表现出与真实（且不被接受的）感受完全相反的态度和行为。",
+          "response_instruction": "使用迎合的语气，强调自己“也很喜欢橄榄球”，避免透露真实兴趣；尽量赞同他人观点以维持和谐。"
+        },
+        {
+          "trigger_condition": "当被直接问到最喜欢的体育项目或被邀请谈论个人偏好时",
+          "interpretation": "预设对方会看不起或否定自己，感觉表达真实偏好就等于被拒绝",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "通过转移话题、自嘲或轻描淡写来规避深入交流；语气谨慎，避免明确表达立场。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到社会期待要求自己迎合大众体育偏好",
+            "以“应该”句式要求自己喜欢橄榄球",
+            "表达真实兴趣时体验到内疚与尴尬"
+          ],
+          "outcomes": [
+            "自我批评与压力增加",
+            "回避表达真实自我",
+            "体育活动的乐趣下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "高中因偏好不同而感到格格不入",
+            "担心被朋友看不起或排斥"
+          ],
+          "outcomes": [
+            "与朋友产生紧张",
+            "倾向于假装迎合以避免被孤立",
+            "社交场合中不自在"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我贴标签（“没有体育品味”“很奇怪”）并自我批评",
+            "在谈论体育时过度谨慎，担心表达会被评判"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "与朋友谈论体育时主动改变话题或回避细谈",
+            "在社交场合避免表达真实兴趣"
+          ]
+        },
+        {
+          "mode": "融合",
+          "definition": "个体自我与他人或群体边界不清，倾向一致，消融个体意识，与“退缩”对应。",
+          "manifestations": [
+            "假装更喜欢橄榄球以与群体保持一致",
+            "强迫自己迎合大众偏好"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "预设他人会看不起自己或认为自己“奇怪”",
+            "未求证的情况下把评判归因于朋友"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人网络（虽未分享此具体困扰）",
+          "愿意寻求心理咨询并尝试行为实验",
+          "能够识别并命名自身的认知歪曲（如非黑即白、过度概括、读心术、“应该”句式）",
+          "对体育保持稳定兴趣与动机（体育爱好者）",
+          "工作表现未受影响，基本功能良好"
+        ],
+        "negative_force": [
+          "社会从众压力与外部评价取向（寻求外部验证）",
+          "自我贴标签与自我批评倾向",
+          "在谈论体育时回避与迎合，导致真实性受损",
+          "内疚与尴尬情绪频繁出现，增加压力",
+          "与偏好不同的朋友间关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避谈论体育话题或改变话题",
+          "antecedent": [
+            "与朋友讨论体育/超级碗时",
+            "在社交聚会观看比赛时"
+          ],
+          "core_reason": "担心不被接纳与被评判，倾向寻求外部认可以降低焦虑",
+          "function": "逃避被评价与尴尬，维持群体关系的表面和谐",
+          "consequence": "体育活动的乐趣下降，社交不自在，关系紧张加剧"
+        },
+        {
+          "behavior": "假装更喜欢橄榄球以迎合群体",
+          "antecedent": [
+            "当朋友强烈表达对橄榄球的偏好或期待一致时",
+            "被直接问及最喜欢的体育项目时"
+          ],
+          "core_reason": "认为与大众一致才能被接受，害怕被贴上“奇怪/没有品味”的标签",
+          "function": "获取群体接纳与认可，减少被排斥的风险",
+          "consequence": "真实性受损，自我怀疑加重，长期压力增高"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1063
+}

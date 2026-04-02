@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林雯",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "与四个兄弟姐妹及任教的母亲共同居住在一套公寓中",
+      "social_status": "有家庭支持资源（母亲与兄弟姐妹），但尚未与家人讨论困扰；人际情况未披露",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；与艺术相关的类似问题既往未出现",
+      "language_features": "表达清晰、配合度尚可，但语气消极；常使用绝对化与否定性表述（如“我不够好”“应该放弃”）；对正面反馈持怀疑态度"
+    },
+    "main_problem": "与绘画相关的挫败感与失败感：认为自己无法卖出作品，因而动摇继续创作的意愿，出现放弃的念头；看到其他艺术家获得成功与赞誉时加重自我怀疑与沮丧。",
+    "topic": "职业发展",
+    "core_demands": "负面想法和感受已开始影响创作动力并造成痛苦、影响日常生活，因此寻求咨询以缓解这些困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（作为艺术家）",
+        "我的作品的价值（以及我的价值）取决于外界认可与销量"
+      ],
+      "special_situations": [
+        {
+          "event": "长期未能卖出任何作品",
+          "conditional_assumptions": "如果作品没有售出，就说明它没有价值、我就是失败者",
+          "compensatory_strategies": "将创作价值强行与销量绑定；在持续未售出时考虑停止创作以避免进一步失败",
+          "automatic_thoughts": "卖不出去就证明我很差，我应该放弃",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到其他艺术家在社交媒体上发布成功与获赞",
+          "conditional_assumptions": "如果达不到他们的水平或赞誉，就说明我不够好、不会成功",
+          "compensatory_strategies": "不断与他人比较、加倍练习以试图证明自己；当比较后仍感到不如他人时倾向于退缩或想要放弃",
+          "automatic_thoughts": "我永远达不到他们那样的水平",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "朋友给予对作品的正面评价",
+          "conditional_assumptions": "正面反馈不算数，只有销量或广泛认可才是真实评价",
+          "compensatory_strategies": "否定赞美、忽略正面线索，只保留与失败一致的证据",
+          "automatic_thoughts": "他们只是客套，我的作品其实不值钱",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "开始新的创作时",
+          "conditional_assumptions": "如果最终卖不出去，这次创作就是浪费时间",
+          "compensatory_strategies": "在开工前自我否定、降低投入或拖延甚至停止创作，以减少“无意义感”与失败感",
+          "automatic_thoughts": "没人会买这幅画，做了也是白做",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可，作为艺术家获得价值与成就感",
+        "fear": "害怕被否定与失败，担心自己永远达不到他人标准、被视为不够好",
+        "defense_goal": [
+          "通过退缩、否定正面反馈、将价值与销量绑定来降低被羞辱与失败的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被看见、容易失败的创作者",
+          "object_representation": "挑剔且只认可销量与名气的他者/观众",
+          "linking_affect": "羞耻、沮丧、嫉妒"
+        },
+        {
+          "self_representation": "需要外界证明价值的依赖者",
+          "object_representation": "可能轻视或不理解自己的他人（如线上观众、潜在买家）",
+          "linking_affect": "不安、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探问并强化朋友的正面反馈、邀请来访者考虑其真实性与意义时",
+          "interpretation": "将他人的赞美理解为不真诚或与现实（未售出）不符",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用怀疑与否定的语气，强调“他们只是客套”，对赞美保持距离。"
+        },
+        {
+          "trigger_condition": "当咨询师建议从销售之外探索艺术的价值（如为亲人创作）时",
+          "interpretation": "将“不以销售为目标”的创作理解为没有意义、不值得投入",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用因果式、绝对化表述强调“如果不卖就没价值”，语气坚决以维持既有信念。"
+        },
+        {
+          "trigger_condition": "当被询问是否愿与家人分享当前的情绪困扰与创作压力时",
+          "interpretation": "预设家人会认为自己的困扰“幼稚/不重要”，从而选择不表达",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "保持沉默或轻描淡写，避免展开感受细节，语气收敛。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将艺术的价值完全绑定于销量与外部赞誉",
+            "开始新作品时感到“做了也是白做”",
+            "难以接纳正面反馈，认为不卖出就不值钱"
+          ],
+          "outcomes": [
+            "创作动机显著下降",
+            "情绪低落与自我怀疑加剧",
+            "创作过程由愉悦转为压力与无意义感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然拥有家庭支持资源，但选择不与母亲及兄弟姐妹分享困扰",
+            "在社交媒体上与他人成功进行比较时加重自我隔离与自卑"
+          ],
+          "outcomes": [
+            "缺乏现实的情感支持与修正性经验",
+            "加剧无助感与否定自我价值"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“卖得出去才有价值”的社会标准直接当作衡量自我与作品的唯一标准",
+            "用销量与赞誉定义自我好坏"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为朋友的赞美只是客套、不真诚",
+            "把内心的自我怀疑与不配感投射为他人对自己的轻视"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与自我否定（“我不够好”）",
+            "对分享困扰过于谨慎，小心避免求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对绘画有稳定的热爱与练习投入（长期练习）",
+          "具备潜在的家庭支持资源（母亲与四位兄弟姐妹）"
+        ],
+        "negative_force": [
+          "过度依赖外部验证（销量与赞誉）来定义价值",
+          "与他人比较引发的自卑与绝望",
+          "非黑即白思维导致将“未售出”与“失败”直接等同",
+          "否定正面反馈、只保留负面证据（心理过滤与否定积极）",
+          "在开始创作时进行负性预测，增加压力与回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在创作相关情境中出现强烈的自我否定与放弃念头",
+          "antecedent": [
+            "看到其他艺术家在社交媒体上发布成功与获赞",
+            "长时间未能售出作品",
+            "开始新的创作时"
+          ],
+          "core_reason": "将自我价值与作品销量绑定，受比较与绝望、非黑即白思维驱动；为避免羞耻与失败而倾向退缩",
+          "function": "逃避潜在的失败与被否定，短期缓解焦虑与羞耻",
+          "consequence": "创作动机下降、投入减少，情绪低落与自我怀疑加剧"
+        },
+        {
+          "behavior": "回避求助与表达情绪困扰（不与家人讨论）",
+          "antecedent": [
+            "想到家人可能的看法或反应",
+            "在感到挫败与自我怀疑加重时"
+          ],
+          "core_reason": "对他人反应的负性预测与读心（担心被轻视），伴随羞耻感与自我否定",
+          "function": "避免被评判与情绪暴露，维持表面安全",
+          "consequence": "缺乏现实支持与修正性反馈，孤立感增加、负面情绪持续"
+        },
+        {
+          "behavior": "否定积极反馈，将赞美解读为不真诚",
+          "antecedent": [
+            "朋友对作品的正面评价与鼓励"
+          ],
+          "core_reason": "负性核心信念“我不够好”与外部验证偏好导致的认知偏差（否定积极、心理过滤）",
+          "function": "维持负性自我图式以避免认知失调",
+          "consequence": "自尊进一步受损，正向线索无法内化，抑郁与焦虑水平上升"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 398
+}

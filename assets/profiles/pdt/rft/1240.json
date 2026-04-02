@@ -1,0 +1,218 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "张涛",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "与母亲同住，父亲已去世",
+      "social_status": "与母亲的关系因其不赞同张涛的爱好而紧张；有一起进行LARP的朋友，但他难以向朋友敞开谈论自卑与内疚感",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰，能具体描述想法与感受；整体基调消极、对未来悲观；对积极反馈持怀疑态度；在叙述中可见灾难化、非黑即白、个人化及读心等认知模式"
+    },
+    "main_problem": "因为我喜欢和朋友在树林里玩LARP，我感到被母亲评判，这让我产生自卑和内疚感。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询，因为这些内疚和自卑感影响了我的心理健康以及我与母亲的关系。",
+    "growth_experiences": [
+      "父亲去世后，张涛开始更多地在LARP（打扮成角色进行戏剧化演出）中寻求安慰与归属，但母亲对这一爱好并不认同，这成为其被评判与内疚感的来源之一。",
+      "自32岁起继续与母亲同住，张涛在与母亲互动中持续感受到对其兴趣和生活方式的否定与不理解，这种长期处境加深了其“被评判—自卑—内疚”的情绪循环。",
+      "社交方面，张涛有共同爱好的朋友群体，但他难以向朋友坦露自身的自卑与内疚，倾向独自承受负面感受，增强了孤立体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不被认可/不够成熟"
+      ],
+      "special_situations": [
+        {
+          "event": "与母亲谈到或准备去参加LARP活动，且看到母亲不赞同的眼神",
+          "conditional_assumptions": "如果我成年仍热衷于扮演游戏，母亲（以及他人）就会看不起我，说明我不成熟",
+          "compensatory_strategies": "减少向母亲表达爱好、试图解释以获得母亲的理解与认同",
+          "automatic_thoughts": "她一定觉得我很幼稚、没出息。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "独自从事或回想LARP活动后",
+          "conditional_assumptions": "如果我坚持这个爱好，就在给母亲丢脸，说明我有问题",
+          "compensatory_strategies": "自责和内疚，回避在家人面前表达热爱",
+          "automatic_thoughts": "都是我的错，我让母亲失望了。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想到要把完成的书稿提交给出版社时",
+          "conditional_assumptions": "如果作品不能脱颖而出或成为畅销，我就是彻底的失败者",
+          "compensatory_strategies": "拖延投稿、反复自我否定、难以开启新项目",
+          "automatic_thoughts": "这书肯定竞争不过那些畅销书，我会完全失败。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "朋友读完书稿后给出正面反馈",
+          "conditional_assumptions": "他人的赞美不可信，积极反馈不算数",
+          "compensatory_strategies": "忽略正面信息、只关注潜在缺点",
+          "automatic_thoughts": "他们只是客套话，不能当真。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被母亲（以及重要他人）认可与接纳，同时被看见其作为成年人的选择与热爱",
+        "fear": "害怕被贬低为幼稚与失败者、被拒绝或羞辱",
+        "defense_goal": [
+          "通过自我否定与顺从来减少与母亲的冲突与羞耻感",
+          "避免冒险（如投稿、袒露兴趣）以降低被否定的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、需要被认可的“不够成熟”的孩子",
+          "object_representation": "批判、不赞许、带有评判目光的母亲/权威者",
+          "linking_affect": "羞耻、内疚、焦虑"
+        },
+        {
+          "self_representation": "易被否定、价值不稳的创作者",
+          "object_representation": "挑剔、难以取悦的他者/出版方",
+          "linking_affect": "恐惧、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如朋友或咨询师）肯定其作品或指出其长处时",
+          "interpretation": "认为对方只是出于客套或同情在夸赞，真实评价一定是负面的",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以保留、淡化的语气回应肯定，强调“只是客气”，随后列举作品可能的缺点来抵消对方的积极评价。"
+        },
+        {
+          "trigger_condition": "当被邀请思考作品结果或自我价值时，脑中迅速浮现“成功或失败”的两极画面",
+          "interpretation": "把情境分为全好或全坏，无法整合中间地带",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化措辞（如“完全失败/毫无希望”），语气坚决，回避探讨中间可能性。"
+        },
+        {
+          "trigger_condition": "与母亲互动中感受到不赞同或看到其不悦表情",
+          "interpretation": "将外在的不满转化为对自己的过度责备，认为“都是我的错”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "降低音量、自我贬损，频繁道歉或自责，避免表达不同意见以平息紧张。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在生活方式与兴趣选择上感到被母亲评价所束缚，难以自主表达热爱（LARP与写作）",
+            "在职业/创作选择（如是否投稿）上因害怕被否定而回避"
+          ],
+          "outcomes": [
+            "内疚与自卑加重",
+            "动力下降与拖延",
+            "失眠与持续担忧"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友支持，但难以向朋友袒露自卑与内疚",
+            "在关键抉择与情绪体验上倾向独自承受"
+          ],
+          "outcomes": [
+            "关系疏离感增强",
+            "负性自我评价循环加深"
+          ]
+        },
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "父亲去世后转向LARP寻求安慰与联结",
+            "家庭结构变化后对母亲评价更为敏感"
+          ],
+          "outcomes": [
+            "对被抛弃与被否定的焦虑上升",
+            "对亲密关系中的接纳需求更强烈"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（如“这会完全失败”），不敢接纳正面反馈",
+            "对提交作品与开展新项目犹疑不决，过度担心后果"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将自我批评投射为他人意图：认为母亲“看不起我”、朋友“只是客套”",
+            "在缺乏明确证据时预设他人负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对创作结果与激烈竞争时，张涛通常会因灾难化与自我怀疑而失眠、降低动力，并回避提交作品或开启新项目。",
+          "unique_outcome": "最近，张涛完成了他的第一本书，并让朋友阅读，收到了正面反馈；在强烈怀疑的情况下仍坚持把故事与人物发展打磨完成。",
+          "reason": "不同做法：持续专注于情节与人物塑造；不同支持：朋友试读并给予肯定；不同理解：认可自己在创作上的投入与热情。"
+        },
+        {
+          "target_problem": "在害怕被否定的情境中，张涛通常会减少自我暴露，不愿让他人评价自己的作品。",
+          "unique_outcome": "他主动把书稿交给几位朋友阅读并获得积极评价，这与以往避免被评价的模式不同。",
+          "reason": "不同做法：主动寻求同侪反馈；不同支持：朋友群体与共同兴趣带来安全感；情境线索：对作品独特情节有一定信心。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能长期投入并完成复杂任务（已完成第一本书）",
+          "对创作与LARP具有稳定热情（内在动机）",
+          "拥有兴趣相同的朋友与一定的社会支持",
+          "能辨识作品的独特情节与人物优势，具备自我观察能力"
+        ],
+        "negative_force": [
+          "自我价值高度依赖外部认可，容易读心与个人化",
+          "灾难化与非黑即白思维强化失败预期，导致拖延与回避",
+          "对积极反馈的否定使自信难以积累",
+          "在家庭关系中对母亲评价高度敏感，容易陷入内疚—自责循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对作品成败的灾难化担忧与回避投稿/开启新项目",
+          "antecedent": [
+            "想到要把书稿提交给出版社",
+            "在夜间回想竞争与失败可能性",
+            "与人谈及作品的前景"
+          ],
+          "core_reason": "对失败的灾难化与非黑即白认知、对外部认可的高度依赖（读心与个人化）",
+          "function": "逃避可能的被拒与羞耻，短期降低焦虑",
+          "consequence": "失眠、动力下降、难以开展新项目，自我效能感持续受损"
+        },
+        {
+          "behavior": "在与母亲谈及LARP时出现的自责与内疚反应（个人化）",
+          "antecedent": [
+            "与母亲讨论或准备参加LARP时",
+            "看到母亲不赞同的表情"
+          ],
+          "core_reason": "将“成年人的规范”内摄为自我标准，并通过读心与个人化把母亲的不满归因于自我缺陷",
+          "function": "通过自责与顺从来维持关系的表面和谐、避免冲突升级",
+          "consequence": "与母亲关系持续紧张，自尊受损，减少自我表达与爱好的公开性"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1240
+}

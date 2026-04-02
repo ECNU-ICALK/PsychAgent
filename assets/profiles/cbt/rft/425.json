@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "陈远",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "普林斯顿大学毕业",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有支持性的亲友网络，但尚未与他们讨论对飞行的恐惧",
+      "medical_history": "无类似问题史；无心理治疗史；无重大躯体疾病",
+      "language_features": "首次求助略紧张但配合度高；表达清晰、逻辑性强，能自我观察并使用心理学术语（如“灾难化”）；语速平稳，情绪焦虑但可控"
+    },
+    "main_problem": "每次旅行时都会害怕发生飞机失事，过去几年愈发加重，已影响旅行的享受并在飞行前与飞行中显著增加焦虑与压力。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询应对并克服对飞机失事的恐惧，恢复对旅行与新体验的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界是不安全的",
+        "我无法掌控飞行中的风险"
+      ],
+      "special_situations": [
+        {
+          "event": "临近旅行日期时开始制定或确认行程",
+          "conditional_assumptions": "如果我继续乘坐飞机，最坏情况随时可能发生",
+          "compensatory_strategies": "提前数周反复担忧、查阅安全统计数据自我安慰、犹豫或推迟旅行计划",
+          "automatic_thoughts": "万一这次就是会出事的那一班呢？",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "飞机起飞阶段",
+          "conditional_assumptions": "任何异常声响或感受都意味着危险正在发生",
+          "compensatory_strategies": "高度紧张地监控动静、抓紧扶手、尝试用分散注意力来压制恐惧",
+          "automatic_thoughts": "引擎声音不对，可能要坠机了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "飞行中遭遇颠簸",
+          "conditional_assumptions": "只要出现颠簸，飞机就可能不安全",
+          "compensatory_strategies": "反复自我安抚（回想安全统计）、深呼吸或分散注意力",
+          "automatic_thoughts": "机翼撑不住了，飞机要出事",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "安全落地后想到下一次飞行",
+          "conditional_assumptions": "为了避免危险和痛苦，我应该停止坐飞机",
+          "compensatory_strategies": "考虑减少或停止乘机旅行以回避恐惧",
+          "automatic_thoughts": "我应该停止旅行，别再坐飞机了",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全与可控感（尤其在飞行这一高不确定情境中）",
+        "fear": "害怕失控并遭遇灾难性后果（坠机）",
+        "defense_goal": [
+          "通过回避或减少飞行来维持安全感并降低焦虑"
+        ]
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中被邀请具体描述飞行恐惧及其体验时",
+          "interpretation": "倾向以数据与概念说明（如安全统计、灾难化定义）来与情绪保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和具体，邀请其回到当下身体与情绪感受（如心跳、出汗、紧张点），减少抽象讨论，使用开放式提问并给出短句反映。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "频繁想象最坏情境（坠机）并将其视为迫在眉睫的可能",
+            "起飞与颠簸时对死亡的高度恐惧与失控感"
+          ],
+          "outcomes": [
+            "显著的预期性焦虑与惊恐体验",
+            "减少或回避飞行，旅行乐趣与自由受限",
+            "飞行前数周持续担忧，影响日常节奏"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自我要求式语言：“我应该停止旅行”",
+            "以僵硬规则来对抗焦虑（避免飞行=安全）而非基于自身真实体验的选择"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在准备飞行或飞行途中，来访者通常会陷入最坏情境想象并难以摆脱，焦虑高涨从而影响旅行体验与计划。",
+          "unique_outcome": "在某次航班的巡航阶段，来访者没有持续沉浸于坠机画面，而是通过听音乐/看电影进行分散注意，焦虑强度有所下降并顺利完成航程。",
+          "reason": "线索：采取了不同做法（分散注意策略），并短暂借助安全统计自我安抚，因此这次焦虑出现了可承受的下降。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的亲友网络（尽管尚未谈及恐惧）",
+          "求助动机明确、态度积极，愿意尝试作业与记录",
+          "教育背景良好，认知理解与概念把握能力强（能识别灾难化）",
+          "曾自主运用分散注意策略并获得一定缓解"
+        ],
+        "negative_force": [
+          "灾难化思维与“应该”式规则增强回避倾向",
+          "显著的预期性焦虑（飞行前数周开始担忧）",
+          "对起飞与颠簸等线索过度警觉与放大解读",
+          "对失控与危险的高估，弱化对安全证据的整合"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与乘机相关的强烈焦虑与回避倾向",
+          "antecedent": [
+            "计划或确认即将到来的飞行",
+            "机场候机与登机",
+            "起飞瞬间",
+            "飞行中出现颠簸"
+          ],
+          "core_reason": "对坠机概率与后果的灾难化推断与失控感，导致对风险的过高估计与持续警觉",
+          "function": "逃避不受欢迎的强烈焦虑与感知的危险，通过回避或分散注意来短期减轻痛苦",
+          "consequence": "旅行计划与体验受限，难以享受飞行与探索新体验；日常节奏受扰并形成“担忧—飞行—短暂缓解—再度担忧”的循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 425
+}

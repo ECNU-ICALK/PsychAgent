@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "朱莉娅",
+      "gender": "女",
+      "occupation": "居家办公",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与一只猫同住",
+      "social_status": "有少数朋友可倾诉，但因持续寻求关于乐队动态的保证而关系紧张、交流受影响",
+      "medical_history": "无重大躯体疾病，既往未接受心理治疗或精神卫生服务",
+      "language_features": "表达清晰，能自我反思，配合度高；情绪呈紧张但积极的态度，叙述逻辑性较好"
+    },
+    "main_problem": "我觉得自己是一个糟糕的粉丝，认为我最喜欢的乐队 Nightfish 的解散是由我的负面想法和行为导致的，因此每天都在为此自责与内疚，并出现加重的焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "我想能够参与严肃的交流并更好地承担责任；我也想停止把幽默当作拐杖，感到更充实。",
+    "growth_experiences": [
+      "在青少年时期开始在面对压力或重要情境时用幽默来缓解焦虑、避免被评价的模式；这一应对方式延续至今，近期在工作会议与室友互动中愈加明显，导致他人认为她不够认真、难以建立更深的连接。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的粉丝",
+        "我的负面想法和行为会导致坏事发生"
+      ],
+      "special_situations": [
+        {
+          "event": "听到关于 Nightfish 可能解散的传闻",
+          "conditional_assumptions": "如果我作为粉丝产生负面想法或做了不够好的事，乐队就会受到影响甚至解散",
+          "compensatory_strategies": "不停在网上搜寻信息与求证、监控消息以试图阻止坏事发生",
+          "automatic_thoughts": "都是我的错，是我让他们要解散",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "乐队成员在社交媒体或采访中暗示存在紧张关系",
+          "conditional_assumptions": "如果出现紧张迹象，就意味着解散不可避免",
+          "compensatory_strategies": "加倍关注新闻与动态，反复刷新以确认他们没有要解散",
+          "automatic_thoughts": "他们一定会分崩离析，很快就会解散",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在听 Nightfish 的音乐或阅读相关新闻时",
+          "conditional_assumptions": "好粉丝不该有负面想法；如果我一边关注他们一边有负面想法，就说明我是坏粉丝",
+          "compensatory_strategies": "用“我是坏粉丝”给自己贴标签并自责，试图通过内疚来促使自己“改正”",
+          "automatic_thoughts": "我就是个糟糕的粉丝，什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中的重要会议里感到焦虑、担心被他人评价",
+          "conditional_assumptions": "如果我不说笑话、认真发言，大家会认为我不胜任或说错话会被嘲笑",
+          "compensatory_strategies": "用幽默转移注意、避免表达严肃观点以逃避可能的评价",
+          "automatic_thoughts": "他们会觉得我不专业，我若认真发言一定会出丑",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人接纳与肯定，作为“好粉丝/好同事”被认真对待并被看见",
+        "fear": "害怕被负面评价、被指责为造成他人或群体的坏结果（如乐队解散）",
+        "defense_goal": [
+          "通过幽默保持安全距离以避免他人评判",
+          "通过过度研究与求证来获得控制感、降低不确定性与焦虑",
+          "以自责与内疚来维持对局面的“掌控”并试图弥补焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负罪且不称职的“坏粉丝”",
+          "object_representation": "脆弱、易被自己影响并可能随时瓦解的乐队",
+          "linking_affect": "内疚、焦虑、羞耻"
+        },
+        {
+          "self_representation": "容易被质疑、不被认真对待的同事",
+          "object_representation": "严苛的评判者（同事/主管），随时会否定自己",
+          "linking_affect": "紧张、害怕被评判、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导进入更严肃/更情绪化的话题或要求具体探讨责任与贡献时",
+          "interpretation": "若不用幽默保护自己，就会被当场评判或暴露“无能”",
+          "defense_mechanism": "幽默",
+          "defense_definition": "用诙谐的方式面对困境或化解尴尬，而不带伤害性。",
+          "response_instruction": "以轻松玩笑口吻回应，转移到不相关的轻松话题，减少情绪表达与眼神接触。"
+        },
+        {
+          "trigger_condition": "当被询问感受与内在体验，而外界信息不确定（如传闻与线索相互矛盾）",
+          "interpretation": "认为必须先弄清所有事实数据，否则表达感受会显得不可靠或被否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以信息罗列、数据推演的方式作答，减少主观情绪词，语气冷静、分析化。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对外部事件（乐队是否解散）承担过度的个人责任",
+            "将他人评价视为重要参照，害怕被负面评判",
+            "通过幽默回避真实表达与选择，降低对自由与责任的焦虑"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "持续的内疚与自我责备",
+            "自我价值不稳定",
+            "工作绩效下降与人际疏离"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且难以向朋友袒露真实信念与担忧",
+            "用玩笑维持表面互动，减少真实接触"
+          ],
+          "outcomes": [
+            "关系连接感降低与体验流于表面",
+            "支持系统难以被有效利用",
+            "情感体验受限、主观孤立感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在严肃话题或重要会议中以开玩笑方式转移注意",
+            "在咨询中以幽默化解不适，减少情绪直面",
+            "谈及焦虑时迅速切换到轻松话题"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假定他人认为自己不胜任或会嘲笑自己",
+            "将可能的负面评价归于他人意图（如同事/主管不把自己当回事）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责为“坏粉丝”，对自我要求僵硬",
+            "在表达观点前过度审查与克制，担心被否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "自我觉察度较高，能清晰描述问题模式与影响",
+          "态度积极、愿意尝试新的接触方式与行为实验",
+          "拥有一定的社会支持（少数朋友）与稳定生活结构（居家工作、照料宠物）"
+        ],
+        "negative_force": [
+          "过度个体化归因与自我责备（将外部事件归咎于自身）",
+          "灾难化与仓促下结论（对乐队动态的负面预期）",
+          "持续的在线求证与过度研究维持焦虑与不确定感",
+          "对他人评价高度敏感，用幽默回避真实接触，妨碍有效沟通"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度研究乐队动态并在网络上反复寻求保证",
+          "antecedent": [
+            "听到关于 Nightfish 可能解散的传闻",
+            "看到成员暗示紧张关系的消息或帖子",
+            "阅读相关新闻/评论"
+          ],
+          "core_reason": "将外部事件个体化归因，试图通过信息控制来缓解不确定性与焦虑",
+          "function": "逃避不确定带来的焦虑、获得短暂的安全感与控制感",
+          "consequence": "焦虑被维持与加剧，工作与日常生活（阅读、照料宠物）受干扰"
+        },
+        {
+          "behavior": "在严肃场合以幽默回避认真表达与承担责任",
+          "antecedent": [
+            "工作中的重要会议或任务分配",
+            "与室友或他人需要认真沟通的情境",
+            "感到将被评价或可能“说错话”的场合"
+          ],
+          "core_reason": "害怕被负面评价与显得不胜任，用幽默作为防御与回避策略",
+          "function": "逃避潜在的羞耻与评判，降低当下焦虑",
+          "consequence": "被认为不够认真，影响工作绩效与信任度；人际连接流于表面、难以深入"
+        },
+        {
+          "behavior": "每日自责与内疚的反复自我言语",
+          "antecedent": [
+            "听 Nightfish 的音乐",
+            "阅读与乐队相关的信息",
+            "回想、联想到传闻或紧张迹象"
+          ],
+          "core_reason": "核心信念“我是坏粉丝”“我的负面想法会导致坏事”，引发自我标签与过度概括",
+          "function": "通过自责来获得“弥补”与控制的错觉，试图降低焦虑",
+          "consequence": "情绪痛苦（焦虑、羞耻、内疚）加重，注意力受损与功能下降（工作、人际、日常）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 567
+}

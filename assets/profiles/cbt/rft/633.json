@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "57",
+      "name": "杨拉塞尔",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与有相同兴趣的朋友保持联系，但因自我不足感与比较而关系紧张；未向他人表达自己的失望与挫败。",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无重大躯体疾病。",
+      "language_features": "表达清晰，配合度高，态度积极；能识别并描述自己的“应该”想法；有自我批评倾向，语气平稳、思路连贯。"
+    },
+    "main_problem": "因未成为职业滑板运动员而产生长期的失望与挫败，频繁以“应该”句式要求自己并与成功滑手比较，导致心理压力增大、对滑板的享受下降。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这种失望与不断比较影响了我的心理健康和对滑板的享受，这促使我寻求咨询。",
+    "growth_experiences": [
+      "几年前因财务限制与缺乏支持而不得不放弃追求职业滑板的梦想；此后每当看到滑板相关内容或成功的滑手便被触发强烈的自我比较与挫败感，问题逐渐加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我失败了（已经太晚）"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交媒体上看到成功的职业滑板运动员的内容",
+          "conditional_assumptions": "如果我现在还不是职业滑手，就说明我不够好/是失败者。",
+          "compensatory_strategies": "设定不切实际的目标并逼迫自己更努力训练，以试图赶上他人。",
+          "automatic_thoughts": "我应该已经成为职业滑手；我应该和他们一样好。",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "尝试参与滑板练习或比赛时",
+          "conditional_assumptions": "如果达不到职业水平，就没有资格享受滑板或被认可。",
+          "compensatory_strategies": "用苛刻的自我对话逼迫自己加练，试图通过更努力来消除不安。",
+          "automatic_thoughts": "我失败了；已经太晚了。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与成功的滑板朋友相处或谈论职业发展时",
+          "conditional_assumptions": "如果我不如他们，就证明我不够好、不值得被尊重。",
+          "compensatory_strategies": "减少交流、不谈及自己的失望，以避免被比较或评判。",
+          "automatic_thoughts": "我不如他们。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回想当年因财务与支持不足而放弃职业梦想",
+          "conditional_assumptions": "如果当时没有坚持到底或获得足够支持，就说明失败完全是我的错。",
+          "compensatory_strategies": "反复自责，认为自己当年应该更努力或做得不同。",
+          "automatic_thoughts": "我应该当年更努力，否则就不会失败。",
+          "cognitive_pattern": "Blaming"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过成为职业滑板运动员获得认可与自我价值感，并从滑板中获得持久的快乐与意义。",
+        "fear": "害怕被比较后显得不如人、被视为失败；害怕机会已错过、再也无法实现梦想。",
+        "defense_goal": [
+          "以严格的自我要求和“应该”规则维持掌控感与自尊",
+          "避免向朋友表达脆弱以减少羞耻与被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的落后者/失败者",
+          "object_representation": "他人（成功滑手/朋友）是评判者与优越者",
+          "linking_affect": "羞耻、挫败、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到成功滑手或被询问职业达成与水平时",
+          "interpretation": "将他人的成功体验为对自身的否定，强化“我是失败者”的内在信念（移情：将压力与攻击转向自我）。",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和、共情的语气回应，避免比较或评价；使用开放式问题邀请其描述当下感受与需要，验证其体验，鼓励把自我批评改写为感受与愿望的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "放弃职业梦想后对滑板的享受下降",
+            "频繁与成功者比较，引发失望与自我贬低"
+          ],
+          "outcomes": [
+            "动机下降",
+            "情绪低落与挫败",
+            "日常生活受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因财务限制与缺乏支持无法继续职业追求，感到选择受限"
+          ],
+          "outcomes": [
+            "压力增大",
+            "沮丧与无力感",
+            "减少表达与回避交流"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未向任何人谈及自己的失望与挫败",
+            "与成功滑板朋友关系紧张"
+          ],
+          "outcomes": [
+            "社会退缩",
+            "支持缺失",
+            "情感负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该已经是职业滑手”“我应该和那个人一样好”等语句",
+            "以外界成就标准衡量自我价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "未向朋友或他人表达失望与压力",
+            "把挫败感转为自我苛责与自我打击"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对滑板有强烈热情与长期投入意愿",
+          "具备一定的自我觉察，能识别并愿意调整“应该”想法",
+          "拥有兴趣相近的朋友与社群资源（虽当前未善用）",
+          "对改变持开放态度，愿意尝试记录与重构思维"
+        ],
+        "negative_force": [
+          "僵化的“应该”规则与外部成就标准",
+          "过度比较与自我否定，易忽略积极体验",
+          "自我苛责，认为自己失败且“太晚”",
+          "设定不切实际目标并过度施压",
+          "财务与支持不足导致机会受限"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在接触滑板相关内容或与成功滑手互动时，出现强烈的自我比较与自我批评",
+          "antecedent": [
+            "浏览社交媒体的滑板内容",
+            "实际参与滑板练习或比赛",
+            "与成功的滑板朋友交流"
+          ],
+          "core_reason": "内化僵化的外界成就标准（“应该”规则）与核心信念“我不够好/我是失败者”。",
+          "function": "通过自我施压与自责来获得控制感或避免被评判的羞耻感。",
+          "consequence": "挫败与压力增大、对滑板的享受下降、动机减弱、与朋友关系紧张。"
+        },
+        {
+          "behavior": "设定不切实际的目标并过度逼迫自己训练",
+          "antecedent": [
+            "看到成功滑手的表现",
+            "意识到自己尚未达到职业水平"
+          ],
+          "core_reason": "受“应该”句式与非此即彼的成就观驱动，将职业化视为唯一有效的标准。",
+          "function": "试图快速证明自我价值、获得认可与控制感。",
+          "consequence": "挫败加重、压力升高、持续性与享受感下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 633
+}

@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "张诚",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "44岁成为祖辈，有一个孙辈",
+      "social_status": "未提及",
+      "medical_history": "未经历类似问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度较好，语气消极；存在灾难化、否定积极、心理过滤、读心术、预测未来、过度概括等认知倾向；对改变持怀疑态度"
+    },
+    "main_problem": "我觉得我的孙辈并不在乎我，尽管我很爱TA并努力与TA建立联系。这种被拒绝与忽视的感觉从孙辈出生时开始，并在互动中持续出现。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到这种被拒绝的想法和感受影响了我的整体幸福感和与家人的关系，因此寻求咨询。也希望家人能告诉我这不是我的错，并给我一些如何更好与孙辈连接的建议。",
+    "growth_experiences": [
+      "在孙辈出生时压力显著升高，为了建立牢固的联系，我多次尝试与其互动并赠送礼物，但经常感到对方冷淡与疏离；此后每次互动都容易触发被拒绝感与自我怀疑，这种体验在日常生活中持续影响情绪与活动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不重要",
+        "我有问题/我做错了",
+        "我不是一个好的祖辈"
+      ],
+      "special_situations": [
+        {
+          "event": "与孙辈相处时，对方表现得冷淡或没有明显回应",
+          "conditional_assumptions": "如果对方没有立即回馈亲近，就说明我不重要、不被关心",
+          "compensatory_strategies": "通过送礼物、增加相处时间、更加主动来试图换取亲近",
+          "automatic_thoughts": "他们不在乎我/我对TA来说是隐形的",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "多次努力后仍未看到关系的明显改善",
+          "conditional_assumptions": "如果几次尝试都没有效果，就意味着以后也不会改变",
+          "compensatory_strategies": "继续加倍付出或陷入无力感而减少尝试",
+          "automatic_thoughts": "不管我做什么，结果总是一样——拒绝",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在独处时回想与孙辈互动的细节",
+          "conditional_assumptions": "如果我不够好或没有做对，就说明是我的错",
+          "compensatory_strategies": "持续自我反思并自责，试图找到自己做错的地方以改进",
+          "automatic_thoughts": "我一定做错了什么，也许我不是一个好祖辈",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "偶尔出现的亲近或兴趣的瞬间",
+          "conditional_assumptions": "积极互动不是真心，只是因为我给了礼物",
+          "compensatory_strategies": "否定正面证据，继续以物质方式维系关系",
+          "automatic_thoughts": "这些亲近不是真的，只是因为礼物",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被孙辈看见与珍视，获得真实的亲近与依恋",
+        "fear": "害怕被拒绝与忽视，被视为不重要或不值得被爱",
+        "defense_goal": [
+          "通过持续付出（送礼、主动接触）来避免被拒绝并维持关系感",
+          "回避与家人讨论以避免被评判或被认为‘太敏感’"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视且不重要的祖辈",
+          "object_representation": "冷漠、对自己不关心的孙辈",
+          "linking_affect": "悲伤、被拒绝感、挫败与无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问或强调与孙辈的正面互动片段时",
+          "interpretation": "将正面互动解读为“不真诚/只是因为礼物”，以避免承认自己被关心的可能性",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "轻描淡写积极时刻，强调礼物的作用，以不确定和怀疑的语气否认正面意义。"
+        },
+        {
+          "trigger_condition": "当谈到关系无法立刻改善或讨论责任归属时",
+          "interpretation": "把问题完全归咎于自身，认为“都是我做错了”",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "反复使用自责语句，语气沮丧，降低自我价值，并减少与家人沟通。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在与孙辈互动中感到被忽视与“隐形”",
+            "认为自己对孙辈不重要",
+            "担心家人不理解或认为自己“太敏感”，因此难以倾诉"
+          ],
+          "outcomes": [
+            "情绪低落与无助感",
+            "对家庭互动的压力与回避",
+            "日常活动与心情受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "强调“必须建立牢固的纽带”，为此承受巨大压力",
+            "用礼物与时间去满足内在的“应该亲密”的要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我做错了”“我不是好祖辈”",
+            "担心他人评价，因而难以与家人讨论真实感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为家人可能会觉得自己“过度反应/太敏感”，从而避免表达与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试并配合咨询（愿意开始从一个最近经历入手）",
+          "持续主动联系孙辈并投入时间与资源（送礼、陪伴）",
+          "具备家庭支持系统（有家人可交流）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术、预测未来、心理过滤、否定积极等思维模式显著",
+          "自我否定与自责倾向强",
+          "担心被评判而回避与家人沟通，导致支持不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与孙辈互动后出现强烈的被拒绝感与自我否定思维",
+          "antecedent": [
+            "与孙辈相处时对方显得冷淡或没有回应",
+            "在独处时回想互动细节并自我怀疑"
+          ],
+          "core_reason": "将自我价值过度依附于对方的即时反应，负性核心信念（“我不重要/我不是好祖辈”）被激活",
+          "function": "逃避被拒绝的痛苦，并通过自责获得一种控制感与自我改进的动机",
+          "consequence": "情绪低落与无助感增加，家庭关系紧张，日常活动受影响"
+        },
+        {
+          "behavior": "回避与家人讨论自己的被拒绝与失落感",
+          "antecedent": [
+            "担心被家人认为“过度反应/太敏感”",
+            "想到要表达感受或寻求支持时"
+          ],
+          "core_reason": "害怕被评判与否定，倾向将问题内化为自己的错",
+          "function": "避免潜在的尴尬与批评，维持表面和谐",
+          "consequence": "缺乏社会支持与反馈，问题得不到修正，孤独感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1766
+}

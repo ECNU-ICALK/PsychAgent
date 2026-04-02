@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈铭",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "母亲为癌症幸存者；有少数朋友可倾诉，但对分享自己的无能感与自我怀疑感到困难",
+      "social_status": "与朋友的互动因一次被嘲笑“披萨烤糊”事件受到影响，自我怀疑延伸到人际连接能力",
+      "medical_history": "无显著躯体疾病史；未接受过既往心理治疗",
+      "language_features": "表达清晰、合作度较高；语气中性、略显紧张；能够描述主观体验且伴有自我批评倾向"
+    },
+    "main_problem": "我想讨论的是我的无能感和自我怀疑，这些感受是在朋友批评我的烹饪时被触发的，并逐步扩散到生活的其他方面。",
+    "topic": "自我探索",
+    "core_demands": "这次朋友的评论让我意识到自我怀疑和无能感正在影响我的自尊与总体福祉，因此我希望通过咨询加以应对与改变。",
+    "growth_experiences": [
+      "母亲曾罹患癌症并成功康复，这一家庭重大事件构成来访者的背景信息。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我做什么都做不好"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友评论我做的披萨烤糊并嘲笑我",
+          "conditional_assumptions": "如果一次被批评或犯错，就说明我不擅长这件事、我不行",
+          "compensatory_strategies": "加倍练习烹饪、严格遵循食谱和使用计时器；寻求他人认可来证明自己",
+          "automatic_thoughts": "我永远学不会把披萨做好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在面对挑战或收到他人任何形式的批评时",
+          "conditional_assumptions": "如果不能一次就做对或被指出错误，说明我整体能力不足、就是失败者",
+          "compensatory_strategies": "减少与朋友分享真实感受；通过寻求外部赞许来缓解不安",
+          "automatic_thoughts": "我不擅长任何事情",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与朋友互动后开始怀疑自己的人际技巧和与人连接的能力",
+          "conditional_assumptions": "如果别人因为我的错误嘲笑我，说明我在人际上也不行",
+          "compensatory_strategies": "回避表达无能感与自我怀疑，保持情感收敛以避免再次被评价",
+          "automatic_thoughts": "我不善于与人建立联系",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "练习烹饪时出现一点小错误",
+          "conditional_assumptions": "任何小失误都能证明我做不好、总体不行",
+          "compensatory_strategies": "不断加练、严格按步骤操作，试图以完美表现抵消不安",
+          "automatic_thoughts": "这点小错就说明我不行",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、希望自己的表现被正面看见",
+        "fear": "害怕被批评与嘲笑，担心被全盘否定与羞辱",
+        "defense_goal": [
+          "通过内化他人评价并提高标准来避免再次被否定；保持收敛与自我监控以维持自尊的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被责难的失败者",
+          "object_representation": "挑剔的评判者/嘲笑者",
+          "linking_affect": "羞耻、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人指出错误、谈及“烹饪失败”或提出批评时",
+          "interpretation": "将他人的单次评论理解为对自己整体价值与能力的全盘否定（移情：把外部评价当作决定性真相）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "语气温和而稳健，先共情其羞耻与不安，再邀请区分“具体行为反馈”与“整体自我价值”，使用具体化提问帮助其看到情境与证据的边界。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因被嘲笑披萨烤糊而自我怀疑，开始质疑自己的人际连接能力",
+            "难以向朋友分享无能感与自我怀疑"
+          ],
+          "outcomes": [
+            "社交退缩倾向",
+            "自尊受损",
+            "面对挑战时焦虑与自我否定增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（“我不擅长任何事情”）",
+            "担心失败导致更糟的感受，对行动保持谨慎",
+            "在他人批评后过度关注自身不足"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将朋友的单次嘲笑内化为对自身能力的全面判断",
+            "把外界的批评当作衡量个人价值的硬性标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试不同方法并保持开放心态（愿意进行行为实验）",
+          "具备一定的反思能力，能观察并描述自己的自动化思维",
+          "拥有少数可联系的朋友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "过度自我批评与自我怀疑",
+          "过度概括与非黑即白思维模式",
+          "倾向寻求外部验证来确认自我价值",
+          "将批评个人化，易将单一事件推及整体能力",
+          "难以向他人分享脆弱感受，导致支持无法充分进入"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对挑战或收到批评时出现强烈的自我否定与退缩（认知与情绪反应伴随）",
+          "antecedent": [
+            "尝试新的任务或技能（如烹饪）",
+            "他人指出错误或给予负面反馈",
+            "练习过程中出现小失误"
+          ],
+          "core_reason": "将他人批评内化为对整体能力的评判，形成‘我不行’的核心信念；伴随过度概括与非黑即白的认知方式。",
+          "function": "逃避失败与羞耻感、通过谨慎与寻求外部认可来暂时缓解不安",
+          "consequence": "自尊受损、行动胆怯、日常生活信心下降；对人际连接产生怀疑，学习与技能提升受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1376
+}

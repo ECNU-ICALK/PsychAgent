@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林莎",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可交谈，但难以就孤独与疏离感敞开，友谊关系紧张、感觉与朋友疏离",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "语气中性偏平稳，表达清晰、配合度较好；能主动描述被忽视与孤独感，动机感下降"
+    },
+    "main_problem": "我觉得朋友们认为我的生活方式很无聊，这导致我感到孤独和被孤立。",
+    "topic": "人际关系",
+    "core_demands": "我想感到被接纳和被重视，能与朋友自然相处而不觉得是在强迫他们与我一起。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不重要",
+        "我不有趣（我的生活方式很无聊）"
+      ],
+      "special_situations": [
+        {
+          "event": "看到朋友在没有邀请自己的情况下一起聚会或外出",
+          "conditional_assumptions": "如果我不参与他们喜欢的活动，他们就会觉得我无聊，不会愿意和我在一起",
+          "compensatory_strategies": "更频繁主动联系朋友、提出更贴近自己生活方式的低强度活动以求被接纳",
+          "automatic_thoughts": "他们觉得我无聊、不想和我在一起",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友没有及时回复自己的消息",
+          "conditional_assumptions": "如果别人不及时回应，说明我对他们不重要",
+          "compensatory_strategies": "增加消息频率、主动建议活动以确认关系",
+          "automatic_thoughts": "他们在疏远我，我不重要",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "注意到朋友更频繁地组织以派对/外出为主的活动而自己不参与",
+          "conditional_assumptions": "如果我不参与他们偏好的活动，就证明我是无趣的人",
+          "compensatory_strategies": "尝试提出不同类型、较为低调的活动希望对方接受",
+          "automatic_thoughts": "他们总是把我排除在外，因为我太无聊",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "尝试更多联系与提出不同活动后仍未见改善",
+          "conditional_assumptions": "如果我尝试了也没变化，那关系就不会好转",
+          "compensatory_strategies": "降低参与度与动力、减少原本喜欢活动的投入",
+          "automatic_thoughts": "看来以后也不会有什么改变",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳、重视与自然地相处",
+        "fear": "害怕被拒绝与排斥、害怕自己不重要/不被需要",
+        "defense_goal": [
+          "通过谨慎地自我表达、寻求迎合或降低期待来减轻被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、不被需要的旁观者",
+          "object_representation": "疏离、对自己不感兴趣的朋友群体",
+          "linking_affect": "孤独、伤心、被冷落感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出尝试新的小步骤或策略时",
+          "interpretation": "倾向认为“我已经试过所有方法也无效”，对进一步尝试持消极预期",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平和但带无力感，重复“我都试过了”“好像没有用”等表述，弱化对新方案的开放度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "朋友经常在没有邀请自己的情况下聚会",
+            "难以向朋友敞开谈论孤独与被孤立的感受"
+          ],
+          "outcomes": [
+            "持续的孤独与隔离感",
+            "人际连接感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对原本喜欢的活动（健身、阅读、下厨）失去动力",
+            "出现“如果总是孤独，这些活动有什么意义”的念头"
+          ],
+          "outcomes": [
+            "动机显著下降",
+            "生活活力与满足感减退"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将朋友的疏远直接解释为“他们觉得我无聊”“不想和我在一起”",
+            "在缺乏证据时推测他人对自己的负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度自我归因为“不参与他们的活动导致疏远”",
+            "难以就真实感受（孤独、被忽视）向朋友敞开"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试小步骤与行为实验以验证认知",
+          "能够主动联系朋友并提出活动建议",
+          "具备一定的社交资源（仍有朋友可交谈）"
+        ],
+        "negative_force": [
+          "思维模式偏向读心、过度概括与个人化",
+          "难以向朋友表达孤独与需求，倾向沉默与自我否定",
+          "动机下降，减少参与原本喜欢的活动，进一步弱化联结"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在人际拒绝线索下出现强烈被忽视感并降低社交与日常活动参与（孤独感与无动力）",
+          "antecedent": [
+            "看到朋友聚会未邀请自己",
+            "朋友未及时回复消息",
+            "朋友显得疏远、不感兴趣"
+          ],
+          "core_reason": "将他人行为解读为对自己的否定（读心、过度概括、个人化），并以“我很无聊/不重要”的核心信念维持",
+          "function": "避免进一步被拒绝以保护自尊（情绪逃避），同时试图通过迎合或更频繁联系获得确认",
+          "consequence": "社交连接进一步减少、孤独加重；对健身、阅读、烹饪等活动的动力显著下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1163
+}

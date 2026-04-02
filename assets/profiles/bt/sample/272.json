@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35岁",
+      "name": "方杰",
+      "gender": "男",
+      "occupation": "网站开发工程师",
+      "educational_background": "自学网站开发",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与朋友关系受到影响，因不断寻求对工作成果的认可而紧张；有少数支持性的朋友，但难以向他们敞开心扉",
+      "medical_history": "无重大躯体疾病；过去未接受过心理治疗；在项目未达预期时反复出现失败感与不够好的感受",
+      "language_features": "表达清晰、合作度高（愿意尝试现实检验与感恩练习）、能进行自我观察；语速未提及"
+    },
+    "main_problem": "我正为失败感和不够好的感觉而挣扎，尽管我做出过一些成功的网站。这些感受在过去几年一直存在。最新的网站项目表现不如预期，加剧了我的怀疑与压力，使我不停质疑自己的能力。我在开始新项目或看到同领域他人成功时都会体验这些负面感受，常常沉溺于未成功的网站并感觉自己在职业上是失败者。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些持续的失败感正在影响我的动力并妨碍我有效地开展新项目。",
+    "growth_experiences": [
+      "过去几年里，只要项目未达到预期，就会反复出现失败感与不够好的感受；其应对方式通常是立刻开启新的项目，希望通过下一次成功来改变感受，但这一循环反复出现。",
+      "通过自学进入网站开发行业，职业技能与经验主要来自个人实践与项目积累。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者/不够胜任",
+        "我的成功只是侥幸，失败才反映真实能力",
+        "如果项目不持续成功，就证明我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "最新的网站项目未达到预期表现",
+          "conditional_assumptions": "如果项目不如预期，就证明我能力不足、职业上是失败者",
+          "compensatory_strategies": "立即启动新的项目，企图通过下一次成功来证明自己；同时推迟当前工作以避免再次失败",
+          "automatic_thoughts": "我不适合做这行；我就是失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "开始着手新的项目",
+          "conditional_assumptions": "如果不能确保新项目成功，我就会再次被证明不够好",
+          "compensatory_strategies": "拖延任务、反复自我怀疑，以求避免做错；在动手前不断寻找外部赞同",
+          "automatic_thoughts": "这次也会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到同行或他人在同领域取得成功",
+          "conditional_assumptions": "他人成功意味着我落后、我不如人",
+          "compensatory_strategies": "持续向朋友寻求对作品的认可；将注意力集中在自己的不足上",
+          "automatic_thoughts": "他们都比我强，我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回顾自己的项目表现时，只关注未成功的案例",
+          "conditional_assumptions": "只有全面且持续的成功才算合格，任何失败都会抵消所有成绩",
+          "compensatory_strategies": "忽略正面反馈与成功经验，把注意力集中在错误与问题上",
+          "automatic_thoughts": "我的成功都是侥幸，真正的我就是不行",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被肯定自己的专业价值",
+        "fear": "害怕暴露不足、被否定或被视为不胜任",
+        "defense_goal": [
+          "通过自我批评与把失败归因于自身来保持对评价的控制",
+          "保持谨慎与疏离（拖延、不轻易展示）以降低被批评的风险",
+          "通过寻求外部验证来暂时缓解不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够格、容易失败的从业者",
+          "object_representation": "挑剔的评判者（他人或市场会以失败定义我）",
+          "linking_affect": "羞耻、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问项目失败的原因，或面对他人/数据对项目的负面反馈时",
+          "interpretation": "倾向把负面结果完全看作自己的问题，认为他人会据此否定自己（移情：将他人体验为严苛的评判者）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和、共情的语气回应其自责，先承认其情绪与需要，再邀请其进行证据检视与现实测试；避免评判，使用开放式提问与具体化引导。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无兄弟姐妹",
+            "难以向朋友敞开心扉谈论失败感"
+          ],
+          "outcomes": [
+            "寻求外部验证但关系紧张",
+            "焦虑与睡眠紊乱加剧"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值高度系于项目成败，成功被视为侥幸、失败被视为真实",
+            "在回顾工作时忽略积极面与成长"
+          ],
+          "outcomes": [
+            "职业自我怀疑与动机下降",
+            "拖延与工作延迟"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "自述“我应该做得更好”“我错过了明显的问题”",
+            "将成败等同于个人价值，形成僵化的成功标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "把失败完全归因于自身，持续自我怀疑",
+            "在新项目中因担心失败而拖延、难以投入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾开发出多款受欢迎的网站（客观上存在成功经验与正向反馈）",
+          "愿意积极参与咨询，态度正向，愿意尝试现实检验与感恩练习",
+          "能够识别失败中的学习与技能提升的价值",
+          "有少数支持性的朋友可提供支持"
+        ],
+        "negative_force": [
+          "心理过滤与否定正面，过度关注失败案例",
+          "自我怀疑与把失败全盘归因于自身",
+          "过度寻求外部验证，导致人际关系紧张",
+          "焦虑导致睡眠紊乱，影响工作动机与效率",
+          "在新项目中拖延，避免面对可能失败的风险"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在新项目中拖延并难以投入",
+          "antecedent": [
+            "开始或准备启动新的网站项目",
+            "在最新项目表现不佳后继续工作"
+          ],
+          "core_reason": "对失败的灾难化预期与认知偏差（心理过滤、否定正面）引发能力怀疑与焦虑",
+          "function": "逃避可能的失败与外界评价，暂时缓解焦虑",
+          "consequence": "项目进度延迟、职业自我效能感下降"
+        },
+        {
+          "behavior": "过度寻求外部验证",
+          "antecedent": [
+            "项目成果不如预期时",
+            "看到同行取得成功时"
+          ],
+          "core_reason": "内在价值感不稳，需要他人认可来确认能力与价值",
+          "function": "通过他人赞许缓解不安与自我怀疑",
+          "consequence": "与朋友关系紧张，情绪易随他人反馈波动"
+        },
+        {
+          "behavior": "睡眠受焦虑影响（入睡困难、思虑过多）",
+          "antecedent": [
+            "夜晚回想项目中的问题",
+            "担心新项目的结果"
+          ],
+          "core_reason": "对失败的过度关注与自我责备引发持续焦虑",
+          "function": "属于焦虑的生理表现，非工具性功能行为",
+          "consequence": "睡眠模式被打乱，次日精力不足，进一步影响工作动机与效率"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 272
+}

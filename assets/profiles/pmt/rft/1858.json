@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "王大为",
+      "gender": "男",
+      "occupation": "通勤上班族",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有几位亲密朋友，但尚未与他们讨论自己的羞耻与自我怀疑；因负面自我认知，友谊关系出现一定紧张。",
+      "medical_history": "无重大躯体疾病史；此前未曾因心理问题就诊或接受心理咨询。",
+      "language_features": "逻辑清晰、能具体描述经历；首次求助略显焦虑但配合度高；自我批评明显，常使用“应该”句式与负性标签。"
+    },
+    "main_problem": "我因为不会做饭而认为自己是个没用的人，这导致了自我怀疑和不足感。",
+    "topic": "自我探索",
+    "core_demands": "意识到这些想法正在影响我的自尊和整体幸福感，因此寻求心理咨询。",
+    "growth_experiences": [
+      "搬出去独居后，因为不会做饭而长期依赖外卖；最初压力中等，随后因反复尝试做饭失败与看到他人轻松做饭而羞耻与自我怀疑逐渐加重，每次做饭常以“失败”告终。",
+      "长期通勤与交通压力影响工作表现与精力负荷；因负面自我认知，友谊关系出现紧张，但未向朋友表达或寻求支持。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个没用的人"
+      ],
+      "special_situations": [
+        {
+          "event": "每次尝试做饭通常以失败告终",
+          "conditional_assumptions": "如果连基本的做饭都不会，就说明我是没用的。",
+          "compensatory_strategies": "观看在线教程、严格按照食谱尝试以证明自己可以做到。",
+          "automatic_thoughts": "我做不好，说明我就是没用。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到他人轻松地准备并完成一顿饭",
+          "conditional_assumptions": "如果别人轻松做到而我做不到，就说明我不如他们、我很差。",
+          "compensatory_strategies": "加倍学习：观看在线教程、尝试跟随食谱。",
+          "automatic_thoughts": "我不如他们，我很丢人。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "独居后需要自己做饭而不得不依赖外卖",
+          "conditional_assumptions": "独立生活就应该能自理做饭；如果做不到，就是不合格的成年人。",
+          "compensatory_strategies": "更多依赖外卖来避免再度失败与羞耻。",
+          "automatic_thoughts": "我不适合独立生活。",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "通勤与交通压力导致工作表现受影响",
+          "conditional_assumptions": "如果工作表现受影响，说明我整体能力差、我这个人不行。",
+          "compensatory_strategies": "将注意力集中在自身不足的标签上以试图自我约束。",
+          "automatic_thoughts": "我连工作都做不好，我就是没用。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、值得尊重的人，能够胜任独立生活（包括做饭等自理能力）。",
+        "fear": "害怕被自己或他人评判为“没用”，体验强烈羞耻并被拒绝或看轻。",
+        "defense_goal": [
+          "通过自我贴负面标签与自我批评先发制人，以降低被他人评判的风险",
+          "保持不求助与不暴露弱点来维持脆弱的自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻的、无能的独居者",
+          "object_representation": "他人（会做饭者）是轻松胜任且可能评判我的人",
+          "linking_affect": "羞耻、自卑、焦虑"
+        },
+        {
+          "self_representation": "尴尬的求助者",
+          "object_representation": "朋友是支持者，但可能会看轻不会做饭的我",
+          "linking_affect": "尴尬、担忧、渴望被理解"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议与朋友谈及感受、寻求支持时",
+          "interpretation": "来访者担心朋友会认为自己连基本技能都不会，从而看不起自己（将自我评判投射到他人）。",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹豫，使用模糊表述（如“他们可能会觉得……”），避免承诺立即与朋友沟通，轻度回避细节。"
+        },
+        {
+          "trigger_condition": "当被邀请回顾烹饪失败或设定具体练习目标时",
+          "interpretation": "将一次失败等同于整体无能，用自我贬低的方式巩固负性自我表象。",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我否定语句回应（如“这说明我就是没用”），语气低落，忽视或贬低积极证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬出去独居后需独自面对日常自理（做饭）却屡屡失败",
+            "未向朋友表达真实感受与羞耻"
+          ],
+          "outcomes": [
+            "羞耻与自我怀疑加重",
+            "与朋友关系紧张、回避求助"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "独立生活带来的责任（做饭与自理）被视为必须掌握的基本能力",
+            "在承担生活责任时体验压力与焦虑"
+          ],
+          "outcomes": [
+            "焦虑与压力上升",
+            "自我评价下降、以负性标签定义自我"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "“做饭是基本技能，我应该已经会了”",
+            "以外界标准（会不会做饭）来界定自我价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "明知朋友支持却不去表达或寻求帮助",
+            "把寻求支持的冲动压回去，选择独自承受羞耻与自卑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我批评并使用“没用的人”标签",
+            "在谈及求助时过度担心被看轻、谨慎表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "假设他人会看不起自己，因为不会做饭",
+            "担心朋友会因此评判自己而避免分享"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在工作领域具备一定能力与成功经验",
+          "拥有支持性的亲密朋友网络",
+          "愿意学习（观看在线教程），对咨询保持积极态度",
+          "愿意尝试自我慈悲与认知重构练习"
+        ],
+        "negative_force": [
+          "以全或无的方式给自己贴标签（“不会做饭=没用的人”）",
+          "“应该”规则与外部比较强化羞耻",
+          "羞耻与尴尬阻碍求助与练习",
+          "通勤与交通压力增加整体负荷、降低精力与耐心"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在尝试做饭时出现强烈自我贬低并迅速放弃练习，转而依赖外卖",
+          "antecedent": [
+            "独居时需要做饭或准备一餐",
+            "看到他人轻松做饭的场景"
+          ],
+          "core_reason": "将不会做饭与自我价值直接等同，形成灾难化与全或无的自我评价（“不会做饭=没用的人”）。",
+          "function": "逃避失败与羞耻感，短期缓解焦虑并维持表面自尊的安全感。",
+          "consequence": "长期依赖不健康饮食与外卖，强化自我怀疑与羞耻，进一步影响人际关系与工作状态。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1858
+}

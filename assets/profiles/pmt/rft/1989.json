@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "69",
+      "name": "林佩琳",
+      "gender": "女",
+      "occupation": "全职家庭照护者",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有一名踢橄榄球的儿子",
+      "social_status": "未提及",
+      "medical_history": "否认重大躯体疾病；此前未出现类似心理问题；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑性良好、配合度较好；态度中性；能具体描述困扰与尝试的策略"
+    },
+    "main_problem": "我常感到不堪与压力，因为我相信自己永远找不到时间追求个人兴趣（如阅读推理小说），原因是要不断接送儿子参加橄榄球的训练、对抗和比赛。",
+    "topic": "情绪管理",
+    "core_demands": "希望找到更健康的应对方式来缓解压力与不堪，并在儿子繁忙的足球日程下为自己争取阅读时间。",
+    "growth_experiences": [
+      "自从儿子开始踢橄榄球后，压力逐步上升：最初为中等强度，随着其日程需求增加而加重；每周在活动安排密集时尤为明显。她频繁承担接送任务，感觉被家庭责任占据，难以为自己留出时间。压力影响睡眠与整体情绪，偶尔对儿子发脾气使关系一度紧张。尽管丈夫支持，她却难以与丈夫讨论这些不堪与压力，担心给他增加负担。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法掌控自己的时间与生活",
+        "我的需求不重要，应当以家人的需要为先"
+      ],
+      "special_situations": [
+        {
+          "event": "儿子一周内训练、对抗和比赛安排密集，需要频繁接送",
+          "conditional_assumptions": "如果不能为自己安排整块、连续的时间，就等于没有时间，无法追求兴趣",
+          "compensatory_strategies": "优先满足儿子的行程，持续承担接送任务；尝试时间管理和任务优先级以维持运转",
+          "automatic_thoughts": "我永远没有自己的时间，我大概根本读不了这本新书",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "原本计划阅读，但临时出现新的接送需求或忘记的练习安排，打乱计划",
+          "conditional_assumptions": "一旦有突发事件出现，所有自我计划都会失败，说明我无法为自己争取任何时间",
+          "compensatory_strategies": "放弃与丈夫沟通或寻求分担，独自承担所有接送职责；减少自我活动以避免计划受挫",
+          "automatic_thoughts": "总会有事情发生，计划没有意义",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "深夜偶尔腾出几分钟空闲但因疲惫无法享受阅读",
+          "conditional_assumptions": "只有在充足、连续且高质量的时间里阅读才算有效，零碎的时间不值得",
+          "compensatory_strategies": "否定短暂可利用的时间，避免零碎阅读尝试",
+          "automatic_thoughts": "几分钟也没用，这不算真正属于我的时间",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到与丈夫谈及自己的不堪与压力时",
+          "conditional_assumptions": "表达个人需求会给丈夫增加负担，“好妻子”应当自己扛",
+          "compensatory_strategies": "压抑需求、不寻求帮助，保持沉默以避免麻烦他",
+          "automatic_thoughts": "我不该麻烦他，他也很忙",
+          "cognitive_pattern": "Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有被理解与支持的个人空间与时间，能自由追求兴趣（阅读）",
+        "fear": "害怕表达需求会给家人（尤其丈夫）增加负担、被评价自私或引发关系紧张；也担心家庭运转受影响",
+        "defense_goal": [
+          "通过压抑自我需求、独自承担照料与接送任务来维持家庭和谐与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被家庭责任压得喘不过气的照料者/母亲",
+          "object_representation": "高需求、占用时间的被照料者（儿子）",
+          "linking_affect": "压力、疲惫、内疚"
+        },
+        {
+          "self_representation": "不应麻烦他人的伴侣",
+          "object_representation": "忙碌但支持的丈夫，可能被自己需求所负担",
+          "linking_affect": "顾虑、克制、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论是否向丈夫表达自己的压力与需求时",
+          "interpretation": "来访者潜意识将表达需求等同于给丈夫增加负担，担心被视为自私而被拒绝（移情）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用委婉、克制的语气，强调丈夫很忙、自己应该忍耐，避免直接提出具体请求或分担方案"
+        },
+        {
+          "trigger_condition": "当咨询师提出‘在儿子练习期间预留10分钟阅读’的行为实验时",
+          "interpretation": "将潜在的突发状况视为必然发生，强化对失败的预期，从而保持距离以避免失望（移情）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以冷静、务实的语气提出假设性障碍（例如‘难免会被打断’），用大量理由来淡化尝试的意义，同时避免触及自身的情绪需要"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "作为全职家庭照护者，个人时间被家庭责任占据，难以自主安排阅读",
+            "每逢儿子活动密集时感到被日程‘吞没’"
+          ],
+          "outcomes": [
+            "持续性压力与不堪",
+            "睡眠紊乱与情绪低落",
+            "与儿子关系一度紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与丈夫讨论自己的不堪与压力，担心成为他的负担",
+            "在家庭中对个人需要保持沉默"
+          ],
+          "outcomes": [
+            "情感疏离感加重",
+            "压力累积"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "认为“好妻子应该自己扛”，不应为自己争取时间",
+            "自我要求不去麻烦丈夫"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向丈夫求助，把表达需求的冲动压回自身",
+            "独自承担接送任务与照料，牺牲个人时间"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在讨论可行方案时以“难免会有意外”转移焦点，回避落实具体安排",
+            "以怀疑语气强调不确定性，减少正面探索"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "认为“我不该麻烦他”，过度克制表达自我需要",
+            "担心给他人增加负担而自我限制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "丈夫具备支持态度（虽未充分沟通）",
+          "愿意尝试行为实验并接受“从小做起”的策略",
+          "能识别潜在的时间窗口（清晨、儿子练习期间）",
+          "对家庭责任高度投入，行动力强（持续完成接送与协调）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括思维（“总会有事发生、计划没有意义”）",
+          "否定积极线索与非黑即白标准（将零碎时间视为“没用”）",
+          "回避表达需求、难以寻求支持（与丈夫沟通受阻）",
+          "睡眠紊乱与情绪低落导致精力不足、耐心下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在儿子足球活动密集时出现的高强度压力与易怒（情绪化反应）",
+          "antecedent": [
+            "每周儿子训练、对抗和比赛安排密集时",
+            "临时增加的接送任务或忘记的活动安排"
+          ],
+          "core_reason": "对失去个人时间的灾难化与过度概括认知（相信“永远没有时间”）",
+          "function": "逃避与表达自我需求相关的内疚和潜在家庭冲突，维持家庭运转",
+          "consequence": "睡眠紊乱、情绪低落、与儿子关系紧张，整体幸福感下降"
+        },
+        {
+          "behavior": "回避向丈夫表达需求与寻求分担（沟通回避）",
+          "antecedent": [
+            "想到与丈夫讨论自己的不堪与压力时",
+            "需要为自己争取时间的情境出现时"
+          ],
+          "core_reason": "担心给丈夫增加负担、被评为自私或引发冲突",
+          "function": "避免可能的负面评价与关系紧张，维持表面和谐",
+          "consequence": "独自承担全部接送与照料任务，个人时间进一步被压缩，压力加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1989
+}

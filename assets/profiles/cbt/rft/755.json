@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "林安",
+      "gender": "男",
+      "occupation": "舞者",
+      "educational_background": "舞蹈学院毕业",
+      "marital_status": "单身",
+      "family_status": "独自居住",
+      "social_status": "与同伴关系一度紧张；舞蹈圈有少数好友可谈专业挑战，但难以吐露自卑与不够好的感受",
+      "medical_history": "此前未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑性较好；配合度高但略显紧张；能觉察并描述自身思维模式（如“应该完美”“我很无用”），倾向自我苛责与绝对化表述"
+    },
+    "main_problem": "在舞蹈中出现错误或无法把一支舞做到完美时，会强烈感到自卑和无用，陷入自我批评的循环。",
+    "topic": "情绪管理",
+    "core_demands": "“我想在事情出错时不再总是感到如此挫败。”",
+    "growth_experiences": [
+      "青少年时期开始形成强烈的完美主义倾向与对失败的恐惧，一旦在舞蹈中出现错误，便将其视为能力不足的证明，逐渐影响自尊与情绪。",
+      "最近一次大型舞蹈比赛中因一个动作失误打乱了整段表演，赛后强烈的“无用感”和自责加剧，自尊受挫，并因此意识到对心理健康与表演的负面影响而寻求咨询。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "大型舞蹈比赛中因一个动作失误导致后续发挥失常",
+          "conditional_assumptions": "如果我不是百分之百完美，就证明我不配做舞者、我是失败者",
+          "compensatory_strategies": "赛后加强自我苛责与加倍训练，以更高标准逼迫自己避免再次出错；回避表达脆弱以维持“必须完美”的形象",
+          "automatic_thoughts": "我不该犯错；真正的舞者不会这样；我不配站在这里",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "排练中出现小失误或学习新动作时不顺利",
+          "conditional_assumptions": "如果我现在犯错，说明我以后也永远学不会",
+          "compensatory_strategies": "反复练习、延长训练时间，用自我批评来“激励”自己避免失败",
+          "automatic_thoughts": "我永远也做不好，这在浪费时间",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "赛后/排练后回顾表现并接收反馈",
+          "conditional_assumptions": "只有零失误才值得肯定，其他任何优点都不算数",
+          "compensatory_strategies": "只关注错误细节，忽略表现中的亮点与努力；对积极反馈持否定态度",
+          "automatic_thoughts": "那些做得好的部分不重要，真正重要的是我犯了错",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到评委、同伴和观众对表演的看法",
+          "conditional_assumptions": "如果我犯错，就会让所有人失望，证明我不该在这里",
+          "compensatory_strategies": "回避向朋友袒露不够好的感受，独自承受压力以避免被评判",
+          "automatic_thoughts": "我让大家失望了",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过完美表现获得认可与价值感",
+        "fear": "害怕失败后被否定、被羞辱或被排斥",
+        "defense_goal": [
+          "以严格自我批评与高标准来控制与避免失败",
+          "回避表达脆弱以防止被他人看见不完美"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、随时可能失败的自我",
+          "object_representation": "苛刻的评判者/容易失望的他人",
+          "linking_affect": "羞耻与焦虑"
+        },
+        {
+          "self_representation": "会让别人失望的人",
+          "object_representation": "被我辜负的队友与观众",
+          "linking_affect": "内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被提及“犯错是学习的一部分”或被邀请关注积极面与进步时",
+          "interpretation": "将非完美理解为“失败”的证据，担心放松标准会被他人看作不专业",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气克制而自责，强调自身不足与责任，弱化外部情境因素，对积极反馈表示怀疑或否定。"
+        },
+        {
+          "trigger_condition": "在评价、比赛或与权威（评委/教练）接触时面对高标准要求",
+          "interpretation": "将外界标准无条件内化为唯一正确标准，必须以完美满足之",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”的绝对化语言，强调规则与标准；语气严肃，减少情感表达，突出技术细节与规范。"
+        },
+        {
+          "trigger_condition": "赛后或排练复盘时被邀请谈感受而不仅是技术问题",
+          "interpretation": "情绪被视为会干扰表现的因素，认为理性分析与纠错更“安全”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气冷静，围绕技术和改进策略展开，淡化羞耻与失落的主观感受，使用客观术语替代情绪词汇。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独自居住，情感层面难以向朋友敞开不够好的感受",
+            "自我苛责导致与同伴关系紧张，体验到关系疏离"
+          ],
+          "outcomes": [
+            "自尊受损与挫败感加重",
+            "睡眠与自我照料受影响",
+            "在压力下更倾向独自承受与回避求助"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须完美”的内在规则评判自我",
+            "将外界高标准不加批判地视为唯一衡量自身价值的准则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在出错后过度自责与自我标签（“我是无用的”）",
+            "难以接收积极反馈，过度在意可能的负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在舞蹈圈有少数可信赖的朋友，具备一定社会支持",
+          "愿意尝试新的认知视角与练习（如感恩记录、重构思维）",
+          "能自我观察并识别负性自动思维模式",
+          "具备坚持训练与自我反思的习惯，有行动力"
+        ],
+        "negative_force": [
+          "完美主义与对失败的强烈恐惧，价值过度依附于表现结果",
+          "灾难化与非黑即白思维，加剧自我否定",
+          "否定积极与心理过滤，难以看到进步与优势",
+          "自我标签化与个体化归因，易体验羞耻与内疚",
+          "难以表达脆弱与求助，关系疏离感增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "严苛的自我批评与负性自我标签（如“我很无用”）",
+          "antecedent": [
+            "在跳舞时出现错误或未达到完美标准",
+            "比赛或评估情境下的高压力要求",
+            "排练中学习新动作不顺利"
+          ],
+          "core_reason": "完美主义与对失败的恐惧，将自我价值与零失误的表现绑定，形成“非黑即白”的价值条件",
+          "function": "通过自责与高压力自控来避免再次失败并获得控制感",
+          "consequence": "自尊下降、人际关系紧张、睡眠与自我照料受损，表演质量与出勤受影响"
+        },
+        {
+          "behavior": "心理过滤与否定积极（只关注错误，贬低进步与优点）",
+          "antecedent": [
+            "赛后/排练后复盘表现",
+            "接收他人的肯定性反馈时"
+          ],
+          "core_reason": "消极核心信念“我不够好”维持注意偏向与证据选择偏差",
+          "function": "维持自我一致的负性图式，避免面对脆弱与不确定感",
+          "consequence": "持续挫败与焦虑，动机受损，纠错效率下降，恶化负性情绪循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 755
+}

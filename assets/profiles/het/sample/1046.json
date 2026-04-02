@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "韩娜",
+      "gender": "女性",
+      "occupation": "运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与兄弟姐妹同住",
+      "social_status": "有一群热爱骑行的朋友，但因自我不足感而与其互动受影响",
+      "medical_history": "无显著身体疾病；既往无心理咨询或治疗史",
+      "language_features": "表达清晰、条理性好，能觉察并描述自动化思维，情绪略紧张但态度积极、合作度高"
+    },
+    "main_problem": "在一次骑行中遭遇爆胎且当时无法自行修理后，开始认为自己是个“糟糕的骑手”，由此产生无能感与失败感，避免骑行并反复自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "因爆胎事件及其引发的负面自动化思维影响了整体情绪与自信，故寻求咨询以改善这种状态。",
+    "growth_experiences": [
+      "几周前一次骑行遭遇爆胎，因无法当场自行修复而感到挫败与无助。事件之后，韩娜反复出现“我是个糟糕的骑手”的想法，开始回避骑行，尝试过修车与短距离骑行，但负面感受仍持续。此事影响到其运动员工作中的骑行相关表现，与热爱骑行的朋友关系也变得紧张，并使日常锻炼与身体状态受到影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/我是不称职的（尤其在骑行方面）",
+        "一次失败就证明我整体不行"
+      ],
+      "special_situations": [
+        {
+          "event": "看到自行车或想到要去骑行",
+          "conditional_assumptions": "如果再次爆胎且我当场修不好，就会暴露我的不称职并被他人看见",
+          "compensatory_strategies": "回避外出骑行，或仅尝试更短、更保守的路线以降低风险",
+          "automatic_thoughts": "我又会爆胎，而且修不好；这会让大家知道我不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友谈论骑行或邀请一起骑行",
+          "conditional_assumptions": "如果我表现不好，就会被评判为不合格、得不到接纳",
+          "compensatory_strategies": "减少参与或不与朋友讨论真实感受，以避免被评价",
+          "automatic_thoughts": "他们会觉得我是个不称职的骑手",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想上次爆胎的经历",
+          "conditional_assumptions": "一次失败能够证明我整体能力差",
+          "compensatory_strategies": "给自己贴上“糟糕的骑手”的标签，以此解释和避免再次尝试",
+          "automatic_thoughts": "那次都搞砸了，说明我就是不行",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "准备计划一次新的骑行或训练",
+          "conditional_assumptions": "我必须一次都不出错，否则就是彻底的失败",
+          "compensatory_strategies": "反复检查并寻求他人陪同，推迟更长距离或更具挑战的行程",
+          "automatic_thoughts": "如果再出一点差错，就证明我根本不适合骑行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为胜任且值得认可的运动员，获得同伴的接纳与尊重",
+        "fear": "害怕暴露无能而被羞辱、被否定或被排斥",
+        "defense_goal": [
+          "通过回避骑行和减少自我暴露来保护自尊",
+          "不谈感受以避免被批评或评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能出错的失败者",
+          "object_representation": "挑剔、随时会评判能力的他人/同伴",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "渴望支持、需要被理解的骑行者",
+          "object_representation": "可能给予支持和帮助的朋友",
+          "linking_affect": "希望、轻松（在感到被支持的想象中）"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友谈论骑行或邀请一起骑行时",
+          "interpretation": "他们会看不起我，把我当成不合格的骑手（移情性投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹豫、含糊其辞，回避明确承诺；以转移话题或推迟来减少暴露。"
+        },
+        {
+          "trigger_condition": "当面临更长距离或更具挑战的骑行/训练安排时",
+          "interpretation": "一旦出错就是彻底失败，会被他人否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调时间安排或身体状态等外在理由婉拒，语气平和但趋于回避，避免触及自我能力的情绪议题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避骑行导致与骑行好友的互动减少、关系紧张",
+            "不愿向朋友表达真实的不安与不足感，产生心理隔阂"
+          ],
+          "outcomes": [
+            "自卑与焦虑加重",
+            "社交疏离与支持系统利用不足",
+            "回避行为维持问题循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以“我是糟糕的骑手”苛责自己，降低与他人接触和尝试的意愿",
+            "在计划骑行时过度顾虑可能出错，缩减或推迟行动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设朋友会认为自己不合格，从而减少参与与分享",
+            "在社交情境中过度解读他人的潜在评价"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“骑行中不能出任何错”当作硬性标准，一旦失误即自我否定",
+            "把一次爆胎等事件视为对整体能力的定性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到自行车或想到去骑行时，韩娜通常会出现强烈焦虑与自我否定，并通过回避或仅进行极短距离骑行来应对，导致训练与工作受影响。",
+          "unique_outcome": "在事件发生后的一段时间里，她自行观看了更换轮胎的教程并进行了实际练习，由此对处理爆胎的步骤更为清晰，感到“更知道该怎么做”。",
+          "reason": "不同做法：主动学习与动手练习；不同理解：将不可控事件（爆胎）转化为可掌握的技能步骤，增加掌控感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多年骑行经验与运动员背景，为恢复自信提供基础",
+          "拥有热爱骑行的朋友作为潜在支持资源",
+          "能主动学习与练习（观看教程并动手练习更换轮胎）",
+          "态度积极，愿意尝试短途骑行并与朋友同行以逐步暴露"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的思维方式强化失败感",
+          "读心式预测他人评价，过度依赖外部认可",
+          "回避行为维持焦虑与自我怀疑",
+          "给自我贴标签（不称职），忽视以往多年骑行的积极证据",
+          "缺乏与朋友的情感沟通，导致支持系统未被有效利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避骑行及相关训练/活动",
+          "antecedent": [
+            "看到自行车",
+            "想到要去骑行",
+            "朋友谈论或邀请骑行"
+          ],
+          "core_reason": "爆胎经历引发对能力的质疑与羞耻预期，担心再次失败被他人看见而暴露“不称职”。",
+          "function": "逃避焦虑与潜在的羞耻/负面评价，短期内获得安全感",
+          "consequence": "职业训练和表现受影响，日常锻炼减少，整体情绪与自信下降"
+        },
+        {
+          "behavior": "消极自动化思维与自我标签（如“我是糟糕的骑手”）",
+          "antecedent": [
+            "回想爆胎事件",
+            "计划或准备新的骑行",
+            "与朋友的骑行话题接触"
+          ],
+          "core_reason": "将一次失败过度概括为整体无能，并以外界评价作为自我价值的参照。",
+          "function": "为回避提供内在正当化，试图通过自我否定减少再次尝试的压力",
+          "consequence": "自卑和焦虑维持，行为更趋回避，错失积极纠正经验"
+        },
+        {
+          "behavior": "减少与骑行朋友的互动与分享（社交退缩）",
+          "antecedent": [
+            "朋友谈论骑行",
+            "被邀请参与骑行活动"
+          ],
+          "core_reason": "读心式假设他人会否定自己，担心暴露短板后被羞辱或排斥。",
+          "function": "避免可能的负面评价与尴尬",
+          "consequence": "社会支持减少，孤立感增强，负面自我图式被强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1046
+}

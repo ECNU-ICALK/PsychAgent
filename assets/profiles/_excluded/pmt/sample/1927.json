@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "张海",
+      "gender": "男性",
+      "occupation": "杂货店收银员",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "独居，无直系亲属",
+      "social_status": "有少数朋友可倾诉，但因羞愧常避免谈及不自足感；与同事因自我贬低而关系紧张",
+      "medical_history": "无显著躯体疾病；无过往类似心理问题；无既往心理治疗史",
+      "language_features": "表达清晰、配合度高；语气略显焦虑；常使用绝对化与自我贬低的表述（如“我很无用”“我是失败者”）；能理性识别认知与情绪的不一致（理智上知道不合理，情绪上仍然相信）"
+    },
+    "main_problem": "只要一天的工作任务未能全部完成，我就不断觉得自己是个无用的员工。这种不够好的感觉从几个月前开始，一直在升级，已发展到害怕上班、持续担心达不到期待，每个班次在任务未完成时都会出现强烈焦虑。",
+    "topic": "职业发展",
+    "core_demands": "当这些感受开始影响我的心理健康与整体幸福感，使我难以享受游泳和烘焙等日常活动时，我决定寻求咨询，希望减轻焦虑与自我批评，恢复对日常生活的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的/不够好的员工",
+        "我不胜任工作",
+        "一次未完成任务就意味着我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在班次中未能完成当天的全部工作任务",
+          "conditional_assumptions": "如果我不能把所有任务都完成，就等于我不胜任，说明我是失败者",
+          "compensatory_strategies": "逼迫自己更努力、设定过高标准、追求完美以避免失败",
+          "automatic_thoughts": "我很无用/我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "主管检查工作或对绩效提出评价",
+          "conditional_assumptions": "如果主管认为我不够好，就证明我一无是处",
+          "compensatory_strategies": "更用力地工作、事事力求完美以避免被批评",
+          "automatic_thoughts": "他们会觉得我不合格",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与同事的日常交流中注意到自己的自我贬低",
+          "conditional_assumptions": "如果我表现不完美，同事就会看不起我，关系会变差",
+          "compensatory_strategies": "通过自我贬低预先降低他人期待，避免更严厉的批评",
+          "automatic_thoughts": "同事关系紧张都是因为我很差劲",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "进行游泳或烘焙等休闲活动时想到未完成的工作任务",
+          "conditional_assumptions": "如果我没有达到工作标准，我就不应该享受或放松",
+          "compensatory_strategies": "停止休闲、反复思考工作并自我苛责",
+          "automatic_thoughts": "我不配享受，我没完成任务",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被主管认可、被视为胜任与有价值",
+        "fear": "害怕被批评、被否定，被认为“不够好”",
+        "defense_goal": [
+          "通过完美主义与自我加压来避免批评和失败",
+          "先行自我贬低以降低外界期望、减少被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被批评的失败者/不胜任的员工",
+          "object_representation": "苛刻、挑剔、易批评的他人（主管/同事）",
+          "linking_affect": "焦虑、羞愧、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨“未完成单次任务是否定义整体能力”并邀请举证时",
+          "interpretation": "下意识将表现理解为非黑即白，认为不完美等同失败（移情：将工作场景中的评判框架带入咨询）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用温和探询与具体化提问，邀请列举灰度和例外，帮助区分单次结果与整体能力，语气支持性、避免对抗。"
+        },
+        {
+          "trigger_condition": "当被询问这些想法是否合理时，来访者强调“理智上知道不合理”，与情绪分离地讨论问题",
+          "interpretation": "将情绪与事实分离，倾向用理性论证来避免情绪触碰",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "温柔地连结情绪与身体感受，降低抽象讨论，引导命名情绪与需要，并在安全范围内停留于体验。"
+        },
+        {
+          "trigger_condition": "当谈到主管评价或他人看法时",
+          "interpretation": "认为他人会否定自己，把内在的自我批评归因于他人的想法（移情：把内在严苛评判投向外界）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "进行现实检验与证据收集，使用开放式问题澄清他人实际反馈，区分推测与事实，语气支持而不评价。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，无直系亲属",
+            "对朋友表达不自足感感到羞愧，减少求助",
+            "与同事关系因自我贬低而紧张"
+          ],
+          "outcomes": [
+            "社交退缩与疏离感增加",
+            "焦虑加剧",
+            "情绪支持不足"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "过去喜欢的游泳与烘焙难以享受",
+            "工作压力与自我苛责侵入休闲时光"
+          ],
+          "outcomes": [
+            "生活乐趣下降",
+            "持续的工作相关反刍与倦怠"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中多次使用自我贬低的标签（如“我很无用”“我是失败者”）",
+            "设定目标时过于追求完美、谨慎",
+            "过度在意主管评价与他人眼光"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "因羞愧避免向朋友求助，将压力向内化为自责",
+            "通过“推自己更努力”把外在支持需求转成对自己的施压"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设主管会认为自己“不够好”，将内在自我批评归因于他人的看法",
+            "在与同事互动中担心被看不起"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助，态度积极",
+          "责任心强、对工作投入（高标准带来的正向动机）",
+          "拥有少数朋友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "完美主义与非黑即白思维，常以单次结果定义整体能力",
+          "寻求外部验证、过度在意主管评价，易产生读心与个人化",
+          "自我贬低与标签化，频繁将自己称为“无用”“失败者”",
+          "工作相关焦虑侵入休闲，导致生活乐趣减少与社交退缩"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在未完成全部任务时进行自我贬低（如“我很无用”“我是失败者”）并出现强烈焦虑",
+          "antecedent": [
+            "在班次中未能完成当天的全部工作任务",
+            "主管检查或评价工作时"
+          ],
+          "core_reason": "完美主义与对外部评价的高度敏感，将单次未完成任务灾难化并以之定义自我价值",
+          "function": "逃避被批评的风险、通过自我苛责促使自我加压以追求完美",
+          "consequence": "工作畏惧与压力增加，信心与生产力下降，与同事关系紧张"
+        },
+        {
+          "behavior": "回避或难以享受休闲活动（游泳、烘焙），被工作相关反刍占据",
+          "antecedent": [
+            "在非工作时间想到未完成的任务或即将到来的班次"
+          ],
+          "core_reason": "以“应该”规则约束自我：未达标准便不配放松，担心放松会被视为不够努力",
+          "function": "避免内疚与被批评的想象，通过自我限制维持对自我控制感",
+          "consequence": "生活乐趣下降，恢复力减弱，整体幸福感受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1927
+}

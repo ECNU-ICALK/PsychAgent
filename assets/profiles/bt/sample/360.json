@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "高睿",
+      "gender": "男",
+      "occupation": "刚毕业的高中生",
+      "educational_background": "高中毕业，计划秋季进入密歇根大学就读",
+      "marital_status": "单身",
+      "family_status": "与父母及一位年幼的兄弟姐妹同住",
+      "social_status": "有支持性的家人和朋友，但尚未与他们讨论关于大学准备压力的感受",
+      "medical_history": "无重要躯体疾病；既往未有类似心理问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、有条理、配合度高，态度积极"
+    },
+    "main_problem": "我持续感到必须把所有时间都用来为上大学做准备，以至于忽视了自我照料和缓解疲劳。",
+    "topic": "学业压力",
+    "core_demands": "我意识到这种压力正在影响我的身心健康，于是寻求咨询，希望找到更平衡的方式在不牺牲自我照料的情况下准备大学。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我只有通过不断努力和成就才有价值",
+        "失败是不可接受的"
+      ],
+      "special_situations": [
+        {
+          "event": "在感到非常疲惫时仍面对大学准备任务",
+          "conditional_assumptions": "如果我不持续投入准备，就无法在大学取得成功，也无法成为医生",
+          "compensatory_strategies": "压抑休息需求，延长学习时间，牺牲睡眠与饮食以维持高强度准备",
+          "automatic_thoughts": "我应该继续准备，不能停下来休息",
+          "cognitive_pattern": "Should\" Statements"
+        },
+        {
+          "event": "家人或朋友邀请参与活动或互动时",
+          "conditional_assumptions": "如果我没有把时间都用在准备上，就意味着我不够努力，将来会失败",
+          "compensatory_strategies": "回避社交与家庭活动，把时间全部投入到备考与准备",
+          "automatic_thoughts": "如果现在去社交就是不负责任，我会因此落后并失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "临睡前仍在规划或进行长时间的大学准备任务",
+          "conditional_assumptions": "只要我停下来休息，就会被别人超越，明天就会落后",
+          "compensatory_strategies": "推迟休息与睡眠，强迫自己继续工作来获得安全感",
+          "automatic_thoughts": "现在停下来休息会让我落后",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在休息或放松时产生强烈的内疚与焦虑体验",
+          "conditional_assumptions": "感到内疚说明我此刻不该休息，应该回去工作",
+          "compensatory_strategies": "用继续学习来缓解内疚与焦虑，避免面对放松带来的不安",
+          "automatic_thoughts": "我感到内疚，说明休息是错的",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学业上取得成功并获得认可，同时也想被允许休息与被接纳",
+        "fear": "害怕失败、被否定，无法达到成为医生的目标",
+        "defense_goal": [
+          "通过过度自我要求与持续努力来控制不确定性、减轻失败焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "必须时刻努力的追赶者/成就者",
+          "object_representation": "可能不理解且带有高期待与评判的他人",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注自我照料与休息、并挑战“应该”信念时",
+          "interpretation": "将关注休息体验为在降低标准，可能影响未来成功",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以理性、目标导向的方式强调效率与竞争需要，频繁使用“必须/应该”字眼，淡化或略过内疚与疲惫等情绪体验。"
+        },
+        {
+          "trigger_condition": "谈到他人（家人、社会）对成功的期待或成为医生的目标时",
+          "interpretation": "把外界标准当作唯一正确的自我要求，认为偏离即是失败",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“大家都这样”“要成为医生就得这样”的表述，语气坚决，回避探索个人需要与界限。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以僵化的“应该”与外在标准束缚自我选择，感觉必须把所有时间用于准备大学",
+            "在休息与自我照料的选择前感到强烈内疚与焦虑，难以自由决定节奏"
+          ],
+          "outcomes": [
+            "持续焦虑与内疚",
+            "身心疲惫与压力增加",
+            "与家人朋友关系紧张、疏离"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须一直准备”的自我要求语句",
+            "将“成功=持续高强度工作”作为不容置疑的准则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对休息与放松产生强烈内疚，过度自我苛责",
+            "担心他人会认为自己夸大或不理解，因而不敢向家人朋友表达压力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "学业表现优异，具备持续努力与自律能力",
+          "拥有支持性的家庭与朋友网络",
+          "对问题保持觉察并主动寻求咨询帮助",
+          "态度积极，愿意尝试行为实验与调整作息"
+        ],
+        "negative_force": [
+          "对成功与失败的僵化信念与高期望（“应该”思维）",
+          "对休息与放松的内疚与焦虑体验",
+          "回避向家人朋友表达压力，未有效动用社会支持",
+          "过度投入准备导致睡眠与饮食受损、人际关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续自我逼迫进行大学准备，难以休息与自我照料",
+          "antecedent": [
+            "感到疲惫但想到大学与成为医生的目标",
+            "出现“我应该继续工作”的自动化思维"
+          ],
+          "core_reason": "内化的高标准与对失败的担忧，引发“应该”式自我要求与对落后的预测",
+          "function": "通过持续工作来获得控制感并缓解内疚与焦虑",
+          "consequence": "疲劳与压力加重，睡眠和饮食受影响，效率下降，人际关系紧张"
+        },
+        {
+          "behavior": "回避与家人朋友讨论自己的压力与感受",
+          "antecedent": [
+            "想到他们可能不理解或觉得自己反应过度",
+            "在感到焦虑与内疚时更倾向把时间投入到准备任务"
+          ],
+          "core_reason": "对他人评判的担忧与对脆弱感的回避",
+          "function": "逃避潜在的否定与冲突，短期降低社交焦虑",
+          "consequence": "社会支持未被有效动用，情绪压力内化，人际疏离"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 360
+}

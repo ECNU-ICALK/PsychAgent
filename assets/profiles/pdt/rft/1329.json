@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "刘泽宇",
+      "gender": "男",
+      "occupation": "卡车司机",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "已婚，育有三个孩子",
+      "social_status": "与家人和朋友的关系因回避包含唱歌/表演的社交场合而受到影响；拥有支持性的配偶和孩子，但尚未向家人坦诚自己的恐惧与困扰",
+      "medical_history": "无类似心理问题史；无既往心理治疗经历；无重大躯体疾病",
+      "language_features": "表达清晰、愿意配合，能具体描述事件与情绪；具备一定自我反思能力并尝试用“理性化”安慰自己但效果有限；呈现自我怀疑与焦虑。"
+    },
+    "main_problem": "在教堂合唱团练习时忘词后停止在公众场合唱歌，并相信自己再也无法参加任何合唱团。这一事件带来尴尬与自我怀疑，随后开始回避在公众场合唱歌并对再次加入合唱产生焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "该事件对自信心打击很大，需要帮助克服在公众场合唱歌的恐惧。",
+    "growth_experiences": [
+      "自幼至成年一直参加合唱团，唱歌是生活中重要的一部分；此前并未出现类似心理困扰或接受过心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（不胜任/不被认可）",
+        "一旦在公众面前犯错，就会被羞辱和否定"
+      ],
+      "special_situations": [
+        {
+          "event": "在教堂合唱团练习时忘记歌词，被众人注视",
+          "conditional_assumptions": "如果我在公众面前犯错，别人就会嘲笑和否定我，这证明我不够好",
+          "compensatory_strategies": "停止在公众场合唱歌，回避再次参与合唱以避免羞辱",
+          "automatic_thoughts": "我出丑了，大家都会笑话我/看不起我",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到重新加入合唱团或在公众场合演唱",
+          "conditional_assumptions": "除非能完全保证不犯错，否则不应该再唱歌",
+          "compensatory_strategies": "只有在自认为“万无一失”时才考虑行动，实际持续回避",
+          "automatic_thoughts": "我一定会再次忘词、又会出丑",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "参加可能被临时邀请唱歌的家庭或社交聚会",
+          "conditional_assumptions": "如果表现不好，别人会嘲笑我、觉得我很可笑",
+          "compensatory_strategies": "回避此类聚会，并不向家人说明真实原因",
+          "automatic_thoughts": "他们会笑我、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与他人或咨询师谈及“每个人都会犯错”的观点时的自我要求",
+          "conditional_assumptions": "我应该早就走出来，如果还在意就说明我软弱",
+          "compensatory_strategies": "自我苛责、给自己加压以迫使“赶紧好起来”",
+          "automatic_thoughts": "我不该还在介意这件小事",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可，能够安心地在公众面前表达与歌唱",
+        "fear": "害怕在公众面前暴露脆弱、被羞辱和否定",
+        "defense_goal": [
+          "通过回避公众演唱与情感暴露来维持安全感",
+          "以自我合理化来减轻羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出丑、会被挑剔评价的表演者/不够好的自己",
+          "object_representation": "苛刻的评判者（观众/他人会嘲笑与否定）",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及公众演唱或回忆忘词事件时",
+          "interpretation": "将内在自我批评体验为“他人都在评判我、看我笑话”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以笃定的口吻描述他人负面想法（如“大家都会笑我”），忽略反证，对他人反应作负面推断。"
+        },
+        {
+          "trigger_condition": "当被鼓励向家人倾诉或尝试小步暴露练习时",
+          "interpretation": "用看似理性的理由来弱化情绪困扰（如“每个人都会犯错，我应该早就好了”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“应该/本来就该”的陈述，语气平淡、轻描淡写感受，以道理覆盖情绪，回避进一步情感探索。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不向配偶与家人透露真实恐惧与羞耻体验",
+            "回避可能涉及唱歌的社交活动，减少与他人的真实接触"
+          ],
+          "outcomes": [
+            "孤立感增加",
+            "焦虑与羞耻维持",
+            "人际关系紧张"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "“我像失去自己的一部分”——长期重要的自我组成（唱歌/合唱）被放弃"
+          ],
+          "outcomes": [
+            "自我概念受损与自卑",
+            "生活满意度下降",
+            "日常功能受扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "坚信“大家都在评判/嘲笑我”",
+            "在社交场合预期他人负面看法而退却"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁使用“我应该早就走出来”进行自我苛责",
+            "在行动前反复自我审查，难以迈出小步"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外做的行为冲动，转而对自己做，将能量向内使用，与“冲动”对应。",
+          "manifestations": [
+            "压抑想要唱歌与表达的冲动，转为自责与回避",
+            "不向家人寻求支持，将痛苦内化独自承受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到要在公众场合唱歌时，来访者通常会陷入自我怀疑与灾难化预期，并随之回避练习或参与合唱。",
+          "unique_outcome": "在看到他人表演中出现小失误但继续完成的场景时，来访者当下没有像往常那样陷入恐惧循环，而是短暂想到“别人也会犯错并能继续”，情绪有所平静。",
+          "reason": "线索：不同理解与参照——目睹他人正常化的失误与恢复为其提供反例，短暂降低了对羞辱的预测与焦虑强度。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的配偶与子女",
+          "长期合唱经历与歌唱能力基础",
+          "愿意尝试从小步开始的练习（如在家独唱几句）",
+          "能够识别并讨论自己的负性思维模式",
+          "工作功能稳定、生活结构相对有序"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维",
+          "对失败的预测与读心术倾向",
+          "回避行为维持焦虑与功能受限",
+          "羞耻感与自我怀疑强烈",
+          "与家人缺乏开放沟通导致支持未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避在公众场合唱歌（包括退出/不再参加合唱）",
+          "antecedent": [
+            "想到要在公众面前演唱",
+            "被邀请加入或回到合唱团",
+            "练习时联想起忘词事件与观众注视"
+          ],
+          "core_reason": "对再次忘词会带来羞辱与否定的灾难化认知，将自我价值与表演完美过度绑定",
+          "function": "逃避焦虑与潜在的负面评价",
+          "consequence": "失去重要的兴趣与身份感受（“像失去自己的一部分”），自我怀疑增加，日常生活受扰"
+        },
+        {
+          "behavior": "回避可能涉及唱歌的社交活动（如家庭聚会）",
+          "antecedent": [
+            "有可能被临时邀请或期待唱歌的家庭/社交聚会"
+          ],
+          "core_reason": "担心他人嘲笑与评判，将内在自我批评投射为外界否定",
+          "function": "避免尴尬情境与负面他人评价",
+          "consequence": "与家人朋友的关系紧张，社交退缩与孤立感增强"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1329
+}

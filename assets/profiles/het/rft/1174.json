@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "李瑞",
+      "gender": "男",
+      "occupation": "未透露",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "不愿与家人或朋友讨论感受，社会支持系统薄弱",
+      "medical_history": "无重要躯体疾病；未接受过心理治疗或心理咨询",
+      "language_features": "首次来访略显紧张；表达清晰、条理较好；配合度高；能进行自我反思"
+    },
+    "main_problem": "我对自己的感受、吸引与身份不确定，出现困惑并害怕被拒绝。",
+    "topic": "自我探索",
+    "core_demands": "来自父母的拒绝恐惧与对身份及感受的困惑已令人不堪重负，寻求咨询中的指导与支持。",
+    "growth_experiences": [
+      "青春期开始出现对自身身份与情感的持续困惑，最初压力为中等，近几个月明显加重；触发因素主要为社会期待与家庭压力。在涉及身份与关系的决策面前，困惑与不确定感频繁出现。",
+      "曾尝试以暗示方式与父母表达真实感受，但对方会转移话题或不予重视，这类互动加剧了其对被拒绝的担忧与犹豫，导致更不敢直接表达。",
+      "曾在一段身体健康问题期间得到父母明显的关心与照料（他们很担心并悉心照顾），这显示出家庭中存在关怀的证据，但来访者在焦虑和担忧时容易忽略这些积极时刻。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没用的",
+        "我不够好，无法满足他人的期待",
+        "如果展露真实的感受与身份，我会被父母拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "在与父母谈及自己的身份与感受时，父母转移话题或不当回事",
+          "conditional_assumptions": "如果我表达真实感受，就会被拒绝或让他们失望",
+          "compensatory_strategies": "以暗示而非直接表达，减少深入沟通以避免负面评价",
+          "automatic_thoughts": "他们不在乎我；我一说就会被拒绝",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对社会与家庭对“应该如何生活”的期待",
+          "conditional_assumptions": "如果达不到他人的期待，就说明我不够好或没用",
+          "compensatory_strategies": "迎合外界标准、压抑真实需求并进行自我监控",
+          "automatic_thoughts": "我不够好，无法满足他们",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在做与身份和关系相关的重要决定时",
+          "conditional_assumptions": "必须做出完全正确的选择，否则就会失败并被否定",
+          "compensatory_strategies": "回避或拖延决定，陷入反复自我反思（写日记）",
+          "automatic_thoughts": "我很可能选错，会被否定",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想父母曾经在自己生病时表现出的关心，却在担忧时忽视这些证据",
+          "conditional_assumptions": "只有持续、显性且符合预期标准的关心才算真正关心",
+          "compensatory_strategies": "过滤正向信息、放大负面互动以自我防卫",
+          "automatic_thoughts": "他们从不关心我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被父母接纳并理解真实的自我与感受",
+        "fear": "害怕被拒绝、被贴上“没用”的标签，失去家庭的支持与归属",
+        "defense_goal": [
+          "通过隐藏和弱化真实表达来维持安全与关系稳定",
+          "以自我监控与迎合外界期待来减少被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被理解、容易被拒绝的孩子",
+          "object_representation": "苛求且不理解的评判者/可能拒绝者（父母）",
+          "linking_affect": "焦虑、恐惧、羞耻"
+        },
+        {
+          "self_representation": "被关照但内心矛盾的受照顾者",
+          "object_representation": "关心但不善沟通的照顾者（父母）",
+          "linking_affect": "希望、困惑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请更直接表达真实感受或与父母进行澄清沟通时",
+          "interpretation": "潜意识将父母视为可能的拒绝者，认为表达真实自我会立刻被否定（移情：将内在的否定感套用于父母）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用澄清与探询的语气，先共情其恐惧，再逐步检视证据；语速平稳，给予停顿与空间，避免立即下结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "社会与家庭期待使其难以自由表达真实自我",
+            "长期迎合他人标准并自我监控"
+          ],
+          "outcomes": [
+            "焦虑与犹豫加剧",
+            "工作/学习表现下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与家人或朋友讨论感受",
+            "缺乏强有力的支持系统"
+          ],
+          "outcomes": [
+            "睡眠与饮食受影响",
+            "对被拒绝的恐惧增强"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对身份与情感持续困惑，难以确立自我"
+          ],
+          "outcomes": [
+            "自我怀疑增加",
+            "现实功能受损（表现下降）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度在意他人期待与评价",
+            "表达前反复自我审查，倾向暗示而非直接表达",
+            "担心自己“不配”被接纳"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外发出的行为或请求，把能量转向自身。",
+          "manifestations": [
+            "不向外寻求支持，转而写日记与自我反思",
+            "在与父母互动中选择暗示而非直接表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与父母的关系中，来访者通常会因担心被拒绝而不敢直接表达真实感受，并将父母的沉默或转移话题解读为不关心。",
+          "unique_outcome": "在此前经历健康问题的时期，父母表现出明显的关心与照料，来访者感到被照顾，关系一度更为温暖，这与其平时的“他们不在乎我”的主导叙事不同。",
+          "reason": "不同情境与线索：出现明确的健康问题，父母主动提供具体照料与支持；来访者获得可观察的关怀证据，从而减轻“被忽视”的解释。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我反思与记录的习惯（写日记与自我探索）",
+          "能回忆并承认父母曾经的关怀证据",
+          "愿意尝试更直接的沟通并主动寻求专业帮助",
+          "与父母同住，存在潜在的家庭支持资源"
+        ],
+        "negative_force": [
+          "对被拒绝的强烈恐惧与外部评价依赖",
+          "认知偏差明显（读心术、灾难化、过度概括、非黑即白）",
+          "社会支持薄弱，不愿与家人朋友讨论感受",
+          "功能受损（睡眠、饮食、学习/工作表现下降）",
+          "核心自我评价偏低（自感“不够好/没用”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与父母直接沟通真实感受与身份",
+          "antecedent": [
+            "面对与身份与关系相关的决策",
+            "想到父母与社会对“应该如何生活”的期待",
+            "回忆父母曾转移话题或不当回事的互动"
+          ],
+          "core_reason": "对被拒绝的恐惧与自我评价低（“我不够好/没用”），并以迎合他人期待来维持安全与关系。",
+          "function": "逃避潜在的拒绝与负面评价，短期维持安全感与关系稳定",
+          "consequence": "困惑与焦虑持续；睡眠与饮食受影响；学习/工作表现下降；与父母的理解与亲密难以建立"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1174
+}

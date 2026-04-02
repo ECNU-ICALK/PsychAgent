@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "陈康",
+      "gender": "男",
+      "occupation": "杂货店店员",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "未婚",
+      "family_status": "与父母及两位兄弟姐妹同住",
+      "social_status": "家庭成员总体支持，但因烘焙失败后易烦躁使家庭关系一度紧张；担心被评判而未与家人分享相关感受",
+      "medical_history": "无明显躯体疾病；过往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰，能描述自己的情绪与想法；配合度良好；态度中性；能识别并描述自动化思维（如“我永远不会成为一个好的烘焙者”）"
+    },
+    "main_problem": "最近一直感到自己不够好，并对自己的烘焙技能产生怀疑。这一切始于一次纸杯蛋糕没有达到预期的甜度。",
+    "topic": "个人成长",
+    "core_demands": "这些不足感和自我怀疑正在影响我对烘焙的享受和整体幸福感，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "约一月前一次烘焙失误（纸杯蛋糕不如预期甜）引发强烈的挫败感与不足感；此后每次烘焙或想到烘焙都会出现自我批评与失望的循环，逐渐削弱了对烘焙的兴趣与信心；因担心被家人评判而未分享相关感受，家庭关系亦因烘焙失败后的易怒而受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不会成为一个好的烘焙者",
+        "我是不足胜任的"
+      ],
+      "special_situations": [
+        {
+          "event": "一次纸杯蛋糕成品比预期更不甜的烘焙结果",
+          "conditional_assumptions": "如果连简单的纸杯蛋糕都做不好，就说明我没有能力，不可能成为好烘焙者",
+          "compensatory_strategies": "反复更换食谱、观看大量烘焙教程、尝试更严格地按配方操作以弥补“能力不足”",
+          "automatic_thoughts": "这次失败证明我不行，我永远不会成为一个好的烘焙者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次开始烘焙或仅仅想到要烘焙",
+          "conditional_assumptions": "如果再失败一次，就证明我一直在浪费时间，显示我不适合烘焙",
+          "compensatory_strategies": "回避烘焙或减少尝试，以避免再次体验失败和羞耻",
+          "automatic_thoughts": "我又要失败了，根本不值得再试",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到向家人谈起烘焙上的挫折",
+          "conditional_assumptions": "如果他们知道我失败了，就会评判我、看不起我",
+          "compensatory_strategies": "隐瞒不谈、与家人保持距离以避免被评价",
+          "automatic_thoughts": "他们会觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对更复杂的烘焙任务或评价自己是否要尝试更难的配方",
+          "conditional_assumptions": "如果连简单的都做不好，就说明我完全不行，做复杂的更没有意义",
+          "compensatory_strategies": "只关注失败、放弃更高难度尝试以避免再次受挫",
+          "automatic_thoughts": "连简单的都不会，更别提复杂的了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、值得被接纳的个体，并在烘焙中体验胜任与喜悦",
+        "fear": "害怕失败后被评判、羞耻和被否定，进而证明自己“根本不行”",
+        "defense_goal": [
+          "通过回避暴露失败与自我批评来降低被评判的风险",
+          "维持表面的自尊与安全感，避免面对羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、随时可能失败的学习者/烘焙者",
+          "object_representation": "苛刻、带有评判性的他人（想象中的家人/旁人）",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其更深入探索并改变负性想法、提出行为实验时",
+          "interpretation": "认为“这些想法很固定，谈也没用”，倾向以理性讨论替代情绪体验",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、分析性的语气强调方法是否有效，弱化情绪体验，提出诸如“我不确定谈这些有什么用”的观点。"
+        },
+        {
+          "trigger_condition": "当讨论是否将烘焙挫折与家人分享、或涉及他人评价的话题时",
+          "interpretation": "将内在的自我批评体验外归因为“他们会看不起我/评判我”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以防御性的口吻陈述“他们会觉得我很差”，避免提供具体证据或进一步探讨。"
+        },
+        {
+          "trigger_condition": "在烘焙失败后与家人互动",
+          "interpretation": "将对自身失败的挫败与羞耻转移为对外部的易怒与不耐",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "语气短促、容易不耐烦，话语中带有隐性指责或冷淡回应，减少自我感受的暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在想“如果连简单纸杯蛋糕都做不好，做更复杂的有什么意义？”时感到失去动力",
+            "对烘焙的原有乐趣被失败经历取代，难以从中获得意义与满足"
+          ],
+          "outcomes": [
+            "回避尝试、动力下降",
+            "自我怀疑与情绪低落增加",
+            "日常活动的享受感降低、饮食节律受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被家人评判而不分享烘焙相关的情绪与困扰",
+            "失败后情绪封闭，减少求助与联结"
+          ],
+          "outcomes": [
+            "家庭关系紧张、可用支持减少",
+            "自我批评循环加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（如“我不行”“我永远做不好”）",
+            "对改变持怀疑（“我不认为谈话能改变这些想法”），对自我要求苛刻、难以接纳不完美"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "将失败后的挫败转向自我批评而非寻求外界支持",
+            "担心被评判而压抑表达与求助的需求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家人总体支持（虽暂未分享，但可作为潜在支持资源）",
+          "曾经从烘焙中获得乐趣，具有内在兴趣与动机",
+          "能主动寻求改进方法（更换食谱、观看教程）",
+          "工作表现稳定，日常功能基本保持"
+        ],
+        "negative_force": [
+          "非黑即白与过度概括等负性思维模式强化自我否定",
+          "预测未来与读心术使其在未求证时便预设失败或他人评判",
+          "担心被评判导致回避分享与求助，社会支持利用不足",
+          "失败后易怒，造成家庭关系紧张，进一步加重负性循环",
+          "自我怀疑导致饮食节律与活动兴趣受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与烘焙相关的回避与强烈自我批评",
+          "antecedent": [
+            "开始烘焙前或仅仅想到要烘焙",
+            "回忆起纸杯蛋糕不够甜的经历"
+          ],
+          "core_reason": "将一次失败视为能力的全盘否定（过度概括、非黑即白与灾难化倾向），以回避失败来保护自尊与降低羞耻",
+          "function": "逃避失败与被评判的可能性，短期降低焦虑与羞耻",
+          "consequence": "减少练习机会、对烘焙失去兴趣，自我效能感下降，负性情绪维持"
+        },
+        {
+          "behavior": "烘焙失败后对家人的易怒与不耐烦",
+          "antecedent": [
+            "烘焙结果不达预期后与家人接触"
+          ],
+          "core_reason": "将对自我失败的挫败与羞耻转移至他人（防御性转移）",
+          "function": "短期释放紧张情绪、避免直面自责与羞耻",
+          "consequence": "家庭关系紧张，支持系统的可用性降低，负性循环加剧"
+        },
+        {
+          "behavior": "饮食节律紊乱（因自我怀疑导致进食减少或不规律）",
+          "antecedent": [
+            "烘焙失败后或自我怀疑加重时"
+          ],
+          "core_reason": "将注意力过度聚焦于“证明能力/避免失败”，忽视身体需求，以控制来对抗无力感",
+          "function": "暂时获得控制感，回避失败相关的痛苦情绪",
+          "consequence": "身心状态与日常活动的享受感下降，恢复力减弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1877
+}

@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "何嘉琳",
+      "gender": "女",
+      "occupation": "书店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "恋爱关系中（女友）",
+      "family_status": "有一位年长的哥哥",
+      "social_status": "有少数亲密朋友，但未主动与他们讨论自己的不安全感；与女友关系因不安全感而紧张",
+      "medical_history": "无显著躯体疾病；无类似问题既往史；未接受过心理治疗/精神科治疗",
+      "language_features": "表达清晰，逻辑较好，能具体描述诱发情境与内心想法，愿意尝试咨询建议；语速未提及"
+    },
+    "main_problem": "我一直担心女友会因为我很懒而和我分手，这种被贴上“懒惰”的标签并害怕失去她的恐惧让我非常痛苦。",
+    "topic": "人际关系",
+    "core_demands": "我意识到自己对失去女友的持续恐惧正在影响心理健康和关系，所以决定寻求咨询。",
+    "growth_experiences": [
+      "约六个月前失去上一份工作，随后到书店工作；失业与“生产力低/不够努力”的感受触发了对“被视为懒惰、会被分手”的持续担忧，之后在工作中遇到小错误或休息都会加重焦虑，进一步影响睡眠、饮食与工作表现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懒惰的人",
+        "我是个失败者",
+        "重要的人最终会离开我"
+      ],
+      "special_situations": [
+        {
+          "event": "女友下班回家显得疲惫、沉默或有些疏远",
+          "conditional_assumptions": "如果她安静或显得疏远，必定是对我不满，认为我懒惰，关系正在被重新评估",
+          "compensatory_strategies": "频繁向伴侣求证、过度解释并道歉，强迫性关注对方的情绪与暗示",
+          "automatic_thoughts": "她可能要和我分手了，都是因为我太懒",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作中出现小失误或需要短暂休息",
+          "conditional_assumptions": "如果我在工作中犯错或休息，就证明我是懒惰且失败的，迟早会被伴侣看不起并离开",
+          "compensatory_strategies": "自我苛责、反复反思错误并焦虑担心，以期“改正”来证明自己不是懒惰",
+          "automatic_thoughts": "我又失败了；她会因此看轻我",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "六个月前的失业经历",
+          "conditional_assumptions": "一次失业就说明我不够努力、整体上不够好；不够好的人会失去爱与关系",
+          "compensatory_strategies": "尽快找新工作以证明自己不是懒惰（但内心仍持续自我贬低）",
+          "automatic_thoughts": "我不够有用，我是个失败者，她会离开我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与女友沟通担忧后对方表示“没事、你反应过度”，随后发生争吵",
+          "conditional_assumptions": "如果她否认问题，我的担忧就会把她推远，说明我在关系里总是做错事",
+          "compensatory_strategies": "进一步自责与道歉，试图通过更多解释来缓解不安",
+          "automatic_thoughts": "我把她推远了，都是我的错",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望伴侣稳定的爱与认可，被看见与被接纳",
+        "fear": "害怕被抛弃/失去爱；害怕被贴上“懒惰、失败”的标签后遭到否定与拒绝",
+        "defense_goal": [
+          "通过自我监控和提前预警来控制不确定性避免被抛弃",
+          "通过不断求证、道歉与解释来维持关系安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判的失败者/懒惰者，随时可能被抛弃的人",
+          "object_representation": "潜在的拒绝者/审判者（疏远时会否定自己的伴侣）",
+          "linking_affect": "焦虑、内疚、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当伴侣显得疲惫或沉默、疏远时",
+          "interpretation": "认为对方在重新评估关系并将离开自己（将自己的不安投射为对方的否定）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "先充分共情其不安，语气温和；使用开放式问题与具体化提问，区分事实与假设；邀请其回忆反证据与当下体验，避免绝对化语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "强烈担心分手后会“一个人”、在伴侣情绪低落时立即联想到被抛弃"
+          ],
+          "outcomes": [
+            "持续焦虑与过度担忧",
+            "关系紧张与争吵",
+            "睡眠与饮食不规律"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "失业后自我评价下降，认为“我不够有生产力/我很懒”",
+            "小失误即被视为整体失败"
+          ],
+          "outcomes": [
+            "自我贬低与羞耻感",
+            "工作表现受影响",
+            "对生活与自我价值的怀疑加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将伴侣的疲惫与沉默解释为“她对我不满、要分手”",
+            "把关系中的不确定性归因为自己的“懒惰”而非对方的工作压力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作小失误或休息后过度自责与紧张",
+            "频繁道歉、过度解释以求关系安全"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当伴侣显得疏远或不太说话时，来访者通常会陷入灾难化担忧并与伴侣争吵，导致关系更紧张。",
+          "unique_outcome": "上周伴侣连续几天显得疏远，来访者非常担心，但当晚伴侣主动道歉并解释只是因工作压力，并未对关系不满；事件平稳结束、关系未受损。",
+          "reason": "不同情境与支持：伴侣主动澄清与道歉，来访者获得事实信息；不同理解：事后能反思“当时自己过度反应”，开始识别非事实的猜测。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "伴侣总体支持且能澄清事实",
+          "来访者愿意求助并尝试现实检验",
+          "能在事后识别灾难化与过度反应",
+          "有少数朋友网络（虽未使用）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与个人化思维模式显著",
+          "对自我价值的负性标签（“懒惰”“失败”）",
+          "高外部验证需求，频繁求证导致争吵",
+          "对小失误过度反应，形成广泛自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对伴侣可能分手的持续性焦虑与反复担忧",
+          "antecedent": [
+            "伴侣显得疲惫、沉默或疏远",
+            "工作中出现小失误或需要短暂休息",
+            "回想失业经历并自我贴标签"
+          ],
+          "core_reason": "灾难化与预测未来、个人化的认知偏差叠加自我标签（“我是懒惰/失败”），触发对被抛弃的高敏感",
+          "function": "通过高度警觉与求证来尝试获得安全感、控制不确定性与避免被抛弃",
+          "consequence": "关系紧张并发生争吵；内疚与自责加重；睡眠与饮食不规律；工作表现受影响"
+        },
+        {
+          "behavior": "频繁向伴侣求证与过度解释/道歉（过度沟通）",
+          "antecedent": [
+            "伴侣否认问题或表示“没事”，来访者仍感到不安",
+            "伴侣下班后沉默或情绪低落"
+          ],
+          "core_reason": "高外部验证需求与对负性评价的恐惧，试图通过他人保证来缓解不确定性",
+          "function": "寻求他人认可与安抚以降低焦虑",
+          "consequence": "沟通升级为争吵，关系紧张；来访者内疚与自我否定加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1036
+}

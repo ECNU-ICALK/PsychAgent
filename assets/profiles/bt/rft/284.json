@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "林慧",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "单身",
+      "family_status": "父母来自日本",
+      "social_status": "与同事关系因焦虑而紧张；有少数密友但未与其讨论焦虑；焦虑影响睡眠与日常购物习惯",
+      "medical_history": "大学考试期间曾有类似焦虑；此前未接受心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述经历；语气消极并伴随自我批评；倾向预测最糟结果与比较他人；配合度尚可，对尝试新方法持审慎但开放的态度"
+    },
+    "main_problem": "我经常感到焦虑和压力，尤其是在每天要与学生打交道之前。这种感觉从我刚开始教书时就出现，并随着责任和压力的增加而加重。",
+    "topic": "情绪管理",
+    "core_demands": "由于焦虑和压力不断增加，已显著影响工作表现与个人福祉，因此寻求更好的应对策略。",
+    "growth_experiences": [
+      "大学期间在考试情境中出现明显的焦虑体验；当时未接受任何心理治疗干预，且无重大躯体疾病史。",
+      "教师职业初期因新环境与外界期待导致中等强度压力；随后随着职责增加与压力上升，逐渐发展为每日在进入教室前或与学生发生具有挑战性的互动时出现的焦虑与紧张。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我无法胜任挑战，最终会失败",
+        "我必须始终保持完美的耐心，否则就是不称职"
+      ],
+      "special_situations": [
+        {
+          "event": "在进入教室前，预期当天课堂与学生可能出现具有挑战性的情形",
+          "conditional_assumptions": "如果课堂出现任何挑战而我不能保持完全耐心，就说明我不称职",
+          "compensatory_strategies": "在进教室前做深呼吸与正念练习以试图稳定情绪",
+          "automatic_thoughts": "我的学生今天会考验我的耐心",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在与学生发生具有挑战性的互动时（课堂进行中）",
+          "conditional_assumptions": "如果不能顺利处理每一次课堂问题，就证明我不适合当老师",
+          "compensatory_strategies": "提高自我要求、试图过度控制课堂细节以避免失误",
+          "automatic_thoughts": "我应付不了，我不够胜任",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在游戏中遇到高难度关卡而卡关",
+          "conditional_assumptions": "如果我不能像其他玩家一样快速通关，就说明我永远达不到他们的水平",
+          "compensatory_strategies": "暂停、观看教程、在网上寻求技巧与建议",
+          "automatic_thoughts": "我永远不会像其他玩家那样厉害",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在刚通过一个Boss后随即遇到新的关卡挑战",
+          "conditional_assumptions": "如果后续又卡住，之前的任何成功都不算数",
+          "compensatory_strategies": "忽略已取得的进步，只关注当前困难",
+          "automatic_thoughts": "之前的努力都不重要",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并证明自己胜任且稳定掌控课堂与挑战",
+        "fear": "害怕被评价为不称职、被比较后显得不足，从而感到羞耻与失败",
+        "defense_goal": [
+          "维持高标准与自我监控以避免被否定",
+          "通过提前预期最坏结果来降低失控与被批评的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能失败的教师/玩家",
+          "object_representation": "挑剔且易于否定自己的学生、同事或更优秀的他人",
+          "linking_affect": "焦虑、羞愧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与他人互动紧张或在挑战任务中受挫（如课堂困难、游戏卡关）",
+          "interpretation": "倾向将外界压力与评价内化为对自我价值的否定，认为自己“不配”“不够好”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气温和与接纳，先验证感受与努力；邀请识别自我批评的语言，使用具体例证对其进行温柔挑战，并共创可行的小步策略。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有少数密友但未与其讨论自身焦虑与压力，倾向独自承受"
+          ],
+          "outcomes": [
+            "持续的焦虑与压力感",
+            "工作人际紧张",
+            "睡眠被扰"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在游戏卡关时忽视既有成就，胜利的意义被随后的困难抹消，进而质疑投入的价值"
+          ],
+          "outcomes": [
+            "兴趣与愉悦感下降",
+            "自我否定加重",
+            "情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我不够好”“我不配”）",
+            "对建议持怀疑但谨慎尝试",
+            "在被挑战时加重自我否定"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须”“应该”式高标准要求自己（如必须完全耐心与零失误）",
+            "将外界期待内化为对自我价值的评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在遇到高难度关卡时，来访者通常会自我否定、心情低落，并显著降低对游戏的享受。",
+          "unique_outcome": "最近一次在连续几天的练习后成功击败一个Boss，短暂体验到成就与自我效能感。",
+          "reason": "做法不同：观看教程、寻求他人技巧建议并分阶段练习；情境调整：通过暂停与休息后再继续挑战，使精力与专注有所恢复。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备并主动使用多种应对策略（深呼吸、正念、观看教程、寻求技巧）",
+          "有少数密友作为潜在支持资源",
+          "愿意尝试记录成功以对抗负性思维",
+          "在困难任务中曾取得具体成功（击败Boss），具备可被唤起的自我效能体验"
+        ],
+        "negative_force": [
+          "自我苛责与非黑即白思维",
+          "预测未来与读心术等认知歪曲",
+          "忽视正面细节的心理过滤",
+          "焦虑影响睡眠与日常功能",
+          "工作人际紧张与被评价恐惧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在进入教室前及课堂中出现显著的焦虑与紧张，耐心下降",
+          "antecedent": [
+            "进入教室前预期当天课堂挑战",
+            "与学生发生具有挑战性的互动"
+          ],
+          "core_reason": "受“预测未来”“非黑即白思维”等认知歪曲影响，将可能的课堂困难灾难化并与能力不足相联系。",
+          "function": "逃避不受欢迎的体验（失败与被评价）并试图通过高度警觉获得控制感",
+          "consequence": "工作表现受影响、耐心下降、与同事关系紧张、睡眠与日常购物习惯被扰"
+        },
+        {
+          "behavior": "在游戏卡关时强烈自我否定与情绪低落，兴趣减退",
+          "antecedent": [
+            "面对高难度关卡或比较其他玩家表现时",
+            "刚取得小成就后立即遇到新难关"
+          ],
+          "core_reason": "比较与非黑即白思维、心理过滤导致将挫折视为全面失败并否定已有成功。",
+          "function": "通过自责与退缩来回避挫败感与不确定性",
+          "consequence": "游戏的愉悦与意义感下降，负性情绪增加，进一步强化自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 284
+}

@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "刘晨",
+      "gender": "男",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与家人和朋友关系因求职观念受影响而紧张，但有一位支持性的朋友可倾诉",
+      "medical_history": "无类似心理问题史；无既往心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高，情绪偏焦虑；思维中可见灾难化、过度概括、跳到结论（预测未来）与心理过滤等倾向"
+    },
+    "main_problem": "我相信自己永远无法找到一份白天的工作，因为我更喜欢夜晚而不是白天。这种信念导致我感到无望和缺乏动力，并让我回避申请白天职位，只寻找夜班工作。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为我注意到这种信念限制了我的工作机会并影响了我的整体幸福感。",
+    "growth_experiences": [
+      "几个月前拒绝了一份职业篮球的机会；此后逐渐形成“自己无法胜任白天工作”的信念，并伴随无望与动力不足的体验；求职压力被认为是加重该信念的因素。",
+      "长期更偏好夜间作息，但从未真正尝试过全职白天工作，这一偏好逐步被等同为“无法适应白天工作”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不适合白天工作",
+        "我缺乏适应日间作息的能力"
+      ],
+      "special_situations": [
+        {
+          "event": "需要搜索或浏览白天岗位信息时",
+          "conditional_assumptions": "如果我接受白天工作，我会一直疲惫、不适应，表现会很差",
+          "compensatory_strategies": "回避申请白天岗位，只关注和投递夜班职位",
+          "automatic_thoughts": "我肯定撑不住，会很惨",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "设想一旦接受白天工作后的日常安排与表现",
+          "conditional_assumptions": "如果不能完全适应白天作息，就等于失败",
+          "compensatory_strategies": "维持夜间作息，不去尝试白天岗位以避免“失败”",
+          "automatic_thoughts": "只要适应得不够好，就会一无是处",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与家人或朋友谈及求职与作息的话题",
+          "conditional_assumptions": "如果我尝试白天工作却表现不好，就会被他们看不起或否定",
+          "compensatory_strategies": "减少与他们讨论此话题，坚持只找夜班以避免被评价",
+          "automatic_thoughts": "他们会觉得我不行/在苛责我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想起曾拒绝职业篮球机会",
+          "conditional_assumptions": "错过那次机会说明我以后也容易失败",
+          "compensatory_strategies": "将“夜晚偏好”用作不尝试白天工作的理由，以避免再次失败",
+          "automatic_thoughts": "我错过了唯一的机会，之后做什么都不会顺利",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解并按自身节律生活，做出不受外界压力的选择",
+        "fear": "害怕改变带来失败与长期疲惫，并因此被他人评价或否定",
+        "defense_goal": [
+          "通过回避白天岗位来维持可控感与降低焦虑",
+          "以“夜间偏好”的理由正当化不去尝试，从而避免失败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、可能不胜任的求职者",
+          "object_representation": "不理解并施压的他人（家人/朋友/社会）",
+          "linking_affect": "焦虑、无力、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被要求或鼓励申请白天岗位，或被询问为何不尝试白天工作时",
+          "interpretation": "倾向认为他人在评判自己；一旦尝试失败就会被否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚定的语气反复强调“更适合夜晚/不适合白天”的理由，回避具体承诺，转而强调夜班的优势与匹配度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "因相信“无法胜任白天工作”而感到无望与缺乏动力",
+            "求职选择被显著收缩，仅寻找夜班，日常生产力下降",
+            "拒绝职业篮球机会后对未来方向与价值感产生怀疑"
+          ],
+          "outcomes": [
+            "回避申请白天岗位，仅搜索夜班机会",
+            "睡眠节律紊乱与生活效率下降",
+            "与亲友的关系紧张、被误解的体验加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "使用绝对化表述如“我永远无法胜任白天工作”",
+            "因担忧适应不良而过度限制求职选择，仅看夜班",
+            "在探索白天岗位时倾向先观望、不做承诺以避免直接接触挑战"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有求助动机并主动寻求咨询",
+          "具备一定自我反思能力，曾尝试自行挑战固有信念",
+          "拥有一位支持性的朋友可倾诉与鼓励"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、跳到结论（预测未来）与心理过滤等认知偏差显著",
+          "回避申请白天岗位、仅寻找夜班，导致工作机会受限",
+          "无望感与动力不足降低行动可能性",
+          "与亲友关系紧张、主观感受被误解",
+          "日夜节律紊乱、生产力下降，加剧负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避申请白天岗位、仅搜索夜班职位",
+          "antecedent": [
+            "在求职平台浏览到白天岗位",
+            "被他人建议尝试白天工作",
+            "想到需要适应日间作息的情境"
+          ],
+          "core_reason": "基于“会很惨/适应不了”的灾难化预测与“我不适合”的信念；拒绝职业篮球机会后的负性自我归因强化了该信念",
+          "function": "逃避预期的失败、疲惫与被评价，获得短期的安全感与焦虑缓解",
+          "consequence": "求职机会受限、就业不稳定或失业持续；睡眠作息紊乱、生活效率下降；与亲友关系紧张并强化无望感"
+        },
+        {
+          "behavior": "在搜索或设想白天工作时出现强烈焦虑与无望感",
+          "antecedent": [
+            "主动搜索或被要求搜索白天岗位",
+            "设想自己在白天工作场景与表现"
+          ],
+          "core_reason": "将情绪体验等同事实（情绪化推理）、对负面未来的确定性预测与过度概括",
+          "function": "通过停止搜索或转向夜班来迅速降低焦虑（逃避不适）",
+          "consequence": "强化回避行为的负性强化循环，进一步降低尝试白天岗位的可能性"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1530
+}

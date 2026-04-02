@@ -1,0 +1,221 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "75",
+      "name": "杜若曦",
+      "gender": "女性",
+      "occupation": "艺术家",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，住在带院子的房子里",
+      "social_status": "有少数朋友可倾诉，但近期主动疏远，且难以向朋友敞开心扉表达内疚与不自足",
+      "medical_history": "无重大躯体疾病；未曾接受心理治疗；无类似问题史",
+      "language_features": "表达清晰、逻辑连贯，态度中性；能配合探索但情绪负担较重，倾向自我责备；对与朋友谈及感受感到困难"
+    },
+    "main_problem": "自从爱犬近期去世以来，我一直感到不完整并被内疚压倒。我觉得自己是个糟糕的主人，这影响了我的心理健康和创作力。",
+    "topic": "情绪管理",
+    "core_demands": "因压倒性的内疚和不够好的感受影响了我进行艺术创作与在日常活动中获得喜悦，所以寻求咨询。",
+    "growth_experiences": [
+      "近期爱犬去世后，来访者持续陷入强烈内疚与自责，认为自己在照料方面失败（如可能没有及时就医、忽略病兆）。该事件引发情绪低落、创作受阻、社交疏离与日常自我照料的混乱，并在家中被与爱犬相关的提醒物反复触发。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的主人",
+        "我不够好/我会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "在家中看到与爱犬相关的提醒（如玩具、项圈、院子）",
+          "conditional_assumptions": "如果我的狗去世，就说明我作为主人完全失败",
+          "compensatory_strategies": "回避社交、用散步和艺术项目分散注意力以减轻内疚",
+          "automatic_thoughts": "都是我的错；我是个糟糕的主人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回想自己可能没有及时带狗去看兽医或错过病兆",
+          "conditional_assumptions": "如果我没有做到完美的照料，那就等于失败",
+          "compensatory_strategies": "事后反复自我苛责并试图在脑中查找“我哪里做错了”",
+          "automatic_thoughts": "我应该更早带他去看医生；如果我做得更多，他就不会死",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "进行艺术创作或处理日常事务时想到自己“没有照顾好狗”",
+          "conditional_assumptions": "在一件重要事情上失败，意味着我在其他方面也会失败",
+          "compensatory_strategies": "停止或减少创作、与朋友保持距离以避免进一步的失败感",
+          "automatic_thoughts": "我在其他方面也不行；我作为艺术家也是失败的",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆与爱犬的美好相处片段（散步、在院子玩耍、迎接回家）",
+          "conditional_assumptions": "只有结局是好的，之前的努力与付出才算数",
+          "compensatory_strategies": "否定正向记忆与证据，持续聚焦负面细节与结局",
+          "automatic_thoughts": "那些好的都不算，因为他已经走了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解、被认可并被原谅（作为尽责的主人与艺术家）",
+        "fear": "害怕被指责与被否定，害怕确认自己是失败者",
+        "defense_goal": [
+          "通过自我指责来维持对事件的可控感",
+          "与他人保持距离以避免被评判或否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负罪的失败者、不称职的照顾者",
+          "object_representation": "他人（朋友/旁人）是不理解、可能否定她的人",
+          "linking_affect": "内疚、羞愧、孤独"
+        },
+        {
+          "self_representation": "灵感枯竭、易感失败的艺术家",
+          "object_representation": "世界/工作像苛刻的考官，要求完美无误",
+          "linking_affect": "无力、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及狗去世的原因或在家中看到与爱犬相关的提醒时",
+          "interpretation": "他人会认为都是我的错，我必须承担全部责任（移情：自我贬损）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言，主动承认过错，贬低自我价值；语气低沉，减少与他人互动与眼神接触。"
+        },
+        {
+          "trigger_condition": "当想到要向朋友倾诉或准备与朋友见面时",
+          "interpretation": "他们不会理解我，会轻视或否定我的感受（移情：将批判性的他人形象投射到朋友身上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避社交、延迟见面或简短回应；用谨慎甚至自我否定的用词表达“我不该麻烦别人”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "爱犬近期去世引发持续内疚与自责",
+            "将死亡的发生归因于自身失败",
+            "难以接纳失去的事实"
+          ],
+          "outcomes": [
+            "强烈内疚",
+            "悲伤与情绪低落",
+            "社交回避与创作受阻"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "主动疏远朋友与同事",
+            "难以向朋友敞开谈及内疚感"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "支持系统削弱",
+            "孤立感加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "艺术创作受到情绪困扰影响",
+            "日常活动难以获得喜悦"
+          ],
+          "outcomes": [
+            "动机下降",
+            "生活节律被打乱",
+            "体验到不完整与失去意义感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做（将能量由外转向自身）。",
+          "manifestations": [
+            "有表达与求助的冲动但难以向朋友开口",
+            "把应向外表达的情绪转为自我苛责与自我压抑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与自我限制，包含过多的自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度自我批评（“我不够好/我是糟糕的主人”）",
+            "对社交与表达持谨慎态度，担心被轻视"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "有意避开来自内部或外部环境的某个刺激，避免直接接触。",
+          "manifestations": [
+            "以散步或艺术项目分散注意力来回避核心的悲伤与内疚",
+            "在谈及积极回忆时迅速回到负面结论，避免停留在感受上"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在家中被与爱犬相关的提醒触发时，杜若曦通常会陷入强烈自责与内疚，难以专注创作或完成日常事务。",
+          "unique_outcome": "在开始一幅全新的画作时，杜若曦能够短暂专注，内疚感相对减弱，情绪更为稳定。",
+          "reason": "线索：不同做法——将注意力转向具体创作任务；不同情境——新主题的绘画减少与爱犬的直接联想，因此出现了短暂的情绪缓和与专注。"
+        },
+        {
+          "target_problem": "沉浸在负面记忆与自我指责中时，杜若曦通常被内疚淹没，难以平衡看待自己曾经的付出。",
+          "unique_outcome": "当回忆爱犬迎接她或在院子玩耍的片段时，杜若曦感到温暖与微笑，内疚感有所缓和并能短暂体验到好的感受。",
+          "reason": "线索：不同理解——将注意力转向真实的正向照料证据与美好回忆，从而在当下获得更平衡的情绪体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备持续的艺术创作能力与兴趣",
+          "存在大量真实的正向照料记忆与证据（散步、优质饮食、陪伴）",
+          "愿意求助并尝试以更客观的视角理解事件",
+          "拥有少数可联系的朋友作为潜在支持"
+        ],
+        "negative_force": [
+          "强烈的自我责备与黑白思维",
+          "否定正向经历与证据的认知偏差",
+          "社交回避导致支持减少与孤独加重",
+          "将事件完全个人化承担责任，强化失败自我图式"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续性的自我责备与内疚",
+          "antecedent": [
+            "看到家中与爱犬相关的提醒物",
+            "回想照料细节（如就医时间、病兆）",
+            "谈及或想到爱犬的死亡"
+          ],
+          "core_reason": "将爱犬死亡完全归因于自身失败的核心信念与认知歪曲（如All-or-Nothing Thinking、Personalization、Disqualifying the Positive）",
+          "function": "通过自责维持一种“可控/赎罪”的感受，回避面对偶然性与不确定性带来的焦虑",
+          "consequence": "艺术创作受阻、日常自我照料紊乱、情绪持续低落与孤立感加重"
+        },
+        {
+          "behavior": "社交回避与疏离",
+          "antecedent": [
+            "想到与朋友交流感受",
+            "收到朋友的邀约或联系"
+          ],
+          "core_reason": "担心被误解或轻视（Mind Reading倾向）、自我价值感降低与羞愧感",
+          "function": "逃避潜在的否定或评判以降低焦虑与羞愧",
+          "consequence": "支持系统削弱、孤独感增加、负性信念得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1239
+}

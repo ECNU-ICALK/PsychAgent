@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "立志成为时装设计师",
+      "educational_background": "就读纽约知名设计学院",
+      "marital_status": "单身",
+      "family_status": "独立居住在纽约",
+      "social_status": "在时尚行业有朋友可交流，但因自信不足社交受影响、关系紧张",
+      "medical_history": "无重大躯体疾病；无既往类似心理问题与心理治疗经历",
+      "language_features": "表达清晰、逻辑性好、能自我反思；配合度高、态度积极；在谈及穿搭与行业比较时出现自我否定与焦虑"
+    },
+    "main_problem": "我常觉得自己没有时尚品味，这影响了我的自信和自尊。这些感受最近在一次没能搭配出服装后出现，并逐渐发展到我在参加活动或外出时感到焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "当我对自己时尚品味缺乏信心开始影响社交生活和学业表现时，我决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我没有时尚品味",
+        "我不可能在这个行业取得成功"
+      ],
+      "special_situations": [
+        {
+          "event": "为重要场合选择穿搭时",
+          "conditional_assumptions": "如果我无法迅速搭配出满意的造型，就说明我没有时尚品味、无法在行业中立足",
+          "compensatory_strategies": "回避活动或减少外出以避免被评价",
+          "automatic_thoughts": "我没有时尚品味；我会失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要参加行业或校园活动时",
+          "conditional_assumptions": "如果我出席，别人会注意到我的不足并看不起我",
+          "compensatory_strategies": "回避参加活动，减少与人接触",
+          "automatic_thoughts": "大家会觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与同学/同行比较穿搭与品味时",
+          "conditional_assumptions": "必须达到他人标准才算合格，否则就说明我不行",
+          "compensatory_strategies": "不断比较、寻求外部灵感（时尚博客与店铺）",
+          "automatic_thoughts": "我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "意识到自己就读名校却仍觉得不足时",
+          "conditional_assumptions": "即使有客观成绩，如果穿搭不完美，其他正面证据也不算数",
+          "compensatory_strategies": "忽视积极证据、强化自我批评",
+          "automatic_thoughts": "我还是不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，并在时尚行业证明自身价值",
+        "fear": "害怕被否定与失败，在重要场合被他人看不起",
+        "defense_goal": [
+          "通过回避社交活动减少被评价的风险",
+          "将问题归因于行业压力以缓解自我不安",
+          "依赖外部灵感与比较来维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够格、容易被否定的学生/设计师",
+          "object_representation": "他人是挑剔的评判者/更优秀的同行",
+          "linking_affect": "自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及行业高标准或与同学/同行比较时",
+          "interpretation": "来访者倾向将他人体验为严苛的评判者，认为自己会被看不起（移情：将外部标准内化为持续的审判）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先共情其压力与比较的难受，语气温和；再具体化事实与感受，温柔指出将问题单纯归因于“行业压力”的倾向，邀请其辨别内在情绪与需求。"
+        },
+        {
+          "trigger_condition": "当被邀请参加活动或需要展示穿搭时",
+          "interpretation": "来访者假定他人会负面评价自己，将不被接受视为必然（移情：对他人投射批评与拒绝）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持稳定、中性语气；询问具体证据与反例，区分推测与事实；鼓励其命名此刻情绪而非推断他人想法。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因缺乏自信而回避参加活动",
+            "难以向朋友敞开心扉谈论不自信"
+          ],
+          "outcomes": [
+            "社交联系减少与紧张",
+            "焦虑加重"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感觉必须在时尚行业表现卓越，外界标准与压力限制了自我选择",
+            "在选择穿搭时被“应该达到某标准”的信念束缚"
+          ],
+          "outcomes": [
+            "自我一致性降低",
+            "选择与行动受阻",
+            "焦虑与自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我否定（“我不够好”“我没有时尚品味”）",
+            "过度比较他人，贬低自身",
+            "在社交场合前过度担忧他人看法"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设他人会看不起自己的穿搭",
+            "把内在的不安归因于他人的“更好”与“更挑剔”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "就读纽约知名设计学院，具备一定的专业基础与才能",
+          "在行业内有朋友可交流与潜在支持",
+          "咨询态度积极，愿意尝试重构认知与行为实验",
+          "能识别并表达负性自动化思维"
+        ],
+        "negative_force": [
+          "自我否定与比较心强",
+          "过度概括并否定正向证据",
+          "对外部评价与行业标准依赖高，内在自我价值不稳",
+          "回避参加活动与社交，减少外出",
+          "在选择穿搭时显著焦虑，影响学业与社交"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在需要参加活动或外出时的社交回避",
+          "antecedent": [
+            "被邀请参加活动或需要出席重要场合",
+            "想到可能被他人评价穿搭"
+          ],
+          "core_reason": "将一次穿搭不顺泛化为“没有时尚品味”，并将自我价值与他人评价/行业标准紧密绑定，引发焦虑",
+          "function": "逃避可能的负面评价与失败，短期降低焦虑",
+          "consequence": "社交生活受损、关系紧张，学业与职业发展受影响"
+        },
+        {
+          "behavior": "面对重要场合选择穿搭时出现显著焦虑与自我贬损言语",
+          "antecedent": [
+            "需要为重要场合选择服装",
+            "临近活动与出门前准备阶段"
+          ],
+          "core_reason": "对行业“必须表现卓越”的压力与完美化标准的内化，触发灾难化与比较型认知",
+          "function": "通过回避和自我否定来暂时缓解决策压力与不确定性",
+          "consequence": "外出减少、参与度下降，持续焦虑与自尊受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 689
+}

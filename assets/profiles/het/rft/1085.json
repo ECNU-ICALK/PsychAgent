@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "林睿",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "无父母或兄弟姐妹",
+      "social_status": "主要社会支持来自朋友，但因担心被评判而犹豫分享困扰，近期感到孤立，与朋友关系出现紧张",
+      "medical_history": "无重大躯体疾病；此前无类似心理问题，也未接受过心理治疗",
+      "language_features": "对咨询持怀疑态度但能配合交流；能清晰描述经历与感受；倾向过度解读他人言行与表情；以玩笑/轻描淡写方式回避直接表达不安"
+    },
+    "main_problem": "因担心朋友对自己的睡眠习惯产生负面评价而出现焦虑与孤立感，近几个月在与朋友制定计划或谈及日常时几乎每天都感到焦虑，并逐渐担心朋友会回避自己。",
+    "topic": "人际关系",
+    "core_demands": "当我注意到焦虑已经影响到我的社交互动和整体幸福感时，我决定寻求咨询。",
+    "growth_experiences": [
+      "长期无直系亲属（无父母及兄弟姐妹），社会支持主要依赖朋友，这使得其对朋友的看法与关系质量格外敏感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是怪异/不正常的（会因此被他人评判）",
+        "他人会因为我的与众不同而疏远我"
+      ],
+      "special_situations": [
+        {
+          "event": "向朋友透露自己的睡眠作息后，朋友表现出惊讶",
+          "conditional_assumptions": "如果我的作息与众不同，别人就会觉得我很奇怪并看轻我",
+          "compensatory_strategies": "尽力为自己的作息辩解，但减少进一步自我暴露",
+          "automatic_thoughts": "他们觉得我很奇怪，会离我远一些",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友评论“睡那么晚真好啊”之类的话",
+          "conditional_assumptions": "如果别人提及我的作息，那就是在暗中评价我懒惰或不负责任",
+          "compensatory_strategies": "以玩笑方式带过（表面附和、内在高度紧张）",
+          "automatic_thoughts": "这其实是在讽刺我懒、很不负责任",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在与朋友制定计划或谈论日常时",
+          "conditional_assumptions": "如果谈到作息差异，他们就会减少和我来往",
+          "compensatory_strategies": "回避直接询问真实含义，降低自我披露以减少被评判的可能",
+          "automatic_thoughts": "他们大概会开始少找我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "观察到朋友行为与表情的细微变化",
+          "conditional_assumptions": "任何微小变化都在传达对我的不满或轻视",
+          "compensatory_strategies": "反复在心里揣测他人意图，强化自我警惕",
+          "automatic_thoughts": "这就证明他们在疏远我",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳并维持稳定的归属感",
+        "fear": "害怕被评判、拒绝与被孤立",
+        "defense_goal": [
+          "避免直接表达不安与需求以降低被拒绝风险",
+          "通过揣测与自我警惕来维持关系的表面安全",
+          "以轻松/玩笑的外表覆盖内心焦虑，避免引发冲突"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被评判与疏远的“局外人”",
+          "object_representation": "潜在挑剔、会贬低与拒绝的“评判者”朋友",
+          "linking_affect": "焦虑、羞耻、孤独/被排斥感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友提及其作息（如“睡那么晚真好啊”）或在制定计划时流露出惊讶/评论",
+          "interpretation": "将中性或含糊的信息理解为否定与贬低（移情：把他人视作挑剔的评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以玩笑口吻淡化话题，避免表达真实不安；减少追问与澄清，迅速转移到中性话题。"
+        },
+        {
+          "trigger_condition": "当被建议直接澄清朋友言外之意或表达自身感受时",
+          "interpretation": "担心直接沟通会让关系更糟，证明自己确实被嫌弃",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“不要小题大做”“这样会很尴尬”为由婉拒尝试；语气平淡，强调保持表面和气以终止探讨。"
+        },
+        {
+          "trigger_condition": "在谈及自我感受与需求时感到紧张或担心被误解",
+          "interpretation": "把直接表达等同于风险与暴露弱点",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以客观描述代替情绪表达，语气克制，回避“我感到……”，尽量不触及时的情绪细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "无直系亲属，长期以朋友为主要支持",
+            "担心被朋友评判与疏远而不敢直接沟通",
+            "在社交与日常讨论中感到被隔离、犹豫分享"
+          ],
+          "outcomes": [
+            "持续人际焦虑",
+            "社交回避与关系紧张",
+            "主观孤立感增强，生活节律与自我照料受扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "以玩笑或轻描淡写回应朋友的评论而不触及真实不安",
+            "在咨询中用理性讨论替代当下情绪触碰"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心“提出来会很尴尬”，过度权衡表达后果",
+            "害怕直接询问导致关系恶化而压抑需求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将自身对“懒/不负责任”的担忧归于朋友的想法",
+            "将中性表情或评论理解为负面评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能主动求助并进入咨询",
+          "能够识别并讨论自动化思维，愿意尝试替代性解释",
+          "与朋友保持一定联结（主要社会支持来源）",
+          "同意以小步实验检验想法（有改变意愿）"
+        ],
+        "negative_force": [
+          "读心术与预测未来的思维偏差显著",
+          "对差异被评判的高度敏感与羞耻感",
+          "回避直接沟通、以玩笑化解不安导致误解累积",
+          "社会支持单一（无直系亲属），对朋友关系的依赖度高，安全感脆弱",
+          "长期焦虑干扰日常节律与工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在人际互动情境中出现显著焦虑并倾向回避直接沟通（以玩笑/敷衍带过）",
+          "antecedent": [
+            "与朋友制定计划或讨论日常作息",
+            "听到关于作息的评论（如“睡那么晚真好啊”）",
+            "回想起向朋友披露睡眠作息后的反应与神情"
+          ],
+          "core_reason": "担心因睡眠作息与众不同而被评价为“奇怪/懒惰”，继而被疏远（对被拒绝的高度敏感与灾难化预期）",
+          "function": "逃避被拒绝与尴尬的潜在威胁，维持关系的表面和谐与自我保护",
+          "consequence": "误解增加、关系紧张与孤立感提升；日常节律与自我照料受扰，工作表现下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1085
+}

@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "林凯",
+      "gender": "男",
+      "occupation": "独立乐队鼓手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有支持性的乐队成员与朋友可倾诉，但因园艺受挫导致与队友关系一度紧张",
+      "medical_history": "无重大躯体疾病史；无既往心理治疗或精神科就诊史",
+      "language_features": "表达清晰，逻辑性好，能自我反思，配合度高，态度积极"
+    },
+    "main_problem": "我觉得自己永远不会有园艺天赋，因为每次我买吊兰它都会死，这让我感到挫败和无能。",
+    "topic": "情绪管理",
+    "core_demands": "当我发现这些挫败感影响了我的情绪以及对园艺和其他活动的享受时，我决定寻求咨询。",
+    "growth_experiences": [
+      "一年前开始接触园艺，尝试养吊兰，但多次养护失败；每次看到枯死的植物都会引发强烈挫败感与自我不足感。",
+      "作为独立乐队鼓手，频繁巡演导致在外时间长、无法规律浇水和维护，这一客观限制加重了植物存活难度。",
+      "反复失败使心情受到持续影响，园艺的兴趣与乐趣下降，出现对其他活动的愉悦感降低，并在与队友相处时更易烦躁，关系受到一定影响。",
+      "为改善养护结果曾主动研究园艺技巧、查阅资料并使用植物护理应用，但仍频繁失败，进一步强化了无力感与对自我能力的怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/不胜任",
+        "我天生没有园艺天赋"
+      ],
+      "special_situations": [
+        {
+          "event": "看到自己养的吊兰再次枯死",
+          "conditional_assumptions": "如果我连吊兰都养不活，就说明我没有能力、没有园艺天赋",
+          "compensatory_strategies": "加倍研究资料、使用植物护理App、严格按教程操作以证明自己能行",
+          "automatic_thoughts": "我永远不会有园艺天赋/我是个失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "准备开始照料一盆新植物时",
+          "conditional_assumptions": "如果之前失败过，那这次也必然会失败；过去的失败决定未来结果",
+          "compensatory_strategies": "事前反复查资料、谨慎调整水肥与光照、制定细致步骤以降低失败风险",
+          "automatic_thoughts": "无论我怎么做，这次还是会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "巡演在外，无法按时浇水与日常维护",
+          "conditional_assumptions": "我应该即使在频繁巡演中也能把植物养好，否则就证明我无能",
+          "compensatory_strategies": "在回到家时集中补救与过度护理，尝试以更频繁检查来控制结果",
+          "automatic_thoughts": "这都是我的责任；我应该能搞定",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "看到枯死的植物后情绪低落，并在与队友排练时感到易怒",
+          "conditional_assumptions": "我现在感到糟糕，就说明我确实不胜任",
+          "compensatory_strategies": "减少谈论园艺话题、把注意力转向情绪发泄（易怒）以短暂缓解无力感",
+          "automatic_thoughts": "我感觉很糟，这证明我不适合养植物",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备坚持与主动性：主动查资料、使用护理应用，愿意学习与改进",
+          "态度积极，能接受建议并愿意设定小目标逐步实践",
+          "职业功能稳定（演出未受影响），具备基本生活与工作稳定性",
+          "拥有支持性的队友与朋友，可在需要时获得情感支持"
+        ],
+        "negative_force": [
+          "巡演行程频繁，客观上难以提供稳定护理（情境限制显著）",
+          "过度概括与负性预测等思维模式强化自我否定",
+          "“应该”式自我要求与个体化归责，忽视外部情境因素",
+          "情绪化推理与挫败后易烦躁，影响人际与日常愉悦感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在植物养护相关情境下出现的强烈挫败与自我否定，并在与队友互动中易怒",
+          "antecedent": [
+            "看到枯死的植物",
+            "尝试开始照料新植物",
+            "巡演在外导致无法按时浇水与护理",
+            "触景联想到此前多次养护失败"
+          ],
+          "core_reason": "将多次吊兰养护失败归因为自身“无能/没有天赋”，形成过度概括与负性预测；同时巡演带来的客观限制加剧失败经历与无力感。",
+          "function": "短期逃避失败感与降低焦虑（通过自我否定、易怒发泄或减少谈论），获得暂时的情绪释放与控制感。",
+          "consequence": "情绪低落与兴趣降低，园艺活动受损；与队友关系紧张；整体日常愉悦感下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 113
+}

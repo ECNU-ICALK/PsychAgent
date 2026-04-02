@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "家庭主夫",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "已婚8年",
+      "family_status": "无子女，与配偶同住",
+      "social_status": "与配偶的关系因回避与驾驶相关的活动而受影响；在涉及驾驶或交通的社交活动中倾向回避；配偶总体支持但来访者难以就此具体问题深入沟通",
+      "medical_history": "未有类似心理问题史；未接受心理治疗；无重大躯体疾病",
+      "language_features": "态度中性，思维逻辑清晰，能自我反思与辨识认知偏差；表达自我标签化与灾难化倾向（如“失败者”“糟糕的运动员”）；合作度较高；在压力下易自责、完美化要求，情绪受挫后对家庭耐心下降"
+    },
+    "main_problem": "因为不会驾驶而认为自己是“失败者”，引发自卑与无价值感，并导致对驾驶与交通相关的社交活动的回避。",
+    "topic": "情绪管理",
+    "core_demands": "这种信念对我的自尊与日常生活的影响让我意识到需要专业的帮助与支持。",
+    "growth_experiences": [
+      "青少年晚期开始因社会对驾驶的期待与压力，将“不会开车”与“失败者/不被认可”相连结；近几年该信念更为突出。曾尝试参加驾驶课程，但恐惧与焦虑过强而难以坚持。",
+      "几个月前因恶劣天气错过跑步，触发强烈自我批评与标签化（如“我是糟糕的运动员”）；此后只要计划受阻（如跑步、做饭不理想），便倾向将局部失误泛化为“我在所有事情上都失败”，并出现对家人更易怒、耐心下降的情况。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我一无是处/不值得",
+        "只要没能按计划坚持，我就是失败者（条件性自我价值）"
+      ],
+      "special_situations": [
+        {
+          "event": "看到他人开车或在谈话中出现驾驶话题",
+          "conditional_assumptions": "如果我不会开车，就说明我不合格、会被社会与他人否定",
+          "compensatory_strategies": "回避涉及驾驶与交通的社交场景；尝试报名驾驶课程但因焦虑过强而退缩",
+          "automatic_thoughts": "我不能开车，所以我是个失败者/不如别人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "因恶劣天气错过一次跑步，导致训练计划未按时完成",
+          "conditional_assumptions": "如果不能严格按计划执行，就等于彻底失败",
+          "compensatory_strategies": "下次更用力逼迫自己以“补偿”失误",
+          "automatic_thoughts": "我没坚持就是失败者；我在所有事情上都失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "家务任务（如做饭）出现小失误，结果不如预期",
+          "conditional_assumptions": "只要有任何瑕疵，就证明我什么都做不好",
+          "compensatory_strategies": "加强自我批评、提高完美标准与控制感",
+          "automatic_thoughts": "我就是在所有事情上都很糟糕/不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在事务顺利时仍担心下一次挑战会出问题",
+          "conditional_assumptions": "好结果只是侥幸，下一次很可能又会失败",
+          "compensatory_strategies": "持续紧张、提前自我加压以避免“再次失败”",
+          "automatic_thoughts": "下次很可能又会出状况/我很难维持好状态",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力和值得的人",
+        "fear": "害怕被他人评判与否定、担心被视为失败者而感到羞耻",
+        "defense_goal": [
+          "通过回避驾驶相关场景与自我苛责来降低被评判的风险并维持控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不合格、容易失败的自己",
+          "object_representation": "社会/他人是严苛的评判者",
+          "linking_affect": "羞愧、焦虑、无价值感"
+        },
+        {
+          "self_representation": "努力但被误解的自己",
+          "object_representation": "好意但不理解的伴侣",
+          "linking_affect": "孤独、无奈"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其用更平衡的视角看待“失败者”标签或提出具体练习步骤时",
+          "interpretation": "感到自己的真实困境可能被简化，担心自己又得“达标”而被评判",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以温和、共情的语气肯定其逻辑能力，同时邀请其关注当下情绪与身体感受；减少说理性劝导的密度，使用开放式提问与具象化练习，帮助其在安全氛围中命名羞愧与焦虑。"
+        },
+        {
+          "trigger_condition": "当谈到跑步错过或家务失误的细节时",
+          "interpretation": "将外界不利因素内化为对自我的全责归因，认为问题都在自己身上",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "降低评判性语言，使用肯定与正常化策略；通过区分可控与不可控因素的对话，引导其将不合理的全责归因外化，并练习更公平的自我叙述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“不会开车”与“我是失败者/不值得”相连，觉得自身价值取决于是否符合社会期待（能否驾驶）"
+          ],
+          "outcomes": [
+            "自尊受损、无价值感",
+            "回避社交与活动导致生活范围缩小"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被社会规则（人人都应会开车）所束缚，难以以自我标准定义价值"
+          ],
+          "outcomes": [
+            "焦虑与自责增加",
+            "决策与生活自由度降低（不愿参与涉驾驶的活动）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "使用苛刻的自我标签（失败者、糟糕的运动员）",
+            "把局部失误视为整体失败并严厉评判自己"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "在错过跑步后把压力与攻击性转向自己，逼迫自己下次更用力",
+            "对外在因素（如天气）导致的失误，更多通过自责来处理"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备家务管理的有效能力（日常能胜任家庭职责）",
+          "有支持性的配偶可倾诉",
+          "愿意寻求专业帮助并参与结构化练习",
+          "能够识别并讨论自身的认知偏差（逻辑上能看到不合理）",
+          "曾主动尝试通过驾驶课程来改变现状"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "自我标签化与过度概括",
+          "对驾驶的恐惧与焦虑导致回避",
+          "对社会期待的内摄较强，依赖外部评价来界定自我价值",
+          "因自责与压力导致对家人更易怒、耐心下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与驾驶和交通相关的社交活动与日常事务",
+          "antecedent": [
+            "看到别人驾驶",
+            "谈话中出现驾驶话题",
+            "需要参与需要驾驶/交通安排的活动"
+          ],
+          "core_reason": "将社会期待内化为个人价值判断（不会开车=失败者），伴随灾难化担心被评判与羞耻",
+          "function": "逃避被评判与羞耻情境，短期降低焦虑",
+          "consequence": "跑腿与社交参与受限，生活范围缩小，与配偶关系受影响"
+        },
+        {
+          "behavior": "在计划受阻时的自我苛责与负性标签化（如错过跑步、做饭不理想即认为“我在所有事情上都失败”）",
+          "antecedent": [
+            "恶劣天气导致跑步中断",
+            "家务或烹饪结果不如预期",
+            "任何计划出现偏差"
+          ],
+          "core_reason": "条件性自我价值与完美化标准（必须按计划达标才算有价值），伴随非黑即白与过度概括的认知偏差",
+          "function": "通过自我施压试图维持控制感与防止再次失败",
+          "consequence": "挫败感与焦虑加重，对家庭更易怒与耐心下降，整体自尊受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 966
+}

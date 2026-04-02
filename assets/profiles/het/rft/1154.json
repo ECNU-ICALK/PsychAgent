@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "刘杰",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "家中最小的孩子",
+      "social_status": "与家人的关系因自己对“被食物选择评判”的感受而变得紧张",
+      "medical_history": "无明显躯体疾病；无既往心理治疗或咨询史",
+      "language_features": "未提及"
+    },
+    "main_problem": "我认为我的家人觉得我不健康，因为我最喜欢的食物是垃圾食品，这让我感到被评判和批评。",
+    "topic": "家庭关系",
+    "core_demands": "这些被评判的感受让我痛苦，并影响了我与家人的关系；我想再次在家人面前感到自在，不再被这种“被评判的乌云”笼罩。",
+    "growth_experiences": [
+      "家庭结构：家中最小的孩子。",
+      "几个月前的一次家庭聚餐中，刘杰选择了披萨和炸薯条，姐姐评论其食物不健康，随后其他家人也跟着评论其饮食习惯。此后，刘杰在家庭活动或关于食物的话题中持续感到被评判与误解，逐渐对家族聚会产生回避，关系变得疏远且见面时感到尴尬。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被家人接纳/认可",
+        "我的价值取决于他人的看法"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前的家庭晚餐中，姐姐指出其食物不健康，家人纷纷附和评论饮食习惯",
+          "conditional_assumptions": "如果我吃垃圾食品，家人就会认定我不健康并否定我",
+          "compensatory_strategies": "当下进行辩解或转移话题，事后减少参加家庭聚会以避免再次被评论",
+          "automatic_thoughts": "他们都觉得我不健康。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在家庭活动中出现关于食物与健康的谈论",
+          "conditional_assumptions": "只要提到食物话题，他们就会把矛头指向我",
+          "compensatory_strategies": "提前保持低调、尽量不在家人面前选择喜爱的食物，或避免参与相关讨论",
+          "automatic_thoughts": "他们一会儿就会开始批评我。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在与家人见面时感到关系疏远、互动尴尬",
+          "conditional_assumptions": "如果关系变得尴尬，说明他们在怪我、认为我不成熟",
+          "compensatory_strategies": "减少接触、保持防御姿态，避免深入沟通",
+          "automatic_thoughts": "他们觉得我幼稚、在找事。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到或想到家庭聚会的邀请",
+          "conditional_assumptions": "只要去参加，一定会再次被批评和羞辱",
+          "compensatory_strategies": "直接拒绝或拖延不去，避免面对家人评价",
+          "automatic_thoughts": "去了肯定又会被他们数落。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人理解与接纳，同时保有对个人饮食选择的自主与尊重",
+        "fear": "害怕在亲密关系中被批评、羞辱或被控制，从而失去自我价值感",
+        "defense_goal": [
+          "通过与家人保持距离和回避相关话题来减少被评判的风险、维持自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、易受评判的自我",
+          "object_representation": "批评性、控制性的家人/他者",
+          "linking_affect": "羞耻、愤怒、委屈"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当家人评论其食物选择或谈论健康饮食时",
+          "interpretation": "将家人的关心或建议等同于否定与控制（“他们不接纳我”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用平静、理性化的语气强调“每个人口味不同”“这是我的选择”，回避表达受伤或羞耻的情绪，尽量缩短对话。"
+        },
+        {
+          "trigger_condition": "当与家人见面感到疏远或尴尬、或预期将被他人负面评价时",
+          "interpretation": "认为他人把自己看成“幼稚/找事”，将内心的不安外归为对方的负面看法",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气防御、偏向指责式解释（如“他们总是这样”），减少自我情绪暴露，快速结束话题或撤离情境。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到被误解、被评判；与家人关系疏远、见面尴尬；回避家庭聚会"
+          ],
+          "outcomes": [
+            "社交退缩与隔离感增加",
+            "亲密联结感下降",
+            "自我意识过强与不适感上升"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强调饮食选择的个人自主性，渴望不被干涉；面对家人规范产生冲突"
+          ],
+          "outcomes": [
+            "在追求选择自由与被接纳需求之间的内在拉扯",
+            "回避沟通以维护自主，导致关系进一步受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在被家人评论时变得防御并转移话题",
+            "避免深入谈论被伤害与羞耻的感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "未直接求证他人想法时，推断“他们觉得我幼稚/不健康”",
+            "将内心不安外归为他人的贬低与否定"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向家人表达受伤或被评判的感受，选择自我忍耐与回避聚会",
+            "将对他人的不满转为自我限制（减少接触以避免冲突）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有改变动机并主动寻求咨询帮助",
+          "愿意探索和练习沟通策略（如使用“I”陈述、角色扮演）",
+          "能够反思自身反应与识别触发点"
+        ],
+        "negative_force": [
+          "读心术与预测未来的思维模式，倾向将一次评论泛化为持续的负面评价",
+          "回避家庭聚会与防御性沟通，阻碍关系修复",
+          "缺乏可依靠的社会支持系统",
+          "对他人评价高度敏感、过度自我关注，易产生羞耻与被否定感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避家庭聚会与与家人的直接互动",
+          "antecedent": [
+            "收到或想到家庭聚会邀请",
+            "家庭场合出现关于食物与健康的话题"
+          ],
+          "core_reason": "预期会被批评与评判，产生羞耻和防御，形成逃避动机",
+          "function": "逃避不受欢迎的刺激（负面评价、被羞辱的风险）",
+          "consequence": "与家人关系紧张、疏远，见面时更尴尬，社交支持减少"
+        },
+        {
+          "behavior": "在被评论时变得防御并转移话题",
+          "antecedent": [
+            "家人在聚餐时评论其食物选择",
+            "谈话出现“健康/垃圾食品”等敏感关键词"
+          ],
+          "core_reason": "保护自尊、降低羞耻与被否定的痛感",
+          "function": "短期内终止不适谈话、避免情绪暴露",
+          "consequence": "真实感受未被表达，家人难以理解其立场，误解与紧张关系持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1154
+}

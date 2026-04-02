@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "李瑾",
+      "gender": "女",
+      "occupation": "商场保安",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "最近离婚",
+      "family_status": "无子女",
+      "social_status": "离婚后与朋友和家人的关系紧张；有一位亲密朋友支持，但尚未与其讨论负性思维。",
+      "medical_history": "无明显躯体疾病；此前无类似问题；无既往心理治疗/咨询史。",
+      "language_features": "表达清晰、逻辑性较强、合作度良好；能识别并描述自动化思维；情绪呈焦虑；语速未提及。"
+    },
+    "main_problem": "我正在写一本关于动物的电子书，但我总是否定自己的努力，认为这件事谁都能做、不需要聪明。这些想法自开始写作就出现，尤其在写作遇到挑战时更明显；我认为离婚带来的压力触发了这些想法，与其他作者比较时更频繁。几乎每次坐下写作或头脑风暴都会出现这些否定性的想法，我曾尝试把它们推开，但总是反复出现。",
+    "topic": "情绪管理",
+    "core_demands": "我寻求咨询是因为这些负性想法阻碍了我写电子书的进展，并且影响了我的自尊。",
+    "growth_experiences": [
+      "最近经历离婚，导致与朋友和家人的关系紧张（人际关系受挫）。",
+      "几周前宠物狗走失了几个小时，当时立即想到最糟糕的情况（它们已经死亡或永远丢失）。虽然最终找回，但此后只要看不见它们就会惊慌并想象可怕结果，几乎整天被担忧占据；为此取消与朋友的计划留在家中看护，频繁联系动物收容所、张贴寻狗启事，睡眠和饮食受到影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明",
+        "世界是不安全的"
+      ],
+      "special_situations": [
+        {
+          "event": "坐下来写作或为电子书进行头脑风暴时",
+          "conditional_assumptions": "如果任何人都能写电子书、这件事不需要聪明，那我的努力就没有价值，说明我并不聪明",
+          "compensatory_strategies": "贬低与否定自己的进展与优点，尝试把这些想法推开但反复出现",
+          "automatic_thoughts": "写书并不需要聪明，任何人都能做，我的努力没什么",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与其他作者进行比较时",
+          "conditional_assumptions": "如果我不如其他作者，就证明我不够聪明、不配称为作者",
+          "compensatory_strategies": "反复比较并质疑自己的能力与价值",
+          "automatic_thoughts": "我比不上他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在写作过程中遇到挑战或卡顿时",
+          "conditional_assumptions": "如果遇到困难就等于我不够聪明、我会失败",
+          "compensatory_strategies": "试图压抑负性想法，但在困难时更加自我否定",
+          "automatic_thoughts": "我做不到/我不够聪明",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看不见狗或想起之前狗走失的经历时",
+          "conditional_assumptions": "如果我不能时刻监控与掌控，就会发生最糟糕的事",
+          "compensatory_strategies": "取消社交计划留在家看护、频繁联系收容所、张贴启事、给住所做防护",
+          "automatic_thoughts": "他们可能出事了，我可能再也见不到他们",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自己的能力被肯定，并确保重要对象（宠物）的安全与可控性",
+        "fear": "害怕被否定与失败；害怕失去所爱并发生不可控的灾难",
+        "defense_goal": [
+          "通过贬低积极成就来回避评价压力与失败感",
+          "通过保持高度警惕与控制来获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、需要不断证明自己的自我",
+          "object_representation": "他人/作家群体是更优秀且具评判性的标准参照",
+          "linking_affect": "自卑、羞愧"
+        },
+        {
+          "self_representation": "焦虑的守护者，需要随时防止灾难发生的人",
+          "object_representation": "外部世界（尤其与宠物相关）是危险且不可预测的",
+          "linking_affect": "恐惧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨证据、邀请其在警觉与安心间寻找平衡时，或谈及对宠物安全的不确定性",
+          "interpretation": "只有保持高度警惕与提前应对所有‘万一’，才算负责任且能确保安全",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以列举潜在风险和应对方案的方式回应，频繁使用“万一/如果”表述，语气谨慎、略显焦虑，强调需要更多掌控。"
+        },
+        {
+          "trigger_condition": "当被他人肯定写作进展或被邀请关注自己的积极努力时",
+          "interpretation": "积极反馈“不算数”，因为“这事谁都能做、不需要聪明”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用冷静客观的语气把成就归因于“这很简单/运气/不需要能力”，以减少情绪卷入和被评价的压力。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "最近离婚导致与朋友和家人的关系紧张",
+            "虽有支持的亲密朋友，但尚未分享自身负性思维与困扰"
+          ],
+          "outcomes": [
+            "主观孤立感与支持感不足",
+            "焦虑水平升高",
+            "自尊受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "把自己的写作努力贬低为“不需要聪明、任何人都能做”",
+            "难以承认已投入的努力与进展"
+          ],
+          "outcomes": [
+            "写作动机下降",
+            "专注与效率受损",
+            "自尊与价值感降低"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈追求对宠物安全的绝对确定性与掌控",
+            "对不确定性的难以容忍（持续‘如果/万一’的担忧）"
+          ],
+          "outcomes": [
+            "过度监控与回避导致生活范围收缩",
+            "持续焦虑与紧张",
+            "睡眠和饮食受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我否定与贬低成就（“这事谁都能做，不需要聪明”）",
+            "难以接纳积极证据和肯定反馈"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "取消与朋友的计划，转而把能量用于在家监控与看护宠物",
+            "压抑外出社交/求助冲动，转为自我紧张与自我消耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有行动力并采取多项具体安全措施保护宠物（牵引、加固环境等）",
+          "愿意寻求心理咨询以改变思维模式",
+          "能识别并命名自己的认知偏差（如否定正面）",
+          "拥有一位支持性的亲密朋友",
+          "有稳定工作与基本生活结构"
+        ],
+        "negative_force": [
+          "灾难化与‘what if’式思维强烈，难以容忍不确定性",
+          "否定积极与与他人比较导致自卑，削弱自我效能感",
+          "过度监控与回避行为维持焦虑（取消计划、持续检查）",
+          "对绝对控制与确定性的刚性需求",
+          "可用的社会支持未充分利用（未与朋友分享困扰）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对宠物安全的强烈焦虑与过度监控",
+          "antecedent": [
+            "看不见狗时",
+            "回想几周前狗走失的经历",
+            "想到可能发生的意外场景"
+          ],
+          "core_reason": "近期走失事件形成条件性恐惧记忆，并伴随灾难化认知与对确定性的强烈需求",
+          "function": "逃避不确定性、获得短暂的安心与控制感",
+          "consequence": "取消与朋友的计划、睡眠与饮食受影响、持续焦虑并影响工作专注"
+        },
+        {
+          "behavior": "在写作情境中的自我贬低与否定积极（自我否定性自动思维）",
+          "antecedent": [
+            "坐下来写作或进行头脑风暴时",
+            "写作遇到挑战或卡顿时",
+            "与其他作者进行比较时"
+          ],
+          "core_reason": "离婚带来的压力触发自我怀疑，遇到困难时将其等同于能力不足，并形成“否定正面”的认知模式",
+          "function": "暂时降低被评价与失败的压力（降低期望、回避脆弱感）",
+          "consequence": "写作动机与专注下降，进度受阻，自尊受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 979
+}

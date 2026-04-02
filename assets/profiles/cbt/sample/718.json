@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "何楠",
+      "gender": "男性",
+      "occupation": "教师",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与同事疏远、较少交流；拥有几位亲密朋友但未分享内疚与自我否定感受",
+      "medical_history": "无重大躯体疾病；既往未接受过心理治疗；未有类似心理问题史",
+      "language_features": "表达清晰、逻辑连贯，能进行自我反思；整体语气消极，配合度良好"
+    },
+    "main_problem": "因上周忘记给学生安排一次课堂小测导致强烈的内疚与自我不足感，持续自我责备和负性自我对话，过度思考并假设最坏结果。",
+    "topic": "情绪管理",
+    "core_demands": "由于内疚与自我责备影响心理健康与工作表现，寻求咨询以减轻这些感受并改善教学专注与表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职的教师",
+        "我的错误会造成严重后果"
+      ],
+      "special_situations": [
+        {
+          "event": "在课堂里看到学生时",
+          "conditional_assumptions": "我应该做到完美、不能犯错；否则我就是不称职，会让学生失败",
+          "compensatory_strategies": "通过安排额外加分作业、在教学上加倍用力来弥补错误",
+          "automatic_thoughts": "我让学生失望了，他们可能会因此落后",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "考虑与学生或家长沟通漏发测验的事情",
+          "conditional_assumptions": "如果承认错误，学生和家长会失去对我的尊重并提出投诉",
+          "compensatory_strategies": "回避与学生和家长讨论此事，保持沉默以避免负面评价",
+          "automatic_thoughts": "他们会看不起我，家长会投诉",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事接触或想到与同事交流此事",
+          "conditional_assumptions": "如果暴露失误，就会被同事看低，我不配与他们交流",
+          "compensatory_strategies": "与同事保持距离，减少互动",
+          "automatic_thoughts": "他们一定觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "夜间试图入睡时反复回想漏发测验的错误",
+          "conditional_assumptions": "我应该为错误持续自我惩罚并反复思考，只有这样才不会再犯错",
+          "compensatory_strategies": "反复回放并自我批评以维持高标准",
+          "automatic_thoughts": "我本该做得更好，我不该被原谅",
+          "cognitive_pattern": "Should Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职、负责任的教师，学生与家长对自己保持尊重",
+        "fear": "害怕让他人失望、害怕失去他人尊重并遭到批评或投诉",
+        "defense_goal": [
+          "通过自责与高标准约束自己来避免失败",
+          "保持疏离以减少被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、需要自我惩罚的过度负责者",
+          "object_representation": "苛评且可能失去尊重的他人（学生/家长/同事）",
+          "linking_affect": "内疚、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与学生沟通或询问来自学生/家长的反馈时",
+          "interpretation": "潜意识将自我批评投射为他人的负面评价，认为对方会看不起自己或投诉",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，强调担忧与可能的负面结果，避免直接接触与开放沟通。"
+        },
+        {
+          "trigger_condition": "当谈及自身职业能力或错误影响时",
+          "interpretation": "将对外的愤怒/失望转向自身，强化自责与内疚",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我指责的表述，贬低自我价值，重复“都是我的错”的观点。"
+        },
+        {
+          "trigger_condition": "当被引导用证据评估一次测验的实际影响时",
+          "interpretation": "以理性分析淡化情绪卷入，但无法整合强烈内疚感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "强调逻辑与证据、语气平稳，同时承认“感觉仍很强烈”，保持情感距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因事件与同事疏远、减少互动",
+            "拥有朋友但未分享内疚与不足感"
+          ],
+          "outcomes": [
+            "负性情绪加重（内疚、焦虑）",
+            "睡眠与饮食紊乱",
+            "工作专注下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将学生的成功视为自己必须承担的责任",
+            "害怕错误与失去尊重",
+            "以“应该/必须”自我约束、追求完美"
+          ],
+          "outcomes": [
+            "过度自责与回避沟通",
+            "压力与焦虑增加",
+            "反刍思维持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自责与负性自我对话",
+            "认为自己“不配”与他人交流",
+            "过度担心他人评价而减少接触"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该/必须…”的自我要求",
+            "以完美标准衡量自我与工作"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界做某行为的冲动，转而对自己做，将能量回转到自身。",
+          "manifestations": [
+            "未向朋友寻求支持，转而加强自责与反刍",
+            "避免与同事直接交流此事"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在犯错或认为让他人失望的情境中，来访者通常会强烈内疚、持续自我责备与过度思考，并回避与他人沟通。",
+          "unique_outcome": "在上周意识到忘记发放小测后，来访者没有完全陷入回避，而是为学生设置了额外加分作业进行补救，采取了积极的行动。",
+          "reason": "不同做法：主动制定补救方案并实施；不同理解/价值：出于对学生进步的重视与责任感推动其行动。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "强烈的责任心与对学生的关怀",
+          "能够采取具体补救行动（设置额外加分）",
+          "具备一定的理性评估能力（知道一次测验并非决定性）",
+          "拥有潜在社会支持资源（有几位亲密朋友）"
+        ],
+        "negative_force": [
+          "灾难化与个人化的认知倾向",
+          "对负面结果的预测与读心术",
+          "僵化的“应该”规则与完美主义标准",
+          "社交回避与与同事疏离",
+          "反刍与自我惩罚导致睡眠与饮食受扰"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续自责与反复过度思考（反刍）",
+          "antecedent": [
+            "想到上周忘记发放小测验",
+            "在课堂看到学生",
+            "觉察到自己可能犯错或让人失望的线索"
+          ],
+          "core_reason": "对错误持灾难化与个人化认知，将学生的成功与失败过度归因于自我责任；以“应该”标准自我惩罚。",
+          "function": "逃避面对不确定与羞耻，获得暂时的控制感与自我警戒感",
+          "consequence": "睡眠与饮食受扰，工作专注下降，负性情绪维持"
+        },
+        {
+          "behavior": "社交回避（与同事疏离、未向朋友分享感受）",
+          "antecedent": [
+            "想到可能被评价或被质疑",
+            "考虑与学生或家长沟通漏发测验的事情"
+          ],
+          "core_reason": "预测他人负面反应与失去尊重，读心与预言负面导致回避",
+          "function": "逃避潜在批评与羞耻，短期降低焦虑",
+          "consequence": "孤立加重、支持减少，内疚与焦虑维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 718
+}

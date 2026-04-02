@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "王雅宁",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "小学",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "与朋友关系紧张；在学校与同伴聚会中社交受影响",
+      "medical_history": "无显著身体疾病；过去未出现类似心理问题；未接受过心理治疗",
+      "language_features": "略显紧张但开放、配合度高，表达清晰，能进行自我反思，态度积极"
+    },
+    "main_problem": "我感到朋友认为我因为把所有钱都花在漫画上而很怪，因而产生不安全感和自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "当我意识到这些想法和感受正在影响我的自尊和自信时，我决定寻求咨询。",
+    "growth_experiences": [
+      "曾因喜欢超级英雄而被同学取笑；这使我对自己的兴趣产生羞耻与不安，逐渐不愿在同伴面前分享，担心被评判与嘲笑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是怪异的、不会被同伴接纳",
+        "我的兴趣不符合年龄，会让人觉得我幼稚"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前在学校无意间听到朋友讨论我的漫画收藏",
+          "conditional_assumptions": "如果我把所有钱都花在漫画上，别人就会认为我怪或幼稚",
+          "compensatory_strategies": "避免谈论漫画和超级英雄，以掩饰不安全感",
+          "automatic_thoughts": "他们一定觉得我很怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在学校或同伴社交聚会时出现关于兴趣或消费的聊天话题",
+          "conditional_assumptions": "如果我谈及对漫画的热爱，就会被评判或嘲笑",
+          "compensatory_strategies": "回避相关话题，克制在同伴面前表达兴趣",
+          "automatic_thoughts": "他们会嘲笑我、看不起我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想起曾被同学因我喜欢超级英雄而取笑的经历",
+          "conditional_assumptions": "一次被取笑意味着我的兴趣在别人眼里都不被认可",
+          "compensatory_strategies": "减少在同伴面前分享兴趣以避免再次被取笑",
+          "automatic_thoughts": "他们总会看不起我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当注意到自己把几乎所有钱都花在漫画上",
+          "conditional_assumptions": "如果我把所有钱都花在漫画上，就说明我不成熟、不负责任",
+          "compensatory_strategies": "在他人面前弱化或隐藏自己的消费与兴趣",
+          "automatic_thoughts": "我这样很不成熟，朋友会因此远离我",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同伴理解与接纳，能够自在地表达和分享自己的兴趣",
+        "fear": "害怕被嘲笑、被评判与被排斥",
+        "defense_goal": [
+          "通过隐藏兴趣与回避谈论来维持关系的安全感，减少羞耻与不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被接纳、容易被嘲笑的局外人",
+          "object_representation": "爱评判与可能嘲笑自己的同伴",
+          "linking_affect": "羞耻、不安、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询围绕“朋友如何看待她的漫画爱好”并邀请其提供具体证据时",
+          "interpretation": "倾向把内在的不安与羞耻感投向他人，假定他人正在评判自己（移情：将他人视作可能的评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持共情与支持的语气，温和地邀请其区分事实与推测；使用具体化追问（何时、何地、谁在场）与证据检验，鼓励表达当下情绪体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被评判而回避分享兴趣；与朋友关系紧张、不敢做真实的自己；对父母虽关系亲近但犹豫表达不安全感"
+          ],
+          "outcomes": [
+            "不安全感与自我怀疑增加",
+            "社交参与与乐趣下降",
+            "自尊与自信受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "会谈开始时表示紧张与不安",
+            "在同伴面前谨慎克制地表达兴趣",
+            "出现自我怀疑与自责（担心自己“很怪”或“不成熟”）"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友在评判或看不起自己，尽管缺乏直接证据（主要依据一次无意听到的谈话）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与父母关系亲近，具备潜在支持资源",
+          "学业未受影响，基本功能维持良好",
+          "主动寻求咨询并态度积极，愿意尝试作业与认知重构",
+          "能清晰表达并进行自我反思",
+          "对漫画的热爱带来稳定的内在兴趣与意义感"
+        ],
+        "negative_force": [
+          "读心术与过度概括等认知偏差强化自我怀疑",
+          "害怕被评判导致回避表达与社交克制",
+          "自尊与自信受损",
+          "与朋友关系紧张，互动质量下降",
+          "对父母表达犹豫，支持系统利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学校和社交场合回避谈论漫画及相关话题",
+          "antecedent": [
+            "在学校或同伴聚会谈到兴趣或消费",
+            "想到几个月前朋友讨论自己的漫画收藏",
+            "接触到与漫画相关的聊天或线索"
+          ],
+          "core_reason": "曾被同学取笑，形成“他人会评判我”的信念，并伴随读心术与过度概括的认知偏差",
+          "function": "逃避潜在的负面评价与嘲笑，降低羞耻与焦虑",
+          "consequence": "与朋友关系紧张、难以做真实的自己，社交乐趣下降"
+        },
+        {
+          "behavior": "在社交情境中显著的不安全感与自我怀疑",
+          "antecedent": [
+            "在学校或社交聚会时",
+            "注意到自己把钱几乎都花在漫画上并担心不被认可"
+          ],
+          "core_reason": "将兴趣与“幼稚/不符合年龄”等标签关联，担心被否定与排斥",
+          "function": "通过自我否定与自我克制来尝试预防外界否定与冲突",
+          "consequence": "自尊与自信受影响，但学业未受影响；社交互动受阻、活动享受度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 94
+}

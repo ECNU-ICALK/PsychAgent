@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "陈浩",
+      "gender": "男",
+      "occupation": "漫画书店店员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与室友同住",
+      "social_status": "有支持性的室友，但尚未与其讨论与漫画相关的焦虑；工作中因分心于选择阅读内容，影响与顾客互动",
+      "medical_history": "无重大躯体疾病；无既往类似问题；无既往心理治疗史",
+      "language_features": "思路清晰、表达有条理、配合度高；能觉察并描述自动化想法与担忧；情绪平稳（中性）"
+    },
+    "main_problem": "“我永远无法把想看的漫画都读完”，因此感到不堪重负和焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "因“永远追不完”的压迫感削弱了对漫画这一爱好的享受并导致显著焦虑，希望通过咨询减轻这种焦虑、恢复对阅读的乐趣。",
+    "growth_experiences": [
+      "两年前开始在漫画书店工作，每天被大量新旧漫画所包围；从那时起逐渐出现“追不完”的焦虑与压迫感，阅读从享受变为压力源。",
+      "来访者对漫画抱有强烈热情，但面对海量内容与持续更新，产生“跟不上就会错过伟大故事”的担忧，这一担忧逐步内化为稳定的焦虑触发因素。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果我不能把喜欢的事做到完整与不遗漏，就说明我不够好/会错过重要体验",
+        "要想真正享受与热爱某件事，就必须‘跟上全部’"
+      ],
+      "special_situations": [
+        {
+          "event": "在漫画书店工作时被海量新旧漫画与持续上新的作品所包围",
+          "conditional_assumptions": "如果我不能跟上所有新作并把重要的都读到，就会错过伟大故事、证明我不够投入",
+          "compensatory_strategies": "制定详细阅读清单与计划、不断在标题之间比较权衡以试图覆盖‘所有’",
+          "automatic_thoughts": "我永远追不上，会错过很多精彩。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次读完一本漫画后想到尚未阅读的庞大清单",
+          "conditional_assumptions": "只有把想看的都读完，我的阅读才算完整和值得",
+          "compensatory_strategies": "立刻扩充阅读清单、加快节奏、缩短品读时间以求“覆盖面”",
+          "automatic_thoughts": "我还没读的太多了，我在不断落后。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "尝试用严格的阅读时间表与清单来管理选择",
+          "conditional_assumptions": "通过更严密的计划就能实现对庞大内容的完全掌控",
+          "compensatory_strategies": "过度计划与量化目标、以完成量作为自我评价标准",
+          "automatic_thoughts": "计划这么长，这辈子都完不成。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "工作中需要帮助顾客或面对新到货时",
+          "conditional_assumptions": "如果当下没有做出最优的阅读选择，就会造成不可逆的损失与遗憾",
+          "compensatory_strategies": "在工作时分心于比较与挑选下一本，回避当下任务",
+          "automatic_thoughts": "我要是现在选错就会后悔，还是想想看读哪本更好。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在喜爱的领域中获得完整与掌控感，从而安心而充分地享受阅读",
+        "fear": "害怕错过重要作品、落后与不完整，从而失去价值感与乐趣",
+        "defense_goal": [
+          "通过过度计划与控制来降低‘错过’的风险",
+          "持续监控与扩充清单以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "永远追不上的读者、容易落后的自己",
+          "object_representation": "无穷无尽、令人生畏并不断施加压力的外界要求（海量作品）",
+          "linking_affect": "焦虑、压迫感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问焦虑来源或被邀请放下“必须读完”的标准时",
+          "interpretation": "倾向将内在的控制与完整要求解释为外在客观压力（内容太多、必须跟上），从而弱化对“自身标准”的觉察",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以共情与好奇的语气温和追问其“必须读完”的标准来源与功能，反映情绪而不过度解释，避免直接争辩其理由。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对无限的选择与持续上新的作品感到沉重的选择负担",
+            "将“全部读完”视为对自由选择的掌控方式"
+          ],
+          "outcomes": [
+            "焦虑与不堪重负",
+            "难以享受阅读本身",
+            "入睡困难"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "阅读逐渐从兴趣与享受转为任务式完成与清单驱动",
+            "关注“读过的数量/覆盖面”而非当下体验"
+          ],
+          "outcomes": [
+            "兴趣与乐趣降低",
+            "工作时分心、与顾客互动质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须/需要读完”为内在准则来评判自我与阅读是否‘合格’",
+            "将“跟上全部”当作理所当然的要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我评估是否‘落后’、是否选错下一本",
+            "担心错过导致阅读与工作中的紧张与犹豫"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对漫画具有持续而深厚的兴趣与投入",
+          "愿意寻求帮助并与咨询师合作探索思维与情绪",
+          "具备一定组织能力（能制定清单与计划）",
+          "拥有支持性的室友关系"
+        ],
+        "negative_force": [
+          "灾难化的‘错过’担忧与FOMO倾向",
+          "心理过滤、预测未来、过度概括等认知扭曲强化焦虑",
+          "对‘完整/覆盖全部’的僵化内摄标准",
+          "高刺激情境（工作场所持续暴露于大量新作）",
+          "睡眠受焦虑影响，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对“无法读完所有想看的漫画”的过度担忧与强迫性计划/比较",
+          "antecedent": [
+            "在书店工作时被大量新旧漫画与上新信息所刺激",
+            "每次读完一本后想到尚未阅读的清单",
+            "面临选择下一本阅读或新到货时",
+            "看到新作发布与推荐信息"
+          ],
+          "core_reason": "害怕错过重要作品、追求完整与掌控感；受心理过滤、预测未来、过度概括等认知偏差驱动",
+          "function": "逃避不确定性与‘错过’带来的焦虑，暂时获得控制与确定感",
+          "consequence": "焦虑上升、入睡困难、阅读乐趣下降、工作分心与绩效受损、与顾客互动质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 250
+}

@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "赵思曼",
+      "gender": "女",
+      "occupation": "房地产经纪人，周末做服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "在8个兄弟姐妹中最小",
+      "social_status": "有亲密的朋友支持网络，愿意给予朋友支持；但对与朋友讨论自己的恋爱困扰感到不适，看到幸福情侣或在社交场合易受触发并出现回避",
+      "medical_history": "无重大躯体疾病；分手后曾出现短暂的无望感但未持续；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑连贯，能配合并进行自我反思；整体语气消极、悲观，常用绝对化词语（如“永远”、“注定”），存在自我否定与寻求外部证据的倾向"
+    },
+    "main_problem": "尽管一直主动寻找伴侣，但持续感觉“永远找不到爱”，由此产生无望与孤独感；近几年加重，看到幸福情侣或参加社交活动时尤为明显，影响睡眠、动机与工作表现，甚至想要完全放弃寻找爱情。",
+    "topic": "人际关系",
+    "core_demands": "因为这些无望感开始影响我的日常生活和心理健康而决定来做咨询。我只是不想一直这样感觉下去。",
+    "growth_experiences": [
+      "青少年后期开始经历一系列失败的恋爱关系，最初压力感中等，但近几年显著加重；分手后曾出现类似的无望感，但以往并未持续很久。",
+      "原生家庭背景：在8个兄弟姐妹中最小。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会一直孤独",
+        "没有人会爱我",
+        "我不值得被爱"
+      ],
+      "special_situations": [
+        {
+          "event": "看到幸福的情侣",
+          "conditional_assumptions": "如果别人都有伴侣而我没有，就说明我有问题、我不值得被爱",
+          "compensatory_strategies": "回避社交情境以减少被比较与被触发的不适",
+          "automatic_thoughts": "我就是不被爱，我会一直一个人",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "参加社交活动",
+          "conditional_assumptions": "如果在社交场合没有人对我感兴趣，就意味着我未来也没有希望",
+          "compensatory_strategies": "减少参加社交活动，降低自我暴露以避免再次失望",
+          "automatic_thoughts": "再怎么去也没用，我永远找不到人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "独处或反思过去失败的关系",
+          "conditional_assumptions": "如果过去的关系都失败了，就说明以后也都会失败",
+          "compensatory_strategies": "反复反思过往、沉浸在负性记忆中以试图“找出原因”但实际上强化无望",
+          "automatic_thoughts": "我总是会失败，我不配被爱",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆一系列失败的恋爱经历",
+          "conditional_assumptions": "如果这段时间还找不到合适的人，就证明我不可能拥有爱情",
+          "compensatory_strategies": "用“全有或全无”的标准评估进展（要么立刻遇到合适的人要么就放弃），并反复寻求外部建议与自助书验证",
+          "automatic_thoughts": "如果现在没有结果，以后也不会有，一切努力都没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱、被接纳并拥有稳定的亲密关系",
+        "fear": "害怕被拒绝、被抛弃与最终的孤独无依",
+        "defense_goal": [
+          "通过回避社交与否定希望来降低再度受伤的风险",
+          "以寻求外部证据与理性化论证来控制不确定性与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被爱的孤独者/失败的伴侣",
+          "object_representation": "潜在伴侣是评判者与可能的拒绝者",
+          "linking_affect": "无望、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其挑战自动思维、生成替代观点或想象改变的可能性时",
+          "interpretation": "倾向将咨询师的探索理解为缺乏现实依据，需要“证明”后才可信",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以冷静、抽离的语气强调“需要证据/证明”，回避深入探讨受伤与被拒绝的情绪体验。"
+        },
+        {
+          "trigger_condition": "当咨询师尝试将其对朋友的支持能力连接到亲密关系能力时",
+          "interpretation": "否定积极证据，认为“这不一样”，从而否认自己在亲密关系中的潜能",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "使用绝对化表达（如“永远”“不可能”）迅速否定积极链接，转回到“我做错了什么”的自责框架。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "反复出现“我注定会一直孤独”的信念",
+            "看到幸福情侣或在社交场合被强烈触发",
+            "避免社交并难以与朋友讨论自己的恋爱困扰"
+          ],
+          "outcomes": [
+            "无望与绝望感增强",
+            "动机下降与工作受影响",
+            "睡眠被破坏、情绪低落",
+            "缩减亲密接触机会，形成恶性循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我做错了什么”",
+            "在关系议题上要求外部“证明”才敢相信自己是可爱的",
+            "不敢把自己的恋爱困扰告诉朋友"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "减少外向的求助与表达需要，把能量转为自我反刍与自责",
+            "回避社交场景以压抑对亲密的渴望",
+            "以自我苛责替代向他人提出情感需求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有稳定可靠的朋友支持网络",
+          "愿意寻求帮助并开始接受咨询",
+          "持续尝试解决（如在线约会、向朋友请教、阅读自助书）",
+          "关心并支持朋友，具备建立支持性关系的能力"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等思维模式强化无望",
+          "过度依赖外部证明与认可以确认自我价值",
+          "社交回避与不愿表达需要，压缩了建立亲密的机会",
+          "自我否定与自责加剧情绪低落与动机下降",
+          "睡眠受扰与工作注意力分散，进一步巩固问题循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交活动与减少外出接触",
+          "antecedent": [
+            "看到幸福情侣",
+            "有社交活动或聚会邀请",
+            "想到需要在亲密情境中自我暴露"
+          ],
+          "core_reason": "担心被拒绝与再次受伤，社交情境成为孤独与无望感的强触发器",
+          "function": "逃避不适情绪与潜在的被拒绝风险，短期减轻痛苦",
+          "consequence": "减少邂逅与练习亲密沟通的机会，长期加剧孤独与无望并维持问题"
+        },
+        {
+          "behavior": "反复灾难化与绝对化的自动思维（如“我注定会一直孤独”）",
+          "antecedent": [
+            "独处或回想过去失败的关系",
+            "在社交活动中无人表达兴趣",
+            "工作或生活中被触发联想到情感主题时"
+          ],
+          "core_reason": "深层信念“没有人会爱我/我不值得被爱”被激活，试图通过绝对化结论获得确定性以降低焦虑",
+          "function": "提供一种表面上的确定性与心理防护，避免抱有希望后再度失望",
+          "consequence": "持续削弱动机与自我效能，影响睡眠与工作表现，并进一步抑制现实中的积极尝试"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 107
+}

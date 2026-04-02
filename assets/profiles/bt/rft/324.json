@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "王温迪",
+      "gender": "女",
+      "occupation": "IT行业从业者",
+      "educational_background": "信息技术学位",
+      "marital_status": "未婚",
+      "family_status": "父亲曾在微软工作",
+      "social_status": "未提及",
+      "medical_history": "既往未出现类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度良好；能具体描述自动化思维与触发情境；语气中性偏谨慎；倾向使用“应该”“必须”等自我苛责的语言"
+    },
+    "main_problem": "我在信仰方面尤其感到无能与不够好，这种感觉在工作与个人生活遇到挑战后加重，并逐渐扩散到生活各方面。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到无能感影响了我的日常功能和整体福祉，促使我寻求咨询。",
+    "growth_experiences": [
+      "王温迪的父亲曾在微软工作，职业成就显著。王温迪在成长与成人后持续以父亲的成功为参照进行自我比较，近几个月在工作压力与个人生活挑战下，这类比较加剧，促发并强化了她的自我怀疑与无能感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不够好（无法成为胜任的员工或虔诚的信徒）"
+      ],
+      "special_situations": [
+        {
+          "event": "在紧迫的工作项目中未能按时完成截止任务",
+          "conditional_assumptions": "如果我不能按时完成任务，就说明我很无能，甚至会因此丢掉工作",
+          "compensatory_strategies": "不休息、强行推进工作以弥补失误",
+          "automatic_thoughts": "我很无能，我可能会因此失去工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在祷告或查经时无法专注，或参与宗教活动与讨论时表现欠佳",
+          "conditional_assumptions": "如果我做不到在信仰实践中专注与达标，就说明我是个坏人或不虔诚",
+          "compensatory_strategies": "更频繁地参加教会、向朋友寻求建议以纠正不足（尽管未奏效）",
+          "automatic_thoughts": "我连自己的信仰都跟不上，我是个坏人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "将自己的职业表现与父亲在微软的成功进行比较",
+          "conditional_assumptions": "如果我达不到父亲的成功水平，就证明我不如人、根本不够好",
+          "compensatory_strategies": "用严苛的自我批评与更高标准逼迫自己",
+          "automatic_thoughts": "我永远不如他，我就是不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "项目最终完成但未能满足理想标准或原定时间",
+          "conditional_assumptions": "只有完全达到最佳标准且准时，才算成功；否则就是失败",
+          "compensatory_strategies": "事后反复检讨与自我批评，否认已有的成果",
+          "automatic_thoughts": "这不算成功，我本该做得更好更快",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，想被视为有能力的专业人士与虔诚的信徒",
+        "fear": "害怕被评判为不够好、被否定或被视为不虔诚，甚至担心因此失去工作与人际支持",
+        "defense_goal": [
+          "通过自我苛责与提升标准来控制失败风险",
+          "避免向朋友透露具体感受以减少暴露脆弱带来的不适"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的女儿、员工与信徒（容易失败、需要更努力才能勉强合格）",
+          "object_representation": "苛刻的评判者（父亲形象、上级或宗教群体会以高标准审视与批评）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当错过工作截止或在宗教实践中无法专注时",
+          "interpretation": "他人会认为我无能或不虔诚，我的不足会被揭露",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以低沉语气快速自责，频繁使用“应该/必须”句式，缩短回答、减少细节披露，避免寻求外部支持。"
+        },
+        {
+          "trigger_condition": "当把自己与父亲的职业成就作比较或想到外界的高标准时",
+          "interpretation": "必须达成外在标准才算有价值，否则就是失败者",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "强调外界标准为绝对真理，反复使用“我必须/我应该”，贬低自身成绩并要求更高目标。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系紧张但未向他们讨论具体感受",
+            "在宗教群体中因自我评判而感到不够好、难以投入"
+          ],
+          "outcomes": [
+            "持续的自我怀疑与无能感",
+            "回避深入交流导致支持获取不足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”评价自己",
+            "将父亲与宗教群体的高标准内化为自我衡量尺"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "“我应该做得更好”式的自我苛责",
+            "未向亲密朋友讨论具体感受，过度谨慎与自我限制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "仍能完成工作项目（尽管延期）并体验到部分缓解（如完成后的轻松感）",
+          "主动寻求专业咨询，保持一定的希望与改变意愿",
+          "具备一定宗教参与基础（持续参加教会）",
+          "拥有少数亲密朋友可作为潜在支持资源"
+        ],
+        "negative_force": [
+          "长期自我比较（以父亲的成功为参照）导致自卑与否定",
+          "非黑即白与否定积极的认知模式，固化无能感",
+          "强烈自我苛责与“应该”句式，降低自我同情与弹性",
+          "不向朋友讨论具体感受，减少外部支持与修正反馈"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作失误或宗教活动无法专注时出现强烈自责与焦虑，伴随反复负面自我对话（如“我很无能”“我是坏人”）",
+          "antecedent": [
+            "错过或延误工作截止",
+            "项目范围突然变化、团队成员缺勤导致任务受阻",
+            "祷告或查经时注意力不集中",
+            "参与宗教讨论时感到表现欠佳"
+          ],
+          "core_reason": "以父亲的高成就与宗教高标准为参照的内摄性评价，触发非黑即白与否定积极的认知偏差，进而怀疑自我效能与价值。",
+          "function": "通过自我批评与高要求试图避免外部评判、维持控制感并推动自我改进（消极强化的逃避与自我惩罚）。",
+          "consequence": "工作绩效受影响、人际关系紧张、宗教参与度下降与内疚加重，整体福祉降低。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 324
+}

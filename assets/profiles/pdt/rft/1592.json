@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "何薇",
+      "gender": "女性",
+      "occupation": "招聘专员",
+      "educational_background": "人力资源学学士学位",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友，但尚未分享其不够感与驾驶焦虑；为避免驾驶，减少参加社交聚会，朋友关系受影响",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "配合度良好，态度积极；表达清晰、逻辑性强；倾向使用严苛的自我评价与极端化表述（如“如果不优秀就失败”）；容易进行负性反刍与否定正面信息"
+    },
+    "main_problem": "我对自己极度苛责，尤其有关驾驶技能。最近倒车不慎撞到树后，我认为自己是世界上最差的司机，这一事件显著增加了我的压力与自我批评；此后每次需要开车我都会感到焦虑并不断回放事故，觉得自己无法安全驾驶，已影响日常活动并造成痛苦；尝试过自我安慰与放松技巧，但负面想法仍持续。",
+    "topic": "情绪管理",
+    "core_demands": "该事件触发了我在需要驾驶时的负面自我对话与焦虑，影响日常生活与心理健康，因此我寻求咨询以应对这些压倒性的感受与想法。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是世界上最差的司机"
+      ],
+      "special_situations": [
+        {
+          "event": "倒车时不慎将黑色租赁车辆撞到树，车辆受损",
+          "conditional_assumptions": "一次驾驶错误就证明我很糟糕/不称职，意味着我不该再开车",
+          "compensatory_strategies": "反复在脑中回放事故、通过自我安慰和放松技巧试图缓解，但总体上减少或回避驾驶",
+          "automatic_thoughts": "我是世界上最差的司机",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次需要开车外出办理事务或参加社交聚会",
+          "conditional_assumptions": "只要我开车，事情就会出错，我无法安全驾驶",
+          "compensatory_strategies": "尽量不驾驶、回避外出以降低风险",
+          "automatic_thoughts": "我开车会发生事故/我不能安全驾驶",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在医院的绩效评估为“有优有缺”且同周考试成绩未达预期",
+          "conditional_assumptions": "如果不在各方面都表现出色，就等于失败；如果不能快速改进，就会让团队失望并挂科",
+          "compensatory_strategies": "立刻焦虑地思考如何做得更好、设定更高标准、加强自我批评",
+          "automatic_thoughts": "我在工作和学校都在失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "收到正面反馈或还算不错的成绩",
+          "conditional_assumptions": "正面的结果不算数，只说明我仍不够好",
+          "compensatory_strategies": "否定积极表现、只关注不足、继续苛责自己",
+          "automatic_thoughts": "这不算好，我应该做得更好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为胜任并保持安全感",
+        "fear": "害怕失败、被评价为不够好并让他人失望",
+        "defense_goal": [
+          "通过提高标准与自我苛责来避免失败与批评",
+          "通过回避驾驶来保持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自己（尤其作为司机/学习者/员工）",
+          "object_representation": "苛刻的评价者与潜在的失望者（团队、考核者、他人）",
+          "linking_affect": "焦虑、内疚、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当收到混合的绩效反馈或考试成绩未达预期时",
+          "interpretation": "将反馈解读为全面失败，并认为自己会让团队失望（移情：将他人视为苛刻的评判者）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我批评的语气，强调不足，忽略积极反馈；语言中强化“我不够好”与“我失败了”的结论。"
+        },
+        {
+          "trigger_condition": "当他人或咨询师邀请其接纳正面反馈、认可小的成就时",
+          "interpretation": "担心放松标准就会失败，正面信息不可信，必须遵循严格标准",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "坚持使用“应该/必须”等语句，强调高标准与零容错，拒绝折中或对积极结果的肯定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为避免驾驶而减少参加社交聚会",
+            "与朋友的关系受到影响、产生距离"
+          ],
+          "outcomes": [
+            "社交联系减弱",
+            "焦虑与压力增加",
+            "生活质量下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "驾驶回避限制日常出行与办事",
+            "在需要驾驶时体验到被焦虑束缚的无力感"
+          ],
+          "outcomes": [
+            "行动受限、生活受干扰",
+            "无助与紧张感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "语言中出现“如果不优秀就失败”“我应该做得更好”等僵化标准",
+            "否定正面反馈，坚持更高要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "经常自我否定与苛责，难以接纳小的成就",
+            "尚未向亲密朋友分享不够感与焦虑，谨慎压抑表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在项目或考试后，来访者通常会迅速将不足视为全面失败，感到强烈焦虑并进行自我否定。",
+          "unique_outcome": "有几次她主观感觉项目或考试很糟，但最终收到的反馈或成绩却“还不错”，与以往的最坏推断不同，让她意识到不必总是得出最坏结论。",
+          "reason": "线索：在这些情境中，她等待并接收了更全面的反馈与真实数据，将正面证据纳入视野，从而打破了以往的负性过滤。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意合作并尝试记录与认知重构（同意进行现实检验与每日记录）",
+          "工作表现未受影响，具备稳定的专业能力",
+          "拥有几位亲密朋友可提供潜在支持",
+          "能够识别反例并考虑更平衡的视角"
+        ],
+        "negative_force": [
+          "完美主义与非黑即白思维，常将不够优秀等同于失败",
+          "灾难化与预测未来，认为开车必然出事",
+          "否定正面反馈，心理过滤只关注不足",
+          "回避驾驶，导致日常与社交受限并强化焦虑",
+          "反复回放事故，加重自我批评与压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避驾驶/驾驶前显著焦虑",
+          "antecedent": [
+            "需要驾车外出办理事务或参加社交活动",
+            "回想倒车撞树的事故"
+          ],
+          "core_reason": "对驾驶风险的灾难化与“我无法安全驾驶”的信念；将一次错误泛化为恒定无能",
+          "function": "逃避感知的危险与焦虑",
+          "consequence": "减少跑腿与参加社交聚会，朋友关系紧张，生活受影响"
+        },
+        {
+          "behavior": "在工作与学业上过度自我批评与压力",
+          "antecedent": [
+            "收到绩效反馈或考试成绩",
+            "面对高标准与自我设定的期望"
+          ],
+          "core_reason": "非黑即白的完美主义信念（“不优秀即失败”）与外部评价的个人化",
+          "function": "试图通过自我施压维持控制与避免失败/他人失望",
+          "consequence": "感到不堪重负、压力与焦虑上升，但自我肯定下降并影响生活体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1592
+}

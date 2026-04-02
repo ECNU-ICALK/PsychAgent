@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "陈以森",
+      "gender": "男",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与母亲同住，母亲是职业化妆师",
+      "social_status": "与朋友关系因自我怀疑而紧张；有少数亲密朋友但很少分享内心",
+      "medical_history": "无重大躯体疾病；未有类似心理问题；未接受过心理治疗",
+      "language_features": "态度消极但表达清晰；能配合讨论与设定目标；语气低落，逻辑性尚可"
+    },
+    "main_problem": "对自己作为化妆师的职业潜力产生自我怀疑与不够好的感受，这些情绪在多次求职失败后出现，并影响自尊与求职动力。",
+    "topic": "职业发展",
+    "core_demands": "这些感受正在阻碍我追求对化妆艺术的热情，并影响我的自尊，因此我决定来咨询。",
+    "growth_experiences": [
+      "受母亲（职业化妆师）影响，早期接触并投入化妆艺术训练，觉得过程有趣且自认为表现良好。",
+      "进入化妆行业求职阶段后，多次投递岗位却未获录用，常收到通用拒信或被反馈“经验不足/不合适”，自信心下降；在社交媒体看到成功的化妆师或美妆博主时加重比较与自卑，进而影响与朋友的关系与日常动力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不适合做化妆师"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交媒体上看到成功的化妆师或美妆博主",
+          "conditional_assumptions": "如果我达不到他们的水平，就说明我不够好、不会成功",
+          "compensatory_strategies": "回避社交媒体或加倍完善作品集，但仍频繁进行自我比较",
+          "automatic_thoughts": "我不如他们，我做错了什么",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到求职的通用拒信或被告知“经验不足/不合适”",
+          "conditional_assumptions": "如果被拒绝，就证明我不适合这个行业、将来也不会被录用",
+          "compensatory_strategies": "主要采取线上广泛投递，减少面对面交流与深入网络拓展",
+          "automatic_thoughts": "我可能永远找不到能维持生活的职位",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑联系成功的化妆师寻求建议或导师支持",
+          "conditional_assumptions": "如果我主动联系，他们会看不起我，不会愿意帮助我",
+          "compensatory_strategies": "不主动联系、独自摸索，避免潜在的拒绝",
+          "automatic_thoughts": "他们不会愿意帮助我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "参加行业社交/网络活动时感到“格格不入”",
+          "conditional_assumptions": "如果没能立刻融入，就说明我不属于这个圈子",
+          "compensatory_strategies": "减少参加社交活动，回避线下网络拓展机会",
+          "automatic_thoughts": "我不属于这里",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为化妆师被看见与认可，获得稳定体面的工作与职业归属",
+        "fear": "害怕被拒绝与被否定，担心被比较后显得不够好、失去价值感",
+        "defense_goal": [
+          "通过回避求助与降低暴露来减少再次被拒的风险",
+          "以自我怀疑与保守尝试来维持脆弱自尊的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够经验、容易被拒的求职者/旁观者",
+          "object_representation": "挑剔且容易拒绝的行业与雇主",
+          "linking_affect": "羞耻、挫败、焦虑"
+        },
+        {
+          "self_representation": "自卑的追随者",
+          "object_representation": "优越且难以接近的成功者/榜样",
+          "linking_affect": "自卑、羡慕、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议联系成功的化妆师寻求建议或导师支持时",
+          "interpretation": "来访者认为对方会看不起自己、不会给予帮助（移情：将内在自我否定投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和、共情验证；以开放式提问澄清证据与可能性，避免对抗；邀请具体尝试的小步行动。"
+        },
+        {
+          "trigger_condition": "当讨论参加社交活动或尝试新的求职策略时",
+          "interpretation": "来访者以“这可能又是死胡同”为由降低行动，倾向用表面合理的理由解释不行动",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持支持性语气；使用具体化与行为细分的语言，帮助识别可执行的最小步并评估真实障碍。"
+        },
+        {
+          "trigger_condition": "在遭遇重复拒信或反馈“经验不足”后谈及自我感受时",
+          "interpretation": "将对外的挫败与不满转为自责与自我攻击（如“我不够好”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "采用接纳与慈悲的语气；鼓励情绪标记与外化挫败，区分事实与自我价值；引导功能性自我支持语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "多次求职受挫后质疑自己的努力与职业道路的意义",
+            "在社交媒体比较中感到“我做错了什么”，对前景失去方向感"
+          ],
+          "outcomes": [
+            "自尊下降与动力减退",
+            "求职与行动受阻，陷入回避"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系因自我怀疑而紧张",
+            "虽有少数亲密朋友但未分享内心感受，求助回避"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "主观孤立与不被理解的感受增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "避免主动联系成功人士寻求建议或导师支持",
+            "少与朋友分享内心，将挫败转为自责与自我攻击"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "假定他人不会愿意帮助自己，认为对方看不起自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑与否定，行动前过度顾虑失败与评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对化妆艺术具有稳定热情与投入（训练并自认为表现良好）",
+          "已建立作品集并持续投递岗位",
+          "有母亲作为行业资源与榜样（职业化妆师）",
+          "拥有少数亲密朋友可寻求支持"
+        ],
+        "negative_force": [
+          "自我怀疑与自卑显著，常自我否定",
+          "社交媒体比较强化消极归因与过滤正面信息",
+          "预测未来的负面结果，预期再次失败",
+          "求助与社交网络回避，错失经验累积与机会",
+          "与朋友关系紧张导致支持系统使用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在求职与职业情境中的自我否定与负面预测（如“我不够好”“我可能永远找不到体面工作”）",
+          "antecedent": [
+            "多次收到求职拒信或反馈“经验不足/不合适”",
+            "在社交媒体看到成功的化妆师或美妆博主",
+            "考虑主动联系行业人士或参加社交活动时"
+          ],
+          "core_reason": "重复受挫后形成消极核心信念（“我不够好”），并以灾难化预测与比较加剧自我怀疑",
+          "function": "逃避潜在失败与羞耻，以保护脆弱的自尊",
+          "consequence": "求职动力下降、持续失业风险增加、日常功能与人际关系受损"
+        },
+        {
+          "behavior": "求助与社交网络拓展的回避（不联系成功人士、不分享内心、减少参加行业活动）",
+          "antecedent": [
+            "被建议尝试联系导师或参与社交活动时",
+            "需要面对陌生人或潜在评价的场景"
+          ],
+          "core_reason": "将自我否定投向他人反应（假定对方不会帮助），并担心被拒绝与不被接纳",
+          "function": "逃避被拒与负面评价，暂时降低焦虑",
+          "consequence": "缺乏实践经验与资源积累，机会减少，孤立感增强"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1969
+}

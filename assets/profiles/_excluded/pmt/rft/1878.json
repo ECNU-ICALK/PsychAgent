@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "周婷",
+      "gender": "女",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与三只宠物同住",
+      "social_status": "与朋友和家人的关系因其对体重的过度关注而紧张；有一位亲密朋友但尚未分享自己的身心困扰",
+      "medical_history": "无重大躯体疾病；此前未有类似心理问题；未接受过心理治疗/咨询",
+      "language_features": "表达清晰，能反思自身感受，情绪以焦虑为主，配合度高，态度积极"
+    },
+    "main_problem": "我因担心自己会永远超重而感到不堪重负，尽管只减了5磅；过去几个月里这一直引发持续的压力与焦虑，尤其在餐后、照镜子或称体重时更明显。",
+    "topic": "情绪管理",
+    "core_demands": "持续的关于体重与外貌的消极想法已经影响到心理健康与日常功能，我希望通过咨询学习管理这些想法，从而感觉更好。",
+    "growth_experiences": [
+      "几个月前开始新的节食计划后，因他人关于体重的评论而触发对身材的高压关注；随着时间推移焦虑加重，出现每日多次称重、在餐后与照镜子时反复自我否定，并逐渐回避与食物相关的社交，饮食模式变得紊乱。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于体重和外貌",
+        "我是个失败者",
+        "如果短期内看不到显著结果，就说明我做不到、也不会改变"
+      ],
+      "special_situations": [
+        {
+          "event": "称体重看到数字变化不明显或仅有小幅下降",
+          "conditional_assumptions": "如果体重没有快速明显下降，就说明减重无望、我会一直很胖",
+          "compensatory_strategies": "频繁称重以寻求确定感并加强控制",
+          "automatic_thoughts": "我只减了5磅，我会永远很胖。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "餐后或照镜子时关注身材外形",
+          "conditional_assumptions": "只要我看到任何“缺点”，就证明我在减重上失败了",
+          "compensatory_strategies": "回避涉食社交场合，收紧饮食以避免“出错”",
+          "automatic_thoughts": "我看起来很糟，这说明我失败了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想起他人对自己体重的评论",
+          "conditional_assumptions": "如果别人评论我的体重，就说明我不被接受、他们在否定我",
+          "compensatory_strategies": "不向朋友倾诉、减少社交接触以避免被评价",
+          "automatic_thoughts": "他们一定觉得我很胖、很不自律。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "意识到自己仅减重约5磅",
+          "conditional_assumptions": "只有显著、快速的体重下降才算成功，其他都不值得肯定",
+          "compensatory_strategies": "否定已有进步、加大自我要求与控制",
+          "automatic_thoughts": "5磅根本不算进步。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，希望通过掌控身体与外貌获得价值感与安全感",
+        "fear": "害怕被评价、羞辱与拒绝，担心失去控制与被视为失败者",
+        "defense_goal": [
+          "以自我批评和高标准来预防被拒绝或羞耻",
+          "通过回避社交与不披露脆弱感来保持安全距离",
+          "用对体重数字的控制感来缓解内在不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻且失败的自我",
+          "object_representation": "苛刻的评判者/挑剔的他人",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面对或预期他人对其体重/外貌的评论（如聚餐、与人见面）",
+          "interpretation": "他人会像评审一样挑剔并拒绝我（移情性地将内在苛责投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用模糊与回避的表述、减少自我暴露，语气谨慎，转移到“最近很忙/不太饿”等中性话题。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人肯定其减重5磅等积极变化",
+          "interpretation": "这些正向信息并不可靠或“没有意义”，需要用更严格标准来衡量",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用数字与规则强调“不算真正的进步”，语气平淡、避免谈情绪体验，以数据反驳正向反馈。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因羞耻感未向亲密朋友分享困扰",
+            "回避与食物相关的社交活动，关系紧张与疏远",
+            "在体重问题上感到被困与孤立"
+          ],
+          "outcomes": [
+            "焦虑与自我否定加重",
+            "社会支持利用不足，情感支持缺失"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被体重数字与外界评价主导，内在选择与体验空间被压缩",
+            "以“必须瘦才算好”的价值条件约束自我",
+            "通过频繁称重与严控饮食来追求控制感"
+          ],
+          "outcomes": [
+            "强迫式监控（多次称重）与饮食紊乱",
+            "焦虑与无力感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以体重数字与他人评价作为自我价值的核心标准",
+            "否定“减重5磅”等积极变化，认为“不算成功”",
+            "坚持“必须瘦才是好/才值得被接纳”的规则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自责“如果连减重都做不到，其他方面也会失败”",
+            "担心“给朋友添麻烦”而不求助，过度克制自我表达",
+            "与人接触时小心翼翼，避免暴露脆弱与羞耻"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "求助动机明确、态度积极，愿意尝试认知重建（去灾难化）",
+          "能够坚持一定的饮食与运动尝试，已取得约5磅的客观进步",
+          "具备潜在社会支持资源（有一位愿意信任的亲密朋友）",
+          "能觉察触发情境（餐后、照镜子、称重）并表达内心体验"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括与否定积极的认知偏差显著",
+          "将自我价值与体重外貌紧密绑定，形成僵化标准",
+          "多次每日称重、回避涉食社交等维持问题的行为循环",
+          "羞耻感与对他人评价的高度敏感，减少了求助与支持的获得",
+          "对短期结果的过高期待导致挫败与无助感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "每日多次称重与体重监控",
+          "antecedent": [
+            "餐后",
+            "照镜子时关注身材",
+            "对体重与外貌的焦虑升高时"
+          ],
+          "core_reason": "通过监控数字获得控制感与确定感，以缓解灾难化预期（“如果不降就永远胖”）",
+          "function": "短期缓解焦虑、获取暂时的确定感与安全感",
+          "consequence": "强化对数字的依赖与焦虑循环，情绪受挫并加重自我否定，影响日常生活"
+        },
+        {
+          "behavior": "回避与食物相关的社交活动",
+          "antecedent": [
+            "想到可能在聚会被他人评价身材",
+            "接到含有聚餐元素的社交邀请"
+          ],
+          "core_reason": "害怕被评价与羞耻，将内在苛责投射到他人目光中",
+          "function": "逃避潜在的负面评价与不适情绪",
+          "consequence": "人际关系疏远与孤立感增加，获得社会支持的机会减少"
+        },
+        {
+          "behavior": "饮食模式紊乱（在不同饮食/运动方案之间频繁切换）",
+          "antecedent": [
+            "短期体重下降不明显",
+            "称重后感到失望或焦虑"
+          ],
+          "core_reason": "非黑即白与过度概括导致对短期波动的灾难化解释，急于通过新方案重获控制",
+          "function": "寻求快速有效的控制感与“成功感”",
+          "consequence": "难以形成稳定健康的饮食习惯，进一步加剧挫败与焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1878
+}

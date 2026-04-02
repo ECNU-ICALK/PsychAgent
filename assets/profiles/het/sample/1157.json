@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "同时从事三份工作，梦想成为棒球解说员",
+      "educational_background": "未提及",
+      "marital_status": "未婚，已向交往三年的女友求婚",
+      "family_status": "未提及",
+      "social_status": "有朋友与女友可提供支持，但尚未向他们敞开心扉谈及自我怀疑",
+      "medical_history": "无重大躯体疾病；既往未出现类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性好，配合度高；能进行自我反思与认知重构，但存在明显自我否定与苛责倾向"
+    },
+    "main_problem": "关于成为棒球解说员的梦想出现自我怀疑和不足感。求婚后开始出现这些感受，并因倾向于用负面标签评价自己而加重，影响动力与自尊。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些自我怀疑的感受正在阻碍我迈向梦想工作，也影响了我的整体幸福感，这促使我寻求咨询。",
+    "growth_experiences": [
+      "在向交往三年的女友求婚后，林洁开始出现显著的自我怀疑与不足感，担心自己无法实现成为棒球解说员的梦想。这一重要人生事件增加了对未来角色与责任的思考，加重了对失败与被评判的担忧，进而影响到亲密关系与日常状态。",
+      "长期同时兼顾三份工作，压力较大。在工作中出现失误（如忘记按时完成任务）时，倾向于用“我是失败者/没用的”等负性标签评价自己，并将个别失误泛化为整体能力问题。这一思维方式加剧了自我怀疑与动力下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者",
+        "我不胜任公开表达/解说的工作"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中忘记按时完成任务",
+          "conditional_assumptions": "如果我犯错，就说明我不合格、不够好",
+          "compensatory_strategies": "对自己进行严厉的自我批评，将个别错误当作整体能力的证明",
+          "automatic_thoughts": "我是个失败者/我很没用",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到追求成为棒球解说员或设想自己上台解说",
+          "conditional_assumptions": "如果我不是一开始就表现完美或天生适合外向表达，就注定会失败",
+          "compensatory_strategies": "选择躲在电脑后从事幕后工作、避免真实练习或公开暴露",
+          "automatic_thoughts": "我大概会是个很糟糕的解说员",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "求婚后面对更多责任与未来规划",
+          "conditional_assumptions": "如果我在事业上不成功，就会让伴侣失望，说明我不值得被接纳",
+          "compensatory_strategies": "减少表达真实担忧，避免向亲友寻求支持以避免被评价",
+          "automatic_thoughts": "如果我追梦失败，就会拖累关系、让她失望",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "连续兼顾三份工作、时间紧张导致练习受限",
+          "conditional_assumptions": "如果我不能按理想强度持续练习，就永远达不到目标",
+          "compensatory_strategies": "用观看励志内容代替系统练习，回避分步实践",
+          "automatic_thoughts": "我永远也做不好/根本没有时间练好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与支持，安心追求理想职业并在亲密关系中被接纳",
+        "fear": "害怕暴露不足被评判与失败，从而令伴侣失望、关系受损",
+        "defense_goal": [
+          "通过自我批评与回避暴露来保持安全感",
+          "维持低期望、躲在幕后以减少被评价",
+          "将高标准内化为自我要求以获得控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自己",
+          "object_representation": "挑剔、会否定我的评判者（上司、观众、重要他人）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "勤勉承担、多线作业的自己",
+          "object_representation": "需要我稳定与担当的他人（伴侣/环境）",
+          "linking_affect": "压力、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行“有意制造小错误并观察后果”的行为实验时",
+          "interpretation": "将潜在错误理解为会被他人看低或惩罚（把他人视为严苛的评判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观分析和收集证据的语气回应，强调“数据/结果”，淡化情绪体验。"
+        },
+        {
+          "trigger_condition": "在工作中出现失误被提及时",
+          "interpretation": "认为他人会像权威一样苛责自己，等同于整体否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自责或自我批评。",
+          "response_instruction": "使用自责与贬低的词语（如“我不行”），反复道歉，减少为自己辩护。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "求婚后对角色与未来选择的责任感增强，担心追梦会带来负面后果",
+            "在多份工作与追梦之间摇摆，害怕做出选择并承担结果"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑加重",
+            "回避练习与公开尝试，梦想推进受阻",
+            "亲密关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有朋友与女友的支持网络，但尚未向他们敞开心扉谈及自我怀疑",
+            "在压力下倾向于独自承受"
+          ],
+          "outcomes": [
+            "情绪负担加重，支持资源难以转化为实际帮助",
+            "关系沟通减少、疏离感增加"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "伴侣支持态度积极，愿意沟通（来访者认为与女友分享计划会有帮助）",
+          "拥有朋友与女友的社会支持网络",
+          "能同时管理三份工作，具备一定的坚持与执行力",
+          "态度积极、愿意尝试行为实验并进行认知重构"
+        ],
+        "negative_force": [
+          "消极自我贴标签与过度概括，易用个别失误否定整体能力",
+          "预测未来失败与灾难化，过度依赖外部认可",
+          "回避公开练习与暴露（躲在电脑后），减少向支持系统求助",
+          "自信心不足、害怕被评判，动机受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我否定与负性标签（如“我是失败者/没用的”）",
+          "antecedent": [
+            "在工作中犯错（忘记按时完成任务）",
+            "回想工作或生活中的小失误",
+            "想到自己追求棒球解说梦想时"
+          ],
+          "core_reason": "消极核心信念“我不够好”，将个别错误泛化为整体能力不足以避免面对外界评价",
+          "function": "通过自责与自我打击来逃避被他人评判的焦虑并获得虚假的控制感",
+          "consequence": "动机下降、自尊受损，影响工作表现并加剧与伴侣的关系紧张"
+        },
+        {
+          "behavior": "回避练习与公开暴露（躲在电脑后，避免尝试解说）",
+          "antecedent": [
+            "想到要练习或展示解说能力",
+            "遇到可能的公开表达/表现机会"
+          ],
+          "core_reason": "预测失败与被评判，认为不完美即失败的非黑即白标准",
+          "function": "逃避焦虑与潜在负面评价",
+          "consequence": "技能无法积累、梦想推进停滞，挫败感增加"
+        },
+        {
+          "behavior": "对未来的灾难化担忧（“我会失败/会让她失望”）",
+          "antecedent": [
+            "求婚后对未来角色与责任的思考",
+            "兼顾三份工作导致的时间与精力压力"
+          ],
+          "core_reason": "外部认可导向的价值条件与对失败的强烈恐惧",
+          "function": "通过预演最坏情境来抑制行动，以避免潜在羞耻与关系受损",
+          "consequence": "焦虑增加、决策与行动受阻、关系紧张与生活压力加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1157
+}

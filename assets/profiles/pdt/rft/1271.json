@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "李曼",
+      "gender": "女",
+      "occupation": "独立乐队的鼓手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与双胞胎兄弟共同居住在一间公寓",
+      "social_status": "与乐队成员的关系因消极看法而紧张；与同住的双胞胎兄弟沟通这些感受存在困难",
+      "medical_history": "过往无类似心理问题；未接受过心理治疗；无显著身体疾病",
+      "language_features": "表达清晰、配合度较高；态度消极，常用绝对化与灾难化表述（如“永远不会成功”“应该退出”）"
+    },
+    "main_problem": "我正在为这样的想法而痛苦：我的乐队永远不会大红大紫，我们应该停止演出。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些想法正在阻碍我对音乐的热情并影响我的心理健康，所以决定寻求咨询。",
+    "growth_experiences": [
+      "在上一张专辑发行后未获得期望的认可：自那之后压力水平上升，负面思维频繁出现，练习与表演的动力下降，进一步影响对音乐的热情。",
+      "最近的一次小型演出观众到场率很低：在演出期间感到完全缺乏动力、仅机械化完成，演后持续陷入无望感，进一步减少练习意愿。",
+      "至今未被唱片公司签约：每当未获得积极反馈或机会时，便出现“永远不会成功”的想法，人际关系与日常生活兴趣（如园艺与志愿服务）下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有外界认可，我的努力就毫无意义",
+        "我注定不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "至今未被唱片公司签约",
+          "conditional_assumptions": "如果没有唱片公司签约，就意味着永远不会成功",
+          "compensatory_strategies": "动机下降、减少练习与演出，考虑退出以避免进一步的失望",
+          "automatic_thoughts": "我们永远不会成功，应该停止演出",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "上一张专辑未获得期望的认可",
+          "conditional_assumptions": "如果作品没有得到期望的认可，我们的努力就是浪费时间",
+          "compensatory_strategies": "将精力从练习转为消沉和自我否定，回避与他人讨论这些感受",
+          "automatic_thoughts": "这说明我们做的一切都没有意义",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "最近的小型演出到场率很低",
+          "conditional_assumptions": "如果一场演出观众稀少，就证明乐队没有前途",
+          "compensatory_strategies": "演出时敷衍了事，之后进一步减少练习",
+          "automatic_thoughts": "这次低到场就是我们永远不会成功的铁证",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "未获得积极反馈或行业机会",
+          "conditional_assumptions": "外界的正面反馈决定了我们的价值与未来；没有反馈就表示失败",
+          "compensatory_strategies": "忽视已有的正面反馈，持续关注负面信息以证实失败感",
+          "automatic_thoughts": "别人不认可我们，我们就没有未来",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，在音乐事业上被看见并取得成功",
+        "fear": "害怕失败与被否定，被视为“放弃者”，最终证明自己毫无价值",
+        "defense_goal": [
+          "通过减少投入与保持疏离来降低挫败与羞耻感",
+          "避免与亲密他人讨论以躲避被评价和批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要外界认可才能确认价值的音乐人",
+          "object_representation": "苛刻的评判者（粉丝、行业、他人）——不给予认可的权威",
+          "linking_affect": "羞耻、焦虑、无望"
+        },
+        {
+          "self_representation": "可能拖团队后腿的失望者",
+          "object_representation": "仍然热情与投入的同伴",
+          "linking_affect": "紧张、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请与亲近的人（如双胞胎兄弟）谈论自己的消极感受与动力下降时",
+          "interpretation": "潜意识认为对方会把自己视为“放弃者”，因此会受到评判与否定（移情：将自我批判投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免深入，使用含糊与委婉的表达，降低情绪强度；必要时转移话题，保持礼貌但不展开细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "觉得努力都是徒劳（“这似乎全都没有意义”）",
+            "当未获认可或机会时强化无意义感",
+            "对园艺与志愿服务的兴趣下降"
+          ],
+          "outcomes": [
+            "练习与表演动力显著下降",
+            "无望与消沉感增强",
+            "与乐队成员关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外表达或采取的行为冲动，转而把能量对向自己或压抑自己。",
+          "manifestations": [
+            "避免与双胞胎兄弟讨论消极感受，选择自己承受",
+            "演出中仅机械化完成、压抑情绪与表达"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心被视为“放弃者”而收缩表达",
+            "对负面反馈过度敏感、强化自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在未获得积极反馈或机会时，来访者通常会陷入灾难化思维并失去练习与表演的动力。",
+          "unique_outcome": "过去曾有几场演出效果良好并收到粉丝的正面反馈，演出后感到更有希望，练习动力有所提升。",
+          "reason": "不同支持：现场粉丝的积极反馈与良好氛围；不同做法：更专注于音乐本身的乐趣；不同情境：演出参与度较高。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "乐队成员依然热情与投入",
+          "曾获得粉丝的积极反馈与几次成功演出经验",
+          "能主动寻求咨询与尝试记录积极经历",
+          "持续的演出与创作经历为成长提供基础"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维模式",
+          "过度依赖外部认可，忽视积极证据",
+          "预测未来与读心术导致过度担忧他人评价",
+          "练习与表演动机下降并出现回避行为"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在未获认可时出现灾难化认知并回避练习/演出，整体动力显著下降",
+          "antecedent": [
+            "未被唱片公司签约",
+            "专辑未获期望的认可",
+            "演出到场率低",
+            "缺少积极反馈或行业机会"
+          ],
+          "core_reason": "过度依赖外部认可与非黑即白的认知，将单次挫折解释为全面失败，为避免失败与羞耻而倾向退出或减少投入",
+          "function": "逃避失败与被否定带来的痛苦情绪与压力",
+          "consequence": "音乐相关工作受影响、对音乐的热情下降、与乐队成员关系紧张、日常兴趣（园艺与志愿服务）减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1271
+}

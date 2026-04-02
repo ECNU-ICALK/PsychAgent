@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "刘雨珊",
+      "gender": "女",
+      "occupation": "烘焙店老板",
+      "educational_background": "烹饪学校结业证书",
+      "marital_status": "已婚",
+      "family_status": "丈夫在政府部门工作，有一个儿子",
+      "social_status": "未提及",
+      "medical_history": "无类似心理问题史；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "态度积极，能清晰描述自身困扰；其余未提及"
+    },
+    "main_problem": "我一直在经历与自己的烘焙技能相关的自卑和失败感，尤其是在最近一次蛋糕没有达到预期之后。这些感受自两年前我开店后开始出现，并在最近几个月因一系列烘焙失误而加剧。我认为这些感受的原因是我对自己要求过高以及害怕让顾客失望。问题逐步发展到我觉得自己无法做好烘焙，每当有烘焙订单就会感到压力和焦虑，并产生放弃面包店的想法。我尝试过提高技术、学习新配方，但自我怀疑仍然持续。",
+    "topic": "职业发展",
+    "core_demands": "我寻求咨询是因为失败感和自我怀疑正在影响我对烘焙的热情以及面包店的经营成效。",
+    "growth_experiences": [
+      "两年前从将烘焙作为爱好转为经营烘焙店后，外部期待与经济压力显著增加。期间发生多次失误（例如蛋糕未发起、点心未熟、收到顾客投诉），由此引发对“让顾客失望”的强烈担忧与自我怀疑，原本带来愉悦的烘焙逐渐被“必须达标/完美”的压力所取代。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我做不好烘焙"
+      ],
+      "special_situations": [
+        {
+          "event": "为顾客制作的蛋糕没有发起",
+          "conditional_assumptions": "如果作品出现任何差错，就证明我不适合做烘焙/我是失败者",
+          "compensatory_strategies": "加倍练习与改良技术、寻找并尝试新配方，力求把每个步骤做到完美",
+          "automatic_thoughts": "这次蛋糕太糟糕了，我根本不会烘焙。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到顾客对成品不满意的投诉",
+          "conditional_assumptions": "如果顾客不满意，就是我让所有人失望，说明我不够好",
+          "compensatory_strategies": "自责并提高自我要求，减少社交表达，尽量避免再出任何小错",
+          "automatic_thoughts": "我让大家失望了，都是我的问题。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每当接到新的烘焙订单",
+          "conditional_assumptions": "如果不能完美满足期待，就不该接单/说明我不适合开店",
+          "compensatory_strategies": "过度检查和反复确认每个细节，焦虑预演最坏结果",
+          "automatic_thoughts": "这次我可能又会搞砸，顾客一定会失望。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "制作的部分点心出现未熟等小失误",
+          "conditional_assumptions": "要么完美要么失败，出现差错就意味着我很差劲",
+          "compensatory_strategies": "以“零失误”为目标不断加压，自我否定来驱动改进",
+          "automatic_thoughts": "我就是个糟糕的烘焙师。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作品被认可、获得顾客与重要他人的肯定，不让他人失望",
+        "fear": "害怕失败与被否定，害怕让他人失望并因此被评价/被拒绝，进而质疑自身价值与事业前景",
+        "defense_goal": [
+          "通过设定极高标准与自我苛责来预防失败和批评",
+          "把精力集中在细节控制与技术改进上以获得安全感与可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易让人失望、需要不断证明自己的不够好者",
+          "object_representation": "挑剔的评判者/不易被满足的他者（如顾客）",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "孤独承压的经营者",
+          "object_representation": "虽支持但难以真正理解自身处境的伴侣",
+          "linking_affect": "孤独、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到客户投诉、产品失误或被要求回顾失败情境时",
+          "interpretation": "将他人的不满等同于对自我整体价值的否定，担心关系与事业会因此受损",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "在咨询对话中使用自责语句（如“都是我的错”），语气压抑、降低自我价值，回避对外表达不满与需求。"
+        },
+        {
+          "trigger_condition": "当情绪高涨被邀请深入体验感受时",
+          "interpretation": "将情绪化为需要被控制与分析的对象，以避免被情绪吞没",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "转而详细讨论配方、工艺和流程清单，语气理性、条理清楚，减少情感词汇与主观感受描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "即便丈夫支持，仍感到“没人真正理解我的不足与压力”",
+            "从热爱烘焙到被外部期待裹挟，主观体验与他人期待之间出现隔阂"
+          ],
+          "outcomes": [
+            "焦虑加剧、睡眠受影响与饮食紊乱",
+            "伴侣关系紧张、主体感与连结感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（“我不够好”“我应该做到完美”）",
+            "在接单与制作过程中过度反思与怀疑，谨小慎微，担心让他人失望"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将顾客期待与“必须完美”的规则内化为自我评价标准",
+            "把单次失误视为整体失败，严格以外部满意度来衡量自我价值"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对烘焙有长期的热情与投入，愿意尝试改进技术和新配方",
+          "愿意寻求专业帮助并接受行为实验以检验观念",
+          "拥有一定的家庭支持（丈夫支持）"
+        ],
+        "negative_force": [
+          "完美主义与过高自我标准，将自我价值与他人满意度强绑定",
+          "灾难化、非黑即白、过度概括与个人化等认知偏差频繁出现",
+          "对让顾客失望的强烈恐惧导致焦虑、失眠与进食不规律",
+          "持续的自我否定与负性自我对话损害工作表现与亲密关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "接到烘焙订单时出现显著焦虑并对细节过度检查、伴随持续自我怀疑",
+          "antecedent": [
+            "接到新的顾客订单",
+            "回想起以往的烘焙失误（蛋糕未发起、点心未熟）",
+            "收到或担心收到顾客投诉",
+            "完美主义与高标准被触发"
+          ],
+          "core_reason": "害怕让顾客失望与被否定，将单次差错等同整体失败，并以“必须完美”的标准评估自我能力。",
+          "function": "通过过度控制与反复检查来降低不确定性、避免潜在失败和批评（短期缓解焦虑）。",
+          "consequence": "睡眠与饮食受影响；工作质量下降、客户满意度下降；与丈夫关系紧张；出现想放弃店铺的念头。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1693
+}

@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "周航",
+      "gender": "男",
+      "occupation": "私人主厨",
+      "educational_background": "烹饪学院毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有支持性的朋友，但因反复表达对未来的怀疑而关系紧张；对与朋友讨论创业焦虑感到困难",
+      "medical_history": "无显著躯体疾病；否认既往类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑连贯；能辨识并描述自身消极自动思维（如灾难化、预测未来）；配合度尚可但持怀疑态度；情绪以焦虑和担忧为主；语速未提及"
+    },
+    "main_problem": "我一直在为“在这样的经济环境下我永远无法开一家餐厅”这一信念所困扰，这导致我感到压力和焦虑。",
+    "topic": "职业发展",
+    "core_demands": "我意识到关于开餐厅的焦虑和负面想法正在影响我的整体心理健康，并阻碍我为目标采取具体步骤。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会失败",
+        "外部环境决定成败，我无法掌控结果"
+      ],
+      "special_situations": [
+        {
+          "event": "阅读餐饮行业的负面报道、失败率统计或经济形势分析",
+          "conditional_assumptions": "如果行业失败率高、经济不确定，就意味着我也会失败；没有把握就不该行动",
+          "compensatory_strategies": "持续搜集信息并停留在研究阶段，推迟或回避实际步骤以避免失败",
+          "automatic_thoughts": "在这种经济环境下，新餐厅注定撑不住，我也不例外。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "独自思考未来的创业计划与财务风险",
+          "conditional_assumptions": "如果不能确保成功或避免任何损失，那就等于彻底失败",
+          "compensatory_strategies": "用最坏情景推演来提醒自己谨慎，迟迟不制定具体计划",
+          "automatic_thoughts": "我会把积蓄赔光，一年内就得关门。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与朋友谈起开餐厅话题或想向朋友寻求支持时",
+          "conditional_assumptions": "如果别人不理解或不完全认同，我的计划就是错误或不成熟的",
+          "compensatory_strategies": "回避与朋友深入讨论，减少求助以避免被评价为抱怨",
+          "automatic_thoughts": "他们会觉得我在抱怨，我的计划没戏。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作中想到激烈的市场竞争与同行失败案例",
+          "conditional_assumptions": "看到强大竞争就意味着我不可能成功；一次失败就代表永远失败",
+          "compensatory_strategies": "自我怀疑、分散注意力，降低对当前工作的投入",
+          "automatic_thoughts": "竞争太激烈，我肯定撑不住。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过开餐厅实现自我价值与独立掌控",
+        "fear": "害怕失败被否定并造成严重的经济与自尊损失",
+        "defense_goal": [
+          "通过理智化与延迟行动来降低焦虑与风险感",
+          "保持低自我暴露以避免被他人评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被外界环境影响、对自我能力存疑的创业者",
+          "object_representation": "不理解或可能否定自己的他人/社会环境",
+          "linking_affect": "焦虑、孤立感、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请其关注优势、探索积极可能或制定行动计划时",
+          "interpretation": "将这种探索体验为不切实际的乐观，担心被推动去冒险",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以“数据/风险”为主轴回应，语气克制，回避情绪感受，强调“现实”和“证据”，对行动建议提出多个顾虑。"
+        },
+        {
+          "trigger_condition": "当朋友表达支持或不同意见、或他想寻求情感支持时",
+          "interpretation": "体验对方为“不理解我”，并担心被视为爱抱怨",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "减少披露，快速转移话题，使用自我贬低或开脱式表述，避免进一步接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在重大人生选择（创业）上对承担后果与不确定性感到强烈焦虑",
+            "将外部经济环境视为决定性力量，削弱自我选择感",
+            "频繁以最坏情境想象回应不确定性"
+          ],
+          "outcomes": [
+            "持续性焦虑与失眠",
+            "拖延与行动受阻",
+            "人际关系紧张与孤独感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自我怀疑“我可能在犯大错”",
+            "在对话中强调最坏结果以自我约束",
+            "对行动与表达过度谨慎"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "想与朋友讨论焦虑却收回冲动",
+            "担心被视为抱怨而选择沉默",
+            "将压力向内消化导致失眠"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将行业失败统计与经济不确定性当作绝对规则",
+            "以“现在开店一定会失败”来限制自身选择"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对烹饪充满热情，开餐厅动机清晰",
+          "在现有工作中拥有良好口碑，食物受到认可",
+          "拥有愿意倾听的朋友网络（潜在支持）",
+          "愿意尝试认知重建、可视化与行动计划等策略"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来等负性认知模式显著",
+          "过度外部归因与控制感不足，强化无力感",
+          "回避讨论与求助，社交支持利用不足",
+          "持续担忧导致睡眠紊乱与精力下降",
+          "过度关注负面信息，形成心理过滤与焦虑循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复阅读行业负面信息并进行担忧性反刍",
+          "antecedent": [
+            "接触到行业新闻/统计或经济形势分析",
+            "想到未来创业计划与财务风险"
+          ],
+          "core_reason": "对失败的灾难化认知与预测未来思维，为寻求确定感而反复搜集负面证据",
+          "function": "短暂获得“做好风险准备”的错觉与确定感，回避面对不确定性带来的焦虑",
+          "consequence": "焦虑加剧、睡眠受扰、决策瘫痪"
+        },
+        {
+          "behavior": "回避制定与执行具体的创业行动计划（拖延）",
+          "antecedent": [
+            "需要着手商业计划、资金筹措或选址等任务时"
+          ],
+          "core_reason": "信念“不能确保成功就等于失败”，害怕失败与损失",
+          "function": "逃避潜在失败与评判以降低即时焦虑",
+          "consequence": "目标推进受阻，自我怀疑加重，工作表现受到影响"
+        },
+        {
+          "behavior": "减少与朋友讨论焦虑并回避寻求支持",
+          "antecedent": [
+            "朋友询问近况或其产生分享焦虑的冲动时"
+          ],
+          "core_reason": "读心术式假设“他们会觉得我在抱怨/不理解我”",
+          "function": "避免被否定或尴尬",
+          "consequence": "人际关系紧张与孤独感增加，支持资源利用不足"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1953
+}

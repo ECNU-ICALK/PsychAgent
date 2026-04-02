@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "张思宁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未婚",
+      "family_status": "家中最小的孩子，有年长的兄弟姐妹；因长期与兄姐比较，家庭关系出现紧张",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；此前未接受过心理咨询",
+      "language_features": "表达清晰、逻辑性较好，能进行自我反思；配合度高、态度积极；初次会谈略显紧张但愿意配合记录与练习"
+    },
+    "main_problem": "我一直觉得自己无法超越年长的兄弟姐妹，注定是个失败者。",
+    "topic": "家庭关系",
+    "core_demands": "我注意到这些持续的自卑感正在影响我的自尊与整体心理健康，因而寻求咨询；我想学习如何用具体步骤来挑战这些想法，并在现实中应用策略。",
+    "growth_experiences": [
+      "青少年时期开始形成自卑与不足感，核心来源是将自己的成就与年长的兄弟姐妹进行比较；随着兄姐取得重要里程碑式的成就，这种比较与自卑感持续并加重。在家庭谈论成就时尤为触发，逐渐导致与家人的关系紧张；这是首次为该问题寻求专业帮助。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我永远无法超越兄姐"
+      ],
+      "special_situations": [
+        {
+          "event": "得知姐姐在工作上获得重大晋升/成就",
+          "conditional_assumptions": "如果我达不到与兄姐相当或更高的成就，就证明我不如他们、是失败者",
+          "compensatory_strategies": "在与家人交流时淡化或回避自己的成果，减少谈及职业发展以避免比较",
+          "automatic_thoughts": "我永远不可能像她那样成功",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "家庭场合中讨论各自的成就与职业发展",
+          "conditional_assumptions": "如果达不到家人的期待或兄姐的水平，我就会让他们失望，说明我不行",
+          "compensatory_strategies": "在聚会中保持沉默、回避谈论个人表现，降低存在感以减少被评价",
+          "automatic_thoughts": "他们会觉得我不行、我让家人失望了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作中面临新的或更具挑战性的任务",
+          "conditional_assumptions": "如果不能完美完成任务或不如他人表现，就等于失败、证明我不行",
+          "compensatory_strategies": "回避承担新任务，降低挑战以避免可能的失败",
+          "automatic_thoughts": "我肯定会失败，最好不要接这个任务",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回顾自身在创意项目中的成绩并获得一定认可",
+          "conditional_assumptions": "只有传统意义上、家人认可的成功（如晋升、头衔）才有价值",
+          "compensatory_strategies": "否定或贬低自身在创意领域的成就，继续以他人的标准衡量自己",
+          "automatic_thoughts": "这些不算真正的成功",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人与重要他人真正看见与认可，作为独立个体被肯定，而非被比较定义",
+        "fear": "害怕失败与被贬低，担心因不如兄姐而被轻视、失去价值与归属感",
+        "defense_goal": [
+          "通过回避挑战与淡化自我呈现来降低被比较与被评判的机会",
+          "与家人保持话题距离以维持安全感与脆弱自尊",
+          "内化外界成功标准以获得确定感、暂时缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "低人一等、需要证明自己的“幼妹”",
+          "object_representation": "评判性、更优秀且标准严格的家人/兄姐",
+          "linking_affect": "羞愧、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于“成功的标准”或邀请其肯定自身成就与价值时",
+          "interpretation": "倾向将外界与家人的成功标准视为唯一的衡量尺度（移情：将家人的评判性内化为普遍规则）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以冷静理性的语气引用外界标准（如“大家都认为真正的成功是晋升/头衔”），轻描淡写自身成就，弱化个人感受与价值；避免进入情绪体验层面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值完全绑定于家人/社会的成功标准，认为不同类型的成就“不算真正的成功”",
+            "在工作与生活中难以从个人成就中获得意义感与满足"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "生活乐趣降低",
+            "焦虑与回避增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与家人关系因比较而紧张",
+            "与朋友虽有联系但未分享真实的自卑与困扰，倾向独自承受"
+          ],
+          "outcomes": [
+            "情感支持不足",
+            "加剧自我否定与反刍",
+            "睡眠受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把家人/社会对“传统成功”的标准当作唯一正确尺度",
+            "否定和贬低自身在创意领域的成绩与认可"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "用“失败者”“永远无法超越”等自我标签限制行动",
+            "在工作中因自我苛责而回避挑战性任务"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在创意项目上具备能力并曾获得外部认可",
+          "愿意求助与配合治疗，态度积极且能自我反思",
+          "拥有一定的现实检验意愿（愿意记录与挑战自动化思维）",
+          "有几位可谈一般事务的朋友，具备潜在支持网络"
+        ],
+        "negative_force": [
+          "长期的比较与自我标签化（“失败者”）",
+          "灾难化、非黑即白、读心术与否定积极等认知偏差",
+          "将外界成功标准内摄为自我评判的唯一依据",
+          "在工作中回避挑战，导致自信进一步受损",
+          "反刍思维影响睡眠与生活满意度"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中回避承担新或挑战性任务",
+          "antecedent": [
+            "面临新的或更具挑战性的工作任务",
+            "听到或看到同事/兄姐的晋升与成就被讨论"
+          ],
+          "core_reason": "受灾难化与非黑即白思维驱动，担心一旦不完美或不如他人就证明自己是失败者；长期与兄姐比较固化为自我否定模式",
+          "function": "逃避潜在失败与外界评判，短期降低焦虑与羞愧感",
+          "consequence": "工作表现与发展受限，自信心下降，进一步强化自我失败的信念"
+        },
+        {
+          "behavior": "睡眠受扰（入睡困难/因反刍比较与失败预期而失眠）",
+          "antecedent": [
+            "与家人讨论成就后",
+            "在夜间反思兄姐的成功与自身不足",
+            "工作受挫或面对新任务前夜"
+          ],
+          "core_reason": "对自我价值的过度比较与未来失败的预测，负性自动化思维持续反刍以寻求确定感",
+          "function": "通过反复思考试图获得控制感与解释，暂时回避直接体验不适情绪",
+          "consequence": "睡眠质量下降、白天功能与生活乐趣降低，焦虑与自我否定加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1624
+}

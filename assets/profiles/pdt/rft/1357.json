@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "张杰",
+      "gender": "男",
+      "occupation": "音乐商店店主",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "父母均活跃于教会合唱团",
+      "social_status": "有朋友可倾诉，但他们不太理解其对教会缺席的深度内疚；人际关系未受影响",
+      "medical_history": "无重大躯体疾病；过去未接受心理咨询或治疗；此前未出现与教会出席相关的类似问题",
+      "language_features": "表达清晰，态度积极"
+    },
+    "main_problem": "因为一段时间没有去教堂，我一直觉得自己是个糟糕的孩子，这个想法让我感到痛苦和内疚。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询是因为内疚和负面自我认知影响了我的心理健康并引发内在的痛苦。",
+    "growth_experiences": [
+      "原生家庭宗教氛围：父母长期活跃于教会合唱团，家庭重视参与教会与社区活动，这一价值取向影响了其对“好孩子”标准的理解（将出席礼拜视为重要责任）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的孩子",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "周日想到教会礼拜正在进行而自己没有出席",
+          "conditional_assumptions": "如果我不参加家庭和社区重要活动，就说明我是一个不负责任、糟糕的孩子",
+          "compensatory_strategies": "试图以“工作很忙”来合理化缺席以减轻内疚",
+          "automatic_thoughts": "我是个坏孩子，我让父母和教会失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想起父母长期活跃于教会合唱团、期待家庭成员参与",
+          "conditional_assumptions": "如果达不到父母的宗教与集体参与标准，就证明我不够好、不配得到认可",
+          "compensatory_strategies": "回避与父母谈论缺席，保持距离以避免让他们失望",
+          "automatic_thoughts": "我辜负了父母的期望",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "与朋友谈及未去教会，朋友认为其“反应过度/只是太忙”",
+          "conditional_assumptions": "如果别人觉得我的担忧不严重，说明我的感受不被理解、我确实做错了",
+          "compensatory_strategies": "进一步自我苛责、聚焦他人不理解的反馈",
+          "automatic_thoughts": "他们不理解我的内疚，我可能真的很糟糕",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想自己连续缺席多次礼拜",
+          "conditional_assumptions": "一旦没能持续参加礼拜，就等同于彻底失败、成为坏人",
+          "compensatory_strategies": "以全或无的标准评判自我，用自责来推动自己去教堂",
+          "automatic_thoughts": "我失败了，我就是个坏人",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为“好孩子”被父母与群体认可，并保持道德一致",
+        "fear": "害怕让父母失望、被评判为“不好的人”，从而失去认同与接纳",
+        "defense_goal": [
+          "通过合理化缺席与自我苛责来维持道德自我形象",
+          "回避与父母直接沟通以避免面对失望与评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、内疚的孩子",
+          "object_representation": "高期待、可能失望的评判者（父母/教会群体）",
+          "linking_affect": "内疚、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问缺席教会的原因或被建议与父母沟通时",
+          "interpretation": "认为坦诚沟通会立刻招致父母的失望与评判",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "语气平静，强调工作忙与责任压力，弱化情绪内容，避免深入讨论与父母沟通的可行性。"
+        },
+        {
+          "trigger_condition": "在周日、想到正在进行的礼拜时",
+          "interpretation": "将未出席礼拜等同于“我是坏人”（自我标签化）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "简要承认内疚，但迅速转移到工作任务与事实清单，减少情绪表达。"
+        },
+        {
+          "trigger_condition": "面对他人不理解其罪疚（如朋友认为其反应过度）",
+          "interpretation": "将他人的不理解视为对自我价值的否定，强化自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言指向自身缺陷，避免表达对他人反馈的失望或愤怒。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在工作与宗教义务之间权衡选择时体验强烈负罪感",
+            "将不出席礼拜视为违背内摄的道德准则"
+          ],
+          "outcomes": [
+            "持续的内疚与自责",
+            "自我价值感下降",
+            "周日情绪低落与焦虑"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“好孩子”的意义单一地绑定于固定的宗教行为（出席礼拜）",
+            "忽视自己在社区与家庭的其他贡献"
+          ],
+          "outcomes": [
+            "否定积极行为的价值",
+            "形成狭隘的自我评价系统"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁以“好孩子应当参加礼拜”评判自己",
+            "以未出席礼拜直接给自己贴上“坏人/糟糕的孩子”的标签"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "担心父母失望而不与其沟通，转而加重自责",
+            "在内疚升高时不寻求外部澄清，选择忍耐"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在周日想到自己未去教会时，来访者通常会出现强烈的内疚并以“我是一个糟糕的孩子”自我标签，导致情绪低落。",
+          "unique_outcome": "在此前为当地学校捐赠乐器并组织店内社区活动的时刻，父母为他的行动感到自豪；他看到自己对社区与家庭的积极影响，与以往将自我价值完全绑定于教会出席的做法不同。",
+          "reason": "线索：不同做法——主动参与社区支持与公益；不同支持——父母明确表达认可与自豪；不同理解——将“好孩子”的标准扩展为包含多种形式的贡献。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定的职业角色与社区贡献（组织活动、向当地学校捐赠乐器）",
+          "能进行理性反思并愿意寻求专业帮助（现实检验、咨询动机强）",
+          "具备朋友支持网络（虽不完全理解，但可倾诉）",
+          "家庭在价值维度上认可其积极行为（父母为其公益行为感到自豪）"
+        ],
+        "negative_force": [
+          "将宗教参与内摄为僵化的“应该”标准",
+          "倾向个人化与心理过滤，忽视自身正面证据",
+          "过度自责与自我标签化，降低自我价值",
+          "回避与父母沟通，维持想象中的评判与失望",
+          "全或无的自我评估方式，易把一次缺席视为全面失败"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自责与内疚（以“我是一个糟糕的孩子”进行自我标签）",
+          "antecedent": [
+            "周日想到未参加教会礼拜",
+            "看到父母或教会相关活动的提示",
+            "与朋友谈起缺席教会"
+          ],
+          "core_reason": "将家庭宗教规范内摄为绝对的自我评价标准，并以全或无方式评定自身价值",
+          "function": "通过自责维持道德一致感、暂时避免面对与父母沟通的焦虑",
+          "consequence": "日常情绪低落与焦虑，自我价值感下降，但工作表现未受影响"
+        },
+        {
+          "behavior": "回避与父母沟通缺席教会的事实与感受",
+          "antecedent": [
+            "预想到父母可能失望或评判",
+            "被建议与父母交流时"
+          ],
+          "core_reason": "害怕被否定与失去认可，倾向个人化地将缺席视为对父母的伤害",
+          "function": "逃避潜在的尴尬与冲突，短期降低焦虑",
+          "consequence": "内疚持续、缺乏现实反馈与支持，维持问题循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1357
+}

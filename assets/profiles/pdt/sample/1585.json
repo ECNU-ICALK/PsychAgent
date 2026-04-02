@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "王宇",
+      "gender": "男性",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "恋爱中",
+      "family_status": "双亲均为军人，无兄弟姐妹",
+      "social_status": "与女友（居住在盐湖城）保持联系但未分享具体焦虑；与其他狗主人比较时压力增大；与宠物关系因焦虑受影响",
+      "medical_history": "无重大躯体疾病；无既往心理治疗经历；过去未出现类似焦虑或宠物训练问题",
+      "language_features": "表达清晰、思路连贯，配合度较高；能识别并描述自动化思维与负性比较；语气中性，但易聚焦负面、忽视积极进展"
+    },
+    "main_problem": "因两只比格犬（Chance与Boomer）无法学会“跟随（heel）”指令而产生强烈的恐惧与焦虑；比较他人后压力加剧，回避训练并感到内疚，影响日常生活与与宠物的关系。",
+    "topic": "情绪管理",
+    "core_demands": "希望缓解与狗训练相关的压倒性焦虑与恐惧，获得咨询支持以恢复日常生活与身心状态。",
+    "growth_experiences": [
+      "原生家庭背景：双亲均为军人，无兄弟姐妹。既往未有类似焦虑或宠物训练问题，未接受心理治疗，身体健康无重大疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不称职的主人/我不够好",
+        "如果达不到他人或标准的要求，我就是失败者",
+        "他人的评价决定我的价值"
+      ],
+      "special_situations": [
+        {
+          "event": "与其他狗主人在一起，看到他们的狗训练更好",
+          "conditional_assumptions": "如果我的狗训练不如他人，就说明我不称职、我失败",
+          "compensatory_strategies": "回避训练场景与社交，以避免被比较与评价",
+          "automatic_thoughts": "别人会认为我不称职；我的狗永远学不会heel",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在网上阅读训练技巧与成功案例",
+          "conditional_assumptions": "如果没有达到网上的标准，就证明我做得不够、我失败",
+          "compensatory_strategies": "不断搜寻更多技巧但在焦虑下停止训练，忽视已有进步",
+          "automatic_thoughts": "他们还是学不会；我做得不够好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "实际训练时，狗对heel指令反应不佳",
+          "conditional_assumptions": "如果现在没有立刻改善，未来也不会进步",
+          "compensatory_strategies": "为避免失败感与焦虑而回避训练",
+          "automatic_thoughts": "他们永远学不会",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到他人会如何看待自己与狗的训练",
+          "conditional_assumptions": "如果被认为不够好，就证明我不行",
+          "compensatory_strategies": "隐瞒问题、不向女友或他人求助",
+          "automatic_thoughts": "他们在看不起我/觉得我做得不够",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，作为一名称职的宠物主人获得肯定",
+        "fear": "害怕被评判为失败者、感到羞耻与失控（狗不听从、训练失效）",
+        "defense_goal": [
+          "通过回避训练与社交来降低被评判与失败感",
+          "以自我苛责与高标准维持脆弱的自尊安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的主人",
+          "object_representation": "挑剔、会比较与评判的他人/更优秀的狗主人",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "无力感的训犬者",
+          "object_representation": "难以控制、反应不佳的宠物",
+          "linking_affect": "挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要在他人面前或与他人比较狗的训练成果时，或想到他人评价",
+          "interpretation": "认为他人会把自己视为失败的主人（移情：将内在自我批评投向外界）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "倾向使用“他们都会觉得……”等泛化陈述，语气不安、避免给出具体证据；咨询对话中可温和追问证据、帮助区分事实与推测。"
+        },
+        {
+          "trigger_condition": "当被建议与女友或他人分享困扰、寻求支持时",
+          "interpretation": "将“应当独自解决问题”的他人价值内化为自我要求，认为求助是软弱或麻烦别人",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用包含“应该/必须”的自我要求式语言，语气克制；咨询中以支持性语气邀请其辨识“应该”来源，并鼓励试验有限度的求助。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿将具体焦虑与女友分享，倾向独自承担问题",
+            "在训练与社交情境中因比较而自我隔离"
+          ],
+          "outcomes": [
+            "回避训练、关系紧张（与宠物）",
+            "焦虑与内疚加剧"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“应该/必须独自解决”为自我规则，限制选择与求助",
+            "在他人评价的框架中做决定（外部标准）"
+          ],
+          "outcomes": [
+            "自我苛责与羞耻感增强",
+            "行为选择受限，陷入回避与无力感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须自己解决”的语言",
+            "以他人或网络标准作为自我评价尺码"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "克制寻求支持的冲动，转为自责与内疚",
+            "在训练受挫时将能量转为对自我的批评而非外部沟通或调整计划"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度在意他人评价与比较",
+            "以全或无标准衡量训练成败，对积极进展贬低或忽略"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在训练狗的跟随（heel）指令时，来访者通常会因灾难化与比较而产生强烈焦虑，回避训练并中断练习。",
+          "unique_outcome": "在无牵引的多数情境下，两只狗表现良好，且对部分指令的执行较以往更好；来访者由此意识到“并非完全不可能”，对训练的看法更为平衡。",
+          "reason": "不同理解与关注点：注意到具体进步并将标准从“立刻完美”转为“逐步提升”；任务拆分：聚焦已掌握指令的强化而非一味比较；由此降低焦虑、提升可控感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "已开始寻求咨询，愿意练习去灾难化与设定小目标",
+          "能识别并承认狗在部分指令与无牵引情境中的进步",
+          "具备潜在支持资源（与女友保持联系）",
+          "愿意尝试行为实验与逐步目标"
+        ],
+        "negative_force": [
+          "灾难化、全或无思维、过度比较与读心",
+          "回避训练导致经验与正反馈减少",
+          "外部验证倾向强，易以他人标准评价自我",
+          "羞耻与内疚感加强，阻碍求助与持续练习"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与中断狗的跟随（heel）训练",
+          "antecedent": [
+            "在训练时狗对heel指令反应不佳",
+            "与其他狗主人接触、看到他人训练更好",
+            "在线阅读训练技巧与成功案例并进行比较"
+          ],
+          "core_reason": "灾难化与预测未来的负性认知（“他们永远学不会”），全或无标准与过度比较引发羞耻与被评判的恐惧。",
+          "function": "逃避失败感与被评判、短期降低焦虑与内疚",
+          "consequence": "训练进展受阻、与宠物关系紧张、日常生活与活动受影响，焦虑维持与加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1585
+}

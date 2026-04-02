@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "林嘉怡",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "十年级（偏重科学学科）",
+      "marital_status": "未婚",
+      "family_status": "与家人居住在美国佛罗里达，家庭支持性较强，但她难以向家人倾诉学业困扰",
+      "social_status": "因自觉能力不足而与朋友和同学疏离",
+      "medical_history": "无重要躯体疾病；既往无类似心理问题与治疗史",
+      "language_features": "初始略显紧张但愿意表达，叙述清晰、逻辑性良好，有自我反思能力；存在自我标签化与负性自动思维；配合度高、态度积极"
+    },
+    "main_problem": "我在科学课上的表现让我感到无能和自我价值低，这种感觉从本学期开始，几乎每天都会出现，尤其是在收到科学作业反馈之后。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为这些无能感正在影响我的自尊和学习动力。",
+    "growth_experiences": [
+      "本学期开始时对科学学业有较高自我期待；随着作业和测试成绩低于期望，这些结果逐步强化了“我不聪明”的信念，负性体验几乎每日出现，伴随焦虑、睡眠与饮食节律被打乱。",
+      "家庭整体支持性较强，但她难以向家人表达学业上的困扰，这在一定程度上限制了外部情感支持的获取。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明",
+        "我是愚蠢的"
+      ],
+      "special_situations": [
+        {
+          "event": "收到科学作业或测验的低分反馈",
+          "conditional_assumptions": "如果我成绩不好，就说明我不聪明",
+          "compensatory_strategies": "更加用功学习、向老师寻求额外帮助，试图用努力证明自己",
+          "automatic_thoughts": "我很蠢/我不够聪明",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在开始或进行与科学相关的任务时（如备考、写作业）",
+          "conditional_assumptions": "如果这次又失败，就证明我永远学不好科学",
+          "compensatory_strategies": "回避与朋友互动，独自苦读，同时持续担忧",
+          "automatic_thoughts": "我肯定会搞砸/我会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾曾在部分小测验或理解某些概念时的良好表现",
+          "conditional_assumptions": "零星的好表现不算数，整体不好就等于不聪明",
+          "compensatory_strategies": "忽略正向证据，只关注负面成绩与反馈",
+          "automatic_thoughts": "这些做得还行也没有意义，我还是不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "面对自己为科学设定的高标准却未达成",
+          "conditional_assumptions": "我应该拿到理想的高分，否则就是失败和愚蠢",
+          "compensatory_strategies": "加倍努力、延长学习时间，以满足“应该”的标准",
+          "automatic_thoughts": "我应该做得更好，否则我就是笨",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见为有能力、被认可与接纳",
+        "fear": "害怕被评价为愚蠢、被否定与羞辱",
+        "defense_goal": [
+          "通过自我隔离减少外界评价带来的威胁",
+          "通过过度用功来维持对自我价值的掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、容易失败的学习者",
+          "object_representation": "带有评判与标准的他者（老师、同学、家人）",
+          "linking_affect": "羞耻、焦虑与自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及科学成绩或被要求检视“聪明/能力”的证据时",
+          "interpretation": "他人会认为我不够聪明，我会被否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低音量，反复使用自我贬低用语（如“我不够聪明”），淡化他人正面反馈，较少表达对外部评价的不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自觉能力不足而主动与朋友和同学疏离",
+            "难以向支持性的家人开口谈学业困扰，减少外部支持的获取"
+          ],
+          "outcomes": [
+            "自尊受损与自我价值感下降",
+            "焦虑与压力增高",
+            "睡眠与饮食节律被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在叙述中频繁自我否定（如“我不够聪明”）",
+            "初始紧张、小心表达，担心“说错/做不好”",
+            "正向证据被弱化，持续自我苛责"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "面对学业压力时选择独自承受并与同伴疏离",
+            "明知家庭支持但难以开口求助，将压力向内转为自责和自我加压"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在科学学科学习与测验情境下，来访者通常会陷入“我不够聪明”的想法并感到焦虑，注意力受影响、动力下降。",
+          "unique_outcome": "在部分小测验以及理解某些科学概念的时刻，来访者并未像以往那样完全被负面想法困住，而是表现“还可以/理解到位”，获得了一定的掌握感。",
+          "reason": "线索：曾付出额外学习努力并向老师寻求帮助；当任务更聚焦或概念被讲解清楚时，更容易产生掌握感与正向反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭整体支持性较强",
+          "学习动机尚在，愿意加倍努力并主动寻求帮助",
+          "能够识别并尝试重构负性想法（愿意进行行为实验）",
+          "在部分小测验与概念理解上有成功经验，具备能力证据"
+        ],
+        "negative_force": [
+          "自我标签化与全或无的能力评价标准",
+          "倾向忽略正向证据、只关注负面反馈",
+          "对未来失败的灾难化/预测性担忧",
+          "社交回避导致支持减少，进一步放大无助感",
+          "睡眠与饮食受扰，降低学习效率与情绪耐受度"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与学业相关的焦虑与自我贬低（如“我不够聪明/我很蠢”）",
+          "antecedent": [
+            "收到科学作业或测验的低分反馈",
+            "开始准备科学作业、测验或考试时"
+          ],
+          "core_reason": "将学业成绩等同于智力与自我价值的标签化信念，以及非黑即白的能力评价标准",
+          "function": "逃避被评价的威胁、获得对自我价值的暂时控制感",
+          "consequence": "学习动力与专注度下降，负性情绪加重，形成“低表现—负性信念”的恶性循环"
+        },
+        {
+          "behavior": "社交回避（与朋友和同学疏离）",
+          "antecedent": [
+            "在校园中谈及或想到科学成绩不理想",
+            "预期同伴或他人会评价自己的学业能力"
+          ],
+          "core_reason": "担心被视为“不聪明”，以回避社交评价来降低羞耻与焦虑",
+          "function": "逃避不受欢迎的社交评价与可能的失败暴露",
+          "consequence": "社会支持减少、孤独感增加，进一步加重无助与低自尊"
+        },
+        {
+          "behavior": "睡眠与饮食节律紊乱",
+          "antecedent": [
+            "在学习或复盘科学任务时的持续紧张与反刍",
+            "对即将到来的作业/测验的担忧"
+          ],
+          "core_reason": "对失败与能力不足的灾难化预测与持续担忧，难以情绪放松",
+          "function": "在生理上反映压力与警觉，试图为“避免失败”做准备",
+          "consequence": "精力与认知效率下降，进一步影响学习表现并强化负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 990
+}

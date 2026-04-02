@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林安希",
+      "gender": "女",
+      "occupation": "音乐人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与母亲同住",
+      "social_status": "与观众和同伴音乐家的关系因自我批评而紧张",
+      "medical_history": "无类似心理问题经历；此前未接受心理咨询；无显著身体疾病",
+      "language_features": "逻辑清晰，能够具体描述经历与感受；语气焦虑与自我批评并存；对他人赞美持怀疑；配合度较高，愿意尝试建议"
+    },
+    "main_problem": "我正为上一次音乐演出相关的失败感和失望所困扰；尽管整体反馈积极，我仍无法摆脱对最后一段演奏不够好的感觉。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些失败感影响了我的心理健康与对音乐的热情，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是一个失败的音乐人"
+      ],
+      "special_situations": [
+        {
+          "event": "最后一段演奏中出现了几处错误",
+          "conditional_assumptions": "如果我在关键段落犯错，就说明整场演出失败，我不配做音乐人",
+          "compensatory_strategies": "反复在脑中回放并严厉自我批评，忽略正面反馈",
+          "automatic_thoughts": "我毁了整场演出",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "演出结束后得到朋友和观众的积极评价",
+          "conditional_assumptions": "他人的称赞不可靠，可能只是出于礼貌或安慰",
+          "compensatory_strategies": "否定正面反馈，持续关注错误细节",
+          "automatic_thoughts": "他们只是客套，真实情况是我表现很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到未来的演出",
+          "conditional_assumptions": "如果再次出现类似错误，我的声誉会被毁，我不配继续做音乐",
+          "compensatory_strategies": "回避回听录音，陷入担忧与预演失败的场景",
+          "automatic_thoughts": "下次我也会搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆整场演出时只盯着错误片段",
+          "conditional_assumptions": "只有毫无错误的表演才算成功",
+          "compensatory_strategies": "过滤掉成功片段，只聚焦缺点以“维持标准”",
+          "automatic_thoughts": "好的部分都不算数，关键是我出错了",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被观众与同行真诚认可、保持完美表现与良好声誉",
+        "fear": "害怕失败与被否定，担心声誉受损、被视为不够好",
+        "defense_goal": [
+          "以严苛自我要求与自我批评来避免失败和羞耻",
+          "对赞美保持怀疑以防“被欺骗”或被否定",
+          "回避可能暴露缺点的情境（如回听录音）以减轻焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易犯错、需要证明自己的音乐人（自我批评者）",
+          "object_representation": "挑剔且可能不真诚的观众/他人",
+          "linking_affect": "焦虑、羞耻、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友或观众给予正面反馈时",
+          "interpretation": "来访者认为对方是在敷衍或不真诚（将自身的否定体验投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和与探询，邀请其区分事实与推测，具体化他人反馈的证据来源，鼓励检视与对方的实际互动细节。"
+        },
+        {
+          "trigger_condition": "当咨询师建议录音回放或在低压环境练习最后一段时",
+          "interpretation": "来访者担心这会“证明自己很糟”，预先想象最坏结果以应对不确定性",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以支持与共情的语气，协商小步实验（时间短、环境安全），先关注中性与积极线索，设定可控的观察维度以降低情绪激活。"
+        },
+        {
+          "trigger_condition": "当独自反复回想演出中的错误片段时",
+          "interpretation": "将一次错误视为对整体自我价值的否定，攻击性转向自身",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用高共情与具身化语言，命名自我攻击，把评判转为具体可改进的行为项目，引导练习自我慈悲与平衡评价。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与观众和同伴音乐家的关系因自我批评而紧张",
+            "主要依赖母亲作为唯一的情感支持",
+            "对他人赞美缺乏信任，难以建立真实连接"
+          ],
+          "outcomes": [
+            "焦虑增强",
+            "失败感持续",
+            "对音乐的热情被削弱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值高度绑定于完美与声誉",
+            "失败感遮蔽了对音乐本身的热爱与体验"
+          ],
+          "outcomes": [
+            "动机下降",
+            "职业表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "认为“只有无错误的表演才算成功”",
+            "强调“必须让观众印象深刻并维护声誉”来要求自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "把自身的否定体验归因于他人“不真诚的称赞”",
+            "质疑他人赞美的真诚度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复在脑中回放错误片段",
+            "担心未来演出会搞砸",
+            "不敢回听录音"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在演出结束后回想表现时，来访者通常会只关注错误、否定整体成绩，并陷入失败感与焦虑，进而担心未来演出。",
+          "unique_outcome": "在那场演出中，开场与若干即兴段表现自然流畅，来访者当场体验到顺畅与掌控感，并获得朋友与观众的积极反馈，与其“整场都是灾难”的主导叙事形成对照。",
+          "reason": "不同支持：现场来自朋友与观众的积极反馈；不同情境：开场准备更充分、即兴环节压力较低；做法不同：当下更专注于音乐本身的体验而非自我评判。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "母亲的稳定情感支持",
+          "朋友与观众的正面反馈与认可",
+          "具备扎实的演奏与舞台能力（整场演出总体评价良好，开场与即兴发挥自然）",
+          "能识别并命名自身的亮点（如承认开场表现良好）"
+        ],
+        "negative_force": [
+          "灾难化与心理过滤倾向显著",
+          "否定正面反馈与读心式推断他人动机",
+          "完美主义与对声誉的过度依赖",
+          "对未来演出的预测性担忧与自我批评导致关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "演后反复回放错误并否定整体表现，伴随明显的焦虑与失败感",
+          "antecedent": [
+            "演出后回忆整场表现",
+            "收到他人正面评价时",
+            "想到未来的演出与声誉"
+          ],
+          "core_reason": "为维持完美与声誉，将关键段错误等同于整体失败，灾难化认知驱动严苛自我批评与对赞美的不信任",
+          "function": "通过严苛自我监控来“避免失败”和羞耻，逃避面对不确定评价与自我接纳",
+          "consequence": "自信心下降、对音乐的热情被削弱、与观众和同伴关系紧张、职业表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 562
+}

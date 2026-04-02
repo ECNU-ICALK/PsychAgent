@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林若晴",
+      "gender": "女性",
+      "occupation": "零售业员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居；与父母和兄弟姐妹关系亲密",
+      "social_status": "与家人及少数密友关系良好；在工作中与顾客的互动引发焦虑与自我怀疑",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；无类似问题史",
+      "language_features": "首次咨询略显紧张；表达清晰、条理较好；配合度高；能够自我反思但倾向过度分析并将反馈个人化"
+    },
+    "main_problem": "在零售工作中觉得所有顾客都讨厌自己，导致持续的焦虑和自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "这些想法对我的工作表现和心理健康的影响越来越大，因此寻求咨询。",
+    "growth_experiences": [
+      "约六个月前在工作中收到几位顾客的负面评论，此后逐渐产生并加重“顾客都讨厌我”的想法。问题初期的压力水平为中等，但随着时间推移发展为每次顾客互动前都感到显著焦虑，并在互动后反复过度分析顾客反应，认为他们可能不满意或在心里看不起自己。该问题每日多次出现，尤其在工作时段；睡眠质量下降，整体压力升高。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被喜欢/让人讨厌",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "六个月前收到几条顾客的负面评论",
+          "conditional_assumptions": "如果被顾客批评，就说明我是个不好的人，所有顾客都会讨厌我",
+          "compensatory_strategies": "努力改进客户互动并寻求更多正向反馈",
+          "automatic_thoughts": "所有顾客都讨厌我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次临近与顾客互动之前",
+          "conditional_assumptions": "如果顾客不立刻表现满意，必定是我做错了",
+          "compensatory_strategies": "在互动前高度紧张并过度准备；互动后继续反复检查细节",
+          "automatic_thoughts": "这次他们又会不满意/会讨厌我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到顾客出现不满或不赞同的表情",
+          "conditional_assumptions": "任何不满表情都意味着他们在责怪我这个人",
+          "compensatory_strategies": "事后反复回放并过度分析顾客的反应和细节",
+          "automatic_thoughts": "他们一定在心里看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "即使有顾客称赞并表现满意，来访者仍主要关注负面反馈",
+          "conditional_assumptions": "只有零负面反馈才算合格，否则就是失败",
+          "compensatory_strategies": "忽视或贬低正向反馈，持续聚焦于负面评价",
+          "automatic_thoughts": "好的不算数，差评才是真实",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被顾客认可、被喜欢并被视为有价值",
+        "fear": "害怕被批评与被讨厌，从而否定自我并影响工作表现",
+        "defense_goal": [
+          "通过过度分析与自我监控来避免再次被否定",
+          "保持高度警觉以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被否定、需要不断证明自己的服务人员",
+          "object_representation": "挑剔、易不满并可能责备自己的顾客",
+          "linking_affect": "焦虑、羞愧、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当顾客出现不满表情或给出负面反馈时",
+          "interpretation": "倾向将顾客的任何不满理解为对自己人格的否定（移情：把他人的想法当作对自己的评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎而不确定，频繁自我检讨并寻求外部保证；回避肯定自我，强调可能的错误。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作互动中反复过度分析顾客反应",
+            "将负面反馈内化为对自我价值的否定",
+            "频繁自我怀疑、难以接纳正向证据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在零售工作中与顾客互动时，来访者通常会在出现轻微负面反馈或不满表情后产生强烈焦虑并过度分析，认为对方讨厌自己，进而影响工作表现。",
+          "unique_outcome": "有许多顾客在服务结束后当场表示满意并给予称赞，来访者获得正向反馈，互动顺利，未出现强烈焦虑与自我否定。",
+          "reason": "不同证据与支持：顾客明确的正向反馈提供了与负性信念相矛盾的线索；不同做法：来访者曾主动改进客户互动，从而更易获得积极结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭与朋友网络",
+          "过去获得过顾客称赞与正向反馈，表明具备良好服务能力",
+          "态度积极，愿意尝试认知重构与行为实验"
+        ],
+        "negative_force": [
+          "灾难化、读心术与过度概括等负性认知模式",
+          "将反馈过度个人化，忽视正向证据（心理过滤）",
+          "在每次顾客互动前后出现强烈焦虑与自我怀疑，导致睡眠与压力问题"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在顾客互动前出现强烈焦虑、互动后进行事后过度分析并自我怀疑",
+          "antecedent": [
+            "临近与顾客互动时",
+            "收到顾客的负面评论",
+            "看到顾客不满或不赞同的表情"
+          ],
+          "core_reason": "对负面反馈进行灾难化与读心式解释、过度概括，并倾向将反馈个人化。",
+          "function": "逃避潜在的批评与拒绝，寻求确定性与安全感",
+          "consequence": "工作表现下降；睡眠质量变差；整体压力水平升高；持续的自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1073
+}

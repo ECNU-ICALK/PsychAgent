@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "林珊",
+      "gender": "女性",
+      "occupation": "电视行业从业者",
+      "educational_background": "未提及",
+      "marital_status": "与女友恋爱中",
+      "family_status": "未提及",
+      "social_status": "有少数朋友可倾诉，但尚未与他们充分分享关系困境",
+      "medical_history": "无重大躯体疾病；无既往心理治疗/咨询史",
+      "language_features": "表达清晰，逻辑连贯，能自我反思并配合度高，倾向用绝对化与自我贬低的表述"
+    },
+    "main_problem": "我注意到我对女友不太友好，这已经在我们的关系中造成了问题。",
+    "topic": "人际关系",
+    "core_demands": "意识到我的行为正在影响我们的关系和我的身心健康，这促使我此时寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个彻底的失败者",
+        "我什么都做不好"
+      ],
+      "special_situations": [
+        {
+          "event": "上周日做早餐（煎饼）失败，煎饼糊了，女友期待一起吃早餐的计划泡汤",
+          "conditional_assumptions": "如果我在一件事上失败，就证明我整体能力差，是个糟糕的人/厨师",
+          "compensatory_strategies": "把食物扔掉、用“我是个坏厨师”给自己贴标签、与女友疏离或发脾气",
+          "automatic_thoughts": "我连煎饼都不会做，我是个糟糕的厨师。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "工作压力上升、情绪低落时，日常小事不按计划进行",
+          "conditional_assumptions": "如果事情不按计划进行，说明我失控且不够好，后面只会更糟",
+          "compensatory_strategies": "提高自我要求、苛责自己，对伴侣易怒或退缩以避免暴露“不够好”",
+          "automatic_thoughts": "我根本应对不了这种状况，事情会一团糟。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与女友互动中出现失误或不顺（如计划落空、说错话）",
+          "conditional_assumptions": "如果我不够完美，女友就会失望，关系会变差",
+          "compensatory_strategies": "预先消极预期、少做尝试、回避或沉默以减少被评判的机会",
+          "automatic_thoughts": "无论我做什么都不够好，最终会让她失望。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作中或家庭活动里出现一次小错误",
+          "conditional_assumptions": "一次错误可以代表整体能力与价值",
+          "compensatory_strategies": "全盘否定自我、忽视以往成功经验，停止继续尝试",
+          "automatic_thoughts": "我又搞砸了，我就是失败者。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣接纳与看见自己的价值，维持亲密与和谐的连接",
+        "fear": "害怕失败被否定、让对方失望以至被责怪或疏远",
+        "defense_goal": [
+          "通过强调外在压力与自我苛责来维持自尊与控制感",
+          "在关系中保持一定距离以避免被评价为“不够好”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败并令他人失望的人",
+          "object_representation": "被我伤害而失望、可能会评判我的伴侣",
+          "linking_affect": "羞耻、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询其对女友发火或“做砸了”的细节与原因时",
+          "interpretation": "担心被评判为“不够好”，需要证明行为是因情境所致而非自身缺陷",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以解释性与克制的语气强调外在原因（如工作压力），弱化个人责任；用委婉词汇、保持理性铺陈，减少情绪暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "工作压力使其对唱歌与烹饪的兴趣与乐趣下降",
+            "一旦出错便体验到强烈的失败与无价值感，否定既往成功经验"
+          ],
+          "outcomes": [
+            "易怒与退缩加剧亲密关系紧张",
+            "自尊受损与自我怀疑增加",
+            "生活满足感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在谈及失误时以绝对化标签否定自我（如“我是失败者/坏厨师”）",
+            "担心自己“不够好”，从而在关系中退缩或少做尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在烹饪失误或事情不按计划时，来访者通常会灾难化地否定自己，并对伴侣发火或退缩，令关系紧张。",
+          "unique_outcome": "来访者提到“我以前也做出过好吃的饭菜”，与当下的“我是坏厨师”形成对照，说明她在其他情境下能够获得积极结果与自我评价更平衡。",
+          "reason": "线索：当时未发生明显失误，注意到成品良好与他人正向反馈，因而自我评价更为客观，未用一次事件定义整体能力。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对问题有觉察并主动寻求帮助",
+          "曾有成功烹饪与享受兴趣爱好的经验，可作为积极证据",
+          "与伴侣及少数朋友存在潜在支持资源",
+          "能接受认知重构与设定具体小目标"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维突出",
+          "在压力情境下易自我贬低与过度概括",
+          "对伴侣发怒或退缩以逃避被评价的不适",
+          "工作压力持续高企，放大负面情绪与互动冲突"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对伴侣易怒与退缩",
+          "antecedent": [
+            "工作压力增加",
+            "事情不按计划进行",
+            "发生错误（如煎饼糊了）",
+            "心情低落或已处在烦躁状态"
+          ],
+          "core_reason": "在压力下将个别失误等同整体无能，引发羞耻与无价值感，通过发怒或退缩来避免被评价与失败感",
+          "function": "逃避被批评与失败带来的痛苦情绪，短期维持自尊与控制感",
+          "consequence": "伴侣关系紧张与冲突增多，自责与内疚加重，生活乐趣与工作表现进一步下降"
+        },
+        {
+          "behavior": "负性自我标签与反复自责（如“我是失败者/坏厨师”）",
+          "antecedent": [
+            "在任务或日常活动中出现一次小错误",
+            "他人期待情境（如与伴侣共进早餐）未达成"
+          ],
+          "core_reason": "过度概括与非黑即白思维使其以单次失误定义整体能力与价值",
+          "function": "试图通过严苛自我批评来预防再犯与获取控制感",
+          "consequence": "情绪低落与无助感上升，回避尝试新任务，关系与生活质量受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1439
+}

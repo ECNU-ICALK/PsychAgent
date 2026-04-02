@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "陈芷晴",
+      "gender": "女",
+      "occupation": "高中学生",
+      "educational_background": "高中在读",
+      "marital_status": "单身",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "与家人关系因专注学业而紧张；有支持性的朋友和家人，但难以与他们讨论内疚与自我批评的感受",
+      "medical_history": "无既往相似心理问题；无心理治疗史；无显著躯体疾病",
+      "language_features": "表达清晰，能够自我反思，频繁使用“应该”句式，自我批评明显，略显紧张但配合度高"
+    },
+    "main_problem": "因观看迪士尼电影等休闲活动而感到愧疚，进而产生自我否定与自我批评，影响心理健康与学习效率。",
+    "topic": "学业压力",
+    "core_demands": "寻求咨询以缓解愧疚与自我批评对心理健康和生产力的影响，从而改善学业表现。",
+    "growth_experiences": [
+      "几个月前学校作业与课外活动负荷显著增加，此后每当尝试放松或进行休闲活动（如观看迪士尼电影）便产生强烈愧疚与自我批评，难以享受曾经喜爱的活动。",
+      "为更专注学习而与家人疏离，家庭关系因此紧张，进一步加剧压力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有持续学习/工作我才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "几天前在完成部分作业后观看迪士尼电影，途中出现强烈愧疚感",
+          "conditional_assumptions": "如果我没有把时间全部用在学习上，就说明我不够努力、很不负责任",
+          "compensatory_strategies": "制定更严格的学习计划、压缩或中止休闲活动",
+          "automatic_thoughts": "我应该学习更多；我没有做够",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "每当尝试放松或进行任何休闲活动时",
+          "conditional_assumptions": "休闲等同于浪费时间，只有学习才算有价值",
+          "compensatory_strategies": "通过增加学习时长来抵消放松；否定休闲带来的积极恢复",
+          "automatic_thoughts": "放松就是在浪费时间",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "近几个月学校的作业量与课外活动压力显著增加",
+          "conditional_assumptions": "若学业表现未持续提升，就意味着我总是达不到期待",
+          "compensatory_strategies": "自我批评、持续加压以逼迫自己提高效率",
+          "automatic_thoughts": "我不够好，总是达不到期待",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在被认可与安全的前提下自由地享受休闲与自我照顾",
+        "fear": "害怕被评判为不负责任、达不到期待，从而失去价值与成绩",
+        "defense_goal": [
+          "通过内化外界标准、保持自我苛责与高控制来避免失败与内疚"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生、总是达不到期待，需要时刻加压的自我",
+          "object_representation": "苛求表现的评判者（学校/他人的期待）",
+          "linking_affect": "愧疚、压力、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其为休闲的正当性赋予意义或建议增加放松时间时",
+          "interpretation": "来访者将外界的高期待投射到咨询关系中，潜意识把“放松”等同于“不负责任”，担心会被评判为达不到期待",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "采用温和、支持性语气；先共情其愧疚，再邀请其具体化当前感受与身体反应；使用开放式问题，引导将“应该”重述为“我选择/我偏好”；提供小步尝试的许可与明确界限，避免评判或过度解释。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "难以允许自己自由选择休闲，被“应该”与外界规则主导",
+            "将休息视为不负责任，难以体验自我选择的正当性"
+          ],
+          "outcomes": [
+            "内疚与自我批评加重",
+            "难以享受原本带来愉悦的活动",
+            "生产力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为专注学业而与家人疏离，关系紧张"
+          ],
+          "outcomes": [
+            "压力增加",
+            "支持利用度下降，情感交流受阻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须……”的语句",
+            "把学校压力和外部期待内化为唯一评价标准",
+            "倾向制定严格的学习计划以符合内化规则"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "为了学习而减少与家人的互动，把压力向内转为自我苛责",
+            "在感到紧张时通过加压自己而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意求助并配合咨询",
+          "愿意进行自我观察与记录思维（如写日记）",
+          "拥有支持性的朋友与家人",
+          "具备结构化时间管理的尝试与意愿"
+        ],
+        "negative_force": [
+          "强烈的“应该”信念与自我苛责",
+          "否定休闲的积极价值（否定正面）",
+          "学业压力与课外负荷增加",
+          "与家人疏离、难以表达内疚与自我批评",
+          "因内疚导致注意力与效率下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在进行休闲活动时出现强烈的愧疚与自我批评",
+          "antecedent": [
+            "尝试放松或进行休闲活动（如观看迪士尼电影）",
+            "在完成部分作业后仍认为自己应该继续学习"
+          ],
+          "core_reason": "内化的外部规则与“应该”信念，将休闲视为不负责任；学业压力增加触发对效率的担忧",
+          "function": "逃避被视为不够努力的风险、维持自我价值感的控制",
+          "consequence": "无法获得休息与愉悦，情绪低落，学习效率与专注下降"
+        },
+        {
+          "behavior": "为专注学习而与家人隔离",
+          "antecedent": [
+            "感受到学业与活动负荷增加",
+            "自我评价为“做得不够”时"
+          ],
+          "core_reason": "害怕达不到期待，认为关系互动会妨碍学习",
+          "function": "逃避外界干扰以维持控制感与效率",
+          "consequence": "亲密关系紧张，孤独感与压力增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 863
+}

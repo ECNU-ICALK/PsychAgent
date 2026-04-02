@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "陈凯琳",
+      "gender": "女",
+      "occupation": "银行员工",
+      "educational_background": "金融学学士学位",
+      "marital_status": "未婚",
+      "family_status": "父亲曾在银行工作，现居城市",
+      "social_status": "有几位亲密朋友和家人可倾诉，但尚未与他们讨论此类感受；因对职业选择的过度关注，社交投入受影响",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "态度积极，表达清晰，能具体描述诱发情境与情绪；倾向聚焦负面并使用“应该”句式，存在心理过滤与否定积极的倾向"
+    },
+    "main_problem": "我持续对大学专业的选择感到后悔，认为自己应该选择能赚更多钱的专业。这些后悔与自我批评的感受影响了我的日常动力与自尊，尤其在工作中的财务讨论或社交场合谈及职业成就时加重。",
+    "topic": "职业发展",
+    "core_demands": "寻求咨询以获得应对这些情绪的指导；希望拥有更为平衡的看法。",
+    "growth_experiences": [
+      "大学阶段选择金融专业，主要受父亲在银行工作的影响，认为金融是务实且安全的选择并期待未来成功。毕业后几年开始对这一选择产生持续后悔与比较，常以他人的更高收入与更“成功”的职业路径作为参照。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于我赚多少钱",
+        "我做出了错误的选择，因此我是失败的"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中进行财务讨论时，同事提及高额投资收益",
+          "conditional_assumptions": "如果我没有选择能带来更高收入的专业，就说明我做错了并且不够成功",
+          "compensatory_strategies": "通过设定新的财务目标或用兴趣爱好分散注意力来缓解后悔感",
+          "automatic_thoughts": "我应该去做投行，那样我会赚更多钱、生活更好",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "在社交聚会中他人谈论职业成就与薪资待遇",
+          "conditional_assumptions": "如果我的收入或职位不如同龄人，就意味着我不如人、没有成就",
+          "compensatory_strategies": "减少社交投入、回避深入互动以避免被比较与评价",
+          "automatic_thoughts": "他们做了更好的选择，我是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "独自回想职业路径与“错过的机会”，并将注意力集中在他人的高收入案例",
+          "conditional_assumptions": "只有高收入才代表成功与价值，其他积极面不重要",
+          "compensatory_strategies": "反复沉思后悔与自我批评，忽视自身稳定与人际支持",
+          "automatic_thoughts": "我的工作一无是处，错失了更好的机会",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "意识到自己与同事关系良好、达成过一些财务目标时",
+          "conditional_assumptions": "这些积极面并不能证明我选择正确，只有更高收入才算数",
+          "compensatory_strategies": "直接否定积极反馈，坚持以收入为唯一标准",
+          "automatic_thoughts": "这些不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过职业与收入获得认可与价值感",
+        "fear": "害怕被视为失败、不如人，从而失去自尊与社会评价",
+        "defense_goal": [
+          "通过持续比较与自我批评来维持对价值的控制感、避免面对对自我价值的不确定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如人的失败者、做出错误选择的人",
+          "object_representation": "更成功且具评判性的他人/群体",
+          "linking_affect": "自卑、羞愧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其积极成就或建议进行感恩/自我慈悲练习时",
+          "interpretation": "认为这些积极面“并不重要”，无法改变“我做错选择”的事实（将外界肯定视为无效）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "使用“这不算数”“那只是小事”等否定语句，语气犹疑但坚持负性框架，重复比较与后悔主题，淡化咨询师指出的积极证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "持续将自我价值与收入绑定，忽视工作稳定性与人际关系等积极面",
+            "在社交与工作情境中反复沉思“错过的机会”，认为当前路径缺乏意义"
+          ],
+          "outcomes": [
+            "日常动力下降",
+            "自尊降低",
+            "工作绩效受影响",
+            "社交投入减少"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "围绕过去选择的后悔与“应该”句式，难以承担并整合选择的结果",
+            "对“如果当初选了别的专业会更好”的假设反复纠结"
+          ],
+          "outcomes": [
+            "持续自我批评",
+            "焦虑与不安全感增加",
+            "难以做出当下的自主选择与视角转化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“高收入=成功”为内化的绝对标准评价自我",
+            "频繁使用“我应该选别的专业”来审判自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自我批评，强化对自身选择的苛责",
+            "在社交场合因自我评价过严而难以投入互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与同事关系良好，具备一定的人际支持基础",
+          "曾达成部分财务目标，具备目标设定与执行能力",
+          "态度积极，愿意尝试记录积极面与练习自我慈悲"
+        ],
+        "negative_force": [
+          "强烈的比较与外部验证倾向，将自我价值与收入绑定",
+          "心理过滤与否定积极，忽视现有成就与稳定性",
+          "习惯性“应该”句式与反复后悔性沉思，导致动力与专注下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复沉思并后悔大学专业选择，伴随自我批评与动力下降",
+          "antecedent": [
+            "工作中的财务讨论与投资收益话题",
+            "社交场合谈论职业成就与薪资",
+            "独处时回想“错过的机会”并与他人收入比较"
+          ],
+          "core_reason": "将自我价值与收入水平刚性捆绑的价值条件，导致对当下工作的积极面视而不见并持续比较",
+          "function": "逃避对自我价值的不确定感与当前不满足情绪，通过沉思与自我批评寻求控制与解释",
+          "consequence": "工作绩效受影响、专注度下降；自尊感降低；社交投入减少与生活满意度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1231
+}

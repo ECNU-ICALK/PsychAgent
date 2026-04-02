@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "林若薇",
+      "gender": "女",
+      "occupation": "餐馆员工兼纸杯蛋糕生意老板",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚，有子女",
+      "family_status": "已婚育有子女，需负责接送孩子上学",
+      "social_status": "与同事关系因迟到而紧张；配偶支持但支持有限",
+      "medical_history": "既往无心理治疗史；无显著躯体疾病",
+      "language_features": "表达清晰、配合度较高，语气中性但带有挫败感；常使用绝对化表述（如“永远不可能准时”）"
+    },
+    "main_problem": "我总觉得自己永远不可能准时，因为送孩子上学后我总是上班迟到，这导致压力和内疚。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为持续迟到影响了我的工作表现，并在个人生活中造成压力。",
+    "growth_experiences": [
+      "生育孩子后开始在餐馆工作，早晨需要先送孩子到学校，再赶往工作地点。随着时间推移，通勤交通拥堵与早晨准备的匆忙使迟到频率增高，压力与内疚不断累积，进而影响自尊与与同事的互动；虽然配偶具有支持性并在可行时协助，但其工作限制使支持不足以解决问题。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不负责任的人",
+        "我永远无法准时"
+      ],
+      "special_situations": [
+        {
+          "event": "早晨送孩子到学校后遇到通勤拥堵，导致上班打卡迟到",
+          "conditional_assumptions": "如果我不能同时满足家庭与工作的时间要求，就说明我不负责任/失败",
+          "compensatory_strategies": "设定多个闹钟、优化早晨日程、加快节奏以挤压时间",
+          "automatic_thoughts": "我永远不可能准时",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "老板因迟到表现出不满，工作表现受到影响",
+          "conditional_assumptions": "如果别人对我不满，就说明我就是不负责任的人",
+          "compensatory_strategies": "内疚自责、加班或更快完成任务以弥补",
+          "automatic_thoughts": "他们觉得我不负责任/不投入",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "准备与老板沟通调整工作时间，但不确定对方是否会同意",
+          "conditional_assumptions": "如果老板不同意，我就没有办法解决问题，我会一直迟到",
+          "compensatory_strategies": "犹豫不决、反复权衡而推迟行动",
+          "automatic_thoughts": "她大概不会同意，这方案不会奏效",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "出门前就感到高度匆忙与紧张，担心早晨流程被打乱",
+          "conditional_assumptions": "如果开局不完美，后面就一定会崩坏",
+          "compensatory_strategies": "在有限时间里塞入更多任务、不断加速以“抢时间”",
+          "automatic_thoughts": "今天又会迟到，一切都会搞砸",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为可靠并同时胜任母亲与员工的角色",
+        "fear": "害怕被老板和同事认为不负责任、被责备或影响工作稳定；害怕无法照顾好孩子",
+        "defense_goal": [
+          "通过加倍控制与自我苛责来维持秩序并减轻内疚",
+          "避免直接面对被拒绝的可能以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚的被责备者",
+          "object_representation": "不满、挑剔的上司与同事",
+          "linking_affect": "焦虑、羞愧、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论采取行动（如与老板沟通调整工作时间）或被他人评价迟到时",
+          "interpretation": "将老板的不满泛化为他人会否定自己，主观认定“他们认为我不负责任”。",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用温和、共情的语气，承认其担忧，同时适度挑战其假设；使用开放式问题引导其将担心具体化，并鼓励进行小步尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "生育后同时承担育儿与工作角色，早晨时间受外在安排与交通限制而难以自主",
+            "对“必须准时”的价值条件高度依附，感到被规则与责任束缚",
+            "对调整工时或使用校车等选择持不确定与顾虑"
+          ],
+          "outcomes": [
+            "持续压力与内疚感",
+            "难以放松，自尊受损",
+            "与同事互动紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "主观认定同事觉得自己不负责任/不投入",
+            "预设老板不会同意调整工时"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我责备与内疚，将迟到归因于品性问题",
+            "在早晨不断自我审查与加速，试图“抢时间”"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "强调“我必须准时”“我应该同时照顾好孩子并准时到岗”",
+            "以绝对化规则评估自我价值，导致压力与内疚加剧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶协助育儿",
+          "愿意尝试与老板沟通调整工时",
+          "已经尝试多种策略（设闹钟、优化日程、寻求帮助）",
+          "具备理性分析与方案评估的能力"
+        ],
+        "negative_force": [
+          "存在非黑即白、预测未来、灾难化等认知偏差",
+          "过度关注他人评价，担心被视为不负责任",
+          "晨间时间结构与通勤环境限制（送学与交通拥堵）",
+          "内疚与压力长期累积，自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "上班迟到",
+          "antecedent": [
+            "早晨送孩子上学",
+            "通勤交通拥堵",
+            "出门前已感到匆忙与紧张"
+          ],
+          "core_reason": "在家庭与工作双重角色冲突中，时间管理受限并伴随“我永远不可能准时”的灾难化/绝对化认知",
+          "function": "优先完成育儿任务以获得短期安心感，暂时逃避被评判的焦虑",
+          "consequence": "工作表现受影响，老板不满、与同事关系紧张；压力与内疚加剧，自尊受损"
+        },
+        {
+          "behavior": "晨间高度紧张与匆忙（焦虑）",
+          "antecedent": [
+            "出门前准备不足或时间紧迫",
+            "预期交通拥堵与迟到风险"
+          ],
+          "core_reason": "对“必须完美准时”的非黑即白信念与对负面结果的预测未来",
+          "function": "通过提高唤醒来推动行动（自我刺激/动员），但造成低效与混乱",
+          "consequence": "计划混乱、耗时增加，迟到加剧并在全天维持高紧张水平"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1958
+}

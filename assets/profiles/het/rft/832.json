@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "林珊",
+      "gender": "女性",
+      "occupation": "海军军官",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "孤儿，无父母、无子女",
+      "social_status": "在海军中有少数朋友理解其处境，但难以向他们敞开谈论婚姻问题",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；加入海军之前未出现类似问题",
+      "language_features": "态度中性、表达清晰；能描述自身焦虑与思维模式；愿意合作并尝试“行为实验”；报告与妻子沟通困难、情绪紧张"
+    },
+    "main_problem": "我相信我的妻子总是因为我的海军部署而生我的气，这导致我内疚并引发婚姻不和。",
+    "topic": "婚姻关系",
+    "core_demands": "希望通过咨询来处理婚姻中的紧张和持续的内疚感，从而改善与妻子的关系。",
+    "growth_experiences": [
+      "身份背景：为孤儿，无父母、无子女；社会支持有限。",
+      "加入海军后多次长期部署，尤其是去年一次特别长的部署后，感受婚姻压力与疏离加重；每次临近离别与分离时都会重复出现内疚与紧张。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是正在伤害婚姻的人",
+        "我让妻子痛苦/失望"
+      ],
+      "special_situations": [
+        {
+          "event": "每次需要离开家进行为期数月的海军部署",
+          "conditional_assumptions": "如果我离开去部署，妻子必然会生气，我们的关系会因此受损",
+          "compensatory_strategies": "在离开前尝试与妻子沟通并表达感受以缓解矛盾，但效果有限",
+          "automatic_thoughts": "她一直在生我的气；我在伤害我们的婚姻",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "去年一次特别长的部署结束后回家，与妻子沟通困难、感觉彼此疏远",
+          "conditional_assumptions": "一旦出现疏远，就说明都是我的错、是我让婚姻变糟",
+          "compensatory_strategies": "减少表达、保持一定距离以避免进一步冲突",
+          "automatic_thoughts": "都是我的错，婚姻已经被我弄糟了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次临近再次部署的分离时刻",
+          "conditional_assumptions": "如果我再次离开，关系将不可避免地进一步恶化",
+          "compensatory_strategies": "提前焦虑和自责，尝试向朋友寻求理解但难以敞开谈论婚姻问题",
+          "automatic_thoughts": "这次离开会让我们的关系更糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "试图与妻子谈及自己的内疚与担心但未能解决问题",
+          "conditional_assumptions": "如果沟通仍无法解决，说明我不够好、我们永远修复不了",
+          "compensatory_strategies": "进一步自责并撤退，减少主动交流",
+          "automatic_thoughts": "我永远修不好这段关系",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被妻子理解与接纳，维持稳定的亲密与安全的婚姻关系",
+        "fear": "害怕被责备、被拒绝或被抛弃，担心婚姻破裂",
+        "defense_goal": [
+          "通过自责与降低自我需求来避免冲突并维持表面和谐",
+          "保持一定的情感与沟通距离以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有罪与让人失望的配偶",
+          "object_representation": "常处于愤怒与批评姿态的伴侣",
+          "linking_affect": "内疚、焦虑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当临近部署或谈论部署导致妻子情绪波动时",
+          "interpretation": "认为妻子始终对自己生气，自己正在破坏婚姻（移情：将内在自责投向关系）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言、降低自我需求表达，避免直接提出请求或议题，以缓和冲突的语气交流。"
+        },
+        {
+          "trigger_condition": "当尝试沟通却感到没有改善或对方反应不明确时",
+          "interpretation": "将对方的沉默或不确定理解为拒绝与否定，进一步确认“都是我的错”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析与事实罗列的方式谈论问题，语气克制、减少情感词汇，回避直接表达脆弱与需求。"
+        },
+        {
+          "trigger_condition": "在分离与孤独感升高、担心关系恶化的时刻",
+          "interpretation": "将无法改变的部署事实作为关系恶化的唯一原因，以此巩固“无能为力”的自我图式",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调“客观原因无法改变”，弱化自身可为之处，以冷静语气结束话题或转向日常事务。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期远离家庭进行海军部署，伴随分离与疏离感",
+            "与妻子沟通困难，关系中体验到距离与不被理解",
+            "在分离前后反复出现内疚与紧张，感到关系脆弱"
+          ],
+          "outcomes": [
+            "持续的内疚与焦虑",
+            "婚姻紧张与关系疏离",
+            "生活幸福感与兴趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "难以向海军朋友敞开谈论婚姻问题",
+            "在与妻子交流中倾向自责、减少表达自身需求",
+            "担心自己说错话或引发冲突而保持克制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在海军中有朋友可提供一定理解与支持",
+          "工作表现稳定，职业功能未受显著影响",
+          "主动寻求咨询与帮助，愿意尝试行为实验",
+          "能够识别并命名部分不良思维模式（如读心术、过度概括）"
+        ],
+        "negative_force": [
+          "强烈的内疚与自我指责倾向",
+          "读心术与过度概括导致误判伴侣情绪与关系状态",
+          "与妻子沟通困难、关系疏离",
+          "分离应激与孤独感显著",
+          "倾向于预测负面结果，增加焦虑与回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在临近部署或分离时回避与妻子深度沟通并陷入自责与焦虑",
+          "antecedent": [
+            "临近离家进行海军部署",
+            "谈及部署与分离相关话题",
+            "长时间部署归来后尝试沟通但感到疏离"
+          ],
+          "core_reason": "受“我在伤害婚姻、妻子一直在生我的气”的核心信念驱动，伴随读心术与过度概括，形成对关系持续恶化的灾难化期待",
+          "function": "逃避可能的冲突与被责备，试图获得安全感与可控感",
+          "consequence": "婚姻紧张与疏离加重；沟通质量下降；兴趣与整体幸福感受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 832
+}

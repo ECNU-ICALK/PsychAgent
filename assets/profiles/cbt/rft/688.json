@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "林雅敏",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "与父母和一个兄弟一起长大",
+      "social_status": "人际关系有时因其总是关注负面而变得紧张",
+      "medical_history": "无重大躯体疾病；未接受过针对该思维模式的治疗或咨询",
+      "language_features": "表达清晰、能具体举例；逻辑性较好但整体语气消极与怀疑；能识别自动化思维并愿意尝试记录积极点"
+    },
+    "main_problem": "我倾向于否定情境中的积极方面，只专注于负面，导致失望和挫败感。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到持续的消极心态影响我享受和欣赏经历的能力，因此寻求咨询，希望改变这种模式并更平衡地看待事件。",
+    "growth_experiences": [
+      "该负性思维模式始于青少年时期，尤其在对社交活动或娱乐有较高期待时更为明显。她常在活动结束后只关注负面，否定积极（例如自认为“没有和足够多人交谈”“我把自己弄得像个傻瓜”），这种模式逐渐固化并使压力不断增加。该倾向在成年后持续存在，影响人际关系与日常社交活动的愉悦度；尽管拥有一位可以倾诉的亲密朋友，她并未就这一具体问题进行讨论。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美才算好，一有瑕疵就是失败",
+        "积极的部分不算数/不可信"
+      ],
+      "special_situations": [
+        {
+          "event": "约会时看的电影不太好",
+          "conditional_assumptions": "如果经历中的某一部分不理想，整次约会就被毁掉",
+          "compensatory_strategies": "专注并反复强调负面细节，忽视任何积极，以避免感觉自己在自欺",
+          "automatic_thoughts": "电影不怎么样，整场约会都毁了！",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "参加朋友生日派对，看到其他人都玩得开心",
+          "conditional_assumptions": "若我没有达到自己设定的社交标准（与足够多人交谈、不显得尴尬），这次活动就算失败",
+          "compensatory_strategies": "事后不停挑错、否定做得好的地方，以期自我“纠正”",
+          "automatic_thoughts": "我没有和足够多人交谈/我把自己弄得像个傻瓜。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在高期待的社交或活动结束后回顾经历",
+          "conditional_assumptions": "只有当所有环节都符合高期待，才算一次好的体验；零星的好事不改变整体负面评判",
+          "compensatory_strategies": "尝试反思积极但很快否定其重要性（“这不算”）",
+          "automatic_thoughts": "即使有些地方不错，也不算数；这次并不好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当尝试或被引导去关注积极面时",
+          "conditional_assumptions": "关注积极就是在自欺，会忽略真正的问题",
+          "compensatory_strategies": "坚持用负面框架审视事件以保持“真实感”",
+          "automatic_thoughts": "这感觉很勉强、没意义；我是在自欺。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在社交中感到满足与被认可，能真正享受经历",
+        "fear": "害怕失望与不满足、害怕显得愚蠢被负面评价；担心承认积极会“自欺”",
+        "defense_goal": [
+          "通过否定积极与挑错来降低被失望或羞耻的风险",
+          "维持高标准与对愉悦的疏离以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "尴尬、不够好的参与者（容易出丑的人）",
+          "object_representation": "他人是享受活动并可能评价自己的群体",
+          "linking_affect": "失望、挫败、尴尬"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导其识别事件中的积极面并进行现实检验时",
+          "interpretation": "认为关注积极是自欺，负面才是“真实”",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气平淡而带怀疑，强调负面细节，淡化或否定积极；使用“这不算”“没用”等表述，回避被说服。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "即使出现积极片段也认为“不算”，把关注积极视为自欺",
+            "在高期待的社交活动后常感到失望与不满足"
+          ],
+          "outcomes": [
+            "持续的失望与挫败感",
+            "对社交活动与爱好兴趣下降",
+            "人际关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中反复自责“我没有和足够多人交谈”“我把自己弄得像个傻瓜”",
+            "对积极反馈持怀疑态度，倾向于过度反省负面",
+            "认为承认积极是自欺，难以允许正向体验进入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在高期待的社交活动后，来访者通常只关注负面并感到失望与不满足。",
+          "unique_outcome": "上周在朋友生日派对上，来访者准时到场、准备了合适礼物，并与一位来宾进行了不错的交谈；事后能够辨认出这些积极片段。",
+          "reason": "线索：事先做好准备（礼物、准时），现场与他人产生有效互动（有一段愉快的对话），因此这次能察觉并承认积极点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我觉察，能识别常见认知偏差（否定积极、心理过滤、非黑即白）",
+          "在社交场合具备基本的准备与互动能力（准时、送礼、与人对话）",
+          "拥有一位可倾诉的亲密朋友"
+        ],
+        "negative_force": [
+          "非黑即白的评价标准与过高期待",
+          "否定积极与心理过滤的思维习惯",
+          "情绪化推理：将“感觉是在自欺”视为事实",
+          "自我苛责与对社交中“出丑”的担心导致难以享受当下"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交活动后进行极端负面评价与自我批评、否定积极片段",
+          "antecedent": [
+            "经历中出现瑕疵（如电影不够好）",
+            "参与高期待的社交活动并与他人比较（他人似乎玩得更开心）",
+            "活动结束后的自我回顾与反思"
+          ],
+          "core_reason": "青少年时期形成并固化的认知模式（非黑即白、心理过滤、否定积极），用于避免自认为的“自欺”与潜在失望/羞耻。",
+          "function": "逃避潜在的失败感与羞耻，通过先行否定维持控制感和心理一致性。",
+          "consequence": "持续的失望与挫败、对活动的愉悦感下降、人际关系紧张，降低参与社交与兴趣活动的动机。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 688
+}

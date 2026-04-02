@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "铁路工人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，所在城市无直系亲属",
+      "social_status": "有少数朋友可交谈，但尚未向他们分享与上司相关的困扰",
+      "medical_history": "无显著躯体疾病；无以往相似心理问题与心理治疗经历",
+      "language_features": "表达清晰、条理较好；语气偏消极但愿意配合与尝试；能明确描述自动化思维与困扰；对改变持怀疑态度"
+    },
+    "main_problem": "我相信我的上司在工作之外并不关心我，这一信念让我感到痛苦并影响我与上司的互动。",
+    "topic": "人际关系",
+    "core_demands": "“我只想不再觉得自己一文不值。我想重新享受工作，不再被上司的作为或不作为影响。”同时希望在问题恶化之前加以解决。",
+    "growth_experiences": [
+      "约六个月前，上司未对我的生日作任何回应或祝福，我当时感到被忽视，随之开始质疑自己在职场中的价值；之后当上司给我分派更具挑战性的任务却没有明确表扬或认可时，该信念进一步强化；此后每次与上司互动都会激发类似思考，影响动力与自我价值感。我曾尝试在工作之外与上司进行友好交流，但信念仍然持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被关心/被重视",
+        "我的价值取决于他人（上司）是否认可我"
+      ],
+      "special_situations": [
+        {
+          "event": "六个月前上司未对我的生日作出任何回应或祝福",
+          "conditional_assumptions": "如果重要的个人时刻未被关注，就说明我不被在乎",
+          "compensatory_strategies": "尝试在工作之外与上司进行友好交流以寻求关注与认可",
+          "automatic_thoughts": "他根本不在乎我这个人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "上司分配更具挑战性的任务却未对既往努力给予认可或表扬",
+          "conditional_assumptions": "如果没有赞许与肯定，就代表我的工作不被重视",
+          "compensatory_strategies": "在每次互动后高度关注缺乏认可的线索，以此核实自己的判断",
+          "automatic_thoughts": "他只把我当工具，不会认可我",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在与上司进行非工作话题的友好交谈时，他显得忙碌或不感兴趣",
+          "conditional_assumptions": "如果他在乎我，就应该抽时间与我交流并表现出兴趣",
+          "compensatory_strategies": "主动发起轻松交流以测试对方是否在乎",
+          "automatic_thoughts": "我不值得他花时间",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "上司在日常交流中回应简短、显得忙碌",
+          "conditional_assumptions": "若他真的在乎员工，就会为员工腾出时间并给予更多关注",
+          "compensatory_strategies": "持续在互动细节中寻找证据来证实自己的判断",
+          "automatic_thoughts": "无论我做什么，他都不会在意",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被关心与被认可（尤其来自权威/上司）",
+        "fear": "害怕被忽视与被拒绝，从而确认自己“没有价值”",
+        "defense_goal": [
+          "通过预先判断他人不在乎来降低关系中的不确定性与期待带来的失望",
+          "以自我贬低维持心理平衡，避免更强烈的被拒体验"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被看见、价值低的员工",
+          "object_representation": "冷漠、忙碌、不给予认可的权威者（上司）",
+          "linking_affect": "被忽视感、挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当上司分配任务却未表达认可或表扬时",
+          "interpretation": "将对方的沉默理解为否认自己价值，把上司体验为冷漠的评判者",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以坚定的陈述语气快速下结论，强调“你不在乎/这不重要”，回避更深入的情绪表达。"
+        },
+        {
+          "trigger_condition": "尝试进行友好交谈却遭遇简短或不感兴趣的回应时",
+          "interpretation": "将失望转向自身，认为自己不值得被关心，增强自我批评",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我贬低的句式（如“都是我不够好”），语气低落，减少眼神接触，缩短回应。"
+        },
+        {
+          "trigger_condition": "当咨询师提出探索替代解释或收集证据时",
+          "interpretation": "将人际困扰转化为规则与逻辑的判断，以避免接触脆弱情绪",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用“如果…那么…”的逻辑推演与事实罗列，语气中性，尽量不触及主观情绪词。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，所在城市无直系亲属",
+            "在工作之外感到无人关心、未被看见",
+            "未向朋友分享困扰，情感支持动员不足"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "工作动机与满意度受影响",
+            "下班后难以放松、情绪负担增大"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "把工作中的被认可等同于个人价值，质疑自身在职场的意义",
+            "当缺乏表扬时体验到意义感下降"
+          ],
+          "outcomes": [
+            "工作满意度下降",
+            "人际交往受阻，沟通合作受影响",
+            "整体幸福感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对改变持怀疑态度但愿意尝试，步伐谨慎",
+            "频繁自我质疑（如“我不值得他的时间”）",
+            "在会谈中更关注“证据/逻辑”而非当下主观体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "喜欢并投入于自己的工作，愿意维护工作满意度",
+          "愿意尝试收集证据与探索替代解释（开放度）",
+          "有少数朋友可作为潜在支持资源",
+          "能够清晰表达困扰与目标，具备反思能力"
+        ],
+        "negative_force": [
+          "过度依赖外部认可来定义自我价值（External Validation）",
+          "存在心理过滤、读心术、过度概括等负性认知模式",
+          "与上司互动后反复回想、难以放松（反刍）",
+          "自我贬低与低自我价值感导致动机下降、人际紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与上司互动后出现反刍思维与自我贬低，伴随动机下降与紧张情绪",
+          "antecedent": [
+            "与上司面对面或线上互动",
+            "上司分配更具挑战性的任务但未给予表扬",
+            "尝试进行非工作话题的友好交流却遭遇简短或不感兴趣的回应"
+          ],
+          "core_reason": "生日未被关注事件触发“我不被在乎”的核心信念，并在心理过滤、读心术、过度概括等认知模式维持下不断强化",
+          "function": "通过预设他人不在乎来降低关系不确定性、寻求外部认同以确认自我价值",
+          "consequence": "工作动力与绩效轻度受影响；与上司关系紧张、沟通受阻；下班后难以放松，整体幸福感降低"
+        },
+        {
+          "behavior": "在工作之外持续紧张与难以放松（反复回想与上司的互动）",
+          "antecedent": [
+            "下班后或独处时回想与上司的互动细节",
+            "在想到上司忙碌或缺乏认可的场景时"
+          ],
+          "core_reason": "对上司是否在乎的高不确定性引发焦虑与自我怀疑，强化负性自动化思维",
+          "function": "维持警觉以尝试掌控人际关系、预防失望",
+          "consequence": "休息与放松质量下降，情绪负担加重，影响与他人的交往与日常生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1068
+}

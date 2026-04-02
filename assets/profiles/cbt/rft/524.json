@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "未提及",
+      "name": "王静",
+      "gender": "女（资料存在不一致：自述为母亲，但表单标注为male）",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "有两个女儿；丈夫从事电信行业",
+      "social_status": "有人际支持网络（朋友群体），但对分享母职困扰感到不适",
+      "medical_history": "无重大躯体疾病；既往未出现类似心理问题；未接受过心理治疗/咨询",
+      "language_features": "表达清晰、逻辑连贯，能合作；情绪以内疚与自我怀疑为主，态度中性"
+    },
+    "main_problem": "因为女儿不喜欢和我一起进行像登山这样的活动，我作为母亲感到挫败与不够好，并为坚持自己喜欢的活动而内疚。",
+    "topic": "家庭关系",
+    "core_demands": "持续的不足感与内疚感已使我不堪重负，希望缓解这些感受，探索更平衡的亲子互动方式并重建对母职的信心。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职的母亲",
+        "只有完全迎合孩子的兴趣，我才算合格"
+      ],
+      "special_situations": [
+        {
+          "event": "女儿明确表示对登山等户外探险不感兴趣",
+          "conditional_assumptions": "如果孩子不喜欢我的兴趣，就说明我作为母亲做错了或不够好",
+          "compensatory_strategies": "频繁与女儿讨论并尝试让她们参与不同活动，试图通过改变活动来证明自己称职",
+          "automatic_thoughts": "她们不喜欢和我一起登山，说明我是个不称职的母亲",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每当计划户外活动、预期女儿会不感兴趣时",
+          "conditional_assumptions": "如果她们再次不愿意参加，就证明我的育儿方式失败",
+          "compensatory_strategies": "减少计划或降低活动强度，同时在内心不断自我批评以避免被再度拒绝",
+          "automatic_thoughts": "她们一定会讨厌这个计划，我又要当“坏妈妈”了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到朋友圈里其他母亲“似乎都处理得很好”时",
+          "conditional_assumptions": "如果我表现出困扰，别人会认为我在母职上失败",
+          "compensatory_strategies": "回避向朋友倾诉或寻求支持，尽量把问题憋在心里",
+          "automatic_thoughts": "她们会觉得我很失败、是个不好的母亲",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "家庭游戏之夜让全家都感到愉快、彼此连接时",
+          "conditional_assumptions": "如果连接不是通过我热爱的户外活动达成，就不算真正的母女亲密",
+          "compensatory_strategies": "贬低这类积极经验的意义，继续以高标准要求自己必须用户外方式建立关系",
+          "automatic_thoughts": "这不算真正的亲密，这不能证明我做得好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望与女儿建立亲密而被认同的母女连接，并在共同活动中被需要与接纳",
+        "fear": "害怕被女儿拒绝、被视为失败的母亲，从而失去自我价值",
+        "defense_goal": [
+          "通过自责与迎合来避免被评判与拒绝",
+          "保持表面控制与克制，减少暴露脆弱以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要证明自己的母亲",
+          "object_representation": "挑剔或会评判的他人/女儿",
+          "linking_affect": "内疚、羞耻、焦虑"
+        },
+        {
+          "self_representation": "容易被比较且显得失败的母亲",
+          "object_representation": "“完美”的其他母亲/朋友圈中的评判者",
+          "linking_affect": "羞耻、自卑、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及是否向朋友倾诉母职困扰或想到朋友“都处理得很好”时",
+          "interpretation": "认为朋友会看不起自己、把自己视为失败的母亲（移情：将内在的自我批评投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以含糊、保留的方式表达，弱化自身需要，避免深入展开个人脆弱体验。"
+        },
+        {
+          "trigger_condition": "当女儿拒绝或不愿参与户外活动时",
+          "interpretation": "把外在的拒绝理解为自身失败，转而苛责自己（移情：把失望与挫败内向化）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以道歉和自我否定的语气回应，减少表达自己的需求与喜好。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与女儿兴趣不同导致的亲密感缺失与疏离感",
+            "担心在朋友中暴露脆弱，被视为失败而回避倾诉"
+          ],
+          "outcomes": [
+            "自我怀疑与内疚加重",
+            "亲子连接感下降、主观孤立感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在坚持自我兴趣（登山）与履行母职角色期待间的拉扯",
+            "以“应该”为自我要求：应优先满足女儿兴趣"
+          ],
+          "outcomes": [
+            "内疚与自责，体验到选择自由受限",
+            "价值冲突导致情绪困扰与决策犹豫"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑与自我批评（“我是坏妈妈/不够好”）",
+            "在亲友面前克制表达困扰，过度谨慎地维护形象"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "假设朋友会认为自己失败，因此避免求助",
+            "将内在的羞耻与自责体验归因为他人的潜在评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与女儿建立连接的情境中，来访者通常会尝试以户外探险（如登山）作为主要方式，但女儿不感兴趣，从而引发其挫败与内疚、自我怀疑。",
+          "unique_outcome": "在家庭游戏之夜的具体时刻，大家都感到愉快并有效地建立了亲子连接，与以往围绕户外活动的挫败体验不同。",
+          "reason": "情境不同：选择贴近女儿兴趣、压力较低且更具协作性的活动形式，使互动更轻松、可被女儿接纳。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备稳定的社会支持资源（有支持性的朋友网络）",
+          "愿意沟通与尝试妥协（能提出野餐、短途散步等更温和的选项）",
+          "能觉察并寻求帮助（主动来访求助）",
+          "已有成功的亲子互动经验（家庭游戏之夜）",
+          "对户外活动的热爱与投入，可转化为亲子共同体验的资源"
+        ],
+        "negative_force": [
+          "自我价值高度依附于角色规范与外部评价（“好妈妈应该……”）",
+          "认知歪曲显著：个人化、读心术、否定积极、灾难化/过度概括",
+          "对寻求支持的羞耻与回避（担心被朋友视为失败）",
+          "将兴趣差异解读为关系失败，弱化多样化连接的可能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "计划亲子活动时出现强烈的内疚与自我怀疑（自责与负性自动思维反复出现）",
+          "antecedent": [
+            "计划户外活动时预期女儿不感兴趣",
+            "女儿明确拒绝户外探险",
+            "与“其他母亲都处理得很好”的比较念头出现后"
+          ],
+          "core_reason": "内化的角色信念：好母亲应当优先满足孩子兴趣；若兴趣不一致即等同失败",
+          "function": "逃避被拒绝与被评判的焦虑，维持表面上的控制感与安全感",
+          "consequence": "降低亲子互动的灵活性与满意度，增强自责与挫败，削弱对自我兴趣的坚持与分享"
+        },
+        {
+          "behavior": "回避向朋友寻求支持或分享母职困扰",
+          "antecedent": [
+            "想到朋友“都很有条理/处理得很好”",
+            "被询问是否与朋友讨论相关话题"
+          ],
+          "core_reason": "害怕暴露脆弱被视为失败，将内在羞耻体验外归为他人的潜在评判",
+          "function": "逃避潜在的羞耻与否定反馈，短期内降低焦虑",
+          "consequence": "社会支持利用不足，孤立感与负性自我评价维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 524
+}

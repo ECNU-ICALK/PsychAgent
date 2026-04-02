@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "陆凯",
+      "gender": "男",
+      "occupation": "学校教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与同事关系因其对学生行为的消极看法而趋于紧张；有一位可以倾诉的亲密朋友",
+      "medical_history": "无显著医疗史；此前未接受过心理治疗",
+      "language_features": "表达清晰，配合度高；自述“有些不安”，总体态度积极"
+    },
+    "main_problem": "我经常对学生抱有消极想法，预期他们在校外活动等情境中会行为失当且学不到东西。这些负性想法在我教学生涯中出现并在最近更为突出；当需要处理大规模学生或新活动时压力显著增加，问题已发展到影响我的教学方式与课堂享受。我主要在校外活动或小组项目期间出现这些消极想法，虽尝试保持积极并专注任务，但难以克服这些负面期待。",
+    "topic": "职业发展",
+    "core_demands": "这些消极想法正在影响我的教学效果和整体工作满意度，因此我决定寻求咨询，希望克服这些消极思维、提升教学效果与整体工作满意度。",
+    "growth_experiences": [
+      "在过去的多次校外活动与大组项目中，曾出现少数学生不守纪律的情况，使其在面对大规模学生时压力显著增加，逐步形成对活动“会变成灾难”的负向预期。",
+      "在教学生涯中长期反复出现类似的消极想法（尤其在处理大型群体时），虽未接受过心理治疗，但这些体验逐步累积并影响其教学方式、与同事关系以及工作外的放松与享受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "大型活动通常会失控并以糟糕结局收场",
+        "我不够胜任管理大群体的学生"
+      ],
+      "special_situations": [
+        {
+          "event": "明天将带五年级班级参加一次校外活动",
+          "conditional_assumptions": "如果学生在活动中吵闹或不专心，就意味着他们什么也学不到，活动就是失败",
+          "compensatory_strategies": "在活动前后变得更严格、减少耐心，以试图控制局面",
+          "automatic_thoughts": "他们会很吵、很放肆，完全学不到东西",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对大型学生群体或新活动（如小组项目）",
+          "conditional_assumptions": "大群体更难管理，稍有不顺就会失控",
+          "compensatory_strategies": "预先设定严苛规则、强力控制流程",
+          "automatic_thoughts": "这会是一场灾难",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "上周的博物馆校外活动",
+          "conditional_assumptions": "只要出现一些问题就说明整体失败",
+          "compensatory_strategies": "在活动中高度紧张并严厉管理",
+          "automatic_thoughts": "没有人会听，整个活动会一团糟",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可且能有效维持秩序的教师，学生在活动中能学习并合作",
+        "fear": "害怕活动失控与失败，被他人否定并失去掌控感",
+        "defense_goal": [
+          "通过预设最坏结果并保持严格来获得控制感与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "紧张且需要强力控制的大群体活动中的教师",
+          "object_representation": "容易制造混乱、不听从的学生群体",
+          "linking_affect": "焦虑、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面临校外活动或需要管理大规模学生的情境时",
+          "interpretation": "将学生预设为“会失控且不会学习”，把活动视为必定失败",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
+          "response_instruction": "提前强调纪律与规则，语气严肃、指令性强，减少开放性互动，以维持掌控感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对教学活动的消极预期削弱了其从工作中获得的乐趣与满足感",
+            "在工作之外也更难放松与享受"
+          ],
+          "outcomes": [
+            "工作满意度下降",
+            "焦虑增多"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在咨询中多次断言学生会“吵闹、不会学习”，把对活动的焦虑外归为学生的预期行为",
+            "在活动前预设负面结果并据此调整行为（更严格、少耐心）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在组织校外活动时，来访者通常会灾难化预期学生失控，从而在活动前后高度焦虑并采取过度严格的管理，导致难以享受教学。",
+          "unique_outcome": "上周在博物馆的校外活动中，尽管事先担忧，但实际仅出现少量小问题，整体顺利，学生有参与与学习，结果明显好于预期，他当下感到一些宽慰。",
+          "reason": "线索：过去存在顺利活动的正向经验；此次现场的实际反馈与预期不符，提供了矫正证据，从而减弱了灾难化预测的力度。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有多次活动顺利进行的正向经验（学生参与并学习）",
+          "能通过专注任务来减少陷入负面思绪（自述该策略有所帮助）",
+          "主动寻求专业帮助，具备反思与改变的意愿"
+        ],
+        "negative_force": [
+          "灾难化预测与“非黑即白”思维模式",
+          "否定正面经验的倾向（更关注潜在问题）",
+          "在大群体或新活动情境下压力显著升高，易产生负面预期"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对大群体或校外活动时出现强烈焦虑与灾难化负面预期，并在课堂管理上变得过于严格、缺乏耐心",
+          "antecedent": [
+            "校外活动（如博物馆参观）",
+            "小组项目",
+            "需要同时管理大量学生的情境"
+          ],
+          "core_reason": "曾在校外活动中遇到部分学生不守纪律的经历，使其形成对大群体“必然失控”的灾难化认知并强烈追求控制感",
+          "function": "逃避不可控风险与焦虑，通过强化控制来获得安全感",
+          "consequence": "教学效果受影响、与同事关系紧张、对工作和生活的享受下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1912
+}

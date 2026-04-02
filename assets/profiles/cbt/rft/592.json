@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "张静文",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "在读学位（即将完成）",
+      "marital_status": "未婚",
+      "family_status": "与父母同住；有一名姐妹及外甥、外甥女",
+      "social_status": "主要依赖家庭支持，尤其是姐姐；因学业与照料父母的压力，近期与家人的关系一度紧张",
+      "medical_history": "无重要躯体疾病；此前未接受心理治疗；过去未出现类似的学业恐惧",
+      "language_features": "配合度高、表达清晰，能描述焦虑与自动化想法；存在灾难化、否定积极与预测失败的倾向，整体态度积极"
+    },
+    "main_problem": "我担心自己无法通过学位的期末考试，尽管我已接近完成学位。",
+    "topic": "学业压力",
+    "core_demands": "考试失败的恐惧导致强烈痛苦并影响学习专注，因此希望获得专业支持来缓解学业恐惧、提高专注与备考效率。",
+    "growth_experiences": [
+      "在攻读学位期间长期与父母同住并承担照料责任，需要在家庭照料与学业之间来回切换。随着期末考试临近，时间与精力分配的矛盾加剧，带来显著压力，家庭关系也因此紧张。",
+      "此前课程考试与学习任务总体表现良好：规律出勤、按时完成作业并在以往测试中取得不错成绩，但在面对最后一次关键考试时，开始出现前所未有的强烈学业不足感与失败恐惧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/能力不足，关键时刻会失败",
+        "如果这次考试失败，之前的努力都不算数并会让他人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "夜间躺在床上想到即将到来的期末考试",
+          "conditional_assumptions": "如果我在这次关键考试中失败，那么我所有努力都将归零",
+          "compensatory_strategies": "向家人寻求再保证、在脑海中不断反复担忧以期“提前应对”",
+          "automatic_thoughts": "我一定会挂科，一切努力可能都白费。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "开始复习时将注意力集中在自己“不懂”的内容上",
+          "conditional_assumptions": "如果还有很多不会的知识点，就说明我没有准备好且必然不及格",
+          "compensatory_strategies": "加倍学习、不断扩大学习清单以“弥补不足”",
+          "automatic_thoughts": "我懂得太少，这样肯定过不了。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想以往测试成绩良好，但把这次视为“不同且更重要”",
+          "conditional_assumptions": "过去的成绩不代表能力，只有这次通过才说明我有价值",
+          "compensatory_strategies": "否定以往成功、持续提高标准来逼迫自己学习",
+          "automatic_thoughts": "之前做得好也说明不了这次，这次更难、更关键，我还是会失败。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在照料父母与备考之间来回切换、时间被频繁打断",
+          "conditional_assumptions": "如果不能同时把照料与学习都处理到位，就会失败并让家人失望",
+          "compensatory_strategies": "试图同时兼顾一切、压缩休息时间以争取学习与照料两端“都不掉线”",
+          "automatic_thoughts": "我顾不过来，最后会挂科，还会让大家失望。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望证明自己胜任并被重要他人认可，不让家人失望",
+        "fear": "害怕失败导致羞耻与被评价，以及辜负家人的期望",
+        "defense_goal": [
+          "通过过度担忧与高标准来预防失败感",
+          "通过寻求再保证来暂时降低焦虑",
+          "以不断加倍努力维持对不确定性的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要同时胜任学生与照料者角色、随时可能做得不够好的“责任承担者”",
+          "object_representation": "对方（家人/重要他人）被体验为带着期望、可能会失望的评价者",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾以往成功或查看现实证据时",
+          "interpretation": "来访者倾向将“这次不同且更重要”作为理由，认为以往的成功不具参考价值",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和、先共情其压力，再以具体化提问引导其同时列举支持与反驳证据，逐步检验“这次不同”的依据。"
+        },
+        {
+          "trigger_condition": "当谈及“害怕让大家失望”并将他人期待内化为压力时",
+          "interpretation": "将他人的高期待与失望归因于对方（假定他人会严苛评价自己）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用澄清与界定边界的提问，区分事实与推测，鼓励其以第一人称表达需要与界限，降低对他人想法的臆测。"
+        },
+        {
+          "trigger_condition": "当被邀请同时考虑通过与未通过两种结局并做准备时",
+          "interpretation": "在焦虑中尝试以计划与准备来获得可控感",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "强化其有效的准备行为，采用支持性语气，协助将目标分解与进度回顾常态化，巩固现实检验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在照料父母与自我发展（学位完成）之间感到两难，体验到选择与责任的张力",
+            "担心失败会辜负他人期待，个人选择似乎被家庭责任所限制"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑显著上升",
+            "睡眠与饮食节律被打乱，专注力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我评估并担心“让所有人失望”，加重内在压力",
+            "在备考中持续自我苛责，难以允许自己承认已有进展"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "当被邀请回顾既往成功时，将注意力偏转到“这次不同、更加困难”，回避积极证据",
+            "复习时持续将注意力偏转到“不懂”的部分而忽视已掌握内容"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "以往测试表现良好，具备学习投入与完成任务的经验",
+          "持续规律学习（出勤、笔记、作业完成）",
+          "家庭支持可用，尤其是姐姐的情感支持",
+          "态度积极，主动求助并愿意尝试现实检验与目标分解"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与否定积极的认知习惯强化焦虑",
+          "照料父母与备考的角色冲突造成时间与精力被分散",
+          "在学习与睡前情境中焦虑高涨，影响专注、睡眠与饮食",
+          "依赖他人再保证带来短期缓解、长期维持焦虑的循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与期末考试相关的灾难化担忧与预期失败，伴随显著焦虑",
+          "antecedent": [
+            "开始学习或复习时",
+            "夜间躺在床上想到即将到来的考试",
+            "被家庭照料事务打断学习后重返学习情境"
+          ],
+          "core_reason": "在照料责任与学业目标的双重压力下形成对失败的灾难化认知，并以此推断负面结果",
+          "function": "逃避不确定性、寻求对结果的控制以短暂降低焦虑",
+          "consequence": "注意力下降、学习效率受损、睡眠与饮食节律紊乱，进一步削弱备考状态"
+        },
+        {
+          "behavior": "反复向家人寻求再保证（如询问是否能通过、是否准备充分）",
+          "antecedent": [
+            "学习受阻或想到“还不会”的内容时",
+            "临近考试、焦虑上升的时段"
+          ],
+          "core_reason": "对自我能力缺乏把握，倾向依赖外部验证以缓解不确定感",
+          "function": "获得情绪安抚与即时缓解焦虑",
+          "consequence": "短期焦虑下降，但长期强化依赖与担忧循环，维持对自身能力的不信任"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 592
+}

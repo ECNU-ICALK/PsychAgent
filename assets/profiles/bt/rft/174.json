@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林雅婷",
+      "gender": "女",
+      "occupation": "基督教青年会（YMCA）成员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "在YMCA社区有一些朋友，但尚未与他们讨论自己的沮丧和挫败感",
+      "medical_history": "无重大躯体疾病；既往无心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、能主动描述困扰；语气偏消极与怀疑（如“我不知道这是否有用”）；存在非黑即白思维、过度概括与否定积极面；配合度尚可但动机受挫。"
+    },
+    "main_problem": "我一直在学习弹钢琴，但因为我的手指无法跨到完整的10个音而感到气馁。这种信念让我怀疑自己是否还能继续学习并享受弹钢琴。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为这种消极信念正在阻碍我享受学习钢琴的过程，我希望能处理这种气馁感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不适合弹钢琴",
+        "如果不能完美，就没有继续的意义",
+        "我永远达不到“足够好”的水平"
+      ],
+      "special_situations": [
+        {
+          "event": "练习需要较大手指跨度的曲目时，意识到手指无法够到10个音",
+          "conditional_assumptions": "如果手指达不到10度跨度，就不算“正确弹奏”，继续学习没有意义",
+          "compensatory_strategies": "强行忽视负面思维继续练习，或减少练习以避免挫败",
+          "automatic_thoughts": "我不适合弹钢琴/学习钢琴没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到他人轻松弹出需要较大跨度的曲目",
+          "conditional_assumptions": "如果别人能做到而我做不到，说明我不如人、不适合弹琴",
+          "compensatory_strategies": "通过与他人比较来评估自己、考虑放弃练习",
+          "automatic_thoughts": "我不如他们，我应该放弃",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次坐下练琴时都会想到手指长度的限制",
+          "conditional_assumptions": "身体限制决定能力，有这种限制就注定达不到理想水平",
+          "compensatory_strategies": "提前预设失败、降低投入以减少挫败感",
+          "automatic_thoughts": "我永远不可能弹得足够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在无法完美弹奏某个片段时",
+          "conditional_assumptions": "只有达到完美标准（如必须跨到10个音）才算值得练习",
+          "compensatory_strategies": "以僵化规则约束自己，达不到时倾向考虑退出",
+          "automatic_thoughts": "如果不能完美，就没有意义",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在弹琴上表现胜任并重新获得享受与自我价值感",
+        "fear": "害怕不够好、失败与被（内在）否定",
+        "defense_goal": [
+          "以僵化规则与自我苛责来维持控制感，避免面对“不够好”的羞耻与挫败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不合格、达不到标准的学习者",
+          "object_representation": "轻松做到并设定标准的他人/隐含的评判者",
+          "linking_affect": "羞愧、挫败、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议将“严格规则”改为“心愿/目标”，并鼓励适应性策略时",
+          "interpretation": "将改变理解为“作弊”或放弃标准，担心被评判与不被认可",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎、解释型语气表达顾虑（如“这感觉像作弊”），强调坚持规则的“正确性”，对改变持保留态度。"
+        },
+        {
+          "trigger_condition": "当咨询师指出其非黑即白思维并邀请设定更现实的练琴目标时",
+          "interpretation": "倾向认为这些建议无助或否认其问题的严重性（如“我不知道这是否有用”）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "语气冷淡或怀疑，淡化建议的有效性，以简短回应或保留态度推迟尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为手指无法跨到10个音就“没有继续学习的意义”",
+            "练琴时反复涌现“学习钢琴是徒劳”的念头"
+          ],
+          "outcomes": [
+            "失去练琴动力",
+            "气馁与挫败感增加",
+            "练习频率下降与考虑放弃"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被严苛的“必须/应该”规则所束缚（如必须达到10度跨度才算正确）",
+            "难以以适合自己的方式（适配、改编）来学习与表达"
+          ],
+          "outcomes": [
+            "体验灵活性下降",
+            "内在选择感受受限，增添压力与自我苛责"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“必须/应该”的语言（如必须跨到10个音）",
+            "将外界的“完美演奏标准”当作唯一正确方式"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我否定（如“我不适合弹钢琴”）",
+            "设定严格而不现实的自我标准",
+            "对咨询效果持怀疑与谨慎态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对钢琴的热爱与既有练琴习惯曾带来快乐",
+          "愿意寻求咨询并开放尝试不同视角",
+          "能识别并描述自身的消极思维模式"
+        ],
+        "negative_force": [
+          "僵化的完美主义规则（非黑即白思维）",
+          "过度概括与否定积极面",
+          "与他人比较导致自我价值受损与动力下降",
+          "将身体限制视为决定性因素而产生预言式失败感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "练琴时出现强烈挫败与失去动力，倾向减少练习或考虑放弃",
+          "antecedent": [
+            "练习需要较大手指跨度的曲目",
+            "意识到手指无法跨到10个音",
+            "看到他人轻松完成同类曲目"
+          ],
+          "core_reason": "内摄外界“完美”标准并形成僵化规则；非黑即白思维、过度概括与否定积极面，使身体限制被视作决定性失败证据",
+          "function": "逃避挫败与羞耻感，维持对标准的控制感以减少不确定性",
+          "consequence": "练习频率与投入度下降；怀疑继续学习的意义；对钢琴学习的乐趣明显减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 174
+}

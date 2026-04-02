@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "林静",
+      "gender": "女",
+      "occupation": "零售店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数密友可倾诉，但他们并不能充分理解其认知扭曲；因对潜在灾难的担忧而经常临时取消与朋友的计划，友谊因此受损",
+      "medical_history": "无显著躯体疾病；以往无类似心理问题的治疗或经历",
+      "language_features": "态度中性，略感焦虑；能清晰表达并愿意配合记录与反思"
+    },
+    "main_problem": "我倾向于把事情灾难化，尤其在事情不按计划发展时。比如最近汽车抛锚，我立刻觉得它是一辆一文不值的车并且感到不堪重负。这样的灾难化模式在几年前开始，并在压力情境下变得更频繁，导致我避免某些情境或采取极端措施来防止想象中的灾难，同时焦虑增加、决策能力受影响。",
+    "topic": "情绪管理",
+    "core_demands": "当我注意到这些思维模式影响我在工作中的决策并导致焦虑增加时，我决定寻求咨询。",
+    "growth_experiences": [
+      "几年前开始出现灾难化思维，在工作压力与经济压力增大的情境下愈发频繁；在面对突发情况（如汽车爆胎）时迅速预设最坏结果，逐渐形成回避与分心的应对习惯。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "一旦事情出错就会发展成最坏的情况",
+        "我无法有效应对突发状况"
+      ],
+      "special_situations": [
+        {
+          "event": "上班途中汽车因轮胎漏气而抛锚",
+          "conditional_assumptions": "如果出现车辆故障，就意味着车一文不值、问题会难以解决且花费巨大，我会处理不好",
+          "compensatory_strategies": "通过分心（购物）与回避（推迟处理、难以集中工作）来缓解焦虑",
+          "automatic_thoughts": "这辆车一文不值，我修不好，会花很多钱",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在工作中面对挑战或压力任务",
+          "conditional_assumptions": "如果我在工作上处理不顺利，就等于彻底失败，后果会很糟",
+          "compensatory_strategies": "回避某些情境或采取极端措施以预防设想中的灾难",
+          "automatic_thoughts": "事情会彻底失败，我应付不了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面临或担忧财务压力",
+          "conditional_assumptions": "如果出现财务问题，生活会变得不可承受，事情会一团糟",
+          "compensatory_strategies": "用临时的分心方式（购物）来降低焦虑",
+          "automatic_thoughts": "钱不够，接下来会一团糟",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与朋友约定的社交安排临近",
+          "conditional_assumptions": "一旦外出或事情不按计划发展，灾难就会发生，我将无法应对",
+          "compensatory_strategies": "临时取消计划以避免潜在灾难",
+          "automatic_thoughts": "如果出去可能会出事，我会崩溃",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望可控与安全、希望被理解与支持",
+        "fear": "害怕失控与最坏结果发生，担心无法承受后果",
+        "defense_goal": [
+          "通过回避与分心来降低焦虑、维持表面上的可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱且难以应对突发情况的个体",
+          "object_representation": "世界/事件是不可控且充满风险的，他人并不真正理解我",
+          "linking_affect": "焦虑、不安"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "因担忧潜在灾难而临时取消与朋友的计划，友谊受损",
+            "自觉他人难以理解自己的认知扭曲"
+          ],
+          "outcomes": [
+            "社交回避增加",
+            "焦虑加重",
+            "睡眠紊乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在灾难化思维出现时以购物来分心",
+            "试图忽略负性自动思维而非直接面对与加工"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "面对社交计划时临时取消外出，将能量转为自我消耗（担忧、分心）",
+            "在压力情境中不去寻求外部支持，而是独自忍受并以分心方式自我处理"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在车辆出现故障等突发情境时，来访者通常会灾难化、感到不堪重负，并在工作中难以集中且采取回避行为。",
+          "unique_outcome": "那次只是轮胎漏气，来访者及时将轮胎修好，费用不高，最坏情况并未发生。",
+          "reason": "线索：采取了及时处理的做法并获得事实证据（问题可被快速修复、成本不高），因此这次没有发展为灾难。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意记录与检视自动化思维与证据（现实检验）",
+          "能意识到“最坏情况通常没有发生”的实例",
+          "愿意寻求咨询支持并配合作业"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知偏差突出",
+          "回避行为与临时分心（购物）习惯化，导致问题未被加工",
+          "工作中的压力与财务担忧强化负性思维",
+          "焦虑影响决策、注意与睡眠，进而损及人际"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在压力情境下出现灾难化思维伴随显著焦虑与回避",
+          "antecedent": [
+            "工作中的挑战与压力任务",
+            "财务担忧",
+            "突发事件（如汽车轮胎漏气）"
+          ],
+          "core_reason": "对潜在负面结果的灾难化解释与非黑即白思维，过度聚焦负面线索而忽视客观证据",
+          "function": "逃避不受欢迎的情绪与感知风险，寻求短期缓解",
+          "consequence": "决策能力下降、注意力与工作表现受损、睡眠紊乱、社交回避加重"
+        },
+        {
+          "behavior": "临时取消与朋友的计划以避免设想中的灾难",
+          "antecedent": [
+            "与朋友的社交安排临近",
+            "担心事情不按计划发展"
+          ],
+          "core_reason": "灾难化与过度概括导致对外出情境的最坏预期",
+          "function": "逃避潜在威胁、降低当下焦虑",
+          "consequence": "友谊受损、社交机会减少"
+        },
+        {
+          "behavior": "以购物分心来暂时缓解焦虑",
+          "antecedent": [
+            "灾难化思维与焦虑出现时"
+          ],
+          "core_reason": "寻求外部短期刺激以中断负性思维与情绪",
+          "function": "获得短期愉悦与缓解，回避对问题的直接加工",
+          "consequence": "焦虑短期降低但很快反弹，问题未得到解决"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1334
+}

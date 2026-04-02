@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "周明",
+      "gender": "男",
+      "occupation": "本地乐队吉他手",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "三兄弟中最小",
+      "social_status": "与乐队同伴的关系因自我怀疑与自我批评而受影响；拥有支持性的乐队伙伴和朋友，但尚未向他们表达自己的失败感与困扰。",
+      "medical_history": "无重大躯体疾病史；无既往心理治疗或心理问题史；此前未经历类似问题。",
+      "language_features": "表达清晰、有逻辑，配合度良好；能自我反思但自我批评强；情绪紧张、对错误高度敏感。"
+    },
+    "main_problem": "最近一次现场演出时在关键段落弹错音符，此后持续觉得自己是失败者并认为应当退出乐队。",
+    "topic": "职业发展",
+    "core_demands": "希望减轻失败感与自我怀疑，恢复对音乐的热情并改善整体身心状态。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次现场演出关键段落时弹错音符，被部分观众注意到",
+          "conditional_assumptions": "如果在关键时刻犯错，就说明我不配做乐队吉他手，是个失败者",
+          "compensatory_strategies": "强迫自己追求完美、加倍练习以避免任何错误",
+          "automatic_thoughts": "我搞砸了，我就是个失败者，我应该退出乐队",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次想到接下来的排练或下一场演出",
+          "conditional_assumptions": "如果再犯一次错，就会让所有人失望并证明我不够好",
+          "compensatory_strategies": "通过持续加练来获得控制感，试图把错误降到零",
+          "automatic_thoughts": "我会再次搞砸，大家会看不起我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑是否要把自己的感受与乐队伙伴沟通并寻求反馈",
+          "conditional_assumptions": "如果他们指出我的问题，就等于证实我不够好",
+          "compensatory_strategies": "回避与他人沟通以避免被评价或否定",
+          "automatic_thoughts": "他们一定认为我不行/会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "演出后有人称赞并反馈整体演出不错",
+          "conditional_assumptions": "只要有一个错误，所有正面表现都不算数",
+          "compensatory_strategies": "反复回想错误、忽视积极反馈",
+          "automatic_thoughts": "那些表扬不算数，我表现很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被接纳为“合格/优秀的吉他手”，并通过稳定表现维持自我价值",
+        "fear": "害怕让他人失望、被否定与羞辱，担心一次错误会导致被排斥",
+        "defense_goal": [
+          "通过追求完美与自我批评来避免被否定",
+          "保持回避沟通以减少外界评价带来的伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且不够好的演奏者",
+          "object_representation": "挑剔、可能否定自己的他人（观众/乐队伙伴）",
+          "linking_affect": "羞耻、焦虑、恐惧"
+        },
+        {
+          "self_representation": "容易在关键时刻出错的被评判者",
+          "object_representation": "可能忽视优点、只看缺点的评判者",
+          "linking_affect": "自我贬低、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询其是否愿意与乐队伙伴沟通并获得真实反馈时",
+          "interpretation": "来访者认为他人会证实自己“不够好”，将内在的否定感归于他人的想法（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和、支持的语气，先共情其担忧，再用开放式问题引导其区分“担心”与“事实”，邀请其考虑小步尝试获取现实反馈。"
+        },
+        {
+          "trigger_condition": "当回顾“一次错误意味着整体失败”的观点时",
+          "interpretation": "把一次失误等同于全面失败，将自我与表现以全好/全坏的方式理解（移情：分裂）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "保持稳定、不评判的语气，使用澄清与对比提问，协助其同时看到优点与不足，逐步引入更整合的视角。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "一次错误后将自我价值与职业意义等同于“完美演出”",
+            "忽视积极反馈与成功片段，陷入对失败的反刍"
+          ],
+          "outcomes": [
+            "自我怀疑与自尊受损",
+            "练习动力下降、对排练/演出产生惧怕与退缩",
+            "整体幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体将原本欲向外表达或寻求支持的能量转而对自己，克制对他人或环境的行动冲动。",
+          "manifestations": [
+            "没有向支持性的乐队伙伴与朋友表达困扰",
+            "把沟通的冲动转为自我批评与加练",
+            "在需要外界反馈时选择自我否定与独自承受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过多的自我限制与苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "对一次错误进行过度苛责与自我审视",
+            "在考虑与他人沟通时过度担忧被否定",
+            "以“必须完美”的标准约束自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对音乐具有热情与投入",
+          "拥有支持性的乐队伙伴与朋友",
+          "愿意尝试练习与寻求咨询，具有改变意愿"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的认知倾向",
+          "过度依赖外部评价与担心让他人失望",
+          "否定积极反馈、反复反刍错误",
+          "回避沟通，导致关系紧张与支持难以进入"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化自我标签并产生退出乐队的念头",
+          "antecedent": [
+            "现场演出出现错误后",
+            "回忆那次失误",
+            "想到下一次排练或演出"
+          ],
+          "core_reason": "将一次错误过度概括为整体失败，并以完美主义标准定义自我价值，担心被否定与羞辱",
+          "function": "逃避潜在的羞耻与被否定的情境",
+          "consequence": "练习动机下降、职业表现受影响、整体幸福感降低"
+        },
+        {
+          "behavior": "回避与乐队伙伴沟通感受与寻求反馈",
+          "antecedent": [
+            "被问及是否与队友交流时",
+            "考虑向队友表达困扰或寻求意见时"
+          ],
+          "core_reason": "将内在的否定担忧投射到他人身上，害怕得到确认性否定",
+          "function": "避免不受欢迎的评价与情绪痛苦",
+          "consequence": "关系紧张、支持无法进入、持续陷于自我怀疑"
+        },
+        {
+          "behavior": "在负面想法出现时加倍练习以追求完美",
+          "antecedent": [
+            "想到错误或即将到来的排练/演出时",
+            "感到强烈自我怀疑与失败感时"
+          ],
+          "core_reason": "通过加练寻求控制感，以抵消对错误的恐惧与不确定性",
+          "function": "获得可控感与暂时缓解焦虑",
+          "consequence": "压力与自我苛责增加，负面认知未改善，可能进一步耗竭动机"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1934
+}

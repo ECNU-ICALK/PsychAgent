@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林泽宇",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "小学在读",
+      "marital_status": "未婚（儿童）",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "与最好朋友Abigail关系良好；加入学校安全巡逻队",
+      "medical_history": "无重大躯体疾病；无既往心理咨询或治疗经历；此前未出现类似心理问题",
+      "language_features": "表达清晰，能按时间线描述问题；语气犹疑但愿意尝试；配合度较高；思维逻辑较为连贯；有消极自我评价倾向"
+    },
+    "main_problem": "我经常觉得自己是个糟糕的运动员，并在体育课或其他体能活动表现不佳后产生自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "这些关于运动能力的负面想法正在影响我的自尊和对体育与活动的享受，我希望改善这种情况。",
+    "growth_experiences": [
+      "开始参加课后武术课程后，因在课堂上动作做错或表现不如预期，逐渐将一次失误泛化为对整体能力的否定，开始给自己贴上“糟糕的运动员”的标签，并感到尴尬。",
+      "加入学校安全巡逻队后感到需要表现良好的压力增加，担心自己在新角色中的表现不佳会带来负面评价，这一压力与对体育表现的自我怀疑相互影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在运动方面很差",
+        "我不够好，体能活动上不太可能变好"
+      ],
+      "special_situations": [
+        {
+          "event": "武术课上做错动作或表现不如预期，且感到尴尬",
+          "conditional_assumptions": "如果我在别人面前出错，就证明我没有天赋，今后也不会变好",
+          "compensatory_strategies": "通过阅读小说转移注意力，避免与朋友讨论自我怀疑以减少被评价的风险",
+          "automatic_thoughts": "我很差劲，我永远都不会变好了。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在任何体育活动或比赛中表现不如自己的期望",
+          "conditional_assumptions": "一次表现不好就能证明我对所有体能活动都不行",
+          "compensatory_strategies": "降低参与热情、给自己贴负面标签以避免再次希望落空",
+          "automatic_thoughts": "我在所有运动上都很糟。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "加入学校安全巡逻队后感到角色期待与绩效压力",
+          "conditional_assumptions": "如果我在新角色上表现不好，大家会认为我不行、会失望",
+          "compensatory_strategies": "增加自我监控与担忧，避免向朋友寻求情感支持",
+          "automatic_thoughts": "如果我做不好，大家就会看不起我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在课堂上被同学或教练看到自己失误",
+          "conditional_assumptions": "只要出错就说明我不适合运动，失败等于全盘否定",
+          "compensatory_strategies": "自责并暂时减少投入来降低再次出错的风险",
+          "automatic_thoughts": "出错就证明我不适合参加体育活动。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力并被接纳",
+        "fear": "害怕失败被看到、被他人评判和羞辱",
+        "defense_goal": [
+          "通过降低期待与自我否定来避免更强烈的羞耻感",
+          "保持谨慎和回避脆弱暴露以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出错、能力不足的参与者",
+          "object_representation": "带有评价与挑剔目光的他人（同学/教练/同伴）",
+          "linking_affect": "羞耻、焦虑与沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行在家练习并记录的行为实验时",
+          "interpretation": "担心这会成为能力的“测验”，一旦失败就会被负面评价",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "语气稳定且接纳，先共情其担心，再将实验框定为“学习而非测验”，使用具体、可实现的小步骤，强调失败也提供信息。"
+        },
+        {
+          "trigger_condition": "当被邀请去描述尴尬和羞耻等强烈感受时",
+          "interpretation": "认为暴露脆弱会带来不适或被看作“软弱”",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "放慢节奏，使用温和提问，引导命名感受；适度沉默留出体验空间，验证其安全感并允许部分表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽与好友Abigail关系良好，但未分享自我怀疑与羞耻感",
+            "在体育情境中以自我标签隔离自身经验，内在感到被孤立"
+          ],
+          "outcomes": [
+            "自尊受损与沮丧感增加",
+            "对体育活动的享受降低与投入减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在咨询中频繁自我怀疑并反复询问“如果我还是没变好怎么办”",
+            "对行为实验持观望态度，谨慎承诺"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "把对外表达困扰的冲动收回，不向好友表达自我怀疑",
+            "通过自责和给自己贴标签将能量转向自身"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在体育活动（如武术课）表现不佳时，来访者通常会陷入“我是个糟糕的运动员”的自我否定，并降低参与兴趣。",
+          "unique_outcome": "在体育活动后，通过阅读《哈利·波特》进行自我分散时，负面想法的强度有所下降，情绪得到一定缓解，从而能较为平静地恢复日常。",
+          "reason": "不同做法：通过沉浸式阅读转移注意力，短时降低对失败的聚焦与情绪激活。"
+        },
+        {
+          "target_problem": "在遇到运动相关挫折后，来访者通常反复自责并将一次失误泛化为整体能力差。",
+          "unique_outcome": "在与好友Abigail聊天时（虽未直接谈及自我怀疑），情绪有所缓解，负性思维强度下降，较以往更容易恢复。",
+          "reason": "不同支持：获得同伴的陪伴与情绪支持，社交连接减轻自我沉浸。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定的同伴支持（与Abigail关系良好）",
+          "学业表现良好，日常功能基本稳定",
+          "愿意尝试咨询建议与行为实验，具备自我反思的意愿",
+          "家庭支持使其能够来访并参与干预"
+        ],
+        "negative_force": [
+          "认知歪曲明显（过度概括、读心术、非黑即白、预测未来、自我标签）",
+          "对失败与尴尬高度敏感，过度关注他人评价",
+          "不愿向亲密他人披露自我怀疑，社会支持未充分激活",
+          "新角色（安全巡逻）带来的绩效压力放大自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在体育活动后进行消极自我标签与反复否定（如“我是个糟糕的运动员”）",
+          "antecedent": [
+            "武术课上出错或动作完成不佳",
+            "在任何体育活动中的表现低于个人期望"
+          ],
+          "core_reason": "对一次失误的过度概括与非黑即白评价，伴随对被评价与羞耻的敏感；角色压力（安全巡逻）增强了自我监控。",
+          "function": "短期逃避失败带来的焦虑与羞耻，降低期待以自我保护",
+          "consequence": "自尊下降、对体育活动的享受与参与度降低"
+        },
+        {
+          "behavior": "回避向亲近朋友表达自我怀疑与负面情绪",
+          "antecedent": [
+            "与好友Abigail交流的机会出现时",
+            "在运动受挫后需要情感支持的情境"
+          ],
+          "core_reason": "担心暴露脆弱会被评价或带来尴尬，倾向自我监控与回摄",
+          "function": "避免羞耻与被拒绝的风险，维持表面安全感",
+          "consequence": "社会支持难以充分获得，负性思维维持与加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1868
+}

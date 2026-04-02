@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "社交支持系统薄弱，与朋友关系因归咎习惯而紧张",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗",
+      "language_features": "表达较为清晰，态度偏消极但愿意尝试小目标；在涉及责任与问责话题时容易回避并归咎他人"
+    },
+    "main_problem": "我总是把自己的过错归咎于他人，这导致我感到无助并在人生中停滞不前。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为我意识到我将责任归咎他人的模式正在阻碍我的个人成长和身心健康。",
+    "growth_experiences": [
+      "青少年时期长期被父母指责、把一切过错都归结到自己身上，由此形成强烈的自责与无助体验；该模式在成年后延续，近两年因失业、不健康生活方式与动机不足而显著加剧，在人际关系、工作与健康方面全面受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法变得健康",
+        "我无法掌控并改善自己的生活"
+      ],
+      "special_situations": [
+        {
+          "event": "照镜子或低头看到自己明显的啤酒肚，意识到两年没看到自己的脚",
+          "conditional_assumptions": "如果我的身体状态很差且外形糟糕，就说明我无法改变，未来也不会变好",
+          "compensatory_strategies": "放弃行动、维持不健康的生活方式，避免面对健康话题",
+          "automatic_thoughts": "我永远不会变得健康",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作或生活中出现需要承担责任与被问责的情境（如任务失败或事情出错）",
+          "conditional_assumptions": "如果我承认过错并承担责任，就会被他人指责并感到强烈的羞耻与内疚",
+          "compensatory_strategies": "推卸责任、指责他人、回避承担与解释自身过失",
+          "automatic_thoughts": "这不是我的错，是别人的问题",
+          "cognitive_pattern": "Blaming"
+        },
+        {
+          "event": "失业后长期求职受阻或想到自己一直失业",
+          "conditional_assumptions": "一次或几次失败意味着我在各方面都会失败",
+          "compensatory_strategies": "减少求职行动、降低投入并将失败归因于外部环境",
+          "automatic_thoughts": "我在任何方面都失败，我不可能改善现状",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友互动、发生冲突或被质疑时",
+          "conditional_assumptions": "如果承认自己的过错会失去面子和关系，只能通过指责对方来保护自己",
+          "compensatory_strategies": "第一时间寻找他人错误、强化外部归因以维护自尊",
+          "automatic_thoughts": "都是他们的错，他们让我停滞不前",
+          "cognitive_pattern": "Blaming"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被公平对待、免于被责备并保有自尊与价值感",
+        "fear": "害怕承担责任会引发羞耻、被指责与被控制，最终被否定与抛弃",
+        "defense_goal": [
+          "通过推卸责任与回避承担来减轻内疚与羞耻，维持脆弱的自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无助、容易被责难者",
+          "object_representation": "苛责、挑剔、把错误都归咎于自己的他人（内化的父母形象）",
+          "linking_affect": "羞耻、无助、愤怒"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其对自身行为承担责任或共同探讨改进方案时",
+          "interpretation": "将此体验成可能被指责或像父母那样责怪自己（移情：将咨询师体验为苛责的他者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用共情与非评判的语气，先验证其羞耻与无助感，再以合作式语言邀请其选择可执行的小步骤，避免指责或强迫。"
+        },
+        {
+          "trigger_condition": "当咨询师建议从小而现实的目标开始（如每日短时步行）",
+          "interpretation": "认为小改变没有意义，自己不可能改善（无望感）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以实验心态邀请其尝试，用“让我们一起检验”的语言，提供可观察的指标，降低争辩，强调自我选择与可撤回性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "长期感到被困住与无助，认为改变没有意义",
+            "对健康改善持“永远不可能”的预期"
+          ],
+          "outcomes": [
+            "缺乏动力",
+            "维持不健康的生活方式",
+            "持续失业与停滞"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在需要承担责任时回避并将责任转嫁他人",
+            "难以面对选择与责任带来的焦虑"
+          ],
+          "outcomes": [
+            "责任回避习惯化",
+            "人际关系紧张",
+            "自我效能感降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "社交支持系统薄弱",
+            "与朋友关系紧张"
+          ],
+          "outcomes": [
+            "面对困难时支持不足",
+            "无助与压力增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在谈及问题时强调他人是主要原因",
+            "在事情出错时第一反应是寻找他人过错"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的自我觉察，认识到归咎他人的模式正在阻碍个人成长与健康",
+          "愿意尝试小而可行的目标（如每日短时步行）",
+          "无显著躯体疾病，具备进行健康行为的基本条件"
+        ],
+        "negative_force": [
+          "长期归咎他人、回避承担责任的思维与行为习惯",
+          "无助感与失败预期（灾难化、过度概括）",
+          "动机不足，难以坚持改变",
+          "不健康的生活方式与缺乏自我照料",
+          "社交支持系统薄弱、与朋友关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在事情出错时推卸责任、将过错归咎他人",
+          "antecedent": [
+            "工作或生活中出现问题或失败",
+            "被他人要求承担责任或接受问责"
+          ],
+          "core_reason": "童年长期遭受父母责怪，形成对羞耻与内疚的高度敏感，通过归咎他人来避免自责与被责难",
+          "function": "逃避不受欢迎的情绪（内疚、羞耻）与外部指责，暂时维持自尊与控制感",
+          "consequence": "人际关系紧张、问题无法得到有效解决、停滞不前并加剧无助感"
+        },
+        {
+          "behavior": "对健康改善持“永远不可能”的信念，导致回避运动与自我照料",
+          "antecedent": [
+            "看到自己明显的啤酒肚或想到两年未见到自己的脚",
+            "意识到健康状况不佳且需要改变"
+          ],
+          "core_reason": "灾难化与预测未来的认知使其否定改变的可能，从而放弃行动",
+          "function": "逃避努力与失败的风险，降低当下焦虑与挫败感",
+          "consequence": "健康状况进一步下降、体重增加、情绪低落与无助感加重"
+        },
+        {
+          "behavior": "缺乏求职与执行任务的动机，长期失业",
+          "antecedent": [
+            "失业后面对求职任务",
+            "想到过往失败经历"
+          ],
+          "core_reason": "过度概括与无望感使其相信努力不会带来改变",
+          "function": "逃避可能的拒绝与失败，维持短期情绪安慰",
+          "consequence": "持续失业、经济与自我效能受损、无助感与压力增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1192
+}

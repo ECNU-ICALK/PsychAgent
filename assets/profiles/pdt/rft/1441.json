@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "李安",
+      "gender": "男",
+      "occupation": "咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与宠物猫Jasper同住",
+      "social_status": "有少数朋友可联系，但难以谈及内疚与自责；近期回避社交，多在家陪伴Jasper。",
+      "medical_history": "无重大躯体疾病；既往未出现类似心理问题，未接受过心理治疗。",
+      "language_features": "表达清晰，能描述内心感受；语气低落、带有明显内疚与自责；对负性事件高度关注；能在咨询师引导下尝试接纳不同视角。"
+    },
+    "main_problem": "我一直为我的猫与街区另一只猫打架感到内疚和负责，这一事件触发了“我是一个不称职的宠物主人”的想法，并给我带来很大困扰。",
+    "topic": "情绪管理",
+    "core_demands": "这种关于猫打架事件的痛苦与内疚感让我不堪重负，我来咨询是为了处理这些情绪。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职、容易失败的人",
+        "坏事发生是我的错，需要由我来承担责任"
+      ],
+      "special_situations": [
+        {
+          "event": "几周前，Jasper与街区另一只猫打架并受伤",
+          "conditional_assumptions": "如果我不能阻止或预防伤害发生，就证明我是个不合格的宠物主人",
+          "compensatory_strategies": "事后对Jasper格外谨慎与看护，反复自责并试图通过更严格的管控来“补偿”",
+          "automatic_thoughts": "这是我的错，我是个糟糕的宠物主人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次看到Jasper或回想起打架事件",
+          "conditional_assumptions": "如果我一直被这件事刺痛，说明事实就是我失败了",
+          "compensatory_strategies": "不断回想与反刍事件中的细节，盯住负面结果以提醒自己“更小心”",
+          "automatic_thoughts": "我当时没保护好他，这证明我不称职",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到与朋友见面或向朋友倾诉此事",
+          "conditional_assumptions": "如果他们觉得我小题大做，就证明我不配养宠物，会被看不起",
+          "compensatory_strategies": "减少社交、避免与朋友谈及感受，以躲避可能的评价",
+          "automatic_thoughts": "他们会觉得我反应过度、能力不足",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作时想到Jasper的安全问题",
+          "conditional_assumptions": "如果我不时刻监控并保持警惕，坏事就很可能再次发生",
+          "compensatory_strategies": "在生活与工作中维持高度警觉，尽量待在家附近陪着Jasper",
+          "automatic_thoughts": "如果我不一直盯着他，他还会再受伤",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可且负责任的照料者，能保护重要的依恋对象",
+        "fear": "害怕被看作不称职、被他人评判与否定，害怕失去对重要他者安全的控制",
+        "defense_goal": [
+          "通过自责与过度谨慎来维持对局面的掌控感",
+          "通过回避社交来降低被外界评价与羞耻的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、失败的照料者",
+          "object_representation": "评判、挑剔的他人（朋友/旁观者）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        },
+        {
+          "self_representation": "必须时刻保护他人的看护者",
+          "object_representation": "脆弱、需要被全面照看的依恋对象（Jasper）",
+          "linking_affect": "担忧、责任感与负债感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当考虑与朋友谈论内疚感或担心他们评价时",
+          "interpretation": "认为他人会觉得自己小题大做、是不称职的主人（移情：把内在批判投射给外界）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用犹豫、猜测他人想法的表述（如“他们一定会觉得……”），回避直接请求支持，语气谨慎而不确定。"
+        },
+        {
+          "trigger_condition": "当看到Jasper或回想事件、强烈的内疚涌现时",
+          "interpretation": "把所有负面结果归咎于自己，认为只有自责才算负责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我苛责的语气反复强调“都是我的错/我应该做得更好”，减少对外表达情绪与求助。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免社交，更多时间独处在家陪伴Jasper",
+            "难以与朋友讨论内疚与自责，只对宠物倾诉",
+            "感到被困于自责与担忧的循环中"
+          ],
+          "outcomes": [
+            "主观孤立感增强",
+            "焦虑与内疚持续",
+            "工作与日常节律被打乱"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对“责任/控制”的高要求（认为必须完全保护Jasper）",
+            "以“应该/必须”标准衡量自我是否合格"
+          ],
+          "outcomes": [
+            "内疚与自我指责加剧",
+            "为避免错误而趋向回避社交与过度谨慎"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁以“我应该更小心/我必须保护好他”评价自我",
+            "将“完全可控才算合格”的规则内化为自我要求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设朋友会认为自己小题大做、不配养宠物",
+            "因此避免与朋友直接交流感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并开始咨询，表达出改变的意愿",
+          "能够以更宽容的视角对待他人（若他人遇到同样情况会给予理解）",
+          "对宠物有稳定的关爱与责任心，能采取更谨慎的照看行为",
+          "具备基础社会支持（有几位朋友可联系）"
+        ],
+        "negative_force": [
+          "显著的自我责备与个人化倾向（把不可控事件归责于自己）",
+          "心理过滤：只盯住负面事件与失败证据",
+          "读心与对外评价的过度关注，导致社交回避",
+          "以“应该/必须”为核心的高标准自我苛责",
+          "持续担忧以求控制，反而加重压力并干扰工作与生活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交、减少外出，主要待在家陪伴Jasper",
+          "antecedent": [
+            "想到与朋友见面或倾诉时担心被评判",
+            "打架事件后的几周内，社交邀请或外出计划"
+          ],
+          "core_reason": "担心他人认为自己小题大做、不称职（读心与自我苛责），以回避来降低羞耻与焦虑",
+          "function": "逃避可能的负面评价与由此带来的焦虑",
+          "consequence": "社交支持减少，孤立感与内疚维持，情绪问题持续"
+        },
+        {
+          "behavior": "反复担忧与自责的反刍思维（围绕猫打架事件）",
+          "antecedent": [
+            "看到Jasper或回想起事件",
+            "在工作或独处时触景生情"
+          ],
+          "core_reason": "个人化与高责任感驱动的控制需求，试图通过不断反思来预防再次发生",
+          "function": "短期获得“更警惕/更负责”的感觉",
+          "consequence": "压力上升、注意力受损、工作表现下降，日常节律被打乱"
+        },
+        {
+          "behavior": "过度谨慎地监控与保护Jasper",
+          "antecedent": [
+            "计划带Jasper外出或想到可能的风险场景"
+          ],
+          "core_reason": "对未来不良后果的预测与灾难化倾向（担心若不时刻监控会再出事）",
+          "function": "逃避潜在风险以获得安全感",
+          "consequence": "生活灵活性降低，焦虑维持，活动范围与时间安排受限"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1441
+}

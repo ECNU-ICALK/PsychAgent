@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "柳薇",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有8个兄弟；父母年逾80岁；与兄弟关系因身高被取笑而紧张",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；无类似心理问题史",
+      "language_features": "表达清晰、语速平稳；语气低落、夹杂犹豫；存在自我否定；能配合咨询并进行自我反思"
+    },
+    "main_problem": "她感到兄弟们总是因为她的身高取笑她，并认为她软弱，这使她痛苦并产生不足感。",
+    "topic": "家庭关系",
+    "core_demands": "这些被评判与不足感已经影响到她的日常生活、自尊与整体心理健康，她希望停止这样的感受并改善自尊与生活状态。",
+    "growth_experiences": [
+      "在有8个兄弟的家庭中，长期在家庭聚会与互动时被兄弟们拿身高开玩笑、嘲笑，使她感到“很小、很弱”；近几个月这种情况加剧，扩散到各种场合都感到被评判与批评；她曾尝试回避家庭聚会或与兄弟对质（兄弟以“只是逗你”回应），但未能缓解长期的不足感与痛苦；由此自尊受损、社交自信下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我很软弱",
+        "我的身高是缺陷，说明我有问题"
+      ],
+      "special_situations": [
+        {
+          "event": "家庭聚会时，兄弟们拿她的身高打趣或嘲笑",
+          "conditional_assumptions": "如果我个子矮，就会被认为软弱且不值得尊重",
+          "compensatory_strategies": "回避家庭聚会或在现场保持沉默以减少羞辱感",
+          "automatic_thoughts": "他们都觉得我很弱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "她表达不适后，兄弟以“只是逗你/开玩笑”来回应",
+          "conditional_assumptions": "如果别人不认真对待我的感受，说明我的感受不重要、我确实很弱",
+          "compensatory_strategies": "以愤怒和喊叫来维护尊严、试图阻止对方继续取笑",
+          "automatic_thoughts": "他们在贬低我、不把我当回事",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "在其他社交场合想到自己的身高时",
+          "conditional_assumptions": "如果外貌（身高）不达标，在任何场合都会被视为不够好",
+          "compensatory_strategies": "回避社交或减少互动来躲避被评价",
+          "automatic_thoughts": "大家都会把我当笑话",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "计划参加家庭聚会前的预期与担忧",
+          "conditional_assumptions": "如果我不强硬反击，就会被视为更弱、被持续踩压",
+          "compensatory_strategies": "预设防御，情绪高度警觉，准备反击",
+          "automatic_thoughts": "我必须证明自己，否则他们会一直踩我",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被兄弟尊重、接纳与认真对待（不因身高而被贬低）",
+        "fear": "害怕被嘲笑、羞辱与否定；担心失去自我价值与尊严",
+        "defense_goal": [
+          "通过保持距离或回避聚会来自我保护",
+          "通过愤怒反击以抵御被视为软弱的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被嘲笑与贬低的“弱小者/被评判者”",
+          "object_representation": "轻蔑、否定、爱取笑的“强势兄弟群体”",
+          "linking_affect": "羞耻、愤怒、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她考虑向朋友分享这些感受、并探索他人可能的反应时",
+          "interpretation": "她倾向于认为他人会“觉得她矫情/不理解她”（将内心的担忧与负性评价归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以共情且支持的语气，认可其担忧；使用开放式问题邀请举例与寻找证据，温和地探讨其他可能的解释，避免对抗性反驳。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因被取笑与被评判的体验而在家庭与社交场合产生退缩与回避",
+            "不与朋友谈论真实感受，担心被误解或被视为夸张"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "社交焦虑与回避",
+            "内在孤立感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在家庭与社交情境中预设他人会看不起自己、认为自己软弱",
+            "担心朋友会觉得自己“反应过度”，因此不愿分享感受"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "在被取笑时选择保持沉默、把愤怒与伤心压在心里",
+            "避免参加家庭聚会，将能量转为自我压抑与自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有几位可以依靠的朋友与基本的社会支持",
+          "能主动寻求心理咨询与表达困扰，具备自我觉察与改变意愿",
+          "愿意学习并练习识别、挑战自动化思维",
+          "能通过兴趣爱好进行一定的情绪自我调节"
+        ],
+        "negative_force": [
+          "长期的家庭取笑与贬低导致自我价值受损",
+          "倾向读心术与跳结论，预测他人负面看法",
+          "自尊低下，社交回避加剧孤立感",
+          "在冲突中以愤怒喊叫或完全沉默的两极反应，难以有效沟通"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避（尤其回避家庭聚会与与兄弟互动）",
+          "antecedent": [
+            "计划或临近家庭聚会",
+            "想到兄弟会取笑自己身高",
+            "在社交场合担心被评判"
+          ],
+          "core_reason": "基于“他人会看不起我”的读心术与负性核心信念（我不够好/我很软弱），为避免羞辱与否定而退缩",
+          "function": "逃避被嘲笑的情境以降低羞耻与焦虑",
+          "consequence": "孤立加重、关系紧张、自尊进一步受损"
+        },
+        {
+          "behavior": "在被取笑时愤怒喊叫或爆发",
+          "antecedent": [
+            "兄弟以玩笑方式提及其身高并持续取笑",
+            "表达不适后被对方以“只是逗你”轻描淡写"
+          ],
+          "core_reason": "为对抗被视为软弱的恐惧，通过攻击性反应维护尊严与边界",
+          "function": "试图阻止对方继续取笑、寻求尊重与控制感",
+          "consequence": "冲突升级、关系进一步恶化，负性评价循环加深"
+        },
+        {
+          "behavior": "持续的负面自我评价与自我否定（如“我不够好/我有问题”）",
+          "antecedent": [
+            "被兄弟取笑后的回想与反刍",
+            "在社交场合自我关注身高并担心他人评价"
+          ],
+          "core_reason": "内化的负性核心信念与过度概括，情绪化推理将羞耻感当作现实证据",
+          "function": "为负面信念寻找一致性，降低认知失调（不适应）",
+          "consequence": "自尊下降、焦虑维持，行为回避与人际紧张持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 489
+}

@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "梅根",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与Poppa同住",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；此前未出现过类似心理问题。",
+      "language_features": "语气中性，表达清晰。"
+    },
+    "main_problem": "我觉得自己永远读不了像大多数人那么多的书，这让我产生不足感和比较心。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些不足感影响了我对阅读的享受和整体幸福感，促使我寻求咨询。",
+    "growth_experiences": [
+      "宠物猫去世后，阅读这一曾与其共享的活动失去情感联结；从那时起，每当尝试阅读或看到他人讨论书籍时都会引发不足感与比较，问题持续存在并随时间加重。",
+      "曾在学校赢得阅读比赛，且得到教师对课堂阅读理解能力的肯定；这些正面经历表明其具备良好阅读能力，但在比较心态下往往被忽视。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不如别人。",
+        "我做得永远不够。"
+      ],
+      "special_situations": [
+        {
+          "event": "看到他人读很多书或讨论书籍",
+          "conditional_assumptions": "如果我读得没有别人多，就说明我不够好。",
+          "compensatory_strategies": "设定更高的阅读目标、强迫自己多读以证明自己。",
+          "automatic_thoughts": "我不如他们；我做得不够。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "自己开始制定阅读目标并回顾完成情况",
+          "conditional_assumptions": "我必须读得更多才算达标、才算有价值。",
+          "compensatory_strategies": "不断提高目标、用外部读量标准衡量自己。",
+          "automatic_thoughts": "我应该读更多，为什么我读不了像其他人那么多？",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "回想到曾赢得阅读比赛或得到老师肯定",
+          "conditional_assumptions": "除非我的读量达到或超过他人，否则任何正面反馈都不算数。",
+          "compensatory_strategies": "忽视正面证据，继续关注不足与比较。",
+          "automatic_thoughts": "这些不算真正的能力，我还是不够好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在宠物猫去世后独自阅读",
+          "conditional_assumptions": "没有与猫共同阅读的陪伴，我的阅读就不再有意义或做不好。",
+          "compensatory_strategies": "通过比较和提高读量来试图填补失落并证明自己。",
+          "automatic_thoughts": "没有它，我做不到像以前那样阅读；阅读不再值得。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过阅读获得亲密与意义（保有与宠物共享阅读的情感连接），并被认可为“足够好”的读者。",
+        "fear": "害怕在与他人比较中显得不够好、失去曾经的价值与连接。",
+        "defense_goal": [
+          "通过设定更高目标与不断比较来维持自我价值感",
+          "忽视正面反馈以避免面对丧失后的失望与脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、落后的读者与比较者",
+          "object_representation": "他人是评判者/更优秀的阅读者群体",
+          "linking_affect": "自卑、羞愧、压力"
+        },
+        {
+          "self_representation": "失去陪伴的哀伤者",
+          "object_representation": "猫（重要他者）是温暖的陪伴者与意义来源",
+          "linking_affect": "悲伤、怀念、空虚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导关注正面证据或提出重构思维的建议时",
+          "interpretation": "来访者倾向认为正面证据“并不算数”，核心仍在读量比较上（移情：将他人视为潜在评判者）。",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉但坚持的语气，用“但是/不过”开头弱化正面证据，重复强调他人读得更多的事实与压力来源。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "宠物猫去世后失去共同阅读的陪伴",
+            "独自阅读时缺乏情感连接，感到与曾经的意义疏离"
+          ],
+          "outcomes": [
+            "不足感与比较增强",
+            "阅读乐趣下降",
+            "压力与自我否定增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "“阅读不再像以前那样”，难以从阅读中获得同等的满足与意义"
+          ],
+          "outcomes": [
+            "动机降低",
+            "享受感减弱",
+            "通过外部读量标准寻求价值"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该读更多”的自我要求",
+            "以他人读量作为绝对标准衡量自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "总是在寻找自己不够的证据",
+            "与他人比较后自责、否定自身成就"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到他人阅读或讨论书籍时，来访者通常会产生不足感并进行比较，导致压力增加、阅读乐趣下降。",
+          "unique_outcome": "在学校的一次阅读比赛中获胜，并得到老师的肯定；当时体验到被认可与自信，阅读能力得到实证。",
+          "reason": "线索：有明确的任务与评价标准，外部正向反馈显性，使其注意力从比较转向自身能力与投入。"
+        },
+        {
+          "target_problem": "在尝试阅读时，来访者通常会陷入比较他人读量并自我否定，导致难以享受阅读。",
+          "unique_outcome": "有几次沉浸在一本书中并享受阅读，当下的体验更投入、乐趣上升，比较心暂时减弱。",
+          "reason": "线索：可能因兴趣强的书目选择与较少外界干扰，使注意力集中于阅读本身而非外部比较。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱阅读，能够在某些时刻沉浸其中",
+          "具备良好的阅读能力与理解力（曾获比赛、教师肯定）",
+          "有可倾诉的支持者Poppa",
+          "具备求助与改变的动机（主动寻求咨询）"
+        ],
+        "negative_force": [
+          "习惯性与他人比较读量，形成“比较与绝望”的框架",
+          "“应该”句式的自我苛责",
+          "否定正面经历（discounting the positive）",
+          "心理过滤，只关注负面证据与不足",
+          "丧失后情绪化推理，将悲伤与阅读表现直接等同"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在阅读相关情境中出现强烈自我比较与不足感，伴随自我否定与压力上升",
+          "antecedent": [
+            "尝试开始阅读",
+            "看到他人阅读很多或讨论书籍"
+          ],
+          "core_reason": "宠物猫去世后阅读失去情感支撑；将读量内摄为自我价值标准；并受心理过滤与否定正面经历的认知偏差影响。",
+          "function": "逃避面对丧失与孤独的痛感，通过比较与自我苛责维持对价值感的控制感与外部认可的追求。",
+          "consequence": "阅读乐趣下降、压力增加、目标设定反而加重紧张，整体幸福感受损。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1790
+}

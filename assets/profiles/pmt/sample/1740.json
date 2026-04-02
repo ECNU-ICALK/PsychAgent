@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "凯琳",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与支持其他球队的朋友关系因其悲观态度而紧张；有少量朋友可交谈但不分享其体育热情，沟通困难",
+      "medical_history": "无显著躯体疾病；无以往相似心理问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、合作；语气偏消极与悲观，常使用绝对化与预言式表述（如“永远不会夺冠”）；注意力易被负面信息吸引，难以平衡积极面"
+    },
+    "main_problem": "我因最喜爱的棒球队（华盛顿国民队）产生持续的消极想法与失望，这些感受始于几年前球队连遭失利与挫折，并在赛季中持续困扰我。",
+    "topic": "情绪管理",
+    "core_demands": "持续的消极想法和失望已开始影响我的情绪与整体福祉，这促使我寻求咨询。",
+    "growth_experiences": [
+      "几年前华盛顿国民队经历一段连续失利与挫折的时期；来访者（对球队高度投入）从那时起在比赛或赛季期间反复出现担忧与悲观（最初压力为中等），逐渐发展为对球队未来的持续负面预测（如“他们永远不会夺冠”），并在工作、与支持其他球队的朋友的关系以及日常情绪与幸福感方面造成影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "未来必定会变得糟糕",
+        "一次失败就意味着永远不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "华盛顿国民队在比赛中失利",
+          "conditional_assumptions": "如果他们现在输球，就说明他们未来也不会成功（包括不能夺冠）",
+          "compensatory_strategies": "尝试保持积极、关注球队优点并提醒自己每个赛季不同",
+          "automatic_thoughts": "他们永远不会夺冠；事情不会好转",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在赛季期间持续关注球队的战绩与进展（赛程、排名、表现）",
+          "conditional_assumptions": "如果本赛季表现不佳，他们的未来必然也会糟糕",
+          "compensatory_strategies": "持续关注赛季进展，试图通过了解情况来安抚担忧",
+          "automatic_thoughts": "接下来一定会更糟；我担心他们的未来",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想几年前球队经历的连败与挫折",
+          "conditional_assumptions": "过去的失利意味着未来也会失败",
+          "compensatory_strategies": "难以接受正向证据，维持低期待以避免再次失望",
+          "automatic_thoughts": "自那以后，一切都在走下坡",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "即使球队赢球时也会想到下一场比赛可能会失败",
+          "conditional_assumptions": "即便目前有积极表现，也会很快崩塌，所以不值得抱有希望",
+          "compensatory_strategies": "淡化或否定积极时刻以防止期望升高",
+          "automatic_thoughts": "积极只是短暂的，很快会被失望淹没",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望从所热爱的球队中获得稳定的希望与喜悦，保持情绪的满足与安心",
+        "fear": "害怕持续遭遇失望、事情永远不会改变，从而被负面情绪淹没",
+        "defense_goal": [
+          "通过维持悲观与低期待来减少再次失望的痛苦与不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被失望和担忧困住的忠实球迷",
+          "object_representation": "不理解自己感受的他人（支持其他球队的朋友）",
+          "linking_affect": "恼怒、挫败、疏离感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾并关注球队近期的积极里程碑与进步时",
+          "interpretation": "倾向认为这些积极“微不足道、很快会被负面淹没”，并对咨询师的乐观探索持怀疑态度",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气坚定偏消极，重复过往失利与失望的例子来反驳积极观点，强调“这不会改变结局”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "支持与关注球队的过程被体验为“无望”，积极时刻被负面淹没，难以从曾经喜爱的活动中获得持久意义与乐趣"
+          ],
+          "outcomes": [
+            "情绪低落与动力下降",
+            "整体幸福感受损",
+            "对生活其他方面的兴趣与专注度下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与支持其他球队的朋友关系紧张、沟通困难",
+            "难以被社交圈理解其感受与投入"
+          ],
+          "outcomes": [
+            "人际疏离与冲突",
+            "社会支持感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在被邀请关注积极里程碑时，回应“我不确定这能让我感觉更好”，将话题重新导向负面结果与担忧",
+            "即使赢球也迅速把注意力转向下一场可能的失败，逃离当下的正面体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在球队比赛或赛季期间，来访者通常会反复担忧并陷入悲观，从而难以享受观看和关注球队",
+          "unique_outcome": "在上赛季的几场关键胜利中，来访者没有像往常那样立即陷入负面预期，而是注意到表现亮点（如有潜力的新秀、成功的交易），并体验到一丝希望",
+          "reason": "线索：当场情境提供了明确的积极证据（关键胜利、亮眼球员、成功交易），使其暂时把注意力转向具体积极面，从而出现希望的体验"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试新的视角与练习（在咨询中表示“可以试试”）",
+          "能识别球队的积极事件与亮点（关键胜利、优秀新秀、良好交易）",
+          "已尝试自我调节（刻意关注球队优点、提醒自己每个赛季不同）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与对未来的负面预测（“他们永远不会夺冠”）",
+          "心理过滤：积极时刻被负面信息淹没，难以保持平衡视角",
+          "对球队表现高度投入导致情绪波动加剧",
+          "社会支持匹配度不足（朋友不分享其体育热情），人际关系受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕华盛顿国民队的持续灾难化思维与悲观情绪",
+          "antecedent": [
+            "球队比赛失利时",
+            "在赛季期间关注球队进展与战绩时",
+            "与支持其他球队的朋友讨论体育话题时"
+          ],
+          "core_reason": "几年前球队经历连败与挫折后形成对未来的灾难化与过度概括认知；对球队表现高度投入使该认知持续被激活",
+          "function": "通过负面预期与降低期待来试图减少不确定性与再次失望的情绪冲击",
+          "consequence": "工作注意力与绩效受干扰；与朋友关系紧张；情绪与整体幸福感下降，难以享受曾经喜欢的活动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1740
+}

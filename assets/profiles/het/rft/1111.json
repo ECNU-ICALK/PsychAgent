@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "李莉",
+      "gender": "女",
+      "occupation": "纸制品销售代表",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "离异，有一个女儿",
+      "family_status": "与女儿共同居住",
+      "social_status": "工作中的人际互动具有挑战；浪漫关系受到身高不安全感影响；日常生活中社交活动受社交焦虑限制；有一位亲密朋友，但尚未与其讨论身高相关的不安",
+      "medical_history": "自青少年时期起有与身高相关的不安全感；过去未接受心理治疗；无显著身体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我认为身高不足6英尺使我不讨人喜欢，进而导致不安全感与社交焦虑；这些不足感始于青少年时期，并在遇见新朋友、参加社交或人脉活动时加重。我常回避社交或不断寻求他人验证，但长期无效。",
+    "topic": "人际关系",
+    "core_demands": "我注意到对身高的不安全感正影响我的社交关系和整体幸福感，因此寻求咨询以获得支持与指导。",
+    "growth_experiences": [
+      "青少年时期开始对身高产生不安全感，常感到被他人以身高评判；这种体验逐步固化为“身高决定他人是否喜欢我”的信念，并在成年后持续存在，尤其在需要结识新朋友、进行自我介绍及参加人脉活动的情境中加重，累积形成对社交的焦虑与回避倾向。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被喜欢（因为我太矮）",
+        "他人对我的喜欢与评价主要由身高决定"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合与新认识的人初次接触（如参加人脉活动、需要自我介绍）",
+          "conditional_assumptions": "如果我不够高，初次印象就会很差，别人就不会喜欢我",
+          "compensatory_strategies": "回避社交活动，或在必须参加时尽量减少互动",
+          "automatic_thoughts": "没有人会想和我说话或认识我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与他人互动时从对方的非言语线索（眼神、表情、肢体）进行判断",
+          "conditional_assumptions": "如果别人看起来冷淡或目光不友好，一定是因为我太矮而被轻视",
+          "compensatory_strategies": "不断从他人的反应中寻求外部验证以缓解不安",
+          "automatic_thoughts": "他们在看不起我、在用身高评判我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与更高、看起来更自信的人同处并进行比较",
+          "conditional_assumptions": "如果我比别人矮，就说明我不如他们、不值得被喜欢",
+          "compensatory_strategies": "自我贬低，退到角落，尽量不引人注意",
+          "automatic_thoughts": "我显得格格不入，不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "开始或维持浪漫关系时担心对方的评价",
+          "conditional_assumptions": "如果我的身高不达标，对方最终不会选择我",
+          "compensatory_strategies": "避免深入交往，或过度讨好以求认可",
+          "automatic_thoughts": "对方终会因为我的身高而离开我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢、被接纳，建立安全稳定的关系",
+        "fear": "害怕因身高被拒绝、被轻视或羞辱",
+        "defense_goal": [
+          "通过回避社交与寻求外部验证来降低被拒绝的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "矮小、易被评判的不被喜欢者",
+          "object_representation": "挑剔、看不起人的评判者",
+          "linking_affect": "焦虑、不安全感、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视“身高是他人关注重点”的证据、提出不同视角时",
+          "interpretation": "将内在的不安与被轻视的感受投射到他人，认为他人（包括咨询师）在看低或否定自己体验",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不愿承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "坚持使用“我就是感觉到他们看不起我”的表述，回避讨论具体证据与替代解释，语气谨慎而防御。"
+        },
+        {
+          "trigger_condition": "当被鼓励关注不依赖身高的可爱之处、尝试新的自我视角时",
+          "interpretation": "将可能的积极改变视为不可信或不可行，从而维持既有认知框架以缓解不确定性",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以怀疑语气反复强调“很难相信”“这对我不适用”，避免具体化新的视角或行为尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心因身高被他人拒绝与轻视，在认识新朋友、需要自我介绍及社交活动中产生强烈焦虑并回避",
+            "将他人非言语线索解释为负面评价，难以感受连接与接纳"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "社交回避",
+            "浪漫关系受影响",
+            "工作中的人际互动困难"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：他在看不起我、他们想排挤我等。",
+          "manifestations": [
+            "在社交中将他人的目光与表情解释为对自己身高的轻视与否定",
+            "据此推断他人不会喜欢自己，从而回避或寻求过度的外部验证"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在结识新朋友或需要自我介绍的社交情境中，来访者通常会产生强烈社交焦虑并回避，或不断寻求他人验证以缓解不安",
+          "unique_outcome": "与亲密朋友或熟悉的人相处时，来访者较少关注身高问题，感觉更舒适，被喜欢的体验更可得，能够自然交流而不回避",
+          "reason": "关系与情境不同：对方已了解并欣赏其本人、无需制造“第一印象”，环境更安全可控，因此对身高的关注与焦虑降低"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一位亲密朋友，可提供情感支持与安全连接的经验",
+          "愿意寻求咨询并探索证据与替代视角，具备改变的意愿",
+          "工作绩效未受影响，日常功能总体可维持"
+        ],
+        "negative_force": [
+          "过度寻求外部验证、社交回避行为维持焦虑循环",
+          "读心术与预测未来、个人化、比较等不良认知模式强化不安全感",
+          "将他人非言语线索一致性地解释为负面评价，难以接收积极信息"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交焦虑伴回避与过度寻求外部验证（在社交场合）",
+          "antecedent": [
+            "结识新朋友",
+            "需要自我介绍",
+            "参加社交或人脉活动",
+            "与更高、更自信的人在同一场合"
+          ],
+          "core_reason": "对身高的负性核心信念（身高决定他人是否喜欢我），并以读心术与预测未来等认知模式解释他人反应，导致被拒绝的预期和羞耻感",
+          "function": "逃避被拒绝与负面评价以暂时降低焦虑；通过寻求外部验证来获得短暂的安全感与确定性",
+          "consequence": "人际关系受损、浪漫关系受影响；工作中的人际互动具有挑战；日常社交活动减少，孤立感与不安全感持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1111
+}

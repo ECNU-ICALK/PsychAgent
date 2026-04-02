@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "陈曼迪",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "大学在读（计算机科学专业）",
+      "marital_status": "单身",
+      "family_status": "由继父抚养，关于生父的信息缺失、从未见面",
+      "social_status": "因害怕被评判，难以与同学建立亲密关系；有一位要好的朋友但尚未分享自卑感",
+      "medical_history": "无重要躯体疾病；既往无心理治疗或精神科就诊史",
+      "language_features": "态度积极，愿意配合；其余未提及"
+    },
+    "main_problem": "我一直坚信自己从未谋面的生父那里遗传了“缺乏智力”，这使我产生强烈的自卑感并害怕在大学失败。",
+    "topic": "学业压力",
+    "core_demands": "我之所以来咨询，是因为这些自卑感已经开始影响我的学业表现和整体身心健康。",
+    "growth_experiences": [
+      "原生与家庭经历：从小由继父抚养，与生父没有任何接触或信息来源。对“遗传自生父的智力不足”的想法逐渐形成，成为自我评价的重要依据。",
+      "青少年期至今：自青春期开始出现对自身能力不足的担忧，进入大学后在考试与高难度编程任务面前显著加重；同时感受到社会对学业优秀的期待与压力，强化了对失败的恐惧与自卑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明（这是先天决定的）",
+        "我注定会在大学失败"
+      ],
+      "special_situations": [
+        {
+          "event": "重要考试前",
+          "conditional_assumptions": "如果我考不好，就证明我天生不聪明，将来一定会失败",
+          "compensatory_strategies": "过度准备、不断自我怀疑并寻求他人肯定，即使以牺牲睡眠为代价",
+          "automatic_thoughts": "这次肯定会考砸，我不适合这个专业",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对高难度的编程作业或项目卡住时",
+          "conditional_assumptions": "如果我一时解决不了问题，就说明我真的很笨、永远不行",
+          "compensatory_strategies": "加倍学习试图证明自己、长时间死磕任务",
+          "automatic_thoughts": "我搞不定这题，说明我不够聪明",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "获得教授的正面反馈或课程通过后",
+          "conditional_assumptions": "只有轻松取得完美结果才算能力，其他成功都不算数",
+          "compensatory_strategies": "把成就归因于运气，继续否定自身能力",
+          "automatic_thoughts": "这次只是侥幸，不代表我真的行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与同学接触、需要合作或建立更亲近关系时",
+          "conditional_assumptions": "如果他们发现我不够聪明，就会看不起我、远离我",
+          "compensatory_strategies": "避免建立亲密关系，减少暴露自己能力不足的机会",
+          "automatic_thoughts": "他们会觉得我很笨、会评判我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被如父亲般的权威与重要他人看见、认可并支持，确认自己是有能力且值得被爱的",
+        "fear": "害怕暴露不足被评判或被拒绝，害怕让重要他人失望并证实“自己先天不行”",
+        "defense_goal": [
+          "保持谨慎的关系距离以避免被评判",
+          "将成功归因于运气、能力不足归因为遗传，以减轻内疚与焦虑",
+          "通过过度准备与寻求外部认可来控制不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、随时可能失败的学生",
+          "object_representation": "他人（同学、老师、权威）是苛刻的评判者",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "被缺席的父亲遗弃、携带“问题基因”的孩子",
+          "object_representation": "生父是遥远且负面的来源（能力不足的根源）",
+          "linking_affect": "怨恨、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其通过课程、教授正向反馈等成功证据时",
+          "interpretation": "认为对方可能在忽视现实困难或只是安慰自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和而保留，把成功解释为运气或侥幸，弱化自身能力的作用。"
+        },
+        {
+          "trigger_condition": "当谈到生父与“遗传智力不足”的话题时",
+          "interpretation": "将当前自卑与焦虑抽象化为基因与先天因素，避免触及被遗弃与悲伤感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观、科学的术语讨论遗传与智力，保持情绪平淡，较少表达个人感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将能力与前途视为被基因预先决定，体验到对人生缺乏掌控",
+            "在考试与挑战情境中自我设限，认为努力难以改变结果"
+          ],
+          "outcomes": [
+            "无助与焦虑增加",
+            "回避挑战、非黑即白的自我评价",
+            "对外在评价与认可的依赖加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "从未与生父建立关系，体验被缺席的亲子连接",
+            "因害怕被评判而难以与同学建立亲密关系"
+          ],
+          "outcomes": [
+            "社交回避与孤立感",
+            "自尊下降与自我怀疑",
+            "获得支持资源受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑与自我苛责，担心让重要他人（如继父、老师）失望",
+            "在咨询中更关注自身不足，谨慎表达积极面"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设同学会看不起自己、对自己能力作负面评价",
+            "在人际接触前即假定他人持否定态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过往课程均已通过并获得教授的正面反馈，显示具备学习能力与投入度",
+          "愿意尝试新策略（任务分解、记录观察），并保持积极求助态度",
+          "拥有一位可倾诉的朋友（潜在支持资源）",
+          "有稳定的照料者（由继父抚养）",
+          "能识别并描述自身负性自动思维，具备一定自我觉察"
+        ],
+        "negative_force": [
+          "强烈的遗传决定论信念，倾向将能力归结为先天不可改变",
+          "灾难化与非黑即白等认知歪曲显著",
+          "过度依赖外部认可、倾向否定积极证据",
+          "考前与高压任务下焦虑明显，影响睡眠与专注",
+          "因害怕被评判而回避建立亲密关系，减少社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在考试前与面对高难度编程作业时出现强烈焦虑与灾难化自我贬低",
+          "antecedent": [
+            "临近重要考试",
+            "面对复杂或卡住的编程任务"
+          ],
+          "core_reason": "坚持“自己先天不聪明、注定失败”的核心信念与社会成绩压力共同作用，导致对失败的灾难化预期",
+          "function": "通过过度准备与寻求安慰来暂时降低不确定性与焦虑，避免面对被证实失败的恐惧",
+          "consequence": "注意力下降、睡眠紊乱、学业效率受损，进一步强化自我怀疑"
+        },
+        {
+          "behavior": "回避与同学建立亲密关系，减少合作与深入交流",
+          "antecedent": [
+            "需要与同学合作或进行更亲近的互动",
+            "预想会被他人评判其能力不足"
+          ],
+          "core_reason": "害怕被否定与羞耻的情绪；通过读心式预设“他人看不起我”强化回避",
+          "function": "逃避潜在的负面评价与羞耻体验，短期降低焦虑",
+          "consequence": "社交孤立、支持系统薄弱，进一步加重自卑与学业压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1130
+}

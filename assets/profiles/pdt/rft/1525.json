@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "张杰",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "小学五年级",
+      "marital_status": "不适用",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未经历类似心理问题；未接受过心理治疗或咨询",
+      "language_features": "态度积极、配合度高；能清晰表达“悲伤、困惑、被拒绝感”等情绪与事件；在咨询师引导下能够识别“读心术/仓促下结论”并进行认知重构与替代性解释"
+    },
+    "main_problem": "因最好的朋友Abigail未参加自己的生日聚会而感到悲伤与被拒绝，担心她不再愿意与自己做朋友。",
+    "topic": "人际关系",
+    "core_demands": "我正在寻求咨询，因为我难以应对这些被拒绝和悲伤的感受，我想了解如何更好地管理它们。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "最好的朋友Abigail未参加我的生日聚会",
+          "conditional_assumptions": "如果重要的朋友在重要场合缺席，就说明他们不在乎我、可能不再想做朋友",
+          "compensatory_strategies": "主动与Abigail联系并表达感受；在未获明确解释时反复揣测她的想法",
+          "automatic_thoughts": "她不想和我做朋友了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "Abigail没有回复我的信息",
+          "conditional_assumptions": "如果她不回复，就代表她不关心我",
+          "compensatory_strategies": "频繁查看消息、在脑中不断推测她的意图与态度",
+          "automatic_thoughts": "她一定不在乎我了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "Abigail仅表示“无法出席”但未说明具体原因",
+          "conditional_assumptions": "如果没有给出原因，多半是我不够好或她对我不再重视",
+          "compensatory_strategies": "将注意力集中在负面线索，忽略过往关系中的积极证据与可能的其他解释",
+          "automatic_thoughts": "她可能找到新朋友，不需要我了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当Abigail不在身边时",
+          "conditional_assumptions": "如果朋友不在或缺席，就证明我对任何人都不够好",
+          "compensatory_strategies": "自我否定、情绪化并难以专注学习与活动",
+          "automatic_thoughts": "我对任何人都不够好",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友重视与接纳，维持稳定亲密的友谊",
+        "fear": "害怕被拒绝或被抛弃、关系不再被在乎",
+        "defense_goal": [
+          "通过提前揣测他人想法来降低不确定性与被拒绝的可能",
+          "通过主动沟通来确认关系的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、可能被抛弃的朋友",
+          "object_representation": "不再关心我、随时会疏离我的他者（朋友）",
+          "linking_affect": "悲伤、孤独、被拒绝感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或遭遇Abigail缺席重要场合、未回复消息或未解释原因时",
+          "interpretation": "将自身的不安全与被拒绝的恐惧理解为对方确实不在乎、要疏远自己（移情：把被弃感投射到他人动机上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "倾向以肯定句断定对方动机（如“她不在乎我”），忽略不确定性；语气笃定、结论化，难以接纳多种可能。"
+        },
+        {
+          "trigger_condition": "当想到友谊可能不稳或对方暂时不在身边时",
+          "interpretation": "将关系中的不确定转化为对自我价值的全盘否定（如“我对任何人都不够好”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与否定性的自我陈述，语气低落、带有绝对化用语；减少外向表达与求助。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因好友缺席与不回复而体验到孤独与被隔离感",
+            "在朋友不在场时强化“被拒绝”的主观体验"
+          ],
+          "outcomes": [
+            "悲伤与被拒绝感加重",
+            "注意力难以集中，学业表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我否定（“我对任何人都不够好”）",
+            "犹豫向家人表达被拒绝的感受，减少外部求助"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友不在乎自己、找到新朋友不需要自己",
+            "将不安与被拒绝感归因为对方的动机而非情境的多种可能性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意探索替代视角与认知重构",
+          "存在家庭支持资源（父母与兄弟姐妹）",
+          "过往友谊有积极证据（彼此邀请、贴心礼物、共同活动）",
+          "曾主动与Abigail沟通表达感受"
+        ],
+        "negative_force": [
+          "读心术与仓促下结论的认知偏差显著",
+          "自我价值感低落（认为“我对任何人都不够好”）",
+          "过度关注对方是否在场或回复，情绪困扰影响学习与日常专注",
+          "对向家人表达脆弱与被拒绝感犹豫，社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在朋友缺席或未回复时出现强烈悲伤与被拒绝感，并反复揣测对方想法",
+          "antecedent": [
+            "最好的朋友未参加生日聚会",
+            "朋友未回复消息",
+            "朋友不在身边"
+          ],
+          "core_reason": "受“我不够好”的核心信念与读心术/仓促下结论影响，将不确定情境解读为被拒绝与不被在乎",
+          "function": "逃避不确定与被拒绝的威胁感、试图通过揣测获得关系的确定性与安全感",
+          "consequence": "学业注意力下降与表现受影响；情绪低落与孤独感加重；与朋友关系因假设而紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1525
+}

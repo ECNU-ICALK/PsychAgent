@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "林可心",
+      "gender": "女",
+      "occupation": "未知",
+      "educational_background": "未知",
+      "marital_status": "未知",
+      "family_status": "未知",
+      "social_status": "与同事和朋友的关系因过度工作与完美主义而紧张；有少数朋友可以交流，但难以真正敞开。",
+      "medical_history": "无显著躯体疾病；未接受过与该问题相关的正式心理治疗。",
+      "language_features": "表达清晰、条理较好，能识别自身思维模式；情绪强度较高但可被引导；配合度良好、态度积极。"
+    },
+    "main_problem": "我倾向于因完美主义而过度工作，导致压力和紧张；最近在工作中把汤洒到脚上，触发了强烈的负面想法，甚至出现“想死”的极端念头。",
+    "topic": "情绪管理",
+    "core_demands": "寻求更有效的方式来管理压力与完美主义，应对类似洒汤事件时出现的极端情绪反应。",
+    "growth_experiences": [
+      "几年前为在职业上出类拔萃而开始强化完美主义与过度工作，逐渐形成“过度工作—高压力—犯错—极端情绪”的循环，影响工作与日常生活。",
+      "既往长期存在完美主义与过度工作倾向，未接受过正式心理治疗；人际关系因工作导向与高标准受到影响，休闲与放松能力下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有做到完美我才有价值",
+        "一旦犯错就说明我一无是处/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中不小心把汤洒到脚上",
+          "conditional_assumptions": "如果我犯了错误，就说明我不称职，会被否定",
+          "compensatory_strategies": "通过过度工作与设定苛刻标准尽量避免任何差错",
+          "automatic_thoughts": "我太笨了，我什么都做不好，活着没有意义/我想死",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在任务繁多、赶工期的忙碌工作阶段",
+          "conditional_assumptions": "只有把每一项都做到完美才算合格，否则就是失败",
+          "compensatory_strategies": "加班、牺牲休息，持续自我逼迫以追求零差错",
+          "automatic_thoughts": "我必须把一切做到完美，否则就会出大问题",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "收到同事的正面反馈或表扬",
+          "conditional_assumptions": "除非完全无可挑剔，外界的肯定都不算数",
+          "compensatory_strategies": "忽视积极反馈，继续加码努力以证明自己足够好",
+          "automatic_thoughts": "这些好评并不代表我真的够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到向朋友倾诉压力或寻求支持",
+          "conditional_assumptions": "如果表达压力就会给别人添麻烦、被认为软弱",
+          "compensatory_strategies": "回避自我披露，独自承受压力",
+          "automatic_thoughts": "我会成为别人的负担，还是别说了",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过出色与完美获得稳定的价值感与被认可",
+        "fear": "害怕因不完美而被批评、被拒绝，体验羞耻与失控",
+        "defense_goal": [
+          "通过过度控制与高标准避免出错与羞耻",
+          "将挫败与愤怒转向自我批评以维持对评价的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "随时可能出错、需要不断证明价值的“不够好者”",
+          "object_representation": "苛刻挑剔、随时准备否定我的评判者（上级/他人）",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "会给他人添麻烦的人",
+          "object_representation": "容易被我拖累、因而会厌烦或疏远我的他人",
+          "linking_affect": "内疚、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问或自己意识到“犯错”（如洒汤）并谈及其影响时",
+          "interpretation": "把错误等同于“我不够好”，并预期他人会因此否定自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "先共情并命名羞耻与自责，语气温和、语速放缓；以反映-澄清的方式区分“错误”与“价值”，避免直接对抗，邀请其把愤怒指向具体事件而非自我。"
+        },
+        {
+          "trigger_condition": "当咨询师提出“寻找证据、现实检验”等结构化探问时",
+          "interpretation": "体验到被考核/被要求完美，担心自己回答不够好",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "降低解释密度，转向当下体验；使用开放式问题与温和停顿，邀请其关注身体感受与情绪词汇。"
+        },
+        {
+          "trigger_condition": "当讨论“向朋友求助/表达脆弱”的话题时",
+          "interpretation": "认为一旦表达就会给别人添麻烦、被看低",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用探询式、非评判语气，运用苏格拉底式提问区分“事实”与“担心”，并鼓励做小步实验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将个人价值与“完美无错”等同，一旦失误即感到一切毫无意义",
+            "把单次失误扩大为对自我存在的全盘否定"
+          ],
+          "outcomes": [
+            "空虚与绝望感增强",
+            "出现极端想法（如“想死”）",
+            "持续高压与自我异化"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向朋友敞开，担心“麻烦别人”",
+            "人际关系因过度工作与高标准而紧张"
+          ],
+          "outcomes": [
+            "社会支持减少",
+            "压力在内部循环、释放渠道受限"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被内化的“应该做到完美”的规则束缚，体验被规则控制",
+            "对“可以不完美地存在”的自由缺乏许可感"
+          ],
+          "outcomes": [
+            "选择空间收窄、内疚与僵化增加",
+            "对失败与不确定性的恐惧加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复以“必须/应该做到完美”的自我要求评判行为",
+            "将外部评价与绩效作为唯一价值依据"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "预设朋友会被自己“麻烦”、同事会看低自己，从而避免表达",
+            "把对自我不满体验为他人的否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我不行/我做不好”",
+            "在咨询中担心自己的回答“不够好”而拘谨"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作投入、责任心强",
+          "曾获得同事的积极反馈与客观成绩",
+          "能识别并愿意讨论自身思维模式，求助动机明确",
+          "尝试过时间管理与自我照顾，具备初步自助经验",
+          "存在基础的社会支持（有几位可沟通的朋友）"
+        ],
+        "negative_force": [
+          "完美主义与过度工作维持高压状态",
+          "非黑即白、灾难化、个人化及否定正面的认知偏差",
+          "将价值与成绩/无差错捆绑，内摄“必须完美”的规则",
+          "遇错转向自责甚至自伤意念，情绪调节能力不足",
+          "害怕麻烦他人而回避求助，社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度工作与持续加班",
+          "antecedent": [
+            "繁忙工作期",
+            "面对需要“做到完美”的任务"
+          ],
+          "core_reason": "将自我价值与完美绩效捆绑，害怕失败与负面评价",
+          "function": "逃避不确定与失败感、寻求控制与认可",
+          "consequence": "工作—生活失衡、压力持续升高、人际关系紧张、难以放松"
+        },
+        {
+          "behavior": "在小失误后出现强烈情绪反应（自责、绝望、出现“想死”念头）",
+          "antecedent": [
+            "在工作中发生差错（如把汤洒到脚上）"
+          ],
+          "core_reason": "灾难化与非黑即白思维，将一次失误等同于彻底失败与无价值",
+          "function": "通过自我惩罚短期缓解对失败的焦虑与羞耻、维持控制感",
+          "consequence": "情绪剧烈波动，心理风险上升，进一步削弱表现与生活质量"
+        },
+        {
+          "behavior": "回避向朋友/同事表达压力与求助",
+          "antecedent": [
+            "感到压力大、需要支持时",
+            "想到与朋友谈及困扰"
+          ],
+          "core_reason": "读心式预设他人会被自己“麻烦”或看低自己",
+          "function": "避免被拒绝或被负面评价的可能性",
+          "consequence": "社会支持减少、压力内循环、关系进一步疏离"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1754
+}

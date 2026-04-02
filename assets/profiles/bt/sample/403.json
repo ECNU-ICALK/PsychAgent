@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "罗文",
+      "gender": "男",
+      "occupation": "社区花园中心工作人员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "父母否认科学且不信宗教",
+      "social_status": "有几位朋友但未分享工作相关焦虑；与同事关系因自我怀疑与持续求证而紧张",
+      "medical_history": "未经历类似问题；未接受其他心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、能具体描述触发情境与感受；配合度较好；态度中性；在描述时易聚焦负面线索"
+    },
+    "main_problem": "我在工作中持续感到焦虑，认为雇主觉得我工作做得不好，可能想解雇我。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为工作中的持续担忧和焦虑开始影响我的睡眠和整体身心状态。",
+    "growth_experiences": [
+      "原生家庭背景：父母否认科学且不信宗教（具体影响未描述）。",
+      "工作早期关键事件：入职几个月后，同事在工作中提出“你漏了一块”“看起来有点问题”等指正，引发来访者对自身能力的怀疑；此后在收到反馈或看到同事交谈时常担心被批评与被解雇。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/不称职的",
+        "只有做到完美并获得他人认可，我才是有价值且安全的"
+      ],
+      "special_situations": [
+        {
+          "event": "接收到工作中的指正或批评性反馈（如“你漏了一块”“看起来有点不对”）",
+          "conditional_assumptions": "如果我不是完美的、有人指出问题，就说明我整体不称职，迟早会被解雇",
+          "compensatory_strategies": "加倍工作努力、试图把所有问题都改到“零差错”，并频繁向同事寻求安慰与保证",
+          "automatic_thoughts": "我做得很差，他们会解雇我",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "看到同事之间在交谈（并未直接谈及我）",
+          "conditional_assumptions": "如果他们在私下说话，十有八九是在议论我、批评我的工作",
+          "compensatory_strategies": "紧张不安、观察他人反应并事后向同事求证以寻求外部认可",
+          "automatic_thoughts": "他们在说我表现很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "夜间就寝时回想白天的工作与反馈",
+          "conditional_assumptions": "如果我不能让所有人满意，就会被发现不足并被解雇",
+          "compensatory_strategies": "反复在脑中演练、担忧与自我批评，试图提前预防负面结果",
+          "automatic_thoughts": "明天一定会出事，他们会发现我的问题，把我开掉",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "曾被主管表扬新植物陈列",
+          "conditional_assumptions": "正面反馈只是偶然或不算数，不能证明我真的胜任",
+          "compensatory_strategies": "淡化或忽视积极证据，继续加压以防“失误”",
+          "automatic_thoughts": "那只是运气，并不能说明我表现好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在关系与工作中被认可、被看见并被稳定接纳（安全地留在岗位）",
+        "fear": "害怕被批评、被拒绝与被解雇，担心自己不被接纳或被否认价值",
+        "defense_goal": [
+          "通过过度自我监控与寻求他人保证来降低被否定的风险",
+          "淡化正向反馈以避免失望与脆弱暴露"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能被淘汰的员工",
+          "object_representation": "挑剔、带有否定性的权威或同事，可能随时解雇自己",
+          "linking_affect": "焦虑、恐惧、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、区分事实与推测时",
+          "interpretation": "将探问体验为可能的批评或否定（担心被“找茬”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用不确定、试探的语气，频繁加入“他们可能觉得……”之类的推测性表达，避免明确承认自身感受。"
+        },
+        {
+          "trigger_condition": "当咨询师强调或回看正向例证（如被主管表扬的经历）",
+          "interpretation": "将正向反馈视为偶然或不可靠，认为不能代表真实能力",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "轻描淡写正面例子，用“那只是巧合/运气”的句式淡化其意义，语气谨慎、避免情感投入。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有几位朋友但未分享工作焦虑，倾向把担心与不安保留在内心",
+            "在职场中感到被误解与不被看见"
+          ],
+          "outcomes": [
+            "持续焦虑与担忧被解雇",
+            "睡眠紊乱与自我照料困难",
+            "与同事关系紧张、连接感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "看到同事交谈即认为他们在批评自己",
+            "把不安归因于他人要解雇自己而非承认内在的恐惧"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复审视与怀疑自身能力，担心做得不够好",
+            "频繁向同事求证以获得外部认可"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收到工作反馈或看到同事交谈时，来访者通常会产生强烈焦虑与自我怀疑，并担心被解雇，导致工作表现受影响。",
+          "unique_outcome": "有一次主管明确表扬其新植物陈列，他当下感到自己有能力、做对了事情，这次体验与以往的自我否定不同。",
+          "reason": "线索：获得清晰而具体的正向反馈与认可；情境明确（完成任务后被表扬），使其暂时打破对负面结果的预测。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得主管明确表扬（新植物陈列），表明具备胜任力与可被认可的证据",
+          "愿意主动求助、尝试记录并进行现实检验",
+          "拥有几位朋友，具备潜在的社会支持资源"
+        ],
+        "negative_force": [
+          "灾难化、读心术、过度概括与否定正面等认知偏差显著",
+          "过度自我监控与持续寻求保证维持焦虑循环",
+          "只关注负面线索（心理过滤）使正向证据被忽视",
+          "睡眠受损降低复原力与耐受度",
+          "与同事关系紧张，减少了正向互动与支持获得"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作中的持续性焦虑与被解雇恐惧（伴随读心与灾难化）",
+          "antecedent": [
+            "收到工作反馈（即使是中性或小幅指正）",
+            "看到同事私下交谈",
+            "夜间就寝时回想工作表现"
+          ],
+          "core_reason": "同事的指正触发能力怀疑；在认知层面以灾难化、读心术与过度概括解释情境，形成高威胁评估。",
+          "function": "逃避被否定/被解雇的潜在威胁（通过提前警觉与担忧）；通过预警与反刍获得一种“控制感”。",
+          "consequence": "工作绩效下降、睡眠紊乱、与同事关系紧张、自我照料受影响。"
+        },
+        {
+          "behavior": "重复的求证与寻求安慰（向同事频繁确认表现）",
+          "antecedent": [
+            "收到反馈后不确定感上升",
+            "观察到同事交流且无法确定话题",
+            "在自我怀疑高涨时"
+          ],
+          "core_reason": "对自我价值的不确定与外部验证需求；担心不被接纳或被解雇。",
+          "function": "获得他人认可以暂时降低焦虑、寻求安全感与确定性。",
+          "consequence": "与同事关系紧张、依赖外部认可、焦虑维持甚至加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 403
+}

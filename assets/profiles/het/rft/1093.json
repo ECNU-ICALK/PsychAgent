@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "陈思颖",
+      "gender": "女",
+      "occupation": "服务员（咖啡馆）",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与一只猫一起生活；母亲曾是护士",
+      "social_status": "在工作中有少数泛泛之交，附近没有可倾诉的亲友与密友",
+      "medical_history": "过去未接受心理治疗，无显著躯体疾病；在高压或重大事件后曾出现类似的孤独与隔离感",
+      "language_features": "能清晰描述事件与感受，存在明显的灾难化与预测未来、过度概括等负性自动思维；自我苛责（“我应该能处理好”）；在高压话题（求职、预算）时倾向回避；能与咨询师合作并愿意尝试小目标"
+    },
+    "main_problem": "我常常觉得自己更喜欢一个人，并担心自己会继续把人推开，最终过上孤独而悲伤的生活。这种孤立感与对孤独的恐惧已存在数年，过去6个月加重。我认为在忙碌的咖啡馆工作压力以及没有亲密关系加重了这些想法。问题发展到我主动回避社交并自我隔离的程度，每天都有这种感受并出现从社交场合撤退的模式。我尝试过参加社交活动并联系朋友，但这些感受仍然持续。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些孤独与隔离感正在影响我的心理健康与整体幸福，于是寻求咨询。",
+    "growth_experiences": [
+      "在过去的高压时期或重大生活事件之后，陈思颖曾反复经历孤独与隔离感，常用加倍投入工作与避免社交来应对；此前未接受过心理咨询或治疗，未报告重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我注定会孤独终老",
+        "亲近关系终会出问题"
+      ],
+      "special_situations": [
+        {
+          "event": "浏览求职信息、尝试找新工作时",
+          "conditional_assumptions": "如果我不够资格或出现任何问题，所有努力都会白费",
+          "compensatory_strategies": "关闭招聘网站、上床睡觉并回避求职行动",
+          "automatic_thoughts": "何必呢？我不够资格；即使找到工作也会出问题。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "遭遇突发开销与财务压力，需要做预算或求助他人",
+          "conditional_assumptions": "如果需要向他人求助，就说明我是失败者、永远摆脱不了困境",
+          "compensatory_strategies": "自责并回避预算与问题解决讨论",
+          "automatic_thoughts": "我永远摆脱不了这个循环，我是个失败者。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在繁忙咖啡馆工作、缺乏亲密关系的环境下面对社交邀请或他人靠近",
+          "conditional_assumptions": "如果让他人靠近，我最终会把他们推开并变得更糟，所以保持距离更安全",
+          "compensatory_strategies": "主动回避社交、维持自我隔离与独处",
+          "automatic_thoughts": "我会一直推开别人，最后孤独而悲伤地死去。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "为应对财务困难而向父母寻求帮助，关系出现紧张",
+          "conditional_assumptions": "如果我开口求助，就会破坏关系并证明我没用",
+          "compensatory_strategies": "尽量不求助、减少沟通以避免进一步冲突",
+          "automatic_thoughts": "我让事情变得更糟，是我的错。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与建立稳定的亲密关系、获得支持与安全感",
+        "fear": "害怕亲近后关系恶化、被拒绝或受伤，担心无法掌控局面",
+        "defense_goal": [
+          "保持距离以维持安全与可控",
+          "通过回避来降低焦虑与避免可能的失败或冲突"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤独且容易把人推开的失败者",
+          "object_representation": "他人是潜在的评判者或可能带来问题与伤害的人",
+          "linking_affect": "焦虑、羞愧、无望与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要进行求职、预算或面对突发开销等高压任务时",
+          "interpretation": "认为无论怎么做都无济于事，未来必然变糟，于是为不行动寻找“合理理由”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和、共情的语气，先反映其焦虑与无力感，再以具体化提问引导其区分事实与推断，鼓励拆分任务与小步实验。"
+        },
+        {
+          "trigger_condition": "当被提醒与父母关系紧张或涉及向亲人求助的话题时",
+          "interpretation": "将关系恶化完全归因于自己的求助行为，强化自责与内疚",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "采用接纳与支持性的语气，帮助其识别多因素情境，区分个人责任与外部因素，邀请进行证据检视与更公平的自我评估。"
+        },
+        {
+          "trigger_condition": "当他人试图靠近或发出社交邀请时",
+          "interpretation": "将亲近视为必然导致受伤或冲突，因而提前撤退以自保",
+          "defense_mechanism": "回摄",
+          "defense_definition": "将原本欲对外发出的能量转而对自己，克制或放弃对他人或外界的行为冲动。",
+          "response_instruction": "保持温柔而不逼迫的语调，鼓励其识别欲望与恐惧的并存，设计可控的微接触步骤与界限练习，逐步扩大容许度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "偏好独处并主动回避社交",
+            "担心会把人推开、无法维持亲密关系",
+            "每日出现隔离与撤退模式"
+          ],
+          "outcomes": [
+            "社交回避与自我隔离",
+            "焦虑与无望感加重",
+            "睡眠与工作表现受影响"
+          ]
+        },
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "反复预想“最终会孤独而悲伤地死去”的结局"
+          ],
+          "outcomes": [
+            "预期性焦虑与绝望感",
+            "进一步回避亲密与接触"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自我苛责式语言：“我应该能处理这些开销”",
+            "将外界期待内化为自我衡量标准，导致内疚与自责"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制或放弃向外表达与寻求的冲动，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "面对社交邀请或亲近时选择自我隔离",
+            "将建立联系的自然冲动转为自我限制与撤退"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在浏览招聘信息时迅速关闭页面并上床睡觉以回避压力刺激",
+            "在预算与求职话题上绕开具体行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并进入咨询",
+          "能够识别并描述自动化思维与情绪影响",
+          "愿意尝试小步行动（设定浏览招聘的具体时间）",
+          "在工作场域仍维持基本功能并有一些同事熟人",
+          "照顾宠物为其提供一定情感支持与生活结构"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与过度概括的思维模式显著",
+          "社交回避与自我隔离持续",
+          "自我苛责与“应该”信念强",
+          "社会支持薄弱、与父母关系紧张",
+          "财务压力加重焦虑并削弱行动能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "他人靠近或发出社交邀请",
+            "在忙碌的咖啡馆工作后感到压力与疲惫",
+            "想到自己会把人推开、关系会变糟"
+          ],
+          "core_reason": "对亲密与被拒的恐惧，以及“亲近终会出问题、我注定会孤独”的核心信念与灾难化预测",
+          "function": "逃避可能的受伤与被评判，维持短期安全感与可控感",
+          "consequence": "孤立加重、孤独与无望感上升，工作与睡眠受影响，难以建立支持性关系"
+        },
+        {
+          "behavior": "在求职与预算任务上的回避与拖延",
+          "antecedent": [
+            "浏览招聘信息或准备预算",
+            "遭遇突发开销与财务压力",
+            "想到“无论做什么都没用”"
+          ],
+          "core_reason": "灾难化与预测未来、过度概括的思维导致对失败与不确定性的高度恐惧",
+          "function": "短期降低焦虑与压力、避免面对可能的失败或问题",
+          "consequence": "愧疚与焦虑加重、财务问题持续或恶化、职业发展受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1093
+}

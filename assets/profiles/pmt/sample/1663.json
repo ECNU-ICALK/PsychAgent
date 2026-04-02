@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "梅兰妮",
+      "gender": "女",
+      "occupation": "机械师",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "社交支持系统薄弱，因害怕被评判而难以建立亲密关系",
+      "medical_history": "未曾出现类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、合作度高，略显紧张；能识别并描述自身负性思维模式；态度积极"
+    },
+    "main_problem": "我觉得人们认为我因为收集昆虫瓶而很怪，这导致我感到孤立和自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "我意识到自我怀疑和孤立正在影响我的心理健康，这促使我寻求咨询。",
+    "growth_experiences": [
+      "约10年前开始收集昆虫于玻璃瓶；自此在与他人谈及该爱好时常感到被评判，逐渐回避社交与潜在友谊；偶有正向反应（如在工作中同事分享童年收集蝴蝶的兴趣并表达理解），但整体体验以自我怀疑与孤立为主。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不被社会接受的“怪人”",
+        "他人会因为我的兴趣而拒绝我"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合谈及自己的昆虫玻璃瓶收藏后，对方沉默或显得困惑",
+          "conditional_assumptions": "如果他人没有立即表现出兴趣或赞同，就说明他们在评判我“很怪”",
+          "compensatory_strategies": "回避社交、减少分享爱好，尽量不让别人知道该兴趣",
+          "automatic_thoughts": "他们一定觉得我很奇怪，会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在要参加聚会或结识新朋友之前，想到可能会谈到自己的爱好",
+          "conditional_assumptions": "如果别人知道我收集昆虫，就没人会想和我做朋友",
+          "compensatory_strategies": "取消活动计划、避免结识新朋友以规避可能的评判",
+          "automatic_thoughts": "一旦他们知道，就会疏远我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作中曾有同事对类似兴趣表达积极反应（分享童年收集蝴蝶的经历）",
+          "conditional_assumptions": "正向反馈只是个别情况，不能代表真实态度",
+          "compensatory_strategies": "轻描淡写积极经验，继续坚持负面解释",
+          "automatic_thoughts": "这些正面只是出于礼貌，不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与他人谈及爱好时，遇到对方不感兴趣或迅速转移话题",
+          "conditional_assumptions": "如果有人不感兴趣，说明所有人都会觉得我奇怪",
+          "compensatory_strategies": "将个别负面经历推广为普遍规律，以强化回避行为",
+          "automatic_thoughts": "大家都认为我很怪，没人会想和我做朋友",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与理解，能够自在地表达独特兴趣",
+        "fear": "害怕被评判、羞辱与排斥，担心因此失去关系与归属",
+        "defense_goal": [
+          "通过保持疏离与回避暴露爱好来降低被评判的风险，维持安全感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判的异类、可能被拒绝的弱势者",
+          "object_representation": "苛刻的评判者/拒绝者（社会与他人）",
+          "linking_affect": "羞耻、恐惧、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询负性信念的证据或邀请其尝试在社交中分享爱好时",
+          "interpretation": "倾向以“社会规范都不认可”来解释他人态度，将“评判者”的形象投射到他人身上，并以理性叙述取代直接体验羞耻与恐惧",
+          "defense_mechanism": "sring",
+          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平静、强调社会规范与普遍看法，减少情感用词，避免谈及羞耻或恐惧的主观感受；以概括性陈述回应提问。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期自我隔离、害怕社交与建立关系",
+            "社交支持系统薄弱，难以与人深入交流"
+          ],
+          "outcomes": [
+            "孤独感增强",
+            "自我怀疑加重",
+            "心情低落与社交回避"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将社会规范视为限制，担心因不合群被评判而克制自我表达",
+            "在社交中压抑对兴趣的分享"
+          ],
+          "outcomes": [
+            "退缩与回避增加",
+            "个体独特性被压抑",
+            "生活满意度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "频繁假定他人会认为自己“很怪”并据此撤退",
+            "面对他人沉默或中性反应时自动解释为负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈自我怀疑，在社交中高度谨慎",
+            "担心被评判而减少分享与接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人谈及昆虫瓶收藏的情境下，来访者通常会预期被评判并选择回避或迅速结束话题。",
+          "unique_outcome": "在工作中，一位同事提到自己童年收集蝴蝶，并表现出真诚兴趣；来访者当下感到被接纳与理解，体验到舒缓与轻松。",
+          "reason": "不同支持/情境：工作环境相对安全、同事表达了相似经历与积极关注，促成了被理解与接纳的体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对兴趣充满热情并能从中获得满足与快乐",
+          "曾有正向社交经验（同事的理解与共鸣）",
+          "愿意尝试不同视角与行为实验（在咨询中表达“愿意试试”）",
+          "能觉察并命名自身负性思维模式"
+        ],
+        "negative_force": [
+          "过度在意他人评价并寻求外部验证",
+          "对未来负面结果的预测倾向强",
+          "将个别负面经历过度概括、否定积极经验",
+          "社交回避与自我隔离",
+          "社交支持系统薄弱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隔离（因害怕被评判）",
+          "antecedent": [
+            "在社交场合谈及或可能谈及昆虫瓶收藏",
+            "想到他人可能得知其兴趣并进行评价",
+            "看到他人对兴趣表现出沉默/不感兴趣"
+          ],
+          "core_reason": "将个别负面或中性反应解释为普遍评判，形成“我很怪”的自我图式与灾难化预期；以社会规范为依据合理化退缩。",
+          "function": "逃避不受欢迎的结果（被评判、羞耻、被拒绝），以维持安全感与自尊",
+          "consequence": "减少社交与潜在友谊，孤独感与自我怀疑加重，整体心情受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1663
+}

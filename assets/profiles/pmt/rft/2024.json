@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "李婧",
+      "gender": "女",
+      "occupation": "本地杂货店总经理",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与骑行伙伴的关系受影响，因经常与他人比较而感到自卑；有几位朋友可交谈，但尚未向他们提及自我怀疑问题。",
+      "medical_history": "未曾接受心理治疗或咨询；无重大躯体疾病。",
+      "language_features": "态度中性；能清晰描述训练场景中的自动化思维与情绪体验；愿意探索替代性观点。"
+    },
+    "main_problem": "我相信自己永远不会在骑行项目中获得参赛资格，这种信念导致了不足感和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "让我决定寻求咨询的关键因素是意识到这些消极信念正在影响我的动力和整体心理健康。",
+    "growth_experiences": [
+      "几个月前未能达成一个个人骑行目标后，自我怀疑和不足感显著加重；当时因给自己施加很大压力以在骑行比赛中取得成功，最初的应激水平很高。",
+      "以往在竞争性情境中经常出现类似的自我怀疑和不足感；此前未接受过心理方面的治疗或咨询；无显著身体疾病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在训练中看到一群骑手从身边疾驰而过、他人表现优于自己",
+          "conditional_assumptions": "如果别人比我骑得好，就说明我不够好/不配参加比赛",
+          "compensatory_strategies": "加码训练、设定更严格的目标以试图证明自己",
+          "automatic_thoughts": "我为什么还要努力？我不如他们，我永远也拿不到参赛资格",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次开始训练前就涌现强烈焦虑，预感将再次失败",
+          "conditional_assumptions": "如果不能保证成功，那训练就没有意义；一次失败意味着我会一直失败",
+          "compensatory_strategies": "在训练中不断自我施压，试图用更严格的目标抵消失败感",
+          "automatic_thoughts": "这次又会失败，没有意义，我注定不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "几个月前未达成个人骑行目标之后对自我能力的整体评价全面下滑",
+          "conditional_assumptions": "如果在一个重要目标上失败，就说明我整体上是失败者",
+          "compensatory_strategies": "以更严苛的自我要求和训练强度来弥补被定义为失败者的恐惧",
+          "automatic_thoughts": "我就是个失败者，什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要向骑行朋友谈及自我怀疑时，担心被评判为软弱或不够能力",
+          "conditional_assumptions": "如果我暴露脆弱感，他们就会看不起我/认为我不够能干",
+          "compensatory_strategies": "保持沉默、不向朋友倾诉，以避免他人评价",
+          "automatic_thoughts": "他们会觉得我很弱、能力不行",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、值得尊重，并在骑行中被看见进步与价值",
+        "fear": "害怕被评判为无能、被比较后显得不如人，进而被轻视或疏远",
+        "defense_goal": [
+          "通过自我苛责与更严格目标来维持可控的自我形象",
+          "保持沉默，避免暴露脆弱以规避他人评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、易被定义为失败者的人",
+          "object_representation": "更优秀且可能评判自己的他人/同伴",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨与朋友分享感受或建议其寻求同伴支持时",
+          "interpretation": "来访者认为朋友会像竞争者一样评判自己为软弱、不够能力（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹豫和防御的语气表达担心被看不起，避免深入具体细节，语句中多使用“他们会觉得…”。"
+        },
+        {
+          "trigger_condition": "当咨询师指出其将一次失败泛化为整体失败，并探询训练策略的功能时",
+          "interpretation": "来访者把过度训练解释为“对自己负责”的必要之举，以抵御被视为失败者的焦虑",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性解释和“应该/必须”措辞说明为何需要更严格目标，语气坚定但回避情绪层面的探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在开始训练前感到“已被打败”，认为训练没有意义",
+            "一次失败被体验为整体失败，进而削弱生活中的乐趣与休闲感"
+          ],
+          "outcomes": [
+            "动力下降",
+            "自我怀疑增强",
+            "周末难以放松、兴趣受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被朋友评判为软弱而不敢分享内心困扰",
+            "与骑行伙伴关系因比较而受损"
+          ],
+          "outcomes": [
+            "社会支持难以获得",
+            "负性情绪维持与加重",
+            "与他人互动质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为同伴会看不起自己、把自我不够好的感受归因于他人评价",
+            "在社交中预设对方负面看法而保持沉默"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以更严格目标持续自我施压",
+            "在训练与关系中频繁自我否定和比较，限制自我表达"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友寻求支持而选择加码训练来“对付”自己",
+            "把应向外寻求的安慰与理解转化为内部自我苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有一定的骑行训练基础与过往成就（可作为证据提醒自己）",
+          "具备自我观察与表达能力，愿意尝试替代性观点",
+          "工作表现未受直接影响，生活结构相对稳定",
+          "有一定的朋友资源，存在潜在社会支持"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维倾向",
+          "与他人比较导致自我贬低",
+          "过度设定严格目标、持续自我施压",
+          "不愿向朋友表达脆弱导致支持难以获得",
+          "将一次失败过度概括为整体失败"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "训练前出现强烈焦虑与“已被打败”的感受，训练中走神或中途无法完成",
+          "antecedent": [
+            "开始训练前的情境",
+            "回想几个月前未达成的目标",
+            "看到他人骑行速度更快或表现更好"
+          ],
+          "core_reason": "对失败的灾难化认知与预测未来的负性期待，受自我标签“失败者”驱动",
+          "function": "逃避感知到的失败与评判，短期减轻焦虑",
+          "consequence": "训练质量下降、无法完成计划，进一步强化自我怀疑与失败信念"
+        },
+        {
+          "behavior": "在训练与目标设定中持续加码、设定过于严格的目标",
+          "antecedent": [
+            "一次失败或未达标后的自我否定",
+            "与更优秀同伴的比较"
+          ],
+          "core_reason": "试图通过自我苛责与更高标准来弥补“不够好”的核心信念",
+          "function": "获得短期的控制感与自我安抚（感觉在采取行动）",
+          "consequence": "压力增大、体验恶化，动机进一步下降，自我怀疑加重"
+        },
+        {
+          "behavior": "社交回避：不向朋友谈及自我怀疑与训练困扰",
+          "antecedent": [
+            "想到与朋友交流时担心被评判为软弱或不够能力",
+            "与骑行伙伴互动或想到他们的看法"
+          ],
+          "core_reason": "对他人负面评价的读心与个人化倾向，害怕脆弱暴露",
+          "function": "避免潜在的羞耻与被否定感",
+          "consequence": "社会支持难以获得、人际关系受损，孤独感与负性情绪维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2024
+}

@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "陈涛",
+      "gender": "男",
+      "occupation": "贺卡公司校对员",
+      "educational_background": "英语文学学士",
+      "marital_status": "未婚",
+      "family_status": "与父母同住；父母已婚40年",
+      "social_status": "有少数亲密朋友，但未向他们谈及自身的“毫无价值感”；因自我不足感与朋友关系有所紧张",
+      "medical_history": "未经历类似心理问题；既往未接受心理治疗；无显著躯体疾病",
+      "language_features": "态度积极"
+    },
+    "main_problem": "因为仍与父母同住而感到不够好与毫无价值，尤其在与独居的朋友相处或谈到居住情况时这种感受更强。",
+    "topic": "家庭关系",
+    "core_demands": "不断加重的“毫无价值/不够好”感受已影响自尊与整体情绪，希望通过咨询获得支持。",
+    "growth_experiences": [
+      "父母婚姻稳定已达40年，自己长期与父母同住。近期因社会对独立的期待以及朋友关于独立生活的评论而进行比较，触发并加重了自我“不足/毫无价值”的感受，尤其在社交活动或谈论居住情况后反复出现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个没用的儿子",
+        "我不够好/不值得"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友提到独立生活的评论",
+          "conditional_assumptions": "如果我不能独立居住，就说明我失败、不够好。",
+          "compensatory_strategies": "尝试理性化并对与父母同住心怀感恩，但仍回避与朋友讨论该话题。",
+          "automatic_thoughts": "我不够好，我一无是处。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与已独居的朋友相处或在社交场合谈论居住情况",
+          "conditional_assumptions": "如果我还与父母同住而朋友已经独居，就表明我不如他们。",
+          "compensatory_strategies": "社交退缩，减少与朋友和兴趣爱好的接触。",
+          "automatic_thoughts": "他们会觉得我不成熟、看不起我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "老板提出周末加班的要求",
+          "conditional_assumptions": "如果我拒绝，就会被认为不够投入，可能丢掉工作。",
+          "compensatory_strategies": "避免与老板谈界限，默认接受安排。",
+          "automatic_thoughts": "我不能说“不”，否则会出事。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到父母婚姻40年且未能度假，并联想到自己仍与父母同住",
+          "conditional_assumptions": "如果我仍与父母同住，就说明我是一个没用的儿子。",
+          "compensatory_strategies": "以感恩来合理化现状，但持续否定自身价值。",
+          "automatic_thoughts": "我是个没用的儿子。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有价值的儿子与独立的成年人",
+        "fear": "害怕被他人（朋友、上司）视为不够好、被拒绝或遭受负面后果",
+        "defense_goal": [
+          "通过顺从与回避冲突来维持安全与他人认可"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、依赖的儿子/成年人",
+          "object_representation": "他人（朋友、上司）是评判者、拒绝者",
+          "linking_affect": "羞耻、焦虑、内疚"
+        },
+        {
+          "self_representation": "需要被证明价值的人",
+          "object_representation": "父母是稳定而成功的榜样（隐含对比对象）",
+          "linking_affect": "自卑、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当老板提出周末加班或被建议设定边界时",
+          "interpretation": "对方会因我的拒绝否定我或惩罚我（移情：将内在不安投向外界评判）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免直接拒绝，用含糊委婉的表达与迎合的语气回应，尽量不触碰冲突。"
+        },
+        {
+          "trigger_condition": "当被建议向朋友表达困扰或寻求支持时",
+          "interpretation": "如果开口会给朋友添麻烦、被看轻（移情：害怕暴露脆弱导致关系受损）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“我不该麻烦别人”为由拒绝行动，语气自责，避免作出具体承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将社会对独立的期待内化为自我标准（“应该独居”）",
+            "难以设定边界，担心拒绝会带来惩罚",
+            "与父母同住引发自我价值质疑"
+          ],
+          "outcomes": [
+            "自我贬低与羞耻感",
+            "焦虑与睡眠紊乱",
+            "社交退缩、动机下降",
+            "与朋友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以社会对独立的期待作为自我价值的硬性标准（“我应该独居”）",
+            "将他人评价作为自我衡量的依据"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "避免与老板直接讨论周末加班",
+            "撤回对外联系，减少与朋友与兴趣活动（跑步、游戏）的参与"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定与担心被看轻",
+            "不愿向朋友表达困扰，担心“麻烦别人”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络（虽未主动求助）",
+          "工作能力与岗位基本稳定",
+          "主动寻求咨询支持，态度积极",
+          "能尝试用理性化与感恩的视角看待与父母同住"
+        ],
+        "negative_force": [
+          "将社会期待内摄为刚性自我标准，过度依赖外部评价",
+          "难以设定边界，回避与权威/他人直接沟通",
+          "灾难化预测后果（拒绝=失业/被否定）",
+          "社交退缩与睡眠紊乱导致功能下降",
+          "自我标签化与否定（“没用的儿子”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与老板沟通并难以说“不”",
+          "antecedent": [
+            "老板提出周末加班的请求",
+            "想到可能被视为不投入"
+          ],
+          "core_reason": "担心拒绝会被惩罚或失去工作，对负面结果的灾难化预测与外部认可依赖",
+          "function": "逃避冲突与潜在惩罚，维持他人认可",
+          "consequence": "工作-生活失衡、持续焦虑与注意力下降"
+        },
+        {
+          "behavior": "社交退缩，减少与朋友和兴趣爱好的参与",
+          "antecedent": [
+            "社交活动后或谈论居住情况的话题",
+            "与已独居的朋友相处时的比较"
+          ],
+          "core_reason": "羞耻与自我贬低（认为不如他人），担心被看轻",
+          "function": "避免暴露于评价与羞耻情境",
+          "consequence": "与朋友关系紧张、情绪与动机下降"
+        },
+        {
+          "behavior": "睡眠紊乱（入睡困难/睡眠质量下降）",
+          "antecedent": [
+            "预期周末加班与边界设定的压力",
+            "持续担忧被否定/失业的可能"
+          ],
+          "core_reason": "持续的焦虑与高唤醒，围绕自我价值与外部评价的担心",
+          "function": "虽非有意的功能，但体现过度警觉和未解决的压力维持",
+          "consequence": "白天精力与专注下降，进一步加重情绪低落与工作压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1860
+}

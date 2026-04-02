@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "李辰",
+      "gender": "男",
+      "occupation": "高中12年级学生",
+      "educational_background": "高中（12年级）",
+      "marital_status": "未婚",
+      "family_status": "有两个兄弟",
+      "social_status": "有支持性的朋友和家人，但因不足感与自我怀疑而选择疏远，当前社交受影响",
+      "medical_history": "无既往类似心理问题与治疗史；无显著躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "在我的音乐制作唱片合约告吹后，我感觉自己没有天赋，产生了自卑与自我怀疑，这些感受在我做音乐或想到行业前途时反复出现并加重。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为自我怀疑与不足感已经影响了我继续从事音乐的动力和兴趣。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没有天赋的/我不够好",
+        "我的价值取决于外在成就与认可"
+      ],
+      "special_situations": [
+        {
+          "event": "音乐制作的唱片合约告吹",
+          "conditional_assumptions": "如果我真的有才华，这种失败就不会发生；失败就等于没有天赋",
+          "compensatory_strategies": "告诉自己“只是暂时挫折”并强迫自己继续坚持，但内心持续自责",
+          "automatic_thoughts": "都是因为我不够有才华，这证明我没有天赋",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每当重新开始做音乐时，想到合约失败的经历",
+          "conditional_assumptions": "如果再次创作仍感到怀疑，就证明我不适合做音乐",
+          "compensatory_strategies": "减少与朋友家人接触、避免谈论音乐以回避被评价",
+          "automatic_thoughts": "我不适合这个行业/我不行",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "思考自己在音乐行业的未来",
+          "conditional_assumptions": "如果现在没有达成合约，将来大概率也不会成功",
+          "compensatory_strategies": "降低投入、拖延创作以避免再次失败带来的打击",
+          "automatic_thoughts": "未来也不会好转，我大概做不成了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆他人曾称赞或自己满意的作品时，被这次失败所遮蔽",
+          "conditional_assumptions": "一次大的失败可以抵消此前所有积极证据",
+          "compensatory_strategies": "否定正向反馈，认为那些不算数",
+          "automatic_thoughts": "那些成绩不重要，说明不了什么",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定自己的才华，继续在音乐道路上被看见与支持",
+        "fear": "害怕因失败被贬低、被拒绝与被看轻",
+        "defense_goal": [
+          "通过自我隔离与降低表达来避免外界评判带来的伤害",
+          "以自我批评与自责维持对挫败的控制感、减少进一步失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "我是一个失败/没有天赋的人",
+          "object_representation": "他人是苛刻的评判者，随时可能看低和否定我",
+          "linking_affect": "自卑、失望、焦虑"
+        },
+        {
+          "self_representation": "渴望被认可的创作者",
+          "object_representation": "行业/权威是不可掌控、容易拒绝我的存在",
+          "linking_affect": "不安、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾和肯定以往的成就与被赞许的时刻",
+          "interpretation": "觉得这些积极证据“现在不重要/不算数”，担心被要求忽视现实的失败",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "语气平淡，淡化积极事件的重要性，使用“没什么用”“不代表什么”等表述，回避表达自豪与喜悦。"
+        },
+        {
+          "trigger_condition": "当讨论是否向朋友或家人表达当下的自我怀疑与低落",
+          "interpretation": "认为对方会看低自己或不理解（将自己的担忧归于他人的想法）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们会觉得我不行”之类的句式，语气犹疑，表达退缩、不愿尝试。"
+        },
+        {
+          "trigger_condition": "当谈到合约失败与能力之间的关系时",
+          "interpretation": "将失败完全归因于自身能力不足，把挫败转向自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "强调“都是我的问题/我不够好”，使用绝对化用语，自我贬低，忽视情境与外因。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "合约告吹后质疑音乐道路与自我价值",
+            "对未来失去方向感，动力与兴趣下降",
+            "日常作息与自我照料被打乱"
+          ],
+          "outcomes": [
+            "动机不足与拖延",
+            "情绪低落与自我怀疑加重",
+            "生活规律紊乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "主动与朋友家人隔离，难以分享真实感受",
+            "担心被看低而回避求助"
+          ],
+          "outcomes": [
+            "人际疏离与支持减少",
+            "负性情绪维持与加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "当被邀请回顾正面成就时，迅速将注意力转回失败事件",
+            "用“那些不重要/不代表什么”规避与积极体验的直接接触"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "想要获得支持却选择不联系朋友家人",
+            "把对他人的求助冲动压回去，独自承受压力与自责"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "反复用“我不行/没有天赋”苛责自己",
+            "在会谈中谨慎自责，难以允许自身的积极与价值感浮现"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在着手创作音乐或想到在行业中的未来时，来访者通常会陷入强烈的自我怀疑，进而回避创作并否定自己。",
+          "unique_outcome": "在几次完成作品后的当下，来访者收到他人对其音乐的称赞或对作品产生自豪与满意感，短暂恢复了目标感与被认可的体验。",
+          "reason": "不同支持/证据：来自他人的积极反馈与自己对作品品质的认可，使负性信念暂时减弱、注意力转向能力与努力。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人",
+          "曾获得外界称赞与自我认可的音乐经历",
+          "愿意尝试记录积极时刻并重建作息",
+          "主动寻求心理咨询，具备改变意愿"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括，将一次失败等同于“无才”",
+          "否定正向证据并对未来作消极预测",
+          "社交回避与自我隔离，害怕被评判",
+          "自我照料不足（睡眠、饮食紊乱）",
+          "创作动机下降并回避任务"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "想到要与朋友家人谈论自我怀疑",
+            "在合约失败后面对社交互动"
+          ],
+          "core_reason": "将失败个体化、担心被看低与否定，产生羞耻与防御",
+          "function": "逃避潜在的负面评价与羞耻感",
+          "consequence": "人际关系受损、支持减少、孤独感增强"
+        },
+        {
+          "behavior": "对音乐创作的回避与动力明显下降",
+          "antecedent": [
+            "着手创作时想起合约失败",
+            "思考在音乐行业的未来"
+          ],
+          "core_reason": "过度概括与情绪化推理强化“我不行”的信念，导致挫败感",
+          "function": "短时降低焦虑与失败感，避免再受打击",
+          "consequence": "作品产出减少、学业受影响、效能感与自尊下降"
+        },
+        {
+          "behavior": "自我照料不足（跳过进餐、睡眠不足）",
+          "antecedent": [
+            "情绪低落与自我怀疑加剧时",
+            "日常作息被打乱"
+          ],
+          "core_reason": "低自我价值感与无力感导致对自我照顾的忽视",
+          "function": "通过麻木与撤退减少痛苦体验",
+          "consequence": "身体状态下滑，情绪与认知功能进一步恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 420
+}

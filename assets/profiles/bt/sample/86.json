@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "林可柔",
+      "gender": "女",
+      "occupation": "兽医",
+      "educational_background": "兽医学博士（DVM）",
+      "marital_status": "单身",
+      "family_status": "独居，养有3只狗和2只猫",
+      "social_status": "与朋友关系因频繁倾诉清洁负担而受到一定影响；拥有支持性的朋友圈，但他们对其清洁相关的痛苦程度理解有限",
+      "medical_history": "无重大躯体疾病史；未接受过其他心理问题的治疗；此前未出现类似宠物相关问题",
+      "language_features": "态度积极，表达清晰，能自我反思，配合度高"
+    },
+    "main_problem": "对必须清理宠物制造的杂乱感到持续的挫败与怨怼。",
+    "topic": "情绪管理",
+    "core_demands": "持续的挫败与怨怼影响心理健康与整体幸福感，期望获得支持与指导以改善。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法忍受混乱无序的居家环境"
+      ],
+      "special_situations": [
+        {
+          "event": "下班回家看到因宠物导致的家里凌乱",
+          "conditional_assumptions": "如果家里很乱，就必须立刻清理，否则我会一直很痛苦",
+          "compensatory_strategies": "制定严格清洁计划与组织系统，回家后立即投入清洁",
+          "automatic_thoughts": "又是一团糟，我受够了，必须马上把它全部收拾干净。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "领养第二只猫后，家务与杂乱明显增多",
+          "conditional_assumptions": "如果宠物增加使家更乱，说明我做出了错误选择并且无法管理好家庭环境",
+          "compensatory_strategies": "强化家规、增加清洁频率，减少自发的宠物互动以降低混乱",
+          "automatic_thoughts": "我不该再养第二只猫，这只会让一切更糟。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友交流时谈到清洁负担导致关系紧张",
+          "conditional_assumptions": "如果他们不了解我的困扰，就会厌烦或疏远我",
+          "compensatory_strategies": "频繁向朋友倾诉以寻求认同，同时减少其他社交话题",
+          "automatic_thoughts": "他们可能觉得我太爱抱怨了。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "下班前想到回家将面对一屋子清理任务",
+          "conditional_assumptions": "如果每天都要清理，那我的生活会一直被压垮，没有改善空间",
+          "compensatory_strategies": "在心里预演清洁流程、加快节奏以尽快完成",
+          "automatic_thoughts": "回家又会很糟，我永远摆脱不了这些清理。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望既享受与宠物的亲密与陪伴，又维持可控、整洁的居家环境",
+        "fear": "害怕失去掌控，被家庭杂乱与照料任务压垮",
+        "defense_goal": [
+          "通过严格的清洁规则与组织系统保持秩序与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "尽责但被杂乱压垮的照料者",
+          "object_representation": "需要照顾且制造混乱的依赖对象（宠物）",
+          "linking_affect": "爱与温暖交织下的挫败、怨怼"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨清洁规则或建议调整安排时",
+          "interpretation": "将咨询师的探索理解为对自己管理能力的评判，需要用计划证明自己能掌控",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以条理化、计划化的语气回应，强调规则与步骤，降低情绪表达强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "清洁任务占据大量时间与精力，回家后被杂乱与清洁所束缚",
+            "自我照料与休闲被压缩",
+            "与朋友的互动受限于反复倾诉清洁压力"
+          ],
+          "outcomes": [
+            "挫败与怨怼情绪加重",
+            "日常生活满意度下降",
+            "人际关系紧张"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "下班回到因宠物造成的凌乱家中时，来访者通常会被挫败与怨怼情绪淹没，并花费大量时间立即清洁。",
+          "unique_outcome": "在周末拥有较多空闲时，林可柔先与宠物玩耍和拥抱，体验到快乐与放松，没有立刻被清洁任务压垮，随后再处理家务时情绪更可承受。",
+          "reason": "线索：由于周末时间更充裕、先安排愉快的宠物互动并把注意力放在积极体验上，因此这次负面情绪强度降低、未被清洁任务立即压垮。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对宠物有强烈的爱与陪伴体验（频繁获得快乐与放松）",
+          "具备执行力与组织能力（曾实施严格清洁与整理系统）",
+          "拥有支持性的朋友网络（可寻求情感支持）",
+          "职业功能稳定（兽医工作表现未受影响）"
+        ],
+        "negative_force": [
+          "心理过滤与否定积极，注意力偏向杂乱与负面体验",
+          "对整洁的高要求与对混乱的低耐受，导致情绪反应强烈",
+          "清洁任务占据时间与精力，压缩自我照料与休闲",
+          "社交中反复倾诉导致关系紧张、支持感下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "面对宠物制造的凌乱与清洁任务时出现强烈的挫败与怨怼情绪",
+          "antecedent": [
+            "下班回家看到屋内因宠物造成的杂乱",
+            "领养第二只猫后清洁频率和负担增加",
+            "想到回家将面对一屋子清理任务"
+          ],
+          "core_reason": "对整洁的高标准与对混乱的低耐受，加之认知偏差（心理过滤、否定积极）使其将注意力集中于负面，从而被清洁任务感到压垮",
+          "function": "逃避不受欢迎的事物并迅速恢复控制感（通过立即清洁与强化规则）",
+          "consequence": "每日感到显著痛苦，自我照料与日常满意度下降，与朋友关系受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 86
+}

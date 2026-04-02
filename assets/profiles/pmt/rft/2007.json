@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈可怡",
+      "gender": "女",
+      "occupation": "大学生",
+      "educational_background": "大学一年级",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "未曾接受心理治疗，无重大躯体疾病史",
+      "language_features": "未提及"
+    },
+    "main_problem": "我在大一的文学课考试中不及格，由于对可能不得不退学的想法感到不堪重负。",
+    "topic": "学业压力",
+    "core_demands": "对失败与退学的恐惧让我难以独自承受，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不配在这里",
+        "我没有前途"
+      ],
+      "special_situations": [
+        {
+          "event": "收到文学课考试不及格的成绩",
+          "conditional_assumptions": "如果一次考试失败，就说明我不适合读大学、我不够聪明",
+          "compensatory_strategies": "加倍学习以证明自己，同时减少社交以避免被评价",
+          "automatic_thoughts": "我可能不得不退学了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "面对学业挑战或收到老师/课程的表现反馈",
+          "conditional_assumptions": "如果不能持续表现优异，就等于彻底失败",
+          "compensatory_strategies": "过度担忧与自我监控、回避社交",
+          "automatic_thoughts": "一次失败意味着以后我都会失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "进入大学后压力与要求显著升高的过渡期",
+          "conditional_assumptions": "如果我不能立刻很好适应大学节奏，就说明我不够好、不配在这里",
+          "compensatory_strategies": "强迫自己更努力学习、试图达到完美",
+          "automatic_thoughts": "我不够聪明，可能无法应付更难的课程",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在完成某次作业时开始恐慌",
+          "conditional_assumptions": "如果这次作业做不好，就证明我整体学业能力不足",
+          "compensatory_strategies": "陷入过度担忧、减少与朋友互动",
+          "automatic_thoughts": "我会再次失败，情况只会越来越糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、足够好，能稳稳地留在大学并完成学业",
+        "fear": "害怕失败导致被否定、被视为不够好，从而失去未来与价值感",
+        "defense_goal": [
+          "通过保持高标准与追求完美来避免被否定",
+          "减少社交来降低被他人评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、随时可能失败的学生",
+          "object_representation": "严苛的评判者（大学环境/他人/评价体系）",
+          "linking_affect": "焦虑、羞耻、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问或面对“失败是否能决定整体能力”的讨论与证据检视时",
+          "interpretation": "倾向以理性分析与抽象化来与情绪保持距离，避免被不堪体验淹没",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和、共情与验证感受，使用开放式问题引导具体化体验，鼓励同时承认理性与情绪两方面，避免争辩与评判。"
+        },
+        {
+          "trigger_condition": "当面临他人反馈或可能的评价（考试成绩、作业批改、同伴讨论）",
+          "interpretation": "将他人与环境视为“全好或全坏”的评判者，认为自己一旦不够好就会被完全否定",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用温和探询与反映，邀请辨识灰度与复杂性，鼓励举例支持多维评价，避免强化二元化语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次失败视为“没有前途”的证据",
+            "对未来感到绝望"
+          ],
+          "outcomes": [
+            "焦虑与无望感加重",
+            "学业动力下降",
+            "睡眠与饮食紊乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕失败和退学而回避与朋友互动",
+            "认为他人难以理解自己的困境"
+          ],
+          "outcomes": [
+            "社交退缩与孤立感增强",
+            "焦虑持续并自我强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在对话中反复以“我不够聪明/不配”自我苛责",
+            "过度关注自身表现是否达标，担心被他人评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "减少与朋友接触、把恐惧与压力向内压抑并独自承受",
+            "在压力下更少求助，转而自我责备与内耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有一定的理性反思能力（可区分理性与情绪）",
+          "愿意寻求专业帮助并尝试新策略（记日志、重构思维）",
+          "拥有一定的社会支持（朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白等认知偏差显著",
+          "过度预测最坏结果（跳结论）",
+          "社交回避导致支持减少与负循环",
+          "焦虑导致睡眠与饮食紊乱、进一步损害功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与学业相关的灾难化思维与强烈焦虑",
+          "antecedent": [
+            "收到考试不及格的成绩",
+            "面对学业挑战或作业/考试反馈",
+            "思考大学过渡与更高难度课程"
+          ],
+          "core_reason": "对失败的过度概括与非黑即白评价，担心被否定与失去未来（大学过渡压力加剧）",
+          "function": "逃避被评价与失败的威胁，获得暂时的控制感与安全感",
+          "consequence": "持续焦虑与无望感，睡眠和饮食紊乱，学业表现受影响"
+        },
+        {
+          "behavior": "社交回避（减少与朋友互动）",
+          "antecedent": [
+            "在收到负面学业反馈后",
+            "预期他人会评价自己的失败",
+            "对再次失败的担忧加剧时"
+          ],
+          "core_reason": "害怕暴露“无能/不够好”的自我表象，避免被他人否定",
+          "function": "避免外界评价与情绪触发，降低即时焦虑",
+          "consequence": "孤立感上升，支持系统削弱，焦虑与绝望进一步加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2007
+}

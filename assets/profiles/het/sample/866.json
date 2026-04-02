@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈航",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友可倾诉，但他们可能不完全理解通勤对其健康的影响",
+      "medical_history": "既往无类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、条理尚可；整体态度消极且持怀疑；能配合探索但期望较低"
+    },
+    "main_problem": "每日长途通勤使我感到不堪重负，导致我在休息日过度睡懒觉，从而“毁掉”假期。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为注意到这一模式对我的整体幸福感和日常作息产生了负面影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法摆脱通勤带来的困境",
+        "我的时间被浪费，生活像被按下暂停键"
+      ],
+      "special_situations": [
+        {
+          "event": "工作地点搬迁后，通勤时间增至每程约一小时且交通拥堵",
+          "conditional_assumptions": "如果每天必须花大量时间通勤，我的生活就被浪费且会变得痛苦",
+          "compensatory_strategies": "在休息日通过睡懒觉来补偿精力、逃避耗能的活动",
+          "automatic_thoughts": "这太糟糕了，通勤让我的生活变得痛苦",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "休息日到来时，因通勤导致的疲惫而选择长时间卧床睡懒觉",
+          "conditional_assumptions": "只要我感觉毫无精力，除了睡觉没有其他恢复方式",
+          "compensatory_strategies": "减少活动与外出，整天躺床以避免耗能",
+          "automatic_thoughts": "我感觉很累，所以我什么也做不了，只能一直睡",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "每天上班前或在路上提前预想到长途通勤",
+          "conditional_assumptions": "如果我每天都要这样通勤，一整天都会被毁且无法改善",
+          "compensatory_strategies": "在心理上预先退缩，减少与家人互动、保持疏离以避免冲突",
+          "automatic_thoughts": "每天都这样，根本没有出路",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "到达单位时已极度疲惫，工作表现受影响",
+          "conditional_assumptions": "一旦在工作前就很累，我就无法胜任当天的工作",
+          "compensatory_strategies": "仅勉强完成任务，降低投入以保存体力",
+          "automatic_thoughts": "我撑不下去，今天又会很糟",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望掌控时间与生活节奏，获得放松与自由",
+        "fear": "害怕被通勤与外部要求束缚，长期筋疲力尽并使关系与工作受损",
+        "defense_goal": [
+          "通过回避活动与自我隔离（睡懒觉、减少互动）来维持能量与暂时安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "疲惫、被困住而不被理解的个体",
+          "object_representation": "不理解其困境的家人/他者",
+          "linking_affect": "烦躁、无助、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出探索负性思维或尝试小改变（如选择有声书/播客）",
+          "interpretation": "认为这些尝试不会有用，改变几乎不可能（移情：将外部建议视为徒劳）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、共情的语气回应，肯定其疲惫与怀疑；避免争辩，邀请其选择一个具体、可行的小步骤并记录体验，下一次再评估。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感觉被长途通勤束缚、没有出路",
+            "认为生活节奏被外部要求控制"
+          ],
+          "outcomes": [
+            "挫败感与疲惫",
+            "易怒并减少与家人互动",
+            "回避休闲活动（睡懒觉）"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "每分钟开车都像在浪费",
+            "“生活被暂停”的主观体验"
+          ],
+          "outcomes": [
+            "消极情绪与动机下降",
+            "工作表现受影响",
+            "休息质量下降、内疚感上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论改变时反复表示“我怀疑这是否有用”“不会有大变化”",
+            "对尝试持低期望、谨慎接受（“我不抱太大希望”）"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "休息日将精力转向对自己（长时间卧床睡觉），而非主动寻求外部支持或改变通勤体验",
+            "在咨询中更倾向于内收不适，而非讨论可行的外部调整"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试小改变（如在通勤中听有声书/播客）",
+          "主动寻求心理咨询，意识到问题对生活的负面影响",
+          "拥有一定的社会支持（有几位亲密朋友可倾诉）"
+        ],
+        "negative_force": [
+          "长途通勤的客观负担（每程约一小时、交通拥堵）",
+          "灾难化、非黑即白、过度概括等负性认知模式持续激活",
+          "以睡懒觉作为主要应对，形成疲惫—卧床—内疚的恶性循环",
+          "对改变持强烈怀疑，外部控制感增强（感觉“没有出路”）",
+          "因疲惫而易怒，影响家庭关系与工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "休息日过度睡懒觉/长时间卧床",
+          "antecedent": [
+            "休息日到来",
+            "因每日长途通勤导致的极度疲惫与“没有精力”感"
+          ],
+          "core_reason": "情绪化推理与能量保存倾向：感觉很累就认为只能通过睡觉恢复",
+          "function": "逃避不受欢迎的活动与耗能，短期缓解疲惫",
+          "consequence": "加剧倦怠与内疚感，休息质量下降，生活满足感降低"
+        },
+        {
+          "behavior": "通勤过程中及其前的灾难化与负性预期（持续抱怨与恐惧）",
+          "antecedent": [
+            "工作地点搬迁导致通勤时间延长",
+            "上班前或通勤途中想到一小时车程与拥堵"
+          ],
+          "core_reason": "灾难化、非黑即白与过度概括的认知模式将通勤视为“可怕且无出路”",
+          "function": "通过负性预期为回避与低投入行为提供心理辩护，并试图获得对情绪的控制感",
+          "consequence": "工作前已消耗大量心理能量，导致工作表现下降并进一步加重疲惫与挫败"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 866
+}

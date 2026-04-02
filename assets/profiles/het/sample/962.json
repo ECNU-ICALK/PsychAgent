@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "何雅婷",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "喜欢与家人外出用餐，但因焦虑与挫败在家庭外出时产生紧张",
+      "social_status": "社交生活受影响；有家人可倾诉但他们不完全理解其焦虑深度",
+      "medical_history": "无重大躯体疾病；无既往心理咨询或治疗经历；此前未出现与外出用餐相关的类似问题",
+      "language_features": "表达清晰，能具体描述思维模式、身体感受与情绪；配合度高、态度积极；逻辑性良好；语速与言语流畅度未提及"
+    },
+    "main_problem": "我经常认为每次去某家餐馆他们都会把我的订单弄错，这让我感到挫败和焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "持续的焦虑与挫败感显著影响了我的生活质量和对社交活动的享受，因此希望通过咨询减少用餐相关的焦虑，重新享受与家人外出用餐与社交。",
+    "growth_experiences": [
+      "几个月前在一间特定餐馆连续多次被弄错订单，起初的压力为中等，但逐渐升级为普遍的外出用餐焦虑与回避；我尝试和工作人员沟通、改变点餐方式，但问题在我看来仍持续；此后我开始避免这家餐馆并对外出用餐整体感到紧张，导致与家人外出时出现误解和紧张；尽管偶尔也有用餐顺利的经历，但这些正面经验难以在我的记忆中保留下来。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "他们永远不会把我的订单弄对",
+        "外出用餐总会出现问题"
+      ],
+      "special_situations": [
+        {
+          "event": "上周末计划去一家新餐馆准备外出用餐",
+          "conditional_assumptions": "如果餐馆把订单弄错，整次外出就会被毁掉，我会非常焦虑和沮丧",
+          "compensatory_strategies": "建议在家吃饭，直接回避外出用餐",
+          "automatic_thoughts": "他们会把我的订单弄错，这会毁掉一切",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次考虑外出用餐，尤其想到那家曾多次出错的餐馆",
+          "conditional_assumptions": "过去连续几次被弄错意味着以后也会继续发生",
+          "compensatory_strategies": "避免那家餐馆，并广泛减少外出用餐",
+          "automatic_thoughts": "每一次都会出错",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想以前订单被弄错的经历时，只关注负面事件而忽略少数顺利用餐",
+          "conditional_assumptions": "正面经验不值得参考，只有出错的经历才说明问题",
+          "compensatory_strategies": "持续担忧、在脑中反复重播负面经历",
+          "automatic_thoughts": "好的经历不代表什么，问题总会发生",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "尚未点餐或缺乏具体信息时就确信服务员会再次出错",
+          "conditional_assumptions": "必须预先做好最坏打算以避免被失误打击",
+          "compensatory_strategies": "提前改变点餐、与员工多次沟通以试图控制结果",
+          "automatic_thoughts": "他们这次也会弄错",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望轻松、可预测且被妥善对待的用餐体验，并与家人愉快相处",
+        "fear": "害怕外界不可控的失误破坏体验与家庭氛围，引发强烈焦虑与挫败",
+        "defense_goal": [
+          "通过回避外出用餐与预先控制细节来降低不确定性与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "紧张、易受外界出错影响的用餐者",
+          "object_representation": "不可靠、容易出错的餐馆/服务人员",
+          "linking_affect": "焦虑、挫败、紧张"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "家人不完全理解其焦虑的深度",
+            "家庭外出时因其紧张与易怒产生误解与张力",
+            "因焦虑而减少社交与外出用餐"
+          ],
+          "outcomes": [
+            "主观孤立感增加",
+            "回避扩大，生活质量下降",
+            "焦虑和紧张在社交场合泛化"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意改变思维模式并尝试现实检验",
+          "与家人保持沟通，虽理解有限但仍有一定支持",
+          "客观上存在几次用餐顺利的经历作为反证",
+          "曾主动与餐馆员工沟通并调整点餐方式，具备问题解决意愿"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、黑白思维与预测未来等认知扭曲维持焦虑",
+          "对正面经验的忽视与否定加剧负面期待",
+          "预期性焦虑伴随心率加快与强烈紧张感",
+          "回避行为导致社交与家庭外出减少、生活质量下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避外出用餐",
+          "antecedent": [
+            "想到要外出用餐",
+            "计划前往那家曾多次出错的餐馆",
+            "家人提出外出聚餐的建议"
+          ],
+          "core_reason": "源于几次连续被弄错订单的负面经验，形成“总会出错”的灾难化与过度概括预测",
+          "function": "逃避潜在失误与不适情绪以短期降低焦虑",
+          "consequence": "社交生活与饮食习惯改变，家庭外出减少并产生紧张，整体生活质量下降"
+        },
+        {
+          "behavior": "用餐相关的预期性焦虑与躯体反应（心率加快、紧张、惶恐、易怒）",
+          "antecedent": [
+            "考虑要去餐馆或开始计划外出用餐",
+            "回想过去订单被弄错的经历",
+            "临近外出用餐的时刻"
+          ],
+          "core_reason": "对未来必然出错的预测与对负面经历的心理过滤，导致情绪化推理与警觉加剧",
+          "function": "通过提高警觉与担忧来试图控制不确定性（但实际强化焦虑）",
+          "consequence": "当下体验与与家人相处的愉悦度下降，易怒增加并引发误解与张力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 962
+}

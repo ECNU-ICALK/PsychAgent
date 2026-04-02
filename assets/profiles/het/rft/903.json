@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "教堂食物救济处志愿者",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚（同性婚姻）",
+      "family_status": "与丈夫共同生活，有3个在世的孩子",
+      "social_status": "志愿服务未受影响；与邻居关系因内在比较而紧张；拥有支持性的丈夫，但未与其分享这类自卑感受。",
+      "medical_history": "无显著躯体疾病；未经历类似问题；未接受过其他心理治疗或咨询。",
+      "language_features": "态度中性"
+    },
+    "main_problem": "我觉得自己引以为傲的向日葵与邻居的相比不够好。这种比较让我感到自我不足并影响自尊心。",
+    "topic": "情绪管理",
+    "core_demands": "因比较导致的持续自卑感和低自尊促使我寻求咨询，以处理这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不如别人"
+      ],
+      "special_situations": [
+        {
+          "event": "在社区的园艺比赛中看到邻居的向日葵更为鲜艳与有活力",
+          "conditional_assumptions": "如果我的向日葵不如邻居的鲜艳，就证明我不够好/我失败了",
+          "compensatory_strategies": "努力避免比较、试图只关注自己花的积极方面",
+          "automatic_thoughts": "我的花不如人，所以我不行。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每次在院子里看到邻居的向日葵",
+          "conditional_assumptions": "我的价值取决于作品是否比他人更好",
+          "compensatory_strategies": "减少与邻居接触、回避社交以避免被比较",
+          "automatic_thoughts": "他们的花更好，我的优点不值一提。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "进行园艺活动时打理自己的向日葵",
+          "conditional_assumptions": "如果我不是最好的园艺者，就说明我不擅长园艺",
+          "compensatory_strategies": "把注意力放在缺点上、反复自我检视错误",
+          "automatic_thoughts": "我一定做错了，也许我根本不擅长园艺。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "从教会朋友处收到对自己向日葵的称赞",
+          "conditional_assumptions": "除非我的花比邻居的更好，否则任何称赞都不算数",
+          "compensatory_strategies": "贬低正面反馈、继续与他人比较",
+          "automatic_thoughts": "这些称赞不代表我的花够好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见自己的努力与美感",
+        "fear": "害怕被比较后被贬低、感到羞耻",
+        "defense_goal": [
+          "通过回避与邻居接触来降低被评判的风险",
+          "用合理化解释差异以缓解焦虑",
+          "不向配偶表达自卑感以避免尴尬与不被理解"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的比较者/自我贬低者",
+          "object_representation": "更优越且潜在评判者的邻居",
+          "linking_affect": "羞耻、焦虑、低落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及邻居的花更鲜艳或出现比较话题时",
+          "interpretation": "将邻居体验为会评判自己价值的人，从而感到自己不够好",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用解释性、理性语气，给出诸如“他们可能用更好的土或肥料”之类的理由，淡化情绪讨论。"
+        },
+        {
+          "trigger_condition": "当被询问是否与丈夫分享自卑感受时",
+          "interpretation": "担心表达这些感受会显得可笑或被轻视",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "轻描淡写地回避深入情感表达，用简短句式表示“我还没说”，保持克制的语气。"
+        },
+        {
+          "trigger_condition": "当被鼓励关注自己向日葵的积极方面时",
+          "interpretation": "认为积极反馈不能改变“我不够好”的事实",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "转向客观描述特征或技术细节，避免触及自尊的情感层面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与邻居交流，原本常聊天如今回避",
+            "未将自卑感受与支持性的丈夫分享"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "情绪低落",
+            "自尊受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对曾经热爱的园艺产生畏惧与厌倦",
+            "将注意力从过程转向结果与比较，失去个人满足感"
+          ],
+          "outcomes": [
+            "兴趣与愉悦感下降",
+            "生活满意度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "在谈及感受时转而讨论技术性原因（如土壤、肥料），减少直接触碰羞耻与自卑的情绪",
+            "以理性解释来降低情绪强度"
+          ]
+        },
+        {
+          "mode": "压抑",
+          "definition": "个体抑制情感的流露与体验，避免其进入意识或表达出来",
+          "manifestations": [
+            "没有把自卑感受告诉丈夫",
+            "在会谈中用“我觉得这有点可笑”来压低表达的强度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到邻居的向日葵或进行园艺时，来访者通常会进行比较并产生自卑与低自尊，继而心情低落并回避与邻居互动。",
+          "unique_outcome": "在教堂食物救济处做志愿服务时，他没有像往常那样陷入比较与自我贬低，而是投入于帮助他人的过程，心情更稳定、体验更充实。",
+          "reason": "线索：由于助人活动带来明确的目标与意义、注意力转向他人以及环境支持，使得这次较少出现比较与自我否定。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶",
+          "志愿服务提供积极投入与意义体验，能中断消极思维",
+          "能觉察并尝试关注向日葵的积极方面",
+          "愿意寻求心理咨询以改变"
+        ],
+        "negative_force": [
+          "频繁进行与他人的比较",
+          "非黑即白思维与心理过滤",
+          "否定正面反馈",
+          "自我价值过度依赖外部评价",
+          "回避与邻居接触导致关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续与邻居的向日葵进行比较并自我贬低",
+          "antecedent": [
+            "看到邻居的向日葵",
+            "参与园艺活动",
+            "社区园艺比赛"
+          ],
+          "core_reason": "以比较作为自我价值评估标准，伴随非黑即白、心理过滤与否定正面等认知偏差",
+          "function": "逃避被评判与羞耻的感受，试图通过自我批评获得控制感",
+          "consequence": "自尊降低、情绪低落，园艺乐趣丧失，日常心境受影响"
+        },
+        {
+          "behavior": "回避与邻居接触",
+          "antecedent": [
+            "在院子里碰到邻居",
+            "想到与邻居交流",
+            "比较念头出现时"
+          ],
+          "core_reason": "担心被比较与被贬低，引发羞耻与焦虑",
+          "function": "逃避不受欢迎的情感与潜在社交不适",
+          "consequence": "人际关系紧张，社交互动减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 903
+}

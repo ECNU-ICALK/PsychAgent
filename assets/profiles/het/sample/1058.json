@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "59",
+      "name": "苏珊",
+      "gender": "女性",
+      "occupation": "短片编剧",
+      "educational_background": "电影学学位",
+      "marital_status": "单身",
+      "family_status": "独立居住，与父母和兄弟姐妹关系亲近",
+      "social_status": "与朋友的关系因担心被评判而出现紧张与回避",
+      "medical_history": "无重大躯体疾病",
+      "language_features": "表达清晰、逻辑性较强，能够描述自动化思维与身体感受，配合度高；情绪焦虑，倾向灾难化、读心术与过度概括"
+    },
+    "main_problem": "我最近在Comic Con上向一些朋友坦白自己是女同性恋，她们最初的沉默让我相信她们现在恨我并认为我是不道德的人，这让我非常痛苦和担忧。",
+    "topic": "人际关系",
+    "core_demands": "被评判的恐惧与对朋友看法的持续担忧正在影响我的心理健康，因此我来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的评价",
+        "展现真实的自己会被拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "在Comic Con上向朋友出柜后，她们最初保持沉默",
+          "conditional_assumptions": "如果他人在我表露重要身份后沉默，就意味着他们不认同甚至厌恶我",
+          "compensatory_strategies": "回避与朋友进一步交流，反复预演最坏情景以自我保护",
+          "automatic_thoughts": "她们一定讨厌我，觉得我不道德",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "之后在社交场合与这些朋友见面或想到要与她们沟通",
+          "conditional_assumptions": "如果他们不立即表达支持，就说明他们最终会疏远我",
+          "compensatory_strategies": "主动回避接触，推迟或逃避开启话题",
+          "automatic_thoughts": "我会失去所有朋友",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想以往朋友曾给予支持的经历与这次的沉默形成对照",
+          "conditional_assumptions": "只有立即、明确的正面回应才算支持，否则就是不接受我",
+          "compensatory_strategies": "忽略以往积极证据，强化对沉默的负面解读",
+          "automatic_thoughts": "她们这次沉默就说明不支持我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在创作短片时被关于朋友看法的念头打断，难以专注",
+          "conditional_assumptions": "他人对我的评价决定我的价值与安全感",
+          "compensatory_strategies": "反复思考他人观点、寻求确定性而非投入当下任务",
+          "automatic_thoughts": "如果他们看不起我，我就一无是处，工作也做不好",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望以真实自我被接纳并维持稳定的友谊",
+        "fear": "害怕被评判和羞耻，最终被拒绝与抛弃",
+        "defense_goal": [
+          "通过回避接触与预设最坏情景来减少被拒绝的风险",
+          "以理性分析替代直接接触以控制不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易被评判的局外者",
+          "object_representation": "冷漠的审判者/道德裁判者（朋友）",
+          "linking_affect": "恐惧、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友在出柜后保持沉默或未及时回应时",
+          "interpretation": "将对方的沉默理解为厌恶与拒绝（移情地把自我羞耻感投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎而回避，避免直接询问对方意图，多使用“他们一定……”之类的推测性表述。"
+        },
+        {
+          "trigger_condition": "当被建议与朋友沟通、需要面对不确定性时",
+          "interpretation": "认为直接沟通会带来更糟结果，因而以分析替代情感接触",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用分析性、概括性的语言讨论“可能性/道理”，降低情绪表达，回避当下主观感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "出柜后担心被朋友拒绝，将沉默解读为否定",
+            "回避朋友以避免被评判，关系逐渐疏远"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠紊乱",
+            "食欲下降",
+            "工作效率下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在会谈中多次推测朋友“讨厌我/认为我不道德”，缺乏证据支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复担心他人看法，小心翼翼地避免开启对话",
+            "担心被评判而不与朋友跟进沟通"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“道德/不正常”的外在标准评判自己的性取向，产生羞耻与自责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭系统（与父母和兄弟姐妹关系亲近）",
+          "与朋友有多年情谊，曾在困难时期给予支持",
+          "愿意探索并制定与朋友沟通的步骤",
+          "具备一定的自我观察与理性分析能力（尝试理性化、进行现实检验）"
+        ],
+        "negative_force": [
+          "认知歪曲显著：读心术、过度概括、个人化",
+          "灾难化与对最坏结果的预期，过度依赖外部评价",
+          "回避行为维持焦虑与关系疏远",
+          "对沉默的心理过滤并否定既往积极证据",
+          "睡眠与食欲问题加剧情绪反应与专注困难"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与出柜对象的朋友接触并反复担忧他人评价，伴随强烈焦虑与躯体反应（胸闷、头痛）",
+          "antecedent": [
+            "在社交场合与这些朋友见面",
+            "想到要与朋友谈及出柜后的感受",
+            "回想Comic Con时朋友的沉默"
+          ],
+          "core_reason": "将他人的沉默等同于拒绝与厌恶，产生读心术与灾难化推理，担心被视为不道德/被讨厌，从而通过回避来降低焦虑",
+          "function": "逃避可能的拒绝与羞耻，短期降低不确定性带来的焦虑",
+          "consequence": "友谊疏远与社交紧张持续，反刍与焦虑维持，工作受损，睡眠与食欲紊乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1058
+}

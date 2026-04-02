@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "江明",
+      "gender": "男",
+      "occupation": "滑板运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有少数支持他的朋友，但难以向他们敞开心扉；害怕被评判，建立关系受影响",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "语气中性；表达清晰、逻辑较好；能描述自身感受与经历；配合度较好"
+    },
+    "main_problem": "因独特外表（蓝橙色头发）常觉得被当作“怪人”，感到被误解与被评判；随着负面评论与注视增多，这种感受加重，并导致社交焦虑与自信心下降。",
+    "topic": "人际关系",
+    "core_demands": "“我就是想找到办法应对这些，并把自信找回来。”",
+    "growth_experiences": [
+      "高中时期开始玩滑板，经常遭遇他人的评判与标签（如被认为是“游手好闲”或“怪人”），由此形成被误解与被贴标签的体验，加深了对他人评价的敏感与不安。",
+      "几年前开始染蓝橙色头发后，在公共场合频繁遭遇陌生人的注视与负面评论，这一经历持续强化了“被评判/被误解”的感受，近来更为强烈。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我与众不同就会被视为怪人、不被接纳",
+        "我容易被他人贴标签和误解"
+      ],
+      "special_situations": [
+        {
+          "event": "在公共场合被陌生人注视或对外表（头发颜色）作出负面评论",
+          "conditional_assumptions": "如果别人盯着我看或评论我的外表，就说明他们认为我是怪人",
+          "compensatory_strategies": "减少外出或改变穿着/发型以融入、降低被评判的可能性",
+          "automatic_thoughts": "他们在看不起我；我就是个怪人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与新认识的人初次见面或参加陌生社交场合",
+          "conditional_assumptions": "只要与新的人互动，他们就会给我贴上“游手好闲/怪人”的标签，并拒绝我",
+          "compensatory_strategies": "回避结识新人、减少社交",
+          "automatic_thoughts": "他们肯定会评判我，不会接纳我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆与接收关于外表的反馈（既有赞美也有贬损）",
+          "conditional_assumptions": "只要出现负面评论，就说明整体评价都是负面的",
+          "compensatory_strategies": "忽视或否定赞美，只关注负面反馈以“准备”应对评判",
+          "automatic_thoughts": "大家大多不喜欢我这样的外表",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "被触发对高中时期因滑板被贴标签的记忆",
+          "conditional_assumptions": "过去被贴标签意味着现在也会一直如此",
+          "compensatory_strategies": "给自己贴“怪人”的标签以先发制人，或通过投入滑板来暂时逃离他人评判与焦虑",
+          "automatic_thoughts": "我一向被视为怪人，这永远不会改变",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被接纳，作为独特的自己被欣赏",
+        "fear": "害怕被评判、羞辱与拒绝",
+        "defense_goal": [
+          "通过回避社交与改变外表来降低被评判的可能",
+          "以自我贬低和自我标签先发制人，减少受伤的风险",
+          "仅在滑板等“安全情境”表达自我，以维持掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解的局外人、易受评判的“怪人”",
+          "object_representation": "他人是挑剔的评判者/贴标签者",
+          "linking_affect": "焦虑、羞耻、孤独"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "通过染发与滑板表达独特自我",
+            "在公共场合因他人评价而动摇自由表达，内心产生冲突"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "自我怀疑",
+            "回避社交"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕被评判，难以与他人建立有意义的连接",
+            "有支持的朋友但难以敞开心扉谈感受"
+          ],
+          "outcomes": [
+            "关系疏离",
+            "自尊受损",
+            "日常生活与自我照料受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将他人对“怪人/游手好闲”的评价当作事实",
+            "试图改变风格以迎合所谓“正常”，以获得接纳"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在公共场合过度自我审视，反复怀疑“我是不是有问题”",
+            "社交中小心翼翼、紧张，难以自然表达自我"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在公共场合或与新认识的人互动时，来访者通常会感到被评判并产生社交焦虑，从而回避接触。",
+          "unique_outcome": "当滑板运动时，来访者感到自由与掌控，能专注当下、较少在意他人看法，体验到自信与积极情绪。",
+          "reason": "不同情境与做法：滑板提供高专注与掌控感，注意力转向自身技能与体验；以自我价值与内在感受为参照而非外部评价，因而焦虑显著降低。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "滑板带来的掌控感与自我效能，能唤起自信与积极情绪",
+          "有少数支持性的朋友",
+          "能觉察并愿意尝试关注正向反馈（有人称赞发色）",
+          "主动求助并愿意尝试新方法（现实检验、挑战假设）"
+        ],
+        "negative_force": [
+          "过度关注他人评价与外部认可",
+          "认知扭曲（读心、过度概括、心理过滤）加剧自我怀疑",
+          "社交回避行为维持焦虑循环",
+          "长期被贴标签经历导致对被评判的敏感与恐惧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在公共场合和与新朋友互动时的社交回避与焦虑",
+          "antecedent": [
+            "处于公共场合",
+            "被陌生人注视或评论外表",
+            "与新认识的人互动"
+          ],
+          "core_reason": "过往被贴标签的经历与对他人评价的读心/过度概括等认知偏差，内化为“与众不同就会被视为怪人”的负性核心信念",
+          "function": "逃避被评判与羞耻感，降低即时焦虑",
+          "consequence": "难以建立有意义的关系；自尊受损；社交与自我照料受影响"
+        },
+        {
+          "behavior": "为迎合他人而改变外表（压制自我表达）",
+          "antecedent": [
+            "预期会被评判或听到负面评论",
+            "准备参加社交或公开场合"
+          ],
+          "core_reason": "试图通过迎合来获得外部认可、降低被贴标签的风险",
+          "function": "获得他人接纳/减少负面评价",
+          "consequence": "自我一致性下降；短期焦虑可能减轻但长期自我价值受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1631
+}

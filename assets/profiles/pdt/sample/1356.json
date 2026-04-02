@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "刘迪伦",
+      "gender": "男性",
+      "occupation": "服装零售店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有1个孩子",
+      "social_status": "有一位支持性的朋友，但尚未与其分享这些感受；与伴侣关系因不安全感而紧张",
+      "medical_history": "无明显躯体疾病；无心理治疗史；既往未出现类似问题",
+      "language_features": "表达清晰，能具体描述情境与感受；配合度良好；倾向过度分析与自我怀疑；在涉及与伴侣沟通时显现犹豫与回避；整体语气中性"
+    },
+    "main_problem": "我觉得伴侣可能因为我喜欢红酒而不是白酒而认为我不够有品味，这导致我产生不安全感和自我怀疑。",
+    "topic": "婚姻关系",
+    "core_demands": "持续的不安全感和自我怀疑开始影响我的日常生活和关系，这促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有品味/不够精致",
+        "我的价值取决于他人的看法（尤其伴侣的评价）"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前的一次晚餐中，伴侣点了白葡萄酒而我点了红葡萄酒",
+          "conditional_assumptions": "如果我的偏好与伴侣不同，伴侣就会觉得我不够有品味，从而看低我",
+          "compensatory_strategies": "回避与伴侣讨论真实感受；在事后不断过度分析该情境以试图掌控被评判的风险",
+          "automatic_thoughts": "他/她会觉得我不够讲究、不够有品味",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合或与伴侣共同做决定时",
+          "conditional_assumptions": "如果我做出与他人不同的选择，别人都会把这归因于我不够好",
+          "compensatory_strategies": "在社交中谨小慎微，压抑表达偏好，试图减少被看见与被评判的机会",
+          "automatic_thoughts": "大家都在审视我的选择，并据此给我贴标签",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想到与伴侣开启沟通时（准备谈及不安全感与自我怀疑）",
+          "conditional_assumptions": "如果我表达不安与自我怀疑，就会被认为软弱或不够好，从而被否定",
+          "compensatory_strategies": "避免开启对话，拖延沟通以降低可能的尴尬或被评判",
+          "automatic_thoughts": "如果我说出来，他/她会看轻我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆伴侣在选酒上的不同偏好并据此推断对我整体的看法",
+          "conditional_assumptions": "一次偏好差异等同于对我整体素质的否定",
+          "compensatory_strategies": "忽视伴侣曾经的支持与积极行为，只关注差异点来验证担忧",
+          "automatic_thoughts": "这又是一个让我显得不够好的证据",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣接纳与认可（希望自己的偏好被理解且不被评判）",
+        "fear": "害怕被看低、被否定与被评判，从而价值被动摇",
+        "defense_goal": [
+          "通过回避沟通与过度分析来维持安全感，减少被直接否定的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、需要被证明价值的自我",
+          "object_representation": "挑剔/会根据细微偏好对我下判断的伴侣",
+          "linking_affect": "不安全感、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请与伴侣就不安全感开展开放沟通，或被探索其“被评判”的念头来源时",
+          "interpretation": "潜意识将开放沟通体验为可能被否定或被看低的场景（移情：把过度担忧的“他人评判”投射到伴侣与咨询情境）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气审慎、逻辑化表达，强调不确定与假设性措辞；减少情感性词汇与自我揭露，避免直接表达需求或脆弱感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与伴侣的关系因不安全感而紧张",
+            "在社交场合感觉被审视、难以表达真实偏好",
+            "尚未与支持性的朋友讨论此事，倾向独自承受"
+          ],
+          "outcomes": [
+            "持续的不安全感与自我怀疑",
+            "回避沟通导致亲密联系受损",
+            "生活乐趣下降（园艺兴趣受影响）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将“被看低/被评判”的担忧归因为伴侣的选择与想法",
+            "在社交与共同决策中假定他人会负面评价自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交情境中过度分析自己的选择与形象",
+            "犹豫与伴侣开启对话，担心暴露脆弱而被看轻"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与伴侣共同生活与社交的情境中，来访者通常会将偏好差异视为被评判的证据，从而不安全感加重并回避沟通。",
+          "unique_outcome": "伴侣在工作与园艺方面一直给予支持与帮助，这些互动中并未出现评判，关系体验更为正向。",
+          "reason": "线索：伴侣在具体事务中以行动提供支持与协作；情境聚焦在共同兴趣与日常帮助，弱化了“被评判”的解释框架，使来访者得以注意到积极证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "伴侣对工作与爱好的持续支持",
+          "有一位可支持的朋友资源",
+          "自我认知中的积极品质（勤奋、支持他人、努力做一个好伴侣和好父母）"
+        ],
+        "negative_force": [
+          "心理过滤、读心术、个人化等认知偏差强化被评判的主线故事",
+          "过度分析与避免沟通导致问题循环",
+          "自我怀疑与不安全感高企，容易忽视正向证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合与与伴侣共同决策时的强烈不安全感与自我怀疑，并回避开启沟通",
+          "antecedent": [
+            "与伴侣共同外出用餐或选择偏好时",
+            "在社交场合需要做出个人选择时"
+          ],
+          "core_reason": "将偏好差异解读为对自我价值与品味的否定，形成灾难化的“被评判”预期与过度自我监控",
+          "function": "逃避潜在的批评或否定，以维持短期的心理安全感",
+          "consequence": "伴侣关系紧张，沟通减少；日常生活受到影响（爱好园艺的享受下降）；持续的不安全感与自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1356
+}

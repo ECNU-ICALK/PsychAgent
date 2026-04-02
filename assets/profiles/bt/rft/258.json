@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "卫斯理",
+      "gender": "男",
+      "occupation": "派对策划师",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲曾是共产党成员",
+      "social_status": "有朋友可交谈，但尚未与他们讨论这件事",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题，无心理治疗史",
+      "language_features": "表达清晰、能具体描述情绪与经历；情绪基调消极；倾向灾难化、非黑即白、过度概括、心理过滤与否定积极；配合度较高，愿意尝试小步骤。"
+    },
+    "main_problem": "在最近的一场喜剧表演中收到负面反馈后，持续出现失败感与失望感，并将该次演出视为“彻底的灾难”。",
+    "topic": "情绪管理",
+    "core_demands": "希望解决在那次喜剧演出后持续存在的失败与失望感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的价值取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在一场观众座无虚席的喜剧演出中，少数观众发出嘘声，整体反应冷淡，演后有人直接评价“你不好笑”。",
+          "conditional_assumptions": "如果部分观众表达不满或没有笑，就证明我作为喜剧演员是失败的。",
+          "compensatory_strategies": "不断反刍演出细节、尝试用理性化解释安抚自己，并设想必须通过下一次“成功的演出”来挽回。",
+          "automatic_thoughts": "这场演出是彻底的灾难。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每当回想起那场演出或想到再上台表演时。",
+          "conditional_assumptions": "如果我不能让大多数人发笑，那就说明我完全不行，继续尝试没有意义。",
+          "compensatory_strategies": "以“等到完全成功再说”为标准来推迟行动，设定完美主义门槛才允许自己感觉好些。",
+          "automatic_thoughts": "如果这次都没逗笑大家，那再尝试也没有意义。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同一场演出中也有个别观众微笑并鼓励“继续加油”。",
+          "conditional_assumptions": "只有一致而热烈的正向反馈才算数，少量正面评价不重要。",
+          "compensatory_strategies": "主动忽视或贬低正面信息，把注意力集中在负面评价上以“证明”自己的失败。",
+          "automatic_thoughts": "这些正面的不算数，整体还是很糟。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在之后的工作或生活中收到他人反馈（尤其是批评性反馈）时。",
+          "conditional_assumptions": "一次失败或差评可以概括我整体能力与未来表现。",
+          "compensatory_strategies": "提前在心里贬低自己以降低再次受挫时的打击；对他人评价保持过度警觉。",
+          "automatic_thoughts": "我就是不行/我一定很差劲。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被观众与他人认可，证明自己是“有趣且有价值”的人",
+        "fear": "害怕被否定、被嘲笑与羞辱，进而被视为一无是处",
+        "defense_goal": [
+          "通过理智化与先行自我贬低来减轻外界否定带来的打击",
+          "避免向朋友倾诉以回避“不被理解”的痛苦与尴尬"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败、尴尬的表演者",
+          "object_representation": "挑剔、苛刻而评判性的观众/他人",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "不被理解的人",
+          "object_representation": "不会理解或可能评判自己的朋友",
+          "linking_affect": "孤独、防御"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当回忆那场演出或面对他人对其工作的反馈时",
+          "interpretation": "将少量负面反馈等同于对自我整体的否定（将“评判的观众/他人”体验泛化到所有评价者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析、列举证据的方式说话，语气平淡，回避表达羞耻与悲伤等情绪。"
+        },
+        {
+          "trigger_condition": "当想到要向朋友倾诉这次受挫经历时",
+          "interpretation": "预设朋友不会理解自己，且可能会评判自己（将内在担忧投射到关系中）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受或担忧归因于他人。",
+          "response_instruction": "用确定性语言断言他人的想法（如“他们不会理解”），缩短回答，避免进一步探讨。"
+        },
+        {
+          "trigger_condition": "当讨论是否继续表演或如何改进时",
+          "interpretation": "把表现划分为“完美”或“彻底失败”，无法整合中间地带",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用非黑即白的语言（如“要么成功要么毫无意义”），语气绝对化。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当表演未能逗笑观众时，自问“如果不能让人笑，再尝试有什么意义？”",
+            "负面反馈像乌云般笼罩，难以从中抽离"
+          ],
+          "outcomes": [
+            "动力下降，对再次尝试持消极预期",
+            "情绪低落与失败感加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "认为朋友不会理解自己的感受，因而没有与朋友讨论"
+          ],
+          "outcomes": [
+            "减少求助、关系互动受影响",
+            "主观孤立感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我批评（如“我一定很差劲”）",
+            "过度在意他人评价，难以允许自身不完美",
+            "在会谈中倾向强调失败而忽略积极面"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设“朋友不会理解我”，从而避免向朋友表达与求助"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“必须逗笑所有人才能算成功”的外在标准当作自我要求",
+            "以全或无的方式评价演出价值"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在回想那场演出或面对他人反馈时，来访者通常会只关注负面评价，迅速得出“我很差/演出是灾难”的结论，并陷入失败感与失望感。",
+          "unique_outcome": "在同一场演出中，尽管有嘘声和负评，仍有几位观众微笑并对他说“继续加油”；来访者能够记住并提到这些正向反馈，这与以往只聚焦负面不同。",
+          "reason": "不同支持：现场个别观众给予鼓励；不同理解：在回忆中仍能注意到并承认这些积极信号，提示其注意力并非完全被负面占据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我反思与认知重构的意愿（尝试理性化、愿意采取小步骤）",
+          "拥有可求助的朋友资源",
+          "同一事件中也能觉察到正向反馈",
+          "职业功能基本稳定（工作未受直接影响）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括、心理过滤与否定积极等认知偏差",
+          "过度依赖外界评价来界定自我价值",
+          "反复反刍负面事件，注意力被负面占据",
+          "回避向朋友表达感受，预设“不会被理解”",
+          "对再次成功持悲观预期（感觉“几乎不可能”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍演出中的负面反馈并进行自我否定",
+          "antecedent": [
+            "回想那场喜剧演出",
+            "在工作或生活中收到他人反馈"
+          ],
+          "core_reason": "对负面评价高度敏感，将少量负评等同整体失败，并将自我价值系于他人评价",
+          "function": "获得控制感并试图通过自我批评避免再次受挫（回避羞耻与焦虑）",
+          "consequence": "情绪低落、失败感与失望感持续；日常生活和人际互动受到影响"
+        },
+        {
+          "behavior": "回避向朋友倾诉与求助",
+          "antecedent": [
+            "想到要向朋友谈起这次受挫",
+            "被负面情绪困扰时"
+          ],
+          "core_reason": "担心不被理解与被评判，将内心担忧投射到朋友身上",
+          "function": "逃避潜在的否定与羞耻体验，短期降低焦虑",
+          "consequence": "支持减少、主观孤立感增加，朋友关系受影响，问题难以缓解"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 258
+}

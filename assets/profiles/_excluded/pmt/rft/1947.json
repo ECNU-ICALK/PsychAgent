@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林安琪",
+      "gender": "女",
+      "occupation": "牙医专业在读学生（正在学习成为牙医）",
+      "educational_background": "正在攻读牙医学位",
+      "marital_status": "单身",
+      "family_status": "未提及具体家庭情况",
+      "social_status": "有支持性的朋友和同学，但尚未与他们分享此思维模式；因焦虑与朋友的关系有所紧张",
+      "medical_history": "无重大躯体疾病；此前无类似心理问题；无既往心理治疗或咨询史",
+      "language_features": "表达清晰、逻辑连贯；语气偏消极与担忧，常用绝对化表述（如“我这辈子不会成功”）；自我苛责与“应该”句式明显；对干预持怀疑但愿意尝试，配合度较高"
+    },
+    "main_problem": "我反复出现一个想法：我晚睡的习惯会阻碍我未来的成功，这个想法让我感到压力和焦虑。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为我发现这种思维模式正在影响我专注学习的能力，并影响我的整体心理健康。",
+    "growth_experiences": [
+      "在本科期间形成了“晚睡会导致失败”的信念：当时经常为学习而晚睡，同时频繁接触到“成功人士都早起”的社会信息，逐渐将晚睡与失败等同；随着执照考试临近，这一观念强化，焦虑与自我怀疑加重，睡眠与身心状态受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是注定会失败的（晚睡=失败）",
+        "成功取决于是否符合“早睡早起”的社会标准"
+      ],
+      "special_situations": [
+        {
+          "event": "夜间就寝时躺下反思一天，准备入睡的时刻",
+          "conditional_assumptions": "如果我今天又晚睡，就说明我缺乏自律，未来也不会成功",
+          "compensatory_strategies": "强迫自己调整作息、尝试放松技巧、在床上反复思考与自我责备以寻求掌控感",
+          "automatic_thoughts": "因为我又晚睡了，我这辈子都不会成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "执照考试临近、当天学业压力大或过得不顺",
+          "conditional_assumptions": "如果今天状态不好或压力大且仍旧晚睡，那就证明我考不过、前途无望",
+          "compensatory_strategies": "加倍努力与自我施压、计划严格作息、回避向他人求助",
+          "automatic_thoughts": "这次又晚睡了，我的考试和未来都要毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "听到或回想“成功人士早起”的社会信息与评价",
+          "conditional_assumptions": "如果我不早睡早起，就不配成功、会被看低",
+          "compensatory_strategies": "试图迎合外部规范、用“应该/必须”要求自己、避免谈及晚睡以免被评价",
+          "automatic_thoughts": "我应该早睡早起，否则我就是不够好、不配成功",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "与朋友互动时察觉关系紧张或自觉焦虑加重",
+          "conditional_assumptions": "如果我没有做到理想作息，关系变差就是我的错",
+          "compensatory_strategies": "减少与朋友谈及真实困扰，回避分享以避免被负面评价",
+          "automatic_thoughts": "他们一定对我失望，关系变差都是因为我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并取得成功，同时希望即便作息不同也能被接纳",
+        "fear": "害怕被评价为不自律与不够好、害怕失败与被拒绝",
+        "defense_goal": [
+          "通过内化社会标准与自我苛责来维持控制感与安全感",
+          "以自我约束与回避求助来降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够自律、随时可能失败的自己",
+          "object_representation": "苛刻、带有评判性的社会他者/他人",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "让他人失望的人",
+          "object_representation": "容易看低与挑剔自己的朋友/他人",
+          "linking_affect": "不安、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于“成功标准/早起”等规范话题，或被询问作息与自律",
+          "interpretation": "担心咨询师或他人会评价自己不自律、不够好（移情：将社会评判投射到咨询关系）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气客观、强调“社会都这么说”，罗列事实与道理，尽量回避羞耻与焦虑等情感词汇。"
+        },
+        {
+          "trigger_condition": "当被邀请将困扰与支持系统（朋友/同学）分享或表达需求",
+          "interpretation": "若暴露困扰会被看轻或感到尴尬",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "回答简短含糊，快速转回“我会自己处理”，避免展开内心体验。"
+        },
+        {
+          "trigger_condition": "当被建议进行行为实验、面对不确定的结果",
+          "interpretation": "一旦结果不理想就证明自己没有希望",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "提出多个“但是”，强调实验可能无效，以理性理由淡化尝试的意义与价值。"
+        },
+        {
+          "trigger_condition": "谈及朋友关系紧张与自我价值感时",
+          "interpretation": "将关系紧张归结为自身缺陷与晚睡行为",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "频繁使用“都是我的错”的表述，语气自责，降低对情境多因素的探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将自我选择与作息置于社会规范之下（“成功人士都早起”）",
+            "以“应该/必须”约束自我，形成价值条件"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑增强",
+            "难以体验自主性与自我接纳",
+            "与朋友关系紧张"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在就寝时将“晚睡”与“人生失败”划等号，出现“我这辈子都不会成功”的绝望感"
+          ],
+          "outcomes": [
+            "无望与挫败感",
+            "睡眠与学习专注受损",
+            "回避求助、社会支持难以转化为意义感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "内化“成功人士都早起”的信条，用“应该/必须”要求自己",
+            "将晚睡与失败等同，不加检视其真实性"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人做出的行为或向外寻求他人帮助的冲动，把能量转向自己，与“冲动”对应。",
+          "manifestations": [
+            "虽有支持性朋友与同学，但因为尴尬而不愿分享困扰",
+            "自我施压与自责，而非寻求外部支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（如“我这辈子不会成功”）",
+            "过度小心与紧张，担心被评价为不自律"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备支持性的同学与朋友资源（虽未使用，但可用）",
+          "对困扰有清晰觉察，能描述触发情境与影响",
+          "愿意尝试行为实验，具备改变动机",
+          "无重大躯体疾病，精力与作息可被调整"
+        ],
+        "negative_force": [
+          "内化“早起=成功”的僵化信念与外部评价依赖",
+          "灾难化、全或无、过度概括等认知偏差显著",
+          "临近考试带来的高压情境强化焦虑",
+          "就寝时反刍与自我苛责导致睡眠受损",
+          "羞耻与尴尬阻碍求助与社会支持的使用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "就寝时的焦虑性反刍与“晚睡=注定失败”的自动化思维",
+          "antecedent": [
+            "夜间躺下准备入睡并回顾当天",
+            "临近执照考试或当天压力较大",
+            "接触到“成功人士都早起”等社会信息"
+          ],
+          "core_reason": "将社会规范内摄为自我价值标准，伴随灾难化、全或无与过度概括的认知偏差以追求控制感与确定性",
+          "function": "短期内通过自责与反刍获得虚假的控制感与避免面对不确定性与被评价的焦虑",
+          "consequence": "焦虑上升、睡眠受损、次日专注与学业表现下降、人际关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1947
+}

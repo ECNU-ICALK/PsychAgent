@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "马琪",
+      "gender": "女性",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有可倾诉的朋友，但尚未向任何人表达沮丧情绪；已与在成功乐队中的朋友保持距离",
+      "medical_history": "无类似心理问题既往史；无既往心理治疗经历；无明显躯体疾病史",
+      "language_features": "表达清晰、思路连贯，能配合记录与讨论；自我批评较多，情绪低落与泄气；语速未提及"
+    },
+    "main_problem": "因未能加入乐队而认为自己永远不会取得“大的成功”，由此产生气馁与自我价值感低的情绪，影响工作动机与整体幸福感。",
+    "topic": "个人成长",
+    "core_demands": "希望通过咨询摆脱自我否定和沮丧的循环，改善工作动机与整体幸福感。",
+    "growth_experiences": [
+      "几年前因无法实现加入乐队的梦想，尝试参与本地音乐团体多次被拒绝；最初在工作与音乐兴趣之间的压力为中等，但随着持续与成功乐队的同伴比较，自尊受挫与自我价值感下降逐步加重，形成“未在乐队=不会成功”的认知框架。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我永远不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "独自弹吉他时想到自己并不在乐队",
+          "conditional_assumptions": "如果没有加入乐队，就不可能算成功；成功只有一种标准就是在乐队里被认可",
+          "compensatory_strategies": "减少练习或想要放弃音乐以避免挫败感",
+          "automatic_thoughts": "我不够好；我永远不会成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到或想到朋友所在的成功乐队及其成就",
+          "conditional_assumptions": "如果达不到他们的成就，我就是失败者，也不值得被认可",
+          "compensatory_strategies": "疏远这些朋友，减少社交以回避比较与被评价",
+          "automatic_thoughts": "我不如他们，我很失败",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回想自己多次被本地音乐团体拒绝的经历",
+          "conditional_assumptions": "过去被拒绝说明我没有天赋，将来也不会成功",
+          "compensatory_strategies": "降低尝试的频率与范围，回避再次申请以免再受打击",
+          "automatic_thoughts": "他们不要我，说明我以后也不会成功",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "夜间入睡前反复思考自己在音乐上的“不成功”",
+          "conditional_assumptions": "只有加入乐队才算成功，否则我一无是处",
+          "compensatory_strategies": "反复反刍过往经历与不足，试图用思考获得确定性",
+          "automatic_thoughts": "我怎么做都不可能成功",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过音乐被看见与认可、加入乐队并取得成就",
+        "fear": "害怕再次被拒绝与被比较后感到羞耻与失败，最终被否定为“无能/不值得”",
+        "defense_goal": [
+          "通过疏离与回避减少暴露于比较与拒绝",
+          "降低尝试以避免再度受挫",
+          "以自我批评来先行否定，减少外界否定带来的打击"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自卑、被拒绝的失败者",
+          "object_representation": "他人（尤其成功的乐队朋友）是评判者与拒绝者",
+          "linking_affect": "羞耻、嫉妒、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "疏远处于成功乐队中的朋友",
+            "虽然有朋友可谈但没有向任何人倾诉自己的沮丧"
+          ],
+          "outcomes": [
+            "情感隔离感增强",
+            "嫉妒与自我否定加剧",
+            "支持系统可用性下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“成功”狭隘等同于“加入乐队”",
+            "未在乐队时体验到自我价值感低落与挫败"
+          ],
+          "outcomes": [
+            "工作动机下降、绩效受影响",
+            "对音乐的乐趣降低乃至回避练习",
+            "反刍与睡眠受扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“成功=必须在乐队”当作唯一标准",
+            "用外界成就衡量自身价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多自我限制与苛责，对接触过于谨慎。",
+          "manifestations": [
+            "反复自我批评（“我不够好”“我不会成功”）",
+            "面对练习建议时紧张而担心做不好但仍尝试"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本想对外发出的能量转而对自己，克制对他人或环境的冲动而自我苛责或自伤。",
+          "manifestations": [
+            "把对比较与拒绝的情绪收回并转为自责与退缩",
+            "通过减少练习或放弃兴趣来“惩罚”自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在比较情境中倾向预设他人会用成就标准评判自己（源自“读心式”结论）",
+            "为避免被“评判”，主动疏远成功的朋友"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意主动寻求咨询与配合记录自动化思维",
+          "仍持续弹吉他并愿意尝试“不带比较的练习”",
+          "曾多次主动尝试加入本地音乐团体，具备行动意愿",
+          "拥有可用的朋友支持网络（虽未启用）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维（将成功单一化为“在乐队”）",
+          "过度比较与自我贬低，低自尊维持问题循环",
+          "过度概括与预测未来，放大拒绝的决定性意义",
+          "社交回避导致支持与反馈缺失，孤独与反刍加剧",
+          "反刍与睡眠受扰，进一步削弱白天工作动机与情绪调节"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在弹吉他或听与乐队相关音乐时出现强烈自我否定与放弃倾向，减少/回避练习",
+          "antecedent": [
+            "独自弹吉他",
+            "听与乐队相关的音乐",
+            "回忆多次被本地音乐团体拒绝"
+          ],
+          "core_reason": "内化的标准将“成功”狭隘等同于“加入乐队”，多次拒绝经历强化“我不够好/不会成功”的信念与灾难化认知",
+          "function": "逃避失败与羞耻感，短期减轻焦虑与挫败",
+          "consequence": "音乐乐趣与胜任感下降，维持低自尊与消极情绪，进而影响工作动机与绩效"
+        },
+        {
+          "behavior": "社交回避（疏远处于成功乐队的朋友）",
+          "antecedent": [
+            "看到或想到朋友在乐队中的成功",
+            "与这类朋友的互动或聚会邀约"
+          ],
+          "core_reason": "社会比较与“读心式”结论维持“我不如他们/会被评判”的信念",
+          "function": "逃避被比较与被否定的焦虑与羞耻感",
+          "consequence": "社会支持减少、孤独感上升、嫉妒与自我否定循环加剧"
+        },
+        {
+          "behavior": "夜间反刍导致睡眠受扰",
+          "antecedent": [
+            "睡前回想音乐相关的“不成功”经历",
+            "设想未来依旧无法成功"
+          ],
+          "core_reason": "过度概括与预测未来维持消极图式，试图通过反复思考获得确定性与控制感",
+          "function": "暂时缓解不确定带来的焦虑（表面控制感）",
+          "consequence": "睡眠质量下降、第二天精力与工作效率降低，进一步削弱情绪调节与动机"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 212
+}

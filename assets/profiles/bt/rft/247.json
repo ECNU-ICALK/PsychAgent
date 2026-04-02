@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林海莉",
+      "gender": "女",
+      "occupation": "漫画家",
+      "educational_background": "自学",
+      "marital_status": "单身",
+      "family_status": "独居，与大家庭联系有限",
+      "social_status": "线下亲密关系有限，主要与少数线上朋友交流兴趣话题，缺乏能够讨论深入情感议题的支持系统",
+      "medical_history": "无重要躯体疾病史；无既往心理治疗或咨询经历",
+      "language_features": "表达清晰、有自我反思能力，能识别并描述自动化思维；配合度高，态度积极，但带有一定紧张与自我批评"
+    },
+    "main_problem": "我相信自己会因为内向而最终孤独终老，这一信念导致孤独感和对未来的恐惧，并促使我越来越回避社交。",
+    "topic": "人际关系",
+    "core_demands": "“我觉得有一些实际步骤会帮助我开始不那么孤独，并且对我的未来更有掌控感。”",
+    "growth_experiences": [
+      "青少年时期开始出现持续的孤独感和对未来的恐惧，在生活的过渡期尤为明显；随着年龄增长，回避社交的倾向加重，未主动寻求过专业帮助。",
+      "与大家庭联系有限，长期独居，现实生活中的支持系统薄弱，主要依赖少量线上朋友交流兴趣。",
+      "通过自学成为漫画家，具备持续投入与自我管理能力，获得他人对其“体贴、富有创造力”的正面反馈。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会孤独终老",
+        "作为内向者，我很难建立亲密关系"
+      ],
+      "special_situations": [
+        {
+          "event": "看到他人在社交聚会或亲密关系中的幸福互动",
+          "conditional_assumptions": "如果我不是外向且不能像他们那样社交，就永远得不到亲密关系",
+          "compensatory_strategies": "减少线下社交接触，转而旁观他人社交或仅维持浅层线上互动以避免被拒绝",
+          "automatic_thoughts": "我不可能拥有那样的关系，我会一直一个人，最终孤独终老",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到要参加社交活动或与人建立联系",
+          "conditional_assumptions": "如果我在社交中不够自然外向，就说明我不适合亲密关系",
+          "compensatory_strategies": "提前自我否定、用“内向”给回避找理由，避免尝试",
+          "automatic_thoughts": "我太内向了，不可能拥有亲密关系",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "注意到自己大多数时间独处",
+          "conditional_assumptions": "如果我经常独处，别人就不会想和我在一起",
+          "compensatory_strategies": "不主动求助或表达需要，维持独处以避免被拒绝的风险",
+          "automatic_thoughts": "没有人会愿意和我在一起",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "浏览社交信息或回想他人对自己“体贴、富有创造力”的正面评价",
+          "conditional_assumptions": "这些优点与关系无关，正面证据不足以改变结局",
+          "compensatory_strategies": "忽视积极反馈与已有连接，持续聚焦自身不足和孤独",
+          "automatic_thoughts": "就算我有这些优点，也改变不了我终将孤独一人的事实",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与建立稳定而亲密的关系",
+        "fear": "害怕被拒绝、被否定，最终孤独一生",
+        "defense_goal": [
+          "通过回避社交来降低被拒绝的风险",
+          "以“内向”作为解释维持心理一致性与安全感",
+          "保持自给自足以减少对他人的依赖与失控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤独且不被需要的局外人",
+          "object_representation": "会拒绝自己或不愿亲近的他人/群体",
+          "linking_affect": "恐惧、孤独"
+        },
+        {
+          "self_representation": "缺乏社交能力、需要隐藏自己以避免被看见缺点的人",
+          "object_representation": "挑剔、偏爱外向者、可能评判的他人",
+          "linking_affect": "自卑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于设定具体的社交尝试目标或行为实验时",
+          "interpretation": "感觉被推动暴露自己的不足，担心失败会证实“我不行”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和而坚定的语气反复强调“我就是内向”，提出诸多实际困难来推迟或淡化行动承诺。"
+        },
+        {
+          "trigger_condition": "当谈及被他人喜欢、建立亲密关系等敏感议题时",
+          "interpretation": "预期他人不会接纳自己，将潜在的拒绝内化为自身缺陷",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "降低音量、出现自责式表述（如“都是我不好”），语气收敛、避免目光接触，快速结束相关话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "反复担心一生都不会拥有亲密关系，认为自己会“孤独终老”",
+            "在看到他人关系或社交聚会时体验到更强的孤独与恐惧",
+            "为避免被拒绝而回避社交，进一步加深疏离"
+          ],
+          "outcomes": [
+            "持续孤独感与对未来的恐惧",
+            "动机下降，对爱好与自我照顾参与度降低",
+            "自我批评与自卑加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "以“我太内向了”“我不行”给自己贴标签",
+            "在涉及亲密与社交的议题上格外谨慎，倾向降低自我期待"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在缺乏证据的情况下预设他人“不会想和我在一起”",
+            "将潜在的拒绝感外归于他人的意愿"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到他人恋爱或社交场景时，林海莉通常会感到孤独和对未来的恐惧，并因此回避进一步交流。",
+          "unique_outcome": "在与少数线上朋友讨论共同兴趣的情境中，她没有像往常那样回避，而是保持了自然的互动与分享，获得了一定的连接感。",
+          "reason": "不同情境：基于共同兴趣的小圈子、线上交流的节奏与距离感降低了社交压力；不同做法：聚焦兴趣本身而非自我评价。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我学习与坚持能力（自学成为漫画家）",
+          "被他人评价为体贴且富有创造力，具备建立深度连接的潜在优势",
+          "对咨询持积极态度，愿意尝试重构思维与设定小目标",
+          "已有少量稳定的线上同好连接，可作为关系资源起点"
+        ],
+        "negative_force": [
+          "灾难化与预测未来：将孤独推演为一生的定局",
+          "过度概括与读心：以“内向”全盘否定社交可能，预设他人会拒绝",
+          "社交回避维持负性信念的恶性循环",
+          "支持系统薄弱，深层情感支持资源不足",
+          "自我批评倾向，容易忽视积极证据（心理过滤）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交情境",
+          "antecedent": [
+            "看到他人在恋爱或社交聚会中的亲密互动",
+            "想到要参与社交活动或建立新联系"
+          ],
+          "core_reason": "将“内向”等同于必然被拒绝的信念，灾难化与预测未来的思维导致对失败的强烈预期",
+          "function": "逃避可能的不适与被拒绝的风险，以短期降低焦虑",
+          "consequence": "孤独与恐惧持续加重，支持系统难以建立，负性信念被强化"
+        },
+        {
+          "behavior": "自我贬损的自动化思维（如“我太内向了，没人会愿意和我在一起”）",
+          "antecedent": [
+            "看到他人亲密互动或热闹社交场景",
+            "独处时反复思考自身社交表现"
+          ],
+          "core_reason": "过度概括、读心与灾难化的认知偏差",
+          "function": "为回避提供理由与心理一致性，带来短期的控制感",
+          "consequence": "情绪低落与对未来的恐惧，进一步降低行动动机"
+        },
+        {
+          "behavior": "对爱好与自我照顾的参与减少",
+          "antecedent": [
+            "感到孤独与恐惧时",
+            "在负性自我评价后"
+          ],
+          "core_reason": "情绪化推理（感觉糟糕→事情就很糟），对自我价值的消极评价削弱动力",
+          "function": "短期避免投入与可能的挫败感",
+          "consequence": "生活质量下降，正向强化减少，形成消极循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 247
+}

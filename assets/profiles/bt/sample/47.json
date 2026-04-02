@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与兄长关系亲近；几个月前有家人对其唱歌作出负面评价",
+      "social_status": "未提及",
+      "medical_history": "否认既往类似心理问题与治疗；无重大躯体疾病",
+      "language_features": "表达清晰、合作度高，语速与情绪较为平稳；开场时紧张、犹豫不确定分享多少；自我评价偏严苛，存在自我怀疑"
+    },
+    "main_problem": "喜欢在淋浴时唱歌，但认为自己唱得很差，导致自我怀疑和不足感。",
+    "topic": "情绪管理",
+    "core_demands": "因为持续的自我怀疑和关于唱歌能力的消极想法影响了自信与整体情绪，希望通过咨询改善。",
+    "growth_experiences": [
+      "来访者过去唱歌（淋浴或跟着收音机）能带来快乐与放松；几个月前因一位家人的负面评论而开始产生自我怀疑，此后每次唱歌常被该评价所触发，逐渐难以享受唱歌。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/没有能力。",
+        "我的价值取决于他人的评价。"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前家人对其唱歌作出负面评价",
+          "conditional_assumptions": "如果家人都否定我的歌声，就说明我真的很差、不该唱歌。",
+          "compensatory_strategies": "通过观看在线教程努力改进以证明自己不是那么差。",
+          "automatic_thoughts": "他们说得对，我唱得很糟。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在淋浴时唱歌",
+          "conditional_assumptions": "如果我唱不好，就不值得去唱、也不该享受其中。",
+          "compensatory_strategies": "在唱歌时不断自我监控与挑错，试图纠正每个“缺点”。",
+          "automatic_thoughts": "我唱得很糟，我不该唱。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到他人可能听到自己唱歌",
+          "conditional_assumptions": "如果别人不想听或不喜欢，就证明我很差，会被嘲笑或评判。",
+          "compensatory_strategies": "避免与他人讨论这件事（例如未与兄长沟通），以减少被评价的机会。",
+          "automatic_thoughts": "没人会想听我唱歌。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "观看在线教程后对自己唱歌进行自我评估",
+          "conditional_assumptions": "如果短期内没有明显进步，就证明我确实不行。",
+          "compensatory_strategies": "反复寻找和放大不足之处，忽略唱歌带来的愉悦感受。",
+          "automatic_thoughts": "我还是不行，再怎么学也没用。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定地看见与聆听，能够自由地表达与享受唱歌的快乐",
+        "fear": "害怕因表达自我而被评判、羞辱或拒绝",
+        "defense_goal": [
+          "通过自我压抑与自我否定来降低期待，避免再次被负面评价伤害",
+          "保持距离（不与亲近者谈及困扰）以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易出错、需要被修正的歌者",
+          "object_representation": "挑剔的评判者/可能否定我的他人",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其分享更多内心感受或探索过去的正向体验时",
+          "interpretation": "担心暴露脆弱会被评判或不被理解（移情：将他人视为潜在评判者）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "语气平稳、用词谨慎（“可能/不确定”），少用情绪词，简短回应，避免深入个人情感细节。"
+        },
+        {
+          "trigger_condition": "当被建议与兄长沟通、寻求支持时",
+          "interpretation": "预期对方不会理解甚至会否定自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受、想法归于他人，假定对方持有负面看法。",
+          "response_instruction": "使用“他可能不会懂/不一定有用”等表述婉拒尝试，语气迟疑，避免做出明确承诺。"
+        },
+        {
+          "trigger_condition": "当回忆起家人的那次负面评价时",
+          "interpretation": "将对他人的不满与受伤感转而责备自己（把愤怒转向自身）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自我批评或抑郁。",
+          "response_instruction": "强化自责语句（如“都是我不行”），语气低落，回避表达对他人的真实情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "没有与亲近的兄长分享自我怀疑与困扰",
+            "在唱歌与表达兴趣上感到被孤立与不被理解"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "自尊受损",
+            "减少表达与求助，内在孤立加深"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因他人评价而收缩自我表达，难以自由地享受唱歌",
+            "唱歌时不断自我监控、害怕出错"
+          ],
+          "outcomes": [
+            "体验受限与内在冲突",
+            "焦虑与自我苛责"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本带来快乐与放松的唱歌活动不再令人愉悦"
+          ],
+          "outcomes": [
+            "动机下降与情绪低落",
+            "日常活力与满足感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "开场表示不确定应分享多少并显得紧张",
+            "唱歌时过度自我评判、不断挑错",
+            "对改变持“可能不行/很难”的预期"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，认为他人会以负面方式看待自己。",
+          "manifestations": [
+            "认为“没人会想听我唱歌”",
+            "担心兄长不会理解自己的感受而不去沟通"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制对外表达与求助的冲动，转而把能量指向自己（如自责、自我苛求）。",
+          "manifestations": [
+            "未向亲近的兄长求助，转而自我否定与自我批评",
+            "将不满与受伤感内收，不向外表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在唱歌（尤其淋浴时）经常被自我否定与担心他人评价所困扰，情绪低落且难以享受唱歌。",
+          "unique_outcome": "在被家人负评之前的某些时刻（如与收音机一起唱或淋浴时），她没有评判自己，而是专注于旋律与放松，体验到快乐与自由。",
+          "reason": "线索：不同情境（当时无他人在场、未受到负面反馈影响）；不同做法（注意力放在体验与快乐而非表现对错），因此那次能保持投入并获得愉悦。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对唱歌有真实的兴趣与动力（主动观看在线教程）",
+          "能回忆起以往积极体验并愿意尝试重构想法",
+          "与兄长关系亲近，存在潜在支持资源",
+          "愿意配合练习与尝试新策略（例如重构与行为实验）"
+        ],
+        "negative_force": [
+          "自我怀疑明显，易贴负面标签",
+          "过度在意他人评价并读心式推断",
+          "一次负评被过度概括为稳定能力缺陷",
+          "忽视正向证据与体验，放大缺点",
+          "情绪低落与回避求助使问题维持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "唱歌时的自我贬低式自动思维（如“我很糟”“没人想听我唱歌”）",
+          "antecedent": [
+            "在淋浴时唱歌",
+            "回想起家人的负面评价",
+            "观看教程后对自己进行苛刻自评"
+          ],
+          "core_reason": "负面评价被内化为能力与价值判断，伴随过度概括、读心术与非黑即白等认知偏差。",
+          "function": "通过先行自我否定与自我收缩来回避潜在的外界批评与羞耻感，降低被伤害的风险。",
+          "consequence": "自信心下降、情绪低落，原本有益的放松活动被剥夺，日常愉悦与满足感减少。"
+        },
+        {
+          "behavior": "回避与他人（如兄长）交流内心困扰与求助",
+          "antecedent": [
+            "想到他人可能不理解或会负面评价",
+            "被建议尝试与家人沟通时"
+          ],
+          "core_reason": "害怕被否定或不被理解，将对他人的担忧投射为确定性的负面反应。",
+          "function": "逃避脆弱暴露以维持主观安全感，短期降低焦虑。",
+          "consequence": "社会支持未被动员，孤立感与自我怀疑被维持，负性信念强化。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 47
+}

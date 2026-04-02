@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "林瑶",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和两位兄弟姐妹同住",
+      "social_status": "与家人关系因其持续自我批评而趋于紧张；同时拥有可倾诉的朋友与家人支持网络",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、能自我反思，语气偏消极，配合度较好"
+    },
+    "main_problem": "我倾向于在犯简单错误时给自己贴负面标签，这导致我感到无能并过度自我批评。",
+    "topic": "个人成长",
+    "core_demands": "我意识到自我批评和负面贴标签正在影响我的日常生活和自尊，因此寻求咨询支持。",
+    "growth_experiences": [
+      "青春期开始，一旦在学校或朋友面前犯错，便会陷入“我无用/不胜任”的负性思维螺旋；最初压力中等，主要由在他人面前出错触发；此模式延续至成年，期间未接受心理治疗，且无重大躯体病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我是失败者",
+        "我天生笨拙"
+      ],
+      "special_situations": [
+        {
+          "event": "家庭聚餐时不小心把装寿司的盘子掉在地上",
+          "conditional_assumptions": "如果在家人面前犯哪怕很小的错，就说明我笨拙而且一无是处",
+          "compensatory_strategies": "立即自我批评、保持沉默并与家人保持距离以避免更多错误",
+          "automatic_thoughts": "我太笨拙了，我什么都做不好。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "工作中出现小失误（如操作不当或疏忽）",
+          "conditional_assumptions": "如果在工作中犯错，就证明我不胜任这份工作，别人会否定我",
+          "compensatory_strategies": "过度谨慎、反复自我检查并在同事面前减少发言以降低被评价风险",
+          "automatic_thoughts": "我不适合这份工作，接下来我会搞砸更多事情。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与家人相处时在他们面前发生小差错或说错话",
+          "conditional_assumptions": "如果我的表现不够完美，家人就会为我感到失望并与我疏远",
+          "compensatory_strategies": "先发制人地指责自己、减少互动以避免被他人评价",
+          "automatic_thoughts": "他们一定对我失望，是我让关系变差了。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在朋友或同龄人面前出现小差错（例如社交场合中的失手）",
+          "conditional_assumptions": "如果在他人面前犯错，就意味着我整体能力差且不值得尊重",
+          "compensatory_strategies": "回避在他人面前尝试新事物或保持低调以减少出错机会",
+          "automatic_thoughts": "我就是个失败者。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被视为有能力并获得正向评价",
+        "fear": "害怕犯错后被否定、被羞辱或被疏远",
+        "defense_goal": [
+          "通过先行自责来避免外界的批评",
+          "保持谨慎与退缩以降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出错、需要不断自我修正的无能者",
+          "object_representation": "挑剔、随时准备评判与失望的他人（家人/同事）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其寻找与负性标签相矛盾的证据或练习自我慈悲时",
+          "interpretation": "潜意识将支持性的探索体验为“要揭穿我的不足”或“我没资格这么看待自己”。",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责、贬低自我为主的语气回应，强调自身不足，弱化积极证据与成就。"
+        },
+        {
+          "trigger_condition": "当被询问具体成功经验并被鼓励接纳积极情绪时",
+          "interpretation": "将积极成果与自我价值切割，视为偶然或“不算数”。",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦或复杂的情感与相关事件、想法分离，理智地谈论但减少情感体验。",
+          "response_instruction": "用冷静、客观的语气淡化成功，强调偶然性或外因，避免表达自豪与满足。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "犯错后倾向“自己待着/与人保持距离”以避免更多错误或评价",
+            "感觉家人因其反复自我贬低而与自己疏远"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "情绪低落与消极心境",
+            "减少互动与回避社交"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁给自己贴“无能/失败”的标签",
+            "在对话中反复质疑自我、担心“无法改变”而压低自我价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或环境做出的外向行为或求助冲动，将能量转回自身。",
+          "manifestations": [
+            "犯错后选择独处、减少与家人交流",
+            "很少向他人寻求安慰或支持而是“自己扛”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中出现小失误或处于高压任务时，通常会陷入自我否定与负面贴标签，导致效率下降与表现受影响。",
+          "unique_outcome": "某次她成功组织并推进了一个大型工作项目，过程顺利并获得上司肯定。",
+          "reason": "线索：任务目标清晰、组织有序，并获得积极反馈与认可，强化了胜任感，从而减轻自我否定。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人，可提供情感支持",
+          "能够识别思维模式并主动求助，改变动机良好",
+          "具备组织与执行复杂任务的能力（成功完成大型项目）",
+          "已尝试自我慈悲与自我宽恕练习，具备改善意愿与初步技能"
+        ],
+        "negative_force": [
+          "长期的负面自我贴标签与过度概括倾向",
+          "对犯错高度敏感，过度在意他人评价",
+          "自我批评作为默认反应，导致自尊受损与回避",
+          "在工作与家庭情境中反复触发，形成恶性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在犯错后出现的过度自我批评与负面自我贴标签",
+          "antecedent": [
+            "在他人面前发生小差错（家庭/同事场合）",
+            "工作中的小失误或挫折",
+            "回想过往的失败或错误"
+          ],
+          "core_reason": "青春期形成的将单次失误等同于整体无能的认知偏差，加之对外界评价的敏感与自尊脆弱",
+          "function": "通过先发制人的自责来逃避他人可能的批评并获得短暂的可控感",
+          "consequence": "情绪低落、自尊受损、工作效率与表现下降、与家人关系紧张并倾向回避社交与挑战"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 607
+}

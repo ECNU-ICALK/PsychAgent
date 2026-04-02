@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "李杰",
+      "gender": "男性",
+      "occupation": "学生",
+      "educational_background": "三年级",
+      "marital_status": "未婚（未成年人）",
+      "family_status": "与父母及弟弟同住",
+      "social_status": "在新环境中交友困难；虽有父母和弟弟的支持，但难以向家人表达孤独与不安全感",
+      "medical_history": "无显著躯体疾病；既往无心理治疗经历；此前未出现类似心理问题",
+      "language_features": "表达清晰、配合度高、能自我反思并识别自动化思维；态度积极，愿意尝试新方法；在社交话题上呈现焦虑但能进行理性讨论"
+    },
+    "main_problem": "我相信即使在秋季的足球中交到朋友，他们也只是因为我们必须一起打球才会和我做朋友，这一信念导致我感到孤独和不安全。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为我的孤独和不安全感持续存在并影响我的身心健康。",
+    "growth_experiences": [
+      "来访者近期因搬到新地方而开始出现不安全感与孤独，交友变得困难；在旧居时有稳定的朋友关系，因长期相处、共同兴趣、同校同社区而感到被接纳与舒适；搬家后尚未交到很多朋友，对即将到来的夏令营和秋季足球心生焦虑与不确定。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被喜欢",
+        "我的真实自我不会被真正接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "想到秋季的足球训练与比赛将开始",
+          "conditional_assumptions": "如果别人不是主动选择和我做朋友，那就不是真正的友谊",
+          "compensatory_strategies": "通过减少参与或不去来降低被拒绝的风险，并预设他们只是队友",
+          "automatic_thoughts": "他们只是因为要一起踢球才和我做朋友",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑在夏令营与新同学互动",
+          "conditional_assumptions": "如果我不够有趣，就不会被喜欢",
+          "compensatory_strategies": "试图保持积极期待，但在实际互动前过度担忧与自我评估",
+          "automatic_thoughts": "我可能不够有趣，别人不会喜欢真正的我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "搬到新地方后长时间未交到很多朋友",
+          "conditional_assumptions": "如果现在不能交到朋友，就说明我不被喜欢，将来也很难改变",
+          "compensatory_strategies": "将希望寄托在未来活动（夏令营、足球）而非当下实际行动",
+          "automatic_thoughts": "我到这儿后一直没交到朋友，说明我不被喜欢",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆旧居的友谊并与当前环境比较",
+          "conditional_assumptions": "只有像过去那样长期相处且兴趣完全一致的友谊才算真实",
+          "compensatory_strategies": "不断拿现在与过去比较，忽视当前可能的积极信号",
+          "automatic_thoughts": "现在的朋友不会像过去那样真正喜欢我",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地喜欢与接纳，拥有持久而真诚的友谊",
+        "fear": "害怕被拒绝或被表面性、工具性地对待，担心真实的自己不被喜欢",
+        "defense_goal": [
+          "通过保持一定距离或回避社交来降低被拒绝的风险并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够有趣、容易被拒绝的新来者",
+          "object_representation": "他人是表面接纳但不真心的同伴，只把我当队友",
+          "linking_affect": "焦虑、孤独、不安全"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面临新的社交场景（如夏令营、足球训练）或在思考如何结交朋友时",
+          "interpretation": "他人不会喜欢真正的我，只会因为活动需要才接纳我（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹豫、用词谨慎，常使用“可能、也许”等假设性表达；当被询问具体计划时倾向强调担心他人看法并轻度回避深入细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬家至新环境后难以交友，对友情的真实性产生担忧",
+            "在思考社交与交友时感到不安全与焦虑"
+          ],
+          "outcomes": [
+            "社交回避或减少参与",
+            "焦虑增加",
+            "对绘画、阅读等日常兴趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在社交前过度自我评估（如“我可能不够有趣”）",
+            "过度在意他人是否真正喜欢自己，谨慎开启互动"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "明知家人可谈心但仍难以表达孤独与不安全感，将不适压在心里",
+            "在焦虑时减少对外求助，把能量转向自我压抑"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预测队友只是因为必须一起打球才当朋友",
+            "揣测他人不愿真正与自己交往"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在搬家后面对新环境、需要结交新朋友时，来访者通常会感到焦虑与不安全，并出现回避或减少社交的倾向，导致难以建立关系。",
+          "unique_outcome": "在旧居的学校与社区中，来访者曾因共同兴趣与长期相处而自然建立友谊，频繁一起活动，体验到被接纳与舒适。",
+          "reason": "线索：不同情境与支持——与同学同校同社区、共同兴趣与熟悉的环境；长期相处带来信任与安全感，使交往更顺畅。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "过去有成功交友的经验与资源（共同兴趣、长期相处）",
+          "态度积极，愿意尝试现实检验与小步行动",
+          "学业表现稳定，具备基本生活与学习规律",
+          "拥有父母与弟弟的潜在支持",
+          "能够识别并挑战自动化思维"
+        ],
+        "negative_force": [
+          "害怕不被喜欢的核心焦虑",
+          "认知歪曲显著（灾难化、读心术、预测未来、过度概括、全或无思维、心理过滤、否定积极）",
+          "在社交场合出现回避或减少参与",
+          "难以向家人表达孤独与不安全感",
+          "倾向将当前社交与过去关系比较并陷入失望"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与在新环境结交朋友时的焦虑",
+          "antecedent": [
+            "想到需要结交新朋友",
+            "临近或参与夏令营与秋季足球等社交活动",
+            "搬家至新环境、尚未建立同伴关系"
+          ],
+          "core_reason": "担心真实的自己不被喜欢（核心焦虑），并伴随灾难化、读心术、预测未来、过度概括与全或无等认知偏差。",
+          "function": "逃避可能的拒绝与不适以暂时缓解焦虑",
+          "consequence": "难以建立新友谊，孤独与不安全感加重；对绘画与阅读的兴趣下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 381
+}

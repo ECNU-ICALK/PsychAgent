@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "刘天宇",
+      "gender": "男",
+      "occupation": "护士",
+      "educational_background": "护理学位",
+      "marital_status": "丧偶",
+      "family_status": "配偶（丈夫）已去世，丈夫生前为销售员",
+      "social_status": "有几位亲密朋友可倾诉，但尚未与他们讨论对烹饪的恐惧；涉及餐食的社交聚会受到影响",
+      "medical_history": "无显著躯体疾病；无以往心理问题治疗史或咨询经历",
+      "language_features": "表达清晰、逻辑连贯，能具体描述情绪与想法；配合度高，但在谈及烹饪时显现紧张与担忧"
+    },
+    "main_problem": "我在烹饪方面缺乏自信，导致完全回避做饭。一次失败的晚宴后持续焦虑，害怕每次做饭都会很糟糕。",
+    "topic": "情绪管理",
+    "core_demands": "对做饭失败的持续恐惧开始影响我的整体情绪和日常生活，因此希望通过咨询来解决这一问题。",
+    "growth_experiences": [
+      "一次在家中举办的晚宴因试图取悦客人而承受较大压力，结果餐食严重失败。该事件后，来访者对烹饪的自我效能感显著下降，逐渐形成“每次做饭都会很糟糕”的预期，并产生强烈焦虑与羞耻；随后开始尽可能回避做饭，更多依赖预制食品或外卖，且在涉及餐食的社交场合中感到受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的厨师",
+        "如果不能让他人满意，我就是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "当想到要做饭（无论是为自己还是为他人）时",
+          "conditional_assumptions": "如果再次尝试做饭，我一定会像上次那样失败，结果很糟糕",
+          "compensatory_strategies": "尽量避免做饭，依赖预制食品或外卖以降低风险",
+          "automatic_thoughts": "我又会搞砸，这次也会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "参加涉及餐食的社交聚会（可能需要自己下厨或带菜）",
+          "conditional_assumptions": "如果菜不够好，别人就会评判我，觉得我不行",
+          "compensatory_strategies": "回避参与需要烹饪的部分，减少在餐食相关场合的暴露",
+          "automatic_thoughts": "大家会因为我做得不好而看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回忆那次失败的晚宴并以此作为对未来的参照",
+          "conditional_assumptions": "一次失败证明我以后都会失败",
+          "compensatory_strategies": "以那次失败为依据拒绝进一步尝试，以避免再次受挫",
+          "automatic_thoughts": "上次那么糟，这证明我不适合做饭",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过烹饪被他人认可与赞赏",
+        "fear": "害怕失败后被他人评判、羞辱与否定",
+        "defense_goal": [
+          "通过回避烹饪来避免失败与被评判，维持脆弱的自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的自己（尤其在烹饪领域）",
+          "object_representation": "挑剔且会评判自己的他人/观众",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到再次做饭或面对涉及餐食的社交场景时",
+          "interpretation": "将他人的关注理解为潜在批评与否定，认为自己若不完美就会被羞辱（移情：将他人视为苛刻的评判者）",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "倾向以回避和替代方案回应，如强调继续使用外卖或预制餐以“先稳定心态”。语气谨慎，少承诺高难度任务，使用保守措辞（例如“先等等”“不要冒险”）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕餐食不佳被评判而减少参与与餐食相关的社交聚会",
+            "回避烹饪导致与他人共享餐食与互动的机会减少"
+          ],
+          "outcomes": [
+            "社交退缩与疏离感增强",
+            "焦虑与自我否定加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设他人会因为做得不好而评判自己",
+            "在餐食相关场景中将内在羞耻与恐惧归因为“别人会看不起我”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作中曾出现“预期会失败但结果良好”的经验，说明具备在压力下完成任务的能力",
+          "职业表现稳定，护理工作未受该问题影响",
+          "态度积极，愿意寻求帮助并尝试改变",
+          "拥有几位可倾诉的朋友（尽管尚未讨论烹饪恐惧）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括、非黑即白等认知偏差显著",
+          "过度在意他人评价，担心被评判与羞辱",
+          "回避烹饪并依赖预制餐/外卖，强化恐惧循环",
+          "烹饪领域自我效能感低，否定自身能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对烹饪的强烈焦虑与回避（几乎不做饭，转而依赖外卖/预制餐）",
+          "antecedent": [
+            "想到要做饭（为自己或为他人）",
+            "参与涉及餐食的社交聚会",
+            "回忆那次失败的晚宴并以此推断未来结果"
+          ],
+          "core_reason": "失败晚宴后形成灾难化与非黑即白的认知框架，为取悦他人的高期待与对评判的恐惧结合，导致自我效能感显著下降",
+          "function": "逃避可能的失败与被评判，短期降低焦虑与羞耻感",
+          "consequence": "饮食习惯受影响、社交参与度下降、持续自我否定与焦虑加重，生活质量降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 256
+}

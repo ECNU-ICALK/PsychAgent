@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "安雯达",
+      "gender": "女",
+      "occupation": "博物馆工作人员",
+      "educational_background": "艺术史学士",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "社交支持薄弱；朋友不多，且难以向现有朋友敞开心扉",
+      "medical_history": "无重大躯体疾病；既往未出现类似心理问题；未曾接受心理治疗或心理咨询",
+      "language_features": "表达清晰、逻辑较好，能描述事件与感受；配合度较好；语气中显著焦虑与自我否定"
+    },
+    "main_problem": "在博物馆未能回答访客关于展品的一个问题后，感到自己无能并害怕丢掉工作，甚至认为自己将永远找不到其他工作。",
+    "topic": "职业发展",
+    "core_demands": "意识到自身反应与思维模式可能影响心理健康与工作稳定，希望识别问题及其背后的信念，挑战灾难化与非黑即白的思维，练习具体应对策略以减轻焦虑并改善工作表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只要我在工作中犯错就证明我是失败者",
+        "我不够胜任这份工作",
+        "我应该对展品了如指掌，否则就不配胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "在博物馆被访客提问某件作品时当场答不上来",
+          "conditional_assumptions": "如果我不能立刻回答任何关于展品的问题，就说明我不胜任并可能被解雇",
+          "compensatory_strategies": "向同事寻求保证，并尽量避免再次犯错",
+          "automatic_thoughts": "我会失去工作，而且永远找不到新工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在同事面前因答不上来而感到尴尬",
+          "conditional_assumptions": "如果我在同事面前出丑，大家就会认为我不够好",
+          "compensatory_strategies": "工作中过度自我监控，减少暴露于可能出现提问的情境",
+          "automatic_thoughts": "他们一定觉得我不够好、会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每当在工作中发生小失误或不熟悉某件展品",
+          "conditional_assumptions": "如果我犯一次错，就说明我压根不适合这份工作",
+          "compensatory_strategies": "强迫自己做到完美、过度分析每一步以避免失误",
+          "automatic_thoughts": "我是失败者/不适合这份工作",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回顾当天工作时，只关注一次未能回答的问题",
+          "conditional_assumptions": "如果我没把所有问题都答好，就不能算做好工作",
+          "compensatory_strategies": "忽视已完成的工作与正确的应答，持续反刍失败片段",
+          "automatic_thoughts": "这说明我不行，我的表现很糟糕",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任并保持工作稳定",
+        "fear": "害怕被否定、被同事看不起、被解雇",
+        "defense_goal": [
+          "维持高标准与完美以避免批评",
+          "通过寻求他人保证来降低焦虑",
+          "避免暴露不足以保持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、容易出丑的员工",
+          "object_representation": "挑剔的评判者（同事/访客）",
+          "linking_affect": "羞耻、焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到或谈及他人（同事、访客）如何看待自己的失误时",
+          "interpretation": "他人会看不起我、认为我不够好（移情：将内在的自我否定投射到外界评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和、具体化的方式询问证据与反例，保持共情语气，邀请举出具体事件而非推断，及时标注“这是一个想法而非事实”。"
+        },
+        {
+          "trigger_condition": "当咨询师提出合理解释（如被问到不熟悉的作品、当场被打断思路）并尝试降低其内疚与羞耻时",
+          "interpretation": "即便理由合理，我仍然应该做到完美，否则就不配胜任（对外界标准未经消化地吸收）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "承认其高标准的意图（想做好工作），同时温和区分“理想标准”与“现实可行性”，用具体情境重构“足够好”的标准，语气稳定、慢速，使用例证法。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "朋友不多，难以向现有朋友敞开谈论焦虑",
+            "社交支持系统不强，工作压力主要自我消化"
+          ],
+          "outcomes": [
+            "焦虑加剧与睡眠受扰",
+            "在工作中更易灾难化与过度自我苛责",
+            "更依赖外部保证而缺乏内部自我接纳"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "反复强调“我应该对展品了如指掌、不能犯错”",
+            "将完美主义标准当作唯一可接受的规则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "工作中过度分析每一步、过度自我苛责",
+            "在同事面前高度紧张，担心他人评价，导致表现失常"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为同事会看不起自己、访客会觉得自己不够好",
+            "据此产生强烈羞耻与恐惧，从而加剧回避"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有艺术史专业背景与在博物馆的工作经验",
+          "能提出具体应对方案（如查证后再回复或转介更熟悉的同事）",
+          "愿意尝试分解问题与练习更可行的回应"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白思维、过度概括、读心术与心理过滤",
+          "完美主义与高自我苛责标准",
+          "社交支持薄弱，难以向朋友表达焦虑",
+          "频繁寻求外部保证而缺乏内部自我接纳",
+          "焦虑导致睡眠受扰与工作表现下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中频繁寻求同事的保证（reassurance seeking）",
+          "antecedent": [
+            "被访客提问不熟悉的作品",
+            "在同事面前出现小失误或担心他人评价",
+            "回想当天的错误并反刍"
+          ],
+          "core_reason": "灾难化与读心术等认知偏差引发对被解雇与被看不起的恐惧，希望以他人保证短暂缓解焦虑",
+          "function": "获得安慰与安全感，短期降低焦虑",
+          "consequence": "对外部安慰的依赖增强，内部自我接纳弱化，焦虑并未实质下降，进一步影响工作表现与睡眠"
+        },
+        {
+          "behavior": "过度自我监控与回避可能犯错的情境（完美主义驱动的谨慎与回避）",
+          "antecedent": [
+            "预期会被问到不熟悉的问题",
+            "需要在同事或访客面前说明展品",
+            "想到“我必须做到完美”"
+          ],
+          "core_reason": "内摄的完美标准与非黑即白思维驱动，将一次失误视为全面失败，试图通过回避来防止再次暴露不足",
+          "function": "逃避潜在批评与羞耻，维持表面安全感",
+          "consequence": "学习与练习机会减少，实际胜任感不提升，焦虑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 115
+}

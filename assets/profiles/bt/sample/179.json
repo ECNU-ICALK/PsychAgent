@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "53",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；长期存在羞怯与与表演相关的恐惧史",
+      "language_features": "表达清晰，能具体描述担忧与躯体反应；思维偏负面，存在灾难化与预测未来的认知模式；配合度尚可"
+    },
+    "main_problem": "我极度羞怯，害怕在他人面前表演；我担心被观众嘲笑并成为网络笑柄。随着才艺表演日期临近，这种恐惧与自我怀疑加剧，压力很大，并在“预期—回避”的循环中反复出现。",
+    "topic": "情绪管理",
+    "core_demands": "因为临近的才艺表演而来访，希望减轻对公开表演的恐惧与自我怀疑，能够上台完成表演，不再被对羞辱与嘲笑的担忧所阻碍，从而追求自己热爱的机会。",
+    "growth_experiences": [
+      "长期羞怯与与公开演出相关的恐惧史，曾因此回避涉及公众讲话或表演的机会；此前未接受过心理治疗。",
+      "在学校曾做过一次演讲，虽然同样非常紧张，但因必须完成而“硬着头皮上”，最终表现还可以，这成为少数成功应对的过往经历。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好，别人会嘲笑我",
+        "在众人面前我会出丑且无法掌控局面"
+      ],
+      "special_situations": [
+        {
+          "event": "报名参加才艺表演，临近演出时不断想到可能被观众嘲笑并成为网络笑柄",
+          "conditional_assumptions": "如果我在台上犯错，观众会嘲笑我，视频会被上传扩散，我会成为笑柄并长期受羞辱",
+          "compensatory_strategies": "通过回避或不表演来避免羞辱；只独自练习，不邀请他人观看；在脑中反复预演最坏情形以试图“做好准备”",
+          "automatic_thoughts": "我会忘词、冻结，大家会嘘我，视频会在网上疯传，我会成为笑柄",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到观众规模很大、演出“更有赌注”",
+          "conditional_assumptions": "如果观众越多、利害越大，一旦出错后果就会更严重且无法承受",
+          "compensatory_strategies": "避免在大型场合演出，降低曝光以减少被评判的风险",
+          "automatic_thoughts": "观众这么多，我肯定撑不住，会彻底搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "设想在朋友面前练习或邀请朋友围观时",
+          "conditional_assumptions": "如果让朋友看我的表演，他们会评判甚至看不起我，所以不能让他们看",
+          "compensatory_strategies": "拒绝或回避在熟人面前练习，不与朋友讨论自己的恐惧",
+          "automatic_thoughts": "他们会觉得我很差，会嘲笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回忆起曾经一次学校演讲表现还可以，但认为这次才艺表演“不同且更糟”",
+          "conditional_assumptions": "过去做得还行并不意味着这次不会失败；这次更难更危险",
+          "compensatory_strategies": "否定过往正面经验的参考价值，维持对失败的高预期以支持回避",
+          "automatic_thoughts": "那次只是侥幸，这次肯定不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在他人面前被接纳与认可，能够自信地展现才华",
+        "fear": "害怕被嘲笑、羞辱与否定，成为众人的笑柄",
+        "defense_goal": [
+          "通过回避与保持距离来防止羞辱与否定",
+          "维持安全感，减少暴露在他人评判之下"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易出丑且不被认可的表演者",
+          "object_representation": "苛刻、容易评判与嘲笑的观众/他人",
+          "linking_affect": "恐惧、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议在朋友面前练习或邀请他人支持时",
+          "interpretation": "将他人视为潜在的评判者和嘲笑者（移情：他人会看不起我）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以谨慎、犹豫的语气表达担忧，礼貌拒绝他人参与练习，强调“不信任他人评价”与“担心被看不起”。"
+        },
+        {
+          "trigger_condition": "当想到大型观众与演出日期临近、感觉风险更大时",
+          "interpretation": "将情境视为必然导致羞辱的危险，认为失败不可避免（“更大观众=更严重后果”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用事实性语言强调风险与“赌注”，以无奈的语气提出不表演或继续回避的理由。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "羞怯影响形成亲密关系与与他人连接",
+            "有朋友但未与其讨论表演恐惧，倾向独自承担"
+          ],
+          "outcomes": [
+            "人际关系疏离与信任困难",
+            "焦虑维持与加重",
+            "持续回避导致支持缺乏"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧与自我怀疑限制了追求热爱的机会（公开表演、试镜等）"
+          ],
+          "outcomes": [
+            "选择受限、机会流失",
+            "自我效能感下降与自信受损",
+            "回避行为固化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对他人评价高度敏感，过度在意可能出丑",
+            "不信任他人、难以邀请朋友参与练习",
+            "反复审视自身表现并设想最坏情形"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设观众和朋友会嘲笑或看不起自己",
+            "将内在的羞耻与恐惧体验归因于他人的评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对公众讲话或表演的情境中，来访者通常会强烈紧张并倾向回避，担心被评判与嘲笑。",
+          "unique_outcome": "在一次学校演讲中，尽管同样非常紧张，陈凯仍“硬着头皮上”，并顺利完成且表现还可以。",
+          "reason": "不同情境/做法：该演讲任务具有强制性与明确结构，来访者采取坚持完成的做法，没有选择回避，从而突破了紧张的惯常束缚。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有一次公众场合的成功经验（学校演讲表现还可以）",
+          "已报名才艺表演，显示出面对恐惧的动机与意愿",
+          "能进行成功情境的可视化，具备一定自我调节的潜力",
+          "有几位可以交流的朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的负性思维模式",
+          "读心术式的他人评价假设，导致信任与支持获取受阻",
+          "预期—回避的循环维持焦虑",
+          "对观众规模与“赌注”的过度关注与合理化回避",
+          "睡眠与自信心受影响，进一步削弱应对能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "公开表演恐惧与回避（社交/舞台焦虑）",
+          "antecedent": [
+            "报名才艺表演并临近演出日期",
+            "想到要在大规模观众面前表演",
+            "设想在朋友面前练习或邀请他人观看时",
+            "反复想象最坏情形（忘词、冻结、被嘘、视频传播）"
+          ],
+          "core_reason": "对被嘲笑与网络羞辱的灾难化预测，过度关注他人负面评价与读心术假设。",
+          "function": "逃避潜在羞辱与高强度焦虑，以保护自尊与安全感。",
+          "consequence": "错失试镜/表演机会；睡眠与整体自信受损；人际连接受限；压力水平升高。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 179
+}

@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "78",
+      "name": "周德安",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母为律师；有少量可沟通的朋友和家人，但尚未与其讨论此具体问题",
+      "social_status": "因回避涉及泳装的社交活动，友谊与家庭互动受影响，社交参与受限",
+      "medical_history": "无显著躯体疾病；青少年时期形成疤痕；曾有与体像相关的类似回避行为；无既往心理治疗或心理干预史",
+      "language_features": "表达清晰、逻辑连贯、配合度高；语气偏消极，反复强调“很难”“无法”，自动化思维强烈；愿意尝试记录想法与逐步练习"
+    },
+    "main_problem": "我回避穿泳装，因为我相信人们会认为我太胖或会根据我的疤痕来评判我，这让我感到强烈的自我意识与不适。",
+    "topic": "情绪管理",
+    "core_demands": "“我想在自己的皮肤里感到舒适，不再让这些想法控制我的生活。我希望能去海滩或泳池，而不再对自己感到那么糟糕。”",
+    "growth_experiences": [
+      "青少年时期出现疤痕，并且被同伴针对身材做出评论；当时压力水平中等；自此逐步形成对他人目光与评价的高度敏感与羞耻感，开始避免任何需要穿泳装的场合。随着时间推移（尤其在夏季或去有水上活动的场所），这一回避更为显著，持续多年并影响社交生活与自信。",
+      "长期独自应对体像困扰与回避行为，未曾寻求心理治疗或与支持系统深入讨论具体问题，逐渐固化为稳定的“回避—暂时缓解—生活受限”的循环。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我有缺陷（太胖、带疤痕），因此不被他人接受",
+        "他人会因为我的外貌而负面评判我"
+      ],
+      "special_situations": [
+        {
+          "event": "夏季或前往海滩/泳池等需要穿泳装的场合",
+          "conditional_assumptions": "如果别人看见我的疤痕或身材，他们就会认为我太胖并评判我",
+          "compensatory_strategies": "完全回避涉及穿泳装的活动，不穿泳装、以遮盖身体来避免被看见",
+          "automatic_thoughts": "所有人都会盯着我，看我很胖、看我的疤痕",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友或家人发出参加泳池/海滩活动的邀请",
+          "conditional_assumptions": "如果我参加，他们会注意到我的外貌并对我产生负面看法；拒绝参加就能避免被评判",
+          "compensatory_strategies": "找借口拒绝或取消参加相关活动",
+          "automatic_thoughts": "他们会在心里看不起我，觉得我难看",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "试穿或考虑购买泳装时",
+          "conditional_assumptions": "如果泳装不能遮盖缺陷，就说明我很糟糕、没有任何办法能改善",
+          "compensatory_strategies": "寻找过度遮盖的衣物或干脆不购买、不试穿",
+          "automatic_thoughts": "我看起来很糟，穿什么都没有用",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回忆起青少年时期同伴关于身材的负面评论",
+          "conditional_assumptions": "如果当年被嘲笑，现在也必然会被嘲笑",
+          "compensatory_strategies": "尽量远离任何可能暴露身体的社交场景",
+          "automatic_thoughts": "历史会重演，他们还是会嘲笑我",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，能够自在地展露身体并参与社交活动",
+        "fear": "害怕被评判、羞辱与排斥，担心再次经历被嘲笑的痛苦",
+        "defense_goal": [
+          "通过回避暴露身体的情境来维持安全感与自尊",
+          "以遮盖为主、减少被看见来避免潜在的负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻且有缺陷的被注视者",
+          "object_representation": "苛刻、带评判性的旁观者/同伴",
+          "linking_affect": "羞耻、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议进行认知重构或行为实验以检验他人评价的假设时",
+          "interpretation": "来访者倾向于认为改变很难、这些念头“太真实”，若参与实验会感到暴露与不安全",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以同理和验证为基调，先承认困难与担忧；使用温和、具体化的提问，帮助将任务拆分为微步骤，并邀请其以低风险场景开展微型实验。"
+        },
+        {
+          "trigger_condition": "当谈到与朋友或家人分享其体像困扰与具体回避问题时",
+          "interpretation": "来访者倾向于认为说出来会被评判或给他人添麻烦，因此选择不表达",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "维持安全的治疗氛围，鼓励以感受词汇命名情绪；允许停顿与沉默，以支持性语言逐步邀请其尝试在小范围内进行有限分享。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免泳装相关的社交活动，导致与朋友和家人的互动减少",
+            "未与自身支持系统讨论此具体问题，倾向独自承受"
+          ],
+          "outcomes": [
+            "羞耻与焦虑加剧",
+            "体验范围受限、参与度下降",
+            "自我价值感受挫"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "长期回避使生活选择受限，难以自由参与海滩/泳池活动"
+          ],
+          "outcomes": [
+            "主观自由感降低",
+            "生活满意度与自信心下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "反复认为别人会盯着自己的疤痕、认为自己太胖并进行负面评价",
+            "在公共场合感到被“所有人”注视和评判"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "选择回避泳装活动、压抑参与冲动并对自身施加限制",
+            "未向朋友和家人分享困扰，转而独自承受不适与羞耻感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一定的社会支持（有朋友和家人可沟通）",
+          "自我觉察提升：清楚认识到回避限制生活并主动寻求帮助",
+          "动机强：愿意尝试记录自动化思维与逐步练习"
+        ],
+        "negative_force": [
+          "长期回避策略巩固羞耻与焦虑",
+          "过度关注他人评价（读心术、仓促下结论）",
+          "体像羞耻与自信不足",
+          "未与支持系统讨论具体问题，导致资源未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避穿泳装及相关的水上活动",
+          "antecedent": [
+            "夏季或去海滩/泳池等需要穿泳装的场合",
+            "想到他人可能注视或评论自己的身材与疤痕",
+            "回忆青少年时期被同伴评论身材的经历"
+          ],
+          "core_reason": "青少年时期形成疤痕并遭遇同伴身材评论，引发体像羞耻与焦虑；对他人评价的灾难化预测与读心术思维加固回避",
+          "function": "逃避被评判与羞耻感，短期降低焦虑与不适",
+          "consequence": "社交生活与关系受限，无法享受海滩/泳池等活动，自信下降与情绪困扰加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 851
+}

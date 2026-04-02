@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "罗岚",
+      "gender": "女",
+      "occupation": "前机械师",
+      "educational_background": "汽车维修职业培训",
+      "marital_status": "未婚",
+      "family_status": "无直系亲属，独居",
+      "social_status": "有少数对汽车了解的朋友可交流，但未向其倾诉情绪；因回避一起修车，朋友关系受到影响",
+      "medical_history": "既往无心理治疗或类似问题经历；无显著躯体疾病",
+      "language_features": "表达清晰，配合度较好，语气中性，能具体描述焦虑与困扰；思维中出现灾难化、过度概括与自我标签化的特征"
+    },
+    "main_problem": "我觉得自己是史上最糟糕的机械师，尤其在更换汽车灯泡等简单任务上也会挣扎，导致我回避修车；每当尝试维修车辆时（每周几次）就会出现强烈的无能感。",
+    "topic": "职业发展",
+    "core_demands": "这些无能感影响我的自尊并妨碍我有效地修车，因此我寻求咨询，希望改善这种状态。",
+    "growth_experiences": [
+      "几个月前在进行基本机械任务时开始出现困难（如更换汽车灯泡失败），由此引发显著的无能感与回避行为，工作表现下降、日常兴趣和与朋友共同修车的活动受损。",
+      "几个月前看到关于入室抢劫的新闻后，开始强烈担心娃娃收藏被盗；离家或在外工作时频繁恐惧，睡眠变差、社交活动减少，并因此提升家庭安保与回避相关新闻。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/能力不足",
+        "我是最糟糕的机械师"
+      ],
+      "special_situations": [
+        {
+          "event": "在给汽车更换灯泡时未能成功",
+          "conditional_assumptions": "如果连简单任务都做不好，就证明我不行/我是最糟糕的机械师",
+          "compensatory_strategies": "减少或回避修车尝试，转而观看教程并向朋友求助，但总体降低实践频率",
+          "automatic_thoughts": "我连这都做不好，我是史上最糟糕的机械师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每当尝试维修车辆（每周几次）",
+          "conditional_assumptions": "只要再次尝试就会失败并进一步证明我不行",
+          "compensatory_strategies": "干脆不做或拖延，以避免再次失败",
+          "automatic_thoughts": "我一定会搞砸，还是别做了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到关于盗窃或入室抢劫的新闻或听到破门而入的消息",
+          "conditional_assumptions": "如果我离开家，盗贼很可能会入室偷走我的收藏",
+          "compensatory_strategies": "增加家庭安保、回避相关新闻、减少外出与社交",
+          "automatic_thoughts": "我一离家，娃娃就会被偷",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在外工作或不在家时想到收藏的安全",
+          "conditional_assumptions": "必须待在家才能确保安全，否则一定会出事",
+          "compensatory_strategies": "尽量待在家、取消社交活动以‘守护’收藏",
+          "automatic_thoughts": "不在家就会出事，我得守着才行",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持胜任与掌控感，保护重要事物（收藏）的安全",
+        "fear": "害怕失败被评判、害怕离家后被侵入与失去重要物品",
+        "defense_goal": [
+          "通过回避修车与社交、加强安保来降低失败与风险，以维持安全感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "能力不足、容易失败的机械师",
+          "object_representation": "他人（同行/朋友）是评判者、比自己更能干",
+          "linking_affect": "自卑、焦虑"
+        },
+        {
+          "self_representation": "脆弱的守护者，必须亲自看守收藏",
+          "object_representation": "外界是危险的侵入者/威胁者",
+          "linking_affect": "恐惧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当离家或谈及/看到关于盗窃的新闻时",
+          "interpretation": "将外界视为随时会侵入的威胁，认为离家几乎必然导致被盗",
+          "defense_mechanism": "sring",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "采用稳定、共情的语气，承认其担忧，邀请其一起进行具体的风险评估与小步行为实验，关注事实数据。"
+        },
+        {
+          "trigger_condition": "当需要完成机械维修任务或回想一次失败经历时",
+          "interpretation": "将一次失败等同于自身全面无能，假设进一步尝试只会证明‘我不行’",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和的探询与具体化问题的方式，鼓励记录客观表现与小步尝试，避免评价，聚焦可观察证据来挑战结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧被盗导致不敢离家、取消社交与外出",
+            "为了避免失败而不再修车"
+          ],
+          "outcomes": [
+            "生活范围受限",
+            "回避行为增加",
+            "职业功能下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且与汽车爱好朋友减少互动",
+            "倾向留在家中以‘守护’收藏"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "孤立感增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自我评价为‘最糟糕的机械师’导致职业自我价值动摇"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "工作动力减退"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须在家才安全”等僵化规则要求自己",
+            "将“一次失败=整体无能”视为绝对标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我标签为“最糟糕的机械师”",
+            "在尝试任务时过度谨慎并倾向回避"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有汽车维修的职业培训背景与经验",
+          "愿意尝试行为实验并对探索持开放态度",
+          "已采取实际措施提升居家安保",
+          "存在可求助的汽车领域朋友资源"
+        ],
+        "negative_force": [
+          "灾难化与预测未来倾向，过度估计负面结果",
+          "过度概括与自我标签化，导致自尊受损",
+          "回避行为强化焦虑与“无能”信念",
+          "对外界威胁的持续警觉限制生活与社交"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避从事汽车维修与相关任务",
+          "antecedent": [
+            "在尝试维修车辆时",
+            "回想最近在基本任务上的失败（例如更换灯泡失败）"
+          ],
+          "core_reason": "将一次失败过度概括为整体无能，并对再次失败进行灾难化预测，担心进一步损害自尊与职业身份",
+          "function": "逃避失败与羞耻感，暂时保护自尊与缓解焦虑",
+          "consequence": "工作表现显著下降，日常兴趣与社交受损"
+        },
+        {
+          "behavior": "离家时出现强烈焦虑并减少外出/社交以“守护”娃娃收藏",
+          "antecedent": [
+            "看到关于盗窃或入室抢劫的新闻",
+            "在外工作或不在家时想到收藏的安全"
+          ],
+          "core_reason": "对被盗风险进行灾难化解释与预测未来，将离家与“必然出事”相联系",
+          "function": "逃避感知到的危险以获得即时安全感",
+          "consequence": "睡眠质量差、社交活动减少、生活范围受限"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1691
+}

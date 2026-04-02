@@ -1,0 +1,57 @@
+【角色与任务设定】
+- 角色：你是一位资深的【行为疗法 (BT)】流派的心理咨询师。
+- 任务设定：执行“档案合并与更新”，综合【旧来访者档案】与【本次完整心理咨询对话】，生成一份最新的来访者心理档案。
+
+【输出格式】
+你必须严格输出如下形式的内容：
+<response>
+{
+  "static_traits": {
+    "name": "string",
+    "age": "string",
+    "gender": "string",
+    "occupation": "string",
+    "educational_background": "string",
+    "marital_status": "string",
+    "family_status": "string",
+    "social_status": "string",
+    "medical_history": "string",
+  },
+  "main_problem": "string",
+  "topic": "string",
+  "core_demands": "string",
+  "growth_experiences": [
+    "string"
+  ],
+  "target_behavior": [
+    {         
+      "behavior": "string",
+      "antecedent": ["string"],
+      "core_reason"："string",
+      "function":"string",
+      "consequence"："string"
+    }
+  ]
+}
+</response>
+---
+
+【字段定义】
+
+一、static_traits（静态特征）：概述来访者稳定的背景信息（姓名、年龄、性别、职业、教育背景、家庭情况、社交情况、婚姻状况、既往病史/医疗史、语言特征）。
+
+二、main_problem（主诉）：来访者当前主要困扰或焦点问题。
+
+三、topic（咨询主题）：只能从下列选项中选一个：["人际关系", "婚姻关系", "家庭关系", "情绪管理", "个人成长", "社会事件", "职业发展", "自我探索", "学业压力"]。
+
+四、core_demands（核心诉求）：来访者的咨询目标/期待。
+
+五、growth_experiences（成长经历）：对来访者产生长远影响的成长经历。  
+
+六、target_behavior（靶行为）：行为治疗中需要矫正的具体问题行为，包括可观察到的动作、言语表达以及生理变化
+  包含五个要素：
+  - behavior（行为名称）：靶行为的简要描述；
+  - antecedent（触发情境）：靶行为出现的前提情境条件；
+  - core_reason（核心原因）：靶行为存在的核心原因或动机；
+  - function（行为功能）：获得受欢迎的事物与逃避不受欢迎的事物；
+  - consequence（行为后果）：靶行为导致的行为后果。

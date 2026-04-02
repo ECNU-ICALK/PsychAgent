@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "王洁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；此前未出现类似问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、逻辑性较好，能具体描述自动化思维与情绪；态度积极但略显紧张；在被赞美情境中倾向否定积极反馈与心理过滤，配合度较高。"
+    },
+    "main_problem": "尽管经常被他人夸赞智力和能力，我却很抗拒成为众人关注的焦点。这让我在被认可时感到不适与厌恶，并在社交场合中难以应对。",
+    "topic": "人际关系",
+    "core_demands": "社交场合中的不适和持续否定正面反馈的倾向开始影响到我的人际关系与自尊，因此寻求咨询以缓解这些影响。",
+    "growth_experiences": [
+      "从小就持续被他人夸赞智力与能力，由此逐渐对被关注与被赞美产生不适与反感；近来因个人成就获得更多注意，使这种不适加重并开始影响与朋友、同事的关系以及自尊。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我必须完美，否则就是失败",
+        "被关注和被赞美是不安全的，会让我很难受"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合被朋友或同事公开称赞智力或成就",
+          "conditional_assumptions": "如果接受赞美，我就会成为众人焦点并被评判",
+          "compensatory_strategies": "淡化或忽略正面反馈，转移话题，避免眼神接触",
+          "automatic_thoughts": "我不该被关注，我讨厌成为焦点",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作或团队会议上因完成项目而受到更多注意",
+          "conditional_assumptions": "一旦引人注目，人际关系会紧张并出现挑剔与评价",
+          "compensatory_strategies": "降低自我曝光、把功劳推给他人以减少注意力",
+          "automatic_thoughts": "被关注只会带来麻烦",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在节食期间吃了不在计划内的食物",
+          "conditional_assumptions": "一次失误就意味着彻底失败，证明我没有自控力",
+          "compensatory_strategies": "跳过餐、进行极端运动以惩罚自己",
+          "automatic_thoughts": "我永远达不到目标",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想并反复关注一次饮食上的失误",
+          "conditional_assumptions": "我无法控制自己，未来也会继续失败",
+          "compensatory_strategies": "通过严厉自我批评来逼自己遵守计划",
+          "automatic_thoughts": "这次失败证明我以后也会失败",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，同时保持安全的自我边界",
+        "fear": "害怕成为众人焦点后被评判、人际紧张并失去掌控感",
+        "defense_goal": [
+          "通过淡化赞美与回避聚光灯来降低焦虑",
+          "以自我惩罚维持“控制感”并抵消内疚"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不愿成为焦点、容易在被注视时感到不适的个体",
+          "object_representation": "他人是过度关注并可能评判的赞美者",
+          "linking_affect": "紧张、羞耻、焦虑"
+        },
+        {
+          "self_representation": "容易失败并需要惩罚自己的失控者",
+          "object_representation": "他人（或内在的苛刻父母形象）是批判与要求严格的评判者",
+          "linking_affect": "内疚、羞耻、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中被肯定优点或被邀请关注自身成就时",
+          "interpretation": "潜意识认为咨询师会把自己推到聚光灯并进行评判（移情：将他人视为评判性的关注者）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "轻描淡写赞美、用自我贬低或转移话题回应，语气克制，减少细节披露以避免成为焦点。"
+        },
+        {
+          "trigger_condition": "当谈及饮食失误或被指出非黑即白思维时",
+          "interpretation": "将咨询师的探询理解为批判与控制（移情：把他人想象为苛刻的监督者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用分析性、抽象化语言，弱化情感用词，保持冷静客观的语气以回避羞耻与内疚。"
+        },
+        {
+          "trigger_condition": "当内疚与羞耻上升并想到自身“错误”时",
+          "interpretation": "认为必须通过自我惩罚来赎罪，才能避免更糟后果",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "以自责语句表达，提出惩罚性计划（如跳过餐、加大运动强度），语气严厉、少关注自我关怀。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿成为焦点，回避或淡化他人的赞美与关注",
+            "即使有几位亲密朋友也未讨论此问题，倾向于独自承担不适",
+            "在被认可时感到羞耻与紧张，减少与他人的真实接触"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "焦虑与羞耻上升",
+            "自尊受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在被赞美时淡化或忽略积极反馈",
+            "转移话题以避免直接回应赞美或认可"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "饮食失误后过度自责并采取极端惩罚",
+            "在社交回应中过于谨慎，担心被评价而压抑真实表达"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须完美、不能犯错”作为绝对标准",
+            "在被夸赞或认可时以外界期待为准则，忽视自身感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在出现饮食诱惑或偏差时，来访者通常会情绪化灾难化，认为自己“彻底失败”，并通过跳过餐或极端运动进行自我惩罚，导致压力与不健康饮食模式加重。",
+          "unique_outcome": "来访者曾有连续一段时间严格遵守饮食计划并对进展感到良好，未被“一次失误即失败”的想法主导。",
+          "reason": "线索：在那段时期，她更关注成功证据与实际进展，保持稳定节奏；可能进行了提前规划与自我记录，从而提升了自我效能感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "智力与能力受到他人持续认可（具备客观优势）",
+          "曾有一段时间成功坚持饮食计划，具备自律与自我效能的经验",
+          "拥有几位可信任的亲密朋友可提供情感支持",
+          "愿意尝试行为实验与认知重构，求助动机明确"
+        ],
+        "negative_force": [
+          "倾向否定积极反馈（Disqualifying the Positive）",
+          "心理过滤，聚焦负面、忽略成功经验（Mental Filtering）",
+          "非黑即白思维与负向预测，导致一次失误即判定彻底失败",
+          "害怕成为焦点、回避赞美与关注，影响人际关系",
+          "内疚与羞耻驱动的自我惩罚行为（跳过餐、极端运动），恶化健康与情绪"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在被赞美或被关注时回避/淡化赞美，伴随强烈不适",
+          "antecedent": [
+            "在社交场合被朋友或同事称赞智力或成就",
+            "因个人成就而获得更多关注"
+          ],
+          "core_reason": "早期持续被夸赞形成“被关注不安全/会被评判”的条件信念，并对外部评价高度敏感",
+          "function": "逃避被关注与被评判带来的不适与焦虑",
+          "consequence": "人际关系紧张，社交场景中的不适加剧，影响自尊"
+        },
+        {
+          "behavior": "在饮食出现偏差后采取自我惩罚（跳过餐、极端运动），并产生绝望与失败感",
+          "antecedent": [
+            "饮食中吃了不在计划内的食物",
+            "反复回想一次饮食失误"
+          ],
+          "core_reason": "“一次错误等于彻底失败”的非黑即白核心假设与对自控力的悲观预测",
+          "function": "通过惩罚行为试图恢复控制感、抵消内疚与羞耻",
+          "consequence": "压力增大、饮食模式恶化、负性情绪强化，进一步削弱自我效能与健康"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 745
+}

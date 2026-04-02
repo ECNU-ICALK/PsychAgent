@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "肯顿",
+      "gender": "男性",
+      "occupation": "未披露",
+      "educational_background": "未提供",
+      "marital_status": "未提供",
+      "family_status": "与一名考古学家哥哥和一名整骨科医生母亲共同生活",
+      "social_status": "人际关系因担心被他人质疑意大利语水平而趋于紧张；日常互动受影响，且难以向家人敞开谈论此担忧",
+      "medical_history": "无显著躯体疾病；无既往心理治疗/咨询史；此前未出现类似心理问题",
+      "language_features": "表达清晰、逻辑明确，能具体举例并积极配合；主观体验为紧张但抱有希望，倾向于过度自我监控与假设他人想法"
+    },
+    "main_problem": "我持续担心别人怀疑我说意大利语的流利程度，尽管我很流利。这种感觉是在几年前搬到新国家、需要经常说意大利语时开始的，我在社交或正式场合都会假设别人觉得我的语言能力不好，并不断过滤掉正面反馈、专注于他人的负面反应。",
+    "topic": "人际关系",
+    "core_demands": "这次促使我寻求咨询的决定性因素，是意识到这种持续的担忧正在影响我的自信和与他人的互动。我想找到停止这种持续担忧的方法。",
+    "growth_experiences": [
+      "几年前搬到新国家后，需要经常使用意大利语交流。起初在新环境中感到需要证明自己，压力为中等；随着时间推移，在互动中逐渐形成只关注负面线索、忽视正面反馈的模式，每当说意大利语时就假设他人会质疑自己的流利度，导致社交与学业场合的焦虑与自信受损。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值与能力需要通过他人的认可来证明",
+        "如果我不能表现得完美，我就不够好/不够流利"
+      ],
+      "special_situations": [
+        {
+          "event": "上周在学校项目陈述中用意大利语发言",
+          "conditional_assumptions": "如果我在公开场合说意大利语出现任何错误，就会被同学认为不够流利",
+          "compensatory_strategies": "在发言前后加倍练习，并在事后向他人寻求肯定以缓解不安",
+          "automatic_thoughts": "他们一定觉得我听起来很可笑，我正在犯很多错误",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合与母语者用意大利语交谈",
+          "conditional_assumptions": "如果无法达到母语者的标准，就会被评判和排斥",
+          "compensatory_strategies": "交谈时过度自我监控、说话谨慎，之后反复回想他人反应",
+          "automatic_thoughts": "他们在挑我每一个毛病，认为我不够流利",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在正式/职业化的场合需要用意大利语表达",
+          "conditional_assumptions": "如果表现不完美，别人就会否定我的能力并产生负面后果",
+          "compensatory_strategies": "事前反复练习、事后寻求他人认可来证明自己",
+          "automatic_thoughts": "这次我一定会出错，他们会觉得我不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "搬到新国家后需要经常使用意大利语",
+          "conditional_assumptions": "在新环境里，如果不能马上证明自己很流利，就会被看低",
+          "compensatory_strategies": "持续练习以证明自己、在互动中寻找外部验证",
+          "automatic_thoughts": "他们会怀疑我的流利度",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳（尤其是语言能力得到肯定）",
+        "fear": "害怕被评判、被否定，从而失去自信与人际连接",
+        "defense_goal": [
+          "通过寻求外部验证与加倍练习来维持安全感与控制感",
+          "在互动中保持谨慎、减少暴露以避免被批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被他人审视、容易出错的青少年说话者",
+          "object_representation": "挑剔、随时会评判的他者（同学/母语者）",
+          "linking_affect": "焦虑、羞愧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、挑战对他人想法的假设时",
+          "interpretation": "将询问理解为对自身能力的审视，倾向认为他人（包括咨询师/听众）在挑剔自己（移情：将评判性的他者表象带入当前关系）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用确定性的陈述断言他人的看法，语气谨慎但偏紧张；当被追问证据时弱化具体事实，强调他人的表情与肢体语言作为依据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与他人关系因担心被评判而变得紧张",
+            "难以向家人敞开谈论这一担忧"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "自信心下降",
+            "互动受限"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "过度依赖外部评价与验证来确认自我能力",
+            "在公开发言中谨慎自我监控，难以自由表达"
+          ],
+          "outcomes": [
+            "自主性受限",
+            "体验僵化与紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "讲话时反复自我审查、第二次猜测自己的用词与表达",
+            "事后反复回看他人的反应以确认自己是否出错",
+            "不断寻求他人确认自己的流利度"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "假设他人认为自己不够流利",
+            "将中性表情或肢体语言解读为对自己能力的负面评价"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "在新环境中感到必须证明自己很流利",
+            "以完美标准要求自己在公开场合不许出错"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与家人关系亲近（具备基础支持）",
+          "实际意大利语能力良好（自述流利）",
+          "态度积极，愿意记录并挑战自动化思维",
+          "坚持练习与主动寻求帮助"
+        ],
+        "negative_force": [
+          "心理过滤，倾向只关注负面线索",
+          "仓促下结论（读心术、预测未来）",
+          "个人化，将他人反应过度归因于自身不足",
+          "过度依赖外部验证，内在自我评价薄弱",
+          "人际关系因担忧被评判而紧张，且难以向家人敞开"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在使用意大利语的社交/学业/正式场合出现显著焦虑与过度自我监控",
+          "antecedent": [
+            "在社交场合用意大利语交流",
+            "面对母语者时用意大利语发言",
+            "学校项目/公开陈述需要用意大利语",
+            "搬到新国家后需经常使用意大利语"
+          ],
+          "core_reason": "搬迁到新国家后产生“必须证明自己”的压力与对被质疑的恐惧；长期心理过滤与读心术导致对负面评价高度敏感，且自我价值依赖外部认可。",
+          "function": "逃避负面评价、保护自尊并获得外部认可与安全感",
+          "consequence": "自信心下降、人际关系紧张、交流专注度与效率受损、主观疲惫与焦虑加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1309
+}

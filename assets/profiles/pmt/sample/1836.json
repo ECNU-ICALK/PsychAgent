@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "杜肯",
+      "gender": "男",
+      "occupation": "研究生",
+      "educational_background": "在读硕士研究生",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与朋友和家人的关系因情绪困扰而紧张",
+      "medical_history": "未有类似财务问题史；既往未接受心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述财务压力与情绪，配合度良好"
+    },
+    "main_problem": "我因作为研究生累积了大量债务而感到绝望与无助，这种对财务安全的担忧自研究生阶段开始便持续加重，影响到睡眠、饮食、学业表现以及人际关系。",
+    "topic": "情绪管理",
+    "core_demands": "由于财务担忧对我的心理健康和整体生活质量产生了显著影响，我寻求咨询以缓解焦虑与绝望。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远无法摆脱债务",
+        "我无法掌控自己的财务与未来"
+      ],
+      "special_situations": [
+        {
+          "event": "收到学费账单或查看银行账户余额",
+          "conditional_assumptions": "如果债务持续增加而收入没有改变，我就不可能摆脱债务",
+          "compensatory_strategies": "尝试通过制定预算与寻求财务建议来重新获得掌控感",
+          "automatic_thoughts": "我这辈子都还不清这笔债",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到债务增加、收入保持不变",
+          "conditional_assumptions": "如果近期看不到明显好转，就说明我的财务未来已经彻底毁掉",
+          "compensatory_strategies": "反复查看账目与债务数据、过度关注负面信息以试图掌控局面",
+          "automatic_thoughts": "我的财务未来已经毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与朋友或家人互动，被财务困境触发不适",
+          "conditional_assumptions": "如果我坦露财务困境，别人会看不起我或无法理解我",
+          "compensatory_strategies": "回避与他人分享财务问题的真实程度，保持隐瞒",
+          "automatic_thoughts": "他们会觉得我很糟糕",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在尝试过预算和咨询后，焦虑与无望仍然存在",
+          "conditional_assumptions": "如果这些方法没有立刻奏效，说明没有任何办法能帮助我",
+          "compensatory_strategies": "忽视可能的微小改善，继续强调问题的严重性",
+          "automatic_thoughts": "无论我做什么都没有用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全与掌控、被理解与支持",
+        "fear": "害怕暴露脆弱后被评判或拒绝，担心失去对生活的掌控",
+        "defense_goal": [
+          "通过隐瞒与疏离来维持安全感与自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不堪重负、无助的失败者",
+          "object_representation": "可能批评或不理解的他人",
+          "linking_affect": "羞耻、焦虑、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于采取具体行动（如兼职或更细致预算）时",
+          "interpretation": "认为他人的建议无法理解自己的处境、即使尝试也不会有用（带有投射与悲观期待）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平稳语气陈述“这也没什么用”的理由，强调债务规模与收入不变，减少情绪表达并以理性分析结束话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到债务束缚了选择与生活的掌控",
+            "难以想象不再这样感受的未来"
+          ],
+          "outcomes": [
+            "焦虑与绝望增强",
+            "学业受损",
+            "睡眠与饮食紊乱",
+            "人际关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿向朋友充分分享财务困境",
+            "与亲友关系因情绪困扰而紧张"
+          ],
+          "outcomes": [
+            "情感支持减少",
+            "负性情绪加剧",
+            "回避交流"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外发出的能量或请求，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友充分透露财务压力的真实程度，选择独自承受",
+            "在强烈焦虑时将能量转向自我担忧与自我苛责，而非外求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾通过努力获得研究生录取，具备韧性与解决问题的能力",
+          "已主动尝试预算与寻求财务建议，具有行动意愿",
+          "拥有几位可谈心的朋友，具备一定的社会支持潜力"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维模式强化无望感",
+          "过度担忧与心理过滤，否定积极信号",
+          "回避向他人分享困境，支持获取受限",
+          "睡眠与饮食紊乱导致精力与学业进一步受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的财务焦虑与绝望，伴随失眠、食欲改变、学习注意力下降",
+          "antecedent": [
+            "收到学费账单",
+            "查看银行账户余额",
+            "意识到债务增加、收入不变"
+          ],
+          "core_reason": "对债务的灾难化与预测未来、以及“我无法摆脱债务”的核心信念导致持续高唤起与无助感",
+          "function": "逃避不确定性与降低焦虑（通过反复查看账目、制定预算以寻求控制），但强化负性循环",
+          "consequence": "学业表现下降、人际关系紧张、睡眠与饮食模式紊乱，整体生活质量降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1836
+}

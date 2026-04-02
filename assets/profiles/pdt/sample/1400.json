@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "苏凯文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母近期搬到佛罗里达，兄长目前暂住在其家中。",
+      "social_status": "有可以倾诉的朋友，但尚未与他们分享关于兄长的感受。",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史；既往未出现类似问题。",
+      "language_features": "配合度较高，能具体描述情境与想法，语气谨慎且略显紧张；表达清晰，有自我反思。"
+    },
+    "main_problem": "自从兄长一个月前搬来与我同住后，我一直觉得他讨厌我的烹饪和我的猫。这种信念让我感到焦虑，并影响了我们之间的关系。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到这些不合理的想法正在影响我的心理健康和我与兄长的关系，促使我寻求咨询。",
+    "growth_experiences": [
+      "父母搬到佛罗里达后，兄长于约一个月前开始暂住在家。自此，苏凯文在做饭或与猫相处、且兄长在场时，经常将兄长的表情与言语（如在他烹饪后说“我不饿”）解释为负面评价，逐步形成“兄长讨厌我的烹饪和猫”的信念。该信念导致其焦虑上升、关系紧张，并采取回避与兄长互动以预防冲突，同时尝试更换菜品以寻求改善，但未见关系好转。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被他人接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "兄长在其烹饪后表示“不饿”，或对食物显得不感兴趣",
+          "conditional_assumptions": "如果对方不吃我做的饭，就意味着他讨厌我的厨艺，甚至讨厌我这个人",
+          "compensatory_strategies": "尝试做不同的菜以获得认可；减少与兄长互动以避免冲突",
+          "automatic_thoughts": "他讨厌我做的饭，他在否定我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在兄长在场时与猫相处，而兄长对猫表现出冷淡或疏离",
+          "conditional_assumptions": "如果他不喜欢我的猫，就说明他厌恶与我相关的一切，并想尽快远离我",
+          "compensatory_strategies": "在兄长面前减少与猫互动；回避与兄长交流",
+          "automatic_thoughts": "他迫不及待想离开我，因为他讨厌我的猫",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "观察到兄长看自己做的饭时的表情或语气不热情",
+          "conditional_assumptions": "如果他的表情不欣赏，就代表他总是嫌弃我做的所有菜",
+          "compensatory_strategies": "不断调整菜品、改变做法以试图获得认可",
+          "automatic_thoughts": "他一直都不喜欢我做的任何东西",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人（兄长）理解与接纳",
+        "fear": "害怕被否定、被拒绝并引发更大的关系冲突",
+        "defense_goal": [
+          "通过保持距离和回避交流来降低被否定与冲突的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被否定的、紧张不安的提供者（在家中承担照料与烹饪）",
+          "object_representation": "挑剔且冷淡的评判者（兄长）",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议或想到要与兄长开诚布公地讨论对烹饪和猫的感受时",
+          "interpretation": "预期对方会防御或否定自己，从而使关系更糟（将不确定的结果视为必然）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和、共情的语气，先验证其顾虑与感受，随后以开放式问题引导区分事实与推测，邀请其识别证据与可能的替代解释，避免直接对抗。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被兄长厌恶与拒绝，避免沟通以防冲突",
+            "家中共处却情感上保持距离，关系紧张"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "关系疏离",
+            "日常生活节奏被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外做出的行为冲动，转而对自己做或选择自我压抑，即将对外的能量转回自身。",
+          "manifestations": [
+            "想与兄长沟通但选择回避以防冲突",
+            "不向朋友分享困扰，将压力内化"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受或想法归因于他人。",
+          "manifestations": [
+            "将“被讨厌”的担心归于兄长的想法，认为对方讨厌自己的烹饪和猫"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求心理咨询并持积极态度",
+          "能够识别并命名认知歪曲，愿意进行现实检验",
+          "愿意尝试与兄长展开轻松话题并逐步沟通",
+          "具备一定的社会支持（有朋友可倾诉）"
+        ],
+        "negative_force": [
+          "读心与仓促下结论的认知倾向",
+          "过度概括与否定积极线索",
+          "回避沟通以避免冲突的行为模式",
+          "过度在意他人评价导致焦虑升高"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与兄长交流与互动（为避免冲突）",
+          "antecedent": [
+            "兄长搬入同住约一个月以来",
+            "在烹饪后兄长表示“不饿”或显得不感兴趣",
+            "在兄长在场时与猫相处、感到其对猫冷淡"
+          ],
+          "core_reason": "对兄长态度的读心和过度概括，担心被否定与拒绝，引发焦虑并促使回避",
+          "function": "逃避潜在的负面评价与关系冲突，短期降低焦虑",
+          "consequence": "关系进一步紧张与疏远，误解加深，日常生活受影响、焦虑增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1400
+}

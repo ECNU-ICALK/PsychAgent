@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲在2岁时去世，其他家庭情况未提及",
+      "social_status": "因回避拥挤场所导致与朋友和家人的关系紧张；社交生活受影响",
+      "medical_history": "未接受过心理治疗或心理问题治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高；能具体描述生理与情绪反应（心跳加速、全身紧张、情绪不堪重负与烦躁）；态度积极"
+    },
+    "main_problem": "因人群而难以享受自己最喜欢的季节（春天），在拥挤场所会感到焦躁与不适、压力升高，逐渐发展为主动回避，影响社交生活并导致孤立感。",
+    "topic": "情绪管理",
+    "core_demands": "因为回避人群显著影响我的社交生活和整体幸福感而寻求咨询，希望找到方式在拥挤环境中减轻焦虑并重新享受春天。",
+    "growth_experiences": [
+      "2岁时父亲去世（早期丧亲经历），后续成长细节未提及。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界（人群）是不安全的，随时可能发生不好的事情",
+        "我在拥挤环境中无法掌控局面，会被困住或失去控制",
+        "如果别人看见我焦虑，他们会看不起我"
+      ],
+      "special_situations": [
+        {
+          "event": "春季在公共活动或繁忙的公园遇到人群",
+          "conditional_assumptions": "如果场地很拥挤，我可能无法迅速离开，事情会变得糟糕",
+          "compensatory_strategies": "尽量避开高峰时段或直接不去人多的地方；一旦感到拥挤就迅速离开",
+          "automatic_thoughts": "我可能会被困住，会出事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交聚会上人多、嘈杂",
+          "conditional_assumptions": "如果别人看到我焦虑，他们会轻视我、认为我很糟糕",
+          "compensatory_strategies": "主动回避社交活动以减少暴露在他人评价前",
+          "automatic_thoughts": "他们一定会注意到我很紧张并看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "临近春季外出前，想到可能会碰到拥挤的人群",
+          "conditional_assumptions": "只要出现人多的情况，我就肯定无法放松或享受",
+          "compensatory_strategies": "取消外出或社交安排，转而独处",
+          "automatic_thoughts": "每次遇到人群我都会焦虑到不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在春天的公园里只注意到周围的人很多",
+          "conditional_assumptions": "在拥挤情境下，积极的体验（花、天气、更新感）都不算数",
+          "compensatory_strategies": "用分心或快速离开来避免不适",
+          "automatic_thoughts": "人太多了，这些美好也没法让我享受",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在春天与社交场合中感到安全、自在并被接纳，能够自由地享受美好体验",
+        "fear": "害怕在人群中发生不好的事情、害怕无法脱身与失控、害怕被他人注意并轻视",
+        "defense_goal": [
+          "通过回避拥挤场所维持安全感与体面，减少被评判与失控的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在拥挤情境中容易焦虑与失控的脆弱者",
+          "object_representation": "他人/人群是挑剔的评判者与潜在的危险源",
+          "linking_affect": "焦虑、羞耻、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当置身于拥挤的公共活动或社交聚会中，或预想到将进入人多的场合",
+          "interpretation": "将人群体验为潜在危险，并认为旁人会注意到并贬低自己（移情：将内在批判投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "迅速寻找出口、缩短停留时间或直接回避；语言上强调他人会看不起自己，语气紧张、简短，避免与人眼神接触。"
+        },
+        {
+          "trigger_condition": "当考虑参加春季外出或朋友的聚会时",
+          "interpretation": "将拥挤等同于无法放松与失控，把离开或不参加视为唯一合理选择",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用理性理由解释取消或退出，如“人太多我就放松不了”，语气平静但坚定，强调效率与自我保护。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因长期回避拥挤场所而减少社交参与，未向朋友谈及在人群中的不适，感觉被孤立"
+          ],
+          "outcomes": [
+            "社交退缩与孤立感加重",
+            "焦虑在拥挤场合中显著升高",
+            "生活参与度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "担心别人注意到自己的焦虑并看轻自己",
+            "在社交场合预设他人负面评价从而回避参与"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在公共活动或社交聚会中，来访者通常会强烈焦虑并急于离开，难以放松享受，进而回避此类场合。",
+          "unique_outcome": "在去年的一场较小型音乐会中，尽管人多，来访者与一位亲密朋友同行并专注于音乐，保持了相对平静，还享受了演出。",
+          "reason": "不同情境与支持：有朋友陪同提升安全感；音乐提供可专注的积极刺激；场次较小、环境相对可控，帮助减轻对人群的注意与紧张。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有少数朋友的情感支持（虽未谈及拥挤不适，但可一般性交流）",
+          "曾能通过专注音乐在拥挤环境中维持相对平静（可利用的注意力调节资源）",
+          "主动寻求咨询、态度积极，愿意尝试策略（计划低峰时段出行、感恩日记）"
+        ],
+        "negative_force": [
+          "对拥挤场景的灾难化预测与过度概括",
+          "读心式地预设他人负面评价并否定积极体验（心理过滤与否定正面）",
+          "长期回避导致社交受限与孤立感加重",
+          "对无法迅速脱身的强烈担忧引发失控感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在拥挤场所的显著焦虑与主动回避",
+          "antecedent": [
+            "春季在公园或户外活动遇到人群",
+            "公共事件或社交聚会",
+            "预想到将进入人多场合的情境"
+          ],
+          "core_reason": "对拥挤情境的灾难化预测（担心发生不好的事、无法脱身）与对他人评价的担忧（认为他人会看轻自己），导致控制感缺失与高度警觉。",
+          "function": "逃避不受欢迎的刺激（危险感、被评判的担忧与强烈焦虑），以获得安全感与可控感。",
+          "consequence": "减少外出与社交，无法享受春天的积极体验，关系紧张并产生孤立感。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1887
+}

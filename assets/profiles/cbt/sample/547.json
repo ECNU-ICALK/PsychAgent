@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "王安娜",
+      "gender": "女",
+      "occupation": "摩托车俱乐部成员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "在社交场合因害怕被评判而回避；俱乐部内有朋友但未向他们表达被评判的感受",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或咨询史",
+      "language_features": "配合度较好，能清晰表达感受与想法；倾向关注负面经历"
+    },
+    "main_problem": "我觉得人们因为我的纹身而对我进行负面评价，这让我被贴上“怪胎”的标签，并持续害怕被评判。",
+    "topic": "人际关系",
+    "core_demands": "对被评判的恐惧和持续的负面自我认知开始影响我的日常互动和自信，因此我来寻求咨询，希望不再总是对自己持负面看法。",
+    "growth_experiences": [
+      "获得第一个纹身后开始在社交场合感到被他人负面评判，这种感受在近几年明显加重（目前超过10处纹身）。",
+      "加入摩托车俱乐部后，感到外界的刻板印象与评判更加普遍，进一步强化了被贴标签的体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "无论我做什么，人们都会因为我的纹身看轻我",
+        "我是不被社会接纳、容易被贴上“怪胎”标签的人"
+      ],
+      "special_situations": [
+        {
+          "event": "在超市购物时，注意到两个人注视并低声交谈",
+          "conditional_assumptions": "如果别人看我或窃窃私语，就说明他们在负面评价我和我的纹身",
+          "compensatory_strategies": "迅速离开现场、减少停留以避免被评判",
+          "automatic_thoughts": "他们一定在议论我长得很奇怪/我是个“怪胎”。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在公共场合纹身外露、与新认识的人见面",
+          "conditional_assumptions": "如果纹身被看到，对方一定会看低我、对我作出负面判断",
+          "compensatory_strategies": "减少社交、避免结识新朋友或尽量遮盖纹身",
+          "automatic_thoughts": "他们会评判我、认为我是坏人。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "有人对纹身表现出好奇并礼貌询问细节",
+          "conditional_assumptions": "正面反馈只是偶然或出于礼貌，不能代表整体态度",
+          "compensatory_strategies": "忽视或贬低正面反馈，把注意力重新放回负面线索以自我保护",
+          "automatic_thoughts": "这些正面反应不算数，更多人还是会觉得我很怪。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "加入摩托车俱乐部后面对社会对该群体的刻板印象",
+          "conditional_assumptions": "如果我属于被贴标签的群体，人们就会一概而论地否定我",
+          "compensatory_strategies": "过度友善以证明自己不是刻板印象中的那类人",
+          "automatic_thoughts": "因为我在摩托车俱乐部，大家都会觉得我是坏人或“怪胎”。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被平等看待，不因外表而被贬低",
+        "fear": "害怕被贴标签与拒绝，担心被视为“怪胎”而失去尊严与关系",
+        "defense_goal": [
+          "通过回避社交与遮掩自我来降低被评判的风险",
+          "以“外界刻板印象”的解释减轻自责与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被误解和排斥的被评判者",
+          "object_representation": "带有偏见、喜欢贴标签的旁观者/公众",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        },
+        {
+          "self_representation": "在被正面关注时可以被欣赏的人",
+          "object_representation": "好奇、接纳并愿意了解我的他人",
+          "linking_affect": "放松、片刻的自信"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到问题成因或被邀请检视证据时（如讨论“是否所有人都在评判”）",
+          "interpretation": "更倾向于将不适归因为“社会刻板印象”，以外部解释覆盖内在的羞耻与脆弱",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平实、客观的语气强调社会偏见与宏观因素，减少自我情绪暴露；避免深入探讨个人脆弱感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在公共场合因被注视与低语而感到与他人隔离",
+            "担心被贴“怪胎”标签，减少外出与互动",
+            "与新认识的人接触时预期被贬低，产生退缩"
+          ],
+          "outcomes": [
+            "社交回避与自信下降",
+            "持续焦虑与自我否定",
+            "日常功能受损（如购物未完成）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在叙述中将他人的目光、低语自动解释为负面评价（“他们觉得我很奇怪/是坏人”）",
+            "难以停留在当下体验，多以他人“如何看我”来界定互动"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交前高度预期被评判，降低自我表达，倾向遮盖纹身或减少出门",
+            "正面互动出现时难以内化，迅速回到自我限制与警惕"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在公共场合看到他人注视或低语时，来访者通常会产生强烈焦虑并选择回避或提前离开。",
+          "unique_outcome": "在某些场景（如陌生人友善地询问她的纹身）中，来访者没有像以往那样退缩，而是进行了积极回应，体验到较少的自我意识并感到更自信。",
+          "reason": "不同支持/情境：对方以好奇与尊重的方式沟通；来访者将注意力放在实际互动上，而非预设负面意图。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在俱乐部内有一定的同伴支持网络",
+          "能识别并提出替代性解释（非唯一负面解释）",
+          "愿意求助，态度积极，愿配合进行认知重建与行为实验",
+          "曾尝试以友善和接纳的方式与他人互动以对抗偏见"
+        ],
+        "negative_force": [
+          "灾难化、读心术、过度概括等认知歪曲显著",
+          "过度关注负面线索并否定正面反馈",
+          "对被评判的恐惧导致的回避行为维持问题",
+          "社会刻板印象带来的外部压力强化其信念"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合因害怕被评判而回避或提前离开",
+          "antecedent": [
+            "在公共场合纹身可见",
+            "注意到他人注视或低语",
+            "与新认识的人见面"
+          ],
+          "core_reason": "对他人评价的灾难化预期与读心术式解释，深层信念为“无论如何都会被看轻/贴标签”。",
+          "function": "逃避潜在的负面评价与不适情绪，获得短期安全感与控制感",
+          "consequence": "社交减少与自信下降，日常功能受损（如购物未完成），并强化“被普遍评判”的信念"
+        },
+        {
+          "behavior": "在获得正面反馈时将其否定或最小化（口头或内心）",
+          "antecedent": [
+            "他人对纹身表达兴趣、称赞或提出友善问题"
+          ],
+          "core_reason": "维持负性核心信念的认知偏差（否定正向），认为正面反应只是偶然或出于礼貌。",
+          "function": "维持既有信念以减少认知失调，避免希望落空带来的失望",
+          "consequence": "忽视支持性证据，持续自我贬低与焦虑，加重对社交的回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 547
+}

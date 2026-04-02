@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈琳",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "本科在读",
+      "marital_status": "未婚",
+      "family_status": "独居；父母在国外",
+      "social_status": "社会支持薄弱，难以向他人敞开谈论困扰",
+      "medical_history": "无重大躯体疾病；既往无相似心理问题史，未接受过心理治疗",
+      "language_features": "表达清晰、能自我反思、配合度高；情绪显焦虑；语速未提及"
+    },
+    "main_problem": "因债务较多且部分课程不及格而感到失败与不堪重负，这些感受自本学期开始出现并逐步加重，伴随回避上课、社交隔离与对未来的焦虑。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为这些失败感已显著影响我的心理健康和学业表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "一切都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "收到债务提醒（账单/催款信息）",
+          "conditional_assumptions": "如果我背负很多债务或出现财务问题，就说明我这个人失败且不负责任",
+          "compensatory_strategies": "回避查看账单、减少与他人联系以躲避评价；尝试做预算控制支出以弥补",
+          "automatic_thoughts": "这都是我的错，我把一切都搞砸了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "考试不及格或成绩不佳",
+          "conditional_assumptions": "如果我没通过考试或学习落后，就证明我在各方面都不行",
+          "compensatory_strategies": "回避上课、想要放弃；或短期内加倍用功以证明自己",
+          "automatic_thoughts": "我在各个方面都失败了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面对学业挑战、意识到本学期落后",
+          "conditional_assumptions": "一旦我现在跟不上，就永远追不回来了",
+          "compensatory_strategies": "退缩并与同学/朋友保持距离，减少求助",
+          "automatic_thoughts": "我永远也挺不过去了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "准备去上课或想到需要出门见人/上课",
+          "conditional_assumptions": "如果我现在去上课，会应付不了、丢脸",
+          "compensatory_strategies": "通过不上课来短期降低焦虑与羞耻感",
+          "automatic_thoughts": "我撑不住课堂，我处理不了",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被理解并证明自己是有能力的",
+        "fear": "害怕失败被他人否定与羞辱、害怕对未来失控",
+        "defense_goal": [
+          "通过回避上课和减少社交来避免暴露短板、减少羞耻",
+          "通过自责与把责任揽到自己身上来获得一种可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、需要独自承担一切后果的人",
+          "object_representation": "他人会评判、失望，难以提供支持",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中被邀请检视成绩不佳与债务相关证据和反证时",
+          "interpretation": "倾向将复杂外部因素简化为“都是我不好”，把外部压力内化为自我攻击（移情倾向：将负性评价想象为来自自体）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气温和、去责备，先验证其羞耻与焦虑，再协助区分多重原因与可控因素；使用开放式提问，鼓励具体化事件与证据平衡，避免强化自责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "主动与朋友和家人隔离，难以向他人敞开困扰",
+            "感觉无人支持，独自承担债务与学业压力"
+          ],
+          "outcomes": [
+            "焦虑与抑郁情绪加重",
+            "日常作息与自我照料受损",
+            "回避上课、回避求助"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以“都是我的错/我是失败者”为主的自我苛责叙述",
+            "难以向他人求助或敞开，担心被负面评价",
+            "在谈及学业与债务时过度内省并自责，减少真实接触"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "本可向同学/老师/家人求助却选择独自承受压力",
+            "将向外的求助与表达转为自我指责与退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾有良好的学业表现与财务管理经验（过往有好成绩并能管理开支）",
+          "具备自我反思与证据平衡的能力（能承认过去成功，非总是失败）",
+          "已主动尝试预算与增加学习投入等策略"
+        ],
+        "negative_force": [
+          "自我贴标签（失败者）、过度概括与个人化的认知模式",
+          "灾难化与对未来的负性预测导致回避行为",
+          "回避上课与社交隔离，减少外部支持与反馈",
+          "社会支持薄弱，难以向他人敞开与求助",
+          "债务提醒与学业挫折频繁触发焦虑与羞耻"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避上课/逃课",
+          "antecedent": [
+            "面对学业挑战或意识到本学期进度落后",
+            "考试失败或预期成绩不佳",
+            "准备去上课时出现的焦虑与羞耻"
+          ],
+          "core_reason": "将学业挫折灾难化并过度概括为“我在各方面都失败”，伴随个人化与强烈羞耻，社会支持薄弱强化了回避倾向",
+          "function": "短期逃避被评价与失败感以降低当下焦虑/羞耻",
+          "consequence": "学业进一步受损、压力加剧，自我效能感下降，形成恶性循环"
+        },
+        {
+          "behavior": "社交隔离/减少与他人接触",
+          "antecedent": [
+            "收到债务提醒",
+            "想到需要与朋友/家人交流近况",
+            "经历学业挫折后对他人评价的担忧"
+          ],
+          "core_reason": "个人化与自我贴标签引发的羞耻与自责，担心被负面评价，因而将求助冲动转向自我指责与退缩",
+          "function": "避免暴露“失败”的自己，短期降低被评判的风险与焦虑",
+          "consequence": "社会支持进一步减少，负性情绪维持与加重，日常自我照料与功能受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1815
+}

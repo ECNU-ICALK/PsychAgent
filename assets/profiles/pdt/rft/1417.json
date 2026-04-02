@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "温妮",
+      "gender": "女",
+      "occupation": "音乐人",
+      "educational_background": "高中毕业（High School Diploma）",
+      "marital_status": "单身",
+      "family_status": "父亲曾是机械师",
+      "social_status": "在音乐行业有支持性的朋友与同事，但难以向他们坦诚自己的疑虑与不安，合作关系因动力不足而趋于紧张",
+      "medical_history": "无显著躯体疾病史；既往未接受过心理治疗或咨询；此前未出现类似心理问题",
+      "language_features": "表达清晰，能具体描述经历与自动化思维；语气消沉、负性情绪明显；合作度较好，愿意尝试新的视角"
+    },
+    "main_problem": "作为音乐人，我持续出现“我永远不会成为乐队一员”的负性想法，这让我感到失望与挫败，并逐渐影响动力与身心状态。",
+    "topic": "职业发展",
+    "core_demands": "持续的负性思维模式开始影响我对音乐的热情和整体心理健康，因此希望通过咨询获得支持。",
+    "growth_experiences": [
+      "约一年前，我在一次非常仰慕的乐队试音中失败。这次失败成为转折点：我开始频繁出现“我不够好”“我永远不会被乐队接纳”的信念；每当看到乐队演出或听说其他音乐人获得认可，都会被触发并加重挫败感。我尝试通过加倍练习与向同行寻求反馈来弥补，但未能改变根深的信念，动力与合作意愿逐渐下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不可能成为乐队的一员"
+      ],
+      "special_situations": [
+        {
+          "event": "在心仪乐队的试音中失败",
+          "conditional_assumptions": "如果一次重要的试音都失败了，就说明我不够好，今后也不会被乐队接纳",
+          "compensatory_strategies": "加倍练习、主动寻求同行反馈以证明自己足够好",
+          "automatic_thoughts": "我不够好；我永远不会成为乐队的一员",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到乐队现场演出或听到其他音乐人被认可",
+          "conditional_assumptions": "如果别人被认可而我没有，就证明我不行",
+          "compensatory_strategies": "减少合作与社交，回避被比较的场合",
+          "automatic_thoughts": "为什么我不能像他们那样？我永远不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与朋友和同事互动、他们表示支持时",
+          "conditional_assumptions": "如果我暴露怀疑与不安，别人会看不起我，认为我软弱或无能",
+          "compensatory_strategies": "把感受憋在心里，不向支持系统求助",
+          "automatic_thoughts": "他们会评判我、觉得我不配",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "长期未获得专业认可，努力仍感到无效",
+          "conditional_assumptions": "除非加入乐队，否则说明我事业失败",
+          "compensatory_strategies": "以“是否加入乐队”为唯一标准衡量自我价值",
+          "automatic_thoughts": "如果没进乐队，我做的一切都没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被乐队接纳，作为音乐人被看见和肯定",
+        "fear": "害怕被拒绝与被评判为“不够好”，担心自我价值被否定",
+        "defense_goal": [
+          "通过减少暴露脆弱与回避合作来维持安全感，避免被拒绝或羞辱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的被拒绝者",
+          "object_representation": "评判性、会拒绝并看不起自己的他者/群体（如乐队、同行）",
+          "linking_affect": "失望、挫败、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请合作或被鼓励向朋友/同事分享内心困扰时",
+          "interpretation": "对方会认为我软弱、不够好，从而改变对我的看法（移情：把他人视为苛刻评判者）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "使用简短、克制的回答，回避深入情感细节；语气平淡，迅速转向中性话题以减少暴露。"
+        },
+        {
+          "trigger_condition": "当看到其他音乐人被认可或演出成功时",
+          "interpretation": "把他人的成功直接理解为对自己的否定，进而自责与放弃（移情：将外界评价体验为自身失败）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我贬低的语气描述自己“没用/不配”，强调个人不足，降低进一步行动的可能。"
+        },
+        {
+          "trigger_condition": "当他人（含咨询师）提出鼓励或改变建议时",
+          "interpretation": "认为对方不理解现实处境，改变“没有用”，以维持现有认知与防御",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用解释性语言强调“尝试过但没有用”，列举失败例证来驳斥建议，语气消极、坚称无效。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "试音失败后感到“原地打转”、努力变得“没有意义”",
+            "将“加入乐队”作为唯一的成功标准，未被乐队接纳即被视为整体失败",
+            "热情与创造力下滑，日常与自我照料受损"
+          ],
+          "outcomes": [
+            "动力下降与放弃倾向",
+            "情绪低落、失望与挫败",
+            "合作意愿降低、与同行关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "面对支持系统难以敞开，担心被看不起或被评判",
+            "表达“也许会不那么孤单”，但实际仍难以分享内在体验"
+          ],
+          "outcomes": [
+            "自我封闭、减少寻求支持",
+            "负性情绪加重、内在承受压力增大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被视为软弱或无能，过度在意他人对自己的看法",
+            "在互动中谨慎、压抑表达，避免暴露疑虑与不安"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把需要支持的冲动转回自身，选择憋住情绪而不向朋友/同事求助",
+            "减少合作与外向表达，将能量转为自我苛责"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假设他人会评判自己、不理解自己（如“他们会觉得我不配”）",
+            "把内在的不安全感归因于他人的潜在看法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在行业内拥有一定的社会支持（朋友与同事）",
+          "工作表现总体稳定，具备基本职业能力",
+          "愿意求助并尝试新的咨询方法（开放度）",
+          "曾主动练习与寻求同行反馈，具有行动倾向"
+        ],
+        "negative_force": [
+          "持续的消极核心信念（“我不够好”“我不可能成为乐队一员”）",
+          "过度依赖外部认可以界定自我价值（External Validation）",
+          "非黑即白、过度概括、读心术与比较等认知偏差",
+          "害怕被评判导致回避合作与敞开，社交支持难以充分利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与乐手合作及向支持者坦诚表达困扰",
+          "antecedent": [
+            "看到他人乐队演出或被认可",
+            "被邀请合作或被鼓励分享内心体验"
+          ],
+          "core_reason": "源于“我不够好”的核心信念与对被评判/拒绝的恐惧，将外界认可视为唯一标准",
+          "function": "逃避潜在的拒绝与羞辱，维持短期安全感",
+          "consequence": "与同行关系紧张、合作机会减少，职业发展受阻"
+        },
+        {
+          "behavior": "反复出现的自动化消极思维（如“我永远不会成为乐队一员”），伴随动力下降与自我贬低",
+          "antecedent": [
+            "回想试音失败经历",
+            "看到或听到其他音乐人获得认可的消息或现场演出"
+          ],
+          "core_reason": "试音失败的重大挫败经验叠加非黑即白与过度概括等认知偏差，将个别失败推及整体与未来",
+          "function": "以自我否定来避免再次投入希望与承受未来失败的痛苦",
+          "consequence": "音乐热情下降、创作与练习减少、日常与自我照料受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1417
+}

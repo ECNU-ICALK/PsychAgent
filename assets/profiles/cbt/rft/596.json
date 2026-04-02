@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "韦斯利",
+      "gender": "男",
+      "occupation": "咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "拥有阿尔及利亚背景，未提供其他家庭细节",
+      "social_status": "有几位亲密朋友可交流，但尚未与他们讨论财务焦虑；与朋友和家人的关系因持续担忧金钱而受到影响",
+      "medical_history": "无显著身体疾病史；既往未接受过心理治疗或咨询",
+      "language_features": "表达清晰、逻辑性较好，能进行现实检验与认知重构；在谈及财务问题时表现出明显焦虑，但态度积极、配合度高"
+    },
+    "main_problem": "因认为咖啡师工作在财务上不稳定而持续担忧破产，导致显著的焦虑与压力；问题近六个月加重，并已影响睡眠与饮食规律。",
+    "topic": "情绪管理",
+    "core_demands": "由于与财务状况相关的焦虑与压力不断增加，期望获得支持与应对策略，以缓解焦虑并改善现状。",
+    "growth_experiences": [
+      "六个月前开始从事咖啡师工作后，基于对该工作的财务不稳定感形成持续的经济焦虑；随后出现睡眠受扰与饮食不规律，并对工作表现与人际关系造成负面影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法维持财务安全",
+        "我的工作在经济上不稳定，最终会让我破产"
+      ],
+      "special_situations": [
+        {
+          "event": "查看银行账户余额或想到每月账单时",
+          "conditional_assumptions": "如果收入与支出不匹配，我将很快耗尽资金并无法负担基本需求",
+          "compensatory_strategies": "加班、严格预算、削减非必要开支",
+          "automatic_thoughts": "我会很快没钱，可能会无家可归",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "发薪后结算预算时发现结余很少",
+          "conditional_assumptions": "若结余很少，说明财务不可持续，任何意外支出都会击垮我",
+          "compensatory_strategies": "持续担忧、反复查看账目以试图掌控",
+          "automatic_thoughts": "只要有一笔意外支出，我就撑不住了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到自己的职业前景与当前收入稳定性时",
+          "conditional_assumptions": "如果当前工作不是稳定或高薪，我就无法维持基本生活",
+          "compensatory_strategies": "通过承担更多班次来弥补对不稳定的担忧",
+          "automatic_thoughts": "作为咖啡师，我注定会在经济上失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回顾至今一直能按时支付账单的事实时仍感到强烈担忧",
+          "conditional_assumptions": "即使现在没有出问题，也不意味着未来是安全的",
+          "compensatory_strategies": "否定积极迹象、只关注负面数据",
+          "automatic_thoughts": "这些积极证据不算数，我仍然会破产",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望财务上的安全与稳定，并对未来拥有可控性",
+        "fear": "害怕失去基本生活保障、害怕无家可归",
+        "defense_goal": [
+          "通过加强自我控制（预算、加班、削减开支）来降低不确定性并维持安全感",
+          "通过反复核对账目与数据来获得掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "经济上不安全、随时可能破产的自己",
+          "object_representation": "充满威胁与压力的外部经济环境（账单与银行账户数字）",
+          "linking_affect": "恐惧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友和家人的关系因持续金钱担忧而紧张",
+            "虽有密友但未与其讨论财务焦虑，倾向独自承受"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠与饮食紊乱",
+            "社会支持利用不足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做；即将原本欲向外发出的能量转回自身。",
+          "manifestations": [
+            "未与密友讨论财务焦虑而选择独自承受",
+            "把寻求外部支持的冲动转为自我加班与自我约束",
+            "在人际紧张时减少直接表达与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在查看财务状况与支付月度账单时，来访者通常会产生强烈焦虑并预测资金将耗尽，担心无法负担基本需求。",
+          "unique_outcome": "在最近的账期内，来访者仍按时支付了各项账单，虽然结余较少但未出现资金耗尽的情况，并意识到“至今仍能维持支出”的事实使焦虑略有缓解。",
+          "reason": "不同做法：采取预算、加班与削减非必要开支；不同理解：通过现实检验证实尚未出现资金断裂，从而形成对“破产”预测的反证。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我管理能力（预算、加班、削减开支）",
+          "至今能按时支付账单，具备基本的财务维持能力",
+          "愿意进行现实检验与认知重构，态度积极",
+          "拥有少数密友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白与否定积极证据等不良认知模式持续强化焦虑",
+          "长期经济焦虑导致睡眠与饮食紊乱，工作表现与人际关系受影响",
+          "倾向独自承受压力，未主动利用社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在财务相关情境下出现强烈焦虑与灾难化预测（担心破产、无家可归）",
+          "antecedent": [
+            "查看银行账户余额",
+            "思考每月账单与支出",
+            "发薪后结算预算时结余较少",
+            "出现意外开支"
+          ],
+          "core_reason": "将咖啡师工作视为财务不稳定，伴随灾难化与预测未来、非黑即白、否定积极证据等认知偏差，导致对经济失败的过度担忧",
+          "function": "通过过度担忧与监控来试图获得控制感、逃避不确定性与感知的潜在经济危险",
+          "consequence": "睡眠受扰、饮食不规律；工作表现受影响；与朋友和家人的关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 596
+}

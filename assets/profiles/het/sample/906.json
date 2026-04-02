@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "周敏",
+      "gender": "女性",
+      "occupation": "医生办公室前台接待",
+      "educational_background": "正在全日制学习放射专业",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "社交支持薄弱（没有特定可以倾诉的人）",
+      "medical_history": "无显著躯体疾病；无既往心理治疗经历；未有类似问题史",
+      "language_features": "表达清晰、逻辑连贯；语气消沉与自责；配合度较高；在工作与学习任务中出现反复确认与谨慎行为"
+    },
+    "main_problem": "在工作中将一位患者的名字拼错后，我一直体验到自我怀疑和不足感。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些自我怀疑影响了我在工作和学习中的信心；我只想再次感到自己有能力，无论在工作还是学习中。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好、不够胜任。",
+        "我本质上是个不专心的人。"
+      ],
+      "special_situations": [
+        {
+          "event": "在医生办公室工作时，由于当天事务繁忙与高负荷，误拼了一位患者的姓名",
+          "conditional_assumptions": "如果我犯错，就说明我不胜任、我就是不专心的人",
+          "compensatory_strategies": "加倍专注与反复校对、制定检查清单来避免再犯错",
+          "automatic_thoughts": "我不够好，我不胜任这份工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "之后在工作或学习中面对需要高度注意细节的任务",
+          "conditional_assumptions": "必须做到零错误、绝对专注才算合格与值得信任",
+          "compensatory_strategies": "放慢速度、不断双重检查每个细节",
+          "automatic_thoughts": "我本该更专注，不该有任何错误",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "想到同事或患者是否仍会信任自己处理重要任务",
+          "conditional_assumptions": "如果他人不信任我，就证明我不够好",
+          "compensatory_strategies": "通过过度谨慎与反复核对来维持他人对自己的信任",
+          "automatic_thoughts": "人们不会再信任我做重要的事",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被信任与认可为有能力，保持职业与学业上的胜任感",
+        "fear": "害怕因一次错误被否定、被视为不可靠，从而丧失他人信任",
+        "defense_goal": [
+          "通过自我批评与过度检查来控制错误、维持安全与被接纳感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、容易犯错的人",
+          "object_representation": "苛刻的评判者/不信任的他人（如同事、患者）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人询问并评估她的工作失误时",
+          "interpretation": "将评估体验为否定与不信任，认为必须做到零错误才不被否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责语句（如“都是我的错”），强调自身缺陷，语气内疚与低沉。"
+        },
+        {
+          "trigger_condition": "当讨论如何改进并制定具体流程或清单时",
+          "interpretation": "通过理性化流程来减少情绪暴露，认为只要足够谨慎就能避免被否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、技术化的语言讨论步骤与规则，淡化情感用语，保持冷静中性语气。"
+        },
+        {
+          "trigger_condition": "当被鼓励尝试新策略并接受可能的不完美时",
+          "interpretation": "预期失败与被不信任的后果，试图以外在因素解释以减轻焦虑",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调工作繁忙、客观环境限制等理由，保留怀疑与担心的措辞（如“但我还是可能会出错”）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "没有特定可倾诉的支持对象；在失误后独自承受不堪重负与自我怀疑"
+          ],
+          "outcomes": [
+            "自我怀疑加剧、压力与焦虑增加、专注与整体幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我检视与多次核对工作/学习任务",
+            "用“我不够好/不胜任”评价自己",
+            "对错误过度谨慎，害怕他人不信任"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "担心别人不会信任自己（将不信任归因于他人）",
+            "假设他人会负面评价自己能力"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "将避免错误的能量转向自我约束（反复检查与加倍谨慎）",
+            "缺乏对外寻求支持的动作，更多通过自我要求来应对压力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意主动寻求咨询与帮助",
+          "能够识别情境因素（例如当天工作繁忙对错误的影响）",
+          "愿意尝试清单与双重检查等策略",
+          "对提升工作与学习能力有动机与期望"
+        ],
+        "negative_force": [
+          "标签化与自我贬损（将一次错误等同于不胜任）",
+          "过度检查与犹疑导致精力消耗与压力增加",
+          "缺乏社会支持，情绪调节资源不足",
+          "倾向读心与担心他人不信任",
+          "以零错误为标准的苛责性要求"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作与学习任务中反复检查与犹疑（过度谨慎的安全行为）",
+          "antecedent": [
+            "面对需要高度注意细节的任务",
+            "回想起此前拼错患者姓名的事件"
+          ],
+          "core_reason": "对再次犯错的灾难化与对他人不信任的担忧（将一次错误泛化为能力不足）",
+          "function": "逃避潜在错误与负面评价，短暂降低焦虑",
+          "consequence": "精力耗竭、效率下降、压力增加，进一步削弱专注与自信"
+        },
+        {
+          "behavior": "负性自我对话与自我标签化（“我不够好/我是个不专心的人”）",
+          "antecedent": [
+            "被提醒或想到之前的失误",
+            "在重要任务开始前或进行中"
+          ],
+          "core_reason": "将单次失误泛化为整体能力不足的核心信念，融合羞耻与焦虑",
+          "function": "以自我批评促使自己更加小心与控制，但实际强化焦虑",
+          "consequence": "自尊受损、专注下降、进一步依赖过度检查等安全行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 906
+}

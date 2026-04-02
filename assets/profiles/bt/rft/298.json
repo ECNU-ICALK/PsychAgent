@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "无业（学生）",
+      "educational_background": "小学",
+      "marital_status": "未婚（子女身份）",
+      "family_status": "与家人同住",
+      "social_status": "有最好的朋友Cayden，但尚未分享感受；自述因自卑而开始疏远朋友与家人",
+      "medical_history": "无显著躯体疾病；无类似心理问题既往史；未因心理问题接受过治疗或咨询",
+      "language_features": "表达清晰，能具体描述情绪与自动化思维；合作态度积极，愿意探索与重构；语速未提及"
+    },
+    "main_problem": "在收到资优项目的拒信后，我觉得自己是个失败者，未来被毁了。",
+    "topic": "学业压力",
+    "core_demands": "因失败感与不足感过于压倒性并影响情绪与日常活动而寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的未来被毁了",
+        "我不如同龄人/同学"
+      ],
+      "special_situations": [
+        {
+          "event": "收到资优项目的拒信",
+          "conditional_assumptions": "如果没有被资优项目录取，就说明我能力不足、毫无前途。",
+          "compensatory_strategies": "降低学习动力、回避面对失败感以减轻痛苦",
+          "automatic_thoughts": "我的职业前途完了，我是个失败者。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每当想起被拒这件事或回想拒信内容",
+          "conditional_assumptions": "如果我失败过，那就足以证明我不行，这件事全面定义我。",
+          "compensatory_strategies": "反复沉浸在负面证据中，忽略既往成功经验",
+          "automatic_thoughts": "这一次就足以证明我不够好。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与被录取的同龄人/同学进行比较",
+          "conditional_assumptions": "如果我没有达到与同龄人同等或更高标准，我就不如人、没有价值。",
+          "compensatory_strategies": "回避社交与比较场景以避免羞耻与被评判",
+          "automatic_thoughts": "我不如他们，我永远不会成功。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "考虑向好友Cayden倾诉但迟疑",
+          "conditional_assumptions": "如果我表现出脆弱，别人就会看不起我或不理解我。",
+          "compensatory_strategies": "保持沉默与自我封闭，避免谈及被拒与失败感",
+          "automatic_thoughts": "他会觉得我很糟、看不起我。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，证明自己有能力与价值",
+        "fear": "害怕被拒绝、被看低，害怕失败定义自我与前途",
+        "defense_goal": [
+          "通过疏离和保持沉默来避免外界评判与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自我体验为“不如人”的失败者",
+          "object_representation": "他人被体验为挑剔的评判者/更优越者",
+          "linking_affect": "羞耻、自卑、焦虑"
+        },
+        {
+          "self_representation": "脆弱且需要支持者",
+          "object_representation": "重要他人（如好友）可能会不理解或看低自己的潜在拒绝者",
+          "linking_affect": "担忧、羞愧、犹疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议向可信赖的朋友寻求支持或讨论被拒事件时",
+          "interpretation": "来访者潜意识认为对方会像评判者一样看轻自己（移情：将自我贬低投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和、验证与探询的语气，邀请举证与现实检验；避免推进过快，先建立安全感与控制感。"
+        },
+        {
+          "trigger_condition": "当谈及失败与不足的主题，或被要求回忆过往成就来平衡观点时",
+          "interpretation": "将对外的失望与愤怒转向自身，强化自责以保持对关系的安全感",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持共情与接纳，使用温柔的澄清与命名情绪；减少评价性语言，鼓励自我同情与差异化视角。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "收到拒信后感到“未来被毁”、怀疑自身能力与价值",
+            "学习动机下降与专注困难"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "情绪低落与焦虑",
+            "睡眠与饮食模式改变"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避朋友与家人、仅在心里反复思考却不分享",
+            "担心好友不会理解或会看低自己"
+          ],
+          "outcomes": [
+            "社会退缩",
+            "羞耻与自卑增强",
+            "支持系统未被激活导致痛苦维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须被录取才算有价值”作为自我评判标准",
+            "使用“我不够好/我是失败者”等自责性标签"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "明知好友可支持却选择不分享、把沟通冲动压回自身",
+            "以自我苛责取代向外求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度担心他人看法，害怕被看低而不敢表达脆弱",
+            "在比较情境中过度自我审视、放大缺点"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾在其他领域有良好表现的记忆可作为资源",
+          "勤奋、不轻言放弃的特质",
+          "具备问题解决与创造性思考的能力",
+          "存在可联系的支持者（好友Cayden）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的思维模式",
+          "比较与绝望、寻求他人评判作为价值来源",
+          "自我标签化与低自尊",
+          "社会退缩与回避求助",
+          "只关注负面证据的心理过滤"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社会退缩与回避与朋友家人接触",
+          "antecedent": [
+            "想到被资优项目拒绝",
+            "看到或听到同龄人被录取的消息、进行比较",
+            "考虑向好友Cayden倾诉时的羞耻与担忧"
+          ],
+          "core_reason": "灾难化与自我标签化的核心信念：被拒＝能力不足＝没有前途，导致羞耻与被评判的恐惧。",
+          "function": "逃避被评判与失败感的情绪痛苦，维持短期安全感。",
+          "consequence": "支持系统未被激活，孤独感与低自尊加重，问题维持或恶化。"
+        },
+        {
+          "behavior": "学习动机下降与专注困难",
+          "antecedent": [
+            "接触与被拒相关的线索（信件、回忆）",
+            "与被录取者比较时",
+            "自我反复思考失败主题时"
+          ],
+          "core_reason": "情绪化推理与心理过滤：将一次拒绝视为对整体能力与未来的定论，导致无力感。",
+          "function": "短期内逃避失败提醒与压力源，减少焦虑体验。",
+          "consequence": "学业表现下降、目标推进受阻，进一步强化“失败者”自我概念。"
+        },
+        {
+          "behavior": "反复负性自我对话（如“我是失败者”“我永远不会成功”）",
+          "antecedent": [
+            "独处时反刍被拒事件",
+            "与同龄人成就对比时"
+          ],
+          "core_reason": "内摄的苛刻评判标准与过度概括，驱动自我否定性言语习惯。",
+          "function": "试图以自我批评维持控制感与避免外界批评（先自我攻讦）。",
+          "consequence": "情绪低落与焦虑增加，自尊受损，进一步回避社交和学习。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 298
+}

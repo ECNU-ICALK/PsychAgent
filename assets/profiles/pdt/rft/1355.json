@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "65",
+      "name": "陈建国",
+      "gender": "男",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "社交互动有限，难以结交新朋友；有几位同事可就工作话题交流，但缺乏可谈个人困扰的亲密支持",
+      "medical_history": "无显著躯体疾病；既往无心理治疗或咨询史",
+      "language_features": "态度消极、持怀疑；表达清晰但偏悲观；在社交情境中焦虑、出现循环性的负性思维；能基本配合咨询"
+    },
+    "main_problem": "我缺乏社交生活，并因社交孤立而相信自己永远找不到伴侣。",
+    "topic": "人际关系",
+    "core_demands": "希望减少社交孤立、缓解负性思维以改善心理健康与幸福感；短期目标：在社交活动中尽量全程留在场，不因焦虑提前离开。",
+    "growth_experiences": [
+      "高中毕业后进入工厂全职工作，工作压力使我逐渐从人群中抽离；随着时间推移愈发孤立，日常大多在工作或睡觉，社交尝试（参加活动、在工作中寒暄）常感到“很勉强”，最后更糟并选择退出；社交事件与结识新朋友时负性思维更频繁。",
+      "自我一向偏内向，但此前从未如此孤立；独居，缺乏可倾诉个人困扰的亲密朋友或家人；睡眠与饮食习惯因社交退缩而失调。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有人喜欢我",
+        "我永远无法融入",
+        "我注定找不到伴侣"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交活动或结识新朋友时",
+          "conditional_assumptions": "如果我不够社交或表现不好，就会永远找不到伴侣、无法融入人群",
+          "compensatory_strategies": "勉强参加活动并尝试坚持，但一旦焦虑上升就尽快离开以避免尴尬",
+          "automatic_thoughts": "我会一直孤单，永远找不到伴侣",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作中尝试与同事寒暄或参加单位活动时",
+          "conditional_assumptions": "如果我聊天不自然、对方反应一般，就说明没人喜欢我、我不合群",
+          "compensatory_strategies": "仅限于谈工作话题、减少自我披露，随后回避进一步社交",
+          "automatic_thoughts": "没有人喜欢我/我不合群",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在社交场合感到紧张与不适时",
+          "conditional_assumptions": "如果我在现场感到焦虑，就意味着我社交能力很差，未来关系必然失败",
+          "compensatory_strategies": "迅速撤离现场，回到独处，通过睡觉或工作来降低不适",
+          "automatic_thoughts": "我不适合社交，未来注定失败",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并建立稳定的亲密伴侣关系",
+        "fear": "害怕被拒绝、被否定，担心暴露自我后被排斥",
+        "defense_goal": [
+          "通过保持疏离与回避来降低被拒绝的风险，保留自我安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被排斥的孤独者/不合群的人",
+          "object_representation": "他人是不喜欢我、可能挑剔与拒绝我的群体",
+          "linking_affect": "焦虑、悲伤、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“认知重构/替代视角”或鼓励在社交活动中坚持时",
+          "interpretation": "认为改变几乎不可能，咨询建议可能无效（将过往的失败经验投射为当前的“必然”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为难以接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平稳但保留怀疑，使用如“也许”“不确定”“可能没用”等限定词；在被鼓励时强调过去“一直这样”的理由，弱化改变的可能。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、社交互动有限",
+            "在社交活动和结识新朋友时感到焦虑与格格不入",
+            "自我认知为“不被喜欢、永远不合群”，对未来伴侣关系感到绝望"
+          ],
+          "outcomes": [
+            "持续的社交回避与孤立",
+            "动力不足，更多时间用于睡觉或工作",
+            "睡眠与饮食习惯不健康",
+            "悲观与焦虑增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在社交与咨询语境中假定他人“不喜欢我/看不起我”，缺乏证据却确信其为真",
+            "谈及社交时频繁以他人的负面看法来解释自己的退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作表现良好，说明具备稳定执行与自我管理能力",
+          "已主动寻求咨询，愿意尝试改变（虽持怀疑）",
+          "在工作场合偶有尝试社交（参加活动、与同事寒暄）",
+          "能提出可操作的微目标（尽量不提前离场）"
+        ],
+        "negative_force": [
+          "灾难化与跳跃性结论等认知偏差强化社交退缩",
+          "自我定位为“不被喜欢/不合群”导致持续的自我否定",
+          "缺乏亲密支持系统、独居加剧孤独体验",
+          "睡眠与饮食失调，进一步降低精力与社交动机",
+          "对改变持强烈怀疑，易用过往失败经验进行合理化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与在社交活动中提前离场",
+          "antecedent": [
+            "参加社交活动或结识新朋友的情境",
+            "在工作场合尝试与同事寒暄"
+          ],
+          "core_reason": "灾难化预测、个人化等负性认知引发强烈焦虑与被拒绝的恐惧",
+          "function": "逃避焦虑与潜在的否定评价，获得短期的安全感",
+          "consequence": "持续孤立、难以建立亲密关系；整体幸福感下降，睡眠与饮食习惯恶化"
+        },
+        {
+          "behavior": "循环性的负性自我陈述（“没有人喜欢我/我不合群/永远找不到伴侣”）",
+          "antecedent": [
+            "在社交活动或与新朋友互动时",
+            "思考未来伴侣关系时"
+          ],
+          "core_reason": "内在核心信念“我不被喜欢/不合群”在相关情境被激活",
+          "function": "通过预先否定自我来避免冒险与可能的受挫",
+          "consequence": "焦虑与悲观加重，社交动机进一步降低，生活效率与健康受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1355
+}

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "张思远",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与父母同住",
+      "social_status": "有朋友可交流，但尚未与他们讨论“停滞感与缺乏独立”的困扰；在工作中曾暗恋同事，但对方已与他人交往，影响其社交与自尊",
+      "medical_history": "偶尔需要使用吸入器，无其他显著躯体疾病；既往未接受过心理治疗",
+      "language_features": "态度中性，表达清晰、条理较好，能够自我反思与配合制定计划"
+    },
+    "main_problem": "我相信自己永远不会搬离父母的家，这让我感到被困、缺乏独立。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为我意识到这种信念正在阻碍我的个人成长，并引发停滞感。",
+    "growth_experiences": [
+      "开始工作后的这几年一直与父母同住，家庭环境的舒适与熟悉强化了对改变的恐惧与对独立的迟疑；“我会一直住在家里、永远不会搬出去”的想法逐步加深。",
+      "在工作中暗恋的同事开始与他人交往，这一事件使其失望感与停滞感加重，影响社交互动与自尊，同时进一步强化对“无法独立”的负性信念。",
+      "频繁在社交媒体上看到朋友搬入新公寓或取得个人里程碑，引发社会比较与自我批评，强化“我落后、我不够努力”的认知与停滞体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法独立"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交媒体上看到同龄朋友发布新公寓或个人里程碑",
+          "conditional_assumptions": "如果我没有像同龄人那样搬出去或取得进展，就说明我不够努力/是失败者",
+          "compensatory_strategies": "减少与朋友谈论此话题，继续留在父母家以维持熟悉的舒适",
+          "automatic_thoughts": "我落后了，我不够好，我永远赶不上他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "开始考虑或制定搬出去的计划（如查看公寓、做预算）",
+          "conditional_assumptions": "如果没有完备的计划和充足的存款，就不能行动；若准备不充分就会失败",
+          "compensatory_strategies": "拖延行动，仅停留在浏览房源而不进一步看房或提交申请",
+          "automatic_thoughts": "现在还不是时候，我做不到",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "得知工作中的暗恋对象开始与他人交往",
+          "conditional_assumptions": "如果在关系里不被选择，说明我整体不够好，我的生活也不会独立",
+          "compensatory_strategies": "退回舒适区，减少社交互动以避免再次受挫",
+          "automatic_thoughts": "我注定不会拥有属于自己的生活与独立",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想象搬出去后的生活及可能出现的麻烦与压力",
+          "conditional_assumptions": "改变会带来大量不可控的麻烦，我无法应对",
+          "compensatory_strategies": "选择留在家中，依赖父母的支持与熟悉环境以降低焦虑",
+          "automatic_thoughts": "如果搬出去，事情会变得很糟，我会后悔",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有自主性与独立生活（自己的空间、自己做决定）",
+        "fear": "害怕改变带来的不确定与失败，担心被拒绝或不被选择后进一步失去自尊",
+        "defense_goal": [
+          "维持现状以减少焦虑",
+          "通过理性化与拖延来避免失败风险",
+          "减少社交暴露以防止再次受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后、不够好的旁观者",
+          "object_representation": "同龄人是前进的成功者/潜在评判者",
+          "linking_affect": "羞愧、自卑、沮丧"
+        },
+        {
+          "self_representation": "被照顾的孩子、依赖者",
+          "object_representation": "支持性的照料者（父母），提供舒适与依赖",
+          "linking_affect": "舒适与矛盾（既依恋又渴望脱离）"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其将“独立”转化为具体行动（制定预算/时间线）时",
+          "interpretation": "潜意识将此理解为“必须完美准备，否则会失败”，因此暂时不宜行动",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以谨慎、分析性的语气强调需要更多信息与完备计划，避免直接承诺行动。"
+        },
+        {
+          "trigger_condition": "当谈及工作中的暗恋对象与他人交往、触及被拒绝与失望的感受时",
+          "interpretation": "将失望内化为“都是我不够好”，把外向的失落与愤怒转向自我批评",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "使用带内疚色彩的自责语句，降低自我价值，回避表达对他人的不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "长期与父母同住但渴望独立",
+            "害怕改变与不确定性",
+            "将独立定义为拥有自己的空间、自己做决定"
+          ],
+          "outcomes": [
+            "主观停滞感与缺乏进展",
+            "动机下降",
+            "自我苛责与内疚"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "感到落后时倾向自责“我不够努力”",
+            "在行动前过度谨慎，强调必须有充足预算与完善计划才行动",
+            "将注意力放在监控与计划上而非当下体验与直接接触"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "当看到朋友进展或想到搬家时，把能量转为自我批评与内疚而非采取外部行动",
+            "未与朋友讨论真实困扰，倾向于内吞情绪"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在考虑搬出去独立的情境下，来访者通常会因害怕改变而停滞不前，拖延制定计划与采取行动。",
+          "unique_outcome": "曾查看过几处潜在公寓，没有像往常那样完全回避行动，至少迈出了初步探索的步伐。",
+          "reason": "不同做法：主动查看房源，尝试以小步探索来降低不确定感与压力。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "父母支持、居家环境提供安全与资源",
+          "已有初步行动（查看过潜在公寓）",
+          "能够自我反思并愿意制定小目标与计划",
+          "拥有朋友这一潜在支持网络"
+        ],
+        "negative_force": [
+          "害怕改变导致拖延与回避",
+          "灾难化与预测未来的思维模式",
+          "与同龄人比较引发自我否定",
+          "自我批评与内疚降低行动动机",
+          "非黑即白思维使对行动设定过高门槛"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与拖延搬出去相关的具体行动（如制定预算、看房、提交申请）",
+          "antecedent": [
+            "在社交媒体上看到同龄人进展时",
+            "想到搬出去或开始制定计划时",
+            "暗恋对象与他人交往后失望情绪加重时"
+          ],
+          "core_reason": "对改变的恐惧与灾难化/预测未来的认知，认为若未完美准备就会失败并承担不可承受的后果",
+          "function": "逃避不确定性与可能失败，维持当前的舒适与安全感",
+          "consequence": "持续与父母同住、独立受阻、主观停滞感增强、整体幸福感下降"
+        },
+        {
+          "behavior": "自我批评与内疚（自责性言语与内在反刍）",
+          "antecedent": [
+            "看到朋友搬入新公寓或取得里程碑",
+            "回想自己未采取行动的时刻"
+          ],
+          "core_reason": "社会比较与内摄的高标准导致自我价值受损并将失望转向自身",
+          "function": "以自我惩罚暂时缓解对外表达的不适与焦虑，避免外部行动",
+          "consequence": "动机下降、社交互动受影响、自尊降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1066
+}

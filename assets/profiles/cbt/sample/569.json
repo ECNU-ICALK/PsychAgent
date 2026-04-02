@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "罗拉",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗/咨询",
+      "language_features": "表达清晰，配合度高，愿意尝试结构化练习；能自我觉察并描述触发情境；语气平稳、态度积极"
+    },
+    "main_problem": "因身高而反复产生“可能永远找不到真正爱自己的伴侣”的想法，近期愈发压倒性，影响自信并在社交与约会情境中引发焦虑。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些想法开始影响我的社交互动和整体心理健康。我想处理这些不安全感并学习如何建立自信。",
+    "growth_experiences": [
+      "过去曾因身高遭遇他人拒绝，随后长期出现与身高相关的不安全感与自我怀疑；这些经历在近期被触发后加重，促使罗拉在结识新朋友或约会时预先假定会被身高阻碍并被拒绝。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "我的身高使我会被拒绝/不被真正接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "上周与新认识的人约会",
+          "conditional_assumptions": "如果我的身高被视为问题，对方就不会想再次见我；若被拒绝就证明我不值得被爱",
+          "compensatory_strategies": "在约会中使用积极自我对话与分散注意，但仍难以放松与享受过程",
+          "automatic_thoughts": "他不会再见我，因为我太高。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交活动中与陌生人互动",
+          "conditional_assumptions": "如果别人注意到我的身高，他们就会认为我不合适并拒绝我",
+          "compensatory_strategies": "在社交场合降低投入、避免谈及不安全感以减少被评价的风险",
+          "automatic_thoughts": "他们会觉得我的身高是个问题。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友称赞并羡慕我的身高",
+          "conditional_assumptions": "正面反馈不算数或不够真实，无法否定被拒经历",
+          "compensatory_strategies": "淡化、否定或忽略赞美以自我保护",
+          "automatic_thoughts": "他们只是客气，这不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想过去因身高被拒的经历",
+          "conditional_assumptions": "一旦过去发生过拒绝，未来也会重复发生",
+          "compensatory_strategies": "以负面记忆作证据来维持谨慎与低期待，减少再次受伤的可能",
+          "automatic_thoughts": "过去都这样，以后也会一样。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在亲密关系中被真实地看见与无条件地被爱",
+        "fear": "害怕因身高而被拒绝、羞辱与否定，自我价值被击碎",
+        "defense_goal": [
+          "通过保持谨慎与降低期待、淡化正面反馈来减少被拒的风险与情感伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被挑剔、可能不被爱的高个子女性",
+          "object_representation": "潜在的拒绝者/挑剔的他人",
+          "linking_affect": "焦虑、羞耻、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出更积极的假设或鼓励进行行为实验（如“有人会欣赏你的身高”）时",
+          "interpretation": "潜意识认为积极反馈不可靠，最终仍会因身高被拒（将过去经验投射到当下）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用温和、共情的语气，先验证感受，再逐步探询证据差异；避免直接反驳，使用开放式问题引导其区分具体情境与总体化结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心因身高永远找不到真正爱自己的人",
+            "在结识新人或约会时预期被拒",
+            "不与朋友讨论不安全感，独自承受担忧"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "自尊受损",
+            "对亲密关系的期待下降与退缩"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "有一小圈朋友但不与他们讨论身高相关的不安全感",
+            "将寻求支持的冲动收回到自我安抚与忍耐"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "通过分散注意力来回避对不安全感的直接接触",
+            "用积极自我对话转移焦点而非正面接触焦虑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意参与结构化的行为实验以检验信念",
+          "具备一定自助策略（积极自我对话、分散注意）",
+          "存在友人对其身高的正向评价与潜在支持资源（虽尚未充分利用）"
+        ],
+        "negative_force": [
+          "灾难化预测与过度概括（将过往拒绝推及未来）",
+          "否定正面反馈与心理过滤，强化负性自我图式",
+          "社交情境中预期被拒导致焦虑与退缩",
+          "不与朋友讨论不安全感，外部支持动员不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在结识新朋友或约会时出现显著的社交焦虑并预期被拒",
+          "antecedent": [
+            "见到新的人或进入约会场景",
+            "回想过去因身高被拒的经历"
+          ],
+          "core_reason": "将过去的拒绝归因为身高，形成对未来的灾难化预测与过度概括的认知模式",
+          "function": "逃避潜在的拒绝与情感伤害，维持自我保护",
+          "consequence": "难以享受社交与约会、降低自信、进一步影响人际关系发展"
+        },
+        {
+          "behavior": "否定正面反馈（对身高的赞美与欣赏）",
+          "antecedent": [
+            "朋友或他人对身高的称赞与羡慕"
+          ],
+          "core_reason": "负性核心信念“我不值得被爱”与心理过滤导致无法整合正向信息",
+          "function": "维持防御性的负性叙事，避免期待被打破后的失望",
+          "consequence": "自尊难以提升，负性认知持续巩固，影响亲密关系信念与行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 569
+}

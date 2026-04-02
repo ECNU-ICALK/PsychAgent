@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "王大为",
+      "gender": "男性",
+      "occupation": "教师",
+      "educational_background": "教育学硕士",
+      "marital_status": "单身",
+      "family_status": "母亲曾是教师",
+      "social_status": "有一位关系亲密的朋友提供支持，但尚未向其分享负面想法",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗或咨询；分手前无类似心理问题的既往史",
+      "language_features": "开场时略显紧张但愿意配合；表达清晰、条理性较好；能进行自我反思与证据检视；语气平和"
+    },
+    "main_problem": "我正为一种信念所困扰：我之所以单身是因为我是一个糟糕的人，这导致自我责备和低自我价值感。",
+    "topic": "人际关系",
+    "core_demands": "这些负面信念正在影响我的心理健康和幸福感，我想要处理这些问题。",
+    "growth_experiences": [
+      "几年前经历了一次非常困难的分手，随之产生并逐渐固化的负面自我信念（如“我是一个糟糕的人”“注定不被爱”），并在看到幸福情侣或参加社交活动时被强烈激活；尝试通过爱好与自我照料分散注意力，但负性思维持续存在，影响自尊、人际互动、睡眠与工作表现。",
+      "原生家庭背景：母亲为教师，成长过程中可能熟悉教育环境与相关价值取向（案例未进一步描述具体影响）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的人",
+        "我不够好",
+        "我本质上有缺陷、不值得被爱"
+      ],
+      "special_situations": [
+        {
+          "event": "看到幸福情侣或在社交聚会上与伴侣成双成对的人接触",
+          "conditional_assumptions": "如果我仍然单身，就说明我不值得被爱、我这个人有问题",
+          "compensatory_strategies": "避免或减少参加社交聚会；用爱好与自我照料来分散注意以降低痛苦",
+          "automatic_thoughts": "我单身就是因为我是个糟糕的人；我注定不值得被爱",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在社交场合中他人没有主动与我交谈或热情回应",
+          "conditional_assumptions": "如果别人不主动与我互动，说明我不有趣、我不够好",
+          "compensatory_strategies": "回避社交场合；预设他人会拒绝自己以减少失望",
+          "automatic_thoughts": "他们不理我，是因为我不有趣、没人会想和我在一起",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想几年前那次艰难的分手",
+          "conditional_assumptions": "如果一段关系以分手告终，就证明我本质上有缺陷，未来关系也会失败",
+          "compensatory_strategies": "通过自责和自我标签来“解释”分手；避免开启新的亲密关系；用分散注意法降低痛苦",
+          "automatic_thoughts": "那次分手说明我这个人有根本缺陷，以后也会失败",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱与被接纳，建立稳定的亲密关系",
+        "fear": "害怕再次被拒绝或关系失败，被评判为“有缺陷”而受伤",
+        "defense_goal": [
+          "通过自我贬低与先行否定维持控制感以预防失望",
+          "通过回避社交降低被拒绝与受伤风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、不够好的被拒者",
+          "object_representation": "他人/潜在伴侣是评判者或拒绝者",
+          "linking_affect": "羞耻、自责、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视“别人为何不主动与我交谈”的证据时",
+          "interpretation": "倾向将他人的不热情解读为对自己“不够好”的评判（认为别人觉得我不有趣）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用猜测他人想法的表述（如“他们觉得我不有趣”），语气略显犹疑并带自责，回避具体事实细节。"
+        },
+        {
+          "trigger_condition": "当被谈及那次艰难分手及相关情绪体验时",
+          "interpretation": "以概括性的人格标签（“我有缺陷”）来解释关系失败，弱化具体情绪细节以减轻焦虑",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用抽象分析的语言叙述原因（如“我的性格有缺陷”），轻描淡写情绪体验，语气平稳，避免涉及具体场景与感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "分手后反复出现“我注定会孤独/没人会选择我”的念头",
+            "在看到幸福情侣与社交情境中感到不属于、被排除"
+          ],
+          "outcomes": [
+            "自尊下降与自我价值感低下",
+            "社交回避",
+            "睡眠质量受影响",
+            "工作表现略受影响、整体幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "开场时表示紧张、难以轻松打开",
+            "频繁以“我不够好/我有缺陷”进行自我苛责",
+            "在社交中谨慎并回避与他人直接接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一位支持性的朋友（虽暂未分享负面想法）",
+          "持续尝试通过爱好与自我照料来应对（具备自助倾向）",
+          "主动寻求心理咨询、具有改变动机"
+        ],
+        "negative_force": [
+          "强烈的自责与低自我价值感",
+          "社交回避，易将他人行为个人化",
+          "非黑即白思维与自我标签化，易将一次分手泛化为全面失败",
+          "睡眠受影响与工作表现下降，进一步强化负性自我评价"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交活动与聚会",
+          "antecedent": [
+            "看到幸福情侣",
+            "参加社交活动或聚会",
+            "想到自己处于单身状态"
+          ],
+          "core_reason": "艰难分手后形成“我是一个糟糕的人/不值得被爱”的核心信念，担心被拒绝与被评判",
+          "function": "逃避可能的评判与拒绝，以短期降低焦虑与羞耻感",
+          "consequence": "自尊降低、睡眠质量下降、工作表现略受影响、进一步减少建立亲密关系的机会"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1256
+}

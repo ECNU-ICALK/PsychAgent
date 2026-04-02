@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "张杰",
+      "gender": "男",
+      "occupation": "企业家",
+      "educational_background": "工商管理硕士",
+      "marital_status": "已婚（配偶为前任美国小姐）",
+      "family_status": "有孩子（来访者认为孩子令人失望）；家中雇有女佣处理家务",
+      "social_status": "未提及",
+      "medical_history": "此前未出现类似心理问题；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑较为连贯，配合度高；能具体描述情绪与情境；语气紧张但合作态度积极"
+    },
+    "main_problem": "我正在为“婚姻将以离婚告终”的想法而痛苦，这导致焦虑和痛苦。",
+    "topic": "婚姻关系",
+    "core_demands": "寻求咨询以减轻对离婚的恐惧对心理健康、日常功能和与配偶关系的影响；希望通过更开放的沟通来提升关系安全感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被理解和欣赏",
+        "亲密关系容易走向失败"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前与配偶的一次争执（当时感到被误解和不被欣赏）",
+          "conditional_assumptions": "如果一次严重的争执发生，就意味着婚姻正在走向终结",
+          "compensatory_strategies": "避免困难对话，并用工作或爱好分散注意力",
+          "automatic_thoughts": "这可能是我们婚姻终结的开始，我们会离婚",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在与配偶互动或讨论重要事项前，即使没有具体问题",
+          "conditional_assumptions": "如果我说错一句话，关系就会恶化并引发争吵",
+          "compensatory_strategies": "小心翼翼地说话、缩短交流、尽量回避敏感话题",
+          "automatic_thoughts": "我们会争吵，我会让事情更糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "配偶并未直接表示不满，但双方关系一度紧张",
+          "conditional_assumptions": "如果关系氛围紧张，就说明对方不快乐并可能考虑离婚",
+          "compensatory_strategies": "减少表达真实担忧，避免开启困难对话",
+          "automatic_thoughts": "TA一定对婚姻不满意，可能在考虑离婚",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被欣赏、维持稳定的亲密关系",
+        "fear": "害怕被拒绝、关系破裂与被抛弃",
+        "defense_goal": [
+          "通过回避困难对话维持表面和平并降低冲突",
+          "谨慎自我约束以避免说错话带来关系恶化"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "走在“蛋壳上”的紧张伴侣，担心说错话的人",
+          "object_representation": "可能不满、挑剔且随时会拒绝自己的配偶",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在与配偶进行重要谈话或亲密互动前，或需要表达真实担忧时",
+          "interpretation": "将中性或积极互动解读为潜在冲突信号，认为自己会说错话并导致关系恶化",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "避免直接探讨情感，转而谈工作或其他安全话题；语气谨慎、使用模糊表达，尽量缩短交流以降低不适。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因一次争执后持续担忧关系破裂，预期被伴侣拒绝与关系终结",
+            "在与配偶互动前反复预期争吵与误解、走在“蛋壳上”",
+            "感到不被理解和不被欣赏"
+          ],
+          "outcomes": [
+            "广泛性焦虑与紧张",
+            "睡眠与食欲紊乱",
+            "婚姻关系更为紧张、互动质量下降",
+            "工作表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在与配偶互动前过度自我审查和谨慎，用词小心，害怕说错话",
+            "“走在蛋壳上”以避免触发冲突"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "用工作或爱好分散注意力，避免开启困难话题",
+            "当感到紧张时转移话题而非直接表达担忧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与配偶互动或讨论重要事项前，来访者通常会提前预期争吵与误解、感到强烈焦虑，并因此回避困难对话。",
+          "unique_outcome": "在一次双方都享受的活动中（一起看电影或散步），来访者感觉更放松，未过度预期争吵，互动更自然。",
+          "reason": "不同情境：进行双方都喜爱的活动，氛围轻松；不同做法：专注当下活动而非担忧；关系支持：积极互动降低了紧张感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "咨询态度积极，愿意尝试行为实验与开放沟通",
+          "愿意记录并观察互动与情绪变化",
+          "具备一定社会支持（有几位可以倾诉的朋友）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、预测未来等认知偏差",
+          "回避困难对话与情境，长期自我监控，走在“蛋壳上”",
+          "持续焦虑导致睡眠与食欲紊乱",
+          "将紧张氛围解读为关系失败信号"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与配偶互动前和过程中出现显著焦虑并回避困难对话",
+          "antecedent": [
+            "准备与配偶互动或讨论重要事项时",
+            "回忆起几个月前的那次争执后"
+          ],
+          "core_reason": "一次争执后形成的灾难化认知与负性自动化思维（Mind Reading、Fortune Telling），伴随“我不被理解和不被欣赏”的信念",
+          "function": "逃避潜在冲突和情绪不适，试图维持表面和平",
+          "consequence": "婚姻关系更紧张、误解累积、焦虑持续；睡眠与食欲受到干扰；工作表现下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1494
+}

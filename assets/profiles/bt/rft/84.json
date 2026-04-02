@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "杨佩彤",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与母亲同住，关系亲密，可在遇到困难时与其沟通",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；无既往类似心理问题与治疗史",
+      "language_features": "表达清晰，能具体描述诱发情境与自动思维；配合度较好；语气偏消极，伴随内疚与自我批评"
+    },
+    "main_problem": "我觉得自己把时间浪费在去听演唱会和集邮等爱好上。这种看法导致我产生内疚和自我批评的感受。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些内疚和自我批评开始影响我的情绪以及对重要活动的享受。",
+    "growth_experiences": [
+      "大约六个月前，与一位朋友的对话对其影响显著：朋友批评其爱好“没有生产力”，并嘲讽集邮“是老年人才做的事”。此后，每逢周末准备去演唱会或从事集邮活动时，便出现强烈的内疚与自我批评，逐渐难以从爱好中获得快乐。",
+      "与母亲关系亲密、同住。遇到困难会与母亲沟通，但在本议题上感到“未被理解”，因此情绪缓解有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于是否在做‘有用/有产出’的事",
+        "享受与休闲等于浪费时间"
+      ],
+      "special_situations": [
+        {
+          "event": "周末准备去听演唱会或实际参加演唱会",
+          "conditional_assumptions": "如果一件事不能直接提升未来或带来明确产出，那就是没有价值的",
+          "compensatory_strategies": "试图劝阻自己减少参与或用理性说服自己不要去，以避免内疚",
+          "automatic_thoughts": "我在浪费时间，我应该去做更有意义的事",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "想起朋友对其爱好的批评，或谈到‘是否有生产力’的话题",
+          "conditional_assumptions": "他人的评价决定我的行为是否有价值",
+          "compensatory_strategies": "通过自我批评来约束自己，压抑兴趣以符合他人标准",
+          "automatic_thoughts": "她觉得我不够上进，那我一定是不务正业",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "进行集邮时只注意到其‘没有实际产出’的一面",
+          "conditional_assumptions": "活动若没有可见成果或效率，就等同浪费",
+          "compensatory_strategies": "尝试理性列举利弊，但反复聚焦于负面证据",
+          "automatic_thoughts": "这些活动一点用都没有",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想过去几次演唱会与休闲经历",
+          "conditional_assumptions": "如果某次被认为‘不够有用’，那此类活动一概都是浪费",
+          "compensatory_strategies": "给自己贴上“浪费时间”的标签以逼迫改变行为",
+          "automatic_thoughts": "我总是在浪费时间",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在被他人认可为“有价值/有产出”的同时，仍能自在地享受个人兴趣与放松",
+        "fear": "害怕被评价为“不务正业/无用”，从而被否定或看不起",
+        "defense_goal": [
+          "通过自我批评与压抑兴趣来避免被指责",
+          "以理性化方式讨论‘生产力/价值’，以降低被否定时的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要用‘有用/有产出’证明自己的不安自我",
+          "object_representation": "带有批评与评判的他人（朋友/外界）",
+          "linking_affect": "羞愧、内疚、焦虑"
+        },
+        {
+          "self_representation": "渴望被理解却感到无助的自我",
+          "object_representation": "善意但不理解的照料者（母亲）",
+          "linking_affect": "失落、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人质疑其爱好的“生产力”，或咨询情境聚焦于价值/效率时",
+          "interpretation": "对方在否定我，如果我享受爱好就会被看不起",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观分析与数据化语言谈论‘效率/产出’，淡化情绪用词，语气克制、条理化，回避深入主观感受。"
+        },
+        {
+          "trigger_condition": "临近周末准备从事爱好时出现强烈内疚与自责",
+          "interpretation": "如果我去享受爱好，就会失败或被认为不思进取",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用苛责、自贬式语句（如“我在浪费时间”），语气严厉，主动放弃或减少爱好行为以缓解焦虑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "开始质疑爱好的价值，认为去演唱会与集邮“没有意义/没有产出”",
+            "难以承认享乐与放松本身的价值，怀疑其人生意义"
+          ],
+          "outcomes": [
+            "内疚与自我批评增强",
+            "快感缺失与兴趣减退（对原本喜欢的活动不再享受）",
+            "情绪低落与自我价值感下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在‘自由享受’与‘对自我负责的生产性’之间感到冲突",
+            "他人标准内化后，自我选择空间被压缩"
+          ],
+          "outcomes": [
+            "选择受限、犹豫与回避",
+            "以自我苛责方式抑制兴趣，导致心理张力与内耗"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复使用“我应该做有意义的事”来评判自己",
+            "朋友的批评在脑海中反复回放，并被当作评判自身的标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评，担心爱好是否‘有用’",
+            "在谈及爱好时明显谨慎，倾向用自我责备来约束行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与母亲关系较为亲密，具备基础情感支持的资源",
+          "能觉察到演唱会等活动曾带来放松与幸福感（对积极体验有记忆）",
+          "主动求助并愿意尝试咨询与认知检验（现实检验）",
+          "具备一定的理性分析能力，能尝试评估活动利弊"
+        ],
+        "negative_force": [
+          "将外界‘生产力’标准内化为自我价值评估准则，依赖外部评价",
+          "非黑即白、过度概括与心理过滤等认知偏差强化内疚",
+          "强烈的‘应该’信念导致自我苛责与回避享乐",
+          "朋友的负向评价反复触发内疚与自我否定，破坏活动乐趣"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在从事爱好（演唱会、集邮）时出现强烈内疚与自我批评，并倾向减少或回避相关活动",
+          "antecedent": [
+            "周末或临近从事爱好时",
+            "回想起朋友关于“没有生产力”的批评",
+            "与他人谈及是否该参与爱好时"
+          ],
+          "core_reason": "将‘是否有产出/有用’作为唯一价值标准，受朋友批评触发并内化为自我评价准则",
+          "function": "逃避内疚等不适情绪及避免被他人负面评价",
+          "consequence": "对原本带来快乐的活动失去兴趣与乐趣，情绪低落，生活质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 84
+}

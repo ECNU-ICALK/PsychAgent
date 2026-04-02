@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "林佳",
+      "gender": "女",
+      "occupation": "大学生",
+      "educational_background": "攻读日语本科",
+      "marital_status": "未婚",
+      "family_status": "与室友同住",
+      "social_status": "有室友与同学的支持资源，但难以就财务问题敞开心扉；因焦虑与易怒导致与室友、同学关系紧张",
+      "medical_history": "无显著身体疾病；此前未接受心理咨询；无类似心理问题史",
+      "language_features": "表达清晰，能描述压力与焦虑；态度偏消极，常用灾难化与“永远不行”的语句；对探索持怀疑但愿意尝试的配合度"
+    },
+    "main_problem": "因意外更换汽车轮胎导致支出增加，担心无法攒够与班级一起去日本旅行的费用，持续感到压力、焦虑与绝望；随着旅行临近加剧，想到旅行或财务时反复出现焦虑与无望感，意外支出时尤甚。",
+    "topic": "情绪管理",
+    "core_demands": "因与旅行与财务相关的压力和焦虑开始影响学业表现和整体身心状态，希望通过咨询缓解焦虑、恢复学业与生活功能。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "无论我怎么努力，事情都会出错",
+        "我的努力没有意义"
+      ],
+      "special_situations": [
+        {
+          "event": "意外需要为汽车更换新轮胎，增加开支",
+          "conditional_assumptions": "一旦出现意外支出，我就不可能达成既定计划（如旅行存款）",
+          "compensatory_strategies": "立刻严格预算、削减开支以试图重新掌控",
+          "automatic_thoughts": "现在我不可能攒够去日本的钱",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每当想到去日本旅行或自己的财务状况",
+          "conditional_assumptions": "如果不能按计划完全存到钱，就等于彻底失败",
+          "compensatory_strategies": "回避与他人谈及金钱话题，减少社交接触",
+          "automatic_thoughts": "我的努力都是白费",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与室友或同学互动时涉及旅行或金钱话题",
+          "conditional_assumptions": "如果他人不与我有同样的焦虑，说明他们不理解甚至会评判我",
+          "compensatory_strategies": "变得易怒、与人保持距离或回避谈话",
+          "automatic_thoughts": "没有人理解这件事对我有多严重",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "已经制定预算并削减开支后仍感到压力",
+          "conditional_assumptions": "只有在没有任何阻碍时，努力才算有效；一旦出现问题，所有努力都没有意义",
+          "compensatory_strategies": "否定已有的小进展，持续担忧与自我否定",
+          "automatic_thoughts": "这些尝试都没用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与支持，能安全地寻求帮助并保持对生活与财务的掌控感",
+        "fear": "害怕因暴露财务困难而被评判或感到羞耻；害怕失去控制、计划泡汤",
+        "defense_goal": [
+          "通过回避谈钱与求助来减少羞耻",
+          "把压力归因于外界（如“宇宙与我作对”）以缓解自责",
+          "用“太个人、太尴尬”等理由维持距离，降低暴露风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "努力却无力的受挫者",
+          "object_representation": "不理解且可能评判自己的他人（室友、同学）",
+          "linking_affect": "焦虑、羞耻、孤独"
+        },
+        {
+          "self_representation": "被命运打击的受害者",
+          "object_representation": "敌对且不公平的世界",
+          "linking_affect": "无力、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请来访者探索强烈的自动化思维或建议与他人讨论财务困扰时",
+          "interpretation": "认为讨论只会暴露自己的羞耻，他人会不理解或评判自己（移情：担心被拒绝/被羞辱）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先共情其尴尬与担忧，语气温和，提供小而安全的尝试选项，避免直接逼迫其自我揭露，使用开放式问题与具体化引导。"
+        },
+        {
+          "trigger_condition": "当出现意外支出或旅行临近引发强烈焦虑时",
+          "interpretation": "将困境归咎于外界（如“宇宙与我作对”），并假定他人不会理解自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持稳定与接纳的语气，进行温和的现实检验，帮助区分事实与推断，引导识别并命名自身感受与需要。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感觉“所有努力都是白费”",
+            "把一次意外支出视为整体计划崩塌",
+            "对未来作负面必然性的解释"
+          ],
+          "outcomes": [
+            "焦虑与绝望感增加",
+            "学业注意力下降与成绩滑落",
+            "睡眠与饮食节律被打乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向室友与同学谈及财务困扰，觉得太个人、太尴尬",
+            "体验“没有人理解这件事对我有多严重”"
+          ],
+          "outcomes": [
+            "关系紧张与回避社交",
+            "易怒与与人疏离",
+            "支持资源难以动员"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界做出的行为冲动，放弃向外寻求他人为其做某事，转而对自己做（将能量转向自身）。",
+          "manifestations": [
+            "不向室友或同学求助，转而更严格自我节省与自我压力化",
+            "把求助的冲动压回，独自承受焦虑与担忧"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "将自己难以接纳的感受归于他人或外界。",
+          "manifestations": [
+            "将困境归因于“宇宙与我作对”",
+            "认为他人不会理解或会评判自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与反省，包含过多的自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心尴尬而不谈钱，过度在意他人看法",
+            "对自我披露保持高度谨慎，宁可回避交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "已主动尝试预算与削减开支",
+          "具备潜在社会支持资源（室友、同学）",
+          "在咨询中愿意尝试小步骤与去灾难化练习",
+          "目标明确（随班赴日），动机存在"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与跳结论等认知偏差显著",
+          "羞于谈钱、回避求助，导致资源难以动员",
+          "焦虑与易怒使睡眠饮食紊乱、人际关系紧张",
+          "倾向将外界视为敌对（“宇宙与我作对”），自我效能感降低"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与他人讨论财务困扰",
+          "antecedent": [
+            "想到与班级日本旅行的费用",
+            "出现意外支出（如更换轮胎）",
+            "社交场合涉及旅行或金钱话题"
+          ],
+          "core_reason": "对金钱话题感到尴尬，害怕被评判或不被理解，从而避免暴露与求助",
+          "function": "逃避羞耻与负面评价，维持自我保护与控制感",
+          "consequence": "支持资源无法获得，人际关系紧张与疏离，加重焦虑与无力感"
+        },
+        {
+          "behavior": "对财务压力进行灾难化解释并陷入强烈焦虑，伴随易怒与学习注意力下降",
+          "antecedent": [
+            "意外支出发生",
+            "旅行日期临近",
+            "独自思考旅行与财务时"
+          ],
+          "core_reason": "对未来进行负性预测与非黑即白归因，过度放大单次事件的影响",
+          "function": "试图通过预期最坏情境来获得虚假的控制与心理准备，短期避免不确定性带来的焦虑",
+          "consequence": "学业表现受损、睡眠与饮食节律紊乱、人际冲突增多"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 404
+}

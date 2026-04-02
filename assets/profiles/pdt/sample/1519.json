@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "罗莉",
+      "gender": "女",
+      "occupation": "大型公司员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与父母和兄弟姐妹关系亲密",
+      "social_status": "有支持性的朋友与家人，但近期因负面想法而减少社交活动",
+      "medical_history": "无显著躯体疾病；此前未经历类似问题；未寻求过心理治疗",
+      "language_features": "表达清晰，能具体描述感受与时间线；语气消极，频繁使用绝对化表述（如“永远不会赢”“毫无意义”）；在咨询中愿意尝试干预"
+    },
+    "main_problem": "我持续相信自己永远不会赢到任何钱，尤其是在刮刮乐屡屡失利后，这种信念引发无望与挫败感。",
+    "topic": "情绪管理",
+    "core_demands": "意识到这种信念显著影响我的情绪与日常活动，因此寻求咨询以改变这些想法并恢复功能。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远赢不了钱",
+        "我在彩票上注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "刮开刮刮乐彩票后看到又一次未中奖",
+          "conditional_assumptions": "如果我接连未中奖，就意味着我永远不会赢、注定会失败",
+          "compensatory_strategies": "尝试改变玩法并向朋友寻求建议以扭转局面",
+          "automatic_thoughts": "我永远不会赢；这毫无意义；我为什么还要尝试",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "经历一个月的连续彩票失利",
+          "conditional_assumptions": "如果近期一直输，未来也只会更糟、不会有改变",
+          "compensatory_strategies": "继续参与彩票以寻求兴奋与希望，企图用下一次中奖来缓解无望感",
+          "automatic_thoughts": "我注定会失败；以后也不会有不同",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在反思损失时只关注未中奖的结果，将其视为全部证据",
+          "conditional_assumptions": "损失就是全部证据，任何反面的信息都不相关",
+          "compensatory_strategies": "忽略更广阔的视角，仅以最近的失败评估现实",
+          "automatic_thoughts": "证据都在那些失败里，改变看法是不现实的",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过外在好运或中奖获得希望与兴奋，并感到自己的努力或选择是有意义的",
+        "fear": "害怕持续失败与无望感占据生活，担心无论怎么做都毫无意义",
+        "defense_goal": [
+          "通过退缩与降低期待来减少再次失望的可能性",
+          "用“损失即证据”的框架维持自我一致，避免不确定性带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被连续失败笼罩的无望者",
+          "object_representation": "支持但无力改变结果的旁观者（家人与朋友）",
+          "linking_affect": "挫败、无望、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请从更广阔视角看待“损失”，或提出与其信念相反的证据时",
+          "interpretation": "将“损失就是铁证”的思路投向现实，倾向认为任何反证都是在否认事实（移情：以理性框架防御不确定）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观陈述与“证据”措辞重复观点，语气平稳但拒绝深入情感层面；若被追问感受，转而强调数据与结果。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在彩票屡屡失利后形成“这毫无意义”的信念",
+            "将近期失败视为永久状态，认为“注定会失败”",
+            "因负面想法而退出社交、难以入睡与饮食紊乱"
+          ],
+          "outcomes": [
+            "无望感与挫败感加重",
+            "动机下降与注意力受损",
+            "社交退缩、日常功能下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中反复自我否定（如“我为什么还要尝试”）",
+            "对干预持怀疑态度、犹豫尝试（“这可能毫无意义”）",
+            "紧抓“损失”为唯一证据，谨慎而难以开放地接触不同视角"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友与家人，可在遇到困难时倾诉",
+          "工作表现总体未受显著影响，职业功能基本稳定",
+          "能觉察负性信念对情绪与生活的影响并主动寻求咨询",
+          "在咨询中表现出愿意尝试认知重建与行为实验的意愿"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的认知偏差强化负性信念",
+          "将彩票作为主要的兴奋与希望来源，外在依赖较强",
+          "社交退缩导致支持性互动减少",
+          "睡眠与饮食节律受扰，身心负担增加",
+          "反复关注失败，将其视为全部证据（心理过滤）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交退缩",
+          "antecedent": [
+            "刮刮乐未中奖后",
+            "想到最近连续失利时"
+          ],
+          "core_reason": "将近期的失败过度概括为永久失败，产生强烈无望感",
+          "function": "逃避负性情绪与失败感",
+          "consequence": "人际联系减少、获得支持减少，情绪进一步恶化"
+        },
+        {
+          "behavior": "灾难化的自动思维（“我永远不会赢”）",
+          "antecedent": [
+            "看到彩票未中奖",
+            "参与类似博弈活动后"
+          ],
+          "core_reason": "灾难化、过度概括与预测未来的认知偏差驱动思维定式",
+          "function": "通过提前否定期待来试图降低失望",
+          "consequence": "注意力下降、动机减退、日常功能受影响"
+        },
+        {
+          "behavior": "睡眠与饮食紊乱",
+          "antecedent": [
+            "在负性自动思维与无望感出现之后"
+          ],
+          "core_reason": "持续反刍与情绪低落导致作息失调",
+          "function": "以麻木或逃避方式应对不适情绪",
+          "consequence": "生理状态与精力下降，影响工作与生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1519
+}

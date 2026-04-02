@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "赵丹",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与丈夫及家人关系亲密，每周三与丈夫一起玩宾果",
+      "social_status": "与丈夫和家人关系密切，整体支持性良好，但尚未就此类感受与他们沟通",
+      "medical_history": "左膝有金属填充，无显著躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑性良好、能进行自我反思；情绪略低落但态度积极、合作度高；对失败敏感并有羞耻感，愿意尝试认知重构与作业"
+    },
+    "main_problem": "昨晚在宾果游戏中失利后感到自己是个失败者，并产生“应该永远不再玩”的想法。",
+    "topic": "情绪管理",
+    "core_demands": "这些想法和感受影响我参与曾经喜欢的活动并损害自尊，因此希望通过咨询减少灾难化与自我贴标签的思维，恢复参与活动的意愿。",
+    "growth_experiences": [
+      "来访者童年时期很少在游戏中获胜，这使她逐渐形成“我有问题/我是失败者”的自我感受；每当失败场景出现，这些早期的挫败体验就被激活，强化了对自我价值的负面判断，并在成年后延续到当前的休闲活动中。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个失败者",
+        "无论我做什么，我都会输"
+      ],
+      "special_situations": [
+        {
+          "event": "昨晚的宾果游戏中失利（每周三与丈夫一起玩）",
+          "conditional_assumptions": "如果我输掉游戏，就证明我是失败者，应当停止参与以免再次受挫",
+          "compensatory_strategies": "回避再次玩宾果及其他可能失败的活动",
+          "automatic_thoughts": "我就是失败者，我应该永远不再玩了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在其他游戏或活动中失利",
+          "conditional_assumptions": "只要出现一次失败，就意味着我整体都是失败者",
+          "compensatory_strategies": "将自我贴上“失败者”标签，并减少尝试以避免失败带来的羞耻",
+          "automatic_thoughts": "我总会输，不管我做什么",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑是否向丈夫或家人表达自己的感受",
+          "conditional_assumptions": "如果我分享这些感受，别人会认为我小题大做或很可笑",
+          "compensatory_strategies": "不与家人讨论，选择独自承受情绪",
+          "automatic_thoughts": "他们会觉得我过度反应、太幼稚",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想童年时期很少赢得游戏",
+          "conditional_assumptions": "童年多次失败说明我这个人本质上有问题",
+          "compensatory_strategies": "减少参与竞争性活动，以避免再次验证“我是失败者”的信念",
+          "automatic_thoughts": "我一直都是输家，这说明我有问题",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与被认可，不以输赢来定义自我价值",
+        "fear": "害怕被视为失败者而遭到评判或轻视，体验羞耻与自尊受损",
+        "defense_goal": [
+          "通过回避可能失败的活动以及不表达脆弱感受来降低被评判的风险、维持自尊的脆弱平衡"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "“我是失败者/有问题的人”",
+          "object_representation": "“他人会评判我、觉得我反应过度或可笑”",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要支持与理解的伴侣",
+          "object_representation": "支持、理解但未被充分寻求的丈夫与家人",
+          "linking_affect": "被理解的期待、温暖与不确定"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议将感受与丈夫或家人分享，或探讨重新参与活动时",
+          "interpretation": "来访者倾向于认为他人会对其情绪反应做出负面评价（移情：将内在自我批评投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以同理和正常化的语气回应，温和澄清与探索证据，邀请其尝试有限分享并关注实际反馈。"
+        },
+        {
+          "trigger_condition": "当被询问一次失败的意义或其对自我价值的影响时",
+          "interpretation": "将一次失败体验视为对整体自我价值的全盘否定（好坏无法整合）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用连续体与灰度探索的提问，温和挑战极端化理解，强调多维证据与具体情境。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以输赢结果为条件地限定自我与选择（“我应该永远不再玩”）",
+            "将失败视为对自我价值的决定性裁决，减少自主参与与尝试"
+          ],
+          "outcomes": [
+            "回避休闲活动、乐趣减少",
+            "自尊受损与羞耻感增强",
+            "选择范围缩窄、对失败情境的恐惧加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“输就等于失败者”“我应该不再玩”为绝对规则约束自己",
+            "用他人的可能评价作为衡量自我价值的标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不向支持性的丈夫和家人表达感受，将期待的支持转而由自己消化",
+            "把对失败的愤懑与羞耻转向自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与丈夫和家人关系亲密、具有支持资源",
+          "能够识别并讨论负性自动思维，愿意尝试认知重构与行为实验",
+          "意识到宾果只是娱乐活动，开始形成更平衡的视角"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著，倾向用一次失败定义整体自我",
+          "对他人评价高度敏感，倾向读心术与自我贴标签",
+          "回避失败情境，缩减活动参与度，强化负性信念循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在失败后回避参与原本喜欢的活动（如宾果等）",
+          "antecedent": [
+            "在游戏或活动中失利",
+            "想到可能再次失败或被评判"
+          ],
+          "core_reason": "童年屡次在游戏中失利的经历被激活，形成“我是失败者”的核心信念，以失败定义自我价值并产生羞耻感",
+          "function": "逃避失败带来的羞耻与焦虑，短期降低不适情绪",
+          "consequence": "娱乐与社交活动减少、生活乐趣下降，自尊受损并维持负性信念"
+        },
+        {
+          "behavior": "失败后出现反复的负性自我对话（如“我是失败者”“我总会输”）",
+          "antecedent": [
+            "近期在宾果或其他活动中失利",
+            "回想童年少有胜利的经历"
+          ],
+          "core_reason": "将一次或几次失败过度概括为稳定的自我特质，强化灾难化与非黑即白认知",
+          "function": "通过自我标签化为不确定体验提供简单解释，暂时获得控制感",
+          "consequence": "情绪低落、动机下降，进一步增加回避并削弱参与感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 150
+}

@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "李婧",
+      "gender": "女性",
+      "occupation": "学生",
+      "educational_background": "在读写作学位",
+      "marital_status": "未婚",
+      "family_status": "母亲为图书管理员",
+      "social_status": "有几位可倾诉的朋友，但对自我怀疑与不安全感不易敞开",
+      "medical_history": "无重大躯体疾病；既往未因心理问题接受治疗；否认类似问题的既往史",
+      "language_features": "表达清晰、逻辑性强，能觉察并描述负性自动思维；配合度高，态度积极；情绪以焦虑与不确定为主"
+    },
+    "main_problem": "我一直认为自己不够聪明，无法写出一本小说，这种信念阻碍了我成为记者的愿望。",
+    "topic": "职业发展",
+    "core_demands": "当这些消极想法开始影响我的学业表现和整体健康时，我决定寻求咨询。我真的想找到办法跨越这些怀疑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/能力不足",
+        "我不如别人"
+      ],
+      "special_situations": [
+        {
+          "event": "写作工作坊中同学分享作品，作品被认为更精致、更有洞见",
+          "conditional_assumptions": "如果我的作品没有同学那么好，就说明我不够聪明，也不可能成为作家/记者",
+          "compensatory_strategies": "在工作坊中主要旁观少发言，减少暴露与被评价；用积极自我对话试图压下怀疑",
+          "automatic_thoughts": "我永远比不过他们，我就是不够聪明。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在完成写作作业时出现困难、卡壳",
+          "conditional_assumptions": "如果我写不顺或一时完成不好，就证明我天生不行",
+          "compensatory_strategies": "拖延或回避继续投入，降低参与度以避免失败感",
+          "automatic_thoughts": "这再次证明我不行，我写不出有意义的东西。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "开始攻读写作学位后接触到更多优秀写作与高标准要求",
+          "conditional_assumptions": "如果我现在还达不到很高的水准，将来也不会成功",
+          "compensatory_strategies": "频繁与他人比较，提前在心里降低期待以防失望",
+          "automatic_thoughts": "照这样发展下去，我终究不适合写作，也做不了记者。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次坐下来开始写作",
+          "conditional_assumptions": "要么我能写出像小说那样高水平的作品，要么就说明我不够聪明",
+          "compensatory_strategies": "在开始前过度自我评估、犹豫不前，减少尝试以避免“失败”",
+          "automatic_thoughts": "如果我写不出小说，就证明我不够聪明。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的写作者，获得胜任感与价值感",
+        "fear": "害怕被比较中显得不如人、被否定与羞辱，最终失败",
+        "defense_goal": [
+          "通过减少暴露与参与来避免被评价与受挫",
+          "以自我苛责与降低期待来预防失望",
+          "以追求“完美标准”来证明价值、对抗无能感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "能力不足、容易被看出缺点的学生/写作者",
+          "object_representation": "更聪明且挑剔的评判者（同伴/读者/潜在导师）",
+          "linking_affect": "羞耻、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在会谈中回顾工作坊他人作品获赞、被邀请分享或谈及自我评估时",
+          "interpretation": "他人或咨询师会看到我的不足并否定我（将他人视为挑剔的评判者）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低自我评价，使用“我不够聪明/我不行”之类表述，回避展开自我能力的具体证据。"
+        },
+        {
+          "trigger_condition": "当被直接聚焦当前感受（如羞耻、焦虑）并探索其来源时",
+          "interpretation": "表达情绪会暴露弱点并带来负面评价",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "转而谈论学习计划或技巧，以概念化、客观化语言叙述，减少情绪词汇与主观体验的细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有朋友可谈，但难以就自我怀疑与不安全感敞开",
+            "在比较与自我否定中感到与同伴疏离"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "避免表达脆弱感受，进一步加重自我怀疑与焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（“我不够聪明”），在互动中过度担心被评价",
+            "工作坊中更倾向旁观，谨慎发言以避免暴露“不足”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，将原本对外的能量转向自身。",
+          "manifestations": [
+            "遇到写作困难与比较情境时，将挫败与愤怒内化为自责与退缩",
+            "减少求助与表达需求，转而自我苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备学习动力（攻读写作学位）",
+          "有一定社会支持（有几位可谈心的朋友）",
+          "已尝试积极自我对话以对抗消极念头",
+          "主动寻求咨询与愿意行动检验信念"
+        ],
+        "negative_force": [
+          "核心负性信念（“我不够聪明”）导致普遍的自我怀疑",
+          "过度比较与黑白分明思维、预测未来等认知歪曲",
+          "在关键情境中的回避与退缩（减少参与与表达）",
+          "难以向他人敞开脆弱感受，形成人际紧张与支持利用不足",
+          "学业受挫与动机下降，构成负向循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我否定与负性思维反刍（“我不够聪明/写不出有意义的作品”）",
+          "antecedent": [
+            "参加写作工作坊、看到同伴高质量作品",
+            "独自坐下来开始写作、遇到写作卡壳",
+            "与他人比较能力与成果"
+          ],
+          "core_reason": "内在核心信念“我不够聪明”被触发，并以过度比较与灾难化推断进行自我验证",
+          "function": "逃避潜在失败与羞耻感，获得短暂的心理防护（降低期待、暂时减少尝试的焦虑）",
+          "consequence": "学业表现下降、动机减退、人际关系紧张与兴趣活动参与减少"
+        },
+        {
+          "behavior": "在写作与交流情境中的回避与退缩（减少发言、避免分享作品与参与）",
+          "antecedent": [
+            "需要公开展示或讨论写作的课堂/工作坊场合",
+            "被邀请对作品进行自我评估或接受反馈"
+          ],
+          "core_reason": "担心被否定与丢脸，将对外的批评威胁内化为自我指责，借由回避来减少焦虑",
+          "function": "逃避不受欢迎的刺激（外部评价、失败感），短期降低焦虑",
+          "consequence": "缺乏练习与反馈的机会，能力与自信进一步受损，维持负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1566
+}

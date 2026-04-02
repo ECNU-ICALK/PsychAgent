@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "朱莉",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "成长于新罕布什尔州，未提及直系家庭成员",
+      "social_status": "社交支持较弱，但有一位可以倾诉的亲密朋友；舞蹈曾是其重要的社交活动",
+      "medical_history": "无重大躯体疾病史；无以往心理治疗经历；无类似问题史",
+      "language_features": "表达清晰，配合度较好；能具体描述自动化思维与感受；语气平稳（态度中性）；具备一定自我反思能力"
+    },
+    "main_problem": "害怕在跳舞时绊倒、摔倒并折断脖子，从而导致瘫痪，这种恐惧使其在跳舞时产生强烈焦虑与犹豫。",
+    "topic": "情绪管理",
+    "core_demands": "希望重拾自信，重新享受跳舞；减少对摔倒致瘫痪的恐惧。",
+    "growth_experiences": [
+      "几年前在跳舞时发生过一次小的摔倒事件，随后开始出现对“摔倒-严重受伤/瘫痪”的灾难化担忧。最初压力强度为中等，但恐惧逐步发展为在跳舞或想到跳舞时都会出现的焦虑与犹豫；尤其在公共或不熟悉的场合更为明显。她因此避免某些舞步或情境，社交与锻炼习惯受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我随时可能遭遇严重意外并永久受伤。"
+      ],
+      "special_situations": [
+        {
+          "event": "在公共或不熟悉的环境里准备跳舞",
+          "conditional_assumptions": "如果在公共或陌生场合跳舞，我更可能失去平衡并造成不可逆的伤害",
+          "compensatory_strategies": "尽量避免在公共场合跳舞或减少参与",
+          "automatic_thoughts": "我会摔倒、折断脖子、可能瘫痪。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对新的或复杂的舞步时",
+          "conditional_assumptions": "如果尝试复杂或不熟悉的动作，就会失控并导致严重后果",
+          "compensatory_strategies": "只做最简单的动作，主动回避某些舞步和场景",
+          "automatic_thoughts": "这些动作太危险了，我一定会出事。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "仅仅想到要去跳舞或开始跳舞的时刻",
+          "conditional_assumptions": "只要开始跳舞，灾难迟早会发生",
+          "compensatory_strategies": "提前回避或拖延练习，减少跳舞频率",
+          "automatic_thoughts": "迟早会摔倒，最终会瘫痪。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想几年前那次跳舞时的小摔倒",
+          "conditional_assumptions": "既然曾经摔倒过，就说明以后更可能发生严重事故",
+          "compensatory_strategies": "以过去经历为依据保持高度警惕与回避",
+          "automatic_thoughts": "我以前摔过，说明我很容易再次严重受伤。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在安全感中自由地享受舞蹈与社交、保持身体完整无恙",
+        "fear": "害怕失去控制而摔倒，遭受不可逆的严重伤害（如瘫痪）",
+        "defense_goal": [
+          "通过回避复杂动作与高风险情境来维持安全与可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易受伤的个体",
+          "object_representation": "他人/环境是危险且不可预测的背景",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议在陌生/公共环境或尝试新的、较复杂的舞步时",
+          "interpretation": "将他人的建议理解为把自己置于高风险之中，认为严重后果几乎不可避免（“迟早会发生”）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调潜在风险，频繁提出“万一……”的疑问，礼貌但坚决地缩小任务或拒绝尝试；语气谨慎，用词保守，重复“我可能会摔倒”之类的表述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧限制了她选择与行动的自由，避免在公共或不熟悉环境跳舞，回避复杂动作",
+            "主观体验为“失去自己的一部分”——无法像过去那样自在地跳舞与社交"
+          ],
+          "outcomes": [
+            "焦虑加剧与犹豫不决",
+            "行为回避导致生活活力与乐趣下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "舞蹈原本是重要的社交方式，因恐惧而减少参与",
+            "社交支持较弱，仅有一位亲密朋友可倾诉"
+          ],
+          "outcomes": [
+            "社交互动减少",
+            "与他人连接感下降、情感支持不足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外界做出的行为或寻求别人为其做某事的冲动，将能量转而对自己，形成自我克制。",
+          "manifestations": [
+            "在想跳舞时克制外出或参与的冲动，转而限制自己仅做最简单的动作",
+            "避免公共场合或不熟悉情境以求“自我保护”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过多的自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在对话中自评“我可能是在过度反应”，但仍严格限制行为",
+            "过度关注潜在风险，谨慎到难以启动正常的接触与体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对舞蹈有热爱与动机，愿意通过“小步骤”尝试练习",
+          "能识别他人跳舞并无灾难发生，具备一定现实检验的视角",
+          "有一位亲密朋友可支持与倾听",
+          "无重大躯体疾病，具备参与舞蹈的身体条件"
+        ],
+        "negative_force": [
+          "灾难化思维与预测未来（“迟早会发生严重事故”）",
+          "否定积极证据（未再次摔倒仍认为风险必然）",
+          "行为回避与安全策略依赖（避免复杂动作/公共场合）",
+          "社交支持较弱，资源有限导致恐惧更难自我调节"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对跳舞时摔倒并遭受严重伤害（如瘫痪）的强烈恐惧与行为回避",
+          "antecedent": [
+            "想到要跳舞或开始跳舞",
+            "身处公共或不熟悉的场合",
+            "面对新的或复杂的舞步"
+          ],
+          "core_reason": "几年前一次在跳舞时的小摔倒引发对严重后果的灾难化认知，并逐步强化为对失控与永久性伤害的担忧",
+          "function": "逃避感知到的危险并降低当下的焦虑水平",
+          "consequence": "回避跳舞与特定舞步，社交与锻炼习惯受影响；持续焦虑与犹豫，生活乐趣下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1946
+}

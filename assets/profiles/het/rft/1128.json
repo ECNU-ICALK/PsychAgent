@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "兼职工作者",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与室友同住",
+      "social_status": "有几位亲密朋友，但尚未向他们分享关于寻找新室友的焦虑",
+      "medical_history": "无显著躯体疾病；无既往类似心理问题；未接受过心理咨询或精神科治疗",
+      "language_features": "表达清晰，能具体描述情绪与困扰；情绪基调偏焦虑与消极；存在灾难化、读心术、预测未来、过度概括、个人化等认知偏差；对咨询配合度尚可"
+    },
+    "main_problem": "最近得知室友要搬走，我对寻找一个同样合得来的新室友感到焦虑。这种焦虑在室友告知搬走时开始，最初压力很大，担心找不到类似的人选，逐渐发展为对找新室友的持续担忧以及一旦找不到就会感到孤独。",
+    "topic": "人际关系",
+    "core_demands": "室友搬走的消息触发了强烈的焦虑与对孤独的恐惧，因此希望在这一过渡期获得咨询支持。",
+    "growth_experiences": [
+      "曾有一次非常担心考试会失败，但最终考试结果良好。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法很好地应对变化，事情往往会朝最坏的方向发展",
+        "与人建立合拍关系很困难，好的关系难以再获得"
+      ],
+      "special_situations": [
+        {
+          "event": "室友告知即将搬走，居住关系将发生变化",
+          "conditional_assumptions": "如果找不到与现在一样合拍的新室友，我的生活就会变得很糟糕，而且我会很孤独",
+          "compensatory_strategies": "反复预演最坏情景、加重担忧以期提前做好心理准备，但未主动广泛求助或系统筛选",
+          "automatic_thoughts": "我永远找不到像现在这样合得来的新室友",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到要与陌生人重新相处和建立规则",
+          "conditional_assumptions": "如果新关系达不到现在的标准，就等于失败，我会受不了这种落差",
+          "compensatory_strategies": "渴望获得确定性的“保证”，提高筛选标准以降低不确定性",
+          "automatic_thoughts": "没有明确的保证，事情就会出问题",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "听到他人分享的“糟糕室友”的负面故事",
+          "conditional_assumptions": "如果别人经历过糟糕室友，我也很可能会遇到类似甚至更糟的状况",
+          "compensatory_strategies": "聚焦最负面的案例来提醒自己小心，进一步加强回避与担忧",
+          "automatic_thoughts": "新室友一定会很糟糕，我们会一直吵架",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到向朋友倾诉或寻求帮助时",
+          "conditional_assumptions": "如果我告诉朋友，他们也不会理解，可能会觉得我在麻烦他们",
+          "compensatory_strategies": "选择沉默、独自承受，不主动使用社会支持",
+          "automatic_thoughts": "他们不会理解我的",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持稳定、被理解且舒适的亲密/同伴关系，在变化中获得安全与陪伴",
+        "fear": "害怕被孤独感吞噬、害怕亲密关系变差并陷入冲突与失控",
+        "defense_goal": [
+          "通过预设最坏来降低期待，避免失望或被伤害",
+          "保持自我保护与距离（不向朋友求助）以避免可能的拒绝或不被理解",
+          "追求确定性与“保证”以暂时缓解对不确定性的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要被理解且脆弱的个体，面对变化容易焦虑",
+          "object_representation": "潜在不可靠/可能产生冲突的新室友",
+          "linking_affect": "焦虑、担忧"
+        },
+        {
+          "self_representation": "不想麻烦他人的求助者",
+          "object_representation": "不会理解自己、可能负担过重的朋友",
+          "linking_affect": "顾虑、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨向朋友寻求支持或分享担忧时",
+          "interpretation": "认为朋友不会理解自己、可能会觉得自己在制造负担（移情：将内心的不被理解感投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以肯定语气简短回应，如“他们不会理解”，避免展开细节，语气平淡并尝试转移话题。"
+        },
+        {
+          "trigger_condition": "当面对不确定的未来（寻找新室友）并被邀请评估证据与选项时",
+          "interpretation": "以他人“糟糕室友”故事为理由，认为无论如何都会出错",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "引用外部案例作为依据，语气坚信不疑，重复“总会出问题”的判断，弱化反证。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "室友搬走触发对孤独的强烈恐惧",
+            "担心找不到同样合得来的新室友",
+            "认为朋友“不会理解”，避免求助，进一步加剧孤独感"
+          ],
+          "outcomes": [
+            "显著焦虑与持续担忧",
+            "睡眠紊乱与食欲下降",
+            "工作专注力下降，功能受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "虽有几位亲密朋友可谈，但选择不分享焦虑，独自承受",
+            "在强烈焦虑下未积极主动寻求外部支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为朋友“不会理解自己”，据此避免接触与求助",
+            "将内在不被理解的担忧归因于他人的态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对不确定的未来时（如担心找不到合适室友），来访者通常会灾难化思维并持续焦虑，认为事情会朝最坏方向发展。",
+          "unique_outcome": "曾在一次考试前担心会考砸，但那次考试结果良好，事实与最坏的预测不一致。",
+          "reason": "线索：可能因事前有一定准备、按部就班应对任务，且现实结果为积极表现，从而出现与灾难化预测不一致的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与当前室友关系良好，说明具备建立并维持良好人际关系的能力",
+          "有几位亲密朋友，具备潜在的社会支持资源",
+          "能提出更审慎的筛选策略（更严格面试、向信任的人求推荐）",
+          "曾有担心但结果良好的经历，可作为去灾难化的反证素材"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括与读心术等认知偏差显著",
+          "对不确定性的低耐受与对确定性的过度需求（控制谬误）",
+          "回避向他人求助，社会支持未被有效利用",
+          "睡眠与食欲受扰，进一步降低应对能力与功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕寻找新室友的持续性灾难化担忧与焦虑",
+          "antecedent": [
+            "听到室友将搬走的消息",
+            "想到即将与陌生人同住的变化",
+            "接触到关于“糟糕室友”的负面故事"
+          ],
+          "core_reason": "对孤独的恐惧与对不确定性的低耐受，伴随灾难化与预测未来的认知偏差",
+          "function": "通过预演最坏结果来获得一种虚假控制感，试图回避不确定性带来的不安",
+          "consequence": "睡眠紊乱、食欲下降、工作注意力下降，整体功能受损"
+        },
+        {
+          "behavior": "回避向朋友分享困扰与寻求支持",
+          "antecedent": [
+            "感到焦虑时想到是否向朋友求助",
+            "在谈及需要支持的情境中"
+          ],
+          "core_reason": "读心式地预测朋友不会理解，担心麻烦他人或被拒绝",
+          "function": "避免潜在的拒绝或负面评价以短期降低焦虑",
+          "consequence": "社会支持未能启动，孤独与焦虑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1128
+}

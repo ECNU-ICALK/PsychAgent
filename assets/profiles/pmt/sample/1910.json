@@ -1,0 +1,218 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "李泽",
+      "gender": "男性",
+      "occupation": "马拉松运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有几位亲密朋友可交谈，但未与他们分享自我怀疑；自比赛后开始回避社交与朋友互动",
+      "medical_history": "无明显躯体疾病；既往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、思路连贯，情绪低落；能配合探索负性思维，但自我否定与悲观态度明显"
+    },
+    "main_problem": "因最近未能在游泳比赛中获胜而感到气馁与不足，这种“不够好”的感觉自比赛后持续影响生活各方面。",
+    "topic": "情绪管理",
+    "core_demands": "持续的自卑和自我怀疑已影响日常生活与整体健康，寻求咨询来应对这些问题。",
+    "growth_experiences": [
+      "在一次重要的游泳比赛中未能获得奖杯（原本预期夺冠，赛前压力较大），自比赛后开始反复回想失误，形成持续性的自卑与自我怀疑，影响睡眠、自我照料、社交与工作自信。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有成为第一名才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "游泳比赛未获奖杯（未能如愿夺冠）",
+          "conditional_assumptions": "如果我没有拿第一名，就说明我失败、我不够好",
+          "compensatory_strategies": "把价值系于胜负，赛后反复回放失误并通过回避社交来减少被评价的机会",
+          "automatic_thoughts": "我永远不会成为最好的",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "赛后回忆与复盘比赛表现",
+          "conditional_assumptions": "如果我表现中有错误或不完美，就证明整体都是不够好",
+          "compensatory_strategies": "聚焦于错误与不足，忽视客观表现与已有成绩",
+          "automatic_thoughts": "无论我做什么都不够",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "训练中偶尔发挥尚可、感觉“还行”的时刻",
+          "conditional_assumptions": "如果不是稳定拿第一，这些短暂的好状态就不算数",
+          "compensatory_strategies": "否定积极体验，把注意力转回到不足与失败上",
+          "automatic_thoughts": "这不算什么，离第一还差很远",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到工作任务或生活中其他领域的挑战",
+          "conditional_assumptions": "在一个领域没有拿第一，说明我在其他方面也会不行",
+          "compensatory_strategies": "以全局化的消极评价看待自我，降低尝试与投入",
+          "automatic_thoughts": "我在所有方面都不行",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过卓越表现与胜利获得认可与价值感",
+        "fear": "害怕失败与被贬低、被视为不够好，从而失去自我价值",
+        "defense_goal": [
+          "以“必须第一”维持自我价值边界，避免感受羞耻与被否定",
+          "通过回避社交减少外界评价以维持心理安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、需要用胜利证明自己的失败者",
+          "object_representation": "以成败评判人的挑剔评审/他人",
+          "linking_affect": "羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请关注积极面或练习认知重构时",
+          "interpretation": "认为这些方法“对我没用/我也改变不了”，以维持对“自己不够好”的既有信念",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以无奈与消极的语气回应，如“我试过没用”，强调困难与限制，降低情感投入。"
+        },
+        {
+          "trigger_condition": "当被询问关于与朋友分享感受或寻求支持的话题时",
+          "interpretation": "将潜在的被评判/被比较的不适内收，避免对外表达与求助",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责与否定性语句表达（如“都是我不行”），语气低落，减少开放与细节披露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本热爱的游泳在失败后变成负担，难以从中体验价值与意义",
+            "自我价值过度与第一名绑定，过程与成长被忽视"
+          ],
+          "outcomes": [
+            "挫败与无望感增加",
+            "动力下降、想放弃尝试",
+            "睡眠受扰与自我照料下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避社交与朋友互动",
+            "有亲密朋友可谈却未分享自我怀疑"
+          ],
+          "outcomes": [
+            "支持减少、孤立感加重",
+            "负性情绪循环加剧"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“必须赢第一”这类内摄的规则所束缚",
+            "难以允许不完美与逐步改进的空间"
+          ],
+          "outcomes": [
+            "焦虑与自我苛责增强",
+            "行为上减少尝试与投入，倾向放弃"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“只有第一名才算好”当作硬性标准",
+            "以胜负完全定义自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我不够好”“我永远不会成为最好的”",
+            "对尝试改变抱持悲观与犹疑"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "未向亲密朋友分享自我怀疑，把能量转为自我苛责",
+            "回避社交以减少被评价的可能"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在赛后想到游泳表现或训练时，来访者通常会被自卑与自我怀疑困住，难以看到任何积极之处，动力下降。",
+          "unique_outcome": "在赛后某几次训练中，来访者感到自己“还可以”，没有像以往那样全盘否定当下表现，短时体验到更为可接受的状态。",
+          "reason": "不同情境：训练相较比赛压力更小；不同做法：当时更关注当下动作与过程而非成绩；因此更容易觉察到小的进步。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对游泳有稳定的热爱与投入意愿",
+          "拥有以往成功经验可作为资源",
+          "有几位可依赖的朋友（虽暂未启用这一路径）",
+          "愿意尝试识别与挑战负性思维，接受认知重构的可能",
+          "能觉察到少量积极时刻（训练中“还可以”的体验）"
+        ],
+        "negative_force": [
+          "非黑即白、过度概括、心理过滤、预测未来等认知偏差显著",
+          "自我价值过度依赖胜负与第一名",
+          "回避社交导致支持系统未被利用，孤立感增强",
+          "反刍失败与自责加剧负性情绪，睡眠与自我照料下降",
+          "对改变的希望感不足，倾向提前放弃"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍比赛失误并进行自我否定（如“我不够好”“我永远不会成为最好的”）",
+          "antecedent": [
+            "想到游泳比赛结果或相关线索",
+            "在训练后回忆失误片段"
+          ],
+          "core_reason": "将个人价值与胜负绑定，出现心理过滤与灾难化/预测未来的认知偏差以解释失败",
+          "function": "短期内通过自责与反刍获得一种“理解原因/掌控感”的错觉，回避面对不确定与羞耻感",
+          "consequence": "情绪低落与绝望感加重，睡眠受扰，动力下降，波及工作与其他生活领域的自信"
+        },
+        {
+          "behavior": "回避社交与朋友互动",
+          "antecedent": [
+            "收到社交邀请或想到与朋友见面",
+            "联想到他人可能的评价"
+          ],
+          "core_reason": "害怕被视为不够好与被比较失败，羞耻与自卑驱动回避",
+          "function": "逃避潜在的负面评价与不适情绪",
+          "consequence": "社会支持减少，孤立感增加，负性情绪循环加剧"
+        },
+        {
+          "behavior": "睡眠紊乱与忽视自我照料",
+          "antecedent": [
+            "夜间回想比赛与自我否定的想法",
+            "白天情绪低落与精力不足"
+          ],
+          "core_reason": "失败后的持续反刍与焦虑干扰睡眠与日常自我管理",
+          "function": "短期回避面对失败与情绪加工的需要",
+          "consequence": "体能与精力下降，进一步削弱训练与工作表现，形成恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1910
+}

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "艾米丽",
+      "gender": "女",
+      "occupation": "鼓手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与其他乐手的关系因自信不足而紧张；有音乐朋友但未与他们讨论自己的无能感",
+      "medical_history": "无显著躯体疾病；既往无心理治疗或类似心理问题经历",
+      "language_features": "表达清晰、逻辑性较好、能进行自我反思，配合度高，态度积极"
+    },
+    "main_problem": "我正为与打鼓技能相关的无能感和无价值感而困扰。问题始于我无法演奏一个我很喜欢的高难度鼓独奏，这让我认为自己是一个糟糕的鼓手。",
+    "topic": "职业发展",
+    "core_demands": "当这些无能感开始影响我对打鼓的热情和整体心理健康时，我决定寻求咨询。",
+    "growth_experiences": [
+      "几个月前的一场演出中，来访者演奏了一段复杂曲目并且表现完美，观众非常喜欢；她将这次成功归因于长期的刻苦练习，当时感到非常自豪与满足。",
+      "过去在练习中曾学会新的打鼓技巧、也有过“把演出拿下”的时刻，但相较于最近在高难度独奏上的失败，这些既往成就被她视为微不足道。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的鼓手",
+        "我的价值取决于能否完美演奏高难度独奏"
+      ],
+      "special_situations": [
+        {
+          "event": "尝试演奏高难度鼓独奏却未能成功",
+          "conditional_assumptions": "如果我不能把这个独奏演好，就说明我不够好、不配作为职业鼓手",
+          "compensatory_strategies": "加倍练习、观看教程、寻求朋友的安慰",
+          "automatic_thoughts": "我因为一次失败就是个糟糕的鼓手",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "将自己与能轻松演奏该独奏的其他鼓手进行比较",
+          "conditional_assumptions": "如果我达不到别人轻松做到的水平，就说明我不如人",
+          "compensatory_strategies": "回避与朋友讨论困扰，减少社交以避免比较与评价",
+          "automatic_thoughts": "我不如他们，也永远达不到他们的水平",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回忆过去的成功演出与学会新技巧的经历",
+          "conditional_assumptions": "当前的失败比过去的成功更能证明我不行",
+          "compensatory_strategies": "否定或忽视积极证据，继续沉浸在失败体验中",
+          "automatic_thoughts": "那些成功不算数，和现在的失败相比太微不足道了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "练习该独奏时频繁出错",
+          "conditional_assumptions": "如果现在做不好，将来也不会做得好",
+          "compensatory_strategies": "重复练习但缺乏阶段性目标，持续寻求他人保证",
+          "automatic_thoughts": "我永远不会足够好",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的鼓手、保持自我价值与热情",
+        "fear": "害怕失败与不被认可，担心在同伴比较中被贬低",
+        "defense_goal": [
+          "通过自我批评与贴标签来维持控制感与避免更深层的脆弱感",
+          "通过加倍练习与寻求他人保证来暂时缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能被失败定义的表演者",
+          "object_representation": "轻易成功并对自己带有评判的他者（其他乐手、观众）",
+          "linking_affect": "羞愧、焦虑、自我否定"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当尝试高难度独奏并出现错误，或在现场/网络上看到他人轻松完成该独奏时",
+          "interpretation": "把一次失败视为自身根本缺陷，认为他人会据此看低自己（将技能表现与自我价值绑定）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "先以温和、接纳的语气共情其羞愧与沮丧，再引导其区分技能与自我价值；使用具体化提问与事实检验，避免批评性用语。"
+        },
+        {
+          "trigger_condition": "当被邀请回忆并肯定既往成功（如成功演出）时",
+          "interpretation": "认为过去的成功不足以证明当前能力，从而忽视正面证据",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以支持性语气邀请其具体描述成功的细节与努力过程，温和地对照当前的证据，鼓励其在叙述中保留积极面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次技术失败扩展为自我价值的否定",
+            "对打鼓的热情受影响，感觉“我不值得”"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "练习动力与日常作息受影响",
+            "职业表现受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与朋友讨论自己的无能感",
+            "与其他乐手的关系因缺乏自信而紧张"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "羞愧感加剧与自我批评增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或环境做出的行为冲动，或放弃向外寻求别人为其做某事，转而对自己做；与“冲动”对应。",
+          "manifestations": [
+            "没有与音乐朋友讨论自己的困扰",
+            "将寻求支持的需求转为自我加压与自责"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与反省，包含过多的自我限制与自我苛责；与“自主性”对应。",
+          "manifestations": [
+            "频繁用“我永远不够好”“我是糟糕的鼓手”来给自己贴标签",
+            "过度关注错误而忽略进步"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在尝试高难度鼓独奏时，来访者通常会不断失误并认为自己永远不够好，进而自我否定、练习动力下降。",
+          "unique_outcome": "几个月前在一场演出中，来访者完美地演奏了复杂曲目，观众反应热烈，她当时感到非常自豪并确认自己的能力。",
+          "reason": "不同做法：事先投入了大量刻苦练习；不同支持：现场观众的积极反馈增强了信心；不同情境：演出状态良好、准备充分。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "勤奋练习的习惯与毅力（成功演出归因于刻苦练习）",
+          "既往掌握新技巧与成功演出的经验与证据（有过视频可回看）",
+          "拥有音乐圈朋友这一潜在社会支持资源"
+        ],
+        "negative_force": [
+          "将单次失败泛化为整体能力的否定（过度概括、非黑即白）",
+          "灾难化预测“我永远不会好”，维持焦虑",
+          "否定积极与心理过滤，过度关注失败证据",
+          "过度依赖外部保证而忽视自身既有成功证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在演奏或练习高难度独奏时出现强烈的自我贬低与“我是糟糕鼓手”的贴标签思维",
+          "antecedent": [
+            "尝试高难度鼓独奏",
+            "与其他鼓手进行能力比较"
+          ],
+          "core_reason": "将技能表现与自我价值直接等同，并将一次失败过度概括为整体无能，同时对未来进行负向预测",
+          "function": "逃避失败与羞耻感、寻求短期的控制与确定性（通过自我批评来“先行否定”）",
+          "consequence": "练习动力下降、职业表现受损、与其他乐手关系紧张、自尊降低"
+        },
+        {
+          "behavior": "在感到无能时过度寻求他人安慰与反复观看教程",
+          "antecedent": [
+            "练习中频繁出错并感到沮丧",
+            "回忆或面对他人轻松演奏同一独奏"
+          ],
+          "core_reason": "内在自我价值不稳，过度依赖外部验证来缓解焦虑",
+          "function": "获得外部安抚以短期降低焦虑",
+          "consequence": "对长期自我效能提升帮助有限，维持对自我能力的消极信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1643
+}

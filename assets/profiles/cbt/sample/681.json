@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "李梅",
+      "gender": "女",
+      "occupation": "面包车司机",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与朋友关系因自我形象消极与自尊心低而紧张，不太愿意外出；有一位可依靠的亲密朋友，但尚未向其倾诉体重与饮食困扰。",
+      "medical_history": "既往无相似心理问题与治疗史；无重大躯体疾病。",
+      "language_features": "略显焦虑但配合度高，表达清晰，有自我反思意愿。"
+    },
+    "main_problem": "我相信因为我非常喜欢吃披萨，我将永远无法减肥和变得健康，这让我感到无望和挫败。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我被自己无法打破过度饮食和不健康习惯的循环所压倒。",
+    "growth_experiences": [
+      "大约一年前注意到体重增加并开始为减重而苦恼；每次吃披萨都难以控制分量，随后陷入“过量进食—内疚”的循环；曾尝试多种饮食与锻炼（如低碳、间歇性断食、健身房）但难以长期坚持；随着时间推移，体重继续上升，自尊降低，与朋友关系紧张且减少外出，尚未向亲密朋友倾诉困扰。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我缺乏自控力",
+        "我永远无法减肥并变得健康"
+      ],
+      "special_situations": [
+        {
+          "event": "吃披萨时难以控制分量",
+          "conditional_assumptions": "只要我喜欢并吃披萨，我就注定无法减重、也不可能健康。",
+          "compensatory_strategies": "在失控后自责，并尝试更严格的饮食或锻炼计划来弥补。",
+          "automatic_thoughts": "我吃了披萨就完了，我永远也瘦不下来。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到要改变饮食习惯时",
+          "conditional_assumptions": "如果我不能长期、完美地坚持计划，那就毫无意义。",
+          "compensatory_strategies": "设定过于严格的规则，几天后因压力过大而放弃。",
+          "automatic_thoughts": "反正我坚持不下去。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "注意到体重增加或称重时",
+          "conditional_assumptions": "体重上升说明我完全失败，证明我没有自制力。",
+          "compensatory_strategies": "回避社交、减少外出以避免被评价。",
+          "automatic_thoughts": "只要没完全控制住饮食，我就是失败者。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "饮食控制期间出现一次分量失控或“破戒”",
+          "conditional_assumptions": "一次失误会抵消所有努力，之前的坚持都不算数。",
+          "compensatory_strategies": "否定既往进步并自责，进一步降低坚持的动力。",
+          "automatic_thoughts": "之前做的都白费了。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并在饮食与身体上拥有可持续的掌控感",
+        "fear": "害怕因体重与饮食失控而被评价、拒绝或永远无法改变",
+        "defense_goal": [
+          "通过避免社交来降低被评价与羞耻的风险",
+          "通过寻找更严格的节食/锻炼方案来维持表面的控制感",
+          "不向亲密朋友倾诉以避免暴露脆弱与尴尬"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧且“失控”的自己（容易失败者）",
+          "object_representation": "可能评判与失望的他人",
+          "linking_affect": "羞耻、焦虑、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问是否向他人（如朋友）倾诉体重与饮食困扰时",
+          "interpretation": "担心暴露脆弱会被看不起或拒绝，因此倾向于不表达",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气克制、简短回答，回避细节，轻描淡写地表达“我只是有点尴尬”，迅速转移到更中性的事实描述。"
+        },
+        {
+          "trigger_condition": "当被要求解释自己为何陷入饮食困扰时",
+          "interpretation": "倾向将复杂问题简化为单一原因以减轻焦虑与内疚（如“都是因为我太爱披萨”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用因果化、概括化的语句（如“主要就是因为我太爱披萨”），语气理性而带无奈，回避深入情绪体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，减少外出与社交",
+            "与朋友关系紧张但未向亲密朋友倾诉困扰，保持封闭"
+          ],
+          "outcomes": [
+            "主观孤立感上升与支持系统未被使用",
+            "自尊降低与无望感加剧",
+            "进一步维持过度饮食—内疚的循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "有亲密朋友可求助但选择不倾诉，将需求憋回自己",
+            "减少外出，将对被看见与获得支持的需求转化为自责与忍耐"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "负面自我形象与低自尊，过度自责“我没有自制力”",
+            "在社交前过度担忧他人评价而缩减接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意尝试新方法（愿意进行行为实验与记录观察）",
+          "具备至少一位可靠的社会支持（有亲密朋友可依靠）",
+          "工作功能稳定（目前工作未受影响），生活结构相对稳定"
+        ],
+        "negative_force": [
+          "非黑即白与灾难化的饮食认知，容易“一次失误全盘否定”",
+          "自尊心低、负面自我评价，羞耻感强",
+          "对披萨与进食分量控制困难，形成“过度饮食—内疚”的恶性循环",
+          "回避社交，减少外出，支持资源未被动用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在吃披萨时过量进食与失控",
+          "antecedent": [
+            "接触或想到披萨",
+            "想到要改变饮食习惯"
+          ],
+          "core_reason": "将饮食与体重管理视为非黑即白，一旦发生“破戒”便认为彻底失败，导致反弹性失控进食。",
+          "function": "获得短期的味觉满足与情绪缓解，暂时逃避失败与内疚感",
+          "consequence": "体重增加、内疚与自责加剧，进一步削弱自尊并降低坚持动力，减少外出"
+        },
+        {
+          "behavior": "回避社交与减少外出",
+          "antecedent": [
+            "对自我形象的不满意",
+            "担心在社交中被他人评价外形或饮食"
+          ],
+          "core_reason": "羞耻与被拒绝的担忧驱动回避，以维持脆弱自尊的短期稳定。",
+          "function": "逃避潜在的负面评价与不适情绪，暂时降低焦虑与羞耻",
+          "consequence": "与朋友关系紧张、支持系统未被使用，孤独与无望感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 681
+}

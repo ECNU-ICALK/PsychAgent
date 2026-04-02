@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "陈明",
+      "gender": "男",
+      "occupation": "房地产经纪人、兼职服务员",
+      "educational_background": "未说明",
+      "marital_status": "单身",
+      "family_status": "8个兄弟姐妹中最小；拥有亲密的朋友圈",
+      "social_status": "与朋友关系支持，但未向他们分享工作中的困扰；工作表现受到影响",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗或咨询；无重大躯体疾病",
+      "language_features": "表达清晰、能反思；情绪低落；在咨询中配合度较好；倾向自我苛责并使用极端化表述"
+    },
+    "main_problem": "因为第一次会面未能成交房地产交易，我觉得自己作为销售很无能、很没用。",
+    "topic": "职业发展",
+    "core_demands": "持续的自我批评和无能感正在影响我的自尊和工作表现，因此我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没用的销售",
+        "我不够好/不合格"
+      ],
+      "special_situations": [
+        {
+          "event": "首次与客户会面未能成交房地产交易",
+          "conditional_assumptions": "如果不能在第一次见面就成交，就说明我不够好、不适合做销售",
+          "compensatory_strategies": "反复回放会议、努力改进销售技巧与客户互动以证明自己",
+          "automatic_thoughts": "我完全失败了；我不适合做销售",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面对新的潜在客户前后",
+          "conditional_assumptions": "一次失败意味着以后都会失败",
+          "compensatory_strategies": "会前过度紧张与自我苛责，试图通过更充分准备来避免失败",
+          "automatic_thoughts": "这次又会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次回想那次失败的会面时出现明显的生理不适（胃里打结）",
+          "conditional_assumptions": "我此刻感觉很糟就说明事情真的很糟",
+          "compensatory_strategies": "将失败贴为全局性自我标签，强化负面情绪以促使自我改进",
+          "automatic_thoughts": "我就是个失败者",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "被询问过往成功互动时仍觉得这次失败更重要",
+          "conditional_assumptions": "之前的成功并不能说明我有能力，这次失败才是关键证据",
+          "compensatory_strategies": "紧盯负面细节、忽略或贬低积极证据",
+          "automatic_thoughts": "那些成功不重要，这次失败才说明问题",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力并取得职业成功",
+        "fear": "害怕失败被否定、被贴上“无能”的标签",
+        "defense_goal": [
+          "通过自我苛责与高标准来防止失败发生、维持对情境的控制以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的从业者",
+          "object_representation": "苛刻评判的客户/他者",
+          "linking_affect": "羞耻、焦虑、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请他寻找积极证据或回忆成功经历时",
+          "interpretation": "认为这些成功“不算数”，失败才定义自我价值",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气坚决但不过激，重复强调失败的重要性，同时弱化或忽略成功的意义。"
+        },
+        {
+          "trigger_condition": "当回顾失败的会面、试图找出问题时",
+          "interpretation": "将失败视为对自我整体能力的否定，从而回避直接体验羞耻与无力感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "以过度抽象、分析性的思考来避免情感卷入，减少焦虑。",
+          "response_instruction": "采用分析性语气，细致列举会面细节与推理过程，尽量减少情绪词汇与主观感受的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "工作中的挫败与自我批评未对朋友倾诉，选择独自承受压力",
+            "在高压情境下将自我价值与一次结果绑定，难以与他人建立共情性支持"
+          ],
+          "outcomes": [
+            "自尊受损与焦虑加重",
+            "社交自信下降、与支持系统的连接削弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈的自我批评与怀疑能力",
+            "在朋友面前不表达困难、谨慎保留困扰"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“第一次会面就应成交”视为硬性标准",
+            "以结果导向的绝对化标准评价自我价值"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对潜在客户时，来访者通常会灾难化思考并自我否定，焦虑上升，导致表现下降。",
+          "unique_outcome": "在此前几次客户会面中，来访者感到更自信、流程更顺畅、压力更小，没有把一次结果视为对整体能力的否定。",
+          "reason": "线索：焦虑较低、对失败的关注减少、处于更放松的状态，因此当时能够更投入并维持自信。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友圈（虽未启用）",
+          "曾有成功的客户互动与自信体验可作为证据",
+          "主动尝试改进销售技巧与客户互动"
+        ],
+        "negative_force": [
+          "认知偏差显著（灾难化、非黑即白、过度概括、预测未来、心理过滤、个人化）",
+          "僵化的绩效标准（第一次会面必须成交）",
+          "工作情境中焦虑水平高、压力感强",
+          "自我否定削弱自尊与表现",
+          "不向朋友求助导致支持未被激活、孤立感增强"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作情境中的灾难化思维与自我否定，伴随焦虑与躯体紧张（胃里打结）",
+          "antecedent": [
+            "首次会面未成交后",
+            "面对潜在客户前后",
+            "回想失败的会面时"
+          ],
+          "core_reason": "将“第一次就成交”内摄为绝对标准，并将一次失败过度概括为自身能力不足与无价值。",
+          "function": "通过预期最坏与自我批评获得表面的控制感、降低期望以避免再次失望与不确定性。",
+          "consequence": "自尊受损、工作表现下降、社交自信降低，负面情绪在工作与生活中扩散。"
+        },
+        {
+          "behavior": "不向朋友表达工作中的困扰与情绪",
+          "antecedent": [
+            "在经历失败与羞耻感后",
+            "回忆失败经历时压力升高"
+          ],
+          "core_reason": "担心被评价与否定（个人化倾向），以保持自我形象与避免羞耻。",
+          "function": "逃避可能的外部评价与不适，短期减少暴露于他人视线下的脆弱。",
+          "consequence": "支持系统未被使用，情绪调节资源不足，孤立感与焦虑维持加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2001
+}

@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "顾雯",
+      "gender": "女性",
+      "occupation": "小型面包店店主",
+      "educational_background": "烹饪学校结业证书",
+      "marital_status": "单亲，育有一子",
+      "family_status": "与儿子同住，主要抚养与经济来源来自面包店经营",
+      "social_status": "与供应商和顾客的关系受焦虑影响；有几位亲密朋友但尚未向他们透露此恐惧",
+      "medical_history": "无显著躯体疾病；此前未有类似心理问题，也未接受过心理治疗",
+      "language_features": "表达清晰、条理性较好，能进行自我反思与合作；情绪紧张但态度配合"
+    },
+    "main_problem": "我一直害怕自己会忘记关掉面包店的某个烤箱，导致起火，毁掉我辛苦建立的一切。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询是因为这种恐惧影响了我专注经营，并带来明显的压力和焦虑。我只想不再一直这么焦虑。",
+    "growth_experiences": [
+      "成为单亲母亲后独自承担抚养儿子的责任，并开设小型面包店作为主要生计来源；在开店几个月后开始出现对“忘记关烤箱会引发火灾”的恐惧。",
+      "此前无类似的焦虑问题与治疗史，整体躯体健康状况良好。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "一旦我犯错就会带来灾难性的后果",
+        "我必须对一切安全负全责，不能有任何疏忽"
+      ],
+      "special_situations": [
+        {
+          "event": "每天下班打烊时检查设备与烤箱",
+          "conditional_assumptions": "如果我没有做到绝对万无一失，就很可能犯下致命错误并毁掉一切",
+          "compensatory_strategies": "反复核对关机流程、增加安全措施、在脑中反复回想检查步骤",
+          "automatic_thoughts": "我可能忘了关某个烤箱，一旦出事整个店都会烧毁。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在特别忙碌、事务繁多的工作日",
+          "conditional_assumptions": "当我被事务压得喘不过气时，我一定会漏掉关键细节并酿成大祸",
+          "compensatory_strategies": "更加紧张地自我监控、增加检查频次、避免分心与他人干扰",
+          "automatic_thoughts": "今天这么忙，我八成会遗漏关机步骤。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到面包店是供养自己与儿子的主要来源",
+          "conditional_assumptions": "如果店里出任何差错，我就无法供养儿子，我们会失去一切",
+          "compensatory_strategies": "对安全与流程进行严格把控、拉高自我要求、不愿寻求他人帮助",
+          "automatic_thoughts": "要是出事，我和孩子的生活就完了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "夜晚回家后准备入睡时回想当天关店环节",
+          "conditional_assumptions": "只有不断担心和在脑中反复检查，才能确保没有遗漏",
+          "compensatory_strategies": "在脑中反复回放关机场景、试图用担忧维持警觉",
+          "automatic_thoughts": "万一我真的漏了呢？",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望完全掌控并确保安全，以成为可靠的照顾者与供养者",
+        "fear": "害怕一次疏忽导致灾难、失去生计并辜负对孩子的责任",
+        "defense_goal": [
+          "通过过度检查和理性控制来压低焦虑、避免任何可能的失误"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "随时需要保持警惕且不能犯错的责任承担者/母亲",
+          "object_representation": "他人可能不理解我的担忧，外界充满潜在风险与不可控因素",
+          "linking_affect": "焦虑、恐惧、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探问“最坏情形发生的概率与证据”时",
+          "interpretation": "将咨询师体验为在淡化风险、可能不理解自己肩负的责任（移情：把对“被轻视责任”的担忧投向咨询师）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静克制、数据化、程序化的口吻强调责任与后果，聚焦流程与风险管理细节，减少情绪用语。"
+        },
+        {
+          "trigger_condition": "当被邀请考虑向朋友寻求支持或表达担忧时",
+          "interpretation": "担心暴露脆弱会被误解或显得不专业，将自身的不安归结为“他人不会理解”（移情：对他人理解度的不信任）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受归于他人。",
+          "response_instruction": "语气含蓄谨慎，使用模糊表述（例如“他们可能不会懂”），快速转回到自我加压与责任话题，避免深入个人脆弱感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "作为店主与单亲母亲，感到对选择与结果负全责；担心一次疏忽将导致灾难性后果"
+          ],
+          "outcomes": [
+            "持续性焦虑与紧张",
+            "睡眠受扰，难以放松",
+            "工作专注度下降、绩效受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有亲密朋友但未分享具体恐惧，倾向独自承受压力"
+          ],
+          "outcomes": [
+            "支持系统未被充分动员，焦虑维持或加重",
+            "与供应商和顾客的人际互动受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "自我要求“必须做到绝对安全、不能有任何错误”",
+            "以严格规则维持控制与安全感"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我检查、不断在脑中回放关机流程",
+            "对错误高度敏感并自我苛责"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "担心朋友不会理解自己的恐惧，从而避免求助与表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在关店或繁忙工作日后，来访者通常会被对“忘记关烤箱会引发火灾”的担忧所困扰，难以放松并影响睡眠与工作专注。",
+          "unique_outcome": "在较为清闲的工作日，来访者更容易保持掌控感与条理，焦虑明显减弱，能按流程完成检查后相对安心离开。",
+          "reason": "线索：任务负荷较低、环境较安静、注意力更集中于流程本身，因而获得“可控感”与“确定性”的主观体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "责任感强，重视安全与流程",
+          "已建立与强化多项安全措施与检查程序",
+          "有意愿尝试新的日常例行与认知重构",
+          "具备一定的社会支持（有亲密朋友）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知偏差显著",
+          "对不确定性的低容忍，倾向全或无的标准",
+          "过度自我监控与反复核查维持焦虑循环",
+          "担心被误解而回避求助，支持系统未被动员",
+          "睡眠受扰导致次日焦虑与效率下降的负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关店时的反复检查与仪式化确认伴随强烈担忧",
+          "antecedent": [
+            "打烊关店、关闭烤箱和设备的场景",
+            "工作日特别繁忙、事务堆积时"
+          ],
+          "core_reason": "对潜在灾难的灾难化预测与对错误零容忍的信念，源于强烈的责任负担与对不确定性的低容忍",
+          "function": "短时缓解焦虑、寻求确定性与控制感",
+          "consequence": "耗时低效、紧张维持或反弹，离店后仍反复担忧，睡眠与专注受损"
+        },
+        {
+          "behavior": "夜间入睡前反复担忧“是否忘记关闭烤箱”，难以放松与入睡",
+          "antecedent": [
+            "回到家准备睡觉时回想当日关店流程",
+            "出现“万一”的念头与画面"
+          ],
+          "core_reason": "对不可控后果的过度关注与情绪化推断，加之“担忧=预防”的隐性假设",
+          "function": "试图通过持续警觉来预防风险、获得安全感",
+          "consequence": "睡眠质量下降、第二天疲劳加重，进一步削弱专注与工作表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 89
+}

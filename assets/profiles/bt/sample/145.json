@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "76",
+      "name": "赵美琳",
+      "gender": "女",
+      "occupation": "八年级中学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "独居，家庭信息未提供",
+      "social_status": "与同事关系紧张，常寻求他人安慰；虽有朋友和家人可谈，但未向其分享不足感",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；未曾出现类似问题",
+      "language_features": "表达清晰，能具体描述经历；倾向灾难化与自我标签化；自我反思能力尚可；求助意愿存在但对亲友表达困难；语速未提及"
+    },
+    "main_problem": "我觉得我的一半学生都不及格，这让我相信自己是一个很糟糕的老师。",
+    "topic": "职业发展",
+    "core_demands": "我想感觉好一些，并对自己的教学更有信心。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任",
+        "我是一个很糟糕的老师"
+      ],
+      "special_situations": [
+        {
+          "event": "在学年开始看到期中成绩时，发现许多学生不及格",
+          "conditional_assumptions": "如果许多学生不及格，就说明我是一个糟糕的老师",
+          "compensatory_strategies": "改变教学方法并为学生提供额外支持",
+          "automatic_thoughts": "半数学生都不及格，我一定是个糟糕的老师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在批改作业或考试时",
+          "conditional_assumptions": "我必须确保所有学生都成功，否则我就是失败者",
+          "compensatory_strategies": "持续自我监控并加班批改、辅导",
+          "automatic_thoughts": "这些差成绩证明我不称职",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到即将到来的考试或成绩公布",
+          "conditional_assumptions": "如果学生继续失败，我的职业就会完蛋",
+          "compensatory_strategies": "提前担忧、反复演练更严苛的教学方案",
+          "automatic_thoughts": "他们会持续失败，我的工作会变糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事互动、寻求安慰时",
+          "conditional_assumptions": "如果同事没有明确肯定我，说明他们认为我不行",
+          "compensatory_strategies": "不断向同事寻求安慰与反馈",
+          "automatic_thoughts": "他们一定觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，证明自己是胜任的老师",
+        "fear": "害怕被评判为无能、被否定，担心让学生失败",
+        "defense_goal": [
+          "通过寻求安慰来缓解不安",
+          "避免向亲友透露以免被评判或羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、需要他人肯定的老师",
+          "object_representation": "严苛的评判者（同事/他人）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "对学生失败负有全部责任的照顾者",
+          "object_representation": "脆弱、易受挫的学生",
+          "linking_affect": "内疚、负担感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被直接询问教学成效或被邀请回看成功证据、挑战“我是糟糕老师”的信念时",
+          "interpretation": "潜意识将提问理解为批评或否定（像被同事评判）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“都是我的错”“我太差了”），语气低沉，承认过错但忽略外部因素与情境复杂性。"
+        },
+        {
+          "trigger_condition": "当被问及是否向亲友分享感受或被邀请表达脆弱体验时",
+          "interpretation": "担心表达后会被评判或给他人带来负担",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回应，回避情绪细节，语气克制，快速转移到工作或任务话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "未向朋友和家人分享不足感",
+            "与同事关系疏远、常需安慰"
+          ],
+          "outcomes": [
+            "焦虑增加",
+            "自尊下降",
+            "睡眠紊乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在对话中频繁自我否定与自责",
+            "高度在意他人评价、将成绩不佳全盘归因于自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "假设同事认为自己不称职",
+            "在交流中预设他人会负面看待自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在批改作业或看到不及格时，来访者通常会将失败完全归因于自己并产生“我是糟糕老师”的灾难化想法，随之焦虑加重、睡眠受影响。",
+          "unique_outcome": "在一些学生感谢她的支持、且有高表现学生取得成功的时刻，她注意到自己的积极影响并获得正向反馈，与平时的“全盘失败”感相比有所缓冲。",
+          "reason": "不同证据与支持：学生的感谢与成功提供了外部肯定，使其短暂看见自身贡献。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对学生负责任，主动改变教学方法并提供额外支持",
+          "愿意求助并开始咨询",
+          "能识别影响学生成绩的外部因素（家庭/个人问题）",
+          "能回忆到被学生感谢与成功案例",
+          "提出记录正向反馈与设定现实目标的想法"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、心理过滤、读心术与预测未来等认知扭曲突出",
+          "过度个人化，将学生失败全盘归因于自己",
+          "持续寻求外部安慰导致与同事关系紧张",
+          "不向亲友表达内心，社交支持未被有效利用，孤立感增强",
+          "自尊下降、焦虑与睡眠紊乱，降低工作动力与表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化自我标签：“我是个很糟糕的老师”",
+          "antecedent": [
+            "看到期中成绩许多不及格",
+            "批改作业或考试时",
+            "想到即将到来的考试或成绩公布"
+          ],
+          "core_reason": "将学生成绩作为评价自我能力的唯一标准，承受“必须确保学生成功”的压力，出现认知歪曲（灾难化、过度概括、个人化）",
+          "function": "寻求控制与自我惩罚，驱动过度努力以避免失败",
+          "consequence": "焦虑加重、自尊下降、睡眠受扰、工作动力与表现受损"
+        },
+        {
+          "behavior": "向同事频繁寻求安慰与认可",
+          "antecedent": [
+            "与同事讨论教学或成绩",
+            "感到自我怀疑时"
+          ],
+          "core_reason": "自我价值依赖他人评价，担心被批评或否定",
+          "function": "获得外部验证与情绪安抚",
+          "consequence": "与同事关系紧张，安慰依赖反而加剧自我否定感"
+        },
+        {
+          "behavior": "回避向亲友表达内心困扰",
+          "antecedent": [
+            "想到要与朋友或家人谈及不足感",
+            "负面情绪累积时"
+          ],
+          "core_reason": "难以开口表达脆弱、担心被评判或增加他人负担",
+          "function": "避免暴露脆弱与潜在尴尬",
+          "consequence": "社会支持不足、孤独感与压力维持，放松困难"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 145
+}

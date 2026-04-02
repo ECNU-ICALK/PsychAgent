@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "李然",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "在新罕布什尔州长大",
+      "social_status": "未提及",
+      "medical_history": "未出现类似问题；未接受过心理治疗或咨询；无显著躯体疾病",
+      "language_features": "表达清晰，能反思自身体验，配合度良好，情绪略紧张"
+    },
+    "main_problem": "“我在与舞伴跳舞时觉得自己很糟糕，是一个糟糕的舞伴，这种信念让我感到不够好并影响了我对跳舞的享受。”",
+    "topic": "人际关系",
+    "core_demands": "“我决定寻求咨询，因为我注意到自己在跳舞时的负面自我认知正在影响我对一项我热爱的活动的整体享受。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的舞伴"
+      ],
+      "special_situations": [
+        {
+          "event": "在与舞伴进行舞蹈练习或表演时出现失误或走错步伐",
+          "conditional_assumptions": "如果我在舞蹈中犯错，就说明我是一个糟糕的舞伴，并且我让对方失望",
+          "compensatory_strategies": "为了避免让对方失望，逐渐回避与舞伴跳舞",
+          "automatic_thoughts": "我就是个糟糕的舞伴/我又会搞砸",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到来自舞伴或他人的正面反馈与鼓励",
+          "conditional_assumptions": "正面反馈并不能证明我表现得好，他们只是出于礼貌",
+          "compensatory_strategies": "否定正面反馈并加紧练习以试图证明自己",
+          "automatic_thoughts": "他们只是客套/并不是真的觉得我跳得好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在舞伴面前跳舞并感到需要表现得很好",
+          "conditional_assumptions": "如果我不能在舞伴面前完美表现，就会让对方失望并破坏关系",
+          "compensatory_strategies": "在舞伴面前给自己很大压力追求完美，同时不与舞伴沟通真实感受",
+          "automatic_thoughts": "他/她会觉得我不配做他的舞伴",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "被安排或预想到与舞伴的下一次舞蹈练习",
+          "conditional_assumptions": "如果不能保证不出错，那就不要去，否则只会更糟",
+          "compensatory_strategies": "通过避免与舞伴跳舞来避免感到失望和羞耻",
+          "automatic_thoughts": "去的话只会让情况更糟",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为称职且被接纳的好舞伴，能够自在地享受跳舞",
+        "fear": "害怕让舞伴失望、被负面评价，关系受损",
+        "defense_goal": [
+          "通过回避与舞伴跳舞来降低被否定的风险",
+          "在舞伴面前施压追求完美以控制失误"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "会让人失望的、不够好的舞伴",
+          "object_representation": "会对我失望并进行评价的他者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问问题的严重性或是否与他人（舞伴/朋友）沟通时",
+          "interpretation": "认为把困扰说出来显得小题大做或尴尬，从而淡化问题",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "语气温和、肯定其感受，邀请具体化描述影响与情绪强度；使用开放式提问，避免对抗，鼓励将“这不该是大问题”改述为“这对我意味着什么”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与舞伴或朋友讨论自身的不够好感受与压力",
+            "关系因回避而受到影响"
+          ],
+          "outcomes": [
+            "回避互动",
+            "焦虑与羞耻感增加",
+            "亲密与连接感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本热爱的跳舞变成压力源，乐趣显著下降"
+          ],
+          "outcomes": [
+            "活动回避",
+            "生活愉悦感降低",
+            "动力受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我批评为“我是糟糕的舞伴”",
+            "担心让对方失望而不敢表达真实需要"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不与舞伴或朋友谈论不安与羞耻感",
+            "将压力与失望内化为自我否定与回避行为"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "以“这只是跳舞，不该是大问题”来淡化困扰与情绪强度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与舞伴跳舞的场景中，来访者通常会紧张并将失误视为自己“很糟糕”的证据，继而回避与舞伴跳舞。",
+          "unique_outcome": "在一些“状态较好”的日子里，来访者能记住动作、与舞伴更合拍；出现失误时也能一笑而过并持续跳下去，压力显著降低。",
+          "reason": "不同理解与做法：将失误视为可被容纳的学习机会、不过度让错误困扰自己，从而出现更合拍与持续练习的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对舞蹈的热爱与参与意愿",
+          "存在“好的日子”与合拍体验，能在失误时一笑而过",
+          "愿意寻求专业帮助并配合咨询",
+          "获得过正面反馈并有练习投入"
+        ],
+        "negative_force": [
+          "自我否定与灾难化思维，易将个别失误泛化为整体失败",
+          "否定正面反馈、过度在意他人评价（读心术、心理过滤）",
+          "对让舞伴失望的担忧导致回避与压力上升"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与舞伴跳舞",
+          "antecedent": [
+            "与舞伴安排练习或预想到下一次舞蹈",
+            "在舞蹈中出现失误或走错步伐"
+          ],
+          "core_reason": "将个别失误视为整体不称职，担心让对方失望并被负面评价（灾难化、过度概括、读心术）",
+          "function": "逃避羞耻与压力、避免被否定与让对方失望",
+          "consequence": "与舞伴的关系受影响；对跳舞的乐趣明显下降；活动参与度降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1727
+}

@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "方珊",
+      "gender": "女",
+      "occupation": "学生（未来护士）",
+      "educational_background": "正在攻读护理学位",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有支持性的朋友群体，但尚未向他们分享该具体困扰；与同学的关系受嫉妒与自我怀疑影响",
+      "medical_history": "无显著躯体疾病；以往无类似心理问题；未接受过心理咨询或治疗",
+      "language_features": "表达清晰，逻辑性较强，能反思自身思维模式，配合度与求助动机较高"
+    },
+    "main_problem": "我觉得自己会一直是学生，这让我感到停滞不前，职业目标缺乏进展。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这种负性思维模式阻碍了我采取迈向护理职业的行动，因此来寻求咨询。",
+    "growth_experiences": [
+      "决定重返校园攻读护理学位，最初感到兴奋，但在过去几个月里“停滞不前”的感受逐步加剧；在看到同学们获得工作机会或讨论入职时，频繁与他人比较，从而引发强烈的自我怀疑与不够好的感受；与此同时，并未启动求职或实习申请等具体职业行动。",
+      "既往无类似的心理困扰与治疗史，无重大躯体疾病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不如别人",
+        "只要没有与同龄人同步达成职业进展，就证明我无法胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同学获得工作机会或讨论拿到录用通知",
+          "conditional_assumptions": "如果我现在还没有拿到offer或开始工作，就说明我不够好、会被落下",
+          "compensatory_strategies": "回避求职行动、减少与同学互动以降低比较带来的刺痛、把精力更多投入课程以证明自己",
+          "automatic_thoughts": "别人都在前进，只有我停滞；我永远也赶不上他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "意识到自己尚未开始投递简历或申请岗位/实习",
+          "conditional_assumptions": "如果我现在没有立刻采取行动并拿到结果，就等于失败",
+          "compensatory_strategies": "拖延与回避制定求职计划，以避免看到“失败”的证据",
+          "automatic_thoughts": "我一定做错了什么；我可能根本不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在与同学交流时听到他们的实习或入职进展",
+          "conditional_assumptions": "如果他人已经被录用而我没有，我的前途大概率会很糟糕",
+          "compensatory_strategies": "反复内心比较与自我质疑，减少社交以规避触发点",
+          "automatic_thoughts": "我会一直是个学生；我永远也完不成",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、证明自己有能力并顺利进入护理职业",
+        "fear": "害怕不够好、被比较落后与被拒绝，担心永远“停滞不前”",
+        "defense_goal": [
+          "通过回避求职行动以避免看到失败证据",
+          "与同学保持一定距离，降低羞耻与嫉妒的激活",
+          "把精力投向学业以暂时维持自尊与掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后且不够好的学生/求职者",
+          "object_representation": "进步迅速且可能带有评判意味的他人/同侪",
+          "linking_affect": "嫉妒、羞耻、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到或谈到同学获得工作机会、庆祝录用，或在会谈中聚焦同侪进展时",
+          "interpretation": "将他人的成功等同为对自己的否定与失败，激发羞耻与自责（移情基础：把“被比较/不被认可”的内部图式带入当前关系）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和、共情与正常化的语气回应，先命名与接纳羞耻/嫉妒，再引导区分他人进展与自我价值，邀请识别当下可控的小步骤，避免比较与评判性语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复感到“停滞不前”，认为自己会一直是学生",
+            "在与同侪比较中体验自我价值的空缺与困惑",
+            "对职业路径的掌控感下降，难以看到自己行动的意义"
+          ],
+          "outcomes": [
+            "学习与自我照料动机下降",
+            "学业表现受影响",
+            "嫉妒与自我怀疑增加，关系受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以同侪为参照进行自我评判与否定",
+            "语言中出现“我不够好/我做错了”的自我苛责",
+            "因担心被评判而减少与同学的互动或分享真实困扰"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友资源（尽管尚未分享具体困扰）",
+          "对护理职业有明确兴趣与目标动机",
+          "能觉察并描述自动化思维与触发情境",
+          "在课程学习上有投入，认可“完成学业是进步”这一观点",
+          "主动寻求心理咨询、态度积极"
+        ],
+        "negative_force": [
+          "自我怀疑与自我否定",
+          "与同龄人进行不利的比较",
+          "灾难化与全或无思维、过度概括",
+          "回避求职行动与拖延，依赖外部比较来评估自我价值",
+          "动机与自我照料下降，人际因嫉妒而受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避求职申请与不采取具体职业步骤（拖延）",
+          "antecedent": [
+            "看到同学获得offer或讨论入职进展",
+            "想到自己尚未开始投递或准备应聘材料"
+          ],
+          "core_reason": "自我怀疑与对失败/被比较落后的恐惧，核心信念“我不够好”被激活",
+          "function": "短期逃避可能的失败与外界评判，降低当下焦虑与羞耻",
+          "consequence": "职业进展停滞感加剧，进一步强化无力与自我否定"
+        },
+        {
+          "behavior": "反复的社交比较与自我贬低性思维",
+          "antecedent": [
+            "看到同学庆祝录用或听到他们的进展",
+            "与同学交流职业话题"
+          ],
+          "core_reason": "以外部比较为主要价值评估方式，缺乏内在自我肯定",
+          "function": "试图确认自我价值与定位（寻求外部验证），但实际加剧自我攻击",
+          "consequence": "嫉妒、自卑增加，与同学关系受影响"
+        },
+        {
+          "behavior": "学习与自我照料的动机下降",
+          "antecedent": [
+            "出现“我会一直是学生”“我永远也完不成”等自动化思维",
+            "看到同学的职业进展时"
+          ],
+          "core_reason": "灾难化、全或无思维带来无力感与绝望体验",
+          "function": "短期逃避压力与任务负荷，降低即时情绪痛苦",
+          "consequence": "学业表现受影响，自我照料变差，负性循环进一步维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 426
+}

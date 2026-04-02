@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "艾米丽",
+      "gender": "女",
+      "occupation": "演员",
+      "educational_background": "表演艺术学士",
+      "marital_status": "离异",
+      "family_status": "父亲是著名演员",
+      "social_status": "在行业内有朋友可以倾诉，但难以与他们讨论自己的关系信念",
+      "medical_history": "无重大躯体疾病；曾在第二次离婚后短暂接受心理咨询，但未进行长期治疗",
+      "language_features": "表达清晰、配合度高、略显紧张；能主动描述负性信念与触发情境，态度积极、愿意尝试改变"
+    },
+    "main_problem": "我有一个信念：因为有过三次离婚，我将永远无法与人长期在一起。这一信念导致我感到孤独和悲观。",
+    "topic": "婚姻关系",
+    "core_demands": "我再次寻求咨询，因为这种信念正在影响我的心理健康并阻碍我与他人建立有意义的连接。我希望改善现状并学习挑战这些负性想法。",
+    "growth_experiences": [
+      "三段婚姻均以离婚告终：第三次离婚发生在两年前，自此形成“我永远无法与人长期在一起”的信念；起初压力很大，感觉自己在关系中是个失败者。随着每一次婚姻失败，这一信念不断强化，使其难以信任潜在伴侣，并在遇到新的人或尝试约会时反复出现，导致回避与长期承诺。",
+      "原生家庭背景：父亲是著名演员，来访者成长在演艺环境中。该背景与其当前职业相连，但在关系层面的具体影响未进一步描述。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定无法拥有长期稳定的亲密关系",
+        "我在亲密关系中是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "尝试与新认识的人约会",
+          "conditional_assumptions": "如果我开始一段新关系，我必然会重复过去的失败",
+          "compensatory_strategies": "回避约会、保持距离以自我保护",
+          "automatic_thoughts": "这不会长久，我又会把事情搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到朋友订婚或结婚的消息",
+          "conditional_assumptions": "如果别人能稳定而我不能，说明我有问题且不值得被选择",
+          "compensatory_strategies": "减少社交、避免谈论亲密关系以逃避比较与评价",
+          "automatic_thoughts": "我永远找不到长期伴侣",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回想自己三次离婚的经历",
+          "conditional_assumptions": "有过三次离婚的人注定无法拥有长期关系",
+          "compensatory_strategies": "对潜在伴侣保持不信任、避免深入承诺",
+          "automatic_thoughts": "我注定会一直孤独",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有稳定、被信任与被爱的长期亲密关系",
+        "fear": "害怕长期承诺再次带来失败与被拒绝，令自己更受伤",
+        "defense_goal": [
+          "通过回避约会与亲密接触来降低失败与受伤的风险",
+          "保持疏离以保护自尊与情绪稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的伴侣、不会被长期选择的人",
+          "object_representation": "潜在伴侣是挑剔且终会离开的拒绝者",
+          "linking_affect": "孤独、悲观、恐惧"
+        },
+        {
+          "self_representation": "不如他人的落后者",
+          "object_representation": "朋友与同龄人是更成功、更稳定的参照对象",
+          "linking_affect": "羞愧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨开始约会或提出行为实验以检验其对关系的负性预测时",
+          "interpretation": "来访者倾向于将再次尝试亲密关系理解为必然重演失败，感觉被推动去面对会伤害自己的事情",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、谨慎的语气强调过往三次离婚的事实作为拒绝尝试的理由，提出诸多顾虑，倾向于推迟或降低行动强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在第三次离婚后形成“我将永远找不到长期伴侣”的信念",
+            "遇到新的人或听到朋友婚讯时强化孤独与悲观感受",
+            "因难以信任潜在伴侣而回避约会与承诺"
+          ],
+          "outcomes": [
+            "持续的孤独感与悲观情绪",
+            "回避亲密关系",
+            "工作动力与专注度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "有约会或深入连接的冲动时选择克制与回避",
+            "将关系中的失望与悲伤向内承受，不与朋友谈论",
+            "把精力从人际转向自我否定与担忧"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自责“我会把事情搞砸”",
+            "过度预判关系结果而压抑行动",
+            "在社交与约会时过度谨慎、退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意再次寻求心理咨询，态度积极",
+          "愿意尝试记录日记与认知练习，具有改变动机",
+          "在行业内有朋友可提供情感支持"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的认知模式",
+          "对长期承诺的恐惧与不信任，导致回避约会",
+          "自我否定与将失败贴标签的思维，强化孤独与悲观",
+          "社交比较引发的自卑与羞愧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避约会与长期承诺（伴随孤独与悲观）",
+          "antecedent": [
+            "尝试与新认识的人约会",
+            "听到朋友订婚或结婚的消息",
+            "回想三次离婚经历"
+          ],
+          "core_reason": "将过往三次离婚过度概括为“注定失败”，灾难化预测未来并担心再次受伤，导致对潜在伴侣缺乏信任",
+          "function": "逃避潜在的拒绝与失败，保护自尊与情绪安全",
+          "consequence": "难以形成深层连接，持续孤独与悲观，工作动力下降、注意力受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 675
+}

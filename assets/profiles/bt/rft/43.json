@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "杨东林",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与配偶育有儿女",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；无既往心理治疗史；此前未出现类似问题",
+      "language_features": "表达清晰、配合度高、语气中性；倾向聚焦负面与自我否定，忽略正向反馈，表现出对他人评价的担忧与回避倾向"
+    },
+    "main_problem": "在打篮球方面感到自卑与被排斥，认为自己不擅长、从未被选入队伍，因而逐渐回避打球。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些自卑与被排斥的感受影响了我对打篮球（我热爱的事情）的享受；希望能够在打篮球时不再被这些负面感受困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（尤其在篮球方面）",
+        "我不会被接纳/我会被排斥"
+      ],
+      "special_situations": [
+        {
+          "event": "在健身房选队时未被选中",
+          "conditional_assumptions": "如果我没有被选进队伍，就证明我很差、没人愿意和我一起打",
+          "compensatory_strategies": "在选队时退到一旁、减少参与以避免再度被拒绝",
+          "automatic_thoughts": "我从来不会被选上，我真的很糟。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在球场上看到其他人打得很好",
+          "conditional_assumptions": "如果我不如他们，就说明我不够好、没有资格加入",
+          "compensatory_strategies": "不断与他人比较、贬低自我、减少上场机会",
+          "automatic_thoughts": "我远不如他们，和他们一起打只会拖后腿。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在打球时出现一次失误",
+          "conditional_assumptions": "如果我犯错，别人就会盯着我、等我再出错并排斥我",
+          "compensatory_strategies": "自责、紧张并减少出手或直接回避继续参与",
+          "automatic_thoughts": "大家都在等我再出错。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "有人当场称赞“好球/好传”",
+          "conditional_assumptions": "偶尔被夸不代表我有实力，真正的能力必须稳定且经常发生",
+          "compensatory_strategies": "否定正向反馈、继续用负面评价看待自己",
+          "automatic_thoughts": "这只是运气，不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "考虑向打得好的成员请教技巧",
+          "conditional_assumptions": "如果我主动去问，他们会觉得我很烦并且拒绝我",
+          "compensatory_strategies": "避免接触与请教，保持沉默与疏离以自我保护",
+          "automatic_thoughts": "他们会觉得我很烦，最好别去问。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被团队接纳、被看见自己的努力与价值，成为“合格的队友”",
+        "fear": "害怕被拒绝/羞辱，被视为差劲的人，从而再次体验被排斥",
+        "defense_goal": [
+          "通过回避与自我贬低来预防被拒绝的痛苦",
+          "保持低曝光与自我限制以降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易出错的局外人",
+          "object_representation": "挑剔、带有评判与排斥倾向的他人/群体",
+          "linking_affect": "羞耻、焦虑、被排斥感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论或面对“主动接近他人、向高手请教”的建议时",
+          "interpretation": "认为他人会像评判者一样嫌弃自己（会觉得我很烦）并拒绝我",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹豫、降低音量，使用自我否定措辞（如“可能会打扰你们”），提前为退缩留余地。"
+        },
+        {
+          "trigger_condition": "当被邀请关注正向反馈与小的进步时",
+          "interpretation": "把正向反馈视为“不算数”，坚持以负面标准评估自己以避免失望",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "淡化积极、迅速转回缺点，语气平淡并用“只是运气/不常发生”来覆盖正向信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在球场情境中感到被排斥、与群体格格不入",
+            "担心他人负面评价，减少接触与互动"
+          ],
+          "outcomes": [
+            "回避上场与互动，社交参与减少",
+            "自卑与焦虑上升，对打球的乐趣与意义感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为“大家都在等我出错”",
+            "担心“他们会觉得我很烦”，因此不敢上前请教"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注错误与自我苛责，忽略他人给出的正向反馈",
+            "面对小目标表示“可以试试，但可能会退缩”，提前为回避铺垫"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在健身房遇到选队或看到他人打球时，来访者通常会自我否定、担心被拒绝，并因此回避上场。",
+          "unique_outcome": "在某些回合中命中投篮或送出好传后，旁人当场反馈“好球/好传”，与以往被忽视和自我否定的体验不同，出现了被肯定的时刻。",
+          "reason": "线索：不同支持——同伴现场给予正向评价；行为差异——当时完成有效投篮或传球，带来可观察的积极结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对篮球有强烈兴趣与内在动机",
+          "在场上偶尔获得正向反馈（如“好球/好传”）",
+          "具备可用的社会支持资源（有朋友可倾诉，尽管尚未分享）",
+          "愿意尝试小步行动与现实检验（对设置小目标持开放态度）"
+        ],
+        "negative_force": [
+          "过度概括与灾难化（如“我从来不会被选上”）",
+          "读心术与预测未来（预设他人会嫌弃或排斥自己）",
+          "否定积极（将正向反馈视为“不算数”）",
+          "回避行为以避免被拒绝与羞耻感",
+          "将被选中与自我价值绑定，过度寻求外部验证"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避在健身房打篮球与参与选队",
+          "antecedent": [
+            "在健身房看到他人打球水平较高",
+            "选队或组队环节开始"
+          ],
+          "core_reason": "对被拒绝和负面评价的恐惧，以及对自身“不够好”的信念强化了回避",
+          "function": "逃避潜在的羞耻与被排斥体验，短期减轻焦虑",
+          "consequence": "乐趣与参与感下降，社交接触减少，持续加深自卑与被排斥感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 43
+}

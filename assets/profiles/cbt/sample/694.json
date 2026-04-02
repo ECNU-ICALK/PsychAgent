@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "66",
+      "name": "安佩琦",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "未披露",
+      "social_status": "有少量朋友可交流一般性话题，但尚未与他们讨论自己的认知扭曲问题",
+      "medical_history": "否认既往相似心理问题与治疗史；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性强、配合度高，能进行自我反思；常使用“必须/应该”等规则化语言，自我评价偏苛刻；情绪紧张但态度积极、愿意改变"
+    },
+    "main_problem": "近几个月在饮食与日常作息上出现“贴标签/误贴标签”和黑白分明的思维方式：一旦没有完美遵守健康饮食或日常计划，便认定“整天都失败/作废”，导致压力增高与自尊受损，并进一步影响工作表现、社交互动、睡眠与自我照料。",
+    "topic": "情绪管理",
+    "core_demands": "当意识到这些认知扭曲正在影响日常功能、带来不必要的压力并损害自我形象时，希望通过咨询学习识别、挑战和重构黑白分明的想法，降低压力，改善整体功能与自我评价。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在饮食上出现一次偏差（如上午吃了健康早餐，下午吃了薯片）后，将当天整体评价为失败",
+          "conditional_assumptions": "如果没有完美遵守健康饮食计划，这一天就算彻底失败",
+          "compensatory_strategies": "制定并严守刚性规则，用自责与苛刻内在对话来“督促”自己，否定当天任何积极部分",
+          "automatic_thoughts": "我又搞砸了，今天全毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "日常作息出现偏离（未完全按计划执行）时",
+          "conditional_assumptions": "必须严格按计划完成所有步骤，否则我就是失败者/不够好",
+          "compensatory_strategies": "过度自我监控、压抑放松与社交安排以避免偏差",
+          "automatic_thoughts": "我没按计划做，我不够好",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "晚上入睡前回顾白天的表现时，只关注未做到之处而忽视做得好的部分",
+          "conditional_assumptions": "需要不断反思和盯紧错误以防止将来出问题",
+          "compensatory_strategies": "反复反刍、担忧与自我批评，持续聚焦负面细节",
+          "automatic_thoughts": "如果不把这些问题想清楚，明天会更糟",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当日既有健康饮食或完成计划的部分进展，同时也有小的偏差",
+          "conditional_assumptions": "任何偏差都会抵消所有正面努力，积极部分不算数",
+          "compensatory_strategies": "列举并放大错误、否定积极行为以“警醒”自己",
+          "automatic_thoughts": "早上的努力不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过自律与完美表现来获得稳定的自我价值与认可",
+        "fear": "害怕被视为失败或不够好，从而被否定",
+        "defense_goal": [
+          "以严格规则与完美主义维持控制与安全感",
+          "通过自我批评来避免再次犯错与被否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自我",
+          "object_representation": "苛刻的内在评判者/规则制定者",
+          "linking_affect": "焦虑、羞愧、自责"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及饮食或日常作息中的轻微偏差，或被询问当天有哪些做得好的地方时",
+          "interpretation": "将轻微偏差视为全盘失败，并担心被评价，倾向忽视积极面",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责语气回顾当天，放大错误、降低自我价值，弱化或不提积极行为。用词刻板、强调失败。"
+        },
+        {
+          "trigger_condition": "当讨论或设定与健康与作息相关的标准与目标时",
+          "interpretation": "将外界健康标准视为绝对真理，忽视个体差异与情境弹性",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”等绝对化措辞，强调遵规而非体验，回避讨论个人需要与喜好。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以刚性的自我规则约束日常，缺乏选择的灵活度",
+            "将偶发偏差等同于失控与失败"
+          ],
+          "outcomes": [
+            "持续紧张与压力感",
+            "生活弹性下降与自我苛责加重",
+            "睡眠受损与自我照料下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对饮食与作息的担忧影响社交互动与连接能力"
+          ],
+          "outcomes": [
+            "人际联系减少、主观孤立感上升",
+            "自我形象受损与负性情绪增多"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”等规则化语言",
+            "把健康饮食标准当作不可违背的绝对准则",
+            "将一次偏差视为不可接受，从而否定整天"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对细小偏差高度警觉并反复反刍",
+            "自我批评强烈，睡前难以停下负面复盘",
+            "担忧他人评价而减少互动与表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动求助与态度积极，愿意改变思维方式",
+          "具备一定的健康习惯基础（例如可选择健康早餐）",
+          "能在引导下识别并描述具体触发情境与自动化想法",
+          "拥有一定的社会支持（有几位朋友可交流一般性话题）"
+        ],
+        "negative_force": [
+          "完美主义与“应该/必须”的僵化规则",
+          "黑白分明（非黑即白）与心理过滤等认知偏差",
+          "自我苛责与反刍思维倾向",
+          "对偏差的灾难化/全盘化解读导致压力与睡眠受损",
+          "因担忧自我表现而减少社交互动，进一步削弱支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在饮食或作息出现偏差后进行反复反刍与自我苛责，并将整日否定",
+          "antecedent": [
+            "饮食上出现一次不健康选择",
+            "日常作息未完全按计划执行"
+          ],
+          "core_reason": "将自我价值与完美执行绑定的完美主义信念与黑白分明思维",
+          "function": "通过自我惩罚与警醒来维持控制感并预防未来差错",
+          "consequence": "压力升高、睡眠受损，工作与社交受影响，自我形象下降"
+        },
+        {
+          "behavior": "心理过滤：回顾一天时忽视积极行为、夸大消极片段",
+          "antecedent": [
+            "夜间回顾当天表现",
+            "注意力聚焦在“未做到”的细节"
+          ],
+          "core_reason": "负性注意偏向与“积极不算数”的规则化信念",
+          "function": "维持对自我高标准的警觉与控制感，试图“逼迫”改进",
+          "consequence": "失败感与无力感增加、动力下降，规则进一步僵化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 694
+}

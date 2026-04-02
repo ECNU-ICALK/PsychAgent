@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "林苏菲",
+      "gender": "女",
+      "occupation": "学生（足球奖学金获得者）",
+      "educational_background": "高中在读，因足球获奖学金",
+      "marital_status": "单身",
+      "family_status": "独立居住",
+      "social_status": "有少数可交谈的朋友，但很少分享身材/自我形象困扰；为配合训练减少社交，友谊受影响",
+      "medical_history": "无明显躯体疾病；既往未接受过心理治疗",
+      "language_features": "表达清晰，能描述想法与感受；语气消极，常用比较与绝对化表述，倾向关注负面；对改变持怀疑态度但愿意尝试"
+    },
+    "main_problem": "近来对健身与“做到最好”过度执着，影响自尊与身体形象；在社交媒体比较中常过滤掉正面反馈、只关注负面，导致压力与不堪重负。",
+    "topic": "自我探索",
+    "core_demands": "希望不再觉得自己永远不够好，减轻因过度锻炼与负面自我形象带来的痛苦，改善整体幸福感。",
+    "growth_experiences": [
+      "因足球获得奖学金并在身材上收到大量夸奖，随之产生“必须成为最好的”压力；在社交媒体（如Instagram）中频繁与他人比较，逐渐否定积极反馈、聚焦负面，拉低自我价值感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有成为最好的我才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在Instagram上浏览他人（身材、表现）并进行比较",
+          "conditional_assumptions": "如果我不是同龄人中最好的，就等于失败、不值得被认可",
+          "compensatory_strategies": "增加训练时长、加严饮食控制，牺牲学习与社交以证明自己",
+          "automatic_thoughts": "无论我怎么做，总有人比我更好；我的努力不算数",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到关于身材的夸奖以及因足球获奖学金而被关注",
+          "conditional_assumptions": "如果我不能持续保持甚至更进一步，别人就会失望；我必须一直表现完美",
+          "compensatory_strategies": "把更多时间投入训练、严格饮食、减少与朋友相处以维持状态",
+          "automatic_thoughts": "我必须一直保持最好，否则就一文不值",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "学习时想到训练进度可能落后",
+          "conditional_assumptions": "只要少练一次就会被别人超越、状态变差",
+          "compensatory_strategies": "优先选择训练、放弃或缩减学习时间",
+          "automatic_thoughts": "我不能停下训练，否则会落后",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对饮食选择（如不那么“健康”的食物）",
+          "conditional_assumptions": "只要不够健康就会毁掉身材、前功尽弃",
+          "compensatory_strategies": "遵循极为严格的饮食清单，限制多样性与社交性进食",
+          "automatic_thoughts": "这不够健康，会毁掉我的身材",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过被认可与成为最好的来获得价值感与被接纳的安全感",
+        "fear": "害怕一旦不够好就被否定、被比较输掉、失去爱与认可",
+        "defense_goal": [
+          "以控制与完美主义维持外在认可",
+          "通过过度训练与严格饮食来避免羞耻与“不够好”的感受"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "永远不够、需要不断证明自己的竞争者",
+          "object_representation": "挑剔、随时比较并可能失望的他人/观众（同伴与社交媒体）",
+          "linking_affect": "焦虑、羞耻、压力"
+        },
+        {
+          "self_representation": "一旦表达脆弱就会被视为软弱的人",
+          "object_representation": "不会理解、可能评判的朋友/他人",
+          "linking_affect": "担心、拘谨"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出识别并挑战负性自动思维、尝试改变时",
+          "interpretation": "认为这些方法对自己不起作用，感觉改变不可能（将希望视为不现实）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气温和且共情，承认其怀疑与辛苦；邀请以“小步实验”的方式尝试，不强迫，强调可随时调整。"
+        },
+        {
+          "trigger_condition": "当咨询师肯定其进步并鼓励以内在标准评价自己时",
+          "interpretation": "将外界“必须最好”的标准当作唯一正确，非最佳即无价值",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "帮助分辨“内摄的必须最优”声音与自身真实需要；采用反映与澄清，鼓励用第一人称描述当下感受和渴望。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独立居住",
+            "减少与朋友的聚会与互动",
+            "不愿谈及身材与自我形象困扰，担心显得软弱"
+          ],
+          "outcomes": [
+            "主观孤立感增强",
+            "获得情感支持的渠道受限",
+            "自尊与自我价值感进一步下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "无论如何努力都觉得“总有人更好”",
+            "把夸奖转化为持续压力，个人进步被否定"
+          ],
+          "outcomes": [
+            "成就感被侵蚀，持续的挫败与空虚感",
+            "学习动机与注意力下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“必须成为最好的”规则束缚",
+            "饮食与训练被严格控制，生活弹性降低"
+          ],
+          "outcomes": [
+            "焦虑与内在冲突加剧",
+            "生活领域失衡（学业、社交受损）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须成为最好的”视为唯一标准",
+            "把他人夸奖转化为必须持续维持的要求",
+            "否定自身实际进步"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友“不会理解”“会觉得我软弱”而不去表达",
+            "在社交媒体上预设他人会以更高标准评判自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心显得在抱怨或软弱而压抑求助",
+            "以严格训练与饮食约束自己，持续自我评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备突出的运动能力与自律（足球奖学金）",
+          "能觉察问题并主动寻求心理咨询帮助",
+          "注意到自身力量与健康水平提升",
+          "拥有一些可联系的朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "自我价值高度依赖外部比较与评价",
+          "负性认知偏差显著（心理过滤、否定正面、预测未来）",
+          "完美主义驱动的过度训练与严格饮食",
+          "社交回避与学业受损",
+          "“我不够好/只有最好才有价值”的核心信念"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度锻炼与严格饮食控制（伴随持续自我比较与自我否定）",
+          "antecedent": [
+            "在Instagram上看到同龄人更优表现或身材",
+            "收到他人夸奖后感到必须维持的压力",
+            "学习时浮现“需要去训练”的念头",
+            "面对不够“健康”的食物选择"
+          ],
+          "core_reason": "将“只有成为最好的才有价值”的信念与外部比较内化，对体型与表现的失败存在灾难化预期，借控制训练与饮食来缓解不够好的羞耻与焦虑",
+          "function": "获得控制感与外部认可，暂时降低焦虑与自我怀疑",
+          "consequence": "学业注意力与成绩下降、社交减少、饮食与生活弹性受限，整体幸福感降低，自尊受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 708
+}

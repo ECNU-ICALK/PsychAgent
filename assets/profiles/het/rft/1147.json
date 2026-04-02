@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "林晴",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数朋友可求助，但未向他们披露与食物相关的焦虑与内疚；因回避涉及甜点的社交聚会，人际关系受到影响。",
+      "medical_history": "此前未有类似心理问题；未接受过心理治疗；无显著躯体疾病。",
+      "language_features": "表达清晰，能识别思维的非理性成分；语气谨慎、略显紧张；配合度较好但对谈话疗效持怀疑态度；能具体描述诱发情境与影响。"
+    },
+    "main_problem": "我有一种思维模式，认为频繁吃我最喜欢的甜点布朗尼将不可避免地导致体重增加。这一信念使我在享用布朗尼时产生焦虑和内疚。",
+    "topic": "情绪管理",
+    "core_demands": "持续的关于体重增加的焦虑与恐惧开始影响我的心理健康和生活质量，因此我寻求咨询；我只希望这种焦虑不要再控制我的生活。",
+    "growth_experiences": [
+      "几个月前开始注意到体重增加，在工作截止期压力与个人生活挑战的共同作用下，逐渐形成“吃布朗尼会不可避免增重”的信念；此后在面对食物选择或有甜点的社交场合时焦虑显著加重，出现内疚与回避，睡眠与自我照料被打乱，并尝试多种节食与高强度运动但效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "吃甜点（尤其布朗尼）会不可避免地导致体重增加",
+        "要避免变胖就必须严格控制饮食"
+      ],
+      "special_situations": [
+        {
+          "event": "在有甜点的社交聚会中（例如摆放布朗尼）",
+          "conditional_assumptions": "哪怕吃一块也会破坏减重进展，等同失败",
+          "compensatory_strategies": "回避参与或拒绝甜点、降低社交频率",
+          "automatic_thoughts": "一块布朗尼就会毁掉我的进展。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "独自做食物选择（决定是否吃甜点或布朗尼）",
+          "conditional_assumptions": "如果不严格限制甜点，就一定会增重",
+          "compensatory_strategies": "执行极端饮食与高强度运动以对冲可能的增重",
+          "automatic_thoughts": "如果我吃了，就肯定会变胖。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想几个月前注意到体重增加的经历",
+          "conditional_assumptions": "曾因吃甜点增重说明甜点总会导致增重",
+          "compensatory_strategies": "以过去的体重波动为依据持续加强限制和监控饮食",
+          "automatic_thoughts": "我之前因为甜点变胖过，所以以后一定也会这样。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作截止期和个人生活压力增大时出现进食欲望",
+          "conditional_assumptions": "感到压力说明更容易失控，所以必须更严苛地限制",
+          "compensatory_strategies": "用更严格的规则（不吃甜点）来应对不安与紧张",
+          "automatic_thoughts": "我这么焦虑，若吃了甜点一定会更糟。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自在地享受喜爱的食物并维持自我价值与安心感",
+        "fear": "害怕失控增重与被评价，伴随强烈内疚与焦虑",
+        "defense_goal": [
+          "通过严格限制与回避甜点来保持控制、降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易自责、担心被评判的自我",
+          "object_representation": "可能不理解或会评价自己的他人",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出通过谈话探索与重新框架其焦虑与信念时",
+          "interpretation": "倾向认为“谈话帮助不大”，以维持对问题的控制感",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以怀疑与冷淡的语气简短回应，强调“我不觉得这能帮上忙”，回避深入情绪层面讨论。"
+        },
+        {
+          "trigger_condition": "当被邀请探讨向朋友寻求支持与分享困扰时",
+          "interpretation": "预设他人不会理解或会评价自己，从而避免接近与暴露脆弱",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用泛指与推测性的表述（如“他们不会理解”），减少具体细节，维持人际距离与话题表层化。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被严格的饮食规则与对增重的恐惧束缚，难以自由地享用喜爱的食物",
+            "对甜点的选择感到受限，行为被焦虑主导"
+          ],
+          "outcomes": [
+            "持续焦虑与内疚",
+            "生活质量下降，自我照料与睡眠受扰"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免参与涉及甜点的社交聚会",
+            "认为朋友不会理解自己的困扰而选择不披露"
+          ],
+          "outcomes": [
+            "人际关系紧张与疏离感增加",
+            "获得支持的机会减少，焦虑循环加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在咨询与生活中预设“朋友不会理解我”，因此不披露焦虑与内疚",
+            "以他人可能的评价为由回避社交"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在食物选择上高度自我审查与苛责",
+            "面对咨询的探索持怀疑态度、谨慎表达与保留"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "能觉察并指出“并非每一块布朗尼都会立刻导致增重”的反证",
+          "愿意尝试从不同角度审视思维，接受替代观点的练习",
+          "具备一定的自我观察能力，能描述诱发情境与影响",
+          "有少数可用的朋友资源（尽管尚未披露）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的思维倾向（“一块就毁掉进展”）",
+          "预测未来与过度概括导致的体重与饮食焦虑",
+          "对甜点与社交的回避维持了问题循环",
+          "以极端饮食与高强度运动应对焦虑，短期缓解但长期加剧不适",
+          "睡眠与自我照料被打乱，降低恢复力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对甜点（尤其布朗尼）时产生强烈焦虑与内疚，并伴随限制/补偿性行为",
+          "antecedent": [
+            "有甜点的社交聚会",
+            "独自做食物选择时",
+            "回想之前体重增加的经历",
+            "处于工作截止期与个人生活压力增大时"
+          ],
+          "core_reason": "对增重的灾难化预测与过度概括（将一次或部分经历推广为必然结果），并以焦虑情绪当作事实依据（情绪化推理）",
+          "function": "逃避被视为不受欢迎的结果（增重与被评价），并短期降低焦虑",
+          "consequence": "持续的焦虑与内疚，睡眠与自我照料受扰，生活质量下降"
+        },
+        {
+          "behavior": "回避涉及甜点的社交活动",
+          "antecedent": [
+            "被邀请参加有甜点的聚会或活动",
+            "预想到在场会有布朗尼等甜点"
+          ],
+          "core_reason": "担心在社交情境中失去饮食控制并因此增重或被他人评价",
+          "function": "逃避诱发焦虑的线索与潜在的外部评价，维持安全感与控制感",
+          "consequence": "人际关系紧张与疏离，社交支持减少，焦虑循环被强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1147
+}

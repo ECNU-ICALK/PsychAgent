@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "林佩妮",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与朋友的关系因过度消费产生紧张；拥有许多朋友可倾诉，但尚未与他们讨论财务困难",
+      "medical_history": "无重大躯体疾病；此前未接受心理问题的治疗或咨询；此前未出现类似问题",
+      "language_features": "表达清晰、逻辑性较好、合作度高、能进行自我反思，态度积极"
+    },
+    "main_problem": "在管理财务方面存在困难，具体表现为购物过度与冲动消费，导致财务压力与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到自己的过度消费导致了财务困难并影响了整体的幸福感。",
+    "growth_experiences": [
+      "开始工作并拥有更高收入后，购物带来的即时快感逐步强化了冲动性购物行为；在压力或焦虑时更倾向通过购物寻求快速缓解，随着时间推移对储蓄产生负面影响并引发更高的焦虑与内疚。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不可能在理财方面变得聪明",
+        "只有购物才能让我感觉好一些"
+      ],
+      "special_situations": [
+        {
+          "event": "工作压力较大的一天，下班后打开网购平台或进入商店",
+          "conditional_assumptions": "如果我感到压力或焦虑，购物是最快且有效的缓解方式",
+          "compensatory_strategies": "通过立即购买来麻痹不适情绪，暂时获得安慰",
+          "automatic_thoughts": "买点东西我就会好一些",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "查看账单或意识到储蓄减少时",
+          "conditional_assumptions": "如果一次花超预算，就说明我不聪明、理财做不好",
+          "compensatory_strategies": "以自责与回避（不与朋友讨论财务困境）来应对",
+          "automatic_thoughts": "我永远都不会在理财方面变聪明",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想曾经遵守预算或找到划算交易的时刻",
+          "conditional_assumptions": "即使有过成功，这也不代表我能持续管理好金钱",
+          "compensatory_strategies": "否认积极证据，维持负面自我评价",
+          "automatic_thoughts": "这次只是运气好，不算我会理财",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "制定预算后某次未能坚持时",
+          "conditional_assumptions": "如果我不能完全做到，就等于彻底失败",
+          "compensatory_strategies": "放弃继续尝试，回到旧模式的购物以寻求安慰",
+          "automatic_thoughts": "我就是控制不了购物，预算对我没用",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得情绪安慰与自我掌控（在金钱管理上被自己认可）",
+        "fear": "害怕失控导致财务压力加剧、被他人看轻、关系受损",
+        "defense_goal": [
+          "通过购物快速缓解内在焦虑与空虚",
+          "避免向他人暴露财务问题以躲避羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有罪疚与失控的花钱者、觉得自己不够聪明",
+          "object_representation": "可能评判或不理解自己的他人/朋友",
+          "linking_affect": "羞耻、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当意识到自己花超预算、被建议与他人（如朋友）讨论财务困境时",
+          "interpretation": "将他人的关注体验为评判，担心被看低（移情：投射期待的负面评价）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责的语气，频繁说“都是我不行/我应该更懂理财”，减少谈及或寻求他人支持的意愿，语气轻、避免直接求助。"
+        },
+        {
+          "trigger_condition": "当咨询师探讨情绪与购物的关系、引导识别触发因素时",
+          "interpretation": "倾向把问题抽象化为“策略/预算”的技术话题，淡化情绪脆弱和羞耻体验",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用理性、分析性的语言讨论预算步骤与数据，回避描述具体情绪体验，语速平稳、偏客观。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有许多朋友但不讨论财务困难",
+            "人际关系因过度消费产生紧张",
+            "在压力时选择独自以购物来缓解情绪"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "内疚感增强",
+            "冲动性消费作为替代性联结方式"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "收入增加后在选择与责任之间体验更高的焦虑",
+            "面对自我决定与约束的冲突（预算与冲动购物之间）"
+          ],
+          "outcomes": [
+            "通过购物逃避选择压力与责任感",
+            "财务失控感与自我效能降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该/必须更懂理财”的自责语句",
+            "以外界标准苛求自己（理应能控制消费）"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "需要求助时选择自我忍受，不与朋友讨论财务困难",
+            "将求助能量转为自责与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意尝试记录触发与行为实验",
+          "能觉察购物与压力的关系，具备自我反思能力",
+          "拥有阅读、散步等非购物的放松方式",
+          "拥有较多朋友，存在潜在社会支持资源"
+        ],
+        "negative_force": [
+          "压力时以购物作为主要情绪调节策略，形成冲动性消费",
+          "存在认知偏差（Disqualifying the Positive、Fortune Telling、Overgeneralization、All-or-Nothing Thinking）",
+          "羞耻与内疚感强，阻碍向他人求助",
+          "预算维持困难，屡败后增强自我否定",
+          "收入增加后缺乏自控，诱发更高消费"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "冲动性购物/过度消费",
+          "antecedent": [
+            "在工作后感到压力或焦虑",
+            "打开网购平台或进入商店",
+            "收入增加使购买更易达成"
+          ],
+          "core_reason": "以购物作为快速情绪修复手段；对理财自我效能感低，伴随认知偏差强化失败期待",
+          "function": "逃避不受欢迎的事物（压力与焦虑），并获得即时愉悦与安慰",
+          "consequence": "财务压力与储蓄减少、焦虑和内疚加重，可能影响工作表现并使人际关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 860
+}

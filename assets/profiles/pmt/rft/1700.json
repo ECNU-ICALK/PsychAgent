@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29岁",
+      "name": "陈博文",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "文学学士",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有少数朋友可交流，但尚未与他们谈及对诗歌的自卑感",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "态度中性"
+    },
+    "main_problem": "我常常觉得自己是最糟糕的诗人，尤其当有人批评我的作品时。这种不够好的感觉始于几个月前一位朋友不喜欢我的一首诗。",
+    "topic": "情绪管理",
+    "core_demands": "负面反馈及随后的自我不足感显著影响我享受写作的能力，促使我寻求咨询。",
+    "growth_experiences": [
+      "几个月前，朋友明确表示不喜欢来访者的一首诗。自那次经历后，来访者在分享作品时经常预期会被拒绝或收到负面反馈，持续出现“自己是最糟糕的诗人”的自我贴标签与不够好的感受，并报告创意与写作自信下降、写作动力受损、与同行交流减少。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（作为诗人）",
+        "我的价值取决于他人的评价",
+        "我是最糟糕的诗人"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友明确表示不喜欢来访者的一首诗",
+          "conditional_assumptions": "如果有人不喜欢我的作品，就说明我作为诗人是失败的/不够好",
+          "compensatory_strategies": "尝试提升写作技巧并寻求他人认可来证明自己",
+          "automatic_thoughts": "我是最糟糕的诗人",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在向他人分享诗作前，来访者预期会被拒绝或收到负面反馈",
+          "conditional_assumptions": "如果遭到拒绝或负评，就证明我没有价值，不该继续写诗",
+          "compensatory_strategies": "回避分享作品、减少与其他写作者的交流",
+          "automatic_thoughts": "他们会讨厌我的诗，他们肯定觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到批评后联想到长远的负面后果（创作与自信被摧毁）",
+          "conditional_assumptions": "一次批评意味着我会持续写不好、能力下降且难以恢复",
+          "compensatory_strategies": "减少或暂停写作以避免再次失败与打击",
+          "automatic_thoughts": "我的写作完了，我再也写不出好诗",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "为缓解不安而频繁寻求他人认可与肯定",
+          "conditional_assumptions": "只有得到他人的认可，我才是有价值的诗人",
+          "compensatory_strategies": "不断向他人询问评价、寻找正面反馈以安抚焦虑",
+          "automatic_thoughts": "如果没有人认可，我就不值得被称为诗人",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人认可与欣赏（作为诗人）",
+        "fear": "害怕被拒绝与被否定，担心自己没有价值",
+        "defense_goal": [
+          "通过回避分享来降低被否定的风险",
+          "通过寻求外部认可来暂时缓解不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被否定的诗人",
+          "object_representation": "挑剔/批判性的他人或读者（如朋友）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备文学专业训练背景（文学学士）",
+          "有基本的社会支持（有少数朋友可交流）",
+          "主动尝试提升写作与寻求帮助（自我改进意愿）"
+        ],
+        "negative_force": [
+          "过度依赖外部认可以确定自我价值",
+          "灾难化与非黑即白思维等认知扭曲",
+          "在分享前预期拒绝导致回避行为",
+          "将一次负面反馈泛化为整体能力不足，自我贴标签"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避分享诗作与寻求反馈",
+          "antecedent": [
+            "当需要向他人分享作品或预期会收到评价时",
+            "想到朋友曾不喜欢自己的作品"
+          ],
+          "core_reason": "害怕被拒绝与被否定，将一次负面反馈视为自我失败的证据",
+          "function": "逃避可能的负面评价以保护自尊、降低焦虑",
+          "consequence": "与同行关系疏离、反馈减少，创作动力与自信下降"
+        },
+        {
+          "behavior": "灾难化的自我否定思维（如“我是最糟糕的诗人”）",
+          "antecedent": [
+            "收到或回忆负面反馈时",
+            "在创作受阻或遇到批评时"
+          ],
+          "core_reason": "核心信念“我不够好”，以极端方式评估自我价值并将单次批评泛化",
+          "function": "通过自我贴标签为挫败提供“确定性解释”，短期缓解不确定性带来的焦虑",
+          "consequence": "创造力与自信下降，难以享受写作，并出现持续的焦虑与回避"
+        },
+        {
+          "behavior": "写作动机下降/拖延",
+          "antecedent": [
+            "被负面思维激活后",
+            "预期他人会拒绝或负评"
+          ],
+          "core_reason": "将批评视为持久能力不足的证据，害怕再次失败与受挫",
+          "function": "避免面对可能的失败与不适感",
+          "consequence": "写作时间减少、产出降低、业余时间写作意愿受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1700
+}

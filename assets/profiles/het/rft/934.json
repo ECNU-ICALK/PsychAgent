@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22岁",
+      "name": "许珊",
+      "gender": "女",
+      "occupation": "农民",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，养有两只宠物狗",
+      "social_status": "与有相同爱好的朋友关系因缺乏信心而紧张；尚未向朋友表达与讨论真实感受",
+      "medical_history": "无类似心理问题既往史；无既往心理治疗或咨询；无重大躯体疾病",
+      "language_features": "表达清晰，愿意配合，态度积极；自述有焦虑；能够进行自我反思"
+    },
+    "main_problem": "在我热爱的摄影爱好中长期感到无能与不足，这种感受始于两年前与职业摄影师比较后，并逐渐加重，拍照时常感到缺乏动力与自我怀疑，兴趣下降。",
+    "topic": "个人成长",
+    "core_demands": "希望识别并挑战消极想法、练习认知重构，重拾对摄影的兴趣与自信，使自己不再因自我否定而影响生活与其他领域。",
+    "growth_experiences": [
+      "两年前开始将自己的作品与职业摄影师的作品进行比较，此后逐渐产生并强化“自己不够好/不胜任”的感受：最初压力中等，随着持续比较与自我怀疑，压力逐步升高；每次拍照都出现消极情绪与动力下降，兴趣明显减退；与同好朋友的关系因缺乏信心而变得紧张。",
+      "多次获得朋友对作品的积极反馈，但来访者往往认为对方只是礼貌而否认其真实性，因而较少从正向反馈中获得自我价值感，这一模式进一步弱化了分享与练习的动力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不擅长摄影/我很差",
+        "我不如职业摄影师，永远也达不到他们的水平",
+        "我不会有进步"
+      ],
+      "special_situations": [
+        {
+          "event": "与职业摄影师的作品进行比较",
+          "conditional_assumptions": "如果我的照片没有达到职业摄影师的水平，就说明我不够好、很无能",
+          "compensatory_strategies": "观看教程、反复练习不同技巧以证明自己能变好",
+          "automatic_thoughts": "我的作品不如他们，我就是不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到朋友对自己照片的正面评价",
+          "conditional_assumptions": "朋友的称赞只是出于礼貌，不能说明我拍得好",
+          "compensatory_strategies": "否定正向反馈，减少分享作品以避免被评价",
+          "automatic_thoughts": "他们只是客套，这不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在审视近期拍摄作品时只注意到瑕疵",
+          "conditional_assumptions": "如果照片存在任何缺点，就说明我没有进步、整体很差",
+          "compensatory_strategies": "专注于纠错与技术细节，忽略已有进步和优点",
+          "automatic_thoughts": "我的照片到处都是问题",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "考虑将作品分享给更广泛的受众",
+          "conditional_assumptions": "一旦被批评就证明我很差、会感觉更糟",
+          "compensatory_strategies": "回避公开分享，仅在小圈子内尝试以降低风险",
+          "automatic_thoughts": "大家会批评我，我会更糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见并被认可为有能力的摄影者，得到真实的积极反馈",
+        "fear": "害怕被批评与否定，从而证实“我不够好”并感到羞愧",
+        "defense_goal": [
+          "通过减少公开分享与否定正反馈来降低被批评的可能性",
+          "以技术分析与自我苛责维持控制感，回避触及脆弱的自我价值议题"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的初学者/易被否定者",
+          "object_representation": "苛刻的评判者（职业摄影师/潜在观众/朋友）",
+          "linking_affect": "羞愧、焦虑、挫败"
+        },
+        {
+          "self_representation": "不配得到赞美者",
+          "object_representation": "礼貌但不真诚的观众（朋友）",
+          "linking_affect": "怀疑、不信任"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（包括咨询师或朋友）给予积极反馈或建议其公开分享作品时",
+          "interpretation": "认为对方只是出于礼貌，真实观点是负面评价；公开分享等同于暴露自身不足",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以委婉语否定积极反馈，强调作品的缺点，提出多种理由推迟或回避分享。"
+        },
+        {
+          "trigger_condition": "当被探问拍照体验或讨论如何提升摄影时",
+          "interpretation": "将问题完全归因于技术差距，淡化或绕开关于羞愧与自我价值的感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "采用分析性语气，罗列技术改进与学习计划，避免表达脆弱情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "摄影的乐趣被持续的自我否定侵蚀",
+            "兴趣减少",
+            "拍照时动力下降"
+          ],
+          "outcomes": [
+            "快感与意义感降低",
+            "消极自我评价",
+            "回避创造性表达"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与朋友讨论真实感受",
+            "与同好关系紧张",
+            "担心外界评价而减少分享"
+          ],
+          "outcomes": [
+            "社交收缩与支持减少",
+            "焦虑维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "担心更广泛受众会批评自己的作品",
+            "将朋友的称赞理解为出于礼貌而非真实欣赏"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将职业摄影师的标准当作唯一有效的评价体系",
+            "自述“我一定做错了”，以完美主义要求约束自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在分享作品时过度谨慎，倾向只在小圈子尝试",
+            "频繁自我怀疑与自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对摄影具有一定的兴趣与投入（尽管近期下降）",
+          "愿意寻求帮助并积极配合咨询（态度积极）",
+          "已尝试通过观看教程与练习来提升技能",
+          "拥有同好朋友与潜在支持网络",
+          "工作表现稳定，生活结构相对有序"
+        ],
+        "negative_force": [
+          "过度比较与非黑即白思维，严重依赖职业标准",
+          "否定正面反馈，寻求外部验证导致自我价值脆弱",
+          "对批评的灾难化预测与回避分享",
+          "审视作品时心理过滤，只看缺点",
+          "自信不足与持续自我怀疑，兴趣与动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "拍照时的自我否定与动力下降（伴随焦虑与挫败）",
+          "antecedent": [
+            "尝试拍照",
+            "看到作品瑕疵",
+            "将作品与职业摄影师比较"
+          ],
+          "core_reason": "在长期比较下形成“我不够好”的核心信念，伴随非黑即白与过度概括等认知偏差",
+          "function": "逃避失败与负面评价，维持脆弱的自尊与安全感",
+          "consequence": "摄影兴趣减少、练习频率下降、技能提升受限"
+        },
+        {
+          "behavior": "回避公开分享作品与寻求更广泛反馈",
+          "antecedent": [
+            "考虑向更广泛受众分享作品",
+            "收到朋友的正面评价后担心被批评"
+          ],
+          "core_reason": "对批评的灾难化预测与对外部评价的过度依赖，否定正向证据以保护自我",
+          "function": "逃避羞耻感与被否定的风险",
+          "consequence": "与同好关系紧张、外部支持与学习机会减少，负性信念持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 934
+}

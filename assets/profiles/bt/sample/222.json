@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "61",
+      "name": "陈黛安",
+      "gender": "女",
+      "occupation": "时装设计学生",
+      "educational_background": "就读于一所知名的时装设计学院",
+      "marital_status": "未婚",
+      "family_status": "为求学独自搬到纽约",
+      "social_status": "与同学关系因自我批评而紧张；虽有少数同学可交流，但难以敞开谈论自我批评的想法",
+      "medical_history": "既往史：未出现类似心理问题；未接受过心理咨询或治疗；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑良好；能具体描述情绪与思维；配合度高、态度积极；但倾向于聚焦负面反馈、否定正面成就"
+    },
+    "main_problem": "即便拿到5个A和1个B，我仍觉得自己是“差学生”，产生无能感与自我批评，这些想法在每次学术评估后都会出现并影响自尊。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为这些负面想法正在影响我对时装设计的动力和热情。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的学生",
+        "我不如我的同学"
+      ],
+      "special_situations": [
+        {
+          "event": "查看期末考试成绩（5个A与1个B）",
+          "conditional_assumptions": "如果成绩不是完美（例如不是全A），就说明我不够好/是失败者",
+          "compensatory_strategies": "把注意力集中在负面成绩上进行自我批评；尝试用理性提醒自己的成就来对冲负面想法；减少与同学互动以避免被评价",
+          "automatic_thoughts": "我是个差学生；一个B就证明我不够好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "收到设计项目反馈（整体积极，但被指出配色问题）",
+          "conditional_assumptions": "如果某一方面被批评，就说明整体能力不足、我不适合这个领域",
+          "compensatory_strategies": "将单点批评视为整体能力缺陷并加倍自我苛责；社交退缩以避免进一步的负面评价",
+          "automatic_thoughts": "连颜色都把握不好，我不该待在这里",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "取得A的成绩或获得积极反馈",
+          "conditional_assumptions": "好的结果只是运气，不能说明我真的有能力",
+          "compensatory_strategies": "否定与贬低正面成就以防止“自满”，继续强调不足来“督促”自己",
+          "automatic_thoughts": "这只是运气；任何人都能拿到A",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每次收到学术评估（成绩或导师评价）",
+          "conditional_assumptions": "如果达不到同学的水平，就不配与他们相处",
+          "compensatory_strategies": "与同学保持距离、减少交流，避免被比较与被评价",
+          "automatic_thoughts": "我永远比不上我的同学",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被肯定为“有能力的学生”",
+        "fear": "害怕被批评和否定，害怕被视为不够好或不配属于这个领域",
+        "defense_goal": [
+          "通过自我批评与社交退缩来避免外界评价带来的焦虑与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的学生",
+          "object_representation": "挑剔的评判者（同学/导师/评估者）",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当收到学术评价或批评（如对配色的负面反馈）",
+          "interpretation": "他人会把我看作不够好，这些评价证明我不适合该领域",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用稳定而不评判的语气，先共情羞耻与焦虑；再区分事实与推测，邀请具体化证据，并温和地检视“他人在想什么”的依据。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人强调其成就与优点时",
+          "interpretation": "理性上知道有成就，但情绪上无法相信或连接，感觉“空洞”",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "语气温和、节奏放慢；引导辨识身体感受与情绪标签，鼓励停留与体验（而非仅理性分析），用具体成功时刻进行情绪聚焦与接地练习。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为求学独自搬到纽约",
+            "与同学关系紧张并社交退缩",
+            "难以向同学敞开谈论自我批评的想法"
+          ],
+          "outcomes": [
+            "睡眠与饮食紊乱",
+            "自尊下降",
+            "持续的自我否定与焦虑"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "面对自身成就时感到“短暂安心但很快变得空洞”",
+            "难以在正向反馈中体验到真实的价值与自我认可"
+          ],
+          "outcomes": [
+            "学习动力与对时装设计的热情下降",
+            "对自我能力的怀疑加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "不断自我批评与否定成就",
+            "与同学互动中感到“不配”，从而退缩",
+            "过度关注负面评价、忽视正向反馈"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须完美/拿到全A”视为衡量自我价值的绝对标准",
+            "把单点批评当作整体否定并内化为自我评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在遭遇批评或比较时，不与他人沟通需求与感受，转为对自己苛责",
+            "社交退缩、减少与同学交流以避免被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收到学术评估时，来访者通常会只关注负面部分（如一个B或批评），迅速产生自我否定与失败感，随后影响睡眠、饮食与社交。",
+          "unique_outcome": "在那次查看期末成绩的当下，来访者曾短暂为5个A感到开心与自豪，并未立即陷入自我批评。",
+          "reason": "不同情境/理解：先注意到多个A并允许自己承认成就；当时灾难化与过滤性思维尚未占据全部注意力，因此出现了短暂的积极体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备扎实的专业能力与技巧（成绩中有5个A；作品被评价为“创新、技术扎实”）",
+          "愿意寻求帮助并参与咨询，态度积极",
+          "能在短暂时刻承认与体验自己的成就"
+        ],
+        "negative_force": [
+          "设定过高、僵化的标准，将不完美视为失败",
+          "心理过滤与过度概括，否定正向反馈",
+          "自我批评与社交退缩，减少外界支持",
+          "学术评估引发的焦虑与反刍，导致睡眠与饮食紊乱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度聚焦负面学术反馈并进行自我否定（反复自我批评与失败化自我标签）",
+          "antecedent": [
+            "查看成绩（如5个A与1个B）",
+            "接收导师/评委的项目反馈",
+            "任何学术评估情境"
+          ],
+          "core_reason": "对完美的高标准与非黑即白的评价方式，将单点负面信息泛化为整体不够好",
+          "function": "逃避失败感与被否定的可能性，试图通过自我苛责来维持对进步的控制感",
+          "consequence": "自尊下降、学习动力受损；持续焦虑与反刍，影响睡眠与饮食"
+        },
+        {
+          "behavior": "与同学的社交退缩与回避（减少交流、觉得不配与同学相处）",
+          "antecedent": [
+            "在成绩或反馈后想到自己“不如同学”",
+            "需要与同学讨论学习或展示作品的场合"
+          ],
+          "core_reason": "比较与绝望引发的羞耻与自我怀疑，担心被评价或暴露不足",
+          "function": "逃避被比较与被负面评价的风险，短期降低焦虑",
+          "consequence": "人际关系紧张、支持减少、孤独感上升，进一步削弱自信"
+        },
+        {
+          "behavior": "睡眠与饮食模式受扰（入睡困难、食欲改变）",
+          "antecedent": [
+            "收到学术评估后进行反刍与自我批评",
+            "在面对即将到来的评价时预期负面结果"
+          ],
+          "core_reason": "持续反刍与焦虑激活生理唤醒，干扰节律",
+          "function": "无效的情绪调节尝试（通过反刍试图获得确定感）",
+          "consequence": "身心疲惫、专注力下降，进一步影响学业表现与人际互动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 222
+}

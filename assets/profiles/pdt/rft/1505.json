@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "陈薇",
+      "gender": "女性",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无直系亲属",
+      "social_status": "社交支持薄弱，仅在需要时可联系少数熟人",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰，能识别并描述自动化思维；语气平和但对陌生关系感到紧张；在咨询中较为配合，能进行证据检视与反思"
+    },
+    "main_problem": "我一直觉得因为自己的喜好和过往经历，我无法融入他人，这让我感到孤立和难过。",
+    "topic": "人际关系",
+    "core_demands": "我意识到持续的孤独感已经影响到我的日常生活和心理健康，因此决定寻求咨询。",
+    "growth_experiences": [
+      "约一年前与前男友分手，此后开始持续感到被拒绝与不被接纳，认为自己无法融入他人。为避免再次受伤，逐渐回避社交聚会与新关系尝试，尽管尝试用兴趣爱好分散注意力，但情绪仍反复出现并持续。随着时间推移，求职动力下降，日常作息与自我照料习惯受到影响；独居且社交支持薄弱进一步加重了孤独与悲伤。",
+      "上个月尝试加入读书会，在现场自觉被他人评判并提前离场，未再返回。虽然现场有人主动邀请其参与对话，但因焦虑而未能投入，这一经历进一步强化了其“我不被接纳/不合群”的信念。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不会被他人接纳",
+        "我不属于任何群体"
+      ],
+      "special_situations": [
+        {
+          "event": "与他人存在偏好差异（例如颜色喜好不同）时参与社交",
+          "conditional_assumptions": "如果我与他人不同，就意味着我不会被接纳",
+          "compensatory_strategies": "提前退出或直接避免参与相关社交活动以降低被拒绝风险",
+          "automatic_thoughts": "我永远都融不进去他们",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "加入读书会时，注意到他人看向自己或安静时刻",
+          "conditional_assumptions": "如果别人看我或没有明确的热情回应，就表示他们在评判并不欢迎我",
+          "compensatory_strategies": "减少互动、提前离场、之后不再参加该活动",
+          "automatic_thoughts": "他们觉得我很奇怪，不想让我在场",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "遇到新的人或尝试建立新关系",
+          "conditional_assumptions": "如果再次被拒绝，我会承受不了，因此最好不要开始",
+          "compensatory_strategies": "回避结识新朋友，停留在熟悉环境与独处状态",
+          "automatic_thoughts": "他们不会接受我",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "回想与前男友的分手及其后的孤立经历",
+          "conditional_assumptions": "如果过去被拒绝过，说明我不值得被接纳，未来也会一直如此",
+          "compensatory_strategies": "用兴趣爱好分散注意但不主动社交，以减少再次受挫的可能",
+          "automatic_thoughts": "我总是被拒绝、永远不合群",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并与他人建立稳定而亲密的连接",
+        "fear": "害怕再次遭到拒绝与评判，担心自我价值被否定",
+        "defense_goal": [
+          "通过保持疏离与回避来降低受伤风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被拒绝的局外人、容易被评判的人",
+          "object_representation": "他人（或群体）是冷淡的评判者/排斥者",
+          "linking_affect": "孤独、焦虑、羞耻、悲伤"
+        },
+        {
+          "self_representation": "在社交中紧张而不被欢迎的参与者",
+          "object_representation": "群体是潜在的拒绝者，表面友好但内在不接受",
+          "linking_affect": "不安、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师要求对“被评判/不被接纳”的信念提供具体证据，或提出不同解释时（如讨论读书会的实际互动）",
+          "interpretation": "将内在的被拒绝恐惧视为外界真实判断，认为他人（包括群体）在评判自己（移情：将自我否定投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和、以共情为主；先承认其感受的合理性，再以好奇探询区分“感觉”与“证据”，邀请举具体事实并进行现实检验，避免直接否定其体验。"
+        },
+        {
+          "trigger_condition": "当谈及是否重返读书会或尝试新的社交机会时",
+          "interpretation": "强调“避免更安全”以为回避辩护，将退缩视为理性选择而非恐惧驱动（移情：将咨询师的邀请体验为潜在风险）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先共情其对安全与掌控的需求，再以温柔的挑战提出小步尝试的替代方案；使用具体化、正反证问题与协作式目标设定，保持支持与鼓励的语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "分手后持续感到孤立与不被接纳",
+            "避免社交聚会与新关系",
+            "独居且社交支持薄弱"
+          ],
+          "outcomes": [
+            "悲伤与焦虑",
+            "社交回避加剧",
+            "功能下降（日常作息与自我照料受影响）"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "失业后缺乏求职动力",
+            "兴趣爱好只能提供短暂分散而无法带来连接与满足"
+          ],
+          "outcomes": [
+            "动机不足与倦怠感",
+            "生活质量下降、目标感与方向感削弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在叙述读书会经历时，以“感觉”推断他人评判自己",
+            "假设他人不会接纳自己，视群体为拒绝者"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外发出的行动冲动，将能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "在社交场合中选择提前离开或不参与互动",
+            "减少参加聚会与新关系尝试，将行动收回到自我保护"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我觉察，能识别并愿意检视自动化思维",
+          "愿意尝试小步行动（表示“我可以试试”）",
+          "能以兴趣爱好进行一定的自我调节（尽管效果有限）",
+          "在需要时可联系少数熟人，具备一定社会支持资源"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术与预测未来等认知歪曲显著",
+          "强烈的拒绝恐惧推动社交回避与疏离",
+          "社交支持薄弱与独居加重孤独与悲伤",
+          "求职动机不足导致功能下降",
+          "倾向以回避维持安全并为此合理化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避（在社交场合提前离场、停留在家中、不参加聚会或新关系尝试）",
+          "antecedent": [
+            "遇到新的人或尝试建立连接",
+            "参与群体活动（如读书会）",
+            "回想分手与被拒绝经历"
+          ],
+          "core_reason": "分手后形成的“我不会被接纳”的核心信念与认知歪曲（读心术、预测未来、过度概括），伴随对再次被拒绝的强烈恐惧。",
+          "function": "逃避被拒绝与焦虑不适，短期维持主观安全感与控制感。",
+          "consequence": "持续孤独与悲伤，社交支持减少，进一步强化负性信念并影响心理健康。"
+        },
+        {
+          "behavior": "求职行为的低动机与回避",
+          "antecedent": [
+            "面临求职相关任务（准备简历、投递、面试）",
+            "想到需要与新的人接触或被评价"
+          ],
+          "core_reason": "孤立与负性情绪降低动机，同时担心不被接受或失败，倾向灾难化与合理化回避。",
+          "function": "逃避失败与负面评价，减轻短期压力与焦虑。",
+          "consequence": "持续失业，生活功能与自我照料进一步受损。"
+        },
+        {
+          "behavior": "自我照料下降（日常作息与自我照料习惯受影响）",
+          "antecedent": [
+            "感到孤独与悲伤时",
+            "在社交受挫或回避之后"
+          ],
+          "core_reason": "负性情绪与无意义感降低能量与主动性，回避成为主要应对策略。",
+          "function": "暂时减少外界要求与自我负担，以避免进一步情绪波动。",
+          "consequence": "生活质量下降，身心状态恶化，难以恢复积极的社会参与。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1505
+}

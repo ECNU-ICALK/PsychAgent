@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "有两个兄弟姐妹，养了一只狗",
+      "social_status": "与两位兄弟姐妹可交流，但尚未就此问题与他们沟通；其余社交情况未披露",
+      "medical_history": "无心理治疗史，无重大躯体疾病",
+      "language_features": "思维与表达清晰，能具体描述事件与感受；配合度较高；存在明显的灾难化、过度概括、非黑即白与跳到结论倾向"
+    },
+    "main_problem": "由于狗在家中发生意外，我持续感到强烈的挫败与绝望，并相信它永远无法完成如厕训练。",
+    "topic": "情绪管理",
+    "core_demands": "当挫败与绝望开始影响整体福祉和日常生活时，我决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/不适合养狗的人",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "狗今天在地毯上发生意外",
+          "conditional_assumptions": "如果一次训练中出现意外，就说明训练失败、我不称职",
+          "compensatory_strategies": "加紧采用各种训练方法与清洁流程，并尝试更严格的作息安排",
+          "automatic_thoughts": "他永远都不会学会如厕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "忙碌或分心导致未按时带狗外出，随后出现室内意外",
+          "conditional_assumptions": "如果我不能完全控制所有变量，一旦出错就证明我失败",
+          "compensatory_strategies": "对自己加以苛责与否定，同时设定更多提醒并强化日程以避免再出错",
+          "automatic_thoughts": "都是我的错，我就是不称职",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "一周内既有室内意外也有户外成功如厕的情况",
+          "conditional_assumptions": "负面事件更重要，正面进步不算数",
+          "compensatory_strategies": "忽视成功、聚焦负面并在意外后大声斥责，随后产生内疚",
+          "automatic_thoughts": "这些小成功根本不算，我永远都在收拾烂摊子",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "每次发生室内意外后立即对整体训练作出负面结论",
+          "conditional_assumptions": "一次挫败意味着永远失败",
+          "compensatory_strategies": "放大负面结论、质疑是否应该养狗",
+          "automatic_thoughts": "他永远不会被如厕训练好",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为胜任且可掌控的养犬者，被肯定为有能力",
+        "fear": "害怕被证实无能与失败，担心失去掌控并因此后悔养狗",
+        "defense_goal": [
+          "通过严格控制日程与加倍训练来防止失败；通过自我否定保持警惕以避免再次出错"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的训练者",
+          "object_representation": "难以掌控、频繁制造麻烦的被训练对象（狗）",
+          "linking_affect": "挫败、绝望、愤怒、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当狗在家里发生意外时",
+          "interpretation": "立即将一次意外等同于训练永久失败，并将失败归因于自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我否定的语句，语气低沉，反复强调“都是我的错”。"
+        },
+        {
+          "trigger_condition": "当咨询师引导其关注正向进步或建议记录成功时",
+          "interpretation": "认为正面证据不重要或不足以改变结论，继续坚持负面判断",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "提供看似理性的解释来否定正面证据，使用冷静但坚决的语气强调“这些成功不代表什么”。"
+        },
+        {
+          "trigger_condition": "当日程被打乱、无法按时带狗外出导致意外",
+          "interpretation": "将不可控的外部干扰视为灾难，并把情绪转移到狗身上",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "提高音量责备狗，情绪激烈；随后表达内疚与自责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感到训练看不到希望、质疑自己是否适合养狗、正面进步被负面事件掩盖"
+          ],
+          "outcomes": [
+            "挫败与绝望加重",
+            "压力水平升高",
+            "日常作息与清洁习惯受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（认为自己不称职）",
+            "将训练中的失误全面归因于自身",
+            "难以接纳小的成功与进步"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在狗于家中发生意外时，来访者通常会灾难化并跳到结论，产生强烈挫败和绝望，导致一天的心情与日程被破坏",
+          "unique_outcome": "在坚持严格作息的情况下（设定提醒并按时带狗外出），狗在户外完成如厕，来访者给予及时的奖励与表扬，情绪相对稳定，压力明显较低",
+          "reason": "不同做法：设定提醒并执行更一致的外出时间；不同支持：使用正向强化（奖励与表扬）；不同情境：节奏更可控、意外更少"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试多种训练方法与清洁流程",
+          "能维持并受益于更严格的作息安排（自我管理能力）",
+          "有两位兄弟姐妹可成为潜在支持资源",
+          "愿意进行现实检验与记录小成功，尝试调整认知"
+        ],
+        "negative_force": [
+          "灾难化与跳到结论的思维倾向",
+          "过度概括与非黑即白思维",
+          "自我否定与失败者自我图式",
+          "压力高、倾向忽视正面证据（只关注负面）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在狗发生室内意外时出现强烈愤怒与自责并大声斥责",
+          "antecedent": [
+            "狗在室内发生意外",
+            "早晨刚起床尚未开始日常流程时发现脏乱",
+            "分心或忙碌导致未按时带狗外出",
+            "看到需要清理的污渍与气味"
+          ],
+          "core_reason": "将一次意外灾难化并过度概括为训练永久失败，进而将失败归因于自我无能",
+          "function": "释放内在紧张与焦虑以获得短暂的控制感，并回避无助与失败感",
+          "consequence": "加剧压力与绝望，破坏一天的心情与日常作息，负面互动不利于训练成效"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 335
+}

@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34岁",
+      "name": "陈莎",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "重视家庭关系，拥有支持性的家庭",
+      "social_status": "人际关系总体积极，但主观感受为“难以被真正欣赏”",
+      "medical_history": "无显著既往病史；无过往心理治疗经历",
+      "language_features": "表达清晰，逻辑性好，能自我反思；语气谦逊，开场略感紧张但合作度高；能识别并描述情绪与自动化思维，倾向于淡化自身成就"
+    },
+    "main_problem": "我觉得人们之所以觉得我聪明，是因为我读了很多书，而任何人都能像我一样读书，这让我感到不被真正欣赏、缺乏认可。",
+    "topic": "自我探索",
+    "core_demands": "这些不被欣赏的感受正在影响我的自我价值与自信，因此寻求咨询；希望继续探索这些感受，并学习改变看法、用不同视角看待自己。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有什么特别的价值",
+        "他人的认可并不等于真实地看见我"
+      ],
+      "special_situations": [
+        {
+          "event": "当他人夸赞她“很聪明/读书多”时",
+          "conditional_assumptions": "如果别人赞美我只是因为读得多，就说明我并不真正优秀；接受夸奖会显得不谦虚",
+          "compensatory_strategies": "当场淡化或否认自己的优点，强调“这不算什么，大家都能做到”，回避继续谈论",
+          "automatic_thoughts": "他们并不了解我；这不值得被称赞",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在社交场合被他人以“读很多书的人/因此很聪明”来介绍或评价时",
+          "conditional_assumptions": "如果别人只看到我读得多，就说明我其他方面没有价值、我是普通的",
+          "compensatory_strategies": "减少自我呈现，回避谈论自己其他长处或独特性",
+          "automatic_thoughts": "他们只看表面，不会看到真正的我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在回顾自己的成就或收到积极反馈之后",
+          "conditional_assumptions": "保持谦虚就不应该把自己的成就当回事",
+          "compensatory_strategies": "只关注不足与可以改进的部分，自动否定正面反馈",
+          "automatic_thoughts": "这些成就没有价值，不代表我的能力",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在咨询中被邀请将阅读习惯视为一种独特优势时",
+          "conditional_assumptions": "如果我承认这是优势，就会显得自大或不真诚",
+          "compensatory_strategies": "使用模糊与弱化的表达（如“可能”“有点勉强”）来降低自我肯定的强度",
+          "automatic_thoughts": "这样说不真诚，会显得我在自夸",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地看见与被肯定",
+        "fear": "害怕因表达自豪或接纳称赞而被视为自大、不谦虚，进而被否定或关系受损",
+        "defense_goal": [
+          "通过保持谦逊与淡化自我以确保关系中的安全与被接纳",
+          "避免直接表现被看见与被赞赏的需要"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被低估的、普通的自己",
+          "object_representation": "只看表面、无法真正了解我的他人",
+          "linking_affect": "被忽视、失落、被轻视感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人肯定她的优势、建议将阅读视为强项时",
+          "interpretation": "认为肯定并不代表对“真实自我”的了解，接受夸奖会显得不谦虚",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平和、客观的语气强调“这只是读得多”，用事实与普遍性淡化个人价值，回避直接表达被看见与被肯定的渴望。"
+        },
+        {
+          "trigger_condition": "当被邀请表达自豪感或直接肯定自己时",
+          "interpretation": "如果表达自豪会被评价为自夸，从而被贬低或疏远",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“只是/不过/其实”等词缩小成就，强调他人也能做到，或转移话题以避免深入。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉“他们不真正了解我”",
+            "在被赞美时仍觉得不被看见",
+            "长期以来感到不被真正欣赏"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "自信降低",
+            "在关系中体验到被忽视与疏离感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "内在规则为“应该谦虚、不要寻求别人的认可”",
+            "收到称赞时自动淡化自我、否定正面反馈"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "小心翼翼地接受他人肯定，频繁自我否定“我只是普通，没什么特别”",
+            "谈论自身优势时显得拘谨，使用“可能/也许/有点勉强”等弱化性表述"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭与良好社会支持",
+          "人际关系总体积极",
+          "具备自我反思与洞察能力，能识别负性自动化思维",
+          "愿意尝试新的视角与练习，动机良好",
+          "稳定的阅读习惯与学习能力，可转化为可见的优势"
+        ],
+        "negative_force": [
+          "持续的“否定正面”与“心理过滤”倾向，难以接纳正向反馈",
+          "过度强调谦逊的内摄规则，回避被认可",
+          "自我价值受他人评价影响，担心被视为自夸（外部验证取向）",
+          "自动贬低成就，降低自我效能感与自信",
+          "在被赞美时倾向于回避或弱化自我呈现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在被他人称赞或提及读书习惯时，立即贬低与否定自我成就并回避接纳肯定",
+          "antecedent": [
+            "他人对其阅读习惯或聪明的称赞",
+            "谈及个人成就或优点的话题"
+          ],
+          "core_reason": "内化的谦逊规则（不寻求认可）、核心信念“我没有特别价值”，以及对“接受赞美会显得自夸或不真诚”的担忧",
+          "function": "逃避被评价为自大或不真诚的不适，维持谦逊的自我形象",
+          "consequence": "自我价值感被削弱，自信下降，持续体验到“不被真正欣赏”的感受"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1467
+}

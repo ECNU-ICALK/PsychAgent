@@ -1,0 +1,221 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21岁",
+      "name": "安莉",
+      "gender": "女性",
+      "occupation": "音乐人",
+      "educational_background": "自5岁起接受系统的音乐课程",
+      "marital_status": "单身",
+      "family_status": "独居；最好的朋友在一个乐队",
+      "social_status": "与最好的朋友的关系因焦虑而紧张；通常向其寻求帮助但难以开口谈自责和焦虑",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题与治疗史",
+      "language_features": "表达清晰，能具体描述自动化思维与情绪；配合度好，态度积极；习惯使用自责性表述，易聚焦于负面评价"
+    },
+    "main_problem": "我持续感到对自己创作的歌曲质量负有压力与责任，进而产生自责与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "压倒性的自责与焦虑开始影响我的创造力和对音乐的整体享受，这就是我现在寻求咨询的原因。",
+    "growth_experiences": [
+      "自5岁起接受系统的音乐训练与课程，长期在音乐领域发展，这一专业化训练构成了来访者的自我认同与职业路径基础。",
+      "将音乐作为职业后压力增大，近一年明显加剧；在一次现场演出中，一首歌收到负面反馈成为明显转折点，引发持续的自我怀疑与焦虑，表现为创作与演出前强烈不安、睡眠受扰、注意力受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只要作品不够好，都是我的错",
+        "我不够有才华/不够好",
+        "失败就说明我不适合做音乐（失败=全盘否定）"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次现场演出中，一首歌收到负面反馈",
+          "conditional_assumptions": "如果作品被负面评价，就证明我不够有才华、不适合做音乐",
+          "compensatory_strategies": "不断寻求他人反馈并与成熟音乐人比较，强化自我批评以求“避免再失败”",
+          "automatic_thoughts": "他们不再把我当回事了，我不适合做音乐。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在创作新歌的过程中",
+          "conditional_assumptions": "如果作品达不到很高标准，那就是失败",
+          "compensatory_strategies": "反复修改与自我否定、增加自我压力以逼迫完美",
+          "automatic_thoughts": "这首歌不够好，我又失败了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "演出前想象观众的反应",
+          "conditional_assumptions": "如果我犯错或作品一般，观众就会讨厌我、我会让所有人失望",
+          "compensatory_strategies": "过度预演最坏情形、过度紧张与自我监控以求避免差错",
+          "automatic_thoughts": "观众会讨厌这首歌，觉得它很无聊，我会让大家失望。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到以积极为主但包含少量消极意见的反馈",
+          "conditional_assumptions": "负面评论更真实、更能代表作品整体水平",
+          "compensatory_strategies": "忽视正面信息、只盯着负评进行反复思考",
+          "automatic_thoughts": "那些负面评价说明我的作品总体很差。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被认真对待为一名有才华的音乐人，作品被喜欢并获得肯定",
+        "fear": "害怕失败与被否定，担心不被当回事、被贬低或排斥",
+        "defense_goal": [
+          "通过把责任全部揽在自己身上来获得控制感并预防外界指责",
+          "维持完美标准以避免被批评",
+          "减少在关系中暴露脆弱，降低求助以避免显得“不够好”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够有才华、容易让他人失望的人",
+          "object_representation": "苛刻的评判者/挑剔的观众或权威",
+          "linking_affect": "羞耻、焦虑、恐惧"
+        },
+        {
+          "self_representation": "难以表达脆弱、担心麻烦他人的人",
+          "object_representation": "可能不理解或会被我拖累的朋友",
+          "linking_affect": "内疚、疏离、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或回想起负面反馈、作品被批评或不被喜欢时",
+          "interpretation": "将他人的建设性反馈体验为对自我价值的全面否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责和道歉式语言，反复强调“都是我的错”，忽视情境与多元原因。"
+        },
+        {
+          "trigger_condition": "在演出前或会谈中讨论潜在观众反应时",
+          "interpretation": "把内在的自我怀疑与苛刻评判归于观众，假定他人会贬低自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用“他们会讨厌我/觉得我不行”等句式，固着于他人心态的臆测，回避探索自身真实需要与界限。"
+        },
+        {
+          "trigger_condition": "当被邀请辨别事实与评价、或被引导注意积极反馈时",
+          "interpretation": "自动把外界高标准与他人评价内化为必须遵循的绝对规则",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“我必须/应该……”等规则化语言，坚持完美标准，难以接纳灰度与弹性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将作品质量的全部责任归于自己，体验到沉重的内在“必须”和责任",
+            "害怕犯错等同于不适合做音乐"
+          ],
+          "outcomes": [
+            "高度焦虑与自责",
+            "完美主义倾向",
+            "睡眠紊乱与注意力受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，主要支持来源为乐队中的最好的朋友",
+            "难以与朋友讨论自责与焦虑"
+          ],
+          "outcomes": [
+            "支持系统使用不足",
+            "关系紧张与疏离感增加",
+            "焦虑维持"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自责与焦虑开始削弱对音乐的享受与创造力"
+          ],
+          "outcomes": [
+            "创作受阻与动力下降",
+            "演出前恐惧与自我怀疑增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次以自责方式描述问题（“都是我的错”），对自我评价严苛",
+            "表达时谨慎、担心让他人失望"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在会谈中假设观众会讨厌歌曲或觉得无聊，将内在自我怀疑归因于他人的负面评价"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“如果作品不好就是我的错”等外界标准内化为绝对规则，难以灵活调节"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在创作新歌或演出前，安莉通常会被自责与焦虑困住，出现强烈自我怀疑、睡眠被打乱、并在表演和专注上受影响。",
+          "unique_outcome": "在以往的几次演出中，尽管演出前非常担心，但当天演出进行得不错，整体表现超出预期。",
+          "reason": "不同理解/做法：临场时提醒自己对音乐的热爱，并回忆过往成功经验，从而缓冲了自我怀疑的强度。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对音乐的热爱与长期系统训练（自5岁起）",
+          "曾有表现良好的演出经历，可作为信心与证据资源",
+          "愿意尝试新策略（如记录正向反馈与成功经验），对改变持开放态度",
+          "具备潜在的社会支持（最好的朋友在乐队）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白、个人化等认知偏差显著",
+          "过度聚焦负面评价并忽视积极信息，与成熟音乐人反复比较",
+          "通过将责任全部揽于自身以获取控制感，导致持续自责",
+          "睡眠紊乱与注意力受损，形成焦虑—功能受损的恶性循环",
+          "在关系中难以表达脆弱，支持资源未被充分利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "创作与演出前的高度焦虑与自责（伴随反复自我否定言语）",
+          "antecedent": [
+            "开始创作新歌",
+            "演出前临近时段",
+            "想到可能出现的负面反馈或错误"
+          ],
+          "core_reason": "对失败的灾难化解读与“如果作品不好都是我的错”的核心信念；与成熟音乐人比较带来的自卑与完美主义标准。",
+          "function": "逃避潜在失败与外部评判，以自责获取暂时的控制感与安全感",
+          "consequence": "创造力下降、舞台表现受影响、睡眠被打乱与注意力下降，进一步加重焦虑"
+        },
+        {
+          "behavior": "选择性关注负面反馈并反复沉思",
+          "antecedent": [
+            "收到他人对作品或演出的反馈",
+            "回顾演出和作品被评价的情境"
+          ],
+          "core_reason": "心理过滤与否定积极信息的认知模式；将外界苛刻标准内摄为自我评价准绳。",
+          "function": "维持自我警觉以“避免再犯错误”，试图通过自我批评来预防风险",
+          "consequence": "自我怀疑加深、人际关系紧张（与最好的朋友关系受影响）、焦虑维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 854
+}

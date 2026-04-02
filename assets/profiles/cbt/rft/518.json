@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "65",
+      "name": "张慧兰",
+      "gender": "女",
+      "occupation": "图书管理员",
+      "educational_background": "图书馆学硕士",
+      "marital_status": "离异",
+      "family_status": "独自与两只猫同住",
+      "social_status": "有少数朋友可倾诉，但尚未分享关于阅读压力的困扰；近来为增加阅读而减少与同事的互动，关系趋于紧张、倾向自我隔离",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题史；未接受过心理治疗/咨询",
+      "language_features": "表达清晰，能具体描述触发情境与感受；思路连贯；自我评价偏低、常用“应该”式自我要求；对改变持保留与怀疑，但能配合角色扮演练习"
+    },
+    "main_problem": "我想讨论的主要问题是我感到必须读更多书的压力，这导致了压力和不足感。",
+    "topic": "情绪管理",
+    "core_demands": "我需要找到一个更好地管理这些感受的方法。",
+    "growth_experiences": [
+      "离婚后长期体验到内疚与自我不足感；在有家庭参与的社交场合或结识新朋友时，担心他人认为自己没有孩子是自私的，从而产生被评判的不安全感与羞耻感；倾向通过回避此类社交来减少不适，这种模式逐渐影响到工作与日常生活。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够称职/不够有知识和热情，胜任不了图书管理员的角色",
+        "我不够好",
+        "我的价值取决于与他人的比较（尤其是阅读量与知识面）"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同事大量阅读，或他人在讨论新书/新发行作品时",
+          "conditional_assumptions": "如果我读得不如他们多，就说明我不称职、不够好",
+          "compensatory_strategies": "制定严格的阅读计划、加入读书会、牺牲社交时间加班阅读",
+          "automatic_thoughts": "我应该读更多，否则我就是不称职。",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "将自己与同事在阅读量和涉猎范围上进行比较",
+          "conditional_assumptions": "如果我没有达到或超过同龄同事的水平，就等于失败",
+          "compensatory_strategies": "设定更高、更不现实的阅读目标以追赶他人",
+          "automatic_thoughts": "我落后了，我不如他们。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "未完成不切实际的阅读目标",
+          "conditional_assumptions": "如果达不到目标，就证明我能力不足、不够专业",
+          "compensatory_strategies": "自责与苛责自己，缩减社交继续逼迫自己阅读",
+          "automatic_thoughts": "我失败了，我不行。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在有家庭聚集的社交场合或结识新朋友",
+          "conditional_assumptions": "如果我没有孩子，别人会认为我自私、不值得尊重",
+          "compensatory_strategies": "回避此类社交场合，更多投入工作或阅读来逃避评判",
+          "automatic_thoughts": "他们会觉得我自私。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被接纳为专业且有价值的人，能在社交中被平等对待",
+        "fear": "害怕被评判为不称职或自私，从而被拒绝或贬低",
+        "defense_goal": [
+          "通过疏离与回避减少被评判的机会以维持安全感",
+          "通过设定高标准和过度努力来抵消不足感、争取外界认可"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被比较与评判的不足者/不称职者",
+          "object_representation": "挑剔、标准苛刻的评审者（同事、受众）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        },
+        {
+          "self_representation": "在社交场合中格格不入、可能被指责为自私的局外人",
+          "object_representation": "会按是否有孩子来评断人的群体/陌生人",
+          "linking_affect": "不安、恐惧、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行自信表达（自信/assertive）沟通的角色扮演练习时",
+          "interpretation": "将练习视为一次可能暴露自身不足、难以胜任的考验，担心失败被评判",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "语气温和而具体，采用小步推进与正向强化；先示范后邀请跟做，强调“练习不是考试”，接纳来访者的迟疑，给予可操作的句型与即时反馈。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为增加阅读而减少与同事互动、回避有家庭参与的社交场合",
+            "虽有朋友但未分享自身压力，倾向独自承受"
+          ],
+          "outcomes": [
+            "人际关系紧张、孤立感增强",
+            "负性情绪累积，进一步影响工作表现与睡眠饮食"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“应该”与僵化标准要求自己（作为图书管理员必须读更多）",
+            "将外界职业规范内化为自我价值的唯一衡量"
+          ],
+          "outcomes": [
+            "内疚与自我批评增加，体验自由度下降",
+            "持续的压力与不足感，难以自我接纳"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“我应该读更多”的自我要求",
+            "将行业/同侪标准直接当作自我价值评估依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "对改变持怀疑（如“我不确定能不能做到”“不指望有奇迹”）",
+            "在练习前过度担心失败、谨慎表达、倾向自我苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备稳定的职业与专业背景（图书馆学硕士），对阅读有基础兴趣与能力",
+          "愿意尝试新方法（如角色扮演练习），对改变保持一定开放性",
+          "能清晰识别触发情境与自动化思维（如“应该”句式）",
+          "曾主动寻求策略（制定阅读计划、加入读书会）",
+          "拥有一定的社会支持（有几位可以倾诉的朋友）"
+        ],
+        "negative_force": [
+          "强烈的“应该”式自我要求与僵化标准",
+          "显著的社会比较倾向，过度依赖外部评价",
+          "回避社交以逃避被评判，导致孤立与负性情绪加重",
+          "设定不切实际目标后自我批评，易陷入全或无思维",
+          "持续压力影响睡眠与饮食，进一步削弱功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交场合（尤其是有家庭参与或需要结识新人的聚会）",
+          "antecedent": [
+            "身处有家庭参与的社交环境",
+            "需要与新认识的人交谈"
+          ],
+          "core_reason": "担心他人因自己没有孩子而认为自己自私、被评判与贬低（读心式推断与羞耻恐惧）",
+          "function": "逃避被评判与由此引发的不适情绪",
+          "consequence": "人际关系趋于疏离与紧张，孤立感增强并波及工作与日常功能"
+        },
+        {
+          "behavior": "以“应该读更多”为导向设定过高阅读目标，未达成后自责与内疚",
+          "antecedent": [
+            "看到同事读很多或他人讨论新书/新发行作品",
+            "面对工作中与新书讨论相关的情境"
+          ],
+          "core_reason": "通过与同侪比较形成“我不称职”的核心信念，试图以过度努力弥补不足并获得认可",
+          "function": "通过过度投入获取控制感与外部认可，短期缓解不足感",
+          "consequence": "压力升高、内疚与自我批评加剧，伴随睡眠与饮食受影响，工作表现下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 518
+}

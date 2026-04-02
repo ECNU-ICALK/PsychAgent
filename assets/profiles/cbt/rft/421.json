@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "林佳宁",
+      "gender": "女",
+      "occupation": "自由职业会计师",
+      "educational_background": "会计学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有少数可交谈的熟人，但不愿谈及社交焦虑；因害怕被评价而回避社交活动，感到孤立与孤独",
+      "medical_history": "大学时期被诊断为轻度强迫症；无重大躯体疾病；曾尝试暴露疗法与放松技术，进展有限",
+      "language_features": "表达清晰、逻辑性较好，能识别与描述自动化思维和生理反应；配合度良好，态度中性，愿意尝试分步练习"
+    },
+    "main_problem": "在社交场合会僵住，导致难以建立关系（尤其是长期关系），因此逐渐回避社交并感到孤立与孤独。",
+    "topic": "人际关系",
+    "core_demands": "希望改善社交焦虑与“僵住”反应，提升社交互动能力，从而形成有意义且持久的关系，并促进个人成长。",
+    "growth_experiences": [
+      "大学时期在结识新人的压力下开始出现社交场合“僵住”的症状，并被诊断为轻度强迫症；最初压力水平中等，随后因害怕被评判与拒绝，逐步回避社交聚会，长期以来自觉孤立与孤独。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被接纳（别人不会喜欢我）",
+        "我注定无法建立长期关系"
+      ],
+      "special_situations": [
+        {
+          "event": "参加朋友的聚会，刚到场时看到许多不熟悉的人",
+          "conditional_assumptions": "如果我说错话或显得尴尬，别人就会觉得我很愚蠢并排斥我",
+          "compensatory_strategies": "靠近出口、减少眼神接触、避免主动开启谈话，随时准备离开",
+          "automatic_thoughts": "大家都在打量我、觉得我很笨拙；我会出丑",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "参加大型社交或职场社交/拓展活动（认识的人很少）",
+          "conditional_assumptions": "如果我不能表现得自然得体，就会被厌烦，没有人愿意和我说话",
+          "compensatory_strategies": "提前取消或推迟决定，干脆不去以避免难堪",
+          "automatic_thoughts": "我一定会很尴尬、没人理我，最后变成笑话",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在计划或想到即将参加社交活动时（尚未出门）",
+          "conditional_assumptions": "如果去参加就会失控、僵住，让自己难堪",
+          "compensatory_strategies": "反复设想最坏结果以说服自己取消，转而选择独处或工作",
+          "automatic_thoughts": "我会僵住，场面会很糟糕",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并建立稳定、长期的亲密关系",
+        "fear": "害怕被评判、羞辱与拒绝，担心在关系中显得笨拙而被否定",
+        "defense_goal": [
+          "通过回避社交与保持距离来降低焦虑并避免被拒绝",
+          "以谨慎与过度准备来控制风险，减少暴露于潜在羞辱的机会"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、容易出丑的局外人",
+          "object_representation": "挑剔、爱评判、容易拒绝人的他者",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行逐步暴露或现实检验、邀请制定行动计划时",
+          "interpretation": "担心一旦失败就会更糟，潜意识把咨询师的推动体验为把自己置于可能被羞辱的境地（移情：外界/重要他人是苛刻的评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎、婉转的语气表达担忧，强调“不要推得太快”“失败会更糟”，提出延期或缩小任务的建议。"
+        },
+        {
+          "trigger_condition": "当咨询师追问“有什么证据支持别人都在评判你”时",
+          "interpretation": "将内在的自我否定体验为他人的负面看法（移情：他人会贬低我）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用较确定的语气陈述对方想法（如“他们一定觉得我……”），不举具体证据，转而强调主观感受与担忧。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕被评价而回避社交聚会与人脉活动，社交网络缩小",
+            "在聚会上靠近出口、难以开启对话，事后自觉孤立与孤独",
+            "怀疑自己能否形成长期关系"
+          ],
+          "outcomes": [
+            "持续的社交回避与焦虑",
+            "难以建立长期关系",
+            "孤独感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中多次强调不要“推得太快”，担心失败后更糟",
+            "需要将目标拆分为更小步骤才愿意尝试",
+            "在进入社交接触前反复预演和自我评估，谨慎进入互动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在叙述社交场景时将他人的评判视为确定事实（如“大家都在评判我”）",
+            "缺乏证据仍坚持主观判断，对外界反应高度负性解读"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作表现稳定，具有一定的自我管理能力",
+          "对思维偏差有一定觉察（承认缺乏证据支持“大家都在评判我”）",
+          "愿意尝试小型聚会与分步练习，认可现实检验与逐步暴露",
+          "拥有少量可交谈的熟人，存在潜在支持资源"
+        ],
+        "negative_force": [
+          "灾难化、读心术、预测未来、心理过滤与否定积极等认知偏差显著",
+          "对被评判与被拒绝的强烈恐惧，形成回避循环",
+          "在社交场合出现明显生理焦虑反应（心跳加快、手心出汗）",
+          "长期回避维持“我不被接纳/无法建立长期关系”的消极图式"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合出现“僵住”并回避互动",
+          "antecedent": [
+            "大型社交聚会或职场社交/拓展活动",
+            "想到即将参加此类活动",
+            "置身多数陌生人的环境"
+          ],
+          "core_reason": "对被评判与被拒绝的高度担忧，伴随读心术与预测未来等自动化思维，导致焦虑迅速升高",
+          "function": "逃避不受欢迎的情境与情绪（羞耻、焦虑），以获得即时的紧张缓解",
+          "consequence": "减少或避免社交活动，关系建立受阻，长期孤立与孤独感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 421
+}

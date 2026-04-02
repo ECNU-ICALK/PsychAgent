@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "王一凯",
+      "gender": "男",
+      "occupation": "应届大学毕业生",
+      "educational_background": "本科",
+      "marital_status": "单身",
+      "family_status": "与家人同住",
+      "social_status": "与亲友关系受到影响（避免分享成就）",
+      "medical_history": "膝盖手术；无其他重大躯体疾病；无心理治疗史",
+      "language_features": "表达清晰、逻辑连贯，态度中性，配合度较高；倾向将情感与认知分离，避免向亲友分享私密感受"
+    },
+    "main_problem": "我觉得被录取去海外打篮球并不是重要的成就，这导致我产生自我不足感并低估自己的成果。这些感受在膝盖手术后开始，在想到篮球机会时会反复出现。",
+    "topic": "职业发展",
+    "core_demands": "我意识到自己不断贬低成就正在影响自我价值感和动力，因此寻求咨询。",
+    "growth_experiences": [
+      "在膝盖手术之后，开始出现将自身成就贬低的倾向：即使被录取赴海外打球，也觉得并非重要成就；此前没有类似心理问题或治疗经历，这种想法在每次想到篮球机会时重复出现并影响日常动力。",
+      "高个身材加剧了上述感受：倾向将机会归因于身高而非个人努力，从而进一步低估自己的成就。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的成就不重要、不值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "每次想到自己被录取去海外打篮球的机会",
+          "conditional_assumptions": "如果一个成就并非独一无二、好像人人都能做到，就不算真正的成就",
+          "compensatory_strategies": "不断提醒自己曾经努力，但随即否定其价值、淡化成就",
+          "automatic_thoughts": "这不算什么成就；任何人都能做到",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在与家人或朋友谈及自己的篮球成就时",
+          "conditional_assumptions": "如果分享成就会显得我在炫耀，那么就不应该谈论",
+          "compensatory_strategies": "回避讨论、淡化话题以维持“谦逊”的形象",
+          "automatic_thoughts": "谈这个像是在炫耀，还是别说了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对新的海外篮球机会（如申请或试训）",
+          "conditional_assumptions": "如果我没有十足把握证明自己很好，就不该全力投入，以免失败或被否定",
+          "compensatory_strategies": "犹豫不决、降低承诺与投入",
+          "automatic_thoughts": "我可能不够好，还是不要太投入",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾身高在运动中的作用时",
+          "conditional_assumptions": "如果我的优势来自身高而非努力，那么这类成就不算数",
+          "compensatory_strategies": "将成就归因于身高，忽视训练与付出",
+          "automatic_thoughts": "我之所以被录取只是因为我高",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定自己的价值（希望作为运动员的成就被正视）",
+        "fear": "害怕被评判为自夸或不够好，从而被否定",
+        "defense_goal": [
+          "通过淡化与贬低成就来避免他人负面评价",
+          "保持表面“谦逊”以降低焦虑与失败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要不断证明自己的年轻运动员",
+          "object_representation": "可能会认为我在炫耀、对我的成就持批评态度的他人（家人/朋友/大众）",
+          "linking_affect": "羞耻、焦虑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其肯定自己的成就、进行认知重构或积极自我陈述时",
+          "interpretation": "将自我肯定等同于炫耀，担心被评判，于是与情感保持距离，更多以理性陈述替代情绪体验",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "采用温和、共情且不评判的语气，先验证其不适，再以具体事实连接情感与成就，避免强迫其表态。"
+        },
+        {
+          "trigger_condition": "当被问及是否愿意与家人朋友分享自己的成就或接受赞赏时",
+          "interpretation": "认为他人会把自己视为炫耀者，于是对外表达转为自我压抑，并为回避分享寻找合理理由",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以探索式提问、温柔语气，邀请其区分“炫耀”与“真实分享”，鼓励用具体例证检视推论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "被录取去海外打球却觉得并非重要成就",
+            "反复贬低自己的成功",
+            "将身高视为机会来源而非个人努力"
+          ],
+          "outcomes": [
+            "自我价值感降低",
+            "动力不足",
+            "对职业机会投入犹豫"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与家人朋友讨论自己的成就",
+            "因不分享真实经历而与亲友产生距离"
+          ],
+          "outcomes": [
+            "人际疏离",
+            "主观孤独感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不与亲友分享成就、把表达欲转为自我压抑",
+            "在新机会面前犹豫，不把能量投向外部行动"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被视为炫耀而过度谨慎表达",
+            "频繁自我否定、用苛刻标准衡量成就"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "已被录取赴海外打篮球，具备客观实力与成就",
+          "能够识别并命名自己的认知偏差（否定正面、心理过滤）",
+          "愿意尝试新的视角与积极自我对话、感恩记录",
+          "拥有家人和朋友的潜在支持资源",
+          "具备持续训练与努力的经历"
+        ],
+        "negative_force": [
+          "持续贬低成就（否定正面、心理过滤）",
+          "显著的自我不足感与对被评判为炫耀的担心",
+          "回避分享与表达导致关系疏离",
+          "在新机会面前犹豫不决、降低投入",
+          "将成就过度归因于身高而忽视努力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续贬低自己的成就",
+          "antecedent": [
+            "想到海外打球机会",
+            "回顾身高与优势",
+            "听到他人提及自己的成绩或机会"
+          ],
+          "core_reason": "术后自我价值感受损，并在“否定正面”和“心理过滤”的认知偏差下将机会归因于身高而非努力，进而降低成就感",
+          "function": "逃避被认为炫耀或被否定的风险，维持表面的安全与“谦逊”形象",
+          "consequence": "自我价值感下降、动力不足、难以积极追求职业机会"
+        },
+        {
+          "behavior": "回避与亲友分享成就并在职业机会面前犹豫",
+          "antecedent": [
+            "与家人朋友的交流场景",
+            "面对新的申请或试训机会",
+            "被邀请进行自我肯定或表达成绩时"
+          ],
+          "core_reason": "担心被他人评判为炫耀，内在不安全感与自我不足感驱动回避",
+          "function": "逃避潜在的负面评价与失败风险",
+          "consequence": "人际关系疏远、错失或延迟职业机会、持续自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1172
+}

@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "67",
+      "name": "王秀珍",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "在新城镇仅有少数熟人，因担心被外貌评判而限制社交；不愿与熟人讨论自己的焦虑与自卑。",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或咨询；此前未出现类似问题。",
+      "language_features": "表达清晰，能辨识假设与事实；愿意合作、态度积极；在社交情境下感到焦虑与自我关注；带有自我苛责的“应该”表述。"
+    },
+    "main_problem": "因自己是东亚人而担心他人会拿自己的外貌开玩笑，产生焦虑与强烈的自我意识；这些感受在几个月前搬到新城镇后加重，并因此回避社交。",
+    "topic": "人际关系",
+    "core_demands": "这些恐惧正在影响我在新城镇社交和享受日常活动的能力。",
+    "growth_experiences": [
+      "曾因刻板印象与歧视而受到负面对待（来访者自述，未提供具体细节），由此形成对被嘲笑与被评判的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被他人接纳。",
+        "他人会因为我的外貌/族裔而贬低我。"
+      ],
+      "special_situations": [
+        {
+          "event": "参加社区活动时面对陌生人群",
+          "conditional_assumptions": "如果在陌生人面前露面，他们会因为我的东亚外貌取笑或评判我；被评判就意味着我不被接纳。",
+          "compensatory_strategies": "减少交流、保持低调、提前离开活动以避免被嘲笑。",
+          "automatic_thoughts": "他们一定在看着我、在笑我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "走进本地咖啡馆时，注意到有人朝自己方向看",
+          "conditional_assumptions": "如果有人看向我或彼此低语，一定与我的外貌有关，并且是在嘲笑。",
+          "compensatory_strategies": "避免与他人目光接触，快速离开。",
+          "automatic_thoughts": "他们在嘲笑我的长相。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "在需要与新认识的人打交道的场合（如社交聚会、用餐）",
+          "conditional_assumptions": "如果与陌生人互动，他们会带着刻板印象对待我，最终会发生令我难堪的事。",
+          "compensatory_strategies": "回避社交聚会或减少外出。",
+          "automatic_thoughts": "一旦去，肯定会被人取笑或看不起。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在公共场合听到他人窃笑或低语",
+          "conditional_assumptions": "如果周围有人在笑或说话，那通常是针对我。",
+          "compensatory_strategies": "自我责备并迅速撤离现场。",
+          "automatic_thoughts": "他们在说我，因为我看起来不对劲。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被平等接纳与尊重，能在新环境中自在地与人接触",
+        "fear": "害怕被嘲笑、羞辱与排斥",
+        "defense_goal": [
+          "通过回避与保持距离来降低被伤害与羞辱的可能",
+          "以自我批评来先发制人，试图控制被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "格格不入、容易被取笑的局外人",
+          "object_representation": "带有刻板印象、会评判或嘲笑自己的他人",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬到新城镇后感到格格不入",
+            "在陌生人群中觉得自己被评判、与他人隔离",
+            "因担心被嘲笑而回避社交与公共活动"
+          ],
+          "outcomes": [
+            "社交回避与孤立",
+            "焦虑水平升高与自我意识过强",
+            "日常活动的享受感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "在会谈中使用“我应该处理得更好/我有问题”等自责性的‘应该’表述"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在叙述社交场景时假定他人的目光与低语是针对自己外貌的嘲笑或评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助并积极配合",
+          "具备自我反思能力，能够区分假设与事实",
+          "对自身文化持有自豪感，愿意用积极视角重构经验"
+        ],
+        "negative_force": [
+          "读心术与预测未来等认知歪曲显著",
+          "个人化与灾难化倾向导致对评价的高敏感",
+          "回避社交以短期缓解焦虑，维持问题循环",
+          "自我苛责的‘应该’信念加剧羞耻与焦虑",
+          "新环境社交支持有限，强化孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交场合并提前离开",
+          "antecedent": [
+            "搬到新城镇后需要参加社区活动或外出用餐",
+            "与陌生人接触、注意到他人目光或低语"
+          ],
+          "core_reason": "基于以往歧视经历与刻板印象的影响，倾向将他人目光解读为嘲笑，并对被羞辱的结果作灾难化预期。",
+          "function": "逃避被评判/被羞辱的潜在威胁，从而迅速降低焦虑",
+          "consequence": "社交受限、日常活动乐趣下降、孤立与不适应新环境"
+        },
+        {
+          "behavior": "在公共场合出现显著焦虑与自我意识过强",
+          "antecedent": [
+            "与新认识的人互动",
+            "进入公共场所并感到格格不入"
+          ],
+          "core_reason": "读心术、个人化与预测未来的自动思维触发，对被嘲笑的可能性高估。",
+          "function": "通过高度自我监控与警觉来避免潜在的羞辱或失控",
+          "consequence": "紧张不适并进一步回避，维持焦虑循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1824
+}

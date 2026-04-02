@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "乔思琳",
+      "gender": "女",
+      "occupation": "餐厅经理",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "已婚，育有两个孩子",
+      "family_status": "家庭支持性强，彼此互相帮助",
+      "social_status": "未提及",
+      "medical_history": "无重要躯体疾病；既往未接受心理治疗；未有类似问题史",
+      "language_features": "表达清晰，能自我反思，配合度高，态度积极；在谈及上司与反馈时表现出显著焦虑"
+    },
+    "main_problem": "我对与上司的关系感到矛盾：我厌恶他，但又担心他对我的工作伦理的看法。这些感受始于一年前我承担更多职责后；在我犯错时加剧，我几乎每天在与上司互动或收到绩效反馈后感到焦虑，压力持续影响我的工作表现。",
+    "topic": "职业发展",
+    "core_demands": "这些矛盾的感受已影响我的心理健康和工作表现，我感到不堪重负，因此寻求咨询，希望缓解焦虑、改善工作表现并更客观地看待上司对我的看法。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任",
+        "我的价值取决于上司的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "上司在项目反馈中以严厉语气指出我在工作中的错误",
+          "conditional_assumptions": "如果被批评或语气严厉，就说明我是不称职的、不是勤奋工作者",
+          "compensatory_strategies": "试图更用力控制情绪、加倍谨慎以避免再犯错",
+          "automatic_thoughts": "他觉得我不称职/不是勤奋的人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当我在工作中出现失误",
+          "conditional_assumptions": "如果我犯错，老板会认为我不够努力，我就是不行",
+          "compensatory_strategies": "过度自我监控、加班加点以证明自己",
+          "automatic_thoughts": "我让他失望了，他会觉得我不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "老板多次指出错误且很少表扬我的工作",
+          "conditional_assumptions": "如果没有被表扬，说明我的努力没有价值",
+          "compensatory_strategies": "不断反刍负面反馈，忽视正面信息",
+          "automatic_thoughts": "他只看到我的问题",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与上司互动或收到绩效反馈后",
+          "conditional_assumptions": "只有得到上司的认可，我才是有价值的员工",
+          "compensatory_strategies": "通过承担更多任务、提高产出来寻求认同",
+          "automatic_thoughts": "如果他不认可我，我就失败了",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被上司认可与看见，被视为勤奋且胜任",
+        "fear": "害怕被否定、被视为不称职，从而影响工作稳定与人际关系",
+        "defense_goal": [
+          "通过加倍努力与自我控制来避免批评并维持自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "担心被否定的员工",
+          "object_representation": "严厉、挑错且少表扬的上司",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被咨询师询问证据、并共同设计以数据检验信念的行为实验时",
+          "interpretation": "倾向认为需要用事实与数据证明自身价值，从而回避直接触及情绪体验",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用冷静、理性、结构化的语气，强调数据与事实，尽量减少对主观感受的描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与上司互动或收到批评时，来访者通常会认为上司不认可自己并产生显著焦虑，随后工作注意力下降、错误增多。",
+          "unique_outcome": "在一次特别忙的夜晚或完成复杂任务后，上司对她的成果给予了认可；她注意到并非所有时候上司都只看见错误，自己的努力在特定情境下被看到。",
+          "reason": "不同情境与证据：任务挑战度高、成果显著，形成可观察的正向结果；因此出现上司正向反馈，打破了以往“只被否定”的主导叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭支持性强，愿意倾诉并获得情感支持",
+          "愿意参与并执行行为实验，改变动机充足",
+          "能觉察到与负性信念相矛盾的证据（曾被认可）"
+        ],
+        "negative_force": [
+          "倾向读心术，揣测上司的负面看法",
+          "心理过滤，过度关注负面反馈",
+          "过度概括，将一次失误推及整体能力",
+          "过度依赖外部认可以确定自我价值"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与上司互动或收到负面反馈后出现显著焦虑与注意力下降",
+          "antecedent": [
+            "与上司互动",
+            "收到批评或严厉语气的反馈",
+            "工作负荷增加",
+            "在工作中出现失误"
+          ],
+          "core_reason": "担心被视为不称职/不勤奋，认知歪曲（读心术、过度概括、心理过滤）放大威胁感",
+          "function": "逃避负性评价与潜在惩罚，试图通过高度警觉与自我监控来减少错误",
+          "consequence": "工作表现受损、错误增多、与同事关系紧张、难以维持工作与生活平衡"
+        },
+        {
+          "behavior": "只关注负面反馈、忽视正向信息（心理过滤）",
+          "antecedent": [
+            "老板指出错误",
+            "缺乏即时表扬或认可"
+          ],
+          "core_reason": "核心信念“我不够胜任”与对外部认可的依赖使其对负面证据更敏感",
+          "function": "维持既有自我图式与预期一致，并通过自我批评促使加倍努力以求认可",
+          "consequence": "持续焦虑与自我否定，工作投入度与效率下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 59
+}

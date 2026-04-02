@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "78",
+      "name": "林悦文",
+      "gender": "女",
+      "occupation": "马拉松跑者",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与朋友的关系受到影响，倾向于回避非跑步或游泳的活动，体验到孤立感",
+      "medical_history": "无显著身体疾病；过去未接受心理治疗；既往无类似心理问题史",
+      "language_features": "起初持怀疑态度，但能清晰描述经历与感受；语气偏消极；在咨询末表示愿意尝试小步骤与自我同情；配合度尚可"
+    },
+    "main_problem": "我觉得自己只擅长跑步和游泳，其余方面都很差。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，在意识到这些对自己能力的消极信念正在影响我的动机和尝试新事物的意愿之后。",
+    "growth_experiences": [
+      "两年前在学校失败了一门课程并收到负面反馈，当时学业压力与失败感很强；此后该经历固化为对自我能力的负面信念（除了跑步和游泳外，我在其他方面都很差），逐步影响到自信与动机，导致在非跑步、非游泳的领域出现自我怀疑与回避新挑战；人际方面会避免与朋友一起参加不熟悉的活动；日常生活中对自我照顾的动机下降，常感到孤立与情绪低落。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的（除了跑步和游泳之外什么都不行）",
+        "一旦失败就说明我整体能力低下"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友邀请参加与跑步或游泳无关的活动",
+          "conditional_assumptions": "如果我不能在新活动中表现出色，别人就会看穿我的无能并评价我",
+          "compensatory_strategies": "回避社交邀约，减少参与不熟悉的活动",
+          "automatic_thoughts": "我会搞砸，大家会看出我很不行",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "尝试学习一项新的技能或兴趣",
+          "conditional_assumptions": "如果第一次没有成功，就证明我在这方面永远都不行",
+          "compensatory_strategies": "不再继续尝试，仅坚持跑步和游泳以维持自我价值感",
+          "automatic_thoughts": "一旦失败就说明我什么都不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "计划尝试做一道新菜谱",
+          "conditional_assumptions": "如果做不好就会失败并且丢脸",
+          "compensatory_strategies": "拖延或找理由不开始，避免进入新情境",
+          "automatic_thoughts": "我肯定会失败，没必要尝试",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想两年前课程不及格并收到负面反馈",
+          "conditional_assumptions": "一次学业失败足以说明我整体能力不足；只有在跑步和游泳上的成绩才算有价值",
+          "compensatory_strategies": "将时间和精力主要投入跑步与游泳以维持自尊，忽视其他领域可能的积极迹象",
+          "automatic_thoughts": "除了跑步和游泳我一无是处",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被看见为有能力，尤其是在新的或不熟悉的领域",
+        "fear": "害怕失败被他人看见与评判，伴随羞耻与失望",
+        "defense_goal": [
+          "通过回避新事物、只在熟悉领域表现以维持安全感与自我价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能且易被否定的人",
+          "object_representation": "挑剔、评判性的他人（同学、朋友、旁人）",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出选择一个小而可管理的活动，并练习自我同情与积极自我对话时",
+          "interpretation": "来访者倾向认为这些建议可能让自己的不足暴露，被他人与失败再次证明（将过往“被负面评价”的经验投射到当前建议上）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎、保留的语气强调担忧与失败可能性，使用“这对我来说很难”“我可能会放弃”等句式弱化行动承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免参加与跑步或游泳无关的朋友活动",
+            "没有向支持性的朋友敞开谈及无能感",
+            "独居，社交联系减少"
+          ],
+          "outcomes": [
+            "感到孤立与情绪低落",
+            "动机下降",
+            "对生活的满足感降低"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "消极信念限制了选择与尝试新事物的自由",
+            "害怕失败使行为选择范围受限"
+          ],
+          "outcomes": [
+            "回避行为增加",
+            "生活范围与体验缩小",
+            "自我价值被单一能力领域所束缚"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑，强调可能失败",
+            "难以相信自己，虽愿意尝试但顾虑重重",
+            "将注意力集中在潜在错误与负面后果上"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "谈及朋友活动或新技能时，将行动冲动压回自己，转为自我批评与拖延",
+            "以避免和退缩来应对不熟悉的接触情境"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在跑步和游泳领域具备稳定的能力与自律",
+          "有一位支持性的朋友",
+          "在咨询中表达愿意尝试小而可管理的步骤与练习自我同情",
+          "能够觉察负性思维并尝试设定小目标"
+        ],
+        "negative_force": [
+          "全或无思维、过度概括、灾难化等负性认知模式占主导",
+          "核心自我否定信念（除了跑步和游泳我什么都不行）",
+          "回避行为导致社交受限与孤立感增强、动机下降",
+          "对外部评价高度敏感，未向支持系统敞开"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与跑步、游泳无关的新活动与任务",
+          "antecedent": [
+            "面对朋友的活动邀请（非跑步/游泳）",
+            "尝试学习新技能",
+            "计划烹饪新菜谱",
+            "遇到任何不熟悉的任务或活动"
+          ],
+          "core_reason": "两年前的学业失败与负面反馈引发并固化了“我无能”的核心信念，伴随全或无思维、过度概括与灾难化预期，导致对失败与他人评价的高度恐惧",
+          "function": "逃避潜在失败与羞耻，避免他人负面评价，维持短期安全感与自尊",
+          "consequence": "与朋友关系受影响并减少社交，感到孤立与情绪低落，日常自我照顾与动机下降，错失发展与体验的机会"
+        },
+        {
+          "behavior": "负性自我对话与自我标签（如“我什么都不行”）",
+          "antecedent": [
+            "面对不熟悉的任务或活动",
+            "回忆学业失败与负面反馈"
+          ],
+          "core_reason": "内化的自我否定核心信念与心理过滤，持续强化自我贬低",
+          "function": "以降低期待和自我要求来获得短期的心理安慰，避免面对尝试与失败的焦虑",
+          "consequence": "自信心进一步削弱，增加回避行为，整体生活满意度与参与度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 69
+}

@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "柯凯",
+      "gender": "男性",
+      "occupation": "好莱坞有志男性模特",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无抚养对象",
+      "social_status": "与不理解行业压力的朋友保持距离；在模特行业有少数朋友可交流，但未向其透露自尊问题",
+      "medical_history": "18岁曾患泌尿系统癌症并痊愈；无心理治疗或心理问题既往史；目前健康状况良好",
+      "language_features": "首次咨询略紧张，但合作度高、表达清晰、逻辑连贯，态度积极并愿意尝试认知重构"
+    },
+    "main_problem": "在维持低碳饮食上反复受挫，因饮食失误而频繁进行负性自我标签（如“我是懦弱的胆小鬼”），影响自信与职业专注。",
+    "topic": "情绪管理",
+    "core_demands": "我想在犯错时不再把自己当失败者，重建自信，好让我专注于事业。",
+    "growth_experiences": [
+      "18岁时罹患泌尿系统癌症并战胜疾病，此后身体保持健康，无心理治疗史。",
+      "进入好莱坞模特行业后，近几个月在高压环境下难以持续遵守低碳饮食计划；饮食失误后负性自我标签与自我批评频繁出现，并逐渐影响职业专注与日常自我照护。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是软弱的/不够坚强",
+        "我不适合做这行",
+        "我终将失败"
+      ],
+      "special_situations": [
+        {
+          "event": "每次偏离低碳饮食计划（例如吃了不在计划内的食物）",
+          "conditional_assumptions": "如果我不能完全、持续地遵守饮食计划，就说明我没有意志力、我是失败者",
+          "compensatory_strategies": "试图更严格地控制饮食、寻求他人安慰与保证",
+          "automatic_thoughts": "我没有意志力，我是懦弱的胆小鬼",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到同行朋友或同事似乎“都能坚持计划、状态很好”",
+          "conditional_assumptions": "如果别人都能做到而我做不到，就证明我不如他们、不适合这个行业",
+          "compensatory_strategies": "比较后自我苛责、回避社交",
+          "automatic_thoughts": "我不如他们，我不适合做模特",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在试镜或工作准备等高压阶段，饮食坚持变得更困难",
+          "conditional_assumptions": "真正适合这行的人在压力下也能完美自律；如果我做不到，我就永远不会成功",
+          "compensatory_strategies": "用负面标签逼迫自己、寻求他人保证",
+          "automatic_thoughts": "我永远不会成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在朋友或同事面前出现饮食失误后",
+          "conditional_assumptions": "如果他们看到我的失误，他们会看不起我，认为我没用",
+          "compensatory_strategies": "减少与朋友联系、避免社交场合",
+          "automatic_thoughts": "他们觉得我是失败者",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被看见为自律、成功的人（获得行业与同伴的接纳）",
+        "fear": "害怕失败与不完美会招致他人的轻视与排斥，从而被否定价值",
+        "defense_goal": [
+          "通过严苛自我要求与自我批评来维持控制感、避免失败",
+          "回避社交以降低被评价的风险",
+          "寻求他人保证以暂时缓解不安与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能失败的弱者",
+          "object_representation": "苛刻挑剔、随时会否定自己的评判者（同伴/行业）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        },
+        {
+          "self_representation": "被误解的从业者",
+          "object_representation": "不理解行业压力的旁观者/朋友",
+          "linking_affect": "孤独、失望"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与不理解行业压力的朋友保持距离",
+            "饮食失误后回避社交互动"
+          ],
+          "outcomes": [
+            "社会支持减少",
+            "孤独感增强",
+            "自信下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "负面自我标签削弱自我价值感与目标感",
+            "在挫败后难以看到努力与进步"
+          ],
+          "outcomes": [
+            "动力降低",
+            "行为怠惰与回避",
+            "情绪波动加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外表达或寻求的行为冲动，转而对自己做（将能量由对外转向对内）。",
+          "manifestations": [
+            "饮食失误后将压力与挫败转为对自己的严苛批评与负面标签",
+            "减少与他人交流而将情绪内化"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "担心他人会看不起自己，把自我羞耻感归因于“他们会否定我”",
+            "在他人看起来状态良好时，假定他们对自己有负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制和苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用自我贬损的语言（如“我没有意志力”）",
+            "在社交与职业情境中过度自我评估，导致退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对职业目标有明确渴望与动力",
+          "愿意寻求帮助并尝试认知重构与自我同情练习",
+          "咨询态度积极、能觉察并愿意记录负面自动思维",
+          "在行业内有少数同伴资源可交流"
+        ],
+        "negative_force": [
+          "将自我价值与完美自律绑定的非黑即白思维",
+          "频繁的自我标签与灾难化未来预期",
+          "过度比较他人、寻求外部保证但效果有限",
+          "社交回避导致支持减少与孤独感增加",
+          "职业压力下自我苛责升级、情绪波动影响行动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "饮食失误后进行严厉的负面自我标签与自我批评",
+          "antecedent": [
+            "偏离低碳饮食计划",
+            "处于试镜/工作准备等高压阶段",
+            "看到同行坚持计划后产生比较"
+          ],
+          "core_reason": "将自我价值与完美自律绑定；为获得行业认可而灾难化失败，缺乏自我同情",
+          "function": "试图通过自我惩罚加强自控，同时逃避羞耻与失望感",
+          "consequence": "自信心受损、动机下降、工作专注度降低、情绪波动加剧"
+        },
+        {
+          "behavior": "寻求他人安慰与保证",
+          "antecedent": [
+            "饮食失误后出现自我怀疑与不安",
+            "与同伴比较后感到压力与紧张"
+          ],
+          "core_reason": "外部验证需求强，缺乏稳定的内部自我肯定来源",
+          "function": "短期获得安慰与认可以缓解焦虑与不确定感",
+          "consequence": "对他人保证产生依赖，长期难以建立稳定自我价值，负性自我标签持续"
+        },
+        {
+          "behavior": "社交回避",
+          "antecedent": [
+            "担心他人看到自己的失误并加以评价",
+            "与不理解行业压力的朋友互动前的羞耻与紧张"
+          ],
+          "core_reason": "预期被看不起或否定（读心与个人化倾向），出于自我保护而退缩",
+          "function": "逃避潜在负面评价与不适情绪",
+          "consequence": "社会支持减少、孤独感增强，问题维持化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1659
+}

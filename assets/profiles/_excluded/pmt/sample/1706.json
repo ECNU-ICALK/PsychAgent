@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "71",
+      "name": "谭海丽",
+      "gender": "女",
+      "occupation": "汽车制造行业从业者",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与财务稳定的朋友保持距离、社交减少；有少数朋友与同事可倾诉但谈财务不适",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；未有类似问题史",
+      "language_features": "表达清晰、条理较好；能合作并进行认知重构；态度积极；能够识别证据与替代观点"
+    },
+    "main_problem": "我持续觉得每年收入30k永远不可能买得起房，这让我感到绝望和不满。",
+    "topic": "情绪管理",
+    "core_demands": "因财务状况引发的压倒性绝望与不满影响日常生活和心理健康，希望借助咨询缓解并改善。",
+    "growth_experiences": [
+      "几年前开始考虑拥有房子后，基于年收入30k产生“买房几乎不可能”的想法；几乎每天在看到房地产广告或与朋友谈到他们的投资时被触发；随着看到同龄人进展并购买大件，问题逐渐加重；虽尝试预算和研究可负担房源，但无显著缓解；因此工作表现受影响，且因在财务稳定的朋友面前感到不够好而主动疏离，独居状态下谈及财务话题也感到不适。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的收入注定不足以实现买房目标",
+        "我在财务上不如他人，显得不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "看到房地产广告",
+          "conditional_assumptions": "如果房价很高而我年收入只有30k，就不可能买房",
+          "compensatory_strategies": "避免关注广告，或转而制定预算、研究更便宜房源以寻求掌控感",
+          "automatic_thoughts": "30k永远不够，买房对我来说不可能",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与朋友谈论他们的投资或购房",
+          "conditional_assumptions": "若我的财务状况不及朋友，就说明我不够好",
+          "compensatory_strategies": "远离财务稳定的朋友、减少社交以避免自卑和被比较",
+          "automatic_thoughts": "我不如他们，在他们面前显得很差",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "看到同龄人进展并购买大件",
+          "conditional_assumptions": "如果我现在收入仅30k，就会一直落后，永远追不上他们",
+          "compensatory_strategies": "加重对收入不足的担忧、回避与同伴的接触",
+          "automatic_thoughts": "我永远追不上他们",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "阅读关于房价的报道或数据",
+          "conditional_assumptions": "即使有更便宜的区域或修缮房，这些对我来说也不现实",
+          "compensatory_strategies": "持续关注高价信息、忽略潜在可行路径",
+          "automatic_thoughts": "房价太高，任何努力都没用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有自己的房子与财务稳定感，并在同伴中被接纳与认可",
+        "fear": "害怕永远无法实现购房目标，被视为落后或不够好",
+        "defense_goal": [
+          "通过疏远财务稳定的朋友来避免自卑与比较",
+          "通过预算与研究可负担房源来获得掌控感、缓解焦虑",
+          "在面对房产信息时保持谨慎以降低情绪波动"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的落后者",
+          "object_representation": "成功且可能评判我的同伴",
+          "linking_affect": "羞愧、孤独、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到收入限制了人生选择与购房可能",
+            "在看到房产广告或数据时体验到无力感"
+          ],
+          "outcomes": [
+            "无望感",
+            "焦虑加重",
+            "主观满意度下降",
+            "工作表现受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因在财务稳定的朋友面前感到不够好而主动疏离",
+            "独居且对谈财务话题感到不适"
+          ],
+          "outcomes": [
+            "社交支持减少",
+            "孤立感增强",
+            "情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求咨询，态度积极",
+          "尝试预算与研究可负担房源",
+          "能够识别并考虑更便宜地区或修缮房等替代路径",
+          "具备一定社会支持（少数朋友与同事）"
+        ],
+        "negative_force": [
+          "持续的财务担忧与负性预期",
+          "与同伴比较导致自卑与社交回避",
+          "存在认知扭曲（Mental Filtering/Disqualifying the Positive/Overgeneralization）",
+          "工作表现下降，进一步加重压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕收入与购房的持续性负面自动思维与担忧",
+          "antecedent": [
+            "看到房地产广告",
+            "与朋友谈论他们的投资或购房",
+            "阅读房价信息"
+          ],
+          "core_reason": "对未来财务状况与高房价的担心，并与同伴比较后形成“永远不够”的信念",
+          "function": "逃避不确定与失败风险，通过负面预期来获取短暂的心理控制感",
+          "consequence": "无望与不满增加，焦虑加重，生活满意度下降"
+        },
+        {
+          "behavior": "社交回避（疏远财务稳定的朋友）",
+          "antecedent": [
+            "与财务稳定的朋友接触或谈及他们的投资",
+            "看到他人购置房产或重大物品"
+          ],
+          "core_reason": "在他人面前感到不够好与羞愧，担心被比较与评判",
+          "function": "逃避羞愧与自卑感，减少被比较的刺激",
+          "consequence": "孤独与社交支持减少，负面情绪维持或加重"
+        },
+        {
+          "behavior": "工作表现下降（注意力被财务担忧占据）",
+          "antecedent": [
+            "工作中想到财务与购房问题",
+            "被房产相关信息触发后进入工作场景"
+          ],
+          "core_reason": "持续反复的担忧占用认知资源，情绪负荷过高",
+          "function": "通过降低任务投入暂时缓解焦虑与认知负荷",
+          "consequence": "绩效下降、压力进一步增大，形成负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1706
+}

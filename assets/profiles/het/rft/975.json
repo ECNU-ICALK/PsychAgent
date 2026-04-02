@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "佳妮",
+      "gender": "女",
+      "occupation": "酒店夜班工作人员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "家庭总体支持但不完全理解其夜班挑战；因夜班导致的疲惫与易怒使与家人朋友关系紧张",
+      "medical_history": "无类似问题经历；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度良好，能反思并提出可行策略；语气中性，语速平稳"
+    },
+    "main_problem": "我在酒店的夜班工作很难适应，导致持续的不适与不满；过去六个月压力逐渐升高，夜间工作时每晚都会出现负面情绪、挫败与不快乐，睡眠难以调整。",
+    "topic": "职业发展",
+    "core_demands": "夜班带来的持续负面情绪与压力影响整体健康与“存钱上大学”的能力，因此希望通过咨询缓解压力、调整睡眠、改善夜班适应与心态；同时尝试记录积极时刻、保持更一致的睡眠节律，并与家人沟通支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法适应夜班",
+        "我可能不够胜任这份工作"
+      ],
+      "special_situations": [
+        {
+          "event": "午夜在酒店夜班工作时精力最为低落、疲惫加重",
+          "conditional_assumptions": "如果我一直适应不了夜班，就说明我不行、这份工作不适合我",
+          "compensatory_strategies": "在值班时听音乐、做短暂休息来缓解不适",
+          "automatic_thoughts": "我可能永远适应不了这份夜班",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "意识到他人拥有更为“正常”的白天作息而自己需要上夜班",
+          "conditional_assumptions": "如果我的作息不如别人正常，就说明我的处境不公平、我不如别人",
+          "compensatory_strategies": "抱怨与比较，减少关注积极面并与家人争吵",
+          "automatic_thoughts": "为什么只有我得上这些时间的班？这不公平",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "工作中出现小失误或注意力下降",
+          "conditional_assumptions": "如果我有疏漏，就意味着我工作不够好，可能会丢掉工作",
+          "compensatory_strategies": "加重自我批评、紧张执行任务以求避免错误",
+          "automatic_thoughts": "我做得不好，迟早会丢掉工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "值班中出现正向体验（如与客人积极互动、夜间氛围较安静）",
+          "conditional_assumptions": "偶尔的正面体验并不能代表整体变好，不能说明我适应得更好",
+          "compensatory_strategies": "忽略或轻视积极片段，只聚焦负面",
+          "automatic_thoughts": "这些好的时刻不算数，整体还是很糟",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有稳定的作息、在工作中感到胜任，并被家人理解与支持",
+        "fear": "害怕长期无法适应夜班而失去工作、身心耗竭，并使家庭关系进一步恶化",
+        "defense_goal": [
+          "通过理性解释与自我控制来降低焦虑并维持基本稳定",
+          "减少冲突以保护重要关系与工作位置"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "疲惫且易怒、需要理解与支持的劳动者",
+          "object_representation": "支持但不完全理解其困境的家人",
+          "linking_affect": "挫败、疲惫、烦躁"
+        },
+        {
+          "self_representation": "在积极互动中能发挥价值的服务者",
+          "object_representation": "友好且配合的客人",
+          "linking_affect": "胜任感、愉悦、轻松"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当家人未能理解夜班的困难或对其情绪反应提出质疑时",
+          "interpretation": "认为家人忽视自己的辛苦与需求，像外界一样要求自己“像别人一样”作息",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用共情且具体的语言，先承认其感受，再邀请其描述当下最困难的部分与可控的微小改变；语气温和、避免评判。"
+        },
+        {
+          "trigger_condition": "当午夜疲惫、出现工作小失误并自我否定时",
+          "interpretation": "将外在压力与可能的负面结果内化为“我不够好”的评价",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "温和放慢节奏，邀请其区分事实与评价；使用具体化与正常化技术，鼓励其给自己设定可达成的微目标与自我安抚练习。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对排班与作息缺乏自主感，感到“不公平”与受限",
+            "难以调整昼夜节律，对夜班安排无力感"
+          ],
+          "outcomes": [
+            "压力与不满增加",
+            "情绪易怒、关系紧张",
+            "睡眠质量下降与整体幸福感受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注工作中的失误与表现下滑",
+            "频繁担忧“可能会丢掉工作”",
+            "把注意力更多集中在负面经历而忽略积极互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在夜班工作至午夜时，来访者通常会出现强烈负面想法与情绪，注意力下降、对小事更易烦躁，进而影响工作表现",
+          "unique_outcome": "在某些夜晚（比如不那么疲惫或与客人有积极互动时），她感到更可控、心情更好、专注度提升，没有陷入以往的负性螺旋，工作表现更稳定",
+          "reason": "不同情境：疲劳程度较低；关系不同：与客人发生积极互动；环境特点：夜间较安静的氛围被感知为正面线索，因此更容易关注到工作的价值与正面体验"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭总体支持、可沟通",
+          "能自我反思并愿意尝试记录积极时刻",
+          "愿意调整睡眠节律、主动寻求支持",
+          "能觉察工作中的正面价值（与客人互动、夜间安静）"
+        ],
+        "negative_force": [
+          "心理过滤与否定积极的认知模式",
+          "对失误过度概括与对未来的负向预测",
+          "昼夜节律失调导致的持续疲惫与易怒",
+          "与家人关系因疲惫与争吵而紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "夜班期间易怒与专注困难（伴随负面自动思维增多）",
+          "antecedent": [
+            "酒店夜班工作，尤其接近午夜时段",
+            "睡眠节律难以调整、持续疲惫",
+            "与他人比较作息或想到可能丢工作时"
+          ],
+          "core_reason": "对夜班的长期适应困难与昼夜节律失调；产生“我不行/可能会丢工作”的自动化思维与比较的不公平感，强化负面情绪与注意力受损",
+          "function": "短期逃避高负荷要求、宣泄紧张与疲惫情绪，试图通过自我批评与警惕来获得控制感",
+          "consequence": "工作表现下降、错误增多；与家人争吵导致关系紧张；睡眠质量与整体幸福感进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 975
+}

@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "江铭",
+      "gender": "男",
+      "occupation": "加油站收银员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "母亲曾是伦敦的著名芭蕾舞演员；其他未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著身体疾病；未接受心理治疗；无类似问题史",
+      "language_features": "态度积极，表达清晰，配合度高；初始略显紧张；能具体描述焦虑与担忧；愿意尝试记录与检视思维"
+    },
+    "main_problem": "我最近在加油站被抢劫，从此认为自己再也存不下任何钱，并因此持续感到焦虑与不安。",
+    "topic": "情绪管理",
+    "core_demands": "希望减轻对财务不安全的恐惧与焦虑，重建对财务未来的安全感。",
+    "growth_experiences": [
+      "原生家庭信息：母亲曾是伦敦的著名芭蕾舞演员；其余成长经历未提及。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法保障自己的财务安全",
+        "我在存钱方面注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "夜班时独自守在加油站，反复回想抢劫经历",
+          "conditional_assumptions": "只要我在夜班独处，就很可能再次发生意外，任何存下的钱都会被夺走",
+          "compensatory_strategies": "提高警惕、在工作中专注于潜在风险；通过削减开支和预算来试图获得安全感",
+          "automatic_thoughts": "又会出事，我的积蓄会再次被清空",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到财务问题时只关注被抢导致的损失，忽略以前成功存钱的事实",
+          "conditional_assumptions": "发生过一次损失就说明努力存钱没有意义",
+          "compensatory_strategies": "不停关注负面线索、避免与他人讨论以免被质疑",
+          "automatic_thoughts": "过去的积蓄不算数，这次之后一切都变了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "评估储蓄计划时，以是否绝对安全为标准",
+          "conditional_assumptions": "如果我不能百分之百避免风险，那我就永远存不下钱",
+          "compensatory_strategies": "采取极端的节流与预算，但因恐惧而否定其价值",
+          "automatic_thoughts": "要么完全安全，要么彻底失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "以一次被抢的经历推断自己未来的财务命运",
+          "conditional_assumptions": "一次负面事件意味着以后都会这样",
+          "compensatory_strategies": "提前假设最坏结局以自我保护，减少投入感",
+          "automatic_thoughts": "以后总会出事，储蓄终会被摧毁",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得稳定的财务与人身安全、对生活有可控性",
+        "fear": "害怕再次遭遇抢劫与财务损失，担心任何努力都会被摧毁",
+        "defense_goal": [
+          "通过保持高度警惕来维持安全感",
+          "通过严格预算与减少开支来寻求控制感",
+          "减少向他人倾诉以避免暴露脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不安全的受害者，容易被威胁",
+          "object_representation": "他人是旁观者，未必能理解或提供保护",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被要求向同事或朋友详细分享抢劫后的担忧与感受时",
+          "interpretation": "倾向认为分享无益或会让他人负担，因此选择自己承受",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以简短、克制的语气回应，减少细节；被追问时使用“没关系”“我能自己处理”等收束话题，避免深入情感表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "夜班独自值守时焦虑加剧、反复回想抢劫",
+            "难以向同事和朋友敞开谈及财务担忧的程度"
+          ],
+          "outcomes": [
+            "持续性焦虑与恐惧",
+            "睡眠紊乱与食欲下降",
+            "工作表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "没有向亲密朋友充分分享财务焦虑的程度",
+            "在夜班独处时将担忧和压力转向自我内耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾经成功储蓄并具备一定的理财与预算策略（抢劫前）",
+          "有一位可交谈的亲密朋友（潜在支持）",
+          "主动求助并愿意参与心理咨询、态度积极"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白、心理过滤等认知扭曲维持焦虑",
+          "夜班独处时反复回想抢劫，安全感显著下降",
+          "睡眠紊乱与食欲下降导致功能受损",
+          "难以向同事和朋友敞开，社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与财务不安全相关的持续性焦虑与反复担忧",
+          "antecedent": [
+            "夜班独自在加油站工作",
+            "回想抢劫事件",
+            "想到未来财务与储蓄"
+          ],
+          "core_reason": "抢劫事件后的高压应激与对财务损失的灾难化、过度概括及预测未来的认知",
+          "function": "逃避潜在危险、通过担忧维持警觉与控制感",
+          "consequence": "持续焦虑，工作表现下降，难以专注"
+        },
+        {
+          "behavior": "睡眠紊乱（入睡困难、睡眠质量下降）",
+          "antecedent": [
+            "夜班后或临睡前反复担忧财务与安全",
+            "工作时高压焦虑后延续到夜间"
+          ],
+          "core_reason": "对未来财务不安全的过度担忧与恐惧导致生理唤醒升高",
+          "function": "维持警觉以自认为避免风险",
+          "consequence": "疲劳加重、注意力下降、工作绩效受影响"
+        },
+        {
+          "behavior": "食欲下降",
+          "antecedent": [
+            "工作期间或想到财务问题时出现强烈焦虑"
+          ],
+          "core_reason": "焦虑激活导致躯体化反应与进食动机降低",
+          "function": "逃避焦虑相关的身体感受（无意识的）",
+          "consequence": "营养摄入减少、体能下降、进一步影响工作与生活"
+        },
+        {
+          "behavior": "在人际互动中回避自我暴露（难以向同事与朋友充分谈及担忧）",
+          "antecedent": [
+            "被问及抢劫事件影响时",
+            "尝试向他人求助或分享担忧的情境"
+          ],
+          "core_reason": "认为分享无益或会增加他人负担，担心无法获得支持",
+          "function": "避免尴尬或被误解，维持脆弱感的安全边界",
+          "consequence": "社会支持利用不足，焦虑与不安全感维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 505
+}

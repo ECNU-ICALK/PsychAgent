@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "卡特",
+      "gender": "男",
+      "occupation": "作家",
+      "educational_background": "文学创作学士学位",
+      "marital_status": "单身",
+      "family_status": "与一只宠物狗同住",
+      "social_status": "与同为作家的同伴及同事关系因创作受阻而紧张；有少数亲密朋友可倾诉，但他们不完全理解其写作过程中的挑战",
+      "medical_history": "无重要躯体疾病；无既往心理咨询/治疗史；未曾经历类似的创作阻滞",
+      "language_features": "表达清晰、思路连贯；语气偏消极与悲观；能配合讨论并愿意尝试小步骤；呈现灾难化、非黑即白、过度概括、个人化等认知模式"
+    },
+    "main_problem": "为下一本书构思创意时长期卡壳，导致显著的压力与挫败感。",
+    "topic": "职业发展",
+    "core_demands": "创作阻滞显著影响工作与截止期，寻求支持与指导以缓解该问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "作为作家我会失败",
+        "我的能力不足"
+      ],
+      "special_situations": [
+        {
+          "event": "坐下来写作或开始头脑风暴时，大脑一片空白，几乎每天都会发生",
+          "conditional_assumptions": "如果我不能立即想到足够好的点子，就说明我不够好或会失败",
+          "compensatory_strategies": "尝试通过改变写作环境与日常作息来激发灵感",
+          "automatic_thoughts": "我可能再也想不出任何主意/我永远写不出来",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对他人期望与截止日期的持续压力",
+          "conditional_assumptions": "如果不能按时产出高质量作品，就等于失败并让他人失望",
+          "compensatory_strategies": "不断尝试各种方法试图提升产出与效率",
+          "automatic_thoughts": "压力太大，我会失败，达不到期待",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "更换环境与作息等常见方法后仍无明显效果",
+          "conditional_assumptions": "如果常见方法都无效，那就证明我从根本上没有能力",
+          "compensatory_strategies": "继续更换方法或加大尝试频率以验证是否有效",
+          "automatic_thoughts": "没有任何方法对我有效，我可能无法恢复",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与同行作家和同事的关系因进度停滞而变得紧张",
+          "conditional_assumptions": "如果我没有进展，就会影响合作，这说明我不够好",
+          "compensatory_strategies": "减少合作与交流以避免被评价",
+          "automatic_thoughts": "我拖累了别人，关系紧张都是我的错",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为作家被认可、按时完成创作并保持稳定的创作能力",
+        "fear": "害怕失败与达不到他人期望，从而被否定",
+        "defense_goal": [
+          "通过强调外在压力来减轻内在的失败感",
+          "以自我苛责与高标准维持警惕以避免被评价为无能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、被期待压垮的作者",
+          "object_representation": "苛刻、期待值很高的评判者（同事/行业）",
+          "linking_affect": "焦虑、挫败"
+        },
+        {
+          "self_representation": "被误解的求助者",
+          "object_representation": "不理解其创作困境的朋友",
+          "linking_affect": "孤独、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其从不同视角看问题并挑战“永远写不出来”的信念时",
+          "interpretation": "将“无望的感受”当成事实，认为任何尝试都不会奏效",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以外界压力与截止期为主要理由，语气谨慎而坚定地说明“这次不一样”，对建议表达怀疑，如“压力太大、没用”。"
+        },
+        {
+          "trigger_condition": "当被询问具体阻滞时刻（如长时间盯着空白页）",
+          "interpretation": "将一次失败经验泛化为永久性结论，认为自己“永远不行”",
+          "defense_mechanism": "sring",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化词语（如“永远/完全/一点也不”），拒绝承认任何中间可能。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "创意枯竭、对作为作家的能力产生整体怀疑",
+            "工作与合作受挫，难以推进项目"
+          ],
+          "outcomes": [
+            "挫败感",
+            "焦虑",
+            "睡眠受扰",
+            "日常功能受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被外界期待与截止日期束缚，感到难以自主创作"
+          ],
+          "outcomes": [
+            "压力显著增加",
+            "回避或僵滞",
+            "创造力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "朋友不完全理解其写作困境",
+            "与同行关系紧张、合作减少"
+          ],
+          "outcomes": [
+            "疏离感增强",
+            "人际关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑（如“我不够好”“我会失败”）",
+            "对改变持谨慎态度，担心效果不佳",
+            "将失败的可能性置于首位，降低尝试动力"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把他人期望与截止期视为必须达成的硬性标准",
+            "形成“达不到就等于失败”的内在规则"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为朋友不理解其创作困境，从而体验被疏离与失望"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备文学创作的专业背景（文学创作学士学位）",
+          "过去曾克服写作障碍并最终产出点子（虽本次更为严重）",
+          "拥有少数亲密朋友可倾诉（一定社会支持）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白等认知模式强烈，倾向于过度概括与预测最坏结果",
+          "自我怀疑严重，担心无法满足期望与截止日期",
+          "创作阻滞几乎每日发生，工作受损、人际关系紧张",
+          "压力与焦虑导致睡眠受扰，日常节律混乱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "写作时出现创作阻滞并伴随强烈自我怀疑与焦虑",
+          "antecedent": [
+            "坐下来写作或开始头脑风暴",
+            "面对外界期望与截止日期",
+            "尝试写作未见成效时"
+          ],
+          "core_reason": "灾难化、非黑即白、过度概括与个人化的认知模式将暂时困难视为永久失败，触发焦虑与僵滞",
+          "function": "逃避被评判与失败的风险，短期降低焦虑但维持阻滞",
+          "consequence": "工作能力下降、难以按时完成写作任务；与同行关系紧张；睡眠受扰、日常生活被打乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1755
+}

@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "安宇",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "本科在读",
+      "marital_status": "未婚",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "有一位要好的朋友，但尚未与他人分享学业困扰",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或精神卫生就诊经历",
+      "language_features": "表达清晰、逻辑尚可，愿意合作，频繁出现消极自动思维与灾难化推断；语速未提及"
+    },
+    "main_problem": "我最近数学考试不及格，这让我不堪重负，总觉得因此我永远无法从大学毕业。",
+    "topic": "学业压力",
+    "core_demands": "恐惧与负面想法开始影响我的日常功能和心理健康，因此希望通过咨询来解决这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败是不可接受的",
+        "我不够好，会让家人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "收到数学考试不及格的成绩",
+          "conditional_assumptions": "一次考试失败意味着我将一直失败、无法毕业",
+          "compensatory_strategies": "立刻加倍学习并考虑请家教，试图快速挽回成绩",
+          "automatic_thoughts": "我永远无法从大学毕业。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到学业前途和即将到来的考试",
+          "conditional_assumptions": "如果不能在未来所有考试中取得好成绩，就说明我就是失败者",
+          "compensatory_strategies": "回避深入思考与规划、学习时易分心与拖延",
+          "automatic_thoughts": "我会一直失败，考试都会不及格。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与家人或同学谈及考试与成绩的情境",
+          "conditional_assumptions": "如果成绩不好，就会让家人失望，说明我不行",
+          "compensatory_strategies": "疏离朋友和家人、减少社交以避免被评价",
+          "automatic_thoughts": "我让家人失望了，他们会看不起我。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "独自学习其他科目时不断回想那次失败",
+          "conditional_assumptions": "只有取得完美成绩才算合格，否则就是彻底失败",
+          "compensatory_strategies": "反复自我批评、强迫性加码学习却难以持续专注",
+          "automatic_thoughts": "如果这次也学不好，就证明我彻底失败。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过学业成功获得家人的认可与接纳",
+        "fear": "害怕失败会导致被家人失望与否定，从而失去价值感",
+        "defense_goal": [
+          "通过疏离与不分享感受来避免面对他人的失望评价；通过加倍学习与问题解决来维持掌控感、降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "潜在会令家人失望的失败者",
+          "object_representation": "高期待、可能失望与批评的家人/他人",
+          "linking_affect": "焦虑、羞耻、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出尝试新策略（如请家教、加入学习小组）并邀请其行动时",
+          "interpretation": "来访者倾向将任何尝试与未来的彻底失败相连，认为一旦不奏效就证明自己不行",
+          "defense_mechanism": "sring",
+          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以温和、具体的语气承认其担忧，邀请其将“大失败”改为“小实验”，使用逐步计划与可检验目标，减少评判性语言。"
+        },
+        {
+          "trigger_condition": "当被邀请将感受与压力告知朋友或家人、寻求支持时",
+          "interpretation": "认为表达需求会给他人增添负担，因此必须压下自己的需要",
+          "defense_mechanism": "sring",
+          "defense_definition": "利他：通过帮助他人来获得内在的满足和快乐，有时可能包含“防御性利他”的成分。",
+          "response_instruction": "强调互助与关系的双向性，用共情语气正常化“求助”行为，鼓励小步尝试分享一件具体且可承受的困扰。"
+        },
+        {
+          "trigger_condition": "当谈到考试成绩与毕业前途时",
+          "interpretation": "将结果视为全好或全坏，将一次失败等同于彻底毁灭前途",
+          "defense_mechanism": "sring",
+          "defense_definition": "分裂：将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "采用温和的现实检验，引导其识别灰度与中间地带，使用具体数据与阶段性目标来对冲“全或无”认知。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因压力与失败感而疏离朋友和家人",
+            "未与他人分享学业担忧，担心给他人带来负担"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠与饮食紊乱",
+            "学习动机下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次失败解释为前途尽毁，对毕业失去希望"
+          ],
+          "outcomes": [
+            "无助感与绝望感上升",
+            "学习投入减少、专注困难"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我不该麻烦别人”的自我要求",
+            "将“必须不能失败”当作硬性规则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度担心让家人失望而自我苛责",
+            "因担忧被评判而减少社交与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助（尝试向同学求助、考虑请家教与学习小组）",
+          "具备一定问题解决意愿，愿意配合制定计划并尝试小目标",
+          "拥有一位要好的朋友，潜在社会支持可动员"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著，倾向过度概括与预测最坏结果",
+          "强烈的失败恐惧与对让家人失望的担忧",
+          "社交退缩导致支持减少",
+          "睡眠与饮食紊乱，进一步削弱专注与学习动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "学业相关的焦虑与灾难化自动思维（如“我永远无法毕业”）",
+          "antecedent": [
+            "收到数学考试不及格的成绩",
+            "想到学业前途与即将到来的考试"
+          ],
+          "core_reason": "对失败的强烈恐惧与灾难化认知（一次失败等同于前途尽毁，并让家人失望）",
+          "function": "逃避预期的失败与羞耻感，试图通过控制与警觉来降低不确定性",
+          "consequence": "注意力困难、学习动机下降、睡眠与饮食紊乱，整体学业表现进一步下滑"
+        },
+        {
+          "behavior": "社交回避（疏离朋友与家人、减少交流）",
+          "antecedent": [
+            "被问及考试与成绩",
+            "想到向他人分享学业困扰或寻求支持"
+          ],
+          "core_reason": "不想成为他人的负担、害怕被他人失望或评判",
+          "function": "避免负性评价与不适情绪，暂时降低焦虑",
+          "consequence": "孤立感增强、社会支持减少，焦虑与无助感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 591
+}

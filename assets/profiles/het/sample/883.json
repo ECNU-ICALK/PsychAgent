@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "林杰琪",
+      "gender": "女性",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "父亲曾从事石膏板安装（干墙）工作，母亲是注册护士",
+      "social_status": "有少数朋友可以倾诉，但对这类“被当作假小子”的想法不愿与他们讨论；在结识新女性时的人际建立受负性假设影响",
+      "medical_history": "无重大躯体疾病史；既往无心理问题治疗或咨询史",
+      "language_features": "表达清晰，逻辑条理性较好；情绪基调中性但伴有一定焦虑；配合度较高，愿意探索与尝试"
+    },
+    "main_problem": "我觉得大家因为我喜欢打垒球就把我看成“假小子”，这让我相信自己不会有女性朋友。这种感觉从青少年时期开始并延续到成年，尤其在结识新朋友或与女性同事互动的社交场合更明显。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些假设与负性想法正在影响我的社交互动，并可能限制我结交新朋友的能力，因此希望通过咨询进行改变。",
+    "growth_experiences": [
+      "青少年时期因热爱打垒球而担心被贴上“假小子”的标签，并由此产生“女性不会接纳我”的自我假设；这种体验持续至成年，在结识新女性或与女性同事互动时反复激活，导致紧张、犹豫接近与自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够女性化就不会被女性接纳",
+        "我与其他女性不同，注定很难拥有女性朋友"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合结识新女性时",
+          "conditional_assumptions": "如果我展现对垒球等运动的喜爱，就会被视为“假小子”，显得不够女性化，从而被排斥",
+          "compensatory_strategies": "犹豫接近、过度自我监控、保持防备以避免被拒绝",
+          "automatic_thoughts": "她们会觉得我太男性化，不会想和我做朋友",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作中与女性同事互动时",
+          "conditional_assumptions": "如果我们的兴趣不同（我喜欢运动），我们就无法成为朋友",
+          "compensatory_strategies": "减少自我暴露，尽量不谈及兴趣，保持一定距离",
+          "automatic_thoughts": "我们太不同了，不值得尝试去建立联系",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在互动中对方显得不太投入或表现出不感兴趣的气场",
+          "conditional_assumptions": "如果对方看起来不感兴趣，就说明她们已经否定我",
+          "compensatory_strategies": "提前退出或减少互动投入，以避免尴尬与被拒绝",
+          "automatic_thoughts": "果然她们不想和我做朋友",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "准备向新认识的人分享自己对垒球的兴趣",
+          "conditional_assumptions": "谈及这类兴趣会暴露我“不够女性化”，从而招致评判与拒绝",
+          "compensatory_strategies": "回避谈论或弱化对垒球的喜好",
+          "automatic_thoughts": "如果我说了，她们会觉得我不合群",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被女性同伴真实地接纳，建立平等而自然的友谊",
+        "fear": "害怕因被贴上“假小子/不够女性化”的标签而被拒绝、羞辱与排斥",
+        "defense_goal": [
+          "通过保持防备与自我监控来降低被拒绝的风险",
+          "减少主动接触以避免受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被视为不够女性化、随时会被拒绝的局外人",
+          "object_representation": "潜在的评判者或挑剔的拒绝者（尤其是女性同伴）",
+          "linking_affect": "焦虑、羞耻与孤立感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "认为自己因兴趣被视为“假小子”，难以被女性接纳",
+            "在结识新女性时感到紧张、犹豫接近，预期被拒绝"
+          ],
+          "outcomes": [
+            "社交焦虑与自我怀疑",
+            "人际回避与关系建立受阻"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与新认识的女性互动时，林杰琪通常会预设对方不会接纳自己，从而紧张、犹豫接近并显得笨拙，导致关系难以发展。",
+          "unique_outcome": "有几次她起初以为对方不会喜欢自己，但最后却与对方相处融洽、建立了良好互动；这些情境下她更放松、更做自己。",
+          "reason": "不同做法：她当时“放下戒备”，不再过度担心被评判；因此情绪更稳定、表达更自然，互动更顺畅。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有与女性顺利建立联系的正向经验，表明具备自然连接的能力",
+          "愿意求助并愿意尝试“现实检验”等认知行为技术",
+          "对垒球的热情提供了真实自我与积极话题的资源"
+        ],
+        "negative_force": [
+          "认知扭曲显著（读心术、过度概括、仓促下结论）",
+          "在社交中高度自我监控并预期被拒绝，导致回避与笨拙",
+          "倾向将兴趣差异等同于关系不可能，降低接纳正向证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在结识新女性时的社交回避与过度防备（紧张、犹豫接近、显得笨拙）",
+          "antecedent": [
+            "在社交场合结识新女性",
+            "与女性同事互动",
+            "准备谈及自己对垒球的兴趣"
+          ],
+          "core_reason": "对“被视为不够女性化而被拒绝”的担忧及相关认知偏差（读心术、过度概括、仓促下结论）",
+          "function": "逃避潜在的拒绝与尴尬，以降低即时焦虑",
+          "consequence": "限制了与女性建立新友谊的机会，维持社交焦虑与孤立感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 883
+}

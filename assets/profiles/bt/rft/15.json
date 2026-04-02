@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "林安琪",
+      "gender": "女",
+      "occupation": "电子游戏设计师",
+      "educational_background": "游戏设计学士学位",
+      "marital_status": "已婚",
+      "family_status": "与妻子及儿子一起生活",
+      "social_status": "有几位可以倾诉的密友，具备一定社会支持",
+      "medical_history": "无重大躯体疾病；既往未接受过心理治疗；首次出现此程度的焦虑与压力",
+      "language_features": "表达清晰、思路连贯、配合度高；主观体验为强烈焦虑与担忧"
+    },
+    "main_problem": "由于妻子最近失业，我正经历强烈的焦虑和压力，并不断灾难化地认为她永远找不到新工作。随着时间推移、妻子尚未找到新工作，我对未来及家庭财务的担忧愈发严重，影响到工作专注、睡眠与饮食，并使夫妻关系紧张。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询以学习应对策略并找到管理这些情绪的方法，从而减轻焦虑与压力对工作专注度和生活的影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不确定性意味着危险",
+        "一旦经济失稳，后果将是灾难性的"
+      ],
+      "special_situations": [
+        {
+          "event": "收到妻子求职的又一封拒信",
+          "conditional_assumptions": "如果多次被拒，就说明她以后也找不到工作",
+          "compensatory_strategies": "过度关注投递与回信进度，在脑中反复推演最坏情形以“做好准备”",
+          "automatic_thoughts": "她可能永远找不到新工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到妻子持续投递简历但暂时没有回音",
+          "conditional_assumptions": "如果短时间没有明显进展，就意味着事情正在走向失败",
+          "compensatory_strategies": "加倍自我施压，紧盯进展、反复调整预算与计划以试图掌控风险",
+          "automatic_thoughts": "事情只会越来越糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "夜间就寝时想到家庭财务与房贷/储蓄",
+          "conditional_assumptions": "如果我作为唯一收入来源出现任何差池，家庭就会崩盘",
+          "compensatory_strategies": "反复计算预算、设想最坏后果以获得安全感",
+          "automatic_thoughts": "我们可能会耗尽积蓄、失去房子",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "妻子失业已持续数周仍未入职",
+          "conditional_assumptions": "如果现在还没找到工作，就等于以后也不会找到（非黑即白）",
+          "compensatory_strategies": "用极端标准评判进展，把“未立即成功”视为“彻底失败”",
+          "automatic_thoughts": "这说明她不会再被录用了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望家庭的稳定与安全，并与伴侣共同分担经济压力",
+        "fear": "害怕失去控制、家庭财务崩溃与生活品质下滑",
+        "defense_goal": [
+          "通过预先设想最坏情境与持续警觉来维持掌控感、降低不确定带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑且必须扛起家庭经济的照料者/守护者",
+          "object_representation": "处于失业与不确定中的伴侣，需要支持且前景难以掌控",
+          "linking_affect": "焦虑、紧张、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及妻子求职受挫或家庭财务不确定性时",
+          "interpretation": "将不确定性等同于即将到来的灾难，认为必须通过不断担忧与计划才能避免风险",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "语气平静、具体化和结构化提问；引导其聚焦可控的小步骤与现实证据，温和限制灾难化推演，肯定其已采取的实际应对。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "作为家庭主要/唯一经济来源的角色感到压力沉重与孤立",
+            "面对不确定的未来与财务风险时体验到无助与不安",
+            "夫妻关系因压力而紧张，主观上加剧了“独自扛着”的感觉"
+          ],
+          "outcomes": [
+            "广泛性焦虑与担忧",
+            "睡眠紊乱与食欲改变",
+            "注意力与工作表现下降",
+            "伴侣关系紧张"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "求助动机强，主动寻求专业帮助",
+          "与数位密友保持联系，具备一定社会支持",
+          "能在讨论中生成更平衡的替代性看法（愿意练习去灾难化）",
+          "具备预算与计划意识，愿意采取实际措施"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与非黑即白思维突出",
+          "对财务不确定性高度敏感，倾向以担忧维持控制感",
+          "睡眠受扰与饮食改变，削弱情绪调节与工作专注",
+          "作为主要经济来源的角色压力加剧焦虑反应",
+          "对拒信等负性线索反应强烈，忽视其他可能性"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续性的灾难化担忧（聚焦于妻子再就业与家庭财务）",
+          "antecedent": [
+            "看到妻子投递简历或申请进度缓慢",
+            "收到求职拒信",
+            "思考家庭财务与未来不确定性"
+          ],
+          "core_reason": "妻子失业引发的财务不确定性与角色压力，伴随对最坏结果的高估与威胁监控",
+          "function": "通过反复担忧来获得控制感与预防感，以回避不确定性带来的焦虑",
+          "consequence": "工作专注力下降、效率受损；与伴侣关系紧张；焦虑持续存在"
+        },
+        {
+          "behavior": "入睡困难与夜间反复思虑",
+          "antecedent": [
+            "夜间就寝时联想到家庭财务与妻子求职进展"
+          ],
+          "core_reason": "对不确定未来的高警觉与灾难化想象维持了生理与认知唤起",
+          "function": "试图通过不断思考与预演情境来寻求确定感与掌控感",
+          "consequence": "睡眠不足导致次日注意力与工作表现下降，并进一步加重焦虑与压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 15
+}

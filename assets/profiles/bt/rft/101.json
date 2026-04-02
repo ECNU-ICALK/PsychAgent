@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "刘文迪",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题；未接受过心理治疗/咨询",
+      "language_features": "表达清晰、逻辑较为连贯；情绪低落并反复自我否定；倾向与他人比较；配合度良好"
+    },
+    "main_problem": "在输掉一盘投入大量精力准备的国际象棋对局后，出现强烈的自卑感与“我永远不会下得好”的信念，造成明显的痛苦并降低自尊。",
+    "topic": "情绪管理",
+    "core_demands": "在输掉棋局后自卑与自我怀疑加剧，这促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我没有能力（或天赋）"
+      ],
+      "special_situations": [
+        {
+          "event": "在投入大量时间与精力备战后输掉一盘棋",
+          "conditional_assumptions": "如果我输了，即使很努力，也证明我没有能力，未来也不会变好",
+          "compensatory_strategies": "加倍练习、搜集线上技巧，试图快速提升以证明自己",
+          "automatic_thoughts": "我永远不会下得好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到他人下棋表现出色或被表扬",
+          "conditional_assumptions": "如果别人表现更好或被认可，就说明我很差、比不过他们",
+          "compensatory_strategies": "回避与他人讨论棋局、降低参与热情以避免比较与评价",
+          "automatic_thoughts": "他们都比我强太多，我不可能赶上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "练习时出现失误或没有立刻看到进步",
+          "conditional_assumptions": "只有不犯错并且赢棋才算有能力；一旦犯错就说明我不行",
+          "compensatory_strategies": "更用力练习、追求立刻见效，容忍度低",
+          "automatic_thoughts": "我又犯错了，这证明我根本不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想过往对局时，注意到失败多于成功",
+          "conditional_assumptions": "赢棋才算数，其它小的进步都不重要",
+          "compensatory_strategies": "反复回放错误、忽略小的改善与胜局经验",
+          "automatic_thoughts": "那些赢或发挥还可以的对局不重要，输棋才是真相",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过胜任与被认可来确认自我价值",
+        "fear": "害怕失败与被比较后显得无能，从而被否定、感到羞耻",
+        "defense_goal": [
+          "避免再次失败以保护自尊",
+          "通过不谈论与回避相关情绪来躲避羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败并让人失望的自己",
+          "object_representation": "更优秀、被赞赏、代表标准与评价的他人",
+          "linking_affect": "自卑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调小进步或提出除“赢棋”之外的成功标准时",
+          "interpretation": "倾向将咨询师的肯定体验为对失败的粉饰与否认，进而强化“我不够好”的自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责与否定性的语气回应，反复强调“我不够好/这不算数”，弱化咨询师的正向反馈。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请进行行为实验或鼓励继续下棋、允许犯错时",
+          "interpretation": "将尝试视为再次暴露无能的风险，认为一旦失败就坐实“无能”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性理由推迟或回避尝试（如“等我再准备好一点再说”），语气克制而谨慎。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值与“赢/输”结果强绑定；输棋后体验到“努力都是徒劳”的无意义感",
+            "小进步与学习被忽略，胜负成为唯一衡量标准"
+          ],
+          "outcomes": [
+            "动机下降、兴趣减退",
+            "自尊受损与情绪低落",
+            "回避参与带来进一步的空虚与挫败感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“只有赢棋才算成功”的硬性规则评估自己",
+            "将他人赞誉与外部评价当作唯一标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我不够好”）",
+            "对犯错极度敏感，行事谨慎、回避尝试"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "将对失败与比较的情绪转向自责与内耗",
+            "降低与他人讨论与求助的意愿"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在进行与国际象棋相关的活动时，刘文迪通常会陷入“我永远不够好”的想法，否定积极表现并失去继续练习的动力。",
+          "unique_outcome": "她提到“有些对局我发挥还可以，甚至赢过”，当时能够从对弈中获得一些乐趣并注意到策略与概念上的提升。",
+          "reason": "线索：那些对局中出现了可被觉察的具体进步（策略更熟练、概念理解更清晰），由此带来不同体验与情绪强度下降。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并进入咨询",
+          "持续练习并主动查找线上技巧",
+          "能识别并口述自身思维模式",
+          "曾有赢棋或发挥较好的体验可供参照",
+          "拥有可以交谈的朋友"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与非黑即白思维突出",
+          "否定积极结果、心理过滤明显",
+          "过度比较并依赖外部评价",
+          "把胜负当作唯一价值条件，容错度低",
+          "动机降低与回避倾向，强化失败体验"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复自我否定与灾难化思维（如“我永远不会下得好”）",
+          "antecedent": [
+            "输掉一盘棋",
+            "练习时出现失误",
+            "看到他人被表扬或表现出色"
+          ],
+          "core_reason": "将自我价值与胜负刚性绑定，引发过度概括与预测未来的认知偏差",
+          "function": "逃避面对不确定与学习曲线，通过自责获得表面上的“控制感”与对失望的提前防御",
+          "consequence": "自尊受损、情绪低落、进一步降低练习与参与的动机"
+        },
+        {
+          "behavior": "回避或降低参与棋类及其他活动的动机",
+          "antecedent": [
+            "出现负性自动思维后",
+            "看到他人成功或赞誉时",
+            "短期内没有看到立刻进步"
+          ],
+          "core_reason": "害怕失败与羞耻，将再次尝试视为坐实“无能”的风险",
+          "function": "逃避可能的失败与外界评价",
+          "consequence": "兴趣与生活参与度下降，强化无力感与负性自我评价"
+        },
+        {
+          "behavior": "过度练习并急于见效",
+          "antecedent": [
+            "在失败或犯错后感到强烈不安与自我怀疑"
+          ],
+          "core_reason": "条件假设“只有赢棋才算成功”，试图通过加倍努力迅速证明自己",
+          "function": "快速重建自我价值与确定感",
+          "consequence": "当短期未见提升时进一步沮丧，自我否定加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 101
+}

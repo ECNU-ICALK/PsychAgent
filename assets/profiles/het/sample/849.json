@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "李泰然",
+      "gender": "男",
+      "occupation": "IT 技术支持专员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "父亲在 Stifle 工作",
+      "social_status": "在人际互动中因担心被评判而保持低调、难以建立亲密关系；有一位可以谈一般问题的朋友，但不愿与其讨论被评判的焦虑",
+      "medical_history": "无明显躯体疾病；无既往心理问题或心理咨询/治疗经历",
+      "language_features": "表达清晰，配合度较高；语气谨慎，常用“我猜/也许/我不确定”等模糊化表述；能进行一定的自我反思"
+    },
+    "main_problem": "我担心人们会因为我吸食大麻而把我贴上懒惰和愚蠢的标签，这种恐惧导致我焦虑并影响自我形象。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为关于被他人因我吸食大麻而评判的焦虑正在影响我的日常生活并让我痛苦。",
+    "growth_experiences": [
+      "约一年前，一位同事对其吸食大麻的习惯做了带有嘲讽的负面评论；当时其压力水平较高，由此开始过度担心他人对自己的看法。随后在社交与工作场合中感到被评判的焦虑逐渐增强，尤其在他人提及与其类似的习惯时，该焦虑与自我怀疑更为明显。他尝试淡化自己的使用量并回避相关话题，但恐惧未缓解，还出现睡眠与饮食节律被打乱的情况。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懒惰、愚蠢的（一旦被贴上标签就难以摆脱）",
+        "他人会长期以负面标签看待我"
+      ],
+      "special_situations": [
+        {
+          "event": "一年前，同事对其吸食大麻的习惯做出挖苦/负面评论",
+          "conditional_assumptions": "如果有人对我的习惯有负面评价，就意味着多数人都会这样看我",
+          "compensatory_strategies": "淡化自己的使用量、保持低调以避免被注意",
+          "automatic_thoughts": "大家都会觉得我是懒惰又愚蠢的。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作或社交场合与他人相处时",
+          "conditional_assumptions": "如果他们知道或联想到我吸大麻，他们一定会看不起我",
+          "compensatory_strategies": "回避谈论相关话题、尽量降低存在感",
+          "automatic_thoughts": "他们现在就把我当成‘懒惰的瘾君子’。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当他人谈及与吸食大麻相似的习惯话题",
+          "conditional_assumptions": "如果别人提到类似习惯，就说明他们在影射我、评价我",
+          "compensatory_strategies": "迅速转换话题或沉默以避免被卷入",
+          "automatic_thoughts": "他们是在说我不自律、很蠢。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在工作中因焦虑导致表现受影响时",
+          "conditional_assumptions": "如果我表现受影响，就证明那些负面标签会一直伴随我",
+          "compensatory_strategies": "进一步回避曝光自己的习惯，减少与人交流",
+          "automatic_thoughts": "我这辈子都会被贴上‘懒惰、愚蠢’的标签。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人接纳、被当作一个完整的人，而非被单一习惯定义",
+        "fear": "害怕被羞辱与拒绝，被贴上“懒惰和愚蠢”的标签",
+        "defense_goal": [
+          "保持低调与回避相关话题以降低被评判的风险",
+          "通过淡化使用量来否定外界的负面解读"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、带着羞耻感的自我",
+          "object_representation": "挑剔、带有贬斥意味的他人/同事",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中谈及“他人如何看待其吸大麻习惯”或被邀请进行现实检验时",
+          "interpretation": "担心一旦暴露或测试，就会证实他人确实在负面评判自己",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以谨慎、委婉的语气表达担忧，提出从更小更安全的步骤开始（如先与信任的朋友交流），并请求过程中的支持与回顾。"
+        },
+        {
+          "trigger_condition": "在社交/工作场景中出现与吸大麻相关的话题",
+          "interpretation": "对方在影射和评判自己（将自我批评归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免目光接触、迅速转移话题或保持沉默，用简短中性语句结束讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被评判而回避谈论相关话题，保持低调",
+            "难以建立亲密关系，社交中感到被隔离"
+          ],
+          "outcomes": [
+            "持续的社交焦虑与自我怀疑",
+            "睡眠与饮食节律被打乱"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在个人选择（吸食大麻）与外界评价之间感到两难",
+            "担心因选择而被永久贴标签"
+          ],
+          "outcomes": [
+            "自我形象受损、增加自我怀疑",
+            "为避免被评判而限制自我表达与互动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在咨询中以“我猜/也许/我不确定”等谨慎表述降低自我暴露",
+            "对拟进行的现实检验表示紧张，倾向于从最小、最安全的尝试开始"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在社交或工作情境中，来访者通常会担心被贴上“懒惰、愚蠢”的标签而回避谈论相关话题。",
+          "unique_outcome": "与朋友相处时（对方了解其整体状况），朋友并不在意其吸大麻的习惯，并以接纳的态度看待他，来访者体验到被理解而非被简化为标签。",
+          "reason": "不同支持：朋友与其相识已久，基于更全面的了解形成接纳态度；不同情境：信任关系降低了评判威胁。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有一位对其持接纳态度的朋友，可提供情感支持与现实证据",
+          "愿意尝试小步的现实检验与行为实验",
+          "能够觉察到“感觉真实不等于事实”，具备一定的自我反思能力",
+          "保有一定的希望感，愿意与咨询师合作"
+        ],
+        "negative_force": [
+          "灾难化、读心术与过度概括等负性认知模式强化了被评判感",
+          "回避谈论与降低自我暴露使焦虑维持并扩大化",
+          "自我怀疑显著，易接受负面标签为自我定义",
+          "睡眠与饮食节律受扰，进一步削弱情绪与认知调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避讨论与吸食大麻相关的话题、在社交与工作中保持低调",
+          "antecedent": [
+            "在社交或工作环境中互动",
+            "当他人提及与吸食大麻类似的习惯时"
+          ],
+          "core_reason": "害怕被他人贴上“懒惰、愚蠢”的标签并被拒绝/羞辱（对他人评价的灾难化与读心）",
+          "function": "逃避可能的负面评价与羞耻感",
+          "consequence": "焦虑持续、难以建立亲密关系，工作表现受影响"
+        },
+        {
+          "behavior": "在社交与工作场合减少互动、退缩",
+          "antecedent": [
+            "工作或社交场合中感到被他人注意或评判",
+            "提及与自身习惯相似的话题被激活"
+          ],
+          "core_reason": "对被评判的高度威胁感与自我怀疑，伴随“非黑即白/过度概括”等信念",
+          "function": "短期内降低焦虑与避免被贴标签的风险",
+          "consequence": "关系疏离、孤立感增加，睡眠与饮食节律紊乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 849
+}

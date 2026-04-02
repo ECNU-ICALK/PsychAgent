@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "李洁",
+      "gender": "女性",
+      "occupation": "视频游戏设计师",
+      "educational_background": "游戏设计学士学位",
+      "marital_status": "已婚",
+      "family_status": "与妻子结婚，有一个10岁的儿子",
+      "social_status": "有支持性的妻子，但尚未与其讨论关于儿子足球表现的具体担忧",
+      "medical_history": "未经历类似心理问题，未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、合作度高，能自我觉察并命名认知模式（如过度概括、灾难化）；语气克制、态度积极"
+    },
+    "main_problem": "对儿子在足球比赛中一次错过擒抱后产生失望与不足感，频繁灾难化、过度概括其能力，影响情绪与与儿子的互动；在妻子失业后该问题加剧。",
+    "topic": "家庭关系",
+    "core_demands": "持续的负面思维与失望情绪正在影响我与儿子的关系以及整体幸福感，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败意味着永远不够好",
+        "只有持续出色的结果才算成功"
+      ],
+      "special_situations": [
+        {
+          "event": "在最近一场比赛中，儿子错过了一次关键擒抱",
+          "conditional_assumptions": "如果他在比赛中出现失误，就说明他永远不够好、并不适合体育",
+          "compensatory_strategies": "对儿子更加苛责、强调结果以减少再度失误；尝试用强调“努力比结果重要”来理性自我说服但难以改变心态",
+          "automatic_thoughts": "他永远不会踢好足球",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在儿子的训练或比赛过程中看到他出现普通表现或失误",
+          "conditional_assumptions": "如果不能持续表现出色，就等于失败",
+          "compensatory_strategies": "观看时高度紧张、挑错，赛后进行批评与施压",
+          "automatic_thoughts": "他表现不够好，这意味着以后也不会进步",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "妻子失业后，家庭整体压力增大",
+          "conditional_assumptions": "在家庭处于压力之中时，儿子若表现不佳将引发更糟的后果",
+          "compensatory_strategies": "将焦虑集中到对儿子表现的控制与苛责上以求确定感",
+          "automatic_thoughts": "一旦他现在表现不好，未来只会越来越糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到是否与妻子分享自己对儿子表现的忧虑",
+          "conditional_assumptions": "我应该自己解决问题，向妻子表达会让她更担心",
+          "compensatory_strategies": "选择不与妻子讨论具体忧虑以避免“加重她的负担”",
+          "automatic_thoughts": "我不该让她为这事操心",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为尽责、支持孩子的好父母，孩子能在体育上表现优异",
+        "fear": "害怕孩子失败、害怕自己作为父母不称职",
+        "defense_goal": [
+          "通过批评与控制孩子的表现来缓解焦虑并维持掌控感",
+          "避免向妻子表达忧虑以防加重她的压力"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑且苛责的父母，担心孩子失败",
+          "object_representation": "需要被纠正的、不够好的孩子（不适合运动）",
+          "linking_affect": "失望、焦虑"
+        },
+        {
+          "self_representation": "应当独自承担压力的伴侣",
+          "object_representation": "需要被保护、已承受压力的伴侣",
+          "linking_affect": "顾虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问是否会与妻子讨论具体忧虑或建议与妻子分享时",
+          "interpretation": "认为分享会增加妻子负担，自己应该独自承受（移情：将伴侣视为需要保护的脆弱者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、克制的语气强调“我不想让她更担心”“我应该自己处理”，减少情绪表达并回避深入讨论。"
+        },
+        {
+          "trigger_condition": "在儿子比赛中出现失误或普通表现时",
+          "interpretation": "将对家庭与经济压力的焦虑转化为对儿子表现的批评与控制（移情：把外部压力归因到孩子的表现）",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "语速加快、语气紧张，使用绝对化词语（如“永远”“必须”）提出苛责性评论或建议。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与妻子分享具体忧虑，觉得应该自己承担",
+            "在家庭压力增大时选择独自应对"
+          ],
+          "outcomes": [
+            "情绪负担加重与支持系统未被充分利用",
+            "与伴侣的情感连接弱化，主观孤立感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“我应该自己处理”为内在规则，过度承担责任"
+          ],
+          "outcomes": [
+            "自我苛责与压力增大",
+            "对关系求助的能力受限，接触资源减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复强调“我应该能自己处理”，担心增加妻子负担而克制表达",
+            "在咨询中语气克制，小心陈述自身忧虑"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向妻子寻求支持，将压力往自己身上压",
+            "把焦虑内化为对自我与亲子互动的苛责与控制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的妻子与家庭资源",
+          "愿意改变且态度积极，能够配合咨询与作业",
+          "具备对自身认知偏差的觉察能力（能识别灾难化与过度概括）",
+          "愿意尝试重构视角与行为实验"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白等认知偏差强烈",
+          "心理过滤，过度关注儿子的失误",
+          "在压力下减少与伴侣沟通，形成主观孤立",
+          "妻子失业导致的家庭压力提升",
+          "对儿子过于苛责，亲子关系受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在儿子比赛或训练中产生灾难化与非黑即白思维，并对其过度苛责",
+          "antecedent": [
+            "观看儿子的足球比赛或训练",
+            "儿子出现失误（如错过擒抱）",
+            "妻子失业后整体压力升高"
+          ],
+          "core_reason": "在家庭压力升高的背景下，因过度概括、预测失败与非黑即白等认知偏差，将单次失误等同永久失败并以控制与批评来寻求确定感",
+          "function": "通过批评与控制以降低焦虑、避免感知到的潜在失败并获取主观掌控感",
+          "consequence": "亲子关系紧张；工作专注度下降；情绪与自我照料受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 85
+}

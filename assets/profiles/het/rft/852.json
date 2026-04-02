@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "李丹娜",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无类似问题史；未接受过心理治疗；无重大躯体疾病。",
+      "language_features": "表达清晰、有条理；能回忆并量化体验（如对活动愉悦度打分）；配合度高、愿意尝试重构思维；情绪低落、描述“空虚”“悲伤”；思维中出现“何必呢”“不会好起来”等消极自动化思维；态度中性。"
+    },
+    "main_problem": "我一直感到极度抑郁，甚至连我曾经喜欢的桨板运动也不再带来任何快乐。这种抑郁大约在六个月前开始，尽管我尝试继续参与过去带来快乐的活动，症状仍逐渐加重，我无法找到具体原因。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这种抑郁严重影响了我的生活质量和对曾经喜欢的活动的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法从任何事情中获得快乐",
+        "事情不会好转"
+      ],
+      "special_situations": [
+        {
+          "event": "尝试进行桨板运动时，曾经喜欢的活动不再带来快乐",
+          "conditional_assumptions": "如果活动不能立刻让我感觉好转，就没有意义；这说明我不会好起来",
+          "compensatory_strategies": "强迫自己继续尝试桨板运动，希望通过重复参与来找回快乐",
+          "automatic_thoughts": "何必呢？这不会让我感觉好一点",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在过去六个月里参与其他过去喜欢的休闲活动（看电影、阅读）时仍感到乏味",
+          "conditional_assumptions": "如果连我曾经喜欢的活动也不再让我快乐，就说明没有任何东西能让我快乐",
+          "compensatory_strategies": "勉强参与但情感上抽离，难以投入其中",
+          "automatic_thoughts": "没有任何东西能让我快乐了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "考虑是否向朋友分享自己的抑郁感受时",
+          "conditional_assumptions": "如果我表达抑郁，他们不会理解，只会让我“赶紧好起来”，这会让我更难受",
+          "compensatory_strategies": "避免深入分享真实程度，保持沉默独自承受",
+          "automatic_thoughts": "他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，能够重新体验到快乐与活力",
+        "fear": "害怕被轻描淡写或否定（被要求“快点好起来”），从而加重痛苦与孤独感",
+        "defense_goal": [
+          "通过保持沉默与不披露来减少被否定或受伤的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被理解、感到空虚的孤独者",
+          "object_representation": "可能会轻视或要求自己“振作”的旁观者",
+          "linking_affect": "无望、恐惧、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "描述参与桨板、看电影、阅读等活动时“毫无意义”“空虚”“悲伤”",
+            "过去热爱的活动如今“没有任何快乐”，体验显著下降（8–9分降至1–2分）",
+            "抑郁持续六个月，难以从日常中获得意义感"
+          ],
+          "outcomes": [
+            "快感缺失（失乐症）",
+            "抑郁加重",
+            "降低参与度与投入感，生活质量下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有几位亲密朋友但未分享抑郁的真实程度",
+            "担心朋友不理解或让自己“快点好起来”而选择不披露"
+          ],
+          "outcomes": [
+            "情感隔离与自我封闭",
+            "社会支持难以发挥作用，主观孤独感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等。",
+          "manifestations": [
+            "不向朋友表达抑郁的真实程度，选择沉默独自承受",
+            "对外求助减少，把痛苦向内吞咽"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "仍尝试参与活动（过去六个月内多次尝试桨板）",
+          "愿意寻求专业帮助并配合认知重构练习",
+          "具备一定的自我观察与量化能力（能够回忆并打分过去与现在的愉悦度）",
+          "拥有一定的社会支持资源（有几位可以倾诉的朋友）"
+        ],
+        "negative_force": [
+          "抑郁情绪持续且广泛影响兴趣与愉悦感",
+          "认知偏差明显（过度概括、非黑即白、对未来的负性预测）",
+          "对外部支持的回避与不披露，导致支持系统难以发挥作用",
+          "将当前负性情绪视为客观事实（情绪化推理），进一步强化无意义感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在参与曾经喜爱的休闲活动时出现快感缺失与消极预测（如桨板、看电影、阅读）",
+          "antecedent": [
+            "尝试进行桨板运动",
+            "观看电影或阅读",
+            "准备或计划参与休闲活动的时刻"
+          ],
+          "core_reason": "六个月来持续的抑郁伴随认知偏差（过度概括、非黑即白、情绪化推理），将当下的空虚感当作事实并对活动效果进行消极预言",
+          "function": "逃避失望与不适，降低投入以避免再次证实“无意义”的体验",
+          "consequence": "生活质量显著下降，兴趣与愉悦感消失或显著降低，社交与日常生活受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 852
+}

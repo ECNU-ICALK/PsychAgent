@@ -1,0 +1,219 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "罗茜",
+      "gender": "女",
+      "occupation": "足球运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和一个年幼的弟妹同住",
+      "social_status": "与新队友连接困难、感觉不属于团队；家庭支持但不完全理解作为运动员的压力",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；问题在一个月前加入新球队后出现",
+      "language_features": "表达清晰、逻辑较好、配合度高，略显紧张并能进行自我反思"
+    },
+    "main_problem": "加入新球队后，总是坐在替补席，觉得自己很无用，这种自我否定影响了训练与比赛的动力、场上表现以及整体心理健康。",
+    "topic": "职业发展",
+    "core_demands": "希望找到方法跨越“无能/无用”的感觉，因为这些感受正在影响其场上表现和整体心理健康。",
+    "growth_experiences": [
+      "在此前的球队中表现自信，常被旧教练称赞其技术与努力，曾被视为队内优秀球员，这一积极经历构成其自我效能与能力感的早期来源。",
+      "一个月前加入新球队后，新的环境与对表现的压力触发了强烈自我怀疑；在训练与比赛中感到被评判，更多时间坐在替补席，尝试与教练和队友沟通、寻求反馈与建议，但未能缓解无力感与不属于感。",
+      "家庭总体支持，可倾诉，但家人对作为运动员所承受的专业压力理解有限，支持更多停留在情感层面而非专业指导。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我不属于这个团队",
+        "我不值得被教练重视"
+      ],
+      "special_situations": [
+        {
+          "event": "在球队训练或比赛时长时间坐在替补席",
+          "conditional_assumptions": "如果我不能上场，就说明我没有价值、能力不足",
+          "compensatory_strategies": "向教练和队友寻求反馈与建议，并在训练中尝试更努力表现",
+          "automatic_thoughts": "我很无用，教练永远不会重视我",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在新球队的训练或比赛中感觉被他人评判",
+          "conditional_assumptions": "如果别人觉得我不够好，就证明我不属于这里",
+          "compensatory_strategies": "在场上紧张与犹豫，减少冒险和尝试以避免错误被看到",
+          "automatic_thoughts": "他们在看不起我、认为我不够好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "加入新球队后面对更高期待与压力的情境",
+          "conditional_assumptions": "如果我不能尽快证明自己，就会一直被忽视、没有上场机会",
+          "compensatory_strategies": "降低参加训练与比赛的意愿，产生回避与拖延",
+          "automatic_thoughts": "我永远无法证明自己，教练不会看到我的价值",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "夜间入睡前反复思考当天的训练与比赛",
+          "conditional_assumptions": "如果不把所有错误反复琢磨，就会继续失败",
+          "compensatory_strategies": "过度思考、忽略积极片段，牺牲睡眠以期改进",
+          "automatic_thoughts": "我今天做得很糟糕，必须纠正所有问题",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有价值的队员、获得上场机会并感到归属",
+        "fear": "害怕被评判为无能、被拒绝或边缘化",
+        "defense_goal": [
+          "通过减少暴露与回避评价来维持安全感",
+          "以自我批评来先行消解外界否定的打击"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、无用的替补球员",
+          "object_representation": "挑剔、评判性的教练与队友",
+          "linking_affect": "羞耻、焦虑、孤独"
+        },
+        {
+          "self_representation": "被欣赏、有能力的球员",
+          "object_representation": "支持与肯定的旧教练",
+          "linking_affect": "自信、愉悦、安心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及“被评判”的经历或他人的反馈未能立刻缓解其焦虑时",
+          "interpretation": "将他人的中性或建设性反馈理解为负面评判与否定（移情：将外界视为挑剔者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和澄清与共情的语气，承认其感受，区分事实与解释，避免评判用语，邀请具体证据与当下体验。"
+        },
+        {
+          "trigger_condition": "当面临“展示自己”或被要求在训练/比赛中更主动时",
+          "interpretation": "若不能完美表现就会被拒绝，因此将挫败转向自我批评与自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用支持性与具体化的提问，降低自我苛责语气，强调过程与渐进目标，鼓励识别可控小步骤。"
+        },
+        {
+          "trigger_condition": "当被安排在替补席或讨论上场资格时",
+          "interpretation": "以“替补=失败、上场=成功”的二元方式看待自己与他人",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "采用温柔的对比与整合策略，指出灰度与多维表现，邀请其同时看到优点与需要改进之处，避免绝对化词语。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在新球队中感到不属于、难以与队友建立联系",
+            "将他人视为评判者，减少开放接触"
+          ],
+          "outcomes": [
+            "焦虑与紧张升高",
+            "训练与比赛动力下降",
+            "睡眠紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自我标签为“无用”，质疑自身价值",
+            "将替补等同于失败，难以体验成就与意义"
+          ],
+          "outcomes": [
+            "自尊受损与自我否定",
+            "回避与拖延行为增加",
+            "表现进一步下滑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“必须在新环境立刻证明自己”当作硬性标准",
+            "以他人期待为主导衡量自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "在场上紧张、犹豫、二次猜测",
+            "过度在意他人评判，反复自我批评",
+            "担心被负面评价而缩减主动接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备真实竞技能力与成功经验（曾被旧教练频繁称赞）",
+          "主动寻求反馈与专业帮助（与教练、队友沟通并进入咨询）",
+          "家庭情感支持可倾诉",
+          "愿意尝试行为实验、保持开放心态"
+        ],
+        "negative_force": [
+          "自我标签化与黑白思维（“替补=失败”）",
+          "过度在意他人评判与读心术倾向",
+          "个人化与自我否定加剧焦虑",
+          "睡眠被打乱与动力下降形成恶性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避或减少参加训练与比赛的动力下降",
+          "antecedent": [
+            "加入新球队后面对高期待与压力",
+            "在训练或比赛中被安排替补",
+            "感觉被教练与队友评判"
+          ],
+          "core_reason": "将“不上场=失败”作黑白化解释，预测会被否定并因此回避以减少焦虑",
+          "function": "逃避负面评价与失败感，暂时维持心理安全",
+          "consequence": "训练与表现进一步下滑，难以获得上场机会，强化“不属于团队”的感受"
+        },
+        {
+          "behavior": "在场上紧张、犹豫、反复自我怀疑与二次猜测",
+          "antecedent": [
+            "队友或教练提出“更自信”的建议",
+            "主观感到他人正在评判自己"
+          ],
+          "core_reason": "高度依赖外部验证、对错误的过度担忧与读心术倾向",
+          "function": "通过减少冒险与尝试来降低被批评的可能性",
+          "consequence": "动作迟缓、表现更差，形成焦虑—失误—自责的恶性循环"
+        },
+        {
+          "behavior": "过度思考导致睡眠紊乱",
+          "antecedent": [
+            "夜间回放训练与比赛表现",
+            "聚焦负面细节并忽略积极部分"
+          ],
+          "core_reason": "试图通过反复思考控制失败与焦虑，存在心理过滤与“必须纠正所有问题”的僵化规则",
+          "function": "以认知过度控制来暂时缓解不确定感",
+          "consequence": "睡眠不足、恢复差、次日训练与比赛状态进一步下降"
+        },
+        {
+          "behavior": "自我贬损言语（如“我很无用”）",
+          "antecedent": [
+            "坐在替补席或出现失误后",
+            "遭遇新环境压力与不属于感"
+          ],
+          "core_reason": "内化的负性核心信念与个人化解释模式",
+          "function": "通过自我否定先行缓冲外界否定的潜在打击",
+          "consequence": "自尊与动力下降、人际疏离、进一步影响竞技表现与团队融入"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1015
+}

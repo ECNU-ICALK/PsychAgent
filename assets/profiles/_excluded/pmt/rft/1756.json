@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "56",
+      "name": "周诚",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "被收养于一个有六个兄弟姐妹的家庭；养父在惠普（HP）工作，母亲在家照料；与兄弟姐妹关系良好",
+      "social_status": "与兄弟姐妹关系良好，但对未来的消极展望影响与他人的互动；有家人可谈但尚未分享担忧",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度较好、语气中性；能具体描述焦虑与担忧的内容，但倾向聚焦负面结果"
+    },
+    "main_problem": "我对未来持消极态度，感到不堪重负并害怕前方的未知。我常常灾难化与仓促下结论，否定积极因素，导致焦虑与恐惧；这些感受使我难以看到规划未来的意义。",
+    "topic": "情绪管理",
+    "core_demands": "关于未来的恐惧和焦虑已开始影响我的日常生活与心理健康，因此希望通过咨询来处理这些问题。",
+    "growth_experiences": [
+      "被收养后在一个有六个兄弟姐妹的家庭成长，养父在惠普工作、母亲主内；与兄弟姐妹关系良好，这一家庭结构与支持氛围构成其重要的早期生活背景。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "未来不可控且必然会变得很糟",
+        "我会成为家人的负担",
+        "无论我做什么，最终都会失败或崩塌"
+      ],
+      "special_situations": [
+        {
+          "event": "在思考长期目标和未来规划时",
+          "conditional_assumptions": "如果未来不能被保证为可控且确定，就意味着我会失败、所有努力都没有意义",
+          "compensatory_strategies": "避免制定详细计划，通过工作或爱好分散注意力来不去想未来",
+          "automatic_thoughts": "无论我做什么，最终都会崩塌",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "听到经济不景气或裁员的消息时",
+          "conditional_assumptions": "如果外部环境有风险，我一定会被裁且之后也找不到工作",
+          "compensatory_strategies": "持续担忧并为最坏情况做心理准备，但不与他人讨论以避免被认为夸张",
+          "automatic_thoughts": "我很快就会失业，之后也找不到工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "老板给予正面反馈、公司运营稳定的情况下",
+          "conditional_assumptions": "只有完全确定与零风险的保障才代表真正的稳定与安全",
+          "compensatory_strategies": "忽视或贬低正面信息，刻意聚焦潜在负面可能",
+          "automatic_thoughts": "这些好消息不算数，我的未来依然很糟",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与家人相处、想到要分享自己的担忧时",
+          "conditional_assumptions": "如果表达焦虑，就会被认为夸张并给家人增添负担",
+          "compensatory_strategies": "保持沉默、不寻求支持以避免给他人带来负担",
+          "automatic_thoughts": "他们会觉得我太夸张，我会成为家人的负担",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全、被理解与被家人接纳，不成为负担",
+        "fear": "害怕失控与失败、被视为夸张或给家人带来负担",
+        "defense_goal": [
+          "通过压抑与回避分享来维持关系的平静与自我安全感",
+          "将注意力转向工作与爱好以暂时降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱且可能成为负担的人",
+          "object_representation": "可能评判自己或被自己拖累的家人/他人",
+          "linking_affect": "焦虑、担心与羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及是否与家人分享对未来的担忧，或在家人面前出现焦虑话题时",
+          "interpretation": "认为表达会被视为“夸张”，并让家人承担负担（移情：担心被评价）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "避免深入细节，使用含糊与概括性表述，迅速转回到一般性担忧或现实话题，语气平稳、收敛情感。"
+        },
+        {
+          "trigger_condition": "当被要求为“失业”担忧提供具体证据或现实依据时",
+          "interpretation": "将宏观不确定性等同为个人必然受害，借外部信息来证明内在恐惧的合理性",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "强调经济数据与新闻故事，用理性分析替代情感表达；语气中性、条理化，淡化主观情绪词。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "觉得未来一片昏暗，“有什么意义呢？”",
+            "难以看到规划未来的价值，倾向否定积极面向"
+          ],
+          "outcomes": [
+            "焦虑与恐惧加剧",
+            "回避长期规划",
+            "动力下降、难以投入当下任务"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有家庭支持资源，但未分享自身恐惧与担忧",
+            "担心被误解或被认为夸张，选择沉默"
+          ],
+          "outcomes": [
+            "与社会支持脱节、内心孤独感增强",
+            "焦虑持续，无法获得关系中的修复性体验"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不与家人讨论对未来的恐惧与焦虑",
+            "将表达与求助的冲动转为自我压抑与分心（保持忙碌）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被认为“过于戏剧化”，过度顾虑他人评价而自我限制表达",
+            "在互动中保持谨慎，减少情感暴露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与六个兄弟姐妹关系良好，具备潜在家庭支持资源",
+          "老板近期的正面反馈与公司稳定的现实信号",
+          "愿意寻求咨询并开放尝试现实检验技术"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与心理过滤等认知偏差主导注意",
+          "否定正面信息，难以整合平衡视角",
+          "回避与压抑情感表达，减少可用的社会支持",
+          "过度在意他人评价，担心成为负担，导致沟通受限",
+          "持续焦虑影响专注与日常功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关于未来的灾难化担忧与反复预演最坏情境",
+          "antecedent": [
+            "思考长期目标与计划时",
+            "听到经济不景气或裁员相关消息时",
+            "进行日常任务时不由自主地走神担忧"
+          ],
+          "core_reason": "对不确定性的低耐受与对失败/成为负担的恐惧，受到长期负性认知模式（灾难化、预测未来、心理过滤）的驱动",
+          "function": "逃避高度不适的焦虑与不确定感，获得“为最坏情况做准备”的短期控制错觉",
+          "consequence": "难以专注当前任务与责任，日常生活被打断，焦虑维持或加剧、未来规划被回避"
+        },
+        {
+          "behavior": "不与家人沟通自身对未来的恐惧与担忧",
+          "antecedent": [
+            "与家人相处时想到要分享担忧",
+            "被询问是否与家人谈及自身焦虑与恐惧时"
+          ],
+          "core_reason": "害怕被视为夸张、担心给家人增添负担，倾向压抑情感以维持关系的表面平静",
+          "function": "避免被评价与产生内疚，维持表面和谐与自我安全感",
+          "consequence": "社会支持利用不足、内心孤独感增强，焦虑持续存在"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1756
+}

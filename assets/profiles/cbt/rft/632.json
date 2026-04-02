@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林佩然",
+      "gender": "女",
+      "occupation": "音乐教师",
+      "educational_background": "音乐硕士学位",
+      "marital_status": "已婚",
+      "family_status": "与配偶和两个孩子同住",
+      "social_status": "与同事的关系因自我怀疑与比较而紧张、疏离",
+      "medical_history": "未曾接受心理治疗；未出现过类似心理问题；无重大躯体疾病",
+      "language_features": "态度中性，表达清晰，能具体描述问题，愿意配合，倾向自我怀疑与自我批评"
+    },
+    "main_problem": "尽管会演奏多种乐器，但我无法掌握其中任何一个，这让我感到挫败和不够好。",
+    "topic": "职业发展",
+    "core_demands": "我希望解决持续的自卑感，重建对自身音乐能力的信心；在练习或演出时更有自信、减少与他人的比较，并能够“无自我批评地完成一次演奏”，重新享受音乐。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/不够好",
+        "我是一个骗子"
+      ],
+      "special_situations": [
+        {
+          "event": "开始教授更高级的学生，直接看到学生的高水平演奏与技术",
+          "conditional_assumptions": "如果学生比我更强，就证明我不配当老师；我必须比学生更强才能称职",
+          "compensatory_strategies": "设定不切实际的目标、加班练习以证明自己",
+          "automatic_thoughts": "他们会看出我不行，我会被揭穿",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在练习或演出时出现一些失误或遇到困难段落",
+          "conditional_assumptions": "如果不能完美演奏，就说明我没有真正掌握任何乐器",
+          "compensatory_strategies": "反复练到完美、严厉自我批评",
+          "automatic_thoughts": "我根本没有掌握任何乐器",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与同事或学生比较，看到他们的亮点与成就",
+          "conditional_assumptions": "别人比我优秀就意味着我不够好、不该享受音乐",
+          "compensatory_strategies": "寻求他人认可以缓解焦虑，同时减少与同事交流",
+          "automatic_thoughts": "我不如他们",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "收到他人的正面反馈或被认可时",
+          "conditional_assumptions": "他人的认可不算数，只有达到我设定的极高标准才算有能力",
+          "compensatory_strategies": "继续提高标准、忽视正面证据",
+          "automatic_thoughts": "这些表扬并不代表我真的有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为胜任且优秀的音乐人与教师，得到认可并享受音乐的意义感",
+        "fear": "害怕被看穿不够专业、被评判与否定，最终被贴上“骗子”的标签",
+        "defense_goal": [
+          "通过不断提高标准与自我批评来避免被看作不够好",
+          "保持与同事的距离以减少被比较和被评判",
+          "寻求外部认可以暂时缓解不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能被揭穿的教师/音乐人",
+          "object_representation": "挑剔的评判者（更优秀的同事与学生）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到向配偶或同事表达困难、寻求支持时",
+          "interpretation": "认为表达会给对方带来负担，或引来他人的评判与轻视",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、克制的语气强调“我不想麻烦别人”，转而自我消化问题，减少情感暴露与求助请求。"
+        },
+        {
+          "trigger_condition": "当面对学生/同事的高水平表现或他人的沉默与中性反馈时",
+          "interpretation": "将内在的羞耻与自我否定投射为他人的负面看法（他们会认为我不行）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用模糊与回避式表达，降低自我暴露，强调他人“可能会看不起我”，从而避免进一步深入讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "享受音乐的体验减少，练习与演出时被自我批评主导",
+            "以他人标准衡量自我价值，难以在工作中体验自我一致感"
+          ],
+          "outcomes": [
+            "自我怀疑与冒名顶替感",
+            "工作倦怠与压力增加",
+            "睡眠质量下降与注意力受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与支持性的配偶分享困难与感受",
+            "与同事疏离，因比较而减少交流"
+          ],
+          "outcomes": [
+            "可用支持未被利用，主观孤立感增强",
+            "负性情绪自我循环加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定与自我批评",
+            "在练习/演出时高度关注错误并放大其意义",
+            "担心给他人带来负担而不求助"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "想寻求配偶支持却选择忍耐与自我消化",
+            "将对外求助的需求转为加倍练习、提高标准来压住焦虑"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "固守“必须比学生更强才称职”的绝对标准",
+            "将他人的认可视为“不算数”，只有达到自订高标准才承认自己有能力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶（可提供情感支持）",
+          "具备多年音乐训练与多乐器演奏能力的专业基础",
+          "主动寻求咨询、愿意尝试结构化的行为实验与记录"
+        ],
+        "negative_force": [
+          "强烈的自我比较与冒名顶替感",
+          "设定不切实际的目标并依赖外部认可来确认自我价值",
+          "认知歪曲：心理过滤、否定积极、预测未来、过度概括",
+          "睡眠与专注受影响，工作表现下降、与同事疏离"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在练习与演出中进行过度自我批评与比较，伴随焦虑与回避倾向",
+          "antecedent": [
+            "练习或演出情境",
+            "看到同事或学生的高水平表现",
+            "出现失误或困难段落"
+          ],
+          "core_reason": "认知歪曲与冒名顶替感驱动（将个别失误泛化为“完全不行”，预测被揭穿）",
+          "function": "逃避被评判与失败、试图通过自我批评获得控制感",
+          "consequence": "工作压力与倦怠增加、音乐的乐趣下降、与同事疏离"
+        },
+        {
+          "behavior": "设定不切实际的目标并持续寻求外部认可",
+          "antecedent": [
+            "面对高级教学任务或专业评估",
+            "与他人比较后感到不安"
+          ],
+          "core_reason": "自我价值过度依赖外部认可与绝对标准，否定正向证据",
+          "function": "短暂缓解不安、获得他人赞许以维持自尊",
+          "consequence": "压力与自我否定加重，睡眠与专注受影响，长期效果适得其反"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 632
+}

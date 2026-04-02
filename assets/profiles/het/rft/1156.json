@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "陈婧",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "独居，祖父母已去世",
+      "social_status": "未披露",
+      "medical_history": "无重大躯体疾病；以往未出现类似问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较好，能配合探索并描述具体生理反应；语气偏紧张与担忧，常出现灾难化与预测未来的思维；对与他人分享困扰有所顾虑，倾向内化自我限制。"
+    },
+    "main_problem": "我害怕吃太多巧克力，因为我相信这会导致体重超标并发展成糖尿病。这种恐惧已经持续了几个月，是在我读到一篇关于摄入过多糖分危害的文章后开始的。我几乎每天都担心，一想到巧克力就非常焦虑，并在吃时感到内疚，因而开始限制摄入，影响了饮食和对食物的享受。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这种恐惧和焦虑开始影响我的日常生活以及我对巧克力的喜爱。我想在它进一步影响整体健康之前解决这个问题。",
+    "growth_experiences": [
+      "几个月前阅读了一篇关于摄入过量糖分健康风险的文章，该信息引发强烈担忧；此后每当看到或想到巧克力，便联想到“增重”和“糖尿病”的严重后果，伴随焦虑与内疚，并开始限制摄入，影响日常饮食与愉悦感。",
+      "在阅读该文章之前，曾经能适度享用巧克力且未出现负面健康后果；与当前状态形成对比，加剧了困惑与自我限制。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "吃巧克力会不可避免地导致增重和糖尿病",
+        "一旦开始吃甜食我就会失控"
+      ],
+      "special_situations": [
+        {
+          "event": "在商店路过巧克力货架或看到/想到巧克力",
+          "conditional_assumptions": "如果我吃了一块，就会失控吃很多，最终增重并得糖尿病",
+          "compensatory_strategies": "尽量回避巧克力并严格限制摄入，不与他人谈论此恐惧以减少诱发",
+          "automatic_thoughts": "一块会变成很多，我一定会变胖并得糖尿病",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "联想到此前阅读的关于糖分危害的文章内容",
+          "conditional_assumptions": "如果我沉溺于自己喜欢的食物，就是对健康不负责任，会招致严重疾病",
+          "compensatory_strategies": "用健康风险信息不断提醒自己，强化警惕以避免享用",
+          "automatic_thoughts": "我正在把自己推向疾病，我会后悔",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "实际吃下一小块巧克力后",
+          "conditional_assumptions": "吃任何量都是错误，必然直接带来有害后果",
+          "compensatory_strategies": "自我苛责并进一步增加限制，甚至完全停止食用",
+          "automatic_thoughts": "我做错了，这会伤害我的身体",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "想到巧克力时出现心跳加速、胸闷等身体反应",
+          "conditional_assumptions": "强烈不适感证明事情真的很危险",
+          "compensatory_strategies": "立即停止进食并远离该环境以减轻不适",
+          "automatic_thoughts": "我感觉这么糟糕，说明吃巧克力真的很危险",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在没有内疚与恐惧的情况下享受自己喜欢的食物（巧克力）",
+        "fear": "害怕失控并给健康带来严重后果（增重、糖尿病）",
+        "defense_goal": [
+          "通过强控制与回避来保持安全感、降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易失控、需要强自律来避免伤害的自己",
+          "object_representation": "作为危险诱惑的巧克力/甜食（一旦接触就会带来坏结果）",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请检视证据、进行认知重构或尝试适度享用巧克力时",
+          "interpretation": "来访者倾向将享受等同于失控与健康威胁，转而以理性分析来控制情绪（移情：将情感转为理性）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和、结构化提问，先共情其担忧，再引导区分事实与猜测；提供具体证据探问，避免对抗与评价。"
+        },
+        {
+          "trigger_condition": "当谈到是否与朋友分享担忧、寻求支持时",
+          "interpretation": "倾向认为他人会觉得自己夸大或不理解（移情：投射他人负面评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用接纳与验证的语气，承认其顾虑的合理部分，邀请区分“设想”与“证据”，用开放式问题温柔探索可能的支持来源。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在“享受喜欢的食物”与“自我约束/健康风险”之间陷入拉扯，倾向以强控制限制选择",
+            "担心后果导致难以做出自由选择，享受感被剥夺"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "内疚与自我苛责",
+            "生活乐趣下降、体验受限"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心他人认为自己反应过度而不愿分享困扰",
+            "在重要议题上自我封闭、减少外界支持"
+          ],
+          "outcomes": [
+            "支持系统未被动员，焦虑维持",
+            "羞耻与回避增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将关于糖分危害的外界信息视为绝对规则来约束自己",
+            "以“不能吃太多”“必须严格控制”的标准对待自己（内化他律）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注可能后果，谨慎到影响正常选择与享受",
+            "吃少量巧克力也产生强烈内疚与自我批评"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "克制享用巧克力的冲动，将能量转为自我限制与自责",
+            "不向朋友寻求支持，转而内部压抑与控制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "理性一面能够承认适度享用并非必然有害（可与证据对话）",
+          "愿意寻求专业帮助并尝试步骤化调整（动机较好）",
+          "具备一定的社会支持资源（有几位朋友可交流）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式强烈",
+          "回避与过度限制行为维持焦虑循环",
+          "内疚与自我苛责倾向明显，易否定正常的享受",
+          "对外界健康风险信息的僵化内化（内摄）",
+          "生理性焦虑反应（心率增快、胸闷）强化威胁感知"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度限制巧克力摄入并伴随强烈焦虑与内疚",
+          "antecedent": [
+            "看到或想到巧克力",
+            "在商店路过巧克力货架",
+            "联想到此前阅读的糖分危害文章"
+          ],
+          "core_reason": "灾难化与预测未来的认知（担心“一块会变很多，必然增重并得糖尿病”）驱动恐惧与自我限制",
+          "function": "逃避感知到的健康风险并短时降低焦虑",
+          "consequence": "饮食习惯被打乱、对食物的享受下降、日常生活受影响；焦虑与内疚持续，出现心率加快与胸闷等不适"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1156
+}

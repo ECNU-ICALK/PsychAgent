@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "林伟",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "多次离婚",
+      "family_status": "未提及",
+      "social_status": "缺乏社会支持；与知晓其困扰的人关系紧张",
+      "medical_history": "无显著躯体疾病；未接受过类似心理治疗；既往未出现与拼写或自责相关的问题",
+      "language_features": "表达清晰，能具体描述情境与感受；思维偏负面、反复自责；对改变持怀疑但愿意尝试；语速未提及"
+    },
+    "main_problem": "我一直对自己当前的拼写能力感到内疚与自责。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到自责与内疚正在影响我的日常生活并造成显著的痛苦。",
+    "growth_experiences": [
+      "三年级赢得拼字比赛，此后将过去的成功视为必须永远维持的标准；当拼写不如从前时，将责任完全归咎于自己，并长期陷入内疚与自责。",
+      "婚姻史为多次离婚，伴随人际关系紧张与社会支持薄弱，这些经历加剧了自尊与信心的受损。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "都是我的错",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中需要发送电子邮件或填写报告",
+          "conditional_assumptions": "如果拼写出现任何错误，就说明我不称职、我失败了",
+          "compensatory_strategies": "强行忽视负面情绪、硬撑着把任务完成",
+          "automatic_thoughts": "这是我的错，我应该一直保持练习，否则我就搞砸了",
+          "cognitive_pattern": "Should\" Statements"
+        },
+        {
+          "event": "需要撰写工作备忘录",
+          "conditional_assumptions": "如果不能像三年级时那样拼写完美，就说明我退步且不可原谅",
+          "compensatory_strategies": "通过被其他工作或任务分散注意力来暂时缓解焦虑",
+          "automatic_thoughts": "每一个错误都在被放大，我不如过去的自己",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "遇到任何需要拼写的任务（写邮件、填表、写报告等）",
+          "conditional_assumptions": "如果现在拼写不好，就证明我就是不行，并且以后也会一直如此",
+          "compensatory_strategies": "试图忽视并硬撑过去",
+          "automatic_thoughts": "我总是会搞砸，未来也会这样",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想三年级赢得拼字比赛的经历",
+          "conditional_assumptions": "过去的成功设定了我必须永远达到的标准，低于此标准就等于失败",
+          "compensatory_strategies": "贬低或否认现在任何积极变化，将注意力集中在错误上",
+          "automatic_thoughts": "那次获胜不算数，当前的失误才说明我失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、维持过去的优秀表现以保障自尊",
+        "fear": "害怕失败与被批评，从而自我价值崩塌、让他人失望",
+        "defense_goal": [
+          "通过自我指责来维持对错误的控制感",
+          "压抑情绪并硬撑完成任务以避免暴露脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、会让人失望的失败者",
+          "object_representation": "苛责、放大错误的评判者",
+          "linking_affect": "羞愧、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出尝试行为实验或改变认知时",
+          "interpretation": "认为无论做什么都没有用，最终仍会回到原点（改变无效）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用稳定、共情的语气，承认其怀疑，邀请以“小步尝试”为框架，强调不以成败评判，仅收集经验。"
+        },
+        {
+          "trigger_condition": "当被询问具体错误或谈到自责与内疚时",
+          "interpretation": "将所有失误归咎于自己，以免面对他人可能的评价或批评",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "避免强化自责，用温和的反映与重述，引导区分事实与评价，并鼓励自我慈悲语句。"
+        },
+        {
+          "trigger_condition": "当谈及过去的成功与现在的差距时",
+          "interpretation": "把过去的外在标准不加消化地当作绝对规则（必须永远完美）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以好奇与尊重的语气探问该标准的来源与适用范围，邀请采用连续谱与具体证据重新评估。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "没有强有力的社会支持系统来讨论自责与内疚",
+            "与知晓其困扰的人关系紧张"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑与挫败感加重",
+            "陷入负性思维循环"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感觉不管做什么最终都会回到原点",
+            "对改变持怀疑态度"
+          ],
+          "outcomes": [
+            "无助感",
+            "动力下降",
+            "回避体验与情绪压抑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“我应该一直保持练习”的自我要求",
+            "以过去的成功作为必须永远维持的绝对标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "反复自责并认为“都是我的错”",
+            "对尝试改变持谨慎与怀疑，担心再次失败"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾在三年级赢得拼字比赛，说明具备基础的语言与拼写能力",
+          "能够清晰描述问题循环（识别自责—焦虑—进一步自责的模式）",
+          "愿意尝试小步行为实验以检验信念"
+        ],
+        "negative_force": [
+          "强烈的自我指责与内疚",
+          "认知偏差显著（Should Statements、Mental Filtering、Overgeneralization、Disqualifying the Positive等）",
+          "缺乏社会支持，关系紧张",
+          "以过去完美标准评判当下表现，导致自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在需要拼写时出现显著的焦虑与自责",
+          "antecedent": [
+            "在工作中撰写电子邮件",
+            "填写报告或表格",
+            "撰写备忘录",
+            "面对任何需要拼写的任务"
+          ],
+          "core_reason": "将三年级的成功内化为必须永远维持的完美标准，对当前错误进行灾难化与全或无评判并完全自我归责",
+          "function": "逃避外界评价与羞耻感（通过自责与忽视情绪硬撑来获得控制感）",
+          "consequence": "自尊与信心下降，工作与学习中的专注与效率受损，人际关系紧张"
+        },
+        {
+          "behavior": "回避情绪并强行忽视、硬撑完成任务",
+          "antecedent": [
+            "遇到拼写任务时感到内疚与焦虑"
+          ],
+          "core_reason": "担心直面负面情绪会加剧痛苦，认为只能压抑情绪才能继续工作",
+          "function": "避免停下来面对焦虑，维持任务表面完成",
+          "consequence": "负性情绪加剧，形成反复的自责—焦虑—硬撑的恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1682
+}

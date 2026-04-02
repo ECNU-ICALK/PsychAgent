@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "张宇",
+      "gender": "男",
+      "occupation": "家庭主夫",
+      "educational_background": "高中学历",
+      "marital_status": "已婚，配偶为牧师",
+      "family_status": "有两个孩子",
+      "social_status": "未提及",
+      "medical_history": "未经历类似问题；过去未接受心理治疗；无重大躯体疾病",
+      "language_features": "合作度较高，能清晰表达压力与不堪；语句中多出现绝对化词语（如“永远”“总是”）；态度偏消极与怀疑；在谈及与配偶沟通时表现出羞耻与自我怀疑；情绪受家务状态强烈影响。"
+    },
+    "main_problem": "我非常不喜欢打扫房子，因此认为家里会一直脏乱且不整齐。成为家庭主夫后开始出现这些感受与想法；每次看到家中的杂物或污垢（几乎每天）都会出现负性想法，压力与不堪影响我的情绪与日常功能。我尝试过不同的清洁时间表和方法，但仍难以维持整洁的家。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我关于清洁和家中状态的负面想法正在影响我的心理健康与家庭生活。",
+    "growth_experiences": [
+      "从全职工作者转变为在家照料家庭的家庭主夫后开始持续出现与家务相关的压力和负性信念；几乎每天在看到杂乱或污垢时触发无助与绝望感；尽管尝试过不同的清洁日程与方法，仍难以维持整洁，逐渐打乱了日常作息与自我照顾；与配偶关系受家务压力影响，因羞耻与“失败感”而难以充分表达困境，虽有支持性配偶但感到“不被完全理解”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不称职（无法胜任家庭主夫的角色）",
+        "我无法控制家里的整洁"
+      ],
+      "special_situations": [
+        {
+          "event": "每次在家里看到杂乱或污垢（几乎每天）",
+          "conditional_assumptions": "如果我不能让家里保持整洁，就说明我不称职/失败",
+          "compensatory_strategies": "尝试不同的清洁时间表和方法；把大量时间与精力投入打扫",
+          "automatic_thoughts": "这永远会这样；我的家会一直很糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "从全职工作转为在家成为家庭主夫的角色转变",
+          "conditional_assumptions": "如果在家务上做不到完美，就等于完全失败",
+          "compensatory_strategies": "给自己施加压力，试图独自承担全部家务以证明自己能胜任",
+          "automatic_thoughts": "我就是无法胜任这个角色",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当既定的清洁方法或计划没有立刻奏效时",
+          "conditional_assumptions": "如果一种方法不起作用，那就说明无论我做什么都没用",
+          "compensatory_strategies": "逐渐放弃尝试、减少与家人沟通以避免被评价",
+          "automatic_thoughts": "既然没用，为什么还要尝试？",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当考虑从小范围开始清洁时",
+          "conditional_assumptions": "如果我只清理一小部分，其余地方会更糟糕",
+          "compensatory_strategies": "犹豫、延迟开始或继续寻找“完美”的整体方案",
+          "automatic_thoughts": "如果我只做一点，其他区域就会失控",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与认可，作为家庭主夫被视为称职",
+        "fear": "害怕被配偶或家人认为失败、不称职，从而被批评或否定",
+        "defense_goal": [
+          "通过避免充分表达脆弱与困难来保护自尊",
+          "以“找理由不尝试”与强调外在困难来降低被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易被凌乱压倒的失败者",
+          "object_representation": "支持但可能不理解、潜在会评判自己的配偶",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或配偶建议从小步骤开始或提出具体清洁方案时",
+          "interpretation": "将建议理解为对自己能力的暗示与评判，担心被视为不称职",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但迟疑的语气表达怀疑，重复“我已经试过很多”“这不一定有用”，避免立即承诺行动，同时邀请对方理解自己的不堪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在看到杂乱时反复出现“永远不会变好”“为什么还要尝试”的想法",
+            "对清洁与自我照顾失去动力与希望"
+          ],
+          "outcomes": [
+            "无助与绝望感增强",
+            "行为回避与拖延",
+            "日常功能下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对向配偶充分表达压力与不堪感到羞耻与为难",
+            "觉得配偶并不能完全理解自己的不堪"
+          ],
+          "outcomes": [
+            "情绪负担加重",
+            "关系紧张与沟通受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”式自我要求，如“这本该是我能处理好的”",
+            "以完美标准评价家务表现，难以接纳不完美"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在与配偶沟通时过度担心被评价为失败",
+            "自我批评、羞耻感强，难以开放寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "配偶具有支持性，愿意倾听",
+          "愿意寻求咨询、对尝试小步改变持开放态度（虽有怀疑）",
+          "曾经尝试不同的清洁计划与方法，具有一定行动意愿",
+          "能清晰识别并表达自己的负性自动化思维"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知偏差显著",
+          "寻求外部认可与害怕被评判，导致羞耻与回避沟通",
+          "自我效能感低、无力与绝望感强",
+          "自我照顾与日常作息被打乱，压力积累影响家庭关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到家中杂乱与污垢时出现强烈的绝望感并回避/放弃清洁行动，伴随易怒影响家人",
+          "antecedent": [
+            "看到家中的杂乱或污垢（几乎每天）",
+            "既定清洁方法未见立竿见影的效果",
+            "与配偶或咨询师讨论家务时担心被视为失败"
+          ],
+          "core_reason": "受“我不称职”“家里永远不会好”的核心信念与灾难化、非黑即白、过度概括、预测未来等认知模式驱动",
+          "function": "短期逃避失败与被评判的风险、暂时降低焦虑和挫败感",
+          "consequence": "家庭环境持续混乱；日常功能与自我照顾受损；与配偶和孩子的关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1520
+}

@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "编辑（居家办公，已被解雇）",
+      "educational_background": "",
+      "marital_status": "未婚",
+      "family_status": "与父亲和兄弟同住，养有一只宠物猫",
+      "social_status": "因抑郁与焦虑导致社交受限，常待在家中，外出与社交减少",
+      "medical_history": "既往抑郁与焦虑史；此前未接受过相关治疗或咨询；无重大躯体疾病报告",
+      "language_features": "表达清晰，思路连贯，能具体描述自动化想法；配合度较高；情绪低落并伴明显焦虑"
+    },
+    "main_problem": "来访者存在抑郁和焦虑，导致外出和社交困难。最近失去居家办公的工作后出现灾难化思维，担心自己再也找不到工作并可能无家可归，收入丧失与对未来的不确定性带来较高压力。",
+    "topic": "情绪管理",
+    "core_demands": "因失业后对未来的巨大恐惧与负性思维模式（灾难化、预测未来、非黑即白）而来访，希望获得专业帮助以缓解焦虑和抑郁、识别并改变负性自动思维。",
+    "growth_experiences": [
+      "既往长期存在抑郁与焦虑史，但此前并未遭遇失业；未曾接受过系统的心理治疗或咨询，这些问题已对社交与日常作息造成持续影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法掌控不确定的未来，一旦出错就会走向灾难",
+        "我不够胜任，没人会要我"
+      ],
+      "special_situations": [
+        {
+          "event": "被远程编辑工作解雇",
+          "conditional_assumptions": "如果失去收入，就会很快无法支付账单，最终走向无家可归",
+          "compensatory_strategies": "待在家里回避外出和社交，反复担忧并沉浸于最坏情境的想象",
+          "automatic_thoughts": "我再也找不到工作了，我会无家可归",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到每月账单与房租即将到期",
+          "conditional_assumptions": "如果短时间内找不到工作，就一定会被驱逐，没有地方可去",
+          "compensatory_strategies": "回避查看账单和与他人沟通求助，在脑中不断预演最坏结果",
+          "automatic_thoughts": "我马上就会被赶出去",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "打开招聘网站或想到投递简历",
+          "conditional_assumptions": "如果不能很快被录用，就证明我不行，而且未来会一直如此",
+          "compensatory_strategies": "拖延与减少投递，只在脑中作极端化评判而非逐步尝试",
+          "automatic_thoughts": "没有人会雇我，我会永远卡在这里",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回忆以往求职经历（过去找工作并不困难）",
+          "conditional_assumptions": "过去的成功不算数，这次情况完全不同",
+          "compensatory_strategies": "否定积极证据以维持负面预测，持续关注潜在失败",
+          "automatic_thoughts": "这次完全不一样，以前的经历帮不了我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全与可预期的生活，获得稳定与被接纳（被雇用、能自我维持）",
+        "fear": "害怕失控与被拒绝，最终失去住所与支持而被遗弃",
+        "defense_goal": [
+          "通过回避和待在家里来降低焦虑",
+          "通过在脑中预演最坏结果来获得一种虚假的控制感",
+          "与他人保持低接触以避免被评估和拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无助且不被需要的求职者",
+          "object_representation": "苛刻、拒绝且难以把握的外界与雇主",
+          "linking_affect": "焦虑、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "谈及采取具体求职行动（如更新简历、投递）或面对不确定的结果时",
+          "interpretation": "将不确定性解读为“注定失败”，觉得努力也无意义",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为难以接受的行为或结果编造看似合理的理由，以减轻内在冲突与焦虑。",
+          "response_instruction": "先共情其无力与担忧，温和指出“感受与事实”的差异，使用具体化与小步分解的提问，邀请其描述可验证的证据与最小可行行动。"
+        },
+        {
+          "trigger_condition": "讨论财务压力与住房安全时反复浮现最坏场景（被驱逐、流落街头）",
+          "interpretation": "以灾难化意象替代现实评估，认为负面结局不可避免",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境，从而降低焦虑。",
+          "response_instruction": "以稳定、低唤起的语气接住恐惧，邀请区分“想象的画面”与“当前可观察事实”，引导进行情境分级与概率估计。"
+        },
+        {
+          "trigger_condition": "在会谈末尾被邀请设定可执行的求职微目标与日程时",
+          "interpretation": "将控制感放回当下可控范围，试图为未来的不适预做准备",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来可能的不适或困难预先做好情感与实际准备，以减轻焦虑。",
+          "response_instruction": "肯定其主动规划与自我效能，协助设定可衡量的小目标与反馈周期，以支持现实而弹性的期待。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "失业后感到“一切似乎无望”",
+            "对未来的消极预期使当下行动体验失去意义感"
+          ],
+          "outcomes": [
+            "抑郁加重与行为退缩",
+            "动力降低、拖延与回避求职"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对自由与选择背后的不确定性与责任感到焦虑",
+            "倾向以灾难化来对抗不确定并寻求虚假控制感"
+          ],
+          "outcomes": [
+            "压力增大与决策困难",
+            "回避现实任务、行动受阻"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因抑郁与焦虑而减少外出与社交",
+            "多待在家中，互动范围受限"
+          ],
+          "outcomes": [
+            "社会支持进一步弱化",
+            "焦虑与抑郁在封闭环境中被强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制，伴随自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我否定（“没有人会雇我”）",
+            "担忧“努力也没用”，降低尝试频率"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本指向外界的能量与需求转而对自己实施或压抑，放弃寻求外部支持。",
+          "manifestations": [
+            "待在家里、减少外出与社交",
+            "在内心反复咀嚼焦虑而非向外求助或行动"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "未经消化地把外界规则或期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "以非黑即白的标准看待求职（“短期内没成功就证明我不行”）",
+            "将“必须立即稳定”视为唯一可接受的结果"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "以往有求职与工作经验，曾经找工作并不困难",
+          "与父亲和兄弟同住，具备基本生活支持与潜在的情感支持",
+          "具备编辑岗位技能基础（可迁移的职业能力）",
+          "宠物猫的陪伴可提供一定的情绪抚慰与日常结构感"
+        ],
+        "negative_force": [
+          "显著的灾难化、预测未来与非黑即白思维模式",
+          "长期抑郁与焦虑导致的回避与行为退缩",
+          "对不确定性容忍度低，倾向以最坏结果预演来寻求虚假控制",
+          "失业造成的经济压力与对未来的不确定性"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避外出与社交，并减少求职相关行动",
+          "antecedent": [
+            "想到账单与房租等财务压力",
+            "回想被解雇情景或面临求职不确定性"
+          ],
+          "core_reason": "在失业打击与既往焦虑背景下形成灾难化与非黑即白认知，认为努力无效而选择回避",
+          "function": "短期逃避不确定与评估压力，暂时降低焦虑唤起",
+          "consequence": "持续失业与社交缩减，负性情绪被进一步强化"
+        },
+        {
+          "behavior": "反复出现灾难化思维与负面意象（被驱逐、无家可归）",
+          "antecedent": [
+            "谈及求职、财务与住房安全等话题",
+            "面临对未来结果的不可控与不确定感"
+          ],
+          "core_reason": "对不确定性耐受低，通过最坏情境预演寻求虚假控制与准备感",
+          "function": "试图在认知上“先行准备”最坏情况以缓解焦虑",
+          "consequence": "焦虑与抑郁水平上升，行动受阻与拖延加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 750
+}

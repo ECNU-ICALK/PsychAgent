@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "林莎",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "高中学生",
+      "marital_status": "未婚",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "有朋友和家人可谈一般问题，但未与他们讨论这些具体感受",
+      "medical_history": "此前未有类似心理问题；未接受过心理治疗或咨询；无重要躯体疾病",
+      "language_features": "表达清晰、配合度高，能识别并报告“应该”句式与自我比较；自我批评较多；语速与逻辑未提及"
+    },
+    "main_problem": "对自我持续不满，反复出现“我应该更大更大胆，不能只是普通的美国青年”的念头；与他人比较使压力加重，影响自尊与整体幸福感。",
+    "topic": "个人成长",
+    "core_demands": "因为持续的压力与对自我的不满影响日常生活与人际关系而寻求咨询支持。",
+    "growth_experiences": [
+      "今年夏天陷入恋爱后开始出现强烈的自我不满意与“应该变得更成功、更外向、更令人印象深刻”的压力；此后几乎每日在看到他人取得成就或冒险时被触发，逐渐影响学习成绩、人际关系与心情。",
+      "长期在社交媒体上与他人进行比较：他人似乎拥有“精彩生活”，由此强化“自己只是普通、不够好”的感受，增加压力与自我批评。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "平庸是不可接受的"
+      ],
+      "special_situations": [
+        {
+          "event": "今年夏天恋爱后，面对亲密关系的期待与自我要求",
+          "conditional_assumptions": "如果我只是普通、不是更成功或更外向，就不配得到喜欢与认可",
+          "compensatory_strategies": "强迫自己走出舒适圈，试图变得更大胆、更外向以证明价值",
+          "automatic_thoughts": "我应该更成功、更大胆，不能只是普通",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "每当看到他人取得伟大成就或大胆冒险",
+          "conditional_assumptions": "如果不比同龄人更出色，就等于落后和失败",
+          "compensatory_strategies": "频繁与他人比较，给自己施压要求更高表现",
+          "automatic_thoughts": "我不如他们，我应该做得更多",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "浏览社交媒体，看到他人看似精彩的生活与成就展示",
+          "conditional_assumptions": "如果我的生活不像他们那样精彩，就说明我不够好",
+          "compensatory_strategies": "增加刷社交媒体与自我评估，忽视自身积极面",
+          "automatic_thoughts": "大家都过得比我好，我太平庸了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当试图肯定自己的优点（善良、支持家人朋友）时",
+          "conditional_assumptions": "只有卓越与成就才算价值，善良等优点“不算数”",
+          "compensatory_strategies": "否定或贬低自身积极品质，继续自我批评",
+          "automatic_thoughts": "这些优点不够，我仍然不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱与被认可，希望自己更“出色”",
+        "fear": "害怕被视为平庸而被忽视或不被爱",
+        "defense_goal": [
+          "通过自我苛责与不断比较来维持控制感和价值感",
+          "以更高标准约束自己以避免被拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "普通且不够好的自我，需要不断提升以证明价值",
+          "object_representation": "他人/世界是挑剔的评判者，只认可更成功、更外向的人",
+          "linking_affect": "羞愧、焦虑、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到他人在现实或社交媒体上取得成就或展现精彩生活时",
+          "interpretation": "认为自己明显不如他人，若不变得更优秀就会被忽视或不被爱",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和、共情的语气回应其自责，帮助识别比较—自我价值的混淆，邀请具体化当下体验，避免评判。"
+        },
+        {
+          "trigger_condition": "当被他人或咨询师邀请肯定自身优点、练习自我接纳时",
+          "interpretation": "把“善良/支持家人”视为不够重要，认为只有更成功、更大胆才配得认可",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持好奇且支持性的语气，温柔复述其逻辑并引导辨识价值条件与情感需求，鼓励停留当下感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“更成功、更大胆”视为存在价值的证明，认为“普通”没有价值",
+            "频繁与他人比较以确认自我意义"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑与压力增大",
+            "学业表现下降",
+            "关系紧张"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被大量“应该”规则束缚，感到必须成为更大的、更大胆的自己",
+            "难以允许真实自我与当下体验"
+          ],
+          "outcomes": [
+            "内在冲突与自我不满",
+            "享受生活活动的乐趣减少"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未与家人朋友谈论具体感受，难以暴露脆弱",
+            "恋爱后更担心被忽视，从而加剧比较"
+          ],
+          "outcomes": [
+            "关系疏离与紧张",
+            "情感支持的利用度低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复出现“我应该更成功/更外向/更大胆”的陈述",
+            "将社交媒体的成功叙事视为必须遵守的标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自我批评，认为“不够好”",
+            "担心被忽视而对自我表现施加更高压力",
+            "在现实关系中因自责而疏远家人和朋友"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并积极参与咨询",
+          "能识别并愿意挑战“应该”语句",
+          "具备善良、支持他人的人格特质",
+          "拥有家人和朋友的基本支持网络",
+          "对练习感恩与重构持开放态度"
+        ],
+        "negative_force": [
+          "频繁与他人比较，外部评价依赖强",
+          "内摄的价值条件：将“卓越”等同于“有价值”",
+          "社交媒体造成的现实过滤与扭曲",
+          "自我批评强烈，难以接纳普通的自己",
+          "未向亲友表达具体感受导致支持未被利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复进行自我比较并以“应该”句式自我苛责",
+          "antecedent": [
+            "看到他人取得成就或大胆冒险",
+            "浏览社交媒体的“精彩生活”",
+            "恋爱后面对亲密关系期待与自我要求"
+          ],
+          "core_reason": "内化的价值条件与自我价值依赖外部比较，认为平庸不可接受、必须更成功更外向才值得被爱与认可",
+          "function": "寻求外部认可并避免被视为平庸或被忽视",
+          "consequence": "自尊受损、学业表现下降、人际关系紧张、整体幸福感与日常活动兴趣减退"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1705
+}

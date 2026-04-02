@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林薇",
+      "gender": "女性",
+      "occupation": "退休",
+      "educational_background": "高中毕业",
+      "marital_status": "丧偶",
+      "family_status": "居住在乡村的独立住宅，独居；附近无直系亲属",
+      "social_status": "与邻居关系良好，常获得园艺建议支持；缺乏近亲的情感支持",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；以往未出现类似园艺失败经历",
+      "language_features": "表达清晰、配合度较高，能描述自动化思维；存在自我批评与比较倾向"
+    },
+    "main_problem": "因为今年胡萝卜作物失败，我觉得自己是个糟糕的园丁，由此产生了无能感与自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "今年作物失败显著影响了我的自尊与信心，因此希望通过咨询来应对与改善这种无能感。",
+    "growth_experiences": [
+      "父亲是一名作者，来访者长期以父亲的成功为参照并深受其影响，崇敬父亲的成就，同时在自我评价中以父亲的职业与成绩作为标准，逐渐形成“我应该像父亲一样”的内在要求。",
+      "一次去澳大利亚（父亲出生地）的旅行后，与父亲的成功职业进行比较显著加重了自责与不够感；旅行中原本的愉悦被“我未能延续父亲的道路”的想法取代，产生“我是失败者”“我让他失望”的自动化思维；因羞耻与尴尬未与父亲直接讨论这些感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好/不称职"
+      ],
+      "special_situations": [
+        {
+          "event": "今年胡萝卜作物失败",
+          "conditional_assumptions": "如果一次作物失败，就说明我整体不称职，是个糟糕的园丁",
+          "compensatory_strategies": "通过查资料、向邻居请教以提升园艺技能",
+          "automatic_thoughts": "我是个糟糕的园丁",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在澳大利亚旅行时将自己与父亲的成功职业进行比较",
+          "conditional_assumptions": "如果我没有走与父亲相同的职业道路，就等于辜负他的遗产与期望",
+          "compensatory_strategies": "在旅行中沉浸于自我比较并回避与父亲谈论真实感受",
+          "automatic_thoughts": "我不如他/我没有活出他的遗产",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到父亲的成就与出版书籍的经历",
+          "conditional_assumptions": "我应该跟随父亲的脚步，否则就是失败",
+          "compensatory_strategies": "用“应该”的自我要求评判自身，并否定其他领域的积极经验",
+          "automatic_thoughts": "我应该成为作者",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "考虑是否与父亲直接讨论这些感受",
+          "conditional_assumptions": "如果表达真实想法，父亲会认为我失败并对我失望",
+          "compensatory_strategies": "回避与父亲沟通以避免可能的负面评价",
+          "automatic_thoughts": "他可能真的觉得我失败",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被父亲认可、被看见为有价值且有能力的人",
+        "fear": "害怕被评判为失败、让父亲失望，进而失去被接纳与连接",
+        "defense_goal": [
+          "通过回避直接表达与沟通来降低被否定的风险，维持心理上的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "未达成期待的、不够好的孩子/失败者",
+          "object_representation": "支持但被想象为带有高期待的父亲/成功的作者",
+          "linking_affect": "羞耻、愧疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问是否与父亲沟通这些感受，或想到与父亲直接谈论时",
+          "interpretation": "来访者潜意识将父亲视为可能的严苛评判者，担心表达会被认定为失败（移情：将内在批评投向父亲形象）",
+          "defense_mechanism": "sring",
+          "defense_definition": "压抑：将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "避免深入谈及个人感受，使用含糊与简短回答，快速转换话题；语气克制，情感表达降低，尽量保持中性。"
+        },
+        {
+          "trigger_condition": "当讨论成功与失败标准，或被邀请检视证据与替代解释时",
+          "interpretation": "倾向将问题转化为事实罗列与理性分析，弱化情绪层面以避免焦虑（移情：他人的关注被解读为评估与审查）",
+          "defense_mechanism": "sring",
+          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以逻辑与条目化方式回应，列举事实与成就，淡化主观感受；语气偏理性与分析。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "与父亲的成功职业比较，质疑自身价值与意义",
+            "旅行时本应愉悦却被“不够好/没有延续父亲的道路”的想法占据"
+          ],
+          "outcomes": [
+            "自我怀疑与内疚加重",
+            "动机下降，园艺参与减少",
+            "持续的不足感影响日常生活"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "选择与父亲不同的道路后，因“应该跟随父亲”而自责",
+            "以外在期待为准则限制自我选择"
+          ],
+          "outcomes": [
+            "内在冲突与自我否定",
+            "难以自我接纳、体验自由选择的责任与代价"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该”自我要求（如“我应该成为作者”）",
+            "将父亲成功的标准内化为自我评价基准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "假设父亲会认为自己失败（如“他可能真的觉得我失败”）",
+            "推测父亲希望自己走同样的道路而忽略其支持的可能性"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我否定（“我不够好/我是失败者”）",
+            "因尴尬而不敢与父亲直接交流，表达谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与邻居关系良好，能主动寻求园艺建议",
+          "曾在学业上表现良好，具备成功经验",
+          "愿意尝试识别与重构负性思维（开放于替代视角与行为实验）",
+          "能够觉察自动化思维并进行反思"
+        ],
+        "negative_force": [
+          "倾向比较并陷入绝望的认知风格",
+          "“应该”句式导致僵化的自我要求",
+          "过度寻求外部验证（担心父亲的看法与认可）",
+          "自我否定与过度归因，降低自尊与动机",
+          "缺乏近亲的情感支持网络"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在园艺情境中出现强烈的自我否定与失败感",
+          "antecedent": [
+            "与花园互动或想到园艺",
+            "看到作物失败的结果"
+          ],
+          "core_reason": "将一次作物失败全盘归因于个人能力缺陷，并内化为“我是糟糕的园丁”的身份判断（灾难化与非黑即白的认知倾向）",
+          "function": "逃避被否定与羞耻的情绪体验，降低焦虑（通过减少投入或推迟园艺活动）",
+          "consequence": "动机下降、园艺参与减少，进一步强化自我怀疑与无能感"
+        },
+        {
+          "behavior": "在涉及父亲与旅行的情境中出现自我贬低与内疚",
+          "antecedent": [
+            "旅行到父亲出生地或想到父亲的成就",
+            "与他人谈论父亲的职业与期望"
+          ],
+          "core_reason": "内化父亲成功的标准并进行比较，形成“应该跟随父亲”的僵化规则，导致自我批评与负性自我评价",
+          "function": "避免可能的冲突与评判（通过自责与回避沟通维持心理安全）",
+          "consequence": "旅行乐趣下降，持续自我怀疑与情绪困扰，影响日常生活与兴趣参与"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1773
+}

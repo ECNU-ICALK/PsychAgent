@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "陈思语",
+      "gender": "女",
+      "occupation": "办公室工作",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可倾诉，但难以与他们讨论不安全感与自我怀疑",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能反思自身想法与感受，配合度较好；在谈及被评价话题时略显焦虑与羞涩"
+    },
+    "main_problem": "因偏好绿色而担心被他人视为幼稚，引发不安全感与自我怀疑，尤其在社交场合或讨论个人喜好时更明显。",
+    "topic": "人际关系",
+    "core_demands": "这些不安全感影响了自尊并造成困扰，因此希望通过咨询缓解不适。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是幼稚的",
+        "他人会因为我的个人喜好而负面评价我"
+      ],
+      "special_situations": [
+        {
+          "event": "公司午餐时同事开玩笑称“像小孩喜欢的颜色”，当众评论其喜欢绿色",
+          "conditional_assumptions": "如果他人把我的喜好贴上幼稚的标签，就说明我确实不成熟",
+          "compensatory_strategies": "事后回避提及绿色或迅速向朋友寻求安慰以缓解不适",
+          "automatic_thoughts": "他们觉得我像小孩子",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合需要讨论个人偏好或被问及最喜欢的颜色",
+          "conditional_assumptions": "如果我表达与大众不一致的喜好，就会被认为不成熟并被嘲笑",
+          "compensatory_strategies": "尽量少谈个人偏好，或先观察他人反应再谨慎表达",
+          "automatic_thoughts": "一说喜欢绿色，大家就会觉得我幼稚",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到他人关于喜欢绿色的评论或玩笑后",
+          "conditional_assumptions": "别人说我幼稚就意味着喜欢绿色没有任何积极意义",
+          "compensatory_strategies": "忽略自己对绿色的积极联想（平静、自然、成长），转而关注负面评价",
+          "automatic_thoughts": "喜欢绿色只会显得我幼稚，其他理由都不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "被问到个人喜好并想到此前他人玩笑",
+          "conditional_assumptions": "他人的话语就是判断我价值的标准",
+          "compensatory_strategies": "向朋友寻求肯定与安慰以获得认可",
+          "automatic_thoughts": "只有得到他们的认同，我才不会显得幼稚",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被尊重其个人偏好（希望能自在表达自我而不被评判）",
+        "fear": "害怕被嘲笑与羞辱，担心因表达偏好而被否定、失去尊重",
+        "defense_goal": [
+          "通过内化外界评价并自我约束来避免再次被羞辱",
+          "在社交场合减少暴露个人偏好以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、羞耻的自我",
+          "object_representation": "爱贴标签、嘲讽他人的评判者",
+          "linking_affect": "羞耻、焦虑、尴尬"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人对其喜欢绿色的偏好作出玩笑或评价，或在咨询中探讨这些评价时",
+          "interpretation": "将外界的评论视为权威标准，认为自己确实“不成熟”（移情：将评判性的他人形象带入当前互动）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以温和、支持的语气；先共情与命名羞耻/焦虑，再邀请辨别“他人观点与自我偏好”的边界；使用开放式提问引导现实检验，避免评判；适度停顿，降低紧张感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与朋友讨论不安全感与自我怀疑",
+            "在社交场合因担心被评判而感到疏离与不被理解"
+          ],
+          "outcomes": [
+            "自我怀疑与不安全感增强",
+            "人际互动中的紧张与回避",
+            "依赖外部认可以维持自尊"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将他人玩笑“像小孩”视为判断自身成熟度的标准",
+            "在表达个人偏好时依照外界标签来评定自我"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交场合过度在意他人看法与可能的评价",
+            "频繁寻求他人安慰与肯定以缓解不安"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一定的自我反思与表达能力（能清晰描述情境与想法）",
+          "存在朋友支持网络（可倾诉）",
+          "工作功能未受影响，生活结构较稳定",
+          "能识别并提出喜欢绿色的积极意义（平静、自然、成长）"
+        ],
+        "negative_force": [
+          "自我怀疑显著，易受他人评价影响",
+          "倾向依赖外部认可与安慰",
+          "在社交讨论个人偏好时易出现羞耻与焦虑",
+          "对负面评论高度敏感，忽视积极证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合讨论个人偏好时出现显著不安全感与自我怀疑（伴随羞耻与焦虑）",
+          "antecedent": [
+            "被问及最喜欢的颜色",
+            "听到关于“喜欢绿色像小孩”的评论或玩笑",
+            "与同事/朋友讨论个人喜好"
+          ],
+          "core_reason": "将他人玩笑与评论内化为对自我成熟度的判断，并预期他人会继续负面评价（读心/预测未来），从而激发羞耻与焦虑",
+          "function": "逃避被评价的风险、保护自尊、通过谨慎表达减少不适",
+          "consequence": "人际互动受影响，维持焦虑与自我怀疑循环，难以自在表达自我"
+        },
+        {
+          "behavior": "频繁向朋友寻求安慰与认可以缓解不安",
+          "antecedent": [
+            "在社交后感到不安全与自我怀疑时",
+            "回想他人对喜欢绿色的玩笑或评论后"
+          ],
+          "core_reason": "自尊依赖外部认可以修复被羞耻感侵蚀的自我价值",
+          "function": "获得安慰与暂时性自我价值确认",
+          "consequence": "短期缓解但无法长效改善，可能加重对他人肯定的依赖并使关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 277
+}

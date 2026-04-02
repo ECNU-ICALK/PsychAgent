@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "林思玥",
+      "gender": "女性",
+      "occupation": "纸制品销售人员",
+      "educational_background": "高中毕业",
+      "marital_status": "离异，有一个女儿",
+      "family_status": "与女儿同住",
+      "social_status": "与同事关系紧张（高期待和拖延导致），与女儿关系亲近",
+      "medical_history": "无显著身体疾病；无类似心理问题史；未接受过心理治疗或心理咨询",
+      "language_features": "表达清晰、思路连贯、能合作，语气中性；能具体描述经历与感受"
+    },
+    "main_problem": "只要不能成为最优秀，就觉得没必要尝试；这种完美主义思维影响了我的动力与自尊。",
+    "topic": "个人成长",
+    "core_demands": "希望能在出现“必须最优秀否则放弃”的想法时觉察并调整，接受不完美，设定更小更现实的目标，并将关注点从结果转向过程。",
+    "growth_experiences": [
+      "几年前参加烹饪比赛未获胜。她为比赛投入大量精力，失利后感到“所有努力都毫无意义（devastating）”，此后在面对可能无法做到“非常出色”的情境时更容易产生放弃的想法。最初压力程度为中等，随后在可能表现不佳的场合中逐渐增加；这些念头主要在感到需要“表现得格外优秀”的压力情境中出现。她尝试过设定更小目标和寻求他人认可，但效果不佳。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有成为最优秀才有价值/才值得尝试",
+        "不完美等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中面对高标准和紧迫的截止期限",
+          "conditional_assumptions": "如果不能达到自己和同事的最高期待，就等于失败、会被看不起",
+          "compensatory_strategies": "拖延、推迟开始任务以避免可能的失败与评判",
+          "automatic_thoughts": "如果做不好，大家会认为我是失败者；与其不完美，不如不做",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在烹饪领域尝试新菜谱或准备参赛/被评价的情境",
+          "conditional_assumptions": "只有赢或拿到最好成绩才能证明我很优秀，否则努力都没有意义",
+          "compensatory_strategies": "放弃参赛或只做熟悉的内容以降低被评价的风险",
+          "automatic_thoughts": "如果拿不到第一，一切努力都白费，后果会很糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "同事注意到自己错过截止日期或工作表现不佳的场面",
+          "conditional_assumptions": "达不到他人期待就会被否定和贴上失败者的标签",
+          "compensatory_strategies": "减少与同事交流与合作，回避反馈与评估",
+          "automatic_thoughts": "他们会觉得我是个失败者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在个人爱好中面对新的技能学习且短期内难以出色",
+          "conditional_assumptions": "如果不能很快做到最好，就不值得继续投入时间和精力",
+          "compensatory_strategies": "停止练习、放弃原本喜爱的活动",
+          "automatic_thoughts": "我不可能做好，没必要继续",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为出色与有价值",
+        "fear": "害怕被评判为失败、被他人看不起（被否定）",
+        "defense_goal": [
+          "通过回避与拖延来减少失败与被评判的风险、维持自我价值的脆弱平衡"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不完美就会被否定的潜在失败者",
+          "object_representation": "对方是严苛的评判者/高期待的他人",
+          "linking_affect": "恐惧、羞耻、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如同事或权威）提出高标准或给予评价/反馈时",
+          "interpretation": "将他人的期待理解为严苛评判，认为自己稍有不完美就会被当作失败者",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用委婉且防御性的表述（如“现在条件不合适”、“不完美不如不做”），以推迟或避免执行任务；语气平和但回避具体承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "烹饪比赛失利后体验到“努力都是徒劳”的感受",
+            "在无法成为最优秀时认为尝试没有意义"
+          ],
+          "outcomes": [
+            "动力下降与拖延",
+            "自尊受损与自我怀疑",
+            "人际紧张（与同事关系受影响）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁以“必须成为最优秀”“不完美等于失败”来要求自己",
+            "在会谈中强调结果至上而忽视过程体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "不断自我怀疑与自我批评",
+            "因担心不达标而过度谨慎甚至不采取行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要公开讲话的情境下，林思玥通常会因担心不够完美而回避或拖延，并体验到明显的焦虑。",
+          "unique_outcome": "某次公开讲话，她没有像往常那样回避，而是专注于“去做”本身并允许自己不完美，最终获得了正面反馈。",
+          "reason": "线索：她将注意力从“必须完美的结果”转向“行动与过程”，并给予自己“可以不完美”的许可，因此这次能够坚持并获得更好的体验与反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与女儿关系亲近，具备情感支持",
+          "曾在公开讲话中专注行动并获得正反馈的成功经验",
+          "愿意尝试设定较小、现实的目标",
+          "对自身灾难化与完美主义思维有一定觉察"
+        ],
+        "negative_force": [
+          "完美主义与非黑即白思维",
+          "灾难化与预测未来式担忧",
+          "寻求外部验证、担心他人评判（读心术倾向）",
+          "拖延与回避行为导致表现受损与自尊降低"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在高期待或需要表现出色的任务前出现拖延与回避",
+          "antecedent": [
+            "面对紧迫的工作截止期限",
+            "需要被评价或与他人比较的场景（如烹饪、公开展示）",
+            "在爱好或新技能学习中短期难以出色的情境"
+          ],
+          "core_reason": "受“必须最优秀才有价值/不完美等于失败”的核心信念驱动，伴随灾难化、读心术与预测未来式担忧，害怕被评判为失败。",
+          "function": "逃避潜在失败与负面评价，短期降低焦虑与羞耻感。",
+          "consequence": "错过截止、工作表现下降、人际关系紧张；动力与自尊受损，对日常活动缺乏投入。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1630
+}

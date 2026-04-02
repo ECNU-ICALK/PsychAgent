@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "会计",
+      "educational_background": "会计学学士",
+      "marital_status": "未婚",
+      "family_status": "与两只狗同住，无其他家人",
+      "social_status": "有一些朋友可提供情感支持，但尚未与其讨论工作困扰；因频繁向同事寻求保证而使同事关系受影响",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题经历，未接受过心理治疗",
+      "language_features": "表达清晰，逻辑性较好，态度配合但语气消极；反复自我怀疑，常使用灾难化与非黑即白的表述；倾向寻求外部保证"
+    },
+    "main_problem": "在会计工作中感到不称职，尤其是在平衡账目出错之后，出现持续的自我怀疑与焦虑。",
+    "topic": "职业发展",
+    "core_demands": "自我怀疑和焦虑正在影响工作表现与整体身心健康，希望通过咨询减轻焦虑和自我怀疑，恢复工作功能。",
+    "growth_experiences": [
+      "几周前在工作中平衡账目出现重大错误，此后开始在工作时间、面对会计任务时持续怀疑自身能力并感到焦虑；认为高工作量与绩效压力可能是诱因。为缓解情绪尝试反复检查、向同事寻求保证和短暂休息，但效果有限，导致睡眠与饮食受影响，与同事关系因频繁求证而紧张。",
+      "在出错之前，工作表现总体良好，曾获得上司的称赞；但在焦虑时很难回忆和认可这些正面证据，觉得“那是很久以前，与现在无关”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不适合做会计"
+      ],
+      "special_situations": [
+        {
+          "event": "在平衡账目时犯了重大错误",
+          "conditional_assumptions": "如果在重要账目上出错，就说明我不适合这份工作/不该继续做会计",
+          "compensatory_strategies": "反复检查、向同事寻求保证，尽量回避高风险任务",
+          "automatic_thoughts": "我是失败者，再这样下去会被解雇",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "工作时间面对会计相关任务",
+          "conditional_assumptions": "如果再次处理账目，我很可能会再犯错，必须做到零错误才安全",
+          "compensatory_strategies": "暂停、拖延高风险任务，优先选择低风险或较小的任务",
+          "automatic_thoughts": "我又要搞砸了，肯定会出差错",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "意识到自己过去曾得到上司称赞",
+          "conditional_assumptions": "过去的成功不代表现在的能力；一旦最近犯错，过去的成绩就不算数",
+          "compensatory_strategies": "否定正向证据，只关注近期失误",
+          "automatic_thoughts": "那些表扬不算数，现在我一无是处",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与上司或同事互动、或想到他们对自己的看法",
+          "conditional_assumptions": "他人会以一次错误给我下定论；如果别人不立即肯定我，就是认为我无能",
+          "compensatory_strategies": "频繁求证、在对话中自我贬低以降低他人期望",
+          "automatic_thoughts": "他们一定觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任、被信任并获得安全感",
+        "fear": "害怕因失误被否定、被批评或被解雇，进而失去关系与价值感",
+        "defense_goal": [
+          "通过过度谨慎、反复检查与寻求他人保证来降低犯错风险，避免负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易犯错、需要他人校验的下属",
+          "object_representation": "苛刻的评判者/随时挑错的上司或同事",
+          "linking_affect": "焦虑、羞耻、害怕"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在被分配或开始处理重要账目任务时",
+          "interpretation": "将上司/同事的关注理解为审查与否定，仿佛他们在等自己出错",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "表现紧张、语速加快、不断解释和自我辩解，频繁询问“这样是否可以/有没有问题”。"
+        },
+        {
+          "trigger_condition": "当咨询师提出行为实验或积极假设时",
+          "interpretation": "将建议理解为暗示自己能力不足、必须被纠正",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以务实语气强调“真正问题是工作量太大”“这些方法没用”，回避深入讨论感受。"
+        },
+        {
+          "trigger_condition": "当回忆那次账目错误并自我评价时",
+          "interpretation": "把一次错误等同于整体无能与失败",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自贬措辞（如“我不该做这份工作”），降低音量、减少眼神接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与朋友讨论工作中的困扰，独自承受压力",
+            "与同事关系因频繁求证而紧张，体验到人际隔阂",
+            "在工作场景中感到独自面对错误风险与评判"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑加重",
+            "睡眠与饮食受影响",
+            "工作效率下降、回避高风险任务"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对选择与行动需要承担后果（如出错被解雇）的压力感显著",
+            "希望通过“零错误”来获得安全感，导致过度谨慎与犹豫"
+          ],
+          "outcomes": [
+            "反复检查与频繁求证",
+            "回避高风险任务，内在紧张与冲突增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自责（如“我不该做这份工作”“我不信任自己”）",
+            "做事过度小心，容易否定自身能力"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为上司和同事会把一次错误等同于自己整体无能",
+            "把内部的自我批评体验归因于他人对自己的假设性评价，从而频繁寻求保证"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过去有胜任体验并获得上司的正向反馈",
+          "愿意尝试结构化的行为实验，具有一定配合意愿",
+          "具备一定的社会支持资源（有可以倾诉的朋友）"
+        ],
+        "negative_force": [
+          "显著的认知歪曲：灾难化、非黑即白、过度概括、否定积极、预测未来、贴标签",
+          "高工作负荷与绩效压力加剧了对错误的恐惧",
+          "依赖外部确认（频繁求证）与反复检查维持焦虑循环",
+          "睡眠与饮食受干扰，恢复力与耐压性下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中频繁向同事寻求保证与反复检查",
+          "antecedent": [
+            "开始处理会计任务时",
+            "回忆起此前的账目错误"
+          ],
+          "core_reason": "一次重大失误后形成对自我能力的质疑与对再犯错误、被解雇的担忧（灾难化、非黑即白思维）",
+          "function": "短期缓解焦虑、获取外部确认与安全感",
+          "consequence": "同事关系紧张、效率下降，但焦虑反复出现并未得到根本缓解"
+        },
+        {
+          "behavior": "面对重要会计任务时出现强烈焦虑与回避（如只选择低风险任务）",
+          "antecedent": [
+            "需要平衡账目或处理重要数据的工作场景",
+            "工作时间接近任务截止点"
+          ],
+          "core_reason": "将一次错误泛化为整体无能的证据，并预测最坏结果（如被解雇）",
+          "function": "逃避潜在失败与不确定性以降低即时焦虑",
+          "consequence": "工作表现下降、自信心进一步受损，睡眠与饮食被影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1672
+}

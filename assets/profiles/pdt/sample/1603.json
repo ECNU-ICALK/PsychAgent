@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "董娜",
+      "gender": "女",
+      "occupation": "初中教师（八年级）",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有朋友和同事可交流，但尚未与任何人讨论辞职",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；过去未出现类似问题",
+      "language_features": "表达清晰、逻辑性较好，倾向过度思考与负面聚焦；情绪紧张但能自我反思；合作度良好、语气谨慎"
+    },
+    "main_problem": "上周被一名学生辱骂后，我正在考虑辞去教职，这件事让我怀疑教学是否仍适合我。",
+    "topic": "职业发展",
+    "core_demands": "该事件让我意识到需要专业支持来处理情绪，并做出关于职业的知情决定。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不适合当教师",
+        "我不够胜任、能力不足"
+      ],
+      "special_situations": [
+        {
+          "event": "上周在课堂上，一名学生当众对董娜爆粗口并辱骂",
+          "conditional_assumptions": "如果学生公开不尊重我，说明我没有权威、不适合当教师",
+          "compensatory_strategies": "考虑辞职以避免进一步失败和羞辱；把注意力集中在负面事件上",
+          "automatic_thoughts": "也许我不适合这份工作；我没有权威",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次在上班前或与学生互动的情境",
+          "conditional_assumptions": "如果我不能完美掌控课堂，就等于失去权威，会发生更糟的事",
+          "compensatory_strategies": "在上班前反复担忧与过度预演，以期避免错误",
+          "automatic_thoughts": "所有学生都会认为我很软弱；课堂可能会失控",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想以往家长与同事的正面反馈时",
+          "conditional_assumptions": "一旦出现一次严重的负面事件，过去的成绩和认可就不算数",
+          "compensatory_strategies": "过滤掉正面信息，反复回放负面事件",
+          "automatic_thoughts": "那些好评都不重要，现在一切都变了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "拥有朋友和同事支持却迟迟不与人讨论辞职",
+          "conditional_assumptions": "如果暴露自己的困难，别人会看不起我、认为我无能",
+          "compensatory_strategies": "回避向他人求助与分享",
+          "automatic_thoughts": "同事会觉得我不称职；学生都看我很弱",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被尊重并被视为胜任的教师，维持课堂掌控感",
+        "fear": "害怕失去控制、被贬低或否定，担心他人将自己视为软弱",
+        "defense_goal": [
+          "通过回避（不与他人讨论）、考虑辞职来保持安全与自尊",
+          "以高标准自我要求来防止再次失误"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被不尊重而失去权威的无力者、焦虑的教师",
+          "object_representation": "学生/他人是轻蔑的评判者，可能否定我",
+          "linking_affect": "焦虑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到学生辱骂事件或担心同事和学生的看法时",
+          "interpretation": "董娜潜意识将他人的反应视为对自身能力的否定，认为别人会把她看成软弱（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气紧张而克制，使用推测性表达（如“他们会…”，“大家都觉得…”），避免深入细化证据，转移到他人的看法。"
+        },
+        {
+          "trigger_condition": "当被鼓励与同事或朋友分享困境、寻求支持时",
+          "interpretation": "认为暴露脆弱会带来评价与羞辱，感觉不安全，转而自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "用自责式语言（如“都是我的问题”“我不够好”），降低情绪表达，避免寻求外部支持。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "被学生辱骂后开始怀疑教学是否仍适合自己",
+            "负面聚焦使过往正面反馈显得遥远、失去意义感"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "职业倦怠感",
+            "睡眠困难",
+            "工作表现受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面临是否辞职的选择，希望做出知情决定但迟迟未与他人讨论",
+            "对自我负责的压力增大"
+          ],
+          "outcomes": [
+            "犹豫不决",
+            "拖延与回避求助",
+            "压力升高"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与他人讨论辞职或情绪困扰",
+            "在重要抉择中缺少现场支持的体验"
+          ],
+          "outcomes": [
+            "主观支持感不足",
+            "焦虑维持或加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该/必须能完美掌控课堂”的自我要求",
+            "将一次失误视为全面失败"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心所有学生都认为自己软弱",
+            "推测同事会看不起自己而不敢求助"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "有支持系统却不主动求助",
+            "把压力和批评转向自己、自我苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多年教学经验，过往获得家长与同事的正面反馈",
+          "具备一定的社会支持资源（朋友与同事可交流）",
+          "愿意寻求专业帮助，具有自我反思与调整的动机",
+          "能提出更平衡的替代想法（如“一次坏日子不抹去我的成绩”）"
+        ],
+        "negative_force": [
+          "负面过滤与过度概括的认知模式",
+          "高自我期待与苛责，非黑即白的标准",
+          "对失控与被评价的灾难化担忧与预期",
+          "回避寻求支持，社交层面退缩",
+          "睡眠问题与持续焦虑影响功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "上班前和与学生互动时出现显著焦虑与生理紧张（如“胃部打结”），伴随睡眠困难",
+          "antecedent": [
+            "临近上班时间",
+            "进入课堂或与学生互动"
+          ],
+          "core_reason": "将一次被辱骂事件灾难化与过度概括，担心权威失去与更糟结果发生",
+          "function": "逃避潜在的失控与他人负面评价，寻求短期安全感",
+          "consequence": "工作表现下降、人际关系紧张、睡眠质量差"
+        },
+        {
+          "behavior": "回避寻求他人支持与讨论辞职想法",
+          "antecedent": [
+            "想到需要与同事或朋友讨论时",
+            "被建议寻求支持时"
+          ],
+          "core_reason": "担心被看作软弱或无能，读心术预设他人负面评价",
+          "function": "避免被评价或羞辱，维持自尊的表面完整",
+          "consequence": "支持资源未被利用，焦虑维持，决策困难"
+        },
+        {
+          "behavior": "产生并反复考虑辞职的回避倾向",
+          "antecedent": [
+            "回忆学生辱骂事件后",
+            "感到课堂可能失控时"
+          ],
+          "core_reason": "过度概括和灾难化推断，将单一事件等同职业不适合",
+          "function": "通过退出来避免再遇到不尊重或失控情境",
+          "consequence": "职业发展受威胁，进一步强化负面自我评价与焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1603
+}

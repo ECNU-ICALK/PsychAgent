@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43岁",
+      "name": "马克",
+      "gender": "男性",
+      "occupation": "高中生",
+      "educational_background": "目前在读高中",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "近来有自我隔离，与朋友和家人疏远",
+      "medical_history": "无重大身体疾病；此前无类似问题；未接受心理咨询或治疗",
+      "language_features": "表达清晰、语气平和，能配合并愿意尝试小步变化；自我批评明显，空闲时易过度思考；态度中性偏低落"
+    },
+    "main_problem": "我经常因为自己睡很多而给自己贴上“懒惰的废物”的标签。这些自我批评的想法导致自我价值感低下并影响我的动力。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为我注意到这些自我贴标签的想法正在影响我的学业表现和整体幸福感。",
+    "growth_experiences": [
+      "在本学年开始时，学业成绩开始下滑，伴随来自学业和社会期待的压力；由此出现自我标签（“懒惰的废物”）、动力下降、睡眠时间延长，负面思维在晚上和周末更频繁；期间尝试设闹钟、制定学习计划并与朋友交谈但效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懒惰的",
+        "我不够好/没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "晚上和周末空闲时间较多、没有学校事务占据注意力",
+          "conditional_assumptions": "如果我睡得很多、没有保持高效率，就证明我是个懒惰的人",
+          "compensatory_strategies": "设定多个闹钟与严格学习计划以逼迫自己改变，若失败则进一步自责与退缩",
+          "automatic_thoughts": "我就是个懒惰的废物，睡这么多说明我没救了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "学业成绩下滑",
+          "conditional_assumptions": "如果成绩下降，就等于我本质上懒惰、不会变好",
+          "compensatory_strategies": "尝试短期高强度计划；当难以维持时进一步自我贴标签并减少学习投入",
+          "automatic_thoughts": "成绩变差就是我懒的证据",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与同学进行成绩或学习状态的比较",
+          "conditional_assumptions": "如果我不如别人，就说明我是懒惰且失败的",
+          "compensatory_strategies": "加严计划或干脆放弃，并减少与他人互动以避免被比较",
+          "automatic_thoughts": "他们都能做到而我做不到，我就是懒",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "考虑向朋友更深入地倾诉自我批评想法",
+          "conditional_assumptions": "如果表达脆弱，就会被认为在抱怨或寻求同情，关系会变差",
+          "compensatory_strategies": "选择沉默与社交退缩，不公开自我贬低想法以避免被评判",
+          "automatic_thoughts": "他们会觉得我在卖惨/会让我硬扛",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学业压力下被理解、被接纳并获得支持",
+        "fear": "害怕被评价为懒惰、被拒绝或被羞辱",
+        "defense_goal": [
+          "以自我批评先行控制外界评价，降低被打击的风险",
+          "保持距离、减少求助以避免可能的否定与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、懒惰、价值感低的人",
+          "object_representation": "苛刻评判、要求“硬扛”的他人/同伴",
+          "linking_affect": "羞耻、焦虑、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请向朋友更深入地分享内心想法或寻求支持时",
+          "interpretation": "认为朋友会觉得自己矫情、会让自己“硬扛”（将内在自我批评投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹豫、含糊的方式婉拒分享，强调“不想显得在求同情”，减少暴露脆弱内容。"
+        },
+        {
+          "trigger_condition": "当讨论设定目标或尝试新策略（如记录积极时刻）时",
+          "interpretation": "担心一旦尝试就会失败，失败会证明自己“懒惰”，因此需要更谨慎或推迟",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用谨慎、保留的语气强调小步和可控性，提出种种顾虑以降低承诺强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在成绩下滑后产生“反正我是懒惰的，努力也没意义”的倾向",
+            "动力明显下降，难以坚持学习计划"
+          ],
+          "outcomes": [
+            "拖延与过度睡眠加剧",
+            "学业表现进一步下降",
+            "负性自我循环加深"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "主动与朋友和家人保持距离",
+            "不愿向朋友表达更深层的自我批评想法，担心被视为“矫情”"
+          ],
+          "outcomes": [
+            "社会支持减少，情绪负担加重",
+            "自尊进一步受损，动力继续下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈与人际中谨慎表达，担心被看作“在求同情”",
+            "对自身评价苛刻，难以允许正向体验进入"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "想寻求支持但转而自责与自我隔离",
+            "在压力下将能量转为自我贬损或过度睡眠，而非外向表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在空闲时段（尤其晚上与周末），马克通常会陷入自我标签与过度睡眠，导致难以坚持学习计划并进一步丧失动力。",
+          "unique_outcome": "在设置闹钟后的前1–2天早晨，马克能够按时起床并短时间遵循学习计划，体验到一些成就感，与以往的拖延与自我否定不同。",
+          "reason": "不同做法：使用闹钟与学习计划提供外部结构；不同情境：当任务更具体、节奏被结构化时不易过度思考；不同支持：与朋友的交流在当时提供了短暂的情绪缓冲。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有朋友可交流，具备一定的社会支持潜力",
+          "在外部结构（闹钟、学习计划）下可短期进入执行状态",
+          "愿意尝试小步改变（例如记录小的积极时刻）",
+          "对问题有自我洞察并主动寻求咨询",
+          "在偶尔坚持计划时能体验到成就感"
+        ],
+        "negative_force": [
+          "自我标签化和过度概括强化负性自我概念",
+          "与他人比较导致自我贬低与绝望",
+          "读心式担忧他人评价，减少求助",
+          "社交退缩导致支持减少、孤独感加剧",
+          "过度睡眠与作息紊乱，进一步削弱动力与专注"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度睡眠与起床拖延",
+          "antecedent": [
+            "晚上与周末空闲时间较多",
+            "闹钟响起但缺乏内在动力",
+            "学业压力与负性自我评价后产生疲惫感"
+          ],
+          "core_reason": "以睡眠逃避学业压力与羞耻/自责的不适情绪；自我标签削弱行动意愿。",
+          "function": "逃避不愉快的任务要求与负面情绪体验",
+          "consequence": "日常节律被打乱，学习时间减少，学业表现进一步下降"
+        },
+        {
+          "behavior": "自我标签/负性自我对话（“我是懒惰的废物”）",
+          "antecedent": [
+            "成绩下滑",
+            "与同学进行比较",
+            "晚上和周末的空闲时段"
+          ],
+          "core_reason": "认知扭曲（过度概括、个人化、比较与绝望）将局部表现推演为整体人格缺陷。",
+          "function": "为挫败提供简单解释并短时回避不确定与焦虑，但削弱改变动机",
+          "consequence": "自尊降低、动力下降，形成“自责—回避—进一步失败”的恶性循环"
+        },
+        {
+          "behavior": "社交退缩与不向朋友寻求支持",
+          "antecedent": [
+            "想到要更深入地分享自我批评想法",
+            "担心他人评价（被视为“矫情”）"
+          ],
+          "core_reason": "对他人反应的读心与被拒绝/羞耻的担忧。",
+          "function": "逃避潜在的否定与羞耻体验，维持表面安全感",
+          "consequence": "社会支持减少，孤独与负面情绪加剧，问题维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 274
+}

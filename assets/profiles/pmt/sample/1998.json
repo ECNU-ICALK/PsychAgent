@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "马亦森",
+      "gender": "男",
+      "occupation": "海军人员/学员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "否认以往出现类似问题；无既往心理咨询/治疗史；未提及重大躯体疾病",
+      "language_features": "表达清晰、能具体描述事件与感受；自我批评倾向明显，常用绝对化自我标签；愿意配合“行为实验”等计划；对向他人求助较犹豫、倾向独自承受"
+    },
+    "main_problem": "因一次在海军工作中丢失绳索、导致一艘船只走失并需回收，此后持续以“我是个傻子/无能”为自我标签，频繁反刍，特别在面对新任务时自我怀疑加剧，影响工作表现与自尊。",
+    "topic": "职业发展",
+    "core_demands": "因为无能感和自我怀疑正在影响我的工作表现和自尊，所以我来寻求咨询。",
+    "growth_experiences": [
+      "在海军岗位中曾发生一次操作失误：丢失绳索，导致一艘船只走失并需要回收。事件发生时压力很大，来访者将原因部分归结为“必须完美表现”的压力。此后数月反复回想该事件，形成“我是个傻子/无能”的自我标签，尤其在面对新任务时自我怀疑与担忧明显升高，注意力与执行效率下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/我是个傻子",
+        "只有完美表现才算有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "面对新的任务或未做过的工作挑战",
+          "conditional_assumptions": "如果这次不能完美完成，就证明我无能，并会像上次那样出错",
+          "compensatory_strategies": "独自扛压、减少求助、试图用理性说服自己但反复担忧",
+          "automatic_thoughts": "我这次又要搞砸了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想起丢失绳索导致船只走失的事故",
+          "conditional_assumptions": "一次重大错误就等于我整体上是失败者",
+          "compensatory_strategies": "反复反刍错误、用负性标签鞭策自己以防再犯",
+          "automatic_thoughts": "我是个傻子",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "完成某些任务顺利（如带队演练提前完成）后回顾表现",
+          "conditional_assumptions": "只有重大或完美的成就才“算数”，一般性的成功不代表能力",
+          "compensatory_strategies": "忽略或贬低正向证据，继续放大错误影响",
+          "automatic_thoughts": "这些成功没什么用，不足以证明我不是傻子",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到向同事或亲友倾诉困扰、寻求支持",
+          "conditional_assumptions": "我不应该麻烦别人，暴露脆弱会被看轻",
+          "compensatory_strategies": "回避表达与求助，选择独自承受",
+          "automatic_thoughts": "我不该给别人添麻烦",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "被视为有能力、可靠并获得认可与信任",
+        "fear": "害怕犯错被评判为无能、遭受羞耻与否定，进而失去机会与归属感",
+        "defense_goal": [
+          "通过自我批评与高标准来控制风险、避免暴露脆弱与求助，以维持“安全”与可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、需要不断自我警戒的“可能失控者/无能者”",
+          "object_representation": "随时可能评判与否定自己的“严格的审判者/上级与他人”",
+          "linking_affect": "羞耻、焦虑与自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于错误带来的情绪体验与影响时",
+          "interpretation": "认为应当控制情绪、以理性叙述来避免显得脆弱或无能",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、冷静的语气陈述事实，强调“只是一次失误/压力太大”，尽量减少情绪表达。"
+        },
+        {
+          "trigger_condition": "当被邀请考虑向同事或家人寻求支持时",
+          "interpretation": "他人会因我的困扰而不耐烦或看轻我（移情性地将负面评价归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "礼貌但坚定地回避求助建议，强调“不想麻烦别人”，弱化现实可用支持。"
+        },
+        {
+          "trigger_condition": "当谈到责任归因或评价自我能力时",
+          "interpretation": "将外界复杂因素内化为自身缺陷，倾向把全部过失归咎自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我指责与负性标签（如“我是傻子”），忽略情境因素与正向证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿向同事或亲友倾诉困扰，担心“麻烦别人”或被看轻，选择独自承受压力与不安"
+          ],
+          "outcomes": [
+            "社会支持缺乏，反刍与自我怀疑加重",
+            "情绪负担难以分担，注意力与工作效率下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，将原欲对外发出的能量转向自身。",
+          "manifestations": [
+            "需要支持时不对外表达需求，选择“自己扛”",
+            "在困扰时以自责、自我苛责替代向他人求助与沟通"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“必须完美”当作内在准则，以成败一刀切地评判自我",
+            "把一次失误等同于“整体无能”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我批评与贴标签（“我是傻子”）",
+            "在他人面前避免表达脆弱，过度谨慎以防被评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对新任务或未做过的工作挑战时，通常会因上次失误而强烈自我怀疑并担心再度出错，导致注意力分散与工作效率下降。",
+          "unique_outcome": "在一次带队演练中担任小队管理者，过程顺利并提前完成，团队良好配合；当时他感到“我知道自己在做什么”，自信度短时提升。",
+          "reason": "线索：任务目标与流程清晰、团队执行力好、角色权限明确；他专注于步骤与沟通而非结果成败，使焦虑降低并保持有效专注。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备成功带队与任务管理的经验与能力",
+          "愿意尝试并配合“行为实验”等矫正策略",
+          "能识别并描述自身负性思维模式",
+          "责任感较强，愿意改进表现"
+        ],
+        "negative_force": [
+          "完美主义与严格价值条件（不完美即无能）",
+          "过度自责与负性自我标签化",
+          "忽视正向证据、只关注错误（心理过滤/否定正面）",
+          "对未来失败的预期性担忧，面对新任务易灾难化",
+          "回避求助，社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在新任务前后出现强烈自责与“我是傻子/会搞砸”的反刍与自动思维，伴随注意力下降与效率降低",
+          "antecedent": [
+            "面对新的或不熟悉的任务",
+            "处于高压或高标准要求情境",
+            "回想先前丢失绳索的失误事件"
+          ],
+          "core_reason": "将一次失误过度概括为整体无能，并把自我价值与完美表现捆绑；以自责维持控制与安全感",
+          "function": "通过自我批评来“防止再犯/保持高度警觉”，以及回避面对潜在失败的情绪风险",
+          "consequence": "持续反刍与焦虑导致专注与执行受损，工作表现下降、自尊受挫"
+        },
+        {
+          "behavior": "回避向同事或亲友寻求支持与倾诉，选择独自承受",
+          "antecedent": [
+            "遇到困难或情绪困扰需要帮助时",
+            "想到可能需要与他人沟通求助时"
+          ],
+          "core_reason": "内摄“不能麻烦别人”的准则，担心被评判或看轻，倾向将需求向内压制",
+          "function": "逃避被拒绝或羞耻的可能，维持表面的自我控制与体面",
+          "consequence": "社会支持不足，负性思维与情绪难以被缓冲，问题维持或加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1998
+}

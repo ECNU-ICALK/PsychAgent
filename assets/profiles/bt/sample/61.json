@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "张伟",
+      "gender": "男",
+      "occupation": "焊工",
+      "educational_background": "焊接职业培训",
+      "marital_status": "未婚",
+      "family_status": "与父母同住，父母不知道其性取向",
+      "social_status": "缺乏可谈论性取向的社会支持",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；无与性取向或家庭接纳相关的类似问题史",
+      "language_features": "表达清晰，逻辑连贯，语气谨慎，情绪紧张与压抑，配合度较好"
+    },
+    "main_problem": "因父母不知道我的性取向而苦恼，这给我带来了显著的痛苦。",
+    "topic": "家庭关系",
+    "core_demands": "需要找到一种在不破坏与父母关系的情况下诚实表达的方式。",
+    "growth_experiences": [
+      "自我觉察到性取向后长期对父母隐瞒，在家庭谈及婚姻、安定等话题时感到如临大敌与不真实，逐渐与父母保持距离以避免暴露，导致日常互动紧张、孤立与失去真实性的体验。",
+      "父母过去对其他同性恋者曾发表轻蔑但非仇恨的评论，使其形成对父母可能拒绝和不理解的预期，增加披露的恐惧与回避。",
+      "长期与父母同住且缺乏可以谈论性取向的社会支持网络，使其难以从他人处获得情感支持与现实检验，强化孤独感与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不会被父母接纳。",
+        "真实的我不可被看见。"
+      ],
+      "special_situations": [
+        {
+          "event": "父母谈论我的未来（婚姻、安定）时",
+          "conditional_assumptions": "如果我不符合父母对异性婚姻的期待，他们就会拒绝我、关系会破裂。",
+          "compensatory_strategies": "回避相关话题、保持距离并继续隐瞒性取向以维持表面和谐。",
+          "automatic_thoughts": "他们不会接受我，一旦知道就会疏远我。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到父母对其他同性恋者发表轻蔑评论",
+          "conditional_assumptions": "如果他们对同性恋持轻蔑态度，那么对我也会一样。",
+          "compensatory_strategies": "更加谨慎，不透露任何与性取向相关的信息。",
+          "automatic_thoughts": "他们对同性恋就是不认可，我也会被否定。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在家庭或社交场合出现关于恋爱与未来计划的对话",
+          "conditional_assumptions": "如果谈及关系话题，我就可能暴露身份并遭到评判。",
+          "compensatory_strategies": "转移话题、减少自我披露，不与他人建立深度关系。",
+          "automatic_thoughts": "一旦谈多了就会露馅，被人看不起。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "长期无人可倾诉、感到孤立时独处思考父母反应",
+          "conditional_assumptions": "如果没有支持，我更无法承受可能的拒绝，最好继续隐藏。",
+          "compensatory_strategies": "保持沉默、延迟或取消披露计划。",
+          "automatic_thoughts": "我永远无法做真实的自己。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在父母面前真实地被看见并被接纳。",
+        "fear": "害怕被父母拒绝与误解，关系破裂。",
+        "defense_goal": [
+          "通过隐瞒与保持距离来维持关系稳定与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "害怕被拒绝的隐藏者与顺从的孩子",
+          "object_representation": "保守且可能否定自我的父母",
+          "linking_affect": "恐惧、孤独、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当父母或他人谈到婚姻、恋爱或未来规划时",
+          "interpretation": "倾向把对方的期望理解为要求自己必须按异性恋规范生活（移情：将早期家庭期待投射到当前互动）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以克制、简短的方式回应，避免深入细节，主动转移话题，语气平稳但疏离。"
+        },
+        {
+          "trigger_condition": "当咨询师提出逐步披露的建议或探询其支持网络时",
+          "interpretation": "将对披露后最坏结果的担忧视为必然发生，认为建议会危及与父母的关系（移情：将内在的拒绝预期投射到他人）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调父母“很固执”等理由，用谨慎保留的语气反复说明披露风险，以此拒绝或推迟行动。"
+        },
+        {
+          "trigger_condition": "当被直接询问其真实感受或被邀请更多自我披露时",
+          "interpretation": "担心一旦暴露真实自我就会被评判或伤害，倾向于把他人的潜在反应理解为否定（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用模糊、含混的表述，避免具体细节，语气犹豫；必要时把话题拉回到对他人可能反应的担忧上。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "长期隐瞒性取向，感到无法以真实自我生活",
+            "在家庭谈及婚姻与未来时体验到被他人期待所限制"
+          ],
+          "outcomes": [
+            "焦虑",
+            "不真实感与疏离",
+            "回避与父母深度交流"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "缺乏可以谈论性取向的社会支持",
+            "与父母保持距离、避免亲密话题",
+            "不与他人建立深层关系"
+          ],
+          "outcomes": [
+            "孤立感",
+            "情绪压力增大",
+            "工作表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "默认为自己应符合父母的异性婚姻期待",
+            "用“他们很固执”等理由强化不披露",
+            "在对话中以他人期待为判断标准而非自我需要"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在出现恋爱或未来话题时转移话题",
+            "避免具体自我披露，保持距离"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "不信任任何人，不与他人建立深层关系",
+            "对披露采取极度谨慎与自我限制的态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "重视与父母的关系，具有维持亲情的动机",
+          "有改变动机并主动寻求帮助",
+          "能识别并命名自身的负性思维（如预测未来、过度概括）"
+        ],
+        "negative_force": [
+          "强烈的被拒恐惧与对最坏结果的预期",
+          "缺乏社会支持与信任他人的能力",
+          "回避亲密话题与自我披露，导致关系疏离",
+          "倾向于过度概括与预测未来的认知偏差"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与父母讨论恋爱与性取向，保持距离",
+          "antecedent": [
+            "父母谈论婚姻、安定与未来规划",
+            "家庭或社交场合出现关系话题"
+          ],
+          "core_reason": "害怕被父母拒绝与误解，认为披露会破坏关系",
+          "function": "逃避被评判与冲突，维持表面关系稳定",
+          "consequence": "沟通变得疏离与不真实，长期紧张与焦虑，孤立感加重"
+        },
+        {
+          "behavior": "不与他人建立深层关系，社交回避",
+          "antecedent": [
+            "担心他人得知其性取向",
+            "涉及亲密与自我披露的话题"
+          ],
+          "core_reason": "担忧被评判与否定，将他人反应视为负面",
+          "function": "逃避潜在的拒绝与羞耻",
+          "consequence": "形成孤立，缺乏支持系统，情绪压力增大"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 61
+}

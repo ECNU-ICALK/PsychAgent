@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "64",
+      "name": "张凯文",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "与两只宠物龟同住",
+      "social_status": "有朋友可以交流，但因担心他人评判在与新认识的人社交时较为保留",
+      "medical_history": "无显著躯体疾病；无既往心理咨询或精神科治疗史",
+      "language_features": "态度积极，表达清楚，愿意合作，能具体描述担忧与经历"
+    },
+    "main_problem": "我觉得需要隐藏自己玩电子游戏的爱好，因为担心别人发现后会认为我幼稚；这导致我感到羞耻和焦虑。",
+    "topic": "人际关系",
+    "core_demands": "我注意到这种被评判的恐惧影响了我的自我表达并带来痛苦，因此希望获得咨询支持，能更舒适地做自己。",
+    "growth_experiences": [
+      "几年前，一位朋友曾对“成年人玩电子游戏”发表负面评论，认为这不成熟。此后，张凯文在社交场合里对谈及爱好格外敏感，倾向隐藏和淡化自己的游戏兴趣，担心再次遭遇类似评判。这一事件在长期的社交互动中持续影响他的自我表达，强化了对外界评价的警惕与羞耻感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被认真对待",
+        "人们会认为我很幼稚"
+      ],
+      "special_situations": [
+        {
+          "event": "在与新认识的人讨论爱好或在社交场合被问到兴趣时",
+          "conditional_assumptions": "如果在这个年纪公开玩电子游戏，就会被认为幼稚、不会被认真对待",
+          "compensatory_strategies": "回避谈论、隐藏或淡化爱好，减少相关社交接触",
+          "automatic_thoughts": "他们会笑我，觉得我不成熟，不会认真对待我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想几年前朋友对成年人玩电子游戏的负面评论",
+          "conditional_assumptions": "一次负面评论代表大多数人的看法，并且类似评判会持续发生",
+          "compensatory_strategies": "以该评论作为依据，自我保护并长期回避披露爱好",
+          "automatic_thoughts": "大家都认为玩游戏的成年人很幼稚",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "准备向一位较为开明的朋友披露自己的游戏爱好之前",
+          "conditional_assumptions": "只要我说出来，就会被嘲笑或被指责“太老不该玩游戏”",
+          "compensatory_strategies": "犹豫不决、寻求“安全对象”、制定披露计划以降低风险",
+          "automatic_thoughts": "这次也会被嘲笑或不被认真对待",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到或想到社会对年龄与活动的刻板印象（如他人谈论或媒体观点）",
+          "conditional_assumptions": "必须符合年龄规范，否则会被否定和轻视",
+          "compensatory_strategies": "以他人的认可为标准衡量自我，减少暴露以避免评价",
+          "automatic_thoughts": "在这个年纪玩游戏不合适，会被轻视",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与被认真对待，能够自由而真实地表达自我",
+        "fear": "害怕被评判为幼稚、被嘲笑与否定，引发羞耻与焦虑",
+        "defense_goal": [
+          "通过隐藏和淡化爱好来避免他人评判，维持自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、需要隐藏真实兴趣的自我",
+          "object_representation": "带有评判与否定倾向的他人（严苛的旁观者）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在社交场合或与新认识的人谈及“个人爱好”话题时",
+          "interpretation": "他人会像那位朋友一样认为我不成熟并嘲笑我（将个别评价视为普遍态度）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "避免深入表达情绪，简短回答或转移话题至中性内容，语气平稳但保持距离感。"
+        },
+        {
+          "trigger_condition": "当讨论问题原因或试图解释为何要隐藏爱好时",
+          "interpretation": "以“社会刻板印象”作为主因，弱化个人感受的复杂性",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用概括性、抽象化的语言解释现象，减少情感词，强调“社会因素”，语气客观克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因担心他人评判而压抑自我表达，隐藏并淡化电子游戏爱好"
+          ],
+          "outcomes": [
+            "羞耻与焦虑加剧",
+            "自我表达受限",
+            "在社交情境中不敢呈现真实自我"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与朋友讨论此问题，难以向新认识的人敞开自己"
+          ],
+          "outcomes": [
+            "联结受限与疏离感增加",
+            "社交回避",
+            "睡眠受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在谈及爱好时回避或转移话题",
+            "避免出席可能讨论兴趣的社交场合"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设他人会嘲笑或轻视自己（“他们会笑我”）",
+            "将个别负面评论视为普遍态度"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外发出的能量，转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把分享兴趣的冲动压回自己，选择隐藏与淡化",
+            "在可表达时自我阻断披露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有一定社会支持（有朋友可交流）",
+          "主动寻求咨询帮助，愿意改变",
+          "对问题有自我觉察，能描述触发情境与影响",
+          "工作表现未受影响，具备生活稳定性"
+        ],
+        "negative_force": [
+          "害怕他人评判，过度在意外界看法",
+          "读心术与灾难化预测他人反应（跳到结论：他人会嘲笑）",
+          "倾向淡化与隐藏爱好导致社交回避",
+          "羞耻与焦虑影响睡眠",
+          "将个别负面评论过度概括为普遍偏见"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交情境中回避谈论或披露自己的电子游戏爱好",
+          "antecedent": [
+            "与新认识的人讨论爱好",
+            "在社交场合被问及兴趣或生活方式",
+            "想到过往朋友对成年人玩游戏的负面评论"
+          ],
+          "core_reason": "担心被评判为幼稚、不会被认真对待；受几年前负面评论与社会年龄刻板印象影响而形成的回避策略",
+          "function": "逃避潜在的负面评价与羞耻感，维持安全感与自尊",
+          "consequence": "自我表达受限、难以与新朋友建立更深联结、焦虑与羞耻加剧、睡眠受到影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1490
+}

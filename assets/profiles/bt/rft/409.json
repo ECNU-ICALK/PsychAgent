@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "林思雅",
+      "gender": "女性",
+      "occupation": "艺术学院学生",
+      "educational_background": "正在攻读美术学位（Fine Arts）",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "在艺术学院有一些朋友，但难以向他人敞开心扉；因不安全感与同学关系紧张",
+      "medical_history": "无重大躯体疾病；此前未经历类似心理问题，未接受过心理治疗",
+      "language_features": "表达清晰，能够具体描述情境；倾向关注负面反馈、否定正面信息；自我评价消极；配合度较好"
+    },
+    "main_problem": "尽管热爱绘画并立志创作壁画，但持续相信自己在艺术领域永远不会成功，这一思维模式导致自我怀疑与不足感。",
+    "topic": "职业发展",
+    "core_demands": "因自我怀疑与失败感影响艺术发展并造成痛苦而寻求咨询。",
+    "growth_experiences": [
+      "进入艺术学院后开始频繁与同学比较，看到同班同学的才华与作品，逐渐形成“自己不如人”的认知，随之产生强烈的自我怀疑与不足感。",
+      "在近几个月里收到对作品的反馈后，因将反馈理解为负面而进一步加重“我不够好、不会成功”的信念；同时对正面反馈难以接纳，倾向忽略和贬低。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我永远不够好，无法在艺术领域取得成功"
+      ],
+      "special_situations": [
+        {
+          "event": "收到教授或同学对作品的反馈并被自己解释为负面",
+          "conditional_assumptions": "如果有人提出批评或指出问题，就说明我不够好、会一直失败",
+          "compensatory_strategies": "加倍练习、寻求他人认可以缓解不安，但对正面反馈予以否定",
+          "automatic_thoughts": "我不行，我永远达不到要求",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在课堂上看到同学的优秀作品与才华",
+          "conditional_assumptions": "如果我没有达到或超过同龄人的水平，就说明我是失败者",
+          "compensatory_strategies": "不断与他人比较、加倍练习或回避开始新项目",
+          "automatic_thoughts": "我比他们差，我是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "开始或准备启动新的绘画项目",
+          "conditional_assumptions": "如果不能保证结果完美，就会失败并被评价为不够好",
+          "compensatory_strategies": "回避或拖延启动新项目以避免可能的失败",
+          "automatic_thoughts": "我会搞砸，最好不要开始",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "艺术课后对作品质量与他人反应的担心",
+          "conditional_assumptions": "只有得到他人的明确肯定，我的价值与能力才成立；否则就说明我不够好",
+          "compensatory_strategies": "频繁寻求他人认可与安慰（validation）以短暂缓解焦虑",
+          "automatic_thoughts": "如果他们不认可我，就证明我没有能力",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定与认可，证明自己有能力并在艺术领域取得成功",
+        "fear": "害怕失败与被否定，担心被视为不如人、因此感到羞耻与被疏离",
+        "defense_goal": [
+          "通过寻求外部认可来缓解焦虑与自我怀疑",
+          "以回避与拖延新项目来降低失败与被批评的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的学生",
+          "object_representation": "严苛的评判者（教授/同学/他人）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "自卑、需要他人认可才能感到有价值的人",
+          "object_representation": "才华横溢、令自己望而生畏的竞争者（同学）",
+          "linking_affect": "自卑、紧张、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导辨识并承认正面反馈或过往成就时",
+          "interpretation": "潜意识认为这些正面证据“不算数”或是在粉饰现实（移情：将他人视为不可靠的安慰者）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气平静但坚持负面框架，强调负面例子来否定积极证据。"
+        },
+        {
+          "trigger_condition": "当被邀请为新项目设定目标或采取行动时",
+          "interpretation": "将未来的不确定等同于必然失败，认为开始行动会导致被否定（移情：把外界视为潜在批判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调风险与条件不完备，提出多项假设作为不行动理由，语气谨慎、审慎。"
+        },
+        {
+          "trigger_condition": "当被询问他人如何看待其作品并探索其感受时",
+          "interpretation": "假设他人会看不起自己、对作品持负面评价（移情：投射他人为批判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们会觉得……”之类的表述，语气不确定但坚信他人负面看法。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在艺术学院虽有朋友但难以敞开心扉，因不安全感与同学关系紧张",
+            "担心他人对作品的评价，形成心理距离"
+          ],
+          "outcomes": [
+            "自我怀疑与焦虑加剧",
+            "回避启动新项目，学习与创作受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对创作选择与行动的自由时感到失败风险难以承受",
+            "以回避与拖延来逃避做出选择与承担后果"
+          ],
+          "outcomes": [
+            "行动瘫痪与推迟创作",
+            "满意度下降与职业发展受阻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "假设他人会看不起自己的作品、会否定自己",
+            "在课堂后预设同学与教授对自己持负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "严苛的自我批评与贬低自身能力",
+            "设定完美标准，因不确定而不敢开始新项目"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对绘画的热爱与持续投入意愿",
+          "具备创造力并曾完成挑战性项目",
+          "能够觉察问题模式并愿意寻求帮助",
+          "存在一定的同伴支持网络（在艺术学院有朋友）"
+        ],
+        "negative_force": [
+          "过度比较与自卑，依赖外部认可",
+          "否定正面反馈、心理过滤负面信息",
+          "灾难化与非黑即白思维，过度概括",
+          "回避与拖延新项目，导致行动受阻",
+          "对他人评价的读心与预测加剧焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避或拖延启动新的绘画项目",
+          "antecedent": [
+            "艺术课结束后对作品质量的担忧",
+            "准备开始新项目时对失败的恐惧",
+            "看到同学的优秀作品后产生自卑与焦虑"
+          ],
+          "core_reason": "将一次失败视为全面失败（非黑即白与过度概括），并灾难化预测未来受到否定",
+          "function": "逃避潜在失败与他人负面评价以保护自尊",
+          "consequence": "学业与艺术发展受阻，创作投入与产出下降，满意度降低"
+        },
+        {
+          "behavior": "频繁寻求他人认可与安慰（validation）",
+          "antecedent": [
+            "艺术课后怀疑自我能力",
+            "收到被自己解释为负面的反馈",
+            "对作品展示前的焦虑"
+          ],
+          "core_reason": "自我价值高度依赖外部评价，认为没有他人肯定就证明自己不够好",
+          "function": "获得短暂的安心与自我价值感确认",
+          "consequence": "自我效能感难以内化，依赖性增强，关系紧张"
+        },
+        {
+          "behavior": "对自己进行严苛的自我批评与否定正面信息",
+          "antecedent": [
+            "比较同学作品时",
+            "回顾反馈时仅关注负面片段"
+          ],
+          "core_reason": "心理过滤与否定正面思维模式巩固“我不够好”的核心信念",
+          "function": "维持熟悉的认知框架以减少不确定性",
+          "consequence": "焦虑与自我怀疑加重，注意力与学习效率下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 409
+}

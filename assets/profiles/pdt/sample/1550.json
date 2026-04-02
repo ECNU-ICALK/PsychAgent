@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "陈雅宁",
+      "gender": "女",
+      "occupation": "大学生",
+      "educational_background": "在大学修读日语课程",
+      "marital_status": "单身",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "与同学的关系因自我怀疑影响小组活动而变得紧张；虽有朋友与同学可交流，但对分享失败与自我怀疑感到不适",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "配合度高，态度积极；自述紧张但愿意沟通；表达清晰并能进行自我反思"
+    },
+    "main_problem": "在上月的日语考试不及格后，我一直觉得自己是个失败者，认为自己很笨。",
+    "topic": "学业压力",
+    "core_demands": "持续的失败感和对学业能力的怀疑促使我寻求咨询以处理这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我是一个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "上月日语考试不及格",
+          "conditional_assumptions": "如果一次考试失败，就说明我不够聪明、不适合这门课程",
+          "compensatory_strategies": "加倍学习并向同学寻求帮助以证明自己能够胜任",
+          "automatic_thoughts": "我很笨/我是失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在学习日语时每当遇到难点或困难",
+          "conditional_assumptions": "如果我在学习中遇到困难，就证明我没有能力",
+          "compensatory_strategies": "对自己施加压力并进行自我批评，逼自己更用力学习",
+          "automatic_thoughts": "这再次证明我不够聪明",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "想到自己在作业或课堂参与中有过成功但与考试失败并存",
+          "conditional_assumptions": "只有正式考试才是能力的真实衡量，其他成功不算数",
+          "compensatory_strategies": "以考试成绩作为唯一标准，忽略其他积极表现",
+          "automatic_thoughts": "作业做得好不重要，这次考试才说明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "考试前因“必须表现好”而承受高压力",
+          "conditional_assumptions": "我必须考好、应该做得更好，否则就是失败者",
+          "compensatory_strategies": "设定完美化标准、对自己严格要求",
+          "automatic_thoughts": "我本来就应该考得更好",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力",
+        "fear": "害怕被评判为愚蠢或失败，担心自我价值被否定",
+        "defense_goal": [
+          "通过自我苛责与高标准维持掌控感",
+          "避免向他人暴露脆弱以减少羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、随时可能失败的学生",
+          "object_representation": "严格、带有评判的权威（考试/课程）",
+          "linking_affect": "羞耻、焦虑、自卑"
+        },
+        {
+          "self_representation": "会拖累团队的同学（自我怀疑者）",
+          "object_representation": "可能失望或疏离的同伴",
+          "linking_affect": "紧张、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友或同学成为潜在的倾诉对象、被邀请讨论失败感与自我怀疑时",
+          "interpretation": "担心暴露脆弱会被看轻或被评判为“愚蠢”",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "避免深入表达情绪，使用简短、含糊的回答，转移话题至学业细节，保持克制的语气。"
+        },
+        {
+          "trigger_condition": "当面对正式考试或被要求以分数评估能力时",
+          "interpretation": "将考试视为唯一且决定性的评价者，从而回避面对羞耻与恐惧",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "强调“标准、测量、客观性”等词汇，以分析性的语气讨论考试难度，回避谈论羞耻与恐惧。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次考试当作自我价值的唯一衡量",
+            "在日语学习遇到困难时体验到“我不值得”",
+            "否定作业与课堂参与中的成功体验"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "持续的自我怀疑",
+            "学习动力受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友与同学可交流，但不愿讨论失败与自我怀疑",
+            "小组关系因自我怀疑而紧张"
+          ],
+          "outcomes": [
+            "人际疏离感增强",
+            "支持系统未被有效利用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该做得更好”的自我要求",
+            "将考试成绩视为唯一权威标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我否定（如“我是失败者/我很笨”）",
+            "与朋友谈及感受时过于谨慎甚至回避"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友寻求情感支持，转而加倍学习与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意向同学寻求帮助并加倍学习（具备行动倾向）",
+          "愿意尝试认知重构与现实检验（态度积极）",
+          "在作业或课堂参与中曾有良好表现（可作为能力证据）",
+          "具备一定的社会支持资源（朋友和同学）"
+        ],
+        "negative_force": [
+          "过度概括与自我标签，以一次失败定义自身",
+          "否定积极经验、过度关注考试结果",
+          "外部验证依赖显著，自我价值高度依赖分数",
+          "压抑情绪并回避与支持系统交流",
+          "高压力与完美化自我要求"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学习日语时出现的负性自我对话与自我标签（如“我很笨”“我是失败者”）",
+          "antecedent": [
+            "收到日语考试不及格的结果",
+            "在学习中遇到难点或错误",
+            "临近考试、压力增大"
+          ],
+          "core_reason": "将一次失败灾难化，并将自我价值与考试分数绑定（过度概括、外部验证）",
+          "function": "逃避羞耻与不确定感，通过自我批评试图获得控制或动力",
+          "consequence": "日语课程表现下降；与同学关系紧张；其他科目与课外活动的动机降低"
+        },
+        {
+          "behavior": "回避与朋友或同学讨论失败感与自我怀疑",
+          "antecedent": [
+            "感到失败与自我怀疑时",
+            "被他人邀请或有机会分享感受时"
+          ],
+          "core_reason": "担心被评判为愚蠢或被看轻，羞耻感驱动的回避",
+          "function": "逃避可能的负面评价与情绪痛苦",
+          "consequence": "支持系统未被有效利用、人际疏离加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1550
+}

@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "李泽宇",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "未提及",
+      "social_status": "与朋友和家人关系良好，目前未受该恐惧影响",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、思维逻辑性较强、合作度高、能进行自我反思；理性与情绪存在落差（理性认为抑郁概率低、情绪仍然担忧）"
+    },
+    "main_problem": "我担心有一天会无缘无故地抑郁，尽管我认为自己通常是一个快乐的人。这种恐惧最近一直萦绕在我脑海里。",
+    "topic": "情绪管理",
+    "core_demands": "我希望理解为什么我总会有这些恐惧，并找到管理或（最好）消除它们的方法，这样我就能享受自己的活动并不再那么紧张。",
+    "growth_experiences": [
+      "几个月前阅读了一篇关于抑郁的文章后开始出现对“无缘无故会突然抑郁”的恐惧；此后在阴天或阴郁天气时更容易出现焦虑与担心，理性上知道概率很低但情绪上感觉随时可能发生；曾尝试用喜好活动分散注意，但难以摆脱这些想法；当前拥有亲友支持网络。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法完全掌控自己的情绪与心理状态",
+        "一旦抑郁，生活会失去控制、无法再享受事物"
+      ],
+      "special_situations": [
+        {
+          "event": "阴天或阴郁的天气出现时，情绪稍有下滑",
+          "conditional_assumptions": "如果我感到有些低落，可能意味着抑郁即将到来或会突然发生",
+          "compensatory_strategies": "通过分散注意力、监控心情来尽量保持控制",
+          "automatic_thoughts": "这是不是抑郁的前兆？它可能随时发生在我身上。",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "阅读到关于抑郁的文章与信息后",
+          "conditional_assumptions": "如果抑郁可以毫无征兆地发生，那么我也可能随时陷入抑郁",
+          "compensatory_strategies": "过度思考、不断想象最坏结果以试图提前做好心理准备",
+          "automatic_thoughts": "我也可能会突然抑郁，届时一切都会变得很糟。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "注意到自己对平常喜欢的爱好出现动力下降",
+          "conditional_assumptions": "如果我对爱好失去动力，就说明情况在恶化，可能正在走向抑郁",
+          "compensatory_strategies": "减少参与、转而监控情绪和触发因素以保持掌控",
+          "automatic_thoughts": "我对爱好不感兴趣了，这可能就是抑郁来临的信号。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在总体快乐的生活状态下仍被“突然抑郁”的念头困扰",
+          "conditional_assumptions": "如果存在一点负面可能性或担忧，当前的积极感受就不可靠",
+          "compensatory_strategies": "反复扫描负面线索、寻求保证，否定当下的积极证据",
+          "automatic_thoughts": "我现在的快乐不算数，随时可能消失。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持情绪稳定与对生活的掌控，持续享受日常活动",
+        "fear": "害怕突然失去控制、无缘无故陷入抑郁、无法再享受生活",
+        "defense_goal": [
+          "通过警惕与自我监控来减少不确定性、维持安全与掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易受负面信息影响、需要保持警惕的脆弱者",
+          "object_representation": "外界（阴天、关于抑郁的文章）是不可控且潜在威胁的来源",
+          "linking_affect": "焦虑、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询其具体触发因素、信念及对抑郁的担忧时",
+          "interpretation": "倾向将情绪困扰转译为理性分析，以保持掌控与距离（将咨询关系体验为帮助其“控制与厘清”的安全场域）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用温和、具体化感受的语气；减少抽象分析，邀请其描述此刻身体与情绪体验，承认不确定性并保持好奇。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "担心“无缘无故”陷入抑郁意味着失去对生活与情绪的自主掌控",
+            "在阴天时更强烈地感觉自己可能被情绪左右",
+            "担忧无法再享受活动与日常生活"
+          ],
+          "outcomes": [
+            "持续性焦虑与压力",
+            "动机下降、爱好参与减少",
+            "对不确定性的过度警惕与自我监控"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁监控每日心情与触发因素",
+            "过度反思负面可能性与“随时会抑郁”的担忧",
+            "以保持掌控为目标而限制自然体验"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "尝试通过分散注意力来回避直接感受焦虑与担忧",
+            "在不适情绪出现时转向活动，而非直接停留与体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "总体心态积极，自认为“通常是快乐的人”",
+          "拥有亲友支持网络，能主动求助与交流",
+          "求助动机明确，愿意配合行为实验与自我观察",
+          "能识别并命名自动化思维与认知偏差，具备一定自我洞察",
+          "目前学业/工作与人际基本未受显著影响"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白思维、心理过滤、否定积极等认知偏差",
+          "过度思考与反刍倾向",
+          "对失去控制的强烈恐惧与不确定性不耐受",
+          "天气（阴天）等外界线索易触发负面联想",
+          "将一时低落感受等同于客观现实（情绪化推理）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对“无缘无故会突然抑郁”的持续性担忧与反刍",
+          "antecedent": [
+            "阴天或阴郁天气",
+            "阅读关于抑郁的文章或相关信息",
+            "想到自己的心理健康与是否能继续享受活动",
+            "注意到对爱好动力下降的时刻"
+          ],
+          "core_reason": "对失去控制的恐惧与灾难化认知（将短暂低落解读为抑郁前兆、预测最坏结果），并以过度思考来试图维持安全与掌控。",
+          "function": "逃避不确定性与潜在“灾难”，寻求控制感与心理安全（通过监控与分心来降低焦虑）。",
+          "consequence": "焦虑与压力增加；对爱好参与与享受下降；日常活动乐趣受影响。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1302
+}

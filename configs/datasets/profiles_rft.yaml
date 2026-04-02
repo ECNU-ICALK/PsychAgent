@@ -1,0 +1,11 @@
+root_data_path: ../../assets/profiles
+supported_modalities:
+  - bt
+  - cbt
+  - het
+  - pdt
+  - pmt
+split: rft
+filename_sort_policy: stem_asc
+case_selection_strategy: sequential
+max_cases_per_modality: 20

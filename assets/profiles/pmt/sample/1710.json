@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "张诚",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有支持性的朋友和家人，但目前未与他们讨论此问题",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理咨询或治疗；此前无类似旅行计划问题经历",
+      "language_features": "表达清晰、条理较好；倾向消极自评与过度概括；在咨询中配合度良好"
+    },
+    "main_problem": "由于日程冲突需要取消往返机票，且未购买行程取消保险，因此感到不知所措与压力增大；同时自认为难以有效地规划旅行。",
+    "topic": "情绪管理",
+    "core_demands": "因不知所措与缺乏自信而寻求咨询，希望发展有效的应对策略。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我做不好事情",
+        "我不擅长计划与组织"
+      ],
+      "special_situations": [
+        {
+          "event": "因日程冲突需要取消往返机票且未购买取消保险，面临明显的经济损失",
+          "conditional_assumptions": "如果我不能把旅行安排得完美、预见所有变动，就等于完全失败",
+          "compensatory_strategies": "回避再次计划旅行，减少与旅行相关决策以避免出错",
+          "automatic_thoughts": "我把事情搞砸了，我不擅长计划",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每当想到要再次计划旅行时",
+          "conditional_assumptions": "如果再尝试计划旅行，就必然会忘记重要事项或订错日期",
+          "compensatory_strategies": "选择回避与拖延，以降低焦虑与风险",
+          "automatic_thoughts": "我一定会再次搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对日常决策（不仅限于旅行）时频繁自我怀疑",
+          "conditional_assumptions": "如果我不能一次就做对，就证明我不可靠、能力不足",
+          "compensatory_strategies": "反复犹豫与第二次猜测，降低行动与决策",
+          "automatic_thoughts": "我不能把任何事情做对",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想过去曾有几次旅行进行得还可以",
+          "conditional_assumptions": "正面经验不算数，成功只是运气，不能说明我有能力",
+          "compensatory_strategies": "否定过去的有效做法与成功经验，不予以整合",
+          "automatic_thoughts": "那只是运气，不能说明我行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、能掌控计划与决策",
+        "fear": "害怕再次失败并被证明自己无能，导致经济损失与自我贬低加剧",
+        "defense_goal": [
+          "通过回避尝试与自我否定来降低焦虑与潜在损失",
+          "保持谨慎以避免再次犯错"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不可靠、容易犯错的失败者",
+          "object_representation": "严格而易惩罚失误的外部世界（如票务与时间安排）",
+          "linking_affect": "焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询讨论制定行动计划或建议再次尝试旅行规划时",
+          "interpretation": "潜意识将“再次尝试”理解为必然失败与压力增加（认为任何计划都会出错）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气谨慎而不过度对立，承认来访者的担忧，同时温和指出已存在的成功证据；使用具体事实提问与共情性反映，避免指责。"
+        },
+        {
+          "trigger_condition": "被询问过往成功经验并探讨其可复用策略时",
+          "interpretation": "将成功归因于运气，否定自身能力与方法的作用",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持支持性与好奇的语气，邀请举例说明具体做法；用开放式问题引导识别可复制的步骤，避免对抗。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对旅行与日常决策时体验到选择的压力与不确定性，难以承受责任感",
+            "倾向以回避来降低对选择的焦虑"
+          ],
+          "outcomes": [
+            "显著焦虑",
+            "自我效能感下降",
+            "决策困难与拖延",
+            "日常生活决策受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑与第二次猜测（“我不能把任何事情做对”）",
+            "将单次失败概括为普遍无能",
+            "在讨论行动计划时担心“若不成功则证明我失败”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制寻求他人帮助或对外行动。",
+          "manifestations": [
+            "明知拥有支持性的朋友和家人却未与其讨论此问题",
+            "把压力与焦虑内化，减少对外求助与行动"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "在具体策略讨论时转向灾难化预期与自我否定",
+            "以“可能会失败”为由避免直面规划步骤"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在计划旅行时，来访者通常会感到不知所措并回避行动，产生灾难化预期与自我否定，导致决策停滞。",
+          "unique_outcome": "过去曾有几次旅行进行得还可以；在那些情境中，来访者提前规划并对细节进行双重检查，结果流程更顺利、焦虑较低。",
+          "reason": "做法不同：提前规划、双重核对细节；情境负荷较低：当时需要处理的事项更少，便于管理。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人",
+          "曾有若干次旅行顺利的经验",
+          "愿意尝试认知重构与行动计划",
+          "能够识别自身的思维模式（过度概括、个人化）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括思维突出，倾向否定正面证据",
+          "显著自我怀疑与自我否定",
+          "回避计划与决策，未有效利用支持系统"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避或拖延旅行规划与相关决策",
+          "antecedent": [
+            "想到需要再次规划旅行",
+            "面对取消机票与经济损失的压力",
+            "担心订错日期或遗漏重要事项"
+          ],
+          "core_reason": "一次失败与经济损失触发对自身能力的负性核心信念与认知歪曲（过度概括、灾难化），导致自我效能感下降。",
+          "function": "逃避潜在错误与损失以获得短期的安全感与情绪缓解",
+          "consequence": "旅行与相关事务停滞，机会受限；焦虑持续并波及日常决策。"
+        },
+        {
+          "behavior": "决策时反复自我怀疑与第二次猜测",
+          "antecedent": [
+            "面对日常生活中的选择与决策",
+            "回忆近期旅行取消的负面经历"
+          ],
+          "core_reason": "将一次失败过度概括为普遍无能，情绪化推理强化不信任自身判断。",
+          "function": "试图通过不断检查与犹豫来降低犯错风险与焦虑",
+          "consequence": "决策效率显著下降，日常生活受影响，压力累积。"
+        },
+        {
+          "behavior": "否定既往成功经验（将其归因于运气）",
+          "antecedent": [
+            "被询问过往顺利旅行的经历",
+            "尝试总结可复制策略时"
+          ],
+          "core_reason": "负性自我图式与认知偏差（否定正面证据）维持低自我效能感",
+          "function": "维持现有自我叙事以避免承担尝试与改变的责任",
+          "consequence": "无法整合有效策略，改变动机下降，问题维持。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1710
+}

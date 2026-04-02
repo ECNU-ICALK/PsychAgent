@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "65",
+      "name": "张涛",
+      "gender": "男",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "工作中回避社交、与同事关系受影响；有一位要好朋友但未谈及自身困扰。",
+      "medical_history": "无类似问题史；无既往心理治疗；无显著躯体疾病。",
+      "language_features": "配合度良好，表达清晰，逻辑性尚可；语气平和偏疲惫，能自我反思；整体情绪中性偏压抑。"
+    },
+    "main_problem": "我认为因为工作太累而睡得很多，别人会觉得我懒，这让我产生内疚和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "内疚和自我怀疑影响了我的心理健康和工作表现，因此来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人的看法"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中与同事或主管互动时",
+          "conditional_assumptions": "如果我在他们面前显得疲惫或提到需要休息，就会被视为懒惰和不够努力",
+          "compensatory_strategies": "减少与他人交流、保持沉默以避免被评价",
+          "automatic_thoughts": "他们一定觉得我很懒。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "工作时长显著增加后，下班或周末需要长时间补觉",
+          "conditional_assumptions": "如果我睡得多，就说明我不自律、不如别人",
+          "compensatory_strategies": "强行压缩睡眠、跳过休息以证明自己不懒",
+          "automatic_thoughts": "大家会把我贴上懒惰的标签，工作也会越来越糟。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意力下降或绩效下滑被他人注意到",
+          "conditional_assumptions": "如果我表现不佳，就是我个人无能，给别人带来麻烦",
+          "compensatory_strategies": "加班硬撑、对自我更苛责",
+          "automatic_thoughts": "都是我的错，我不够好，辜负了大家的期望。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "看到同事精力充沛地完成工作",
+          "conditional_assumptions": "如果我没有像他们一样撑住不休息，就说明我不如人",
+          "compensatory_strategies": "与他人比较并自我批评，进一步压缩休息时间",
+          "automatic_thoughts": "我比他们差，我太懒了。",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被认可，尤其是自己对休息与恢复的正当需求能被接纳",
+        "fear": "害怕被评判为懒惰或软弱，从而被否定、排斥或影响工作安全感",
+        "defense_goal": [
+          "通过隐藏需求与回避求助来避免被评判",
+          "以过度努力与自我压抑来维持被认可感与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "疲惫、内疚且“做得不够好”的人",
+          "object_representation": "苛刻评判、容易否定人的他者（同事/主管）",
+          "linking_affect": "羞耻、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及向同事或主管表达自己需要休息时，或想到他人可能的反应",
+          "interpretation": "他人会像内心想象的“评判者”那样指责我懒惰（移情：把自我批评投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎、含蓄，倾向使用假设句（比如“可能、也许”），避免直接表达个人需求，更多描述外界看法。"
+        },
+        {
+          "trigger_condition": "当工作表现下降或注意力涣散被关注时",
+          "interpretation": "认为一切问题都源于自己不够好，内疚自责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "采用自责式语言（如“都是我的错”），语气低落，减少对客观工作条件的讨论，更多聚焦自我否定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未与要好的朋友谈及自身困扰",
+            "在工作中回避社交、与同事保持距离",
+            "独居，情感支持的实际使用不足"
+          ],
+          "outcomes": [
+            "焦虑加重，担心被他人评判",
+            "内疚与自我怀疑持续",
+            "主观无助感、价值感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "明知疲惫却减少睡眠、跳过休息以“硬撑”工作",
+            "不向同事表达休息需求，把压力转向自我消耗"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度担心他人评价，反复自责“我不够好/他们会觉得我懒”",
+            "在与他人互动时过分谨慎，避免表达需要"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一位要好朋友（潜在支持资源）",
+          "愿意尝试记录与行为实验，具备一定自我反思与改变动机",
+          "工作投入度高，责任心强"
+        ],
+        "negative_force": [
+          "读心术与预测未来等认知偏差，过度在意他人评价",
+          "自我怀疑与内疚倾向明显，易将问题个体化",
+          "社交回避，减少现实支持的获得",
+          "为证明不懒而压缩睡眠，导致精力与绩效进一步下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作场合的社交回避与焦虑",
+          "antecedent": [
+            "与同事或主管互动时",
+            "想到他人可能评判自己懒惰时"
+          ],
+          "core_reason": "对他人评价的高威胁解读与读心术、预测未来等认知偏差，担心被贴上“懒惰”标签",
+          "function": "逃避潜在的负面评价与羞耻感",
+          "consequence": "人际关系受损、支持减少，焦虑维持并影响专注与绩效"
+        },
+        {
+          "behavior": "强行减少睡眠、跳过休息硬撑工作",
+          "antecedent": [
+            "感到内疚与自我怀疑时",
+            "看到他人精力充沛或绩效较好时"
+          ],
+          "core_reason": "内化“应该更努力才不算懒”的信念，以过度努力抵消被评判的焦虑",
+          "function": "寻求外部认可、避免被指责与被视为软弱",
+          "consequence": "疲劳加剧、睡眠紊乱，工作表现进一步下降，形成恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 458
+}

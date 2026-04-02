@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "林可",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与丈夫共同生活，养有一只名为KJ的猫（目前走失）",
+      "social_status": "社交支持主要为丈夫，但其认为丈夫未能充分理解其情绪；其他人际情况未提及",
+      "medical_history": "既往无类似心理问题，未接受过心理治疗，无重大躯体疾病",
+      "language_features": "表达清晰、逻辑连贯，语速平稳；自责与负性情绪明显；配合度较好"
+    },
+    "main_problem": "在猫（KJ）走失后，持续出现强烈的内疚与自我责备，反复认为自己是“糟糕的宠物家长”，并将全部责任归咎于自己；该事件显著影响日常作息与情绪。",
+    "topic": "情绪管理",
+    "core_demands": "希望处理因猫走失引发的内疚与自我责备，改善心理健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职的宠物家长",
+        "一切都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "猫KJ在林可下班回家进门时溜出门并走失",
+          "conditional_assumptions": "如果我没有及时阻止猫跑出门，就说明我不适合当宠物家长、我失败了",
+          "compensatory_strategies": "加倍搜索、联系邻居、张贴传单以弥补“失误”",
+          "automatic_thoughts": "都是我的错，我不配养猫",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "夜晚安静独处时反复回想猫走失的情景",
+          "conditional_assumptions": "我必须时刻保持完美与高度警觉；只要我不够小心，就会出大错",
+          "compensatory_strategies": "通过自我批评与反刍来“承担责任”，或用电视/社交媒体短暂分散注意力",
+          "automatic_thoughts": "我应该更小心，我应该做得更好",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "持续搜寻无果（张贴传单、询问邻居但没有线索）",
+          "conditional_assumptions": "如果努力没有立刻效果，就证明我没有能力，事情只会变得更糟",
+          "compensatory_strategies": "进一步加大搜寻与自我苛责，难以停下休息",
+          "automatic_thoughts": "这下完了，可能永远找不到KJ了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与丈夫交流后感到对方未能充分理解自己的情绪",
+          "conditional_assumptions": "如果他不完全理解我的感受，说明问题全在我、我的感受不合理",
+          "compensatory_strategies": "减少从伴侣处寻求安慰，更多地把责任往自己身上揽",
+          "automatic_thoughts": "他不懂我，这还是我的错",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被认可，作为一个称职且负责任的照料者",
+        "fear": "害怕失败会伤害所爱之物并被责备/被否定，进而证明自己不称职",
+        "defense_goal": [
+          "通过过度自我批评与把责任全盘揽下，维持控制感与“有责任”的自我形象"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有过失、需要被责备的失败照料者",
+          "object_representation": "不理解自己情绪的旁观者（如伴侣）",
+          "linking_affect": "内疚、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如咨询师或伴侣）尝试弱化自责、提出外部因素或肯定其努力时",
+          "interpretation": "将他人的理解与平衡视为“为自己开脱/不负责任”，担心因此失去道德立场与控制感",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责口吻强调“都是我的错/我不配”，回避承认外部因素；语气严苛、用词绝对化。"
+        },
+        {
+          "trigger_condition": "当被邀请看到自己的努力与关爱（如搜索、贴传单）并进行更平衡的现实检验时",
+          "interpretation": "认为“如果我不强烈自责就等于不负责任”，用理由维持自责",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“如果不自责就太轻易放过自己”的论述来拒绝更平衡的看法，语气坚决，重复“应该”句式。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到伴侣未能充分理解其情绪体验",
+            "夜晚独处时自责与反刍显著加重"
+          ],
+          "outcomes": [
+            "情绪低落与内疚持续",
+            "自我批评增强",
+            "日常作息与专注受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁使用自我苛责的语言（如“都是我的错”“我不配养猫”）",
+            "担心“放过自己”会等于不负责任而持续自我批评"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在内疚思绪涌现时以电视或社交媒体分散注意力",
+            "短暂回避面对失猫事件带来的核心情绪"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "大量使用“应该”句式（“我应该更小心”“我应该做得更好”）",
+            "将完美与时刻警觉视作照料者的绝对要求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对宠物有强烈的关爱与责任心",
+          "主动采取行动（搜索、联系邻居、张贴传单）",
+          "愿意求助并进入咨询，开放于改变",
+          "能对他人展现同理（能对朋友说“不是你的错”）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维",
+          "过度自我责备与个人化归因",
+          "夜晚独处时反刍加重",
+          "自我同情不足，感到重要他人不理解"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "夜晚出现强烈的反刍与自我责备",
+          "antecedent": [
+            "夜晚安静独处",
+            "想到猫走失的情景",
+            "与丈夫谈及此事后感到不被理解"
+          ],
+          "core_reason": "受非黑即白与个人化认知影响，将一次失误的全部责任归于自己，并以自责维持“负责与控制感”的自我形象",
+          "function": "自我惩罚以维持责任感与控制感；通过反刍试图防止再次失误（但适得其反）",
+          "consequence": "情绪低落、难以集中、日常作息混乱，痛苦持续"
+        },
+        {
+          "behavior": "在内疚涌现时以电视/社交媒体进行回避性分散注意",
+          "antecedent": [
+            "内疚与自责思绪变得压倒性时",
+            "回想找寻无果的经历"
+          ],
+          "core_reason": "试图快速缓解情绪痛苦并回避直接面对失猫事件的感受",
+          "function": "逃避不受欢迎的情绪刺激（短期缓解）",
+          "consequence": "仅短暂缓解，核心问题未被处理，自责与反刍随后加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 775
+}

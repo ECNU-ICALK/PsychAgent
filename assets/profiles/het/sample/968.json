@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林凯",
+      "gender": "男",
+      "occupation": "职业运动员（田径/跑者）",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母及两位年幼的兄弟姐妹同住",
+      "social_status": "有一支支持性的训练伙伴与教练团队，但近期因缺乏动力与负面自我评价与训练伙伴关系紧张",
+      "medical_history": "否认以往类似心理问题；无既往心理治疗；无明显重大躯体疾病",
+      "language_features": "表达清晰，逻辑性较好，语速平稳，配合度较高；但倾向消极评估与“全或无”式表述，常用自我否定语句"
+    },
+    "main_problem": "在与一位竞争对手的短跑比赛失利后，我觉得自己是个糟糕的跑者，这导致了失败感与无能感的持续出现。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为我意识到关于跑步能力的消极想法正在影响我的竞技表现和心理健康。我想重新享受跑步，不再一直感觉自己是个失败者。",
+    "growth_experiences": [
+      "过往有几个赛季表现良好，获得教练与队友的积极反馈，一直高度重视自己的跑步能力与成绩，并将其视为重要的自我评价来源。",
+      "上个月在一次短跑比赛中失利，强烈打击了自信，此后每当想到跑步或训练便产生失败与无能感，逐步影响日常作息、人际互动与竞技表现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于我的比赛成绩",
+        "我不够好/我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "上月与竞争对手的短跑比赛失利",
+          "conditional_assumptions": "如果在关键比赛中没有获胜，就证明我是个糟糕的跑者",
+          "compensatory_strategies": "加大训练强度并设定不切实际的目标来弥补失败",
+          "automatic_thoughts": "我很糟糕/我是个糟糕的跑者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "临出门准备去跑步或训练的时刻",
+          "conditional_assumptions": "如果我现在训练也不会改变结果，失败是必然的",
+          "compensatory_strategies": "回避或拖延训练，降低投入以躲避失败感",
+          "automatic_thoughts": "无论我做什么都不会有变化，我又要失败了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "观看他人训练并取得进步时",
+          "conditional_assumptions": "如果别人在进步而我没有，就说明我不如人、我应该更好才对",
+          "compensatory_strategies": "自责、与他人比较、减少与伙伴交流",
+          "automatic_thoughts": "我应该更好，但我就是不行，我是个失败者",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "回想过去的成功赛季或他人提起既往成绩时",
+          "conditional_assumptions": "过去的成功不代表现在，如果现在不能赢，那些都不算数",
+          "compensatory_strategies": "否定正面证据，将成功归因为运气以维持负面自我图式",
+          "automatic_thoughts": "过去的成绩不真实，那只是运气",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过稳定的好成绩证明自我价值并获得他人认可与尊重",
+        "fear": "害怕失败后被视为无能、失去自尊与他人的看重",
+        "defense_goal": [
+          "以自我苛责和全或无标准逼迫自己维持高水平以避免失败",
+          "在情绪高涨时回避训练来暂时降低焦虑与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的、能力不足的跑者，自我价值脆弱",
+          "object_representation": "苛刻的评判者/不断进步并可能超越自己的他人（队友、竞争者、潜在的批评者）",
+          "linking_affect": "羞耻、挫败、嫉妒与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其寻找反证或回忆以往成功经历时",
+          "interpretation": "将过去的成功体验视为与当下无关、像“另一个人”的事，不易连接到当下自我",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "语气冷静疏离，使用“那像是另一个人/不真实”的表达，淡化与积极情绪的连接。"
+        },
+        {
+          "trigger_condition": "当咨询师肯定其能力并鼓励采纳更平衡的解释时",
+          "interpretation": "将过去的成绩归因为运气，以削弱积极证据对当前自我否定的威胁",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“运气/偶然”等字眼解释正面事实，继续强调当前失败以维持原有叙事。"
+        },
+        {
+          "trigger_condition": "当咨询师提出循序渐进、设定可行小目标的建议时",
+          "interpretation": "倾向以逻辑推演否定改变的可能，回避接触相关情绪与脆弱",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持克制与保留的语气，强调“不确定是否有效/可能不会改变感受”，弱化情感层面的探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "赛后常产生“有什么意义”的体验，认为努力不会改变结果",
+            "对训练与比赛的期待感下降，难以连接到过往的成就感"
+          ],
+          "outcomes": [
+            "训练动机下降",
+            "对跑步失去乐趣",
+            "自尊受损与无力感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有训练伙伴与教练支持，但未向他们表达失败与无能感",
+            "与训练伙伴关系紧张、减少交流"
+          ],
+          "outcomes": [
+            "社会支持未被动员",
+            "情感隔离与疏离体验加重",
+            "负性自我评价循环强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "在会谈中频繁使用“应该”“必须”自我评判（如“我应该更好”）",
+            "将胜负作为唯一价值标准，难以接纳灰度与过程"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，将能量对准自身。",
+          "manifestations": [
+            "不向伙伴与教练表达感受，将失望与挫败转为自责",
+            "在压力时减少训练投入，将本可对外沟通与寻求支持的能量转为对自己的苛责"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体过度的自我反思与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我否定（“我是个糟糕的跑者”），难以接纳正面反馈",
+            "在会谈中对积极证据保持怀疑并迅速否决"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "既往多个赛季表现良好，教练评价其具备潜力与天赋",
+          "拥有支持性的训练伙伴与教练团队",
+          "重视跑步并愿意主动寻求帮助（启动咨询）",
+          "在会谈中能够尝试提出更平衡的替代表述"
+        ],
+        "negative_force": [
+          "将自我价值过度绑定于竞技成绩",
+          "灾难化、全或无、过度概括及否定积极证据等认知模式固化",
+          "压力下回避或降低训练投入以逃避失败与羞耻",
+          "不与支持系统沟通导致支持资源未被动员",
+          "频繁自责与社会比较引发动机下降与自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "训练动机显著下降并出现回避训练/比赛的行为",
+          "antecedent": [
+            "临近训练或出门跑步前",
+            "想到上次比赛失利",
+            "观看他人训练与进步时"
+          ],
+          "core_reason": "将一次失败泛化为整体能力不足，采用全或无标准评价自我，并灾难化预测再次失败以避免羞耻",
+          "function": "逃避预期的失败与羞耻，短期降低焦虑",
+          "consequence": "竞技表现持续下滑，训练伙伴关系紧张，自尊受损，日常活动受影响"
+        },
+        {
+          "behavior": "消极自我对话与自我标签化（如“我是个糟糕的跑者”）",
+          "antecedent": [
+            "回想失利比赛",
+            "训练前的犹豫与焦虑",
+            "与他人比较时"
+          ],
+          "core_reason": "自我价值与成绩过度绑定，否定积极证据以维持负面自我图式",
+          "function": "通过自我惩罚式评估维持控制与高标准的幻觉，避免面对脆弱与不确定",
+          "consequence": "失败感与无力感加剧，动机与专注度下降，进一步影响训练与比赛表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 968
+}

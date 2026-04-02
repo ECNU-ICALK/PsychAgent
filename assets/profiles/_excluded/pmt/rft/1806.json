@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈思琪",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲曾开出租车，叔叔在渔船上工作",
+      "social_status": "未提及",
+      "medical_history": "无心理治疗史；无显著躯体疾病史；过去未出现类似心理问题",
+      "language_features": "表达清晰、逻辑较好、能配合与反思；倾向自我否定与负面预测；语速与言语流畅度未提及"
+    },
+    "main_problem": "I have a persistent belief that if I go back on the local news, people will think I am dumb.",
+    "topic": "情绪管理",
+    "core_demands": "害怕被他人负面看待与评判已开始影响我的决策与潜在机会，因此希望在咨询中处理这一认知歪曲。",
+    "growth_experiences": [
+      "曾在当地新闻上出现一次，因紧张而口误、词不达意；事件后持续反复回想并担心他人会因此认为自己愚蠢，恐惧评判随着时间加重，导致在涉及公众曝光的机会前出现显著回避。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/会被认为愚蠢",
+        "他人会严厉评判我"
+      ],
+      "special_situations": [
+        {
+          "event": "当再次上当地新闻或在公众面前露面的话题被提起",
+          "conditional_assumptions": "如果我再次出现并犯一点错误，大家就会认定我很愚蠢",
+          "compensatory_strategies": "回避任何可能上镜或公开发言的机会（拒绝媒体互动与公众演讲）",
+          "automatic_thoughts": "我会搞砸，所有人都会觉得我很笨",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想过去那次新闻采访中的紧张与口误",
+          "conditional_assumptions": "一次表现不佳就说明我不适合公开场合/不够聪明",
+          "compensatory_strategies": "否定或忽略任何正面因素，以此提醒自己不要再尝试公开露面",
+          "automatic_thoughts": "那次表现不好就说明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "出现需要公众演讲或进行媒体互动的工作机会",
+          "conditional_assumptions": "只要在公众面前出现，就一定会被严厉批评与嘲笑",
+          "compensatory_strategies": "直接谢绝机会，选择低曝光的角色以避免评价",
+          "automatic_thoughts": "他们会盯着我的错误不放",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "考虑是否向家人或朋友分享自己的担忧",
+          "conditional_assumptions": "如果我表达恐惧，他们会认为我小题大做或不值得认真对待",
+          "compensatory_strategies": "保持沉默、不寻求支持以避免被轻视",
+          "automatic_thoughts": "他们会觉得我在夸大其词",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与正向看见（在公众场合被理解且不被贬低）",
+        "fear": "害怕被羞辱、被视为愚蠢并遭受负面评判",
+        "defense_goal": [
+          "通过回避公众曝光与自我限制来降低被评判与羞辱的可能性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、会被羞辱的脆弱者",
+          "object_representation": "苛刻评判、挑剔的他人/观众",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当出现需要公众曝光的机会或被邀请进行公开发言/媒体互动时",
+          "interpretation": "他人会严厉评判并聚焦我的错误（将内在的自我批评投向外界）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性、客观的语气给出不参加的“充分理由”（如风险大、收益小），用大量“但是/因为”来证明回避的正当性。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请进行证据检视或现实测试时",
+          "interpretation": "以“逻辑上/理论上”的讨论来与强烈情绪保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用“逻辑上”“理论上”等词，降低情感表达强度，以分析性的语气讨论担忧而不触及羞耻与恐惧。"
+        },
+        {
+          "trigger_condition": "当回忆过去在新闻中的口误与紧张片段时",
+          "interpretation": "将内在的羞耻与自我贬损归因于他人会认为自己愚蠢（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "频繁使用“他们会……”“大家都会……”句式，强调外界负面看法；弱化自我感受的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因害怕评判而回避公众活动与媒体曝光",
+            "拒绝需要公开发言的工作机会",
+            "在重要机会前被“最坏情境”思维所限制"
+          ],
+          "outcomes": [
+            "选择空间受限",
+            "焦虑加重",
+            "生活与职业发展受阻"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未与亲友分享该恐惧，担心被认为夸大其词",
+            "在需要支持时保持沉默与回避"
+          ],
+          "outcomes": [
+            "支持系统未被有效激活",
+            "羞耻与退缩增加",
+            "情绪负担难以被共担"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "以“他们会觉得我很笨”“大家会批评我”来描述外界态度",
+            "将内在自我贬损体验归因于他人看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责、认为自己会搞砸",
+            "在公共情境中过度谨慎并选择回避"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把向外表达/尝试的冲动转为自我压制与回避",
+            "不向亲友寻求帮助，保持沉默"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试循序渐进地在小群体中发言",
+          "具备基本的社会支持资源（有几位亲友可谈心）",
+          "能进行逻辑检视并承认缺乏负面结果的证据"
+        ],
+        "negative_force": [
+          "对他人评价的高度敏感与恐惧",
+          "灾难化、预测未来与读心术等认知歪曲维持焦虑",
+          "习惯性回避公众场合导致恐惧被强化",
+          "否定积极信息、过度关注错误"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避公众曝光（上当地新闻、公开演讲、媒体互动）",
+          "antecedent": [
+            "当讨论再次上当地新闻时",
+            "面对需要公开露面的机会时",
+            "回想过去采访中的紧张与口误时"
+          ],
+          "core_reason": "源于那次新闻采访的负性记忆与对他人评判的恐惧，伴随灾难化、读心术与否定正面信息的自动化思维",
+          "function": "逃避羞耻与负面评价，降低即时焦虑",
+          "consequence": "拒绝机会、职业发展受限、减少参与活动并持续承受中度压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1806
+}

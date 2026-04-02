@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "陈安",
+      "gender": "男",
+      "occupation": "办公室职员",
+      "educational_background": "工商管理学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，父母已去世",
+      "social_status": "与同事的关系因持续焦虑和自我怀疑而紧张；有几位亲密朋友但未与其讨论工作相关焦虑",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；无类似问题史",
+      "language_features": "表达清晰，逻辑性较好，能自我觉察与反思；配合度高、态度积极；语速未提及"
+    },
+    "main_problem": "我一直在经历与工作相关演示的强烈焦虑，认为它们很糟糕，并担心因此丢掉工作。这种恐惧始于一年前我在一次演示后收到建设性反馈。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，是因为这种焦虑正在影响我的工作表现和整体幸福感；我需要帮助弄清如何应对并开发实际的应对策略。",
+    "growth_experiences": [
+      "一年前在一次工作演示后收到建设性反馈，自此开始将反馈与失败相连；每逢演示前频繁出现灾难化与过度思考，焦虑逐步升级并影响睡眠、饮食、工作表现与同事关系。",
+      "父母已去世、独居；虽有几位亲密朋友，但未向他们谈及工作相关焦虑，社会支持的利用度较低。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的（如果不完美就会被视为不称职）",
+        "不完美就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "获知即将进行工作演示/汇报",
+          "conditional_assumptions": "如果任何细节不完美，所有人都会注意到缺陷，老板会认为我不称职",
+          "compensatory_strategies": "提前过度准备、反复检查每个细节，并尝试积极自我对话与放松练习",
+          "automatic_thoughts": "这次演示很糟糕，我会丢掉工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在一次演示后收到建设性反馈",
+          "conditional_assumptions": "如果收到批评，就说明我表现很差、我失败了",
+          "compensatory_strategies": "设定更高的完美标准、加倍要求自己以避免再次被批评",
+          "automatic_thoughts": "他们觉得我很差劲，我失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "演示结束后的自我评估与反思",
+          "conditional_assumptions": "如果演示不完美，我终将失去工作",
+          "compensatory_strategies": "在脑中反复回放错误，忽视积极或中性反馈",
+          "automatic_thoughts": "我这次搞砸了，我要被解雇",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在演示前后与同事互动",
+          "conditional_assumptions": "如果我表现不够好，同事会认为我无能并疏远我",
+          "compensatory_strategies": "减少交流、显得疏离或易怒以避免谈论演示",
+          "automatic_thoughts": "他们会觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与看见工作价值，保持工作安全并被视为胜任",
+        "fear": "害怕失败、被评判为无能、失去工作",
+        "defense_goal": [
+          "通过完美主义与过度准备来避免失败与批评",
+          "避免向他人表达脆弱以免被视为抱怨"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能不称职、容易被批评的员工",
+          "object_representation": "严苛的评判者（老板/同事/观众）",
+          "linking_affect": "焦虑、恐惧"
+        },
+        {
+          "self_representation": "孤立的演讲者（需要独自承受）",
+          "object_representation": "疏离的他人（朋友/同事，难以提供支持或被我回避）",
+          "linking_affect": "紧张、疏离"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "父母已去世、独居",
+            "未向亲密朋友谈及工作焦虑",
+            "与同事关系因焦虑而紧张"
+          ],
+          "outcomes": [
+            "在演示前后体验到加剧的焦虑与无助感",
+            "社会支持难以获得，压力感提升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“必须完美”“不完美等于失败”内化为自我标准",
+            "把他人期待当作自己的绝对准则来约束表现"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "担心“会给朋友添麻烦/像在抱怨”，因此不向朋友谈及工作焦虑",
+            "将外在压力转向自身，表现为胸口紧绷、头痛等身体紧张"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我觉察，能辨认反馈是建设性的而非否定",
+          "态度积极、配合度高，愿意实践思维记录与现实检验",
+          "有几位亲密朋友，存在潜在的社会支持资源",
+          "已尝试放松与正向自我对话，具备一定应对基础",
+          "稳定的教育与工作背景（工商管理学士，办公室工作）"
+        ],
+        "negative_force": [
+          "完美主义倾向与对失败的恐惧",
+          "灾难化、预测未来、过度概括、非黑即白等认知偏差",
+          "演示前后过度思考与生理性焦虑（心跳加速、出汗、胃部紧绷、头痛）",
+          "睡眠与饮食被干扰，专注度下降，工作表现受影响",
+          "与同事关系紧张，避免向朋友寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作演示/汇报前的强烈焦虑与过度思考（伴随明显生理症状）",
+          "antecedent": [
+            "获知即将进行演示/汇报",
+            "在演示后收到反馈",
+            "演示结束后的自我评估"
+          ],
+          "core_reason": "完美主义与对失败的恐惧，将建设性反馈视为威胁，并以灾难化与预测未来的方式预期最坏结果",
+          "function": "逃避潜在失败与负面评价，通过过度准备和自我控制来寻求安全感与确定性",
+          "consequence": "睡眠与饮食紊乱、注意力下降、工作表现受影响、与同事关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1960
+}

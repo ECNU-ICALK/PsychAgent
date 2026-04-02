@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "林珊珊",
+      "gender": "女性",
+      "occupation": "临时照看孩子（保姆）",
+      "educational_background": "高中毕业",
+      "marital_status": "订婚",
+      "family_status": "三兄妹中的老二；与未婚夫订婚",
+      "social_status": "有支持性的家人和朋友，但在谈论婚礼担忧时感到不堪重负",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、能主动描述困扰；语句中多见“应该”等绝对化判断，存在比较与灾难化倾向；配合度较好"
+    },
+    "main_problem": "我对六个月后即将到来的婚礼感到焦虑，尤其是未婚夫在这个月没有参与婚礼筹备。",
+    "topic": "婚姻关系",
+    "core_demands": "我决定寻求咨询，因为这些焦虑性想法正在影响我的心理健康以及对婚礼的期待。",
+    "growth_experiences": [
+      "原生家庭：三兄妹中的老二。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被伴侣在意或重视",
+        "如果伴侣此刻不参与重要事务，就意味着他不是好丈夫"
+      ],
+      "special_situations": [
+        {
+          "event": "本月未婚夫未参与婚礼筹备",
+          "conditional_assumptions": "如果伴侣在关键事务上没有参与，就说明他不在乎我，且不会成为好丈夫",
+          "compensatory_strategies": "主动与未婚夫沟通、表达担忧与期待其参与",
+          "automatic_thoughts": "他不会成为好丈夫；我们的未来会很糟",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到其他情侣一起筹备婚礼（社交媒体与朋友圈）",
+          "conditional_assumptions": "如果我们不像其他情侣那样共同筹备，说明我们的关系存在问题",
+          "compensatory_strategies": "与他人进行比较并再次敦促未婚夫参与筹备",
+          "automatic_thoughts": "我们不如他们；我们的关系不正常",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在社交媒体或朋友那里被提醒“幸福情侣共同筹备”",
+          "conditional_assumptions": "如果他不参与，就是不关心我的感受",
+          "compensatory_strategies": "将未婚夫的行为贴上“不在乎”的标签并据此推断他的意图",
+          "automatic_thoughts": "他并不在乎我受到了多大影响",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与未婚夫沟通后未见明显行为改变",
+          "conditional_assumptions": "如果我已经表达感受但他仍不改变，就意味着将来婚姻会失败",
+          "compensatory_strategies": "持续担忧、关注负面线索以验证“危险信号”",
+          "automatic_thoughts": "这就是一个红旗；我们的婚姻可能会失败",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣重视与共同承担，获得稳定、安全的亲密关系",
+        "fear": "害怕被忽视、被拒绝以及婚姻失败的不确定性",
+        "defense_goal": [
+          "通过预先贴标签与否定来降低不确定性与被伤害的风险，维持掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "担心被忽视、渴望被看见的未婚妻",
+          "object_representation": "不关心、缺乏投入的伴侣",
+          "linking_affect": "焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其从多视角理解未婚夫的行为并鼓励以感受为中心的沟通时",
+          "interpretation": "倾向把伴侣的行为理解为“不在乎我”，并预期最糟结果（关系将失败）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气焦虑、使用绝对化与反问（如“他根本不在乎吧？”）；强调最坏结果，回避讨论具体证据与替代解释。"
+        },
+        {
+          "trigger_condition": "当听到未婚夫以工作忙为由解释未参与筹备时",
+          "interpretation": "将对方的解释视为借口，并据此否定其关心与能力",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用“应该/必须”句式与否定性标签（如“这只是借口”），拒绝进一步探讨具体情境与可能的协作方案。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心伴侣不参与共同承担、感觉不被在意",
+            "看到他人共同筹备时加剧自我与关系的孤立感"
+          ],
+          "outcomes": [
+            "持续的焦虑",
+            "与未婚夫关系紧张",
+            "睡眠与饮食受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "婚礼相关的喜悦被焦虑吞没，对婚礼的期待感降低"
+          ],
+          "outcomes": [
+            "对婚礼的兴奋感下降",
+            "工作投入度降低、生活质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“他应该关心、应该抽时间”的绝对化要求",
+            "以他人情侣的做法作为自己的评判标准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将“他不在乎我”的意图归因给伴侣而缺乏证据",
+            "把当前未参与等同为未来不良的本质特征"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的社会支持（家人和朋友愿意倾听）",
+          "愿意尝试沟通并接受咨询建议（愿意以感受为中心再次对话）",
+          "对问题有自我觉察，能识别焦虑加重的触发情境（社交媒体与他人示范）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、非黑即白与比较等认知歪曲显著",
+          "过度依赖外部比较与“应该”标准进行评判",
+          "对不确定性的耐受度低，倾向把当下行为贴标签并外推到未来",
+          "婚礼相关压力导致睡眠与饮食紊乱，进一步降低情绪调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "婚礼相关的持续性焦虑与担忧（伴随失眠与饮食紊乱）",
+          "antecedent": [
+            "未婚夫在本月未参与婚礼筹备",
+            "在社交媒体或朋友处看到“幸福情侣共同筹备”的提醒",
+            "与未婚夫沟通后未见改变"
+          ],
+          "core_reason": "对伴侣行为进行负性贴标签并以灾难化与读心术外推到未来，引发对婚姻失败的强烈不确定性焦虑",
+          "function": "通过反复担忧来试图获得掌控感与确定性、避免感到被忽视的痛苦",
+          "consequence": "工作表现受损、人际关系紧张、睡眠与饮食受影响，整体生活质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 236
+}

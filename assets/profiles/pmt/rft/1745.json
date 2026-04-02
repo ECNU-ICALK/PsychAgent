@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与父母同住，与母亲关系亲近",
+      "social_status": "家庭关系受内疚影响；有支持性朋友群体；负面思维影响社交动机与日常专注",
+      "medical_history": "无类似问题史；未接受过心理治疗或心理咨询；无显著躯体疾病",
+      "language_features": "态度积极，表达清晰，能反思与配合，语气平和"
+    },
+    "main_problem": "我觉得自己要为父母的争吵负责，相信自己是一个糟糕的女儿并成为他们矛盾的根源。",
+    "topic": "家庭关系",
+    "core_demands": "最近一次父母争吵引发强烈的内疚与责任感，希望通过咨询获得支持与指导。",
+    "growth_experiences": [
+      "父母最近发生争吵，自此反复出现内疚与自我归责的感受，认为自己的行为是父母冲突的原因，并因此在家庭互动中更倾向于回避冲突与取悦父母。",
+      "约一年前，亲密朋友订婚后开始将自己在亲密关系上的进展与朋友比较，促发对“自己是否能找到伴侣”的担忧与自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "都是我的错（我应为他人的冲突负责）",
+        "我是一个糟糕的女儿",
+        "我可能永远找不到伴侣"
+      ],
+      "special_situations": [
+        {
+          "event": "父母最近发生争吵",
+          "conditional_assumptions": "如果父母争吵，必然是我做错了什么或没有尽到“好孩子”的责任。",
+          "compensatory_strategies": "回避冲突、更加取悦父母以缓解内疚与焦虑。",
+          "automatic_thoughts": "这是因为我，我是个糟糕的女儿。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "看到幸福的情侣或参加社交活动",
+          "conditional_assumptions": "如果现在还没有伴侣或习惯与他人不同，就意味着我不会被爱、未来也很糟。",
+          "compensatory_strategies": "尝试增多社交、加入交友软件以改变现状。",
+          "automatic_thoughts": "我可能永远找不到爱。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "亲密朋友订婚并引发比较",
+          "conditional_assumptions": "如果在亲密关系上的进展不如同龄人，就说明我失败、不值得被爱。",
+          "compensatory_strategies": "频繁进行社会比较，并尝试通过更多社交来“赶上”同龄人。",
+          "automatic_thoughts": "我不如他们，我落后了。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "独处并长时间玩电子游戏",
+          "conditional_assumptions": "如果我常独处且沉浸在游戏，就会变得不社交、没人会喜欢我。",
+          "compensatory_strategies": "在焦虑时选择待在家玩游戏以暂时缓解不适。",
+          "automatic_thoughts": "我的习惯让人不喜欢，我找不到伴侣。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持家庭和谐、被父母认可与爱，成为“好孩子”。",
+        "fear": "害怕父母的不和会被归咎于自己、被批评或被拒斥；担心表达自身需求会加重母亲负担。",
+        "defense_goal": [
+          "通过取悦父母、回避冲突与自我责备来维持关系与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负责任且易自责的孩子",
+          "object_representation": "脆弱、易受影响且可能被自己“伤害”的父母（尤其是母亲）",
+          "linking_affect": "内疚、焦虑"
+        },
+        {
+          "self_representation": "在亲密关系中不被选择的孤独者",
+          "object_representation": "他人/潜在伴侣是难以接近、优越且与自己不同的群体",
+          "linking_affect": "自卑、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到要与母亲讨论自己的内疚与担忧，或担心这样的谈话会给母亲增加负担时",
+          "interpretation": "认为表达自我感受会伤害或加重母亲的压力，因此应当保持沉默以保护她。",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、含蓄的语气表达担忧，强调“我不想麻烦别人”，避免直接提出自身需求，转而寻求第三方（咨询师）支持。"
+        },
+        {
+          "trigger_condition": "当父母出现争吵或紧张氛围时",
+          "interpretation": "将冲突归因于自己，认为自己必须承担责任并修复局面。",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“都是我的错”），快速道歉或过度承诺取悦他人，贬低自我以求缓和局势。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "看到幸福的情侣或参加社交活动时担心自己永远找不到伴侣",
+            "独处并长时间玩电子游戏后质疑自己的生活方式是否导致无法建立亲密关系",
+            "与朋友比较在亲密关系上的进展，加重对孤独的担忧"
+          ],
+          "outcomes": [
+            "社交动机降低与回避",
+            "焦虑与自我怀疑增加",
+            "对未来亲密关系的悲观预期"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "认为“我必须/应该取悦父母，避免任何冲突”",
+            "将同龄人的亲密关系进展视为自己也必须达到的标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "担心向母亲表达内疚会“给她增加负担”，于是把感受压在自己心里",
+            "通过自责来替代表达不满或寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“都是我的错”）",
+            "过度在意他人可能的看法，限制外出与社交尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到情侣或参加社交活动时，来访者通常会产生“我永远找不到伴侣”的念头并减少社交动机。",
+          "unique_outcome": "在某次社交聚会中与朋友玩得很开心并感到连接，当下负面预期明显减弱且情绪更放松。",
+          "reason": "不同情境/支持：与熟悉的朋友同在、活动本身有兴趣；做法不同：更主动参与交流，因此这次没有陷入过往的悲观预期。"
+        },
+        {
+          "target_problem": "独处时往往沉迷电子游戏并回避外出社交，进一步加重“我找不到伴侣”的担忧。",
+          "unique_outcome": "在一次使用交友软件的聊天中进行愉快且持续的交流，即便没有后续，也体验到积极互动与连接感。",
+          "reason": "不同做法：主动在交友软件上发起并维持对话；不同理解：关注过程质量而非结果，从而体验到连接而非失败。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与母亲关系亲近、愿意寻求专业支持",
+          "有支持性的朋友群体并曾体验到积极的社交连接",
+          "能识别并描述自动化思维，愿意尝试替代性视角与行为实验"
+        ],
+        "negative_force": [
+          "自我归责与内疚倾向显著",
+          "灾难化、过度概括、个人化、跳到结论等认知偏差频繁出现",
+          "社会比较强化自卑与绝望感",
+          "在焦虑时倾向回避社交并沉浸电子游戏，形成恶性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在父母争吵时出现过度自责与强烈内疚",
+          "antecedent": [
+            "父母出现争吵或紧张氛围",
+            "听到或目睹家庭冲突"
+          ],
+          "core_reason": "将他人的冲突个人化并内摄为自身责任（“都是我的错”），以维持被认可的“好孩子”形象。",
+          "function": "逃避对外表达与冲突，试图通过自责来维持家庭和谐与获得认可。",
+          "consequence": "焦虑与内疚加重，家庭互动更紧张，影响日常专注与作息。"
+        },
+        {
+          "behavior": "社交回避并在独处时沉浸电子游戏",
+          "antecedent": [
+            "独处、看见情侣或社交场景后产生负面预期",
+            "对自身习惯的自我怀疑增强"
+          ],
+          "core_reason": "灾难化与过度概括导致对社交与亲密关系的悲观预期，以避免可能的失败或被拒绝。",
+          "function": "短期缓解焦虑与不适，获得即时自我安慰（通过游戏），同时规避潜在的社交压力。",
+          "consequence": "社交机会减少，负面信念得到强化，孤独与自卑加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1745
+}

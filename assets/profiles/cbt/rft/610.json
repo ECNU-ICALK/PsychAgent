@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "林娜",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "家中最小的孩子",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未出现类似心理问题；此前未接受过心理咨询",
+      "language_features": "表达清晰、逻辑性较好，能够自我反思；对咨询持积极态度、合作度高；能具体描述自动思维与情绪困扰；语速与语气平稳"
+    },
+    "main_problem": "I struggle with feeling inadequate in my ability to learn and excel at playing video games despite my enjoyment of them.",
+    "topic": "情绪管理",
+    "core_demands": "I decided to seek counseling because these feelings of inadequacy and self-doubt have started affecting my enjoyment of video games and my overall well-being.",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我缺乏学习新事物的能力/毅力"
+      ],
+      "special_situations": [
+        {
+          "event": "在玩游戏时犯错或遇到困难关卡",
+          "conditional_assumptions": "如果我不能快速学会、尽量少出错，就说明我没有天赋/没有毅力",
+          "compensatory_strategies": "加大练习与反复观看教学视频来弥补并证明自己",
+          "automatic_thoughts": "我很糟糕；无论怎么练我也不会变好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与他人比较时，看到别人进步更快或用更少努力就变强",
+          "conditional_assumptions": "如果我的进步速度比别人慢，就证明我不够好、不如人",
+          "compensatory_strategies": "自我苛责、避免与朋友讨论该问题以免尴尬",
+          "automatic_thoughts": "我不如他们；我就是不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试学习新技能时，注意力集中在失误与弱项上",
+          "conditional_assumptions": "只有在短时间内掌握并保持稳定表现才算合格；任何失误都意味着失败",
+          "compensatory_strategies": "只关注错误与不足，忽视已有进步与优势",
+          "automatic_thoughts": "我不够有能力/不够专注",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想曾经通过坚持通关后，仍否定该成功的意义",
+          "conditional_assumptions": "零星成功不算数，除非整体水平很高才值得肯定",
+          "compensatory_strategies": "淡化成就，将成功归因于运气而非能力与努力",
+          "automatic_thoughts": "那次只是侥幸，不代表我能学会新东西",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、可以进步并获得自我认可",
+        "fear": "害怕被比较后显得无能、被否定与羞耻",
+        "defense_goal": [
+          "通过自我批评与贴标签先行否定自己以降低被外界否定的风险",
+          "以“缺乏天赋/不够专注”等理性解释来回避接触羞耻情绪",
+          "避免向朋友透露这一困扰以回避尴尬与潜在评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、能力不足的学习者",
+          "object_representation": "更优秀且具评判性的他人/同伴",
+          "linking_affect": "羞耻、挫败、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其看到积极证据或指出其优势（如策略能力）时",
+          "interpretation": "担心承认优势会被视为自我吹嘘，或无法改变“总体不行”的既定印象",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和与支持性，先共情其羞耻与挫败，再以开放式问题引导其具体化证据；避免对抗，逐步连接成功体验与自我价值。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "游戏的享受感下降，难以从中获得乐趣",
+            "总体成就感降低，动机下滑",
+            "负面体验从游戏泛化至生活其他领域"
+          ],
+          "outcomes": [
+            "挫败与自我怀疑增多",
+            "对自我价值感的动摇",
+            "整体幸福感受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "会谈中反复使用自我苛责的标签（如“我很糟糕”“不够专注”“学不快”）",
+            "将表现普遍化为“我总体不行”，难以允许积极信息进入",
+            "因尴尬而避免向朋友透露困扰"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在练习新关卡或新技能时，来访者通常会因挫败与自我怀疑而认为“无论怎么练也不会变好”，进而削弱乐趣与动力。",
+          "unique_outcome": "曾有一次她持续几周练习某个困难关卡，最终成功通关，并体验到满足与成就感，而非一贯的“放大失败”。",
+          "reason": "线索：采取了持续性的坚持练习；利用自身擅长的策略思考；在较长时间跨度内观察到真实进步，从而减轻了“立即见效”的压力。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备策略思考与规划优势（朋友会向其请教策略）",
+          "曾通过坚持实现通关的成功经验",
+          "有主动练习与观看教学视频的学习投入",
+          "对咨询持积极态度并愿意尝试重构思维",
+          "拥有几位可以谈及个人问题的亲密朋友（潜在支持）"
+        ],
+        "negative_force": [
+          "倾向与他人比较并形成自我贬低",
+          "贴标签与否定积极证据（如“我很糟糕”“那次只是运气”）",
+          "过度概括与“永远不会变好”的预设",
+          "将能力表现与自我价值强绑定，导致羞耻与挫败",
+          "因尴尬而回避向朋友寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在游戏与学习新技能情境中出现强烈挫败感与自我怀疑，并伴随自我否定性言语（如“我很糟糕”“我永远不会变好”）",
+          "antecedent": [
+            "玩游戏时出现失误或卡关",
+            "观看他人更快进步并进行比较",
+            "尝试新技能、短期内没有立刻看到进步"
+          ],
+          "core_reason": "将进步速度与自我价值等同；对失败与错误进行心理过滤与灾难化解释；使用标签化语言否定能力与努力。",
+          "function": "逃避面对不确定与失败感，通过自责与标签获得一种“可控解释”，暂时缓解对外在评价的焦虑。",
+          "consequence": "游戏乐趣下降、动机与成就感受损，负面体验泛化至其他生活领域，整体幸福感下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 610
+}

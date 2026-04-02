@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林沐桐",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有伴侣与一些亲密朋友可倾诉，但他们不完全理解通勤对其心理健康的影响",
+      "medical_history": "无显著躯体疾病；无既往心理治疗；以往未出现类似压力问题",
+      "language_features": "表达清晰，能具体描述通勤压力与负面思维及躯体反应；态度偏消极并对改变持怀疑，但愿意尝试；配合度尚可；语速与逻辑特征未提及"
+    },
+    "main_problem": "我每天通勤一小时让我感到压力和不堪重负，产生负面想法与无望感。自六个月前开始这份工作后，这些感受出现并加重，现在每天上班前我都惧怕开车，影响心情与工作效率；回家路上有时也会出现。尝试在通勤时听音乐和播客，但负面想法仍持续。",
+    "topic": "情绪管理",
+    "core_demands": "“我只想在通勤时更轻松一些，不要让它在一天开始之前就毁掉我的心情。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我被困住且没有希望",
+        "我无法改变现状"
+      ],
+      "special_situations": [
+        {
+          "event": "每天早晨出发上班前，想到需要在拥堵的交通中通勤约一小时",
+          "conditional_assumptions": "如果通勤时间长且交通糟糕，我的一天就注定糟糕，情绪无法恢复",
+          "compensatory_strategies": "在车上听音乐或播客试图缓解压力和负面思维",
+          "automatic_thoughts": "开车上班太耗时了，我永远不可能找到离家更近的工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "通勤途中遇到严重拥堵时",
+          "conditional_assumptions": "如果我在路上感到强烈焦虑，就说明我无法应对这份工作，整天都会被毁",
+          "compensatory_strategies": "继续使用分散注意力的方式（音乐、播客），但忽视任何轻微改善",
+          "automatic_thoughts": "我被这个通勤困住了，没有出路，这会毁掉我一整天",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "抵达公司时已因通勤而心情低落，自觉落后工作进度",
+          "conditional_assumptions": "如果到公司时心情糟糕，就表示我整天都会落后且表现不好",
+          "compensatory_strategies": "负面自我评价，忽略任何积极反馈或成就",
+          "automatic_thoughts": "我一直在落后，做不好工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "偶尔交通较少、通行顺畅的时刻",
+          "conditional_assumptions": "除非通勤完全顺畅，否则任何轻微好转都不算数",
+          "compensatory_strategies": "忽视短暂的轻松感，不承认其意义",
+          "automatic_thoughts": "这种缓解很少见，没有用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在通勤与工作之间获得掌控感与轻松感，保持情绪稳定",
+        "fear": "害怕外部情境不可改变、被固定的通勤结构长期困住，导致持续的无望与失控",
+        "defense_goal": [
+          "保持悲观与怀疑以降低失望感、避免期待落空"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被困住且不被理解的受苦者",
+          "object_representation": "不理解或无法提供实质帮助的他者（同事、家人、伴侣）",
+          "linking_affect": "孤独、沮丧、烦躁"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出通过调整认知与重构观点来减轻通勤压力时",
+          "interpretation": "来访者认为外部情况固定不变，心理方法不会产生改变（把改变视为不可能）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以平淡而怀疑的语气表达“我不觉得会有改变”，强调通勤不可改变，减少展开对话。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其辨识相对不那么压力的片刻或积极面向时",
+          "interpretation": "将通勤体验视为全坏，任何轻微改善都被否定为没有意义",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化词语（如“从不”“永远”），否定正面片刻，用坚定但简短的语句收尾。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被通勤结构困住、无路可走、无法改变；把每天的通勤体验视为既定且不可控"
+          ],
+          "outcomes": [
+            "焦虑与紧张",
+            "无望感",
+            "易怒与人际摩擦",
+            "睡眠紊乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中反复以“我一直在落后”进行负面自我评价",
+            "对改变持怀疑态度，谨慎表达“我愿意试试，但不觉得会有用”",
+            "难以承认任何积极之处或片刻缓解"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在每天早晨上班前及通勤途中，来访者通常会出现强烈的焦虑与无望感，进而使整天的心情与工作表现受影响",
+          "unique_outcome": "在偶尔交通较少、通行顺畅的时刻，来访者感到压力稍有减轻，体验到一点轻松",
+          "reason": "线索：情境不同（交通较少、通行更顺畅、通勤时间缩短），外部负荷降低使这次出现了压力减轻的偏离点"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾经对工作有正向体验与满意度",
+          "愿意尝试新的方法并寻求咨询支持",
+          "拥有伴侣与朋友的基本支持（可倾诉）",
+          "能察觉偶尔交通较少时压力有所缓解"
+        ],
+        "negative_force": [
+          "通勤时间长且交通拥堵，客观压力持续存在",
+          "心理过滤、过度概括与预测未来等认知偏差强化无望感",
+          "睡眠模式被焦虑打乱，降低恢复力",
+          "易怒导致与同事和家人关系紧张",
+          "自我评价倾向负面，认为自己“不断落后”"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在通勤前后出现显著的焦虑与惧怕，伴随心率加快、胸口压迫及易怒",
+          "antecedent": [
+            "每天早晨上班前",
+            "通勤途中遇到交通拥堵",
+            "下班回家路上"
+          ],
+          "core_reason": "长时间通勤与拥堵带来的高压力引发“事情不会改善”的预测性思维与无助感，负面自动化思维反复强化焦虑",
+          "function": "逃避和减轻不受欢迎的焦虑体验，寻求暂时的自我安抚（如通过音乐/播客分散注意力）",
+          "consequence": "影响工作情绪与生产力；与同事和家人互动更易怒；睡眠紊乱并加重次日的压力体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1459
+}

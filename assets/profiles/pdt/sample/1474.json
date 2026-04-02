@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "张婧",
+      "gender": "女",
+      "occupation": "刚开始一份新工作",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "自述患有阿斯伯格综合征；未接受过类似心理问题的治疗；无显著其他医疗史",
+      "language_features": "倾向于按字面理解事物；表达清晰连贯、配合度高；能自我反思并提出可行策略；在小挫折后容易焦虑与自我怀疑；态度积极且礼貌"
+    },
+    "main_problem": "我倾向于把一切按字面理解，且常常否定积极方面。最近开始新工作，在上班路上踩到被嚼过的口香糖，这件小事却显著影响了我的自信。",
+    "topic": "情绪管理",
+    "core_demands": "这次踩到口香糖让我意识到我倾向于否定积极影响了我的自信，所以我决定寻求咨询来处理这一问题。",
+    "growth_experiences": [
+      "长期存在阿斯伯格特征（倾向字面理解、社交学习相对困难）；此前未接受心理治疗或辅导；目前社会支持系统较弱，遇到问题缺乏可讨论的人。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "在上班路上踩到被嚼过的口香糖",
+          "conditional_assumptions": "如果连这样的小事都发生在我身上，就意味着我会失败、无法胜任新工作",
+          "compensatory_strategies": "在工作中变得过度谨慎、反复自我怀疑，试图通过加强控制来避免再出错",
+          "automatic_thoughts": "这说明我不够好，我不会在新工作中成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在新工作中出现任何小错误或突发状况",
+          "conditional_assumptions": "只要出现一点问题，就证明我不够好、不具备胜任力",
+          "compensatory_strategies": "只关注负面、忽视正面证据与成功经验",
+          "automatic_thoughts": "我处理不好事情",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "成功完成几个项目并与同事有友好互动",
+          "conditional_assumptions": "积极表现只是偶然，并不能说明我真的有能力",
+          "compensatory_strategies": "否定或贬低积极经历，不予记录与强化",
+          "automatic_thoughts": "这次只是运气好，不能代表我能行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在经历积极进展后的短时间",
+          "conditional_assumptions": "好事不会持续，迟早会出问题",
+          "compensatory_strategies": "提前预期负面结果、保持高度警觉以避免失望",
+          "automatic_thoughts": "很快又会出差错，我撑不住",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定与接纳，在新工作中被视为有能力的人",
+        "fear": "害怕失败与被否定，担心小挫折会暴露自身无能",
+        "defense_goal": [
+          "通过否定积极与过度谨慎来降低失望与被批评的风险",
+          "保持对外界的警惕以维持心理安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的新手、容易犯错者",
+          "object_representation": "外界/环境像苛刻的评判者（甚至将随机事件视为‘宇宙在否定我’）",
+          "linking_affect": "焦虑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当遭遇小挫折（如踩到口香糖）或工作中出现小错误",
+          "interpretation": "将偶发事件视为外界在否定自己（如“宇宙在告诉我不行”），并据此推断自我价值低",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受或冲动归于他人或外界，将内在的自我否定体验解释为外界在传递负面信息",
+          "response_instruction": "以确定且悲观的语气，将偶发事件解释为他人的否定；使用绝对化词语（如“都”“一定”），忽略或淡化正面证据，回避对事实细节与替代解释的讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "目前缺乏强社会支持系统可讨论困扰",
+            "在新工作中“社会化”是新的学习挑战，感到无助"
+          ],
+          "outcomes": [
+            "社交场合自信不足",
+            "焦虑加剧、容易自我怀疑"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "积极经历“留不住”，常被负面事件抹去",
+            "完成项目与友好互动难以转化为稳定的价值感与自我肯定"
+          ],
+          "outcomes": [
+            "自信受损",
+            "对未来持悲观期待、情绪波动加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人或外界，将内在体验视为外界对自己的评价。",
+          "manifestations": [
+            "把踩到口香糖解释为外界/“宇宙”在否定自己",
+            "将偶发负面事件当作他人或环境对自身能力的结论性判断"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在工作中过度谨慎、反复自我怀疑",
+            "因担心出错而难以专注、效率下降"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在新工作环境中遭遇小挫折时，来访者通常会过度焦虑、否定积极，并在社交场合自信受损，工作表现变得过于谨慎与犹豫。",
+          "unique_outcome": "入职后的几次工作中，成功完成了几个项目，当下感到开心与宽慰；与同事互动友好，这些时刻相较平时自信有所提升。",
+          "reason": "不同支持：同事态度友好、互动顺畅；不同情境：任务完成带来具体成果与成就感；不同理解：在当下看到了自身能力的证据，正面体验得以显现。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并具备自我反思能力",
+          "已有成功完成项目的客观证据可供强化",
+          "同事友好，具备潜在人际支持资源",
+          "态度积极、愿意尝试记录积极事件（如日记）"
+        ],
+        "negative_force": [
+          "否定积极、心理过滤、非黑即白等认知偏差显著",
+          "缺乏强社会支持系统，情绪调节资源不足",
+          "阿斯伯格特征导致倾向字面理解与社交困难",
+          "在小挫折后倾向灾难化预期与自我标签化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "遭遇小挫折后在工作中表现为过度谨慎、反复自我怀疑与注意力下降，社交场合自信不足",
+          "antecedent": [
+            "上班路上踩到口香糖等突发小意外",
+            "新工作环境的不确定性与学习压力",
+            "工作中出现小错误或干扰"
+          ],
+          "core_reason": "消极核心信念（“我不够好”“我不会成功”）驱动的非黑即白、心理过滤与否定积极的认知解释；阿斯伯格特征使其更倾向字面理解、难以灵活重述事件意义。",
+          "function": "通过过度谨慎与自我监控来逃避失败风险与外界批评，试图获得控制感与心理安全。",
+          "consequence": "工作效率与专注度下降、社交自信受损、焦虑加剧，正面经验难以内化为稳定的自我肯定。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1474
+}

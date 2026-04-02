@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "梅岚",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲为幼儿园教师，父亲为税务评估员；父母总体支持，但来访者难以与其讨论自我批评与负面情绪",
+      "social_status": "与他人关系受到自我批评与难以接纳赞美的影响；常在群体场合感到被评判",
+      "medical_history": "无重大躯体疾病；在获选美冠军前无类似心理问题与治疗史",
+      "language_features": "表达清晰、逻辑性较强，能自我反思与合作；语气中带有自我批评与否定积极反馈的倾向，态度积极、愿意改变"
+    },
+    "main_problem": "在一次选美比赛中获胜后，我感觉这使我被贴上“虚荣”的标签，而不是被认为有吸引力。",
+    "topic": "情绪管理",
+    "core_demands": "这些消极思维模式影响了我的自尊和整体幸福感；我想重新获得真正的自信。",
+    "growth_experiences": [
+      "在一次选美比赛中获胜后，周围人的评论使我开始将自己与“虚荣”联系起来，并越来越多地忽视这一经历中的积极面。我逐渐在赞美中寻找负面含义，认为他人不真诚或在评判我，这些念头频繁在被称赞或被认可时出现，导致自尊下降、难以接受表扬与享受成就。",
+      "成长于支持型家庭：母亲为幼儿园教师，父亲为税务评估员；父母总体支持、评价较为真诚。来访者在父母的赞美中较易接纳积极信息，但仍难以深入与其讨论自己的自我批评与负面情绪。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被正面认可",
+        "外界的赞美不可信"
+      ],
+      "special_situations": [
+        {
+          "event": "收到陌生人或泛熟人的外貌赞美",
+          "conditional_assumptions": "如果别人称赞我好看，那多半是客套或觉得我在迷恋外表",
+          "compensatory_strategies": "立即质疑或否认赞美，淡化自己的优点以避免被视为虚荣",
+          "automatic_thoughts": "他们在说谎安慰我/他们认为我很虚荣",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交聚会或群体场合被关注并被提及获选美冠军",
+          "conditional_assumptions": "只要被关注，别人就会在心里评判我虚荣",
+          "compensatory_strategies": "回避谈论经历、转移话题、降低自我存在感以减少被评判的可能",
+          "automatic_thoughts": "大家都在默默评价我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想选美比赛的过程与结果",
+          "conditional_assumptions": "因为外貌获胜等于肤浅与虚荣，真正有价值的人不靠外表被认可",
+          "compensatory_strategies": "专注于自身缺点与可能的负评，否定努力与优点以维持“谦逊”",
+          "automatic_thoughts": "赢得比赛只说明我虚荣，并不代表我有吸引力或实力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "收到对自己成就（如才艺表现与准备努力）的认可",
+          "conditional_assumptions": "如果别人认可我的成就，可能只是出于礼貌或偏爱，不足为凭",
+          "compensatory_strategies": "把成功归因于运气或外在因素，否定个人能力与付出",
+          "automatic_thoughts": "这不算什么/只是运气好",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真诚地看见与认可（包括外貌与努力），并被安全地接纳",
+        "fear": "害怕被贴上“虚荣/肤浅”的标签而遭到评判、羞耻与疏远",
+        "defense_goal": [
+          "通过否定赞美与淡化成就来避免被指责为虚荣",
+          "保持道德与谦逊的自我形象以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被评判与否定的脆弱者",
+          "object_representation": "不真诚、挑剔的评判者",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "渴望被理解与支持的孩子",
+          "object_representation": "总体支持但不易敞开心声的父母",
+          "linking_affect": "矛盾（依恋与迟疑并存）"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人给予正向反馈、赞美或肯定时",
+          "interpretation": "对方不真诚或在暗示我“虚荣”（将内在的不信任投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以自嘲或否定的语气淡化成就，强调外在因素（运气/客套话），并快速转移话题。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请具体回顾获奖努力与优势、鼓励接纳积极体验时",
+          "interpretation": "把关注自身优点体验为“炫耀”的风险，担心被评价",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用客观、概述式语言描述流程与细节，避免接触情感与自豪感，语气克制、情感平淡。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在群体场合感到被默默评判，难与他人共享喜悦",
+            "与父母关系支持但难以讨论自我批评与负面情绪"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "回避接触赞美与认可",
+            "社交压力与自我监控增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "获奖后无法从成就中获得喜悦与意义",
+            "对积极经验的价值产生怀疑与否定"
+          ],
+          "outcomes": [
+            "难以享受成就与正向体验",
+            "动力与成就感受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在赞美出现时立刻自我审查并寻找负面含义，否定积极信息",
+            "在群体中高度在意他人可能的目光与评判，言行谨慎克制"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "被问及获奖经验时快速淡化、转移话题",
+            "对自身优点与努力的讨论保持距离，避免直接接纳"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将内心的不信任体验为“他人在说客套或认为我虚荣”",
+            "把自我怀疑归因为他人不真诚的评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当收到他人赞美或认可时，来访者通常会不信任、否定积极反馈，并产生自我贬低与情绪低落。",
+          "unique_outcome": "当赞美来自父母时，偶尔能够更容易接纳，对自我价值的怀疑暂时减弱，情绪相对稳定。",
+          "reason": "线索：长期建立的信任关系与被看见的体验；父母一贯真诚、支持，使赞美更具可信度。"
+        },
+        {
+          "target_problem": "在社交场合被关注或被提及获奖经历时，来访者通常会感到被评判并回避谈论积极面。",
+          "unique_outcome": "来自亲密朋友的肯定有时能被部分接纳，来访者能短暂认可自己的努力与才艺。",
+          "reason": "线索：亲密关系中的安全感与一致的诚实反馈，降低了被评判的威胁感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "父母支持且相对真诚的反馈关系",
+          "自我觉察能力较好，能清晰描述负性自动思维并愿意求助",
+          "具备努力与才艺（为比赛进行系统准备与训练）",
+          "愿意尝试日记与积极自我对话等策略，治疗动机较高"
+        ],
+        "negative_force": [
+          "对外部评价高度敏感，倾向寻求外部验证并不信任积极反馈",
+          "否定积极（Disqualifying the Positive）与心理过滤（Mental Filtering）等认知偏差显著",
+          "读心与预测负面评价的倾向，导致社交情境中的防御与回避",
+          "核心羞耻感与“被贴上虚荣标签”的恐惧，持续侵蚀自尊"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到赞美或认可时立即否定积极反馈并产生自我贬低与情绪低落",
+          "antecedent": [
+            "被他人称赞外貌",
+            "在群体场合被关注或被提及获奖经历",
+            "被认可个人成就或努力"
+          ],
+          "core_reason": "对被贴上“虚荣”标签的恐惧与羞耻，过度依赖外部评价并将其灾难化解读（将赞美视作不真诚或预示负面评判）",
+          "function": "逃避被评判与羞耻的威胁，维持“谦逊/不虚荣”的道德自我形象以获得主观安全感",
+          "consequence": "自尊下降、人际关系受损、难以享受成就与正向体验，社交压力与消极情绪加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 10
+}

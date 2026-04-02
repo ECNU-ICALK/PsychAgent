@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "陈思远",
+      "gender": "男",
+      "occupation": "办公室职员",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "独自居住，养一只名为Speckles的猫",
+      "social_status": "与朋友关系受影响，因避免外出减少社交",
+      "medical_history": "无显著躯体疾病；无既往类似心理问题或治疗史",
+      "language_features": "表达清晰，能具体描述问题与触发情境；合作度较好；情绪基调焦虑与消极；承认存在回避查看账单的行为"
+    },
+    "main_problem": "担心自己因喜欢购物而过度消费，导致无法偿还信用卡账单，并因此持续产生财务相关的焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "因为财务方面的焦虑影响日常生活并造成显著压力而寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法有效管理财务",
+        "一旦失去控制就会发生严重后果"
+      ],
+      "special_situations": [
+        {
+          "event": "在经历紧迫的工作截止日期或下班后感到强烈压力时",
+          "conditional_assumptions": "如果不通过购物来缓解压力，我就撑不住；购物是我减压的唯一有效方式",
+          "compensatory_strategies": "在压力后进行购物以寻求情绪缓解",
+          "automatic_thoughts": "我现在必须买点东西让自己好受，否则会崩溃",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当想到或准备查看银行/信用卡对账单时",
+          "conditional_assumptions": "如果看到真实数字，就证明我彻底失控，之后会陷入更严重的债务",
+          "compensatory_strategies": "回避查看账单与账户余额",
+          "automatic_thoughts": "我可能还不起账单，这会一发不可收拾",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在制定预算后出现一次超支或面对想买非必需品的冲动时",
+          "conditional_assumptions": "要么完全控制支出，要么就是失败者",
+          "compensatory_strategies": "制定过于严格的预算，失败后自责并进一步以购物缓解情绪",
+          "automatic_thoughts": "只要这次没控制住，就说明我完全不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当朋友邀请外出或计划社交活动时",
+          "conditional_assumptions": "只要外出就一定会花很多钱，财务状况会更糟",
+          "compensatory_strategies": "拒绝邀约、减少与朋友见面以避免花钱",
+          "automatic_thoughts": "出去一次就会让账单更糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "在压力中被理解与支持，并能安全地表达脆弱与需求；希望重新获得对财务与生活的掌控感",
+        "fear": "害怕暴露财务困境后被评判或羞辱；害怕失控及债务恶化带来严重后果",
+        "defense_goal": [
+          "通过回避（不看账单、不谈论财务）来降低焦虑",
+          "与朋友保持距离以避免被评价",
+          "用购物暂时控制情绪以维持表面稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧而不被理解的、可能失控的人",
+          "object_representation": "他人（朋友）是潜在的评判者或不理解者",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心花钱而减少社交，避免与朋友外出",
+            "感到孤独时以购物缓解情绪",
+            "对向朋友吐露财务困境感到尴尬和犹豫"
+          ],
+          "outcomes": [
+            "情绪支持减少，孤独感加重",
+            "焦虑持续存在并加剧",
+            "睡眠与饮食被打乱，工作受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转向自己。",
+          "manifestations": [
+            "在会谈中表示尚未向最好的朋友谈及财务困扰，选择独自承受",
+            "把向外求助的冲动转为自我克制（不外出、不社交）"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在对话中认为“朋友不理解我”，因而回避与朋友接触和谈论问题"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中表达尴尬与自责，担心谈及财务问题会被看低",
+            "对自身消费的审视带有苛责与谨慎，犹豫采取行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有一位可倾诉的挚友，具备潜在社会支持",
+          "能够觉察触发因素（工作压力、孤独）与回避行为（不看账单）",
+          "曾尝试预算与削减开支，具有一定改变动机",
+          "愿意寻求专业帮助",
+          "宠物提供一定的情感慰藉"
+        ],
+        "negative_force": [
+          "将购物作为主要情绪调节方式（压力与孤独后的情绪性消费）",
+          "回避查看银行/信用卡账单，短期减轻但长期加重焦虑与失控感",
+          "灾难化、非黑即白、过度概括等认知偏差加剧财务焦虑",
+          "工作截止期压力大且缺乏财务知识",
+          "因担心花钱而社交退缩，情感支持减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "情绪性购物/超支",
+          "antecedent": [
+            "下班后或面临紧迫的工作截止日期感到强烈压力",
+            "感到孤独时"
+          ],
+          "core_reason": "将购物作为缓解压力与孤独的主要方式，伴随对失控与债务的灾难化认知",
+          "function": "获得即时情绪缓解与自我安抚",
+          "consequence": "信用卡余额上升、财务压力增加；焦虑持续；与朋友关系受影响；睡眠与饮食被扰；工作表现轻度下降"
+        },
+        {
+          "behavior": "回避查看银行/信用卡对账单",
+          "antecedent": [
+            "想到或准备查看账单时产生强烈焦虑",
+            "注意到信用卡余额增加"
+          ],
+          "core_reason": "害怕面对“失控/严重后果”的结果，认为查看账单会带来难以承受的焦虑",
+          "function": "逃避不适与焦虑，暂时维护心理舒适",
+          "consequence": "无法准确掌握财务状况、缺乏计划性，决策失控，长期焦虑加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2013
+}

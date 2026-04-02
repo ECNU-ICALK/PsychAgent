@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "林凯",
+      "gender": "男性",
+      "occupation": "杂货店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无父母或兄弟姐妹",
+      "social_status": "有少数可交谈的熟人，但因自我不足感难以维持亲密关系，也难以向他们敞开心扉谈自我怀疑",
+      "medical_history": "无重大躯体疾病史；既往无类似心理问题与治疗/咨询经历",
+      "language_features": "态度中性，表达清晰，愿意配合探索并能进行自我反思"
+    },
+    "main_problem": "我觉得自己因为在杂货店工作，这辈子都不会成功，导致自我怀疑和自我价值低下；随着时间推移，尤其在看到他人职业成就时，这些感受更频繁更强烈。",
+    "topic": "职业发展",
+    "core_demands": "希望解决令人衰弱的自我怀疑，并探索提升自我价值的方法。",
+    "growth_experiences": [
+      "几年前多次求职失败后进入杂货店工作，起初将其视为暂时选择，但持续的拒信逐渐使其相信“这可能是我唯一能做的”。",
+      "在听到或看到朋友升职、入职新岗位时反复进行比较，强化了对未来与能力的悲观预期。",
+      "每次被拒都会将其解释为“我不够好/不够聪明”，这类解释逐步巩固了消极自我信念。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定不会成功",
+        "我不够好/不够聪明",
+        "我的价值取决于是否拥有体面的工作"
+      ],
+      "special_situations": [
+        {
+          "event": "看到朋友在社交媒体上发布升职或入职的消息",
+          "conditional_assumptions": "如果别人更成功而我没有体面工作，就说明我是失败者",
+          "compensatory_strategies": "通过与他人比较、降低对自己的期待来避免再次失望",
+          "automatic_thoughts": "我不如他们，我就是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到求职被拒的通知",
+          "conditional_assumptions": "如果我被拒绝，就证明我没有能力、未来也不会成功",
+          "compensatory_strategies": "减少继续申请或拖延求职，以避免再度受挫",
+          "automatic_thoughts": "这再次证明我不够好，我这辈子都走不出去",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在杂货店工作时想到自己的职位不“体面”",
+          "conditional_assumptions": "工作头衔决定个人价值；没有体面工作就等于失败",
+          "compensatory_strategies": "用自我贬低和“不要抱期待”的想法来保护自己免受失望",
+          "automatic_thoughts": "像我这样的人永远不会成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "上周看到朋友在科技公司新任职的社交媒体动态",
+          "conditional_assumptions": "如果我现在还在这份工作，就意味着我永远也出不去",
+          "compensatory_strategies": "提前预设最坏结果以降低落差，不再抱希望",
+          "automatic_thoughts": "我永远摆脱不了这份死胡同的工作",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与成功，证明自身有价值与能力",
+        "fear": "害怕再次被拒绝并被视为无能，从而失去价值感与连接",
+        "defense_goal": [
+          "通过降低期待与自我贬低来避免失望",
+          "与他人保持一定距离以避免暴露不足与受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "低价值、容易失败的“无能者”",
+          "object_representation": "评判性的、总是更优秀的“成功者/他人”",
+          "linking_affect": "羞耻、沮丧、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其探讨负性信念的功能或好处、并考虑放下这些想法时",
+          "interpretation": "担心一旦怀抱希望就会再次被拒绝，因此倾向为维持低期待寻找理由",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平淡，强调维持低期待的“保护作用”，使用“如果不抱期待，就不会太失望”之类表述。"
+        },
+        {
+          "trigger_condition": "在回顾多次求职被拒或与朋友成功进行比较时",
+          "interpretation": "将痛苦情绪与经历分离，更多以事实罗列的方式谈论，以避免直面羞耻与悲伤",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以客观、简短的描述陈述经历，避免使用情绪词汇与细节，快速转向对策或结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“体面工作=成功”视作唯一或主要的意义来源",
+            "在杂货店工作时感觉“这是死胡同”",
+            "对未来和能力日益悲观"
+          ],
+          "outcomes": [
+            "自我价值感低",
+            "动力下降与自我照料受影响",
+            "抑郁样情绪与无助感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且无父母或兄弟姐妹",
+            "因自我不足感难以维持亲密关系",
+            "难以向熟人袒露自我怀疑"
+          ],
+          "outcomes": [
+            "社会支持薄弱",
+            "孤立感增加",
+            "在困境中更难求助"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“有体面的工作才算成功”内化为绝对标准",
+            "以职位头衔决定自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁用“我不够好/不够聪明”评价自己",
+            "谈到行动计划时以“听起来有点吓人”表现谨慎与自我设限",
+            "难以向熟人敞开心扉谈自我怀疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到别人职业进展或遭遇求职拒信时，来访者通常会陷入“我永远不会成功”的想法，情绪低落并减少求职行动。",
+          "unique_outcome": "过去曾在求职过程中获得过几次面试机会，能够按时投递简历并完成面试准备，体验到并非完全没有可能性。",
+          "reason": "线索：持续投递简历的做法与基本的申请准备；了解到有人从基层岗位起步后取得进展，提供了不同的参照。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "仍在持续投递简历，曾获得面试机会",
+          "具备反思能力，能识别负性想法的“保护功能”",
+          "愿意尝试目标设定与技能学习（如每周投递、在线课程）",
+          "能够提出更平衡的替代性陈述，主观控制感有所提升"
+        ],
+        "negative_force": [
+          "过度与他人比较，依赖外部评价定义自我价值",
+          "非黑即白、过度概括与预测未来等认知偏差强化失败感",
+          "自我标签化与自我怀疑，导致动机下降与自我照料受损",
+          "求职受挫后减少行动以避免失望（行为回避）",
+          "社交支持薄弱，难以向他人求助"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复出现的“我永远不会成功”等消极自动思维与自我贬低",
+          "antecedent": [
+            "看到朋友升职/入职的消息",
+            "收到求职被拒的通知",
+            "在工作中想到职位不“体面”"
+          ],
+          "core_reason": "将工作体面程度等同于个人价值，长期与他人比较并将拒信解释为自身无能",
+          "function": "逃避失望与羞耻感，通过自我设限获得短期心理保护",
+          "consequence": "情绪低落与自我价值感下降，工作表现与日常自我照料受影响"
+        },
+        {
+          "behavior": "减少求职与技能提升的行动（回避/拖延）",
+          "antecedent": [
+            "连续的求职被拒",
+            "预期自己不会成功的想法出现"
+          ],
+          "core_reason": "灾难化与过度概括导致的无助感，担心再次失败与被否定",
+          "function": "逃避可能的失败与负面评价，短期降低焦虑",
+          "consequence": "机会减少，停留在当前岗位，进一步强化“无法成功”的信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1553
+}

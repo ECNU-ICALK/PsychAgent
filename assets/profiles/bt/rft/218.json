@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "王杰",
+      "gender": "男",
+      "occupation": "麦当劳员工",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与一只鬣蜥宠物同住",
+      "social_status": "有一起打游戏的朋友，但未与他们讨论这些情绪反应",
+      "medical_history": "无重大躯体疾病；过去未有类似问题；未接受过心理治疗或心理咨询",
+      "language_features": "表达直接清晰，能具体描述情绪与自动化思维；能与咨询师合作并进行自我观察；在游戏情境中常使用“非黑即白”的表述与灾难化语言；语速与逻辑未提及；态度中性"
+    },
+    "main_problem": "我正在寻求咨询，以应对在视频游戏失败时出现的强烈情绪反应。问题始于昨晚在我最喜欢的游戏中连续输了三局，这让我把游戏光盘取出并摔碎，显示出强烈的负性情绪反应。我认为失败带来的压力触发了这种反应。这种行为最近在升级，我在面对游戏挑战时倾向于全或无的思维模式。",
+    "topic": "情绪管理",
+    "core_demands": "“只要能让我在每次输掉游戏时不再出现这样的感受，我愿意尝试。”；并意识到“这种行为可能有问题，需要处理潜在的问题”。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在这款游戏上一直都很糟糕",
+        "失败说明我不该继续尝试"
+      ],
+      "special_situations": [
+        {
+          "event": "昨晚在最喜欢的游戏中连续输了三局",
+          "conditional_assumptions": "如果连续输掉比赛，就证明我很差，继续玩没有意义",
+          "compensatory_strategies": "立刻终止游戏、把光盘摔碎以避免再次失败与情绪失控",
+          "automatic_thoughts": "我一直都会很糟糕，根本不可能再赢，玩下去也没有意义",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在联机与朋友一起玩时输掉比赛",
+          "conditional_assumptions": "如果没赢，就说明我不行；我也要为团队失败负责",
+          "compensatory_strategies": "对朋友发脾气或疏远他们，减少一起游戏以避免被评价",
+          "automatic_thoughts": "他们会觉得都是我的错，我很差劲",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "赛后回顾游戏表现时只关注失败和失误",
+          "conditional_assumptions": "只有赢才算好表现，其他都不值得一提",
+          "compensatory_strategies": "否定或忽视过去的良好发挥与游戏带来的乐趣",
+          "automatic_thoughts": "之前的好发挥都不算数，我就是很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "输掉比赛后情绪高涨、准备休息却难以入睡",
+          "conditional_assumptions": "失败意味着严重的后果，会让整晚和明天都变糟",
+          "compensatory_strategies": "沉浸在负面情绪与失败画面中，难以自我安抚",
+          "automatic_thoughts": "这简直像世界末日，一切都很糟",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过胜利获得认可与自我价值感（把游戏表现视为身份的一部分）",
+        "fear": "害怕失败导致羞耻与自我价值崩塌（感觉像“世界末日”）",
+        "defense_goal": [
+          "用全或无的方式保持控制与自我保护，通过停止游戏、破坏光盘来避免继续体验失败与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在失败时把自己视为“糟糕的玩家/失败者”",
+          "object_representation": "将队友/朋友体验为可能评判自己的他人（对方会归咎或看低自己）",
+          "linking_affect": "羞耻、挫败、愤怒"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "输掉时出现“有什么意义”式的念头（不再尝试、摔碎光盘）",
+            "将游戏表现与身份绑定，输赢被放大为存在价值的证明"
+          ],
+          "outcomes": [
+            "冲动破坏物品",
+            "睡眠受扰",
+            "与朋友/队友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在游戏失败后强烈自责与自我贬低（“我一直都会很糟糕”）",
+            "以全盘否定的方式评价自我价值（非黑即白）",
+            "将“输掉一次”扩大为“没有意义，不该再尝试”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在输掉视频游戏时，来访者通常会情绪失控、全盘否定自我并采取冲动行为（如摔碎光盘），且随后出现睡眠受扰与对朋友发脾气。",
+          "unique_outcome": "在工作中如果犯错，来访者会及时修正并继续工作，没有像在游戏中那样强烈失控或自我否定。",
+          "reason": "情境不同：工作中的错误被视为不那么“个人化”；做法不同：聚焦问题解决而非输赢评价；因此这次情绪更可控、结果更好。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在工作情境能采用问题解决策略并维持情绪稳定",
+          "有一定的自我观察能力，能识别并描述负性自动化思维",
+          "愿意尝试新方法并配合咨询（愿意记录与练习）",
+          "拥有一定的社会支持（一起游戏的朋友）"
+        ],
+        "negative_force": [
+          "非黑即白思维与灾难化/预测未来倾向",
+          "否定积极经验（忽略曾经的良好发挥与游戏乐趣）",
+          "个人化与将失败内化为自我价值低下",
+          "将游戏表现与自我身份强绑定，导致输赢被过度放大",
+          "缺乏有效情绪调节与应对策略，失败后强烈失控并影响睡眠与人际"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在输掉游戏后出现强烈情绪失控与冲动破坏物品（如摔碎光盘）",
+          "antecedent": [
+            "连续输掉比赛",
+            "在最喜欢的游戏中失败",
+            "赛后仍沉浸在失败情绪中"
+          ],
+          "core_reason": "将输赢与自我价值强绑定，出现非黑即白与灾难化/预测未来的认知（“永远不会赢”），由此引发羞耻与挫败感，缺乏有效的情绪调节策略",
+          "function": "逃避不愉快情绪并寻求短暂的控制感/释放挫败感",
+          "consequence": "失去游戏设备与乐趣、情绪进一步恶化、睡眠受扰"
+        },
+        {
+          "behavior": "在游戏失败后对朋友/队友发脾气或强烈挫败，影响人际关系",
+          "antecedent": [
+            "联机对战中输掉比赛",
+            "队友出现失误或比赛不顺利"
+          ],
+          "core_reason": "个人化与读心式解释（把失败归因于自己、假定他人负面评价），以输赢评价自我价值",
+          "function": "通过外向发泄与归咎他人来减轻自责与羞耻感",
+          "consequence": "与朋友关系紧张、减少社交支持、进一步加剧负性情绪体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 218
+}

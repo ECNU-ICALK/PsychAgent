@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "张婉宁",
+      "gender": "女",
+      "occupation": "家庭主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "丈夫为美国陆军士兵，夫妻正期待第一个孩子",
+      "social_status": "与家人和朋友关系支持性，但未分享此具体担忧",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；过去无类似问题经历",
+      "language_features": "表达清晰、配合度高、语气谨慎；能具体描述触发情境；存在明显焦虑与不确定感，倾向于读心与过度思考"
+    },
+    "main_problem": "担心丈夫不喜欢我为第一个孩子选的名字“Beauty”，这一想法令我感到痛苦与焦虑。",
+    "topic": "婚姻关系",
+    "core_demands": "围绕丈夫对宝宝名字的反应所引发的不确定与焦虑让我不堪重负，寻求咨询以获得支持与指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [],
+      "special_situations": [
+        {
+          "event": "告知丈夫将给第一个孩子取名“Beauty”后，丈夫没有任何评论或反应。",
+          "conditional_assumptions": "如果他不回应，就代表他不喜欢这个名字、不认同我的选择。",
+          "compensatory_strategies": "反复与丈夫讨论并揣测他的真实想法，减少与他人分享此担忧以回避被评价。",
+          "automatic_thoughts": "他一定不喜欢这个名字。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "丈夫开始询问其他备选名字。",
+          "conditional_assumptions": "如果他提出其他名字，说明他否定我的选择。",
+          "compensatory_strategies": "密切监控他的言辞与表情、陷入过度思考以求确定性。",
+          "automatic_thoughts": "他讨厌这个名字，才会找其他名字。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "独处或谈及任何与婴儿相关的话题时。",
+          "conditional_assumptions": "如果我无法确定他的态度，就可能意味着我们的关系出现问题。",
+          "compensatory_strategies": "通过做家务和看电视分散注意力，尝试压抑焦虑与不适。",
+          "automatic_thoughts": "这可能预示我们的关系会变糟。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望伴侣的认同与被重视，期待在重要决定（如孩子命名）上被理解与支持",
+        "fear": "害怕被拒绝、被否定，以及因此关系变差",
+        "defense_goal": [
+          "通过寻求明确答案与过度思考来缓解不确定性",
+          "避免向他人分享以减少被轻视的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被重视、容易被否定的妻子",
+          "object_representation": "沉默、可能会拒绝自己的丈夫",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当丈夫对名字保持沉默或谈到其他名字，或在咨询中探索其担忧时",
+          "interpretation": "将沉默解读为拒绝，认为“不回应=不喜欢/否定我”",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "以温和但回避核心感受的方式，将话题转向家务或其他琐事，减少直面不确定性的语句。"
+        },
+        {
+          "trigger_condition": "当被建议向家人或朋友分享担忧、寻求支持时",
+          "interpretation": "认为他人不会当回事、会轻视自己，从而不愿接触支持资源",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "强调“他们不会理解/会觉得我很傻”，用犹疑语气拒绝分享，保持距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得此担忧过于私人而不愿与支持系统分享",
+            "担心他人不当回事或轻视自己",
+            "独处时反复思考丈夫的沉默与态度"
+          ],
+          "outcomes": [
+            "焦虑加重与持续",
+            "睡眠受影响",
+            "夫妻关系出现紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑：担心别人不把自己的担忧当回事",
+            "说话谨慎，迟疑是否分享",
+            "过度限制自我表达以避免被评价"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "用做家务、看电视来分散注意力，避开直接接触不确定感",
+            "在讨论名字时绕开核心感受与需求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在讨论或想到宝宝名字时，来访者通常会因丈夫的沉默而过度揣测并产生显著焦虑，进而影响睡眠与使关系紧张。",
+          "unique_outcome": "有一次，丈夫以正面方式提到“Beauty”，来访者感到稍微安心，焦虑有所减轻。",
+          "reason": "线索：来自丈夫的正面反馈提供了具体证据，减少了不确定性；情境不同：对名字出现正向提及而非沉默。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与家人朋友关系支持性",
+          "愿意与丈夫沟通并记录触发情境（同意写观察日记）",
+          "愿意参与咨询与行为实验以检验假设",
+          "能通过家务与电视等方式短时调节情绪"
+        ],
+        "negative_force": [
+          "读心术与跳结论的认知偏差",
+          "对不确定性的耐受度低",
+          "过度思考维持焦虑",
+          "担心被评价而回避社会支持",
+          "将伴侣沉默灾难化地联想到关系变糟"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对丈夫沉默进行过度揣测并出现显著焦虑",
+          "antecedent": [
+            "分享或讨论宝宝名字",
+            "丈夫就其他名字提出问题",
+            "独处时想到与婴儿相关的话题"
+          ],
+          "core_reason": "认知偏差（读心术、跳结论）将丈夫的沉默与提问解读为否定；对不确定性的低耐受。",
+          "function": "试图获得确定性与控制感，避免直接面对不确定的情绪。",
+          "consequence": "持续的焦虑与压力、睡眠受影响、夫妻关系紧张"
+        },
+        {
+          "behavior": "回避向家人朋友分享担忧、寻求支持",
+          "antecedent": [
+            "感到此担忧“太私人”，担心被轻视或不被认真对待",
+            "在被建议与他人谈论时"
+          ],
+          "core_reason": "过度在意他人看法与外部验证，担心被否定。",
+          "function": "逃避可能的负面评价或尴尬，维持表面安全感。",
+          "consequence": "支持资源未被利用、孤立感增强、焦虑维持或加重"
+        },
+        {
+          "behavior": "通过家务或看电视进行分散注意的回避行为",
+          "antecedent": [
+            "在谈及或想到婴儿名字时出现焦虑与反复思考"
+          ],
+          "core_reason": "为降低不适而选择回避核心问题与情绪。",
+          "function": "逃避不受欢迎的情绪体验（不确定、焦虑）。",
+          "consequence": "短期减轻不适但不解决核心问题，维持认知偏差与紧张关系"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 50
+}

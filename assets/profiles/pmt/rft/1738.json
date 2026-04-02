@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "林可欣",
+      "gender": "女性",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，与一只宠物猫生活",
+      "social_status": "偏好独处，因财务压力与朋友来往减少；有一位朋友可谈心，但未分享财务忧虑",
+      "medical_history": "无重大躯体疾病；过往未接受心理治疗；无类似财务问题史",
+      "language_features": "表达清晰、配合度较高，语气中性，能具体描述问题与触发情境"
+    },
+    "main_problem": "我觉得我会在余生都很贫穷，因为我在咖啡馆做服务员收入不高。",
+    "topic": "职业发展",
+    "core_demands": "希望找到一份薪资更高的工作，改善财务稳定性，并减轻对未来财务的持续担忧。",
+    "growth_experiences": [
+      "高中毕业后直接进入餐饮服务行业，在咖啡馆做服务员；财务不安全感在入职初期看到前几次工资单时出现并持续加重；一直在相同岗位工作而未见经济改善；每次领薪或想到未来财务稳定性时焦虑加剧；因财务压力减少与朋友的社交，睡眠受影响；独居，与宠物猫生活；既往无心理治疗史、无重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会一直贫穷",
+        "我没有能力改善我的经济和职业状况"
+      ],
+      "special_situations": [
+        {
+          "event": "每次领取工资或查看工资单",
+          "conditional_assumptions": "如果当前收入偏低，就意味着我未来也会贫困、无法改善",
+          "compensatory_strategies": "回避与朋友谈论财务问题，仅在熟悉的餐饮岗位中继续求职",
+          "automatic_thoughts": "这点钱永远不够，我会一直穷。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "思考自己的未来财务稳定性或职业发展",
+          "conditional_assumptions": "如果目前没有进展，未来也不会有任何改变",
+          "compensatory_strategies": "不设定具体目标，陷入担忧与失眠，减少社交",
+          "automatic_thoughts": "我永远无法摆脱贫困。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "寻找更高薪工作未果（求职失败）",
+          "conditional_assumptions": "如果没有更多资历，就不可能找到更好的工作；失败说明我不够好",
+          "compensatory_strategies": "继续在熟悉的咖啡馆/餐馆岗位中求职",
+          "automatic_thoughts": "我不够资格，我不行。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "评估当前工作与生活状况时将注意力集中在收入不足的负面面向",
+          "conditional_assumptions": "只有收入决定我的价值与未来",
+          "compensatory_strategies": "忽视或贬低现有资源（如有朋友支持、对动物的兴趣）与潜在选择",
+          "automatic_thoughts": "我的生活只有低薪这一点，其他都不重要。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得稳定、安全与被支持的生活（经济安全）",
+        "fear": "害怕长期贫困与失败、被困住无法改变",
+        "defense_goal": [
+          "通过保持低风险的选择与现实解释来降低失望与焦虑",
+          "减少情感暴露与对外求助，以降低内在紧张和不确定感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "我是不够资格、难以进步的人",
+          "object_representation": "他人/环境是难以提供帮助或机会的、限制性的",
+          "linking_affect": "无助、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请设定目标或探索新职业方向时",
+          "interpretation": "倾向认为“即使设定目标也没有意义，我无法改变”，以降低面对不确定性的焦虑",
+          "defense_mechanism": "sring",
+          "defense_definition": "合理化：为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但保留的语气表达怀疑，例如“设定目标可能不会有差别”，避免深入情感层面，仅陈述现实困难。"
+        },
+        {
+          "trigger_condition": "当被问及是否向朋友分享财务忧虑并寻求支持时",
+          "interpretation": "认为“现在不该麻烦别人，我应自己扛”，以避免外界参与带来的不确定与尴尬",
+          "defense_mechanism": "sring",
+          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观事实与现实障碍为主进行说明，弱化或回避表达脆弱情绪与求助需求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被低收入与有限资质束缚，职业选择局限在熟悉的餐饮行业",
+            "描述“被困住”，难以迈向更好的工作与生活"
+          ],
+          "outcomes": [
+            "持续焦虑与担忧",
+            "睡眠受损",
+            "工作表现下降",
+            "社交退缩"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且偏好独处",
+            "有朋友可谈心但未分享财务忧虑，保持距离"
+          ],
+          "outcomes": [
+            "社会支持不足",
+            "压力感加重与长期担忧",
+            "无助感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对他人或环境发出的行为冲动，转而对自己做，或把需要外界做的转由自己承担。",
+          "manifestations": [
+            "未向朋友分享财务困扰，把求助的冲动转回自身独自承受",
+            "在高压力下选择独处而非寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我限制，过度自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "认为自己“资历不够”，限制跨领域求职尝试",
+            "对设定目标持怀疑态度，倾向先否定自身可能性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备行动意愿（主动寻找工作）",
+          "对动物的稳定兴趣，愿意探索动物相关职业方向",
+          "有一位可谈心的朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来等负性认知模式强",
+          "社交退缩与不分享困境，外部支持不足",
+          "资历有限与求职范围狭窄",
+          "财务焦虑导致睡眠紊乱与工作表现下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对财务状况的持续灾难化担忧与负性自动思维",
+          "antecedent": [
+            "领取薪资或查看工资单",
+            "思考未来财务稳定性",
+            "求职失败或想到自身资历不足"
+          ],
+          "core_reason": "对收入不足的灾难化解释与对未来的负性预测（“我会一直贫穷”）",
+          "function": "逃避不确定性并为低风险选择提供合理化，短期降低焦虑",
+          "consequence": "焦虑加剧、睡眠受影响、工作表现下降，进一步限制职业探索"
+        },
+        {
+          "behavior": "社交回避/偏好独处",
+          "antecedent": [
+            "感到财务压力或想到金钱问题时",
+            "面对与朋友交流的机会时"
+          ],
+          "core_reason": "不愿谈及财务困境、倾向独自承受压力",
+          "function": "短期降低情绪暴露与谈论金钱带来的不适",
+          "consequence": "社会支持减少、孤独感与无助感加重、压力维持或恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1738
+}

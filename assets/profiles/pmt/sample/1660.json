@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "高睿",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "从小为孤儿，无现有家庭成员",
+      "social_status": "社交支持薄弱，但有一位亲密朋友可在需要时提供支持；在社交场合常感到格格不入",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗或心理咨询",
+      "language_features": "表达清晰、逻辑连贯，能具体描述情绪与困扰；配合度高；情绪呈焦虑与希望并存"
+    },
+    "main_problem": "由于孤儿成长经历，我觉得自己大概率永远无法拥有自己的家庭，这使我长期感到孤独与绝望，并影响我与他人建立深层关系。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为孤独感正在影响我的日常生活和心理健康。我希望如果能改变想法并相信自己可以建立连接，就能减少孤立感，开始更享受社交活动，甚至提升工作动力。",
+    "growth_experiences": [
+      "自幼作为孤儿成长，缺乏家庭支持与关爱。孤独与绝望的感受从童年时期开始出现，并在重要人生事件或里程碑（如职场聚会、与他人谈论家庭）中加剧。长期的无家庭经验让他在社交场合常感到自己是外人、难以形成深层连接，这一经历持续影响其成年后的亲密关系建立与自我认同。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会一直孤独，无法拥有自己的家庭",
+        "我不具备建立有意义关系的能力"
+      ],
+      "special_situations": [
+        {
+          "event": "工作中的社交活动里，大家讨论各自的家庭",
+          "conditional_assumptions": "如果我没有家庭，就说明我不属于这里、也无法被真正接纳",
+          "compensatory_strategies": "用幽默、努力工作来争取他人注意与认可，缓解被排除感",
+          "automatic_thoughts": "我不属于任何地方，我可能一直都会一个人",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在社交聚会或公共场合看到他人的亲密关系与家庭互动",
+          "conditional_assumptions": "如果他人如此亲密而我没有，就意味着我永远也无法拥有家庭",
+          "compensatory_strategies": "减少自我暴露，话题回避，转向表面性的互动以降低不适",
+          "automatic_thoughts": "我将来一定不会拥有家庭",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "重要人生事件或里程碑（如节日、聚会、谈及过往成长）强调家庭主题",
+          "conditional_assumptions": "因为我从小是孤儿，所以无论在何种阶段我都会孤独",
+          "compensatory_strategies": "通过加倍投入工作来转移注意力，证明自己有价值",
+          "automatic_thoughts": "我一直都是孤独的，以后也会是这样",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "社交场合被问及婚姻或家庭状况",
+          "conditional_assumptions": "有家庭才算成功与被接纳，没有家庭就等于失败",
+          "compensatory_strategies": "以自嘲式幽默化解尴尬，避免深入谈论亲密关系需求",
+          "automatic_thoughts": "没有家庭就是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被稳定地爱与接纳，建立属于自己的亲密关系与家庭",
+        "fear": "害怕被排斥与再次被遗弃，担心亲密关系暴露自己的不足而遭到拒绝",
+        "defense_goal": [
+          "通过保持一定情感距离与表面化互动来降低被拒绝的风险",
+          "用幽默和努力工作争取外界认可，以弥补内在的匮乏与不安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被遗弃的外人、难以被真正接纳的孤独者",
+          "object_representation": "他人/群体是拥有亲密纽带的圈内人，可能排斥或不接纳我",
+          "linking_affect": "孤独、绝望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合出现家庭话题或看到他人的亲密互动时",
+          "interpretation": "他人拥有亲密家庭等于我被排除在外，我不被接纳",
+          "defense_mechanism": "幽默",
+          "defense_definition": "用诙谐的方式面对困境或化解尴尬，而不带伤害性。",
+          "response_instruction": "以轻松、玩笑式语气自嘲或转移话题，避免深入表达脆弱与需求，保持表面友好互动。"
+        },
+        {
+          "trigger_condition": "感到孤独与低自我价值时（如节日或里程碑事件后）",
+          "interpretation": "若不证明自己有价值，就会被忽视与排斥",
+          "defense_mechanism": "升华",
+          "defense_definition": "将社会不接受的原始冲动转化为社会可接受的、建设性的行为方式。",
+          "response_instruction": "将情绪能量投入到工作与任务完成中，以成就与认可来缓冲孤独与不安。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "孤儿成长，长期缺乏家庭支持与爱",
+            "在社交聚会与家庭主题活动中强烈感到自己是外人",
+            "难以建立深层连接，常感到隔离"
+          ],
+          "outcomes": [
+            "持续的孤独与绝望感",
+            "社交退缩与关系回避",
+            "工作动力下降与自我照料受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在谈及家庭或亲密关系话题时以玩笑或轻描淡写方式转移",
+            "避免直接表达脆弱与被需要的感受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我否定，认为自己不具备建立有意义连接的能力",
+            "过度在意他人评价，在关系中小心翼翼、缩减自我表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一位亲密朋友可在困难时提供支持，显示具备建立连接的能力",
+          "愿意主动求助并开始心理咨询，态度积极",
+          "能觉察并清晰表达负性信念与触发情境",
+          "具备利用幽默与工作投入的应对资源，具有行动力"
+        ],
+        "negative_force": [
+          "孤儿经历与长期缺乏家庭支持导致根深蒂固的孤独与绝望",
+          "社交支持系统薄弱，常感到被排除在外",
+          "灾难化、预测未来、过度概括与非黑即白等认知扭曲维持问题",
+          "自我否定，认为自己不具备建立深层关系的能力",
+          "在家庭主题场景中强烈触发孤独与回避，导致社交退缩"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与家庭相关的社交情境中出现显著的孤独与绝望感，并伴随关系回避与自我否定",
+          "antecedent": [
+            "社交聚会或活动强调家庭话题",
+            "看到他人的亲密互动",
+            "节日或重要人生里程碑事件"
+          ],
+          "core_reason": "孤儿成长经历与缺乏家庭支持形成“我注定孤独、无法建立关系”的负性核心信念，并以灾难化、预测未来、过度概括与非黑即白思维维持",
+          "function": "逃避被拒绝与再次被遗弃的风险，保护自尊与减少不适",
+          "consequence": "社交退缩、形成外人感；难以建立深层连接；孤独加剧"
+        },
+        {
+          "behavior": "动力不足与自我照护下降（如日常作息与自我管理受影响）",
+          "antecedent": [
+            "长期孤独与绝望情绪在社交后加剧",
+            "工作场合触发孤独感后持续影响日常"
+          ],
+          "core_reason": "对自我与关系的负性信念引发持续的无助与绝望，降低动机与执行力",
+          "function": "短期内降低情绪负荷与失败感",
+          "consequence": "工作表现受影响，生活质量下降，进一步强化孤立与负性情绪"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1660
+}

@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "林佳怡",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "独自生活，祖父母已去世",
+      "social_status": "缺乏可倾诉的社会支持（无人可舒适地讨论感受）；人际关系未披露",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，合作度高，能进行自我反思；自我评价严苛、负性情绪强度高（8–9/10）；态度积极、愿意尝试新策略"
+    },
+    "main_problem": "每当错过最喜欢的动漫的一集时，就觉得自己是“史上最差的粉丝”，陷入强烈的自我批评与负面情绪；近几周愈发强烈并影响观看节目的享受。",
+    "topic": "情绪管理",
+    "core_demands": "意识到自我批评正在影响我对所爱事物的享受，希望获得咨询支持以改变这些自动化负性想法。",
+    "growth_experiences": [
+      "祖父母已去世，现独自生活；缺乏可以讨论感受的支持系统。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是史上最差的粉丝"
+      ],
+      "special_situations": [
+        {
+          "event": "错过最喜欢的动漫的一集",
+          "conditional_assumptions": "如果我错过一集，我就不是一个真正的粉丝",
+          "compensatory_strategies": "通过严苛的自我批评来约束自己不再错过",
+          "automatic_thoughts": "我是史上最差的粉丝",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与其他粉丝比较，看到他们从不漏看并总是了解最新进展",
+          "conditional_assumptions": "只有做到与他人同样完美甚至更好，才算合格的粉丝",
+          "compensatory_strategies": "不断拿自己与他人比较来监控并评价自我价值",
+          "automatic_thoughts": "我不如他们/我不是一个真正的粉丝",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "错过一集后对自己下“应该/必须”的标准",
+          "conditional_assumptions": "我必须时刻紧跟进度、绝不能漏看，否则就不合格",
+          "compensatory_strategies": "使用“应该/必须”的自我要求来强迫自己维持标准",
+          "automatic_thoughts": "我应该更会跟进这些节目",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "注意到自己漏看的情节时，只关注负面并忽视可补看与仍然热爱的事实",
+          "conditional_assumptions": "一旦出现瑕疵，所有积极面都不算数",
+          "compensatory_strategies": "否定积极证据、维持负面自我标签来驱动自我改进",
+          "automatic_thoughts": "我不配享受这部作品",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为“真正/合格的粉丝”，获得认可与自我价值感",
+        "fear": "害怕被定义为不够好或“不是真正的粉丝”，因此被贬低或排斥",
+        "defense_goal": [
+          "通过严苛自我要求与自责来维持控制感与“合格标准”，以避免被视为不合格"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够格、容易失败的自己（一旦漏看就不合格）",
+          "object_representation": "完美且不容差错的他人/粉丝群体（总能紧跟进度）",
+          "linking_affect": "羞愧、自责、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独自生活、祖父母去世；无合适对象可谈论感受与困扰"
+          ],
+          "outcomes": [
+            "自我批评加重与负性情绪增强；享受事物的能力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对自己比对朋友更苛刻的标准",
+            "频繁自责（“我是最差的粉丝”）",
+            "把自我价值与是否漏看一集紧密绑定"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“应该/必须”的自我要求（“我应该更会跟进我的节目”）",
+            "将“漏看一集=不是真正粉丝”的规则直接当作绝对标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极、愿意尝试新策略并寻求专业支持",
+          "具备自我反思能力，可进行证据检视与重构（可辨识朋友也会漏看）",
+          "对所爱事物有热情，愿意改善体验"
+        ],
+        "negative_force": [
+          "非黑即白思维与过度概括",
+          "与他人比较导致自我贬低",
+          "大量“应该/必须”自我要求（内摄）",
+          "社会支持薄弱，缺乏可倾诉对象"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在错过一集时出现强烈的自我批评与负性情绪",
+          "antecedent": [
+            "错过最喜欢的动漫的一集",
+            "与其他粉丝的完美追更进行比较"
+          ],
+          "core_reason": "内化的严苛粉丝标准与非黑即白/过度概括的认知模式，将一次漏看等同于完全失败",
+          "function": "通过自责来维持与强化“合格粉丝”的内摄标准，试图逼迫自己不再漏看",
+          "consequence": "观看体验受损、情绪显著下降并持续自我批评，进一步削弱对节目的享受"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 539
+}

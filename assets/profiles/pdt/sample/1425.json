@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "60",
+      "name": "刘静",
+      "gender": "女",
+      "occupation": "卡车司机",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚，育有三名子女",
+      "family_status": "与配偶和子女同住",
+      "social_status": "有配偶与朋友的支持，但在提供辛辣食物的社交场合更为拘谨",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题与心理治疗史",
+      "language_features": "表达清晰、思路连贯，能如实描述困扰；自我觉察较好，配合度高，略感紧张与羞涩；整体态度积极"
+    },
+    "main_problem": "我在处理辛辣食物（尤其是辣鸡翅）的能力上感到自卑与自我批评，这些感受始于几个月前朋友对我吃辣耐受的评论，已发展到在他人面前回避吃辣食物。",
+    "topic": "情绪管理",
+    "core_demands": "我决定来做咨询，因为这个问题已经开始影响我在生活其他方面的自信，我想在它进一步升级前解决它。",
+    "growth_experiences": [
+      "原生家庭与成长环境高度推崇“坚强、强硬”的价值取向，将承受力与个人价值挂钩，这使其更易以“是否足够坚强”作为自我评价标准。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我很软弱/不够坚强",
+        "我的价值取决于是否能承受他人认为“应该能承受”的事（如最辣的食物）"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友几个月前对其吃辣耐受度做出评论",
+          "conditional_assumptions": "如果我不能像别人一样吃很辣，就说明我不够坚强，会被看不起",
+          "compensatory_strategies": "在心里给自己定更高标准、用“应该”要求自己；在他人面前避免暴露吃辣的“短板”",
+          "automatic_thoughts": "他们会觉得我很软弱，我不够硬气",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在有辣鸡翅或辣食的社交聚会上",
+          "conditional_assumptions": "当众吃不了辣就会丢脸、被评判",
+          "compensatory_strategies": "回避在他人面前吃辣，减少在这类场合的表现",
+          "automatic_thoughts": "我应该像大家一样能吃辣，否则就很丢脸",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "当别人谈起吃辣或自己想到要吃辣时",
+          "conditional_assumptions": "如果达不到“能吃辣”的标准就等于失败",
+          "compensatory_strategies": "以自我批评和给自己施压来驱动改变",
+          "automatic_thoughts": "为什么我做不到像别人那样？我在失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "尝试逐步增加辣度、却感到不适或被压倒时",
+          "conditional_assumptions": "如果不能很快适应更辣就证明我天生就是软弱的",
+          "compensatory_strategies": "中止尝试、放弃以避免再度失败",
+          "automatic_thoughts": "这再次证明我就是个孬种/软弱的人",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人认可为“坚强的人”、被接纳与尊重",
+        "fear": "害怕被视为软弱而遭到嘲笑、贬低与拒绝",
+        "defense_goal": [
+          "通过自我批评与回避在众人面前吃辣来避免暴露“软弱”",
+          "以高标准的“应该”自我要求维持控制感与体面"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被看轻、需要证明自己坚强的自己",
+          "object_representation": "苛刻评判、以强硬为标准的他人/群体",
+          "linking_affect": "羞耻、焦虑、紧张"
+        },
+        {
+          "self_representation": "必须达标、不能示弱的子女/个体",
+          "object_representation": "强调强硬与承受力的照料者/权威",
+          "linking_affect": "压力、内疚、恐惧被否定"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将“要够坚强、能吃最辣”内摄为必须遵循的规则（使用大量‘应该’自我要求）",
+            "把吃辣耐受与自我价值强行绑定，限制真实偏好与选择",
+            "为避免被评判而在社交中回避当众吃辣"
+          ],
+          "outcomes": [
+            "自我批评与羞耻感增强",
+            "社交回避与拘谨",
+            "自信心在其他领域受到波及"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在提供辛辣食物的社交场合变得更为保留与退缩",
+            "担心他人评价而减少在场合中的直接参与"
+          ],
+          "outcomes": [
+            "互动减少与疏离感增加",
+            "体验到被隔离的羞耻与不安"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该能吃最辣”“我必须像别人一样”的自我要求",
+            "以他人推崇的‘坚强/能扛’标准评判自我"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在想到吃辣或话题被提起时立即进行苛刻的自我评价",
+            "为了避免被看作软弱而过度克制与退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有稳定的家庭与朋友支持系统（配偶与朋友总体支持）",
+          "求助动机明确且态度积极，愿意尝试结构化的行为实验",
+          "工作功能良好、角色胜任感稳定（工作未受影响）",
+          "能识别并描述消极自动思维，具备一定自我觉察能力"
+        ],
+        "negative_force": [
+          "将‘坚强=价值’的规则内摄，把吃辣能力等同于自我价值",
+          "强烈的自我批评与标签化（“我是个孬种/软弱”）",
+          "大量‘应该’式的僵化标准导致压力与羞耻",
+          "社交场合中的回避行为维持了对被评判的恐惧",
+          "与他人比较并担心负面评价，降低自信心"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在他人面前回避食用辛辣食物",
+          "antecedent": [
+            "有辣鸡翅或辛辣食物的社交聚会",
+            "当话题被提起或被他人评论吃辣耐受时"
+          ],
+          "core_reason": "将能否吃辣与‘是否坚强’等同化，害怕被视为软弱而遭到评判与羞辱",
+          "function": "逃避不受欢迎的结果（被评价、丢脸、羞耻）以减轻当下焦虑",
+          "consequence": "社交场合退缩、互动减少；饮食选择受限，进一步强化对评价的恐惧"
+        },
+        {
+          "behavior": "自我贬损与自我批评（如“我应该能做到”“我是个孬种”）",
+          "antecedent": [
+            "想到要吃辣或被他人谈及吃辣话题",
+            "逐步尝试更辣食物时感到不适或挫败"
+          ],
+          "core_reason": "内化的‘必须坚强’价值条件和标签化思维，将局部失败推广为整体‘软弱’",
+          "function": "通过自我惩罚与高标准自控来维持秩序与面子（试图避免外界评价）",
+          "consequence": "羞耻与自卑加重，自信下降，增加放弃与回避，维持恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1425
+}

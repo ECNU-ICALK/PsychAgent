@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "67",
+      "name": "陈凯文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身（两年前离婚）",
+      "family_status": "居住在农村，育有多个孩子并养一条狗；父母仍在婚姻中；与父母保持联系",
+      "social_status": "与父母有支持性联系，但在讨论关系话题时感到不适；人际方面因自我不足感而难以建立新关系",
+      "medical_history": "无重大躯体疾病史；既往未接受心理治疗；两年前离婚的压力触发了对关系的不足感",
+      "language_features": "态度中性、表达清晰，能自我反思与配合；语速平稳；但常以负性标签与假设性思维描述自己与他人"
+    },
+    "main_problem": "我在亲密关系中感到不足，尤其与父母看似坚固的婚姻相比。这些感受始于我两年前的离婚，并因父母持续的婚姻幸福而加剧。我在与父母讨论关系或看到幸福伴侣时经常出现这些感受。",
+    "topic": "人际关系",
+    "core_demands": "意识到这些感受正在影响我的自我价值和人际关系，因此此时寻求咨询；并希望能更开放地与父母谈论自己的感受。",
+    "growth_experiences": [
+      "两年前经历离婚，情绪动荡且压力很高，此后开始出现对亲密关系的不足感；随着时间推移问题加重。",
+      "父母婚姻持续稳定、互动良好；在观察父母的相处时，自己的关系失败感被凸显，自我否定加剧。",
+      "居住在农村，育有多个孩子并养狗；通常可依赖父母的支持，但在涉及关系话题时，对向父母表达感受感到不安全与不适。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我在亲密关系中注定失败",
+        "只有拥有像父母那样的稳定婚姻，我才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "与父母在一起或看到幸福伴侣时",
+          "conditional_assumptions": "如果我没有像父母那样的稳定婚姻，就说明我不够好、是失败者",
+          "compensatory_strategies": "避免与父母讨论关系；通过阅读自助书籍和正向肯定来试图提升自尊",
+          "automatic_thoughts": "我不如他们，我在关系里就是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与父母讨论亲密关系话题",
+          "conditional_assumptions": "如果我离婚了，父母一定会看轻我、认为我在关系中无能",
+          "compensatory_strategies": "回避与父母进行开放沟通，以保护自我形象并减少被评判的风险",
+          "automatic_thoughts": "他们会觉得我很糟糕/没用",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到未来的亲密关系或尝试建立新关系",
+          "conditional_assumptions": "如果我曾失败一次，这意味着我以后也会失败",
+          "compensatory_strategies": "减少主动尝试建立新关系，退缩并自我否定",
+          "automatic_thoughts": "我永远不会在关系中成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "父母给予支持、未对我的关系情况作负面评价",
+          "conditional_assumptions": "只有完美且持久的婚姻才能证明我的价值，其他积极信息都不算数",
+          "compensatory_strategies": "忽视来自父母的支持和中性反馈，持续以消极标签定义自己",
+          "automatic_thoughts": "这些安慰没用，我本质上就是失败者",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被父母与重要他人接纳与肯定，证明自己在亲密关系中是有价值的",
+        "fear": "害怕被评判为失败、被看轻或被拒绝",
+        "defense_goal": [
+          "通过回避亲密话题和自我否定来降低被评价的风险，维持脆弱的自尊边界"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被离婚定义的“失败者”，不够好的子女/伴侣",
+          "object_representation": "理想化且可能评判我的父母/他人（在内心中被看作审判者）",
+          "linking_affect": "羞耻、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问或建议与父母开放谈论关系时，或谈及父母可能的看法",
+          "interpretation": "将自身的自我否定与失败感投射到父母身上，认为他们会把自己视为失败者（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "使用假设与推测性的语句（如“他们会觉得我很糟”），语气谨慎，避免直接求证或情绪外露，并轻微回避具体事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "离婚后在看到幸福伴侣或与父母相处时感到与他人不同与失败被凸显",
+            "难以建立新关系，谈及关系话题时对父母感到不适"
+          ],
+          "outcomes": [
+            "自我价值受损与自卑",
+            "回避亲密话题与互动",
+            "情绪负担影响日常专注"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将离婚视为“失败者”标签并否定积极支持",
+            "觉得自己“永远不会在关系中成功”"
+          ],
+          "outcomes": [
+            "动力下降与前景悲观",
+            "降低建立新关系的意愿与行动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为父母会看轻自己，尽管父母从未给出负面反馈且实际较为支持",
+            "用他人的假定看法来解释自己的不足感"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以“失败者”自我标签过度苛责自己",
+            "过度担心父母的看法而不敢开放沟通，在关系话题中显得谨慎、犹疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "父母整体支持性较强，具备可依赖的社会支持",
+          "愿意尝试开放沟通并进行现实检验（在咨询中表达愿意）",
+          "有自我反思能力，能识别负性思维模式",
+          "尝试通过自助书与正向肯定提升自尊，具备改变动机"
+        ],
+        "negative_force": [
+          "过度比较与标签化，将自我价值与婚姻成败高度绑定",
+          "读心术与预测未来，常假设他人负面看法并预言持续失败",
+          "回避与父母直接沟通，寻求外部验证但忽视实际支持",
+          "情绪负担影响日常专注与建立新关系的行动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与父母或看到幸福伴侣时出现强烈自我否定并回避沟通",
+          "antecedent": [
+            "与父母相处",
+            "讨论亲密关系话题",
+            "看到幸福伴侣"
+          ],
+          "core_reason": "两年前离婚后将自我价值与婚姻成败绑定，并在比较父母稳定婚姻时产生消极认知（过度概括、比较、读心术与预测未来）",
+          "function": "短期回避被评判与情绪不适，保护脆弱的自尊",
+          "consequence": "难以建立新关系，持续自卑与焦虑，日常任务专注度下降"
+        },
+        {
+          "behavior": "对未来关系的消极预期与行为退缩",
+          "antecedent": [
+            "想到未来的亲密关系",
+            "考虑建立新关系的情境"
+          ],
+          "core_reason": "一次失败经验被过度概括为永久失败，并以负性预言看待未来关系",
+          "function": "逃避潜在失败与羞耻，降低当下焦虑",
+          "consequence": "减少尝试与行动，社会联结与亲密满足受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 238
+}

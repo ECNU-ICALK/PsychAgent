@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "61岁",
+      "name": "王萍",
+      "gender": "女",
+      "occupation": "少儿图书管理员",
+      "educational_background": "图书馆学硕士",
+      "marital_status": "未婚",
+      "family_status": "无子女，未提及其他家庭成员",
+      "social_status": "与同事关系总体良好；有一位亲密朋友，但尚未与其讨论自我怀疑；在社交场合因自我怀疑而信心受影响",
+      "medical_history": "无显著躯体疾病；无以往心理咨询或治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰、配合度高，态度中性；能识别并描述自动化思维与情绪；在受到赞美时倾向自我否定"
+    },
+    "main_problem": "我觉得父母对我与孩子互动的夸奖没有价值，因为任何人都能做到。这种思维方式导致了自我不足感和自我怀疑。",
+    "topic": "职业发展",
+    "core_demands": "我寻求咨询是因为这些自我怀疑开始影响我在工作中的自信和整体幸福感；我希望改变自己对自我的感受。",
+    "growth_experiences": [
+      "大约两年前开始担任少儿图书管理员后出现自我怀疑与不足感；当时压力中等，担心无法达到他人期待；随后问题发展为持续否定正面反馈、只关注自身不足；这些想法多在与孩子及其父母互动的工作场景出现；曾尝试自我挑战但未能改变。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的付出不特别，任何人都能做到"
+      ],
+      "special_situations": [
+        {
+          "event": "在帮助孩子完成阅读作业后，家长当面表示感谢/称赞",
+          "conditional_assumptions": "如果别人夸奖我，通常只是出于礼貌，并不因为我真的做得好",
+          "compensatory_strategies": "立即否定赞美、降低自我评价，并在当天减少与他人互动",
+          "automatic_thoughts": "他们只是客气，并不是我做得好；我并不特别",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在与儿童及家长的日常互动与工作评估情境中",
+          "conditional_assumptions": "只有持续证明自己、达到甚至超越期待，才算合格；否则就是不够好",
+          "compensatory_strategies": "不断自我加压与自我证明，事后反复挑错",
+          "automatic_thoughts": "无论我做什么都不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "频繁收到家长的正面反馈或感谢",
+          "conditional_assumptions": "如果我的工作是别人都能轻易做到的，那这些夸奖就没有意义",
+          "compensatory_strategies": "贬低自己的贡献、拒绝将积极反馈内化为自我评价",
+          "automatic_thoughts": "任何人都能做到，我并没有真正的价值",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到向亲密朋友表达自己的自我怀疑与脆弱",
+          "conditional_assumptions": "如果谈及这些感受，会被认为软弱或不称职",
+          "compensatory_strategies": "避免与朋友谈论此类话题，保持沉默",
+          "automatic_thoughts": "我会显得软弱、不配和别人谈这件事",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实认可、看见并肯定自己的专业价值",
+        "fear": "害怕被视为软弱或不称职、担心他人的夸奖不真诚而最终被否定",
+        "defense_goal": [
+          "通过否定积极反馈来降低期待与被否定的风险",
+          "保持不表达脆弱以避免被看轻",
+          "持续自我证明以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要不断证明自己的专业人员",
+          "object_representation": "表面礼貌、内心挑剔且不真诚的评判者（如家长）",
+          "linking_affect": "焦虑、羞愧、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当家长对她的工作表达感谢或夸奖时",
+          "interpretation": "潜意识将夸奖理解为出于礼貌而非真实认可，担心自己“骗”了对方",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "用平和但坚决的语气淡化赞美，强调“只是礼貌”，快速转移话题，避免停留在自我价值的讨论上"
+        },
+        {
+          "trigger_condition": "当想到向亲密朋友谈及自我怀疑与脆弱时",
+          "interpretation": "认为表达脆弱会被看作软弱、不配，被他人看轻",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "选择不披露相关感受，转而谈论中性话题，语气克制，简短回答涉及自我评价的问题"
+        },
+        {
+          "trigger_condition": "在工作中面对高频与儿童及家长互动、需要被评估表现时",
+          "interpretation": "将他人期待视为高度威胁，认为稍有不足就会被否定",
+          "defense_mechanism": "反向形成",
+          "defense_definition": "表现出与真实（且不被接受的）感受完全相反的态度和行为",
+          "response_instruction": "表现出过度勤勉与完美标准，强调必须更努力，用“我还需要再提高”等语句掩盖不安全感"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "质疑家长的夸奖是否有价值，认为“任何人都能做到”，怀疑自己是否真正产生影响",
+            "在工作中难以将正面反馈整合进自我形象"
+          ],
+          "outcomes": [
+            "自我怀疑与不足感加剧",
+            "工作自信心下降",
+            "动力与兴趣降低，影响自我照顾"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有亲密朋友但因尴尬与害怕显得软弱而未分享自我怀疑",
+            "在受到赞美后倾向减少与他人互动"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "主观孤立与羞耻感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作场景中过度批评自我、强调“无论我做什么都不够好”",
+            "收到赞美后迅速寻找不足，只关注负面"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "担心无法达到他人期待，将“必须证明自己”作为自我要求",
+            "用他人潜在标准衡量自我价值"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将家长的夸奖解释为“只是礼貌”，假定对方不真诚",
+            "担心被看作软弱，预设他人会看轻自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家长频繁给予正面反馈，表明其与儿童互动具备真实效果",
+          "与同事关系良好，具备一定社会支持基础",
+          "愿意寻求专业帮助并愿意尝试改变",
+          "具备较高教育背景与专业能力（图书馆学硕士）"
+        ],
+        "negative_force": [
+          "否定正面思考与心理过滤的认知模式根深蒂固",
+          "过度在意他人期待，依赖外部评价，自我价值难以内化",
+          "害怕被视为软弱而回避寻求支持",
+          "持续自我加压与自我批评，影响自我照顾与工作自信"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到赞美或正面反馈时自动否定并产生焦虑与自我怀疑，随后减少与他人互动",
+          "antecedent": [
+            "与儿童及家长互动并收到夸奖/感谢",
+            "在工作情境中被提及其表现或贡献"
+          ],
+          "core_reason": "源于长期自我怀疑与“我不够好”的核心信念，以及将夸奖解释为礼貌的自动化思维",
+          "function": "逃避潜在被否定或暴露不足的风险，维持对自我评价的控制感",
+          "consequence": "工作自信心下降、绩效受影响、当日社交互动减少，整体幸福感与自我照顾受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1205
+}

@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "赵磊",
+      "gender": "男",
+      "occupation": "酒店夜班（通宵）值班员工",
+      "educational_background": "正在为大学存钱（尚未入读）",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有支持性的家人与少数朋友，但他们并不真正理解其作息与由此带来的社交孤立",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度高、能具体描述诱发情境与自动化想法；语气偏中性但情绪低落；思维中常出现灾难化、心理过滤、预测未来与非黑即白模式"
+    },
+    "main_problem": "由于长期上通宵夜班而几乎没有社交生活，认为自己会一直孤独并痛苦，整体幸福感与心理健康受到显著影响。",
+    "topic": "人际关系",
+    "core_demands": "寻求咨询是因为孤独与隔离感显著影响整体幸福感与心理健康，希望缓解这些感受、挑战消极信念并形成更现实的看法。",
+    "growth_experiences": [
+      "约一年前开始从事酒店通宵夜班工作，最初压力中等，但随着时间推移，因作息与他人严重不匹配，社交孤立逐渐加重；周末看到他人社交（线下活动与社交媒体）时感受更为强烈；曾尝试加入在线群组与参加社交活动，但因作息不稳定与疲惫难以持续建立联系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会孤独终老并一直痛苦",
+        "没有规律的社交生活就意味着不幸福"
+      ],
+      "special_situations": [
+        {
+          "event": "周末看到他人线下社交与热闹场面",
+          "conditional_assumptions": "如果我无法像大多数人那样在周末参与社交，就注定会失去关系并最终孤独",
+          "compensatory_strategies": "尝试参加社交活动或加入在线群组，但因作息与精力受限而难以维持一致性",
+          "automatic_thoughts": "我会一直一个人，未来不会改变",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "浏览朋友的社交媒体动态，看到他人活跃的社交生活",
+          "conditional_assumptions": "别人都有社交而我没有，说明我的生活在社交方面是失败的",
+          "compensatory_strategies": "减少线下接触、转向线上尝试连接，但很快因疲惫与不匹配而放弃",
+          "automatic_thoughts": "我不如他们，永远也融不进去",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "通宵夜班导致作息与多数人严重不匹配",
+          "conditional_assumptions": "只有“正常”作息的人才能拥有稳定社交与亲密关系；否则就不可能建立连接",
+          "compensatory_strategies": "在白天勉强安排活动或试图调整，但常因疲惫而减少参与",
+          "automatic_thoughts": "我的作息注定让我失去社交与关系",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "持续疲惫与动力下降（夜班后白天时间段）",
+          "conditional_assumptions": "当我感觉很糟就说明现实很糟，社交也不会有好转",
+          "compensatory_strategies": "减少外出与社交尝试，用被动等待恢复精力来缓冲不适",
+          "automatic_thoughts": "我现在这么疲惫，事情就只能越来越差",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与拥有稳定、亲密的社交联系",
+        "fear": "害怕长期孤独、被忽视与无法建立关系",
+        "defense_goal": [
+          "降低期望以避免失望",
+          "以“作息不可改变”为理由维持心理上的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被孤立、难以被理解的局外人",
+          "object_representation": "他人/世界是难以接近、不理解其作息与处境的群体",
+          "linking_affect": "孤独、无望、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问“有什么证据支持你会一直孤独”或被邀请寻找相反证据时",
+          "interpretation": "倾向将当前作息视为决定性障碍，认为改变几乎不可能（将现实褪色为单一结论）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平淡但坚定的语气重复作息不匹配的理由，使用绝对化表述（如“没有办法改变”、“一定会这样”），弱化替代可能性，少量情绪表达但强调现实限制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "通宵夜班导致与多数人作息不匹配、难以维持关系",
+            "周末看到他人社交与社交媒体动态时孤独感显著加重",
+            "主观预期未来会一直孤独并痛苦"
+          ],
+          "outcomes": [
+            "强烈孤独感与无望感",
+            "动力下降与疲惫加剧",
+            "情绪低落影响工作之外的生活"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在周末或看到社交媒体上他人社交时，来访者通常会陷入“我会孤独终老”的预言式思维，并减少主动联系与参与社交的尝试。",
+          "unique_outcome": "在刚加入某些在线群组的阶段，来访者主动发帖并与他人互动，认识到几位新朋友，情绪一度更为乐观，体验到“正在改变处境、重新掌控”的感觉。",
+          "reason": "线索：采取了不同做法（主动加入并发帖互动）、获得即时回应与连接；来访者感到自己在主动改变处境并拥有掌控感，因此这次出现了更乐观、更投入的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在加入在线群组时能主动行动并体验到掌控感",
+          "有一定的社交资源（支持性的家人与少数朋友）",
+          "工作表现稳定，生活基本功能未受影响"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、心理过滤与预测未来等认知模式加重无望感",
+          "夜班作息与多数人不匹配导致疲惫与一致性困难",
+          "孤独感强化后引发动力下降，进一步减少社交尝试"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在周末与浏览社交媒体时出现“我会孤独终老”的灾难化与预言式自动化思维，伴随情绪低落与社交回避",
+          "antecedent": [
+            "周末看到他人线下社交场景",
+            "浏览朋友的社交媒体动态",
+            "长期通宵夜班后的疲惫与白天低能量状态"
+          ],
+          "core_reason": "将夜班作息视为决定性阻碍，形成非黑即白与预测未来的信念，使主观情绪被当作客观现实并强化无望感",
+          "function": "短期内逃避失望与社交不适，降低期望以自我保护",
+          "consequence": "情绪低落与动力下降，进一步减少社交尝试与维持关系的行为，维持孤立状态"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 313
+}

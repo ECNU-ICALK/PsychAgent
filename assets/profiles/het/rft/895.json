@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "何琳",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未有类似心理问题；无接受过心理治疗史",
+      "language_features": "表达清晰、逻辑性较好，配合度较高；基调偏消极、自我苛求；对干预持怀疑但愿意尝试"
+    },
+    "main_problem": "在无法通关具有挑战性的游戏时，会对自己的游戏能力产生负面想法，感到无能与自我批评，进而影响心情与对游戏的享受。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询减少与游戏表现相关的负面想法，缓解情绪低落与自我批评，恢复对游戏的兴趣与享受。",
+    "growth_experiences": [
+      "几个月前在一款喜爱的游戏中遇到特别困难的关卡后，开始频繁出现“自己是糟糕玩家”的负面想法；此后每当遇到游戏中较难的部分时，均会触发类似自我否定。随着在网络上看到其他玩家的成功表现并进行比较，问题进一步加重；曾尝试通过休息、观看教程、寻求在线技巧来应对，但负面想法仍反复出现，使游戏体验从放松、愉悦转为紧张、沮丧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的玩家",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在游戏中无法通关困难关卡或面对高难度片段",
+          "conditional_assumptions": "如果我不能轻松通过高难度关卡，就说明我能力不足，是差劲的玩家",
+          "compensatory_strategies": "反复练习、暂时休息、观看教程和寻找网络技巧，但常因“应该自己搞定”的观念而避免更详细的教程或他人帮助",
+          "automatic_thoughts": "我就是不行/我是个差劲的玩家",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在网上看到其他玩家通关或高水平表现并进行比较",
+          "conditional_assumptions": "如果我比不过他们或进度更慢，就证明我不够好、不配称为玩家",
+          "compensatory_strategies": "频繁关注他人战绩和成果、减少与朋友讨论自己的自我怀疑以避免尴尬",
+          "automatic_thoughts": "他们都比我强，我永远追不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次准备尝试或正在挑战游戏中的困难部分",
+          "conditional_assumptions": "如果现在都做不到，将来也不可能做好；失败意味着我没救了",
+          "compensatory_strategies": "短暂退开休息、重复使用熟悉策略而不愿尝试新方法",
+          "automatic_thoughts": "这次都不行，之后也没希望了",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、值得尊重的玩家并从中获得愉悦",
+        "fear": "害怕被否定、被比较中显得不如人、体验羞耻与失败",
+        "defense_goal": [
+          "通过自我批评与高标准来控制失望与羞耻感",
+          "避免向他人暴露脆弱以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者、随时会被揭穿的“差劲玩家”",
+          "object_representation": "更强大、带有评判性的他人玩家/观众",
+          "linking_affect": "羞耻、沮丧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到向线上朋友求助或观看更详细的教程时",
+          "interpretation": "如果求助就等于承认自己不行，会被看作不够好",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用带有“应该/必须”的自我要求语句（如“我应该自己搞定”），语气坚硬、回避直接求助，转而强调自力更生。"
+        },
+        {
+          "trigger_condition": "当咨询师提出行为实验或改进建议时",
+          "interpretation": "即使努力也可能失败，这些尝试未必有用",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以冷静但怀疑的语气罗列潜在失败的理由（如“万一我还是失败呢”），降低情绪投入，但表面上仍同意尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本用于放松与享受的游戏因反复自我否定而变得紧张、痛苦",
+            "在困难关卡前后体验到强烈挫败，乐趣显著下降"
+          ],
+          "outcomes": [
+            "情绪低落与自我批评增加",
+            "对游戏的兴趣与享受减退"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有线上游戏朋友可交流，但因尴尬而避免谈及自我怀疑",
+            "在比较中感到与他人疏离"
+          ],
+          "outcomes": [
+            "社会支持未有效利用，困扰持续",
+            "羞耻感与自我否定加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”自我要求（如“我应该自己搞定”）",
+            "把“独立通关才算好玩家”视为绝对规则，抗拒向他人求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中对行为实验持明显怀疑并自我苛责",
+            "与他人比较后强化自我否定，减少表达脆弱与寻求帮助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备练习与学习的意愿，愿意尝试不同策略（如观看教程、寻找技巧）",
+          "拥有一定的线上朋友资源可提供潜在支持",
+          "能觉察到负面思维并愿意求助寻求改变"
+        ],
+        "negative_force": [
+          "自我苛求、以高标准定义价值（“应该轻松通关”）",
+          "与他人比较后的自我标签化与绝望感",
+          "预测失败、过度概括的不良思维模式",
+          "因羞耻而回避求助，社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在游戏受挫时出现自我贬损与灾难化思维（如“我是个糟糕的玩家”）",
+          "antecedent": [
+            "面对困难关卡或高难度片段",
+            "观看他人高水平通关与成绩并进行比较"
+          ],
+          "core_reason": "将一次失败等同整体能力不足，内化“应该轻松通关”的僵化规则；对他人评价与比较高度敏感",
+          "function": "避免体验失败与羞耻感，通过先行否定降低投入与期望；为持续受挫找到解释以寻求短期心理缓解",
+          "consequence": "情绪低落与挫败感增强，游戏乐趣下降，练习效率与学习新策略意愿降低"
+        },
+        {
+          "behavior": "回避向他人求助或深入学习（避免观看更详细的教程、避免与朋友讨论自我怀疑）",
+          "antecedent": [
+            "想到寻求帮助或使用更系统教程时",
+            "在社交中担心被看作水平不够"
+          ],
+          "core_reason": "内摄“应该靠自己”的规则，担心暴露脆弱会被评价为不够好",
+          "function": "维护自我形象、减少被评判风险，短期降低羞耻感",
+          "consequence": "资源利用不足、技能提升受限，问题持续并强化自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 895
+}

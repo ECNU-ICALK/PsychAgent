@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "56",
+      "name": "王丽娜",
+      "gender": "女",
+      "occupation": "私人健身教练",
+      "educational_background": "私人教练认证",
+      "marital_status": "未婚",
+      "family_status": "独居，父母居住在外州",
+      "social_status": "与热爱钓鱼的朋友关系趋于紧张，常与他们比较而感到自卑；有少数可谈心的朋友，但不分享钓鱼热情，难以理解其不足感",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；过去未出现类似心理问题",
+      "language_features": "表达清晰、配合度较好；情绪色调偏消极；常使用绝对化用语（如“永远不会”“完全失败”）；倾向与他人比较"
+    },
+    "main_problem": "我持续觉得自己在钓鱼方面永远不会成为一个好手，尤其是在多次出钓无获后，这种感觉更明显。",
+    "topic": "情绪管理",
+    "core_demands": "围绕钓鱼的持续不足感和自我怀疑已开始影响我的整体自信与休闲活动的享受，因此寻求咨询。",
+    "growth_experiences": [
+      "几年前与父亲一起钓鱼的旅行中自己一无所获，由此开始产生强烈的不足感；当时压力为中等，内心感到需要在钓鱼方面像父亲一样表现优秀；此后每次出钓无获都会触发低自尊与挫败感，逐步使休闲体验变成压力来源。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不够好的",
+        "我永远不会成为一名优秀的钓鱼者"
+      ],
+      "special_situations": [
+        {
+          "event": "与父亲一起的钓鱼旅行中自己没有钓到任何鱼",
+          "conditional_assumptions": "如果我不能像父亲一样在钓鱼上表现出色，就说明我是失败的、不够好的",
+          "compensatory_strategies": "通过阅读钓鱼指南、观看教学视频、增加练习来证明自己并提升技术",
+          "automatic_thoughts": "我永远不可能像父亲那样好，我让他失望了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次独自去钓鱼但经常无收获",
+          "conditional_assumptions": "如果这次又没钓到鱼，就证明我一直不行，未来也不会好转",
+          "compensatory_strategies": "加倍查找方法、频繁尝试不同技巧，但持续以钓获作为唯一成功标准",
+          "automatic_thoughts": "我这辈子都不会成为好钓鱼者",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与朋友一起钓鱼或看到朋友有较好渔获",
+          "conditional_assumptions": "如果我不如朋友钓得多或钓得好，就说明我没有价值、很差劲",
+          "compensatory_strategies": "减少与朋友谈论钓鱼、在心里不断比较他人表现以自我评估",
+          "automatic_thoughts": "我不如他们，我很差劲",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "偶尔钓到小鱼时与他人渔获进行对比",
+          "conditional_assumptions": "只有达到高标准或像他人一样显著的成果才算成功，否则不算数",
+          "compensatory_strategies": "否定自己的小进步，将注意力集中在他人更好的表现上",
+          "automatic_thoughts": "这不算成功、这没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在重要他人（尤其父亲）面前被认可、被看见并被肯定",
+        "fear": "害怕失败与被比较后显得不如他人，从而被评判、被贬低",
+        "defense_goal": [
+          "通过自我苛责与不断比较来压制对认可的渴望，以避免再度失望；在钓鱼相关关系中保持疏离以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要证明自己的失败者",
+          "object_representation": "高标准、易比较的评判者（以父亲为代表）",
+          "linking_affect": "羞愧、压力、自卑"
+        },
+        {
+          "self_representation": "在同伴面前总是落后的、逊色的参与者",
+          "object_representation": "更优秀、令自己望尘莫及的竞争者（钓鱼朋友）",
+          "linking_affect": "自卑、挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其承认小的进步或努力、或询问是否有自豪时刻",
+          "interpretation": "来访者潜意识认为“这些并不算数”，积极面会被否定（移情为：自己随时会被评判）",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以温和共情的语气验证其感受，使用具体化提问（例如让其描述一次具体尝试与过程），避免直接反驳，逐步引导其承认微小进步。"
+        },
+        {
+          "trigger_condition": "当咨询师建议将工作中的成功经验迁移至钓鱼领域时",
+          "interpretation": "来访者认为“钓鱼是完全不同的领域”，因此无法改变（将改变的可能性视为无效）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持中性开放的语气，使用开放式问题请其举例两者的异同，鼓励其识别可迁移的微技能，避免评判式语言。"
+        },
+        {
+          "trigger_condition": "当话题涉及与父亲或朋友的比较与失败体验",
+          "interpretation": "将外界的压力与评判转向自身，认为问题都在自己、自己不够好",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以稳定、低强度的共情语气，帮助其区分外部标准与自我价值，使用反映性倾听与温和重构，鼓励识别自我批评的语言并改以中性描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有少数可谈心的朋友，但他们不理解其对钓鱼的热情与不足感",
+            "与喜爱钓鱼的朋友关系紧张，互动变得困难"
+          ],
+          "outcomes": [
+            "感到被孤立与不被理解",
+            "休闲体验质量下降与压力增大",
+            "整体自信心受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "钓鱼曾带来平静与亲近自然的体验，但现在被失败感与自我怀疑所遮蔽"
+          ],
+          "outcomes": [
+            "休闲活动不再放松与滋养，转为压力来源",
+            "难以专注于过程价值，只关注结果（是否有渔获）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将父亲的高标准与优秀表现视为自身必须达成的标准",
+            "以“必须钓到鱼才算成功”为信念评判自己"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "当被邀请关注过程的愉悦（自然、平静）时难以接触，迅速转向结果与失败",
+            "对小的进步与反馈开玩笑或轻描淡写、难以直接承认"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以自我批评的方式评估钓鱼表现",
+            "与朋友在钓鱼话题上过度在意他人标准与比较"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "持续投入学习与尝试（阅读指南、观看视频）",
+          "在工作领域具有成就感与自我效能感",
+          "愿意尝试将注意力转向过程、接受咨询与练习",
+          "曾体验到钓鱼的平静与亲近自然的价值"
+        ],
+        "negative_force": [
+          "过度比较他人表现，外部标准主导自我价值",
+          "非黑即白思维与过度概括（一次失败即认定自己不行）",
+          "预测未来式的绝望（“我这辈子都不会成为好钓鱼者”）",
+          "否定积极结果（小收获被贬低）",
+          "个人化倾向（将无收获归因于自身能力不足）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在钓鱼失败或收获较少时出现强烈的自我否定与焦虑（言语如“我永远不可能成为好钓鱼者”）",
+          "antecedent": [
+            "与父亲或朋友一起钓鱼且自己无收获",
+            "独自出钓频繁无获",
+            "看到他人的较好渔获后进行比较"
+          ],
+          "core_reason": "受父亲高标准与比较压力的影响，将自我价值与钓鱼成果绑定，并在认知歪曲（非黑即白、过度概括、否定积极、预测未来）驱动下维持自我贬低与焦虑",
+          "function": "逃避失败感与被评判的焦虑，通过自我否定来寻求控制感或为结果不佳寻找“理由”；同时试图以更努力学习与尝试来获得外部认可",
+          "consequence": "休闲活动变为压力来源，整体自信下降；与钓鱼朋友的关系紧张，难以享受过程与放松"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1847
+}

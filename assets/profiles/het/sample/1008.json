@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "林蕾",
+      "gender": "女",
+      "occupation": "艺术家",
+      "educational_background": "自学成才的艺术家",
+      "marital_status": "恋爱中",
+      "family_status": "独居，所在城市无直系亲属",
+      "social_status": "有一群欣赏其作品的朋友，但她难以向他们敞开不安与自我怀疑",
+      "medical_history": "无明显躯体疾病；无既往心理咨询与相似问题史",
+      "language_features": "表达清晰，能自我反思，配合度高，语气平和但易聚焦负性解释；能描述思维模式与困扰，语速与逻辑正常"
+    },
+    "main_problem": "我常常觉得人们在负面评价我的作品，尤其是给别人画肖像时更明显。这种感觉从几个月前我在给女友画肖像时她笑了一下开始。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到这些自我怀疑正在妨碍我的艺术表达并带来痛苦，于是来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的作品不够好，别人会觉得很差",
+        "我的价值取决于他人对我作品的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在给女友画她的肖像时，女友笑了",
+          "conditional_assumptions": "如果对方笑或没有严肃的正面反馈，就说明我的作品很差、在嘲笑我",
+          "compensatory_strategies": "回避与女友讨论当时真实意图；减少或暂停画人像以避免再次被“嘲笑”",
+          "automatic_thoughts": "她在取笑我，觉得我画得很糟。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每次开始给熟人或认识的人画肖像",
+          "conditional_assumptions": "如果作品不能立刻得到对方的喜欢或称赞，就等于失败、我就是糟糕的艺术家",
+          "compensatory_strategies": "在创作前后反复寻求他人的肯定与保证；拖延或回避画肖像",
+          "automatic_thoughts": "他们会讨厌我的作品，甚至会笑我。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友们对她的作品表示支持与欣赏",
+          "conditional_assumptions": "正面反馈不可靠或“只是安慰”，不能说明我真的画得好",
+          "compensatory_strategies": "忽略或贬低积极反馈的价值，继续向更多人寻求外部认可",
+          "automatic_thoughts": "他们只是说好听的，这不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到要与女友谈起当时的笑声、澄清其真实含义",
+          "conditional_assumptions": "如果我开口询问，她很可能会证实我最害怕的结论：我的作品很差",
+          "compensatory_strategies": "避免直接沟通与现实检验，以短期避免焦虑与羞耻感",
+          "automatic_thoughts": "一问就会证明我很差，关系也会更尴尬。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被重要他人（尤其是伴侣与观众）真实地认可与欣赏",
+        "fear": "害怕被嘲笑与否定，从而体验羞耻与价值被摧毁，甚至关系受损",
+        "defense_goal": [
+          "通过回避直接验证与寻求外部保证来降低被否定的风险，维持自尊与关系安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能被否定的创作者",
+          "object_representation": "挑剔、嘲笑或否定自己的评判者/观众",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要被看见与安抚却难以信任正面反馈的人",
+          "object_representation": "口头支持但“不可信”的他人（朋友、观众）",
+          "linking_affect": "不确定、怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议她直接与女友沟通、澄清当时的笑声含义时",
+          "interpretation": "如果去问，就会听到否定与嘲笑，从而坐实“我很差”",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以共情、缓慢探询的语气，先肯定其恐惧与羞耻感，再邀请其列出可承受的微小沟通步骤，避免直接对抗。"
+        },
+        {
+          "trigger_condition": "当讨论他人对作品的评价或回忆女友笑的场景时",
+          "interpretation": "他人会像自己所担心的那样嘲笑、贬低（将内在的自我批评归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持温和中立，用澄清式问题区分感受与事实，邀请举证与找反证，鼓励以第一人称表述主观体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，难以向朋友敞开不安与自我怀疑",
+            "与伴侣因作品不安全感而关系紧张，回避直接沟通"
+          ],
+          "outcomes": [
+            "关系疏离感增加",
+            "自我封闭与不被理解的感受加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "因自我怀疑而停止或减少绘画，失去长期以来的表达与价值感来源"
+          ],
+          "outcomes": [
+            "感到更疏离与“有点失去目标感”",
+            "情绪低落与焦虑加重，睡眠被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将内在的自我批评体验归因为“他们会讨厌/嘲笑我的作品”",
+            "在未核实前假定他人的负面意图"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，将对外的能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "想与伴侣澄清却选择不说，将焦虑与羞耻压向自己",
+            "通过自我怀疑与退缩来“保护自己”而非进行外在接触"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "创作前后过度审视与否定自己，不断寻求外部认可",
+            "在关系中因害怕被否定而过度谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持其作品的朋友圈",
+          "对现实检验与小步尝试持开放态度（愿意共同制定具体计划）",
+          "长期的艺术身份与投入为恢复创作提供基础"
+        ],
+        "negative_force": [
+          "灾难化、读心术、否定积极等认知扭曲显著",
+          "过度依赖外部认可，难以内化正向反馈",
+          "回避直接沟通与现实检验以短期减轻焦虑",
+          "焦虑与不安全感导致创作回避与睡眠紊乱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在绘制他人肖像时出现明显的焦虑与不安全感，并倾向于回避或减少作画",
+          "antecedent": [
+            "开始或计划给他人（尤其熟人/伴侣）画肖像",
+            "回想起女友在绘画时的笑声"
+          ],
+          "core_reason": "对被否定的灾难化预期与读心式解释，将自我价值过度绑定于他人评价",
+          "function": "逃避可能的否定与羞耻，短期降低焦虑",
+          "consequence": "创作产出下降，关系紧张，情绪困扰增加并影响睡眠"
+        },
+        {
+          "behavior": "在创作相关情境中反复寻求外部验证与正面反馈",
+          "antecedent": [
+            "在完成作品或准备创作时感到不安与自我怀疑",
+            "接触到他人对作品的反应（真实或想象）"
+          ],
+          "core_reason": "内在自我评价体系薄弱，倾向以他人反应作为自我价值的主要依据",
+          "function": "获得短期安慰与安全感",
+          "consequence": "对外部认可的依赖被强化，负性信念未被修正，焦虑反复出现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1008
+}

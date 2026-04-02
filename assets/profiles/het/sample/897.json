@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "王琳",
+      "gender": "女",
+      "occupation": "办公室助理",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，与一只宠物狗同住",
+      "social_status": "在职场中因担心被评判而与同事连接困难；有一位可以倾诉的亲密朋友",
+      "medical_history": "无显著躯体疾病；无既往类似心理问题或心理治疗史",
+      "language_features": "表达清晰，逻辑较好，能自我反思并识别自动化思维；情绪基调偏焦虑、自我关注度高；配合度良好，语速平稳"
+    },
+    "main_problem": "感到同事因为我经常谈论我的狗而评判我；我相信他们认为我对宠物过度痴迷并对我持负面看法。",
+    "topic": "人际关系",
+    "core_demands": "我只是想不要一直这么焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是令人反感/怪异的人",
+        "我的价值取决于他人对我的看法"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前无意听到同事对“过度谈论宠物的人”的负面评论",
+          "conditional_assumptions": "如果我在工作中谈起我的狗，就会被认为过度痴迷、很奇怪",
+          "compensatory_strategies": "尽量回避谈论宠物，把对话引回到工作话题",
+          "automatic_thoughts": "他们会觉得我很烦、我是个怪人",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "办公室谈话中出现宠物或其他个人话题",
+          "conditional_assumptions": "如果谈及个人兴趣，就会被负面评价，显得不专业",
+          "compensatory_strategies": "迅速转移话题或保持沉默，减少参与",
+          "automatic_thoughts": "他们肯定在心里觉得我烦、觉得我奇怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "注意到同事表情或语气不够热情时",
+          "conditional_assumptions": "如果对方看起来不热情，就说明他们在评判我",
+          "compensatory_strategies": "停止分享个人内容，只谈事实和工作细节",
+          "automatic_thoughts": "他们在暗地里不喜欢我/觉得我很烦",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "准备在工作中分享任何个人内容之前",
+          "conditional_assumptions": "如果暴露真实兴趣，会被贴上“奇怪”的标签并被排斥",
+          "compensatory_strategies": "完全避免自我披露，只围绕工作交流",
+          "automatic_thoughts": "一旦我说起狗，他们就会看轻我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同事接纳，能够自由分享真实兴趣并被看见与尊重",
+        "fear": "害怕被评判、羞辱与排斥",
+        "defense_goal": [
+          "通过保持距离与回避个人话题来降低被评判的风险",
+          "将话题收窄到工作事项以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嫌弃、需要小心隐藏自我的人",
+          "object_representation": "挑剔、带有否定性的同事群体",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当办公室对话转向宠物或其他个人话题时",
+          "interpretation": "将同事体验为会像曾经的负面评论者一样贬低自己（把他人视为批判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "迅速转回工作议题，使用简短、客观的语句；避免自我披露，减少眼神接触。"
+        },
+        {
+          "trigger_condition": "当觉察到对方表情不够热情或沉默时",
+          "interpretation": "将中性的沉默/疲惫理解为对自己的轻视与嫌弃",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件分离，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以理性汇报工作细节，回避感受表达，用平淡语气结束谈话。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被评判而回避个人话题，减少自我披露，连接感下降",
+            "在工作中感觉孤立、与同事难以建立亲近关系",
+            "下班后仍为他人看法所困扰，睡眠受影响"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "工作表现下降",
+            "人际疏离与孤独感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在谈及个人话题前高度自我审查，担心被评判而收缩表达",
+            "频繁揣测他人想法，谨小慎微地控制言行"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "当对话涉及宠物/个人内容时立刻转移至工作话题",
+            "通过最小化参与和快速结束对话来避免深入接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在办公室对话涉及个人/宠物话题时，王琳通常会强烈焦虑、读心式揣测被评判，并通过沉默或转移话题撤退，导致互动变得疏离。",
+          "unique_outcome": "在仅讨论工作相关内容的几次交流中，王琳没有像往常那样回避，能够自然地参与讨论，互动顺畅，主观焦虑明显较低。",
+          "reason": "线索：话题聚焦在工作、评价威胁较低；做法不同：将注意力放在任务与事实上，更易获得掌控感与安全感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有求助意愿并愿意尝试认知重构与现实检验",
+          "能识别自身的自动化思维并进行初步再评价",
+          "存在一位可倾诉的亲密朋友提供基本支持",
+          "在非个人话题的工作交流中能良好互动，具备有效沟通能力"
+        ],
+        "negative_force": [
+          "过度依赖外部评价来确定自我价值（External Validation）",
+          "常以读心术和预测未来来解读他人（Mind Reading、Fortune Telling）",
+          "回避个人话题导致人际连接受损与孤独感加重",
+          "睡眠受扰与反刍担忧维持焦虑",
+          "自我标签化与自我否定倾向"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作场合回避个人话题并最小化参与",
+          "antecedent": [
+            "办公室谈话涉及宠物或其他个人话题",
+            "察觉到同事表情/语气不热情",
+            "回想起同事对“过度谈宠物”的评论"
+          ],
+          "core_reason": "害怕被评判与羞辱，伴随读心术与对负面结果的灾难化预测",
+          "function": "逃避被负面评价与羞耻的可能性，获得暂时的安全感",
+          "consequence": "人际连接受损、孤独感增加、工作表现下降"
+        },
+        {
+          "behavior": "睡前反复担忧同事看法导致的睡眠受扰",
+          "antecedent": [
+            "下班后回想白天的互动",
+            "临睡前思考是否被同事视为“奇怪”"
+          ],
+          "core_reason": "对外部评价的高度依赖与反刍式思维维持焦虑",
+          "function": "试图通过过度担忧来预防潜在社交“错误”，获得表面的控制感",
+          "consequence": "入睡困难、睡眠质量下降、次日焦虑与工作效率下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 897
+}

@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "刘薇",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "祖父曾参加二战；其余未披露",
+      "social_status": "有少数朋友可交流，但对表达自身不自信犹豫；其余未披露",
+      "medical_history": "此前未出现类似心理问题；未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述情绪与想法，愿意开放分享并进行自我反思，配合度较高，态度积极"
+    },
+    "main_problem": "在无法为雪佛兰Tahoe搭电后，我感到自己不称职、不聪明，这一事件触发了自我怀疑与无价值感，并逐渐扩散到其他需要解决问题的任务中。",
+    "topic": "情绪管理",
+    "core_demands": "这起事件让我意识到自尊和自信受到打击，影响日常生活，因此希望在咨询中处理这种无能感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我不够有能力/不聪明"
+      ],
+      "special_situations": [
+        {
+          "event": "雪佛兰Tahoe电瓶没电，现场未能成功完成搭电",
+          "conditional_assumptions": "如果连看似基本的车辆问题都解决不了，就说明我很笨、没有能力",
+          "compensatory_strategies": "给自己贴上“笨”的标签，避免谈论该事件以减少尴尬",
+          "automatic_thoughts": "我就是个笨蛋",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面对需要解决问题的挑战性任务（尤其是技术或维修类）",
+          "conditional_assumptions": "如果我失败或出错，会当众丢脸，证明我不行",
+          "compensatory_strategies": "预先回避或减少尝试，以规避可能的失败和尴尬",
+          "automatic_thoughts": "我肯定会失败并再次丢脸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "需要向他人寻求帮助的情境",
+          "conditional_assumptions": "如果我需要别人帮助，说明我不称职；我应该能够独自完成一切",
+          "compensatory_strategies": "犹豫或延迟求助，强迫自己独立解决问题",
+          "automatic_thoughts": "我不该麻烦别人；求助让我看起来更不称职",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "考虑向朋友倾诉自己的不足或不安",
+          "conditional_assumptions": "如果暴露我的不自信，他们会看不起我",
+          "compensatory_strategies": "减少与朋友谈论无能感以避免被评价",
+          "automatic_thoughts": "他们会觉得我很差劲",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看作有能力、被尊重并保持自我价值",
+        "fear": "害怕被羞辱、被评判为愚蠢与无能，因失败而丢脸",
+        "defense_goal": [
+          "通过强调“必须独自完成”来减少对他人的依赖以避免被评判",
+          "保持对脆弱的隐藏，防止羞耻感被他人看见"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出错、会被看不起的无能者",
+          "object_representation": "带有评判目光、可能贬低自己的他人",
+          "linking_affect": "羞耻、焦虑、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要在咨询或与他人场合承认失败并讨论求助时",
+          "interpretation": "来访者潜意识认为他人（包括咨询师）会把自己看作不够聪明并予以贬低（移情：将自身的自我否定投向他人的目光）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，避免直接暴露脆弱，使用模糊与委婉表达，减少细节披露。"
+        },
+        {
+          "trigger_condition": "当面对挑战性任务、预期可能失败或丢脸时",
+          "interpretation": "将外部可能的否定转化为强烈的自我批评，认为问题全在自己（移情：自我贬低）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与否定性语言（如“都是我不好”），快速承担全部责任，减少向外求助或讨论。"
+        },
+        {
+          "trigger_condition": "当被鼓励采用不同视角、重新评估“应该独立”的信念时",
+          "interpretation": "将对方的建议体验为对自身原则的否定与控制，从而增强内在紧张（移情：将外部建议视为控制）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以逻辑化语调强调规则与原则（如“理论上我应该能做到”），淡化情绪体验，转移到概念讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因羞耻与自我怀疑而犹豫向朋友谈及不自信",
+            "在需要支持时倾向独自承担"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "焦虑加重",
+            "问题向其他任务泛化"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“我应该能独自完成一切”为内摄的价值条件，自我施加僵化要求"
+          ],
+          "outcomes": [
+            "内在压力与自我苛责增加",
+            "将求助视为失去自主并引发羞耻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "语言中出现“我应该能自己处理”等规则化表述",
+            "把“独立解决一切”当作必须遵守的准则"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "犹豫向朋友表达不自信与寻求支持",
+            "把求助的冲动压回并转为自责或沉默"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "担心朋友会看不起自己，推断他人会否定自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要解决问题的情境下，来访者通常会因担心显得无能而犹豫求助，并伴随自我贬低与焦虑加重。",
+          "unique_outcome": "曾有一次朋友帮她解决电脑问题，问题很快得到修复；她感到释然并认可对方的专业，同时体验到求助的正面意义。",
+          "reason": "不同支持：朋友具备相关技能并及时帮助；不同理解：将求助视为资源而非无能；情境任务可被迅速解决、减少压力累积。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有求助获得积极体验的经历（朋友快速解决电脑问题，体验到支持与释然）",
+          "愿意尝试替代视角与积极自我对话",
+          "态度积极，愿意配合并反思"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括（把一次失败等同于“我很笨”）",
+          "僵化的“应该”规则，倾向将求助视为无能",
+          "对丢脸和被评判的担心导致回避挑战与求助"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "负性自我贴标签（如“我就是个笨蛋”）",
+          "antecedent": [
+            "经历任务失败或技术性问题（如汽车电瓶无法搭电）",
+            "想到可能在他人面前出错或丢脸"
+          ],
+          "core_reason": "过度概括与自我价值依赖外部表现，将一次失败等同于自身整体无能",
+          "function": "通过自责获得控制感并规避再次尝试以避免羞耻",
+          "consequence": "自尊受损、情绪低落与焦虑增加，影响日常决策与任务投入"
+        },
+        {
+          "behavior": "回避向他人求助与表达不安",
+          "antecedent": [
+            "需要外部支持或专家帮助的情境",
+            "准备与朋友谈及自我怀疑时"
+          ],
+          "core_reason": "把求助解释为无能，担心被他人看不起",
+          "function": "逃避潜在的负面评价与羞耻",
+          "consequence": "问题解决效率下降，压力累积，社交支持利用不足"
+        },
+        {
+          "behavior": "在挑战性任务前的灾难化预期与紧张",
+          "antecedent": [
+            "面临需要问题解决的任务或新挑战"
+          ],
+          "core_reason": "预测失败与羞辱的到来，夸大负面结果的可能性",
+          "function": "提前退避以自我保护",
+          "consequence": "尝试机会减少、能力提升受限，负性信念被强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1374
+}

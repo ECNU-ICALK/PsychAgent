@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "顾睿",
+      "gender": "男",
+      "occupation": "在一座出版大楼工作",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "喜欢为家人和朋友做饭；拥有支持性的亲友网络",
+      "social_status": "与朋友关系因其在涉及亲密关系话题时的退缩与自我隔离而受影响；总体拥有支持性的亲友网络，但未深入分享真实感受",
+      "medical_history": "无重大躯体疾病史；此前未因心理问题接受治疗；过往未出现类似问题",
+      "language_features": "表达清晰、能配合探索；情绪低落且多用绝对化/灾难化表述（如“我的爱情前途完全没有了”）；在社交话题中表现退缩"
+    },
+    "main_problem": "我仍然爱着我的前男友，他最近的婚姻让我相信我的爱情前途完全没有了。",
+    "topic": "人际关系",
+    "core_demands": "因前男友近期结婚而对自己的爱情前景感到强烈绝望，希望获得支持与指导。",
+    "growth_experiences": [
+      "六个月前，前男友结婚。此后来访者感到心碎与被抛弃，认为自己的爱情前途“完全没有了”，并在独处或社交场合谈及关系时反复出现无望与孤独感。来访者尝试通过工作、爱好与社交来分散注意力，但相关想法持续存在，影响睡眠、自我照料、工作表现和人际关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不可能在爱情中获得幸福",
+        "我的爱情前途完全没有了"
+      ],
+      "special_situations": [
+        {
+          "event": "得知前男友在六个月前结婚",
+          "conditional_assumptions": "如果重要的亲密对象已经步入婚姻，便意味着我失去爱情的可能性",
+          "compensatory_strategies": "用工作、爱好和社交来分散注意力",
+          "automatic_thoughts": "我的爱情前途完全没有了/我再也找不到爱",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在社交聚会中他人讨论恋爱或婚姻话题",
+          "conditional_assumptions": "如果我不像别人那样拥有稳定关系，就说明我失败、我有问题",
+          "compensatory_strategies": "回避相关话题，撤退并与朋友保持距离",
+          "automatic_thoughts": "他们都拥有幸福的关系，只有我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "独处时想到前男友已继续他的人生",
+          "conditional_assumptions": "如果他已经继续前行而我仍停滞不前，意味着我的未来注定孤单",
+          "compensatory_strategies": "沉浸在反复思考中，同时尝试通过工作与爱好压制情绪",
+          "automatic_thoughts": "我会永远孤单、再也找不到爱",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到前男友“继续前行并结婚”的事实",
+          "conditional_assumptions": "如果他选择了别人并结婚，说明我不够好/不值得被爱",
+          "compensatory_strategies": "不向亲友透露内心感受以避免被评判",
+          "automatic_thoughts": "一定是我有问题他才离开我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱与获得稳定的亲密承诺",
+        "fear": "害怕再次被抛弃、害怕希望破灭与心碎重演",
+        "defense_goal": [
+          "通过撤退与自我隔离来避免再次受伤",
+          "压抑真实感受以维持表面稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被抛弃的失恋者",
+          "object_representation": "已走开的抛弃者/拒绝者",
+          "linking_affect": "心碎、被遗弃感、绝望"
+        },
+        {
+          "self_representation": "不如人的单身局外者",
+          "object_representation": "他人/群体是成功且有伴的评判者",
+          "linking_affect": "羞耻、孤独、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在社交场合谈及亲密关系时",
+          "interpretation": "认为他人都已安稳而自己被排除，若表达自己会显得失败（移情：自我贬损）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低音量，避免直视；使用“都是我不行”等自我批评句式，减少与对方的互动。"
+        },
+        {
+          "trigger_condition": "当想到或看到前男友的婚姻与近况时",
+          "interpretation": "将对方的选择当作对自身价值的否定（移情：摄入/内向投射）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以概括性判断表达“这说明我不值得被爱”，忽略复杂背景，语气沉重。"
+        },
+        {
+          "trigger_condition": "当被邀请或被问及是否与亲友分享内心感受时",
+          "interpretation": "担心表达会加剧痛苦或被误解，因此选择隐忍",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "礼貌地转移话题，强调“我没事”，减少情感词，维持冷静语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独处时感到强烈的心碎与被遗弃感",
+            "在社交场合感觉“别人都搞定了，只有我没有”",
+            "撤退与自我隔离，未向亲友深入分享真实感受"
+          ],
+          "outcomes": [
+            "失眠",
+            "自我隔离与退缩",
+            "情绪低落与绝望",
+            "工作表现轻微受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为“我的爱情前途完全没有了”",
+            "反复沉思“我不可能在爱情中幸福”"
+          ],
+          "outcomes": [
+            "无望感加重",
+            "动机下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我苛责：如“也许我天生不适合幸福的爱情”",
+            "在社交话题中过度在意自己会显得失败"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "尝试用工作、爱好与社交来分散对失恋与孤独的注意",
+            "在被问及感受时更倾向谈行动或事实而非情绪"
+          ]
+        },
+        {
+          "mode": "压抑",
+          "definition": "个体将痛苦的情感与相关的事件分离或压下，不予表达。",
+          "manifestations": [
+            "未向亲友深入分享关于前男友的真实情感与痛苦"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的亲友网络",
+          "能主动寻求咨询与帮助",
+          "能识别“现实与头脑中的叙事不一致”并愿意练习替代视角",
+          "具备以工作与爱好进行自我调节的行为资源"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "反复性负面沉思，强化无望感",
+          "社交退缩与自我隔离",
+          "睡眠受影响、日常自我照料下降",
+          "将对方的选择个体化为对自我价值的否定（个人化）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合谈及亲密关系时撤退与自我隔离",
+          "antecedent": [
+            "社交聚会中他人讨论恋爱或婚姻话题"
+          ],
+          "core_reason": "因前男友结婚引发的被遗弃感与灾难化认知（“我的爱情前途完全没有了”）",
+          "function": "逃避不受欢迎的情绪与可能的评判，短期降低焦虑",
+          "consequence": "友谊关系受损、孤独感加重、负面思维循环"
+        },
+        {
+          "behavior": "反复灾难化思考“我再也找不到爱”，导致入睡困难",
+          "antecedent": [
+            "独处时",
+            "想到或看到前男友的婚姻与近况"
+          ],
+          "core_reason": "黑白思维与预测未来引发的反刍性思维",
+          "function": "试图通过思考获得确定感，但实际强化焦虑与无望感",
+          "consequence": "睡眠质量下降、白天精力与工作表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 661
+}

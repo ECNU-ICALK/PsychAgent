@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11岁",
+      "name": "杨铭",
+      "gender": "男",
+      "occupation": "金融行业从业者",
+      "educational_background": "毕业于常春藤盟校",
+      "marital_status": "未婚",
+      "family_status": "",
+      "social_status": "与同事的互动因自我施压和内疚而变得紧张；有几位亲密朋友但尚未分享相关感受",
+      "medical_history": "无显著躯体疾病史；此前无类似心理问题与就诊经历",
+      "language_features": "表达清晰、有逻辑；明显倾向自我否定与过度归因（“都是我的错”）；聚焦负面证据、否定正向反馈；反复分析与反刍；配合度尚可但态度偏消极"
+    },
+    "main_problem": "我认为我所在的金融公司的亏损完全是由于我的表现所致，这导致我产生内疚和自责感。",
+    "topic": "情绪管理",
+    "core_demands": "自责与内疚不断加重，已影响心理健康和整体幸福感，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的员工",
+        "坏结果都是我的责任"
+      ],
+      "special_situations": [
+        {
+          "event": "公司发布负面财务报告",
+          "conditional_assumptions": "如果公司出现亏损，就说明我工作无能且责任在我",
+          "compensatory_strategies": "加班并承担更多任务以弥补所谓的不足",
+          "automatic_thoughts": "都是我的错，我害了公司",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "同事或上级对其工作给予肯定或表扬",
+          "conditional_assumptions": "若出现表扬，那多半只是客套，不代表真实能力",
+          "compensatory_strategies": "淡化或否定正向反馈，继续自我施压以避免“放松”",
+          "automatic_thoughts": "他们只是说好听的，并不是真心认可我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "下班后或周末独自回想工作表现",
+          "conditional_assumptions": "如果我找不出并纠正错误，就证明我不够好",
+          "compensatory_strategies": "反复反刍、不断自我审查以寻求完美控制",
+          "automatic_thoughts": "如果我做得更好，公司就不会陷入现在的困境",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "想到他人（同事/管理层）可能如何看待自己",
+          "conditional_assumptions": "公司亏损时，别人一定会认为我不称职或不够努力",
+          "compensatory_strategies": "通过加班来证明自己，同时回避与他人谈论真实感受",
+          "automatic_thoughts": "他们觉得我是个不称职的人",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力并通过工作证明自我价值",
+        "fear": "害怕被评判为无能、被指责为公司亏损的原因而遭到否定与疏离",
+        "defense_goal": [
+          "通过承担全部责任来保持对局面的控制与可预见性",
+          "以自我批评和过度努力来预防他人否定与指责"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、需要不断证明自己的员工",
+          "object_representation": "苛责的评判者（上级/同事，不会真正认可）",
+          "linking_affect": "内疚、焦虑、羞耻"
+        },
+        {
+          "self_representation": "孤立无援、难以被理解的人",
+          "object_representation": "他人是不理解甚至会评判自己的人",
+          "linking_affect": "孤独、防御"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其寻找正向证据或接纳同事的肯定时",
+          "interpretation": "认为这些肯定不真诚，担心对方并不真正理解自己（移情：将不被认可的恐惧投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持温和与共情，先反映其怀疑与负担，再以开放式问题探索证据与替代解释，避免对抗与评判。"
+        },
+        {
+          "trigger_condition": "当被建议与朋友分享感受、寻求支持时",
+          "interpretation": "认为他人不会理解，表达等同于“矫情”或“无意义”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以探询和验证并行，邀请其回忆具体经历与证据，温和挑战“没用”的假设，鼓励小步尝试分享。"
+        },
+        {
+          "trigger_condition": "当谈及自身内疚/羞耻等情绪体验时",
+          "interpretation": "迅速转向问题与数据的理性分析，淡化或远离情绪层面",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "放慢节奏，邀请其关注身体与情绪线索，具体化并命名情绪，使用短句、允许停顿以促进体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与亲密朋友分享内疚与自责，认为他们不会理解",
+            "工作中与同事关系紧张，主观体验为“不被真正认可”"
+          ],
+          "outcomes": [
+            "持续的内疚与自责",
+            "睡眠与饮食紊乱、精力耗竭",
+            "人际退缩与支持系统未被激活"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假设他人认为自己无能或不努力",
+            "认为上级/同事的赞赏不真诚"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "不向朋友求助与表达，转而通过加班和自我苛责来消化压力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自责，用“应该/必须做得更好”要求自己",
+            "反复自我审查、难以接纳不完美"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "在会谈中被邀请看见正向证据时，迅速转而强调负面并以“这不重要”带过"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "高教育背景（毕业于常春藤盟校）",
+          "工作绩效总体未明显下降，专业能力基础尚在",
+          "具备一定社会支持（有几位亲密朋友）",
+          "愿意尝试新的视角与方法（在会谈中表示愿意尝试）",
+          "曾有被同事/上级认可的时刻（虽被其淡化）"
+        ],
+        "negative_force": [
+          "强烈的个人化与自我责备倾向（将公司亏损归咎于自己）",
+          "否定正向反馈与聚焦负面（心理过滤、否定正面）",
+          "读心术式推断他人评价，寻求外部验证以证明价值",
+          "反刍与过度工作，导致精力耗竭与睡眠/饮食紊乱",
+          "与同事关系紧张、回避向朋友求助，社会支持未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍与自我责备",
+          "antecedent": [
+            "收到负面财务报告",
+            "下班后或周末独处时"
+          ],
+          "core_reason": "将公司亏损进行个人化归因，试图通过反刍找到错误以恢复控制感与确定性",
+          "function": "寻求确定感与控制，暂时缓解对“无能”的焦虑",
+          "consequence": "睡眠和饮食受损、情绪负担加重、与同事关系恶化"
+        },
+        {
+          "behavior": "过度加班与超量承担任务",
+          "antecedent": [
+            "感到自己表现不佳时",
+            "担心他人评价或想到他人可能认为自己不称职时"
+          ],
+          "core_reason": "以过度努力来补偿“我不够好”的信念并寻求外部认可",
+          "function": "逃避被指责的可能并尝试获取他人认可",
+          "consequence": "长期疲惫与耗竭，效率未明显提升，人际关系持续紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1873
+}

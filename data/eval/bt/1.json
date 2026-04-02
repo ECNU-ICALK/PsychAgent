@@ -1,0 +1,67 @@
+{
+  "theoretical": "bt",
+  "client_info": {
+    "client_id": "bt-1001",
+    "static_traits": {
+      "name": "陈玥",
+      "age": "29",
+      "gender": "女",
+      "occupation": "行政专员",
+      "educational_background": "本科",
+      "marital_status": "未婚",
+      "family_status": "与父母同住",
+      "social_status": "同事关系一般，亲密朋友较少",
+      "medical_history": "无重大躯体疾病"
+    },
+    "main_problem": "社交场合容易回避，事后持续自责。",
+    "topic": "人际关系",
+    "core_demands": "希望减少回避行为，提升社交稳定感。",
+    "growth_experiences": [
+      "学生时期在人际冲突中经常选择沉默",
+      "工作后多次因害怕评价而放弃表达"
+    ],
+    "target_behavior": [
+      {
+        "behavior": "在多人讨论中回避发言",
+        "antecedent": [
+          "被点名前需要表达观点",
+          "担心说错被否定"
+        ],
+        "core_reason": "将不确定反馈解释为负面评价",
+        "function": "短期降低紧张和羞耻感",
+        "consequence": "长期削弱自信并加重社交退缩"
+      }
+    ]
+  },
+  "global_plan": {
+    "overall_goal": "降低回避并提升社交行动一致性",
+    "milestones": [
+      "识别回避触发",
+      "完成小步行为暴露",
+      "复盘行为结果"
+    ]
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "user",
+          "text": "这周部门开会时我又没说话，明明有准备但还是退缩了。"
+        },
+        {
+          "role": "assistant",
+          "text": "你愿意描述一下，当时脑子里最先出现的想法是什么吗？"
+        },
+        {
+          "role": "user",
+          "text": "我会想，万一我说得不好，大家会觉得我很差劲。"
+        },
+        {
+          "role": "assistant",
+          "text": "我们可以把这个时刻拆开看，找出触发、想法和你当下的应对。"
+        }
+      ]
+    }
+  ]
+}

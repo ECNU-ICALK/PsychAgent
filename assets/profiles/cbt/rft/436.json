@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "文杰",
+      "gender": "男",
+      "occupation": "研究生",
+      "educational_background": "攻读硕士学位",
+      "marital_status": "未婚",
+      "family_status": "父母住在街对面，平时会交流，但尚未与他们讨论此具体问题",
+      "social_status": "与朋友的关系因其频繁批评书籍结尾而出现紧张与疏离",
+      "medical_history": "无既往相似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述阅读体验与细节；倾向关注负面细节并使用绝对化评价（如“浪费时间”“毁了一切”）；态度偏消极但配合度尚可"
+    },
+    "main_problem": "我经常在读完书后感到失望和挫败，尤其是当书的结尾不符合我的期望时。这种不满从几个月前开始出现并加重，我会不断批评书的结尾，失去了阅读的乐趣。",
+    "topic": "情绪管理",
+    "core_demands": "持续的失望与挫败感已经影响整体心情与休闲体验，希望通过咨询减少负面过滤、恢复对阅读的享受并改善情绪。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果结尾不符合我的期待，整本书就毫无价值",
+        "休闲活动必须是完整而“完美”的体验，否则就是浪费时间"
+      ],
+      "special_situations": [
+        {
+          "event": "读完一本书后发现结尾仓促或未能呼应前期铺垫",
+          "conditional_assumptions": "如果结尾不符合我提高后的期望，之前所有投入都等于白费",
+          "compensatory_strategies": "在评价时聚焦负面结尾、否定之前的优点以避免再次失望",
+          "automatic_thoughts": "这本书让我白看了，我浪费了时间。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与朋友讨论书籍时，朋友表示“找更好的书”并难以理解其不满",
+          "conditional_assumptions": "如果别人不认同我的评价或不理解我的失望，我就会被视为爱抱怨的人",
+          "compensatory_strategies": "坚持批评结尾以证明自己的观点，减少与朋友的深入交流",
+          "automatic_thoughts": "他们不理解我，可能已经厌烦我了。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "学业压力增大，阅读作为放松的期待变得更高",
+          "conditional_assumptions": "在高压力下，休闲活动必须完全满足期待，否则就不能缓解压力",
+          "compensatory_strategies": "为书籍设定更高标准，一旦结尾不佳即否定整本书",
+          "automatic_thoughts": "现在没有哪本书能满足我。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过阅读获得可靠的放松与满足，并让积极体验被完整保留",
+        "fear": "害怕投入被辜负、时间被浪费，失望情绪失控",
+        "defense_goal": [
+          "通过严格批评与否定来维持控制感，避免再度被失望伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解的严苛批评者/失望的读者",
+          "object_representation": "不理解、敷衍建议的他者（朋友）",
+          "linking_affect": "沮丧、孤立、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如咨询师或朋友）邀请其回忆书中的积极部分，或对其“整本书都浪费”的评价提出平衡观点时",
+          "interpretation": "倾向认为对方在否定他的感受、忽视他的失望（将自身的被辜负体验投射到他人“不理解”的意图上）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用冷静、条理化的语气罗列结尾的逻辑缺陷与漏洞，弱化或略过主观感受；避免触及积极体验的情绪成分。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为结尾“毁了一切”，将阅读体验视为“浪费时间”",
+            "休闲阅读失去乐趣，难以放松"
+          ],
+          "outcomes": [
+            "情绪低落与挫败",
+            "对休闲活动的意义产生怀疑"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "朋友“不理解”，关系紧张",
+            "未向住在附近的父母谈及该问题"
+          ],
+          "outcomes": [
+            "疏离感增加，社会支持利用不足",
+            "负面情绪持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将失望与被辜负的感受归因于“结尾毁了一切”，难以意识到自身提高的期待与压力因素",
+            "认为他人“不理解”自己的不满，从而加剧疏离"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "当被邀请回忆书中的积极部分时，迅速转回结尾的缺点",
+            "难以在正面体验上停留与深化，转而强调负面"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "学业表现未受影响，说明自我管理与任务执行能力尚可",
+          "父母住在附近，潜在支持资源可用",
+          "愿意尝试平衡视角与现实检验，具有改变动机",
+          "能够识别并描述书中的优点（独特情节、人物深度）"
+        ],
+        "negative_force": [
+          "心理过滤与否定正面思考的模式显著",
+          "在高压力下对休闲活动形成完美化期待（非黑即白标准）",
+          "频繁批评导致人际关系紧张、支持减弱",
+          "将失望主要归因于外部（书的结尾），忽视自身期待与情境因素"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在读完书后过度聚焦并批评结尾，否定整本书并出现显著的失望与挫败情绪",
+          "antecedent": [
+            "完成阅读并遭遇结尾不合预期或仓促",
+            "近期学业压力较大、期待提高",
+            "与朋友讨论书籍时遭遇不被理解或被建议“找更好的书”"
+          ],
+          "core_reason": "在学业压力下形成完美化与非黑即白的评价标准，伴随心理过滤与否定正面思考，将结尾的不满等同于整体失败与时间浪费",
+          "function": "逃避失望与被辜负的感受，维持对休闲体验的控制感与高期待标准",
+          "consequence": "整体情绪低落、休闲体验与放松能力下降；与朋友关系紧张；阅读乐趣减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 436
+}

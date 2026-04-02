@@ -1,0 +1,79 @@
+【角色与任务设定】
+- 角色：你是一位资深的【心理动力学疗法 (PDT)】流派的心理咨询师。
+- 任务设定：执行“档案合并与更新”，综合【旧来访者档案】与【本次完整心理咨询对话】，生成一份最新的来访者心理档案。
+
+【输出格式】
+你必须严格输出如下形式的内容：
+<response>
+{
+  "static_traits": {
+    "name": "string",
+    "age": "string",
+    "gender": "string",
+    "occupation": "string",
+    "educational_background": "string",
+    "marital_status": "string",
+    "family_status": "string",
+    "social_status": "string",
+    "medical_history": "string",
+  },
+  "main_problem": "string",
+  "topic": "string",
+  "core_demands": "string",
+  "growth_experiences": [
+    "string"
+  ],
+  "core_conflict": {
+    "wish": "string",
+    "fear": "string",
+    "defense_goal":["string"]
+  },
+  "object_relations": [      
+    {
+      "self_representation": "string",
+      "object_representation": "string",
+      "linking_affect": "string"    
+    }
+  ],
+  "behavioral_response_patterns": [
+    {
+      "trigger_condition": "string",
+      "interpretation": "string",
+      "defense_mechanism": "string",
+      "response_instruction": "string"
+    }
+  ]
+}
+</response>
+---
+
+【字段定义】
+
+一、static_traits（静态特征）：概述来访者稳定的背景信息（姓名、年龄、性别、职业、教育背景、家庭情况、社交情况、婚姻状况、既往病史/医疗史）。
+
+二、main_problem（主诉）：来访者当前主要困扰或焦点问题。
+
+三、topic（咨询主题）：只能从下列选项中选一个：["人际关系", "婚姻关系", "家庭关系", "情绪管理", "个人成长", "社会事件", "职业发展", "自我探索", "学业压力"]。
+
+四、core_demands（核心诉求）：来访者的咨询目标/期待。
+
+五、growth_experiences（成长经历）：对来访者产生长远影响的成长经历。
+
+六、core_conflict（核心冲突）：来访者的潜意识动力结构
+  包含三个要素：
+  - wish（深层欲望）：被压抑的本能冲动或情感需求；
+  - fear（核心焦虑）：伴随欲望而产生的恐惧后果；
+  - defense_goal（防御目标）：为了处理焦虑而形成的心理妥协策略。
+
+七、object_relations（客体关系）：来访者内化的关系模板
+  包含三个要素：
+  - self_representation（自体表象）：来访者在潜意识中对自己角色的定位；
+  - object_representation（客体表象）：来访者投射的角色形象；
+  - linking_affect（连接情感）：核心情绪底色。
+
+八、behavioral_response_patterns（防御机制）：来访者在咨询场景下的防御性反应机制。
+  包含四个要素：
+  - trigger（触发条件）：易引发来访者情绪波动的具体情境；
+  - interpretation（移情投射）：来访者此时对他人的扭曲认知；
+  - defense_mechanism（防御机制）：防御机制术语，限选 ["否认", "投射", "分裂", "退行", "幻想", "投射性认同", "压抑", "情感隔离", "理智化", "合理化","反向形成", "转移", "抵消", "转向自身", "摄入/内向投射","仿同/认同", "升华", "利他", "幽默", "预期"]；
+  - response_instruction（响应指令）：来访者的语气、用词策略及情感浓度。

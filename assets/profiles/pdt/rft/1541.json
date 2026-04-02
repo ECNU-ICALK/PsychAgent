@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "李博",
+      "gender": "男",
+      "occupation": "瑜伽教练",
+      "educational_background": "认证瑜伽教练",
+      "marital_status": "未婚",
+      "family_status": "养有两只吉娃娃",
+      "social_status": "有一群支持性的朋友，但人际关系因其灾难化倾向而紧张；尚未与朋友讨论其认知模式",
+      "medical_history": "既往无类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度良好；语气偏消极；能自我反思但常使用绝对化表述，易聚焦负面并忽略正面"
+    },
+    "main_problem": "倾向于将小挫折灾难化并全盘否定整段体验（如海滩捡到的贝壳在车里裂开就认为整趟旅行毫无意义），该模式约一年前开始并近来加重，常在事情不如计划时出现，导致忽视积极、只关注负面。",
+    "topic": "情绪管理",
+    "core_demands": "意识到灾难化倾向正在影响整体人生观并造成不必要的痛苦，因此寻求咨询；希望能提醒自己“一件小事不会毁掉一切”。",
+    "growth_experiences": [
+      "约一年前在个人生活中遭遇一系列小挫折（如朋友取消计划、丢失喜欢的小物品等），此后在小事上逐渐形成并强化灾难化与非黑即白的认知模式：一旦出现不完美就全盘否定整体体验。该模式使其越来越忽视积极面、只聚焦负面，进而影响睡眠与自我照护、工作与人际关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不完美就等于失败/毫无意义",
+        "一个负面事件会毁掉整体体验"
+      ],
+      "special_situations": [
+        {
+          "event": "海滩捡到的贝壳在车里裂开",
+          "conditional_assumptions": "如果出现瑕疵，就说明这一天不再完美，整趟旅行也失去意义",
+          "compensatory_strategies": "将注意力聚焦在负面细节，否定或忽略其他积极体验以维持对“完美”的标准",
+          "automatic_thoughts": "整趟旅行都毫无意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "朋友临时取消计划",
+          "conditional_assumptions": "如果计划被打乱，就意味着生活在走下坡路、我失去掌控",
+          "compensatory_strategies": "预先否定后续安排，扩大负面影响以求“心理准备”",
+          "automatic_thoughts": "一切都在崩塌，这周都毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "丢失心爱的物品",
+          "conditional_assumptions": "如果我没能保持事物完好和掌控，就说明我不称职/失败",
+          "compensatory_strategies": "加重自责并否定当天其他收获，减少对正面事实的关注",
+          "automatic_thoughts": "我总是把事情搞砸，什么都留不住",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "工作中出现小偏差或课程未按计划进行",
+          "conditional_assumptions": "如果课程不是完美的，就意味着我不称职，不值得肯定",
+          "compensatory_strategies": "只关注负面反馈或小差错，主动忽略积极部分",
+          "automatic_thoughts": "这节课很糟，我不是好教练",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持完美与掌控，从而获得稳定的价值感与愉悦体验",
+        "fear": "害怕一旦出现不完美就意味着彻底失败与被否定、生活失控",
+        "defense_goal": [
+          "通过全盘否定与绝对化评价来避免面对不完美的焦虑",
+          "保持对负面细节的聚焦以维持“完美标准”的心理防线"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易被小挫折击倒的自我，需要完美来维持价值感",
+          "object_representation": "他人可能不理解或会评判自己，世界/情境容易“破坏”完美计划",
+          "linking_affect": "焦虑、沮丧、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当发生小挫折或不如计划（如物品损坏、计划被取消）时，或当他人邀请其关注积极面/整合好坏并存时",
+          "interpretation": "将不完美理解为全面失败与失控（移情：将“完美=安全”的内在规则投射到情境）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化表述（如“全都毁了”），否认或轻视正面细节，语气沮丧并坚持“要么完美要么毫无意义”的立场。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当出现小缺陷（如贝壳裂开）时，将整段体验定义为“毫无意义”",
+            "以“完美的一天”为意义锚点，导致意义感对不完美高度脆弱"
+          ],
+          "outcomes": [
+            "情绪低落与痛苦加重",
+            "工作与人际受损",
+            "睡眠与自我照护被扰乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“应该拥有完美的一天”的刚性规则评估体验",
+            "用“一件小事就毁掉一切”的内在标准约束自己"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明知有支持性朋友却不讨论自身困扰，将压力与负面反刍留给自己",
+            "在困扰时减少外向表达与寻求支持，转而自我消耗（睡眠与自我照护受损）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性朋友网络",
+          "曾主动尝试正念干预以挑战思维",
+          "具备自我觉察，能清晰描述并愿意求助",
+          "有稳定职业技能与工作基础（瑜伽教练）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的认知倾向显著",
+          "心理过滤与否定积极，难以看到正面事实",
+          "担心被评价而不向支持者表达困扰",
+          "完美主义的价值条件导致对不确定性耐受差",
+          "负性反刍使睡眠与自我照护受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在小挫折后出现灾难化与非黑即白的认知反应（伴随情绪低落）",
+          "antecedent": [
+            "当事情不如计划进行",
+            "出现小缺陷或损坏（如贝壳裂开）",
+            "被朋友取消计划或丢失心爱物品"
+          ],
+          "core_reason": "内化的完美主义规则与“不完美＝失败”的核心信念",
+          "function": "通过全盘否定体验来逃避不完美与不确定带来的焦虑与羞耻感",
+          "consequence": "忽视积极面、工作与人际受损、睡眠与自我照护被扰乱，整体痛苦加重"
+        },
+        {
+          "behavior": "回避向朋友寻求支持或讨论认知困扰",
+          "antecedent": [
+            "出现负面情绪或灾难化思维后",
+            "担心被认为夸大或不被理解时"
+          ],
+          "core_reason": "担心被评判与否定，保持脆弱自我形象的防御性回避",
+          "function": "逃避潜在的负面评价以维持心理安全感",
+          "consequence": "支持系统未被利用，人际关系进一步紧张，负性情绪与认知反刍积累"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1541
+}

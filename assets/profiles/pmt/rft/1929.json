@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "林晓彤",
+      "gender": "女",
+      "occupation": "医院工作人员；社区学院在读学生",
+      "educational_background": "社区学院在读",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "近期与同事保持距离，担心被看出困难；有一位要好的朋友但未分享自卑与焦虑",
+      "medical_history": "无既往类似心理问题与咨询经历；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述事件与情绪；自我批评明显，常用“应该”句式；焦虑与内疚体验强；对重构持保留但配合度较高"
+    },
+    "main_problem": "我觉得因为我同时在上学，所以我应该成为更好的医院工作人员。这一信念导致了内疚、压力和自我不足感。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为持续的内疚和压力正在影响我的心理健康和整体福祉。",
+    "growth_experiences": [
+      "约6个月前开始同时兼顾医院工作与社区学院学习；在考试周或工作繁忙时压力与内疚加剧，尤其在收到工作反馈或学校成绩后每周都会反复出现。为应对曾加倍努力工作与学习，并向同事请教，但负性情绪仍持续。",
+      "一次倒车时不慎撞到树，事后反复回放事故，形成“我是最差的司机/我会再次出错”的想法，出现驾车焦虑并开始回避驾驶，导致跑腿与社交活动受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/能力不足",
+        "我的价值取决于在工作与学业上的出色表现"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中收到上级或同事的反馈",
+          "conditional_assumptions": "如果我没有比以前做得更好或不够完美，就证明我不够好",
+          "compensatory_strategies": "加班加点、更用力工作、向同事请教，同时与同事保持距离以避免暴露不足",
+          "automatic_thoughts": "我应该做得更好，我在让大家失望",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在学校收到成绩或临近期末考试",
+          "conditional_assumptions": "如果成绩不优秀，就说明我是失败者",
+          "compensatory_strategies": "投入更多时间学习、用“必须/应该”自我要求",
+          "automatic_thoughts": "我必须考得更好，否则就证明我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在事故后需要开车或想到要开车",
+          "conditional_assumptions": "犯过一次错就意味着我不安全、今后也会继续出错",
+          "compensatory_strategies": "尽量避免驾驶，仅在不得已时短途行驶",
+          "automatic_thoughts": "我又会出错/可能再出事故",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想起倒车撞树的那次事故",
+          "conditional_assumptions": "一次错误就足以证明我整体很差",
+          "compensatory_strategies": "在脑中反复回放并自我批评，以期“吸取教训”避免再犯",
+          "automatic_thoughts": "我是世界上最差的司机",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看作胜任、可靠，并在工作与学业上得到认可与联结",
+        "fear": "害怕暴露无能被批评、被看不起，引发羞耻与被排斥",
+        "defense_goal": [
+          "通过自我苛责与追求完美来控制不确定性与焦虑",
+          "与同事保持距离以避免暴露不足、降低羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易出错、带着羞耻的员工/学生",
+          "object_representation": "他人是苛刻的评判者、随时会挑错的人",
+          "linking_affect": "羞耻、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出将“我是最差司机”重构为“我犯了一个错误，但这不代表我是坏司机”并邀请练习时",
+          "interpretation": "认为这像是在自我欺骗或被要求忽视错误的严重性",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以平静理性的语气强调“这听起来不真实”，坚持证据标准，减少情感表达。"
+        },
+        {
+          "trigger_condition": "当咨询师建议向亲友分享感受、寻求支持时",
+          "interpretation": "预设他人不会理解，会认为自己反应过度",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "用不确定但否定性的表述，如“他们会觉得我反应过度吧”，并转移话题，避免深入探索。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同事保持距离，担心被看出挣扎",
+            "不向亲密朋友分享自卑与焦虑，担心不被理解"
+          ],
+          "outcomes": [
+            "主观孤立感增强，支持系统利用不足",
+            "焦虑与自我否定的循环被维持"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被内化的“应该/必须”规则束缚自我价值",
+            "将自我价值与完美表现绑定，难以灵活选择"
+          ],
+          "outcomes": [
+            "内疚与压力升高",
+            "在驾驶和社交上出现回避，生活选择受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须……”来要求自己",
+            "将工作与学业的高标准视为自我价值的唯一依据"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "预设朋友会觉得自己“反应过度”而不愿求助",
+            "担心同事会注意到自己的挣扎并否定自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我是最差的司机”",
+            "对积极重构反馈为“不真实”，对自我表达较为谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "能主动寻求建议（曾向同事请教）",
+          "具备自我观察与反思的基础，愿意尝试新思路",
+          "拥有一位可潜在求助的亲密朋友",
+          "除这次事故外无其他重大交通事故，客观能力并非全然不足"
+        ],
+        "negative_force": [
+          "自我要求过高、以完美为标准的价值条件",
+          "过度概括与预测未来的思维维持焦虑（尤其在驾驶情境）",
+          "回避行为（回避驾驶、疏离同事）强化了恐惧与羞耻",
+          "睡眠与饮食节律紊乱，削弱情绪调节能力",
+          "自我否定显著，依赖外部评价"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与驾驶相关的强烈焦虑与回避",
+          "antecedent": [
+            "想到要开车或坐上驾驶座",
+            "经过发生事故的地点",
+            "需要外出跑腿或参加社交活动"
+          ],
+          "core_reason": "在倒车撞树的单次事故后产生过度概括与“会再次出错”的灾难化/预测性认知",
+          "function": "逃避被感知为危险的情境，以暂时降低焦虑",
+          "consequence": "日常办事与社交活动受限，维持并加剧驾驶焦虑与自我否定"
+        },
+        {
+          "behavior": "对同事的回避与人际疏离",
+          "antecedent": [
+            "在工作场合与同事接触",
+            "收到工作反馈后担心暴露不足"
+          ],
+          "core_reason": "害怕被看作无能、被评价与羞耻",
+          "function": "避免被评价和被看见“弱点”，以维护表面安全感",
+          "consequence": "支持系统减少，人际信任下降，内疚与压力维持"
+        },
+        {
+          "behavior": "以“应该/必须”驱动的自我苛责式自我对话",
+          "antecedent": [
+            "收到工作反馈",
+            "获得学校成绩",
+            "考试期或工作繁忙时"
+          ],
+          "core_reason": "将外界高标准内化为自我价值的唯一依据（内摄），以完美主义维持控制感",
+          "function": "试图通过自我施压提升表现、避免被指责",
+          "consequence": "内疚与压力升高，睡眠与饮食紊乱，工作表现下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1929
+}

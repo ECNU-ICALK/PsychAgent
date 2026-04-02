@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "飞行员",
+      "educational_background": "商用飞行执照",
+      "marital_status": "恋爱中",
+      "family_status": "父母均为军人",
+      "social_status": "有支持性的女友与朋友，但他们并不完全理解其对蜘蛛的恐惧；该恐惧在亲密关系中造成紧张；工作表现未受影响；居家与户外休闲受影响",
+      "medical_history": "自儿童期起存在对蜘蛛的恐惧；此前未接受心理治疗；无显著躯体疾病",
+      "language_features": "略显紧张但配合度高；表达清晰、逻辑性强；能进行自我反思与共同探索"
+    },
+    "main_problem": "对蜘蛛的恐惧导致显著痛苦，尤其在女友面前近几个月明显加重；常出现心跳加速、出汗、发抖并强烈回避；在家与户外更易发生；认为源于儿童期一次蜘蛛爬到身上的事件。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询以减少对蜘蛛的恐惧对与女友关系及整体心理健康的影响；希望理解自己为何会如此反应，并对可被管理抱有更多希望。",
+    "growth_experiences": [
+      "儿童期曾发生蜘蛛爬到身上的具体事件，触发强烈恐惧反应；此后一直害怕蜘蛛，但过去不如现在严重，近几个月明显加重。",
+      "原生家庭背景：父母均为军人。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懦弱的（被“wimp/懦弱”标签所困）",
+        "我无法控制自己的恐惧与想法"
+      ],
+      "special_situations": [
+        {
+          "event": "在家中看到蜘蛛或想到家中可能出现蜘蛛",
+          "conditional_assumptions": "如果我不能控制恐惧，蜘蛛就会爬到我身上或咬我，我会失控并受到伤害",
+          "compensatory_strategies": "立刻逃离现场、回避家中角落或可能有蜘蛛的地方",
+          "automatic_thoughts": "蜘蛛会爬到我身上或咬我，我必须马上离开",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在户外活动时注意到有蜘蛛可能出没的区域",
+          "conditional_assumptions": "如果去这些地方，必然会遇到蜘蛛并引发强烈恐慌，让我显得很懦弱",
+          "compensatory_strategies": "减少或回避户外活动，选择“安全区域”",
+          "automatic_thoughts": "一到那里就会遇到蜘蛛，事情会很糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在女友面前谈到或遇到蜘蛛",
+          "conditional_assumptions": "如果我表现出恐惧，就说明我是懦弱的，她会看不起我",
+          "compensatory_strategies": "尽量掩饰恐惧或回避在女友面前面对蜘蛛的情境",
+          "automatic_thoughts": "她觉得我很懦弱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "独自进行看蜘蛛图片的自我暴露训练",
+          "conditional_assumptions": "如果不能立刻减少焦虑，就说明暴露法没有作用，我做不到",
+          "compensatory_strategies": "很快停止或中断练习，怀疑继续的意义",
+          "automatic_thoughts": "这可能根本没用；我做不到",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣理解与接纳，不被“懦弱”所定义，能够被视为可依赖、可被尊重的人",
+        "fear": "害怕因恐惧反应被伴侣看不起、被贴上负面标签，从而关系紧张或受损",
+        "defense_goal": [
+          "通过回避蜘蛛相关情境来降低羞耻与被评价的风险",
+          "努力控制外在反应以维持在伴侣面前的自我形象"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在他人面前容易失控、显得懦弱的自己",
+          "object_representation": "可能不理解并带有评判的伴侣/重要他人",
+          "linking_affect": "羞耻、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧限制了在家与户外的自由活动，导致回避多种环境",
+            "在亲密关系中因恐惧反应而感到受限、自我形象受拘束"
+          ],
+          "outcomes": [
+            "回避行为增加",
+            "生活质量下降（难以在家放松、户外活动受限）",
+            "关系紧张与自我价值感受损"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "伴侣与朋友总体上支持（虽不完全理解）",
+          "工作功能完好，职业角色稳定（飞行员）",
+          "愿意尝试不同方法并能提出更平衡的替代性思维",
+          "曾主动尝试自我暴露训练，具备一定改变动机"
+        ],
+        "negative_force": [
+          "遇到蜘蛛时强烈的生理与情绪反应（心跳加速、出汗、发抖）",
+          "广泛回避与灾难化/预测未来的认知模式",
+          "在亲密关系中倾向读心术与自我标签（“懦弱”）",
+          "对方法有效性的仓促否定与非黑即白思维（若不能立刻缓解就认为无效）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对蜘蛛的强烈恐惧与惊恐反应（逃离、回避）",
+          "antecedent": [
+            "在家中看到或想到可能出现蜘蛛",
+            "在户外遇到可能有蜘蛛的区域",
+            "查看蜘蛛图片进行自我暴露时",
+            "在女友在场的情境中谈及或遭遇蜘蛛"
+          ],
+          "core_reason": "儿童期被蜘蛛爬到身上的事件形成条件性恐惧；伴随灾难化、预测未来与读心术等认知偏差，加剧对伤害与羞耻的担忧",
+          "function": "逃避被视为危险的刺激以寻求安全，同时避免在伴侣面前的尴尬与负面评价",
+          "consequence": "广泛回避导致居家放松与户外活动受限；与伴侣关系出现紧张；整体心理负担加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1649
+}

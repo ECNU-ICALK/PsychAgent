@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "全职在家照顾孩子的家长",
+      "educational_background": "大专在读/部分大学教育",
+      "marital_status": "已婚",
+      "family_status": "与配偶育有一个女儿；配偶支持，但对自我批评的想法较难向其敞开",
+      "social_status": "与家庭关系受低落情绪影响；有支持性的配偶但沟通深度受限",
+      "medical_history": "无类似心理问题史；既往未接受心理治疗；无显著身体疾病",
+      "language_features": "表达清晰、逻辑较好；能合作探索并尝试新策略；倾向使用自我贬低标签与个人化解释；当下易被情绪主导而不检视证据；整体态度积极"
+    },
+    "main_problem": "当我没有收到邮寄包裹时，我会觉得自己是个失败者，继而感到毫无价值并进行自我批评。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些自我批评的想法正在影响我的情绪和整体幸福感。",
+    "growth_experiences": [
+      "在生日时没有收到任何包裹，此后每天检查邮箱时若没有属于自己的包裹，便触发强烈的自我贬低与无价值感；来访者尝试用分散注意力的方法应对，但负性情绪持续，进一步影响与家人的关系以及日常做饭、打扫等家务的参与度与动力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者",
+        "我不重要、没人喜欢我"
+      ],
+      "special_situations": [
+        {
+          "event": "生日当天没有收到任何包裹",
+          "conditional_assumptions": "如果在重要日子没有收到包裹，就说明我不重要、没人喜欢我",
+          "compensatory_strategies": "尝试用分散注意力来压低情绪，但无法真正缓解",
+          "automatic_thoughts": "没有人关心我，我是个失败者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每日检查邮箱时发现没有自己的包裹",
+          "conditional_assumptions": "只有收到包裹才意味着被在乎；如果没有包裹，就证明我不重要",
+          "compensatory_strategies": "用自我批评与负性标签来解释并“控制”失望感，同时持续关注外部线索（包裹）寻求确认",
+          "automatic_thoughts": "没有包裹就等于我不值得被爱",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "情绪低落影响与家人的关系及家务（做饭、打扫）",
+          "conditional_assumptions": "如果我不能做好家务和日常任务，就证明我是个失败者",
+          "compensatory_strategies": "减少日常活动、动力下降以回避失败感",
+          "automatic_thoughts": "我什么都做不好，我就是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面对支持性的配偶时，难以敞开谈论自我批评的想法",
+          "conditional_assumptions": "如果暴露这些负面想法，会被评判或显得自己不重要",
+          "compensatory_strategies": "保持沉默、回避深入沟通以避免被评价",
+          "automatic_thoughts": "我的价值取决于别人是否通过行为来认可我",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被重视与被爱的确认（最好能通过他人的外在行为体现）",
+        "fear": "害怕被忽视、被拒绝、被认为不重要",
+        "defense_goal": [
+          "通过寻求外部验证来稳定自我价值感",
+          "避免向亲密关系暴露脆弱以防被评判或受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不重要、易被忽视的失败者",
+          "object_representation": "他人是冷漠的评判者，是否在乎取决于是否给予外在表示（如包裹）",
+          "linking_affect": "羞耻、悲伤、无价值感"
+        },
+        {
+          "self_representation": "脆弱而难以开口的依恋需求者",
+          "object_representation": "伴侣可能会对自己的负面想法进行评价或难以承接",
+          "linking_affect": "担忧、羞怯"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当未收到包裹或每日检查邮件没有属于自己的包裹时",
+          "interpretation": "将外部事件理解为他人不喜欢自己、自己不重要（移情：把被忽视的恐惧投射到“他人不在乎”上）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气消沉，使用武断判断（如“他们不在乎我”），忽略相反证据与多种可能性。"
+        },
+        {
+          "trigger_condition": "当伴侣表达支持、邀请其分享内心体验时",
+          "interpretation": "担心暴露脆弱会被评判或给对方造成负担，因此不愿深入表达",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "保持简短与表面的回应，避免情感细节；语气谨慎，必要时转移话题以减轻暴露感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "将“未收到包裹”解读为“无人关心我/我不被喜欢”",
+            "难以向配偶敞开谈论自我批评的想法"
+          ],
+          "outcomes": [
+            "低落情绪与无价值感",
+            "与家人的关系受到影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "把是否收到包裹等外在行为当作自我价值的唯一凭证",
+            "日常动机下降、对家务参与减少"
+          ],
+          "outcomes": [
+            "自我价值与外在线索过度绑定",
+            "情绪持续低落、行为退缩"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "把他人不寄包裹解读为“不在乎我/不喜欢我”",
+            "根据外部事件推断他人的负面看法（读心术）"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外表达的冲动，转而对自己做或压抑，与“冲动”对应。",
+          "manifestations": [
+            "面对支持性的配偶仍难以坦诚表达自我批评的念头",
+            "将情绪与需求保留在内心而不外求支持"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或真理，与“拒绝”对应。",
+          "manifestations": [
+            "内化“收到包裹=被在乎、没包裹=不重要”的规则",
+            "以僵化标准评估自我价值并进行自我贴标签"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶与家庭资源",
+          "愿意尝试认知重构与感恩练习，合作度高",
+          "能够识别并表达自身的负性自动化思维"
+        ],
+        "negative_force": [
+          "自我价值过度依赖外部验证（包裹/他人行为）",
+          "常用读心术、个人化与非黑即白思维解释情境",
+          "自我贬低与标签化加重羞耻与无价值感",
+          "难以向亲密他人敞开脆弱体验，支持难以充分进入"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在检查邮件未收到包裹时出现自我贬低与显著情绪低落",
+          "antecedent": [
+            "每日检查邮箱",
+            "看到没有属于自己的包裹"
+          ],
+          "core_reason": "将是否收到包裹与自我价值直接等同的认知假设（未获外部确认即视为不重要）",
+          "function": "通过自我批评与情绪反应来解释外部事件并寻求外部验证，暂时逃避不确定与孤独感",
+          "consequence": "持续的无价值感与低落情绪，影响人际与日常功能"
+        },
+        {
+          "behavior": "家务与日常活动参与减少（做饭、打扫等）",
+          "antecedent": [
+            "在未收到包裹后情绪明显低落",
+            "自我批评增强、动机下降"
+          ],
+          "core_reason": "负性自动化思维与自我贴标签导致动机与能量降低",
+          "function": "逃避要求、降低情绪负荷与潜在失败感",
+          "consequence": "无法有效完成日常事务，与家人关系受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 729
+}

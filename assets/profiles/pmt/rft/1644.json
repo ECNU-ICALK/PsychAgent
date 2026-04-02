@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "陈娜",
+      "gender": "女",
+      "occupation": "医生",
+      "educational_background": "医学学位",
+      "marital_status": "已婚",
+      "family_status": "已婚，有两个孩子；近期由于育儿压力与孩子的纪律问题，夫妻关系受到影响",
+      "social_status": "有亲密朋友可倾诉，但尚未分享对育儿不称职的感受；与配偶关系受育儿挑战牵动",
+      "medical_history": "未接受过心理治疗；无显著躯体疾病史",
+      "language_features": "表达清晰、配合度高、能自我觉察认知模式；情绪体验为压抑与不堪重负，倾向使用全或无与自责性陈述；语气平稳、愿意探索不同解释"
+    },
+    "main_problem": "我觉得我的两个孩子总是惹麻烦，我相信这是因为我是一个糟糕的父亲。",
+    "topic": "家庭关系",
+    "core_demands": "不断升级的内疚与自责已经显著影响心理健康与家庭关系，因此希望通过咨询缓解这些感受并改善家庭关系与自我认知。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的父母",
+        "我不够胜任/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "孩子在学校和家庭出现纪律问题",
+          "conditional_assumptions": "如果孩子出现问题，就说明我是失败的父母，所有责任都在我",
+          "compensatory_strategies": "进行自我反思并在网上寻求育儿建议",
+          "automatic_thoughts": "他们总是惹麻烦都是因为我很糟糕",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "工作职责在同一时期加重，压力增大",
+          "conditional_assumptions": "如果我不能同时把工作和育儿都做得完美，就是彻底的失败",
+          "compensatory_strategies": "把注意力集中在自我要求上，忽视自身放松与休息需求",
+          "automatic_thoughts": "我做不好任何事，我是个失败的家长",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与配偶的关系因育儿挑战受到影响",
+          "conditional_assumptions": "如果伴侣不满或关系紧张，就说明我不称职，是我的错",
+          "compensatory_strategies": "独自承担问题并强化自我责备，减少外界求助",
+          "automatic_thoughts": "这都是我的错，我破坏了家庭",
+          "cognitive_pattern": "Blaming"
+        },
+        {
+          "event": "想到向朋友分享育儿困扰时担心被评判",
+          "conditional_assumptions": "如果我暴露育儿中的不足，朋友就会看不起我",
+          "compensatory_strategies": "避免向朋友表达和寻求支持，将情绪压在心里",
+          "automatic_thoughts": "他们会觉得我是个糟糕的父母",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可、称职的父母，维持和谐的家庭关系",
+        "fear": "害怕被他人（包括配偶与朋友）评判为不称职，担心自己的不足导致家庭关系恶化",
+        "defense_goal": [
+          "通过自责与内化责任来维持控制感并避免外界评判",
+          "减少对外求助以避免暴露脆弱与被负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、失败的父母",
+          "object_representation": "他人（配偶/朋友）是潜在的评判者与批评者",
+          "linking_affect": "内疚、羞耻、焦虑"
+        },
+        {
+          "self_representation": "必须承担全部责任的照看者",
+          "object_representation": "孩子是易失控、需被纠正的对象",
+          "linking_affect": "焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询探讨“是否向朋友分享育儿困扰”或鼓励寻求外界支持时",
+          "interpretation": "来访者认为朋友会看低自己、进行负面评价（移情：将被评判的担忧加到他人身上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹疑，使用假设性措辞（如“他们可能会……”），避免明确承诺分享，转而强调自己问题很多、需要先解决再说。"
+        },
+        {
+          "trigger_condition": "当谈及孩子的纪律问题与家庭关系受影响时",
+          "interpretation": "将所有负面结果归因于自我不足，视自己为“全坏”的父母（移情：用早期自我贬损模板理解当前关系）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "语气低落，频繁使用绝对化词汇（如“完全是我的错”、“我一点都做不好”），忽略任何正向证据。"
+        },
+        {
+          "trigger_condition": "当被邀请平衡证据、承认积极育儿片段时",
+          "interpretation": "将对外的挫败与压力转向自身，以自我批评维持道德责任感",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我指责为主语的表达（“都是我导致的”），降低对外沟通与讨论的比例，语气自责、轻声。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心朋友会评判自己为不称职的父母而不愿分享内心感受",
+            "在育儿挑战中倾向独自承担、减少外界支持"
+          ],
+          "outcomes": [
+            "情绪负担加重（内疚、焦虑）",
+            "家庭关系紧张",
+            "睡眠质量与饮食习惯受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "以“我是一个糟糕的父母”标签化自我，忽视孩子的正向行为片段",
+            "将挫折视为对自我价值的全面否定"
+          ],
+          "outcomes": [
+            "持续的自责与不足感",
+            "认知偏差（个人化、全或无），削弱自我效能感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "有朋友可谈，但选择不分享育儿困扰，将压力与自责内化",
+            "在面对育儿问题时更多自我指责而非寻求外界支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心朋友会看不起自己、对自己进行负面评价",
+            "在尚未获得他人反馈时预设他人对自己的不良看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我审视与自责，降低对外表达与求助",
+            "在关系中小心谨慎、避免暴露脆弱"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须把孩子控制好/必须做到完美”为隐性标准评判自我",
+            "将育儿失败等同为自我全面失败"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在孩子出现纪律问题时，来访者通常会完全自责、体验强烈内疚与不足感，并与配偶关系紧张、压力显著增加。",
+          "unique_outcome": "有时孩子会在学校项目中表现良好，或在家里彼此分享与合作；在这些时刻，麻烦减少、互动更为正向，这与平时“总是惹麻烦”的叙事不同。",
+          "reason": "线索：情境不同（任务明确、合作氛围较好）使孩子更易自我管理；来访者能注意到孩子的正向行为片段，从而短暂弱化了“全面失败”的叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "职业功能稳定（医生岗位表现稳定）",
+          "愿意参与咨询与行为实验，态度积极",
+          "具备一定的自我觉察，能识别认知偏差模式",
+          "拥有潜在社会支持资源（有亲密朋友可谈）"
+        ],
+        "negative_force": [
+          "过度个人化与全或无思维，常以自我标签化否定价值",
+          "强烈的自责与内疚，担心被评判导致回避求助",
+          "工作压力增大与育儿挑战并行，加重情绪负担",
+          "睡眠与饮食受到影响，降低恢复力与调节力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "频繁的自我责备与负性自动思维（将孩子的所有问题归因于自身不称职）",
+          "antecedent": [
+            "孩子在学校与家庭出现纪律问题",
+            "工作职责加重、压力增大",
+            "与配偶因育儿问题产生紧张",
+            "面对具体育儿挑战（无法“控制”孩子时）"
+          ],
+          "core_reason": "认知扭曲（个人化、全或无、读心术与标签化），伴随对被他人评判的担忧与自我价值的否定",
+          "function": "通过自责来维持控制感与道德责任感，回避对外求助与复杂因素的探讨",
+          "consequence": "持续的内疚与不足感，睡眠与饮食受影响，家庭关系紧张，情绪压力加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1644
+}

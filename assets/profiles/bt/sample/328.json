@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "王博",
+      "gender": "男",
+      "occupation": "准创业者",
+      "educational_background": "本科商业学位",
+      "marital_status": "未婚",
+      "family_status": "与朋友和家人关系良好，喜欢与他们相处",
+      "social_status": "维持健康的人际关系，社交支持良好",
+      "medical_history": "未曾接受心理治疗或面对类似问题；无重大躯体疾病",
+      "language_features": "表达清晰，能描述情绪与想法；配合度高；能进行自我反思；态度积极"
+    },
+    "main_problem": "我在为新业务取名方面遇到困难，这引发了挫败感和自我怀疑。",
+    "topic": "职业发展",
+    "core_demands": "由于命名问题导致创业无法推进，这是此时寻求咨询的重要原因。",
+    "growth_experiences": [
+      "完成商业本科学位，过程中付出大量努力并坚持不懈，积累了挑战下的成功经验。",
+      "大学毕业后刚开始工作时曾感到不堪重负，但随着时间推移不断学习与成长，最终胜任岗位。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不适合成为创业者",
+        "我本质上不够胜任，可能是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "为新业务进行命名时迟迟没有满意的名字",
+          "conditional_assumptions": "如果连名字都想不出来，就说明我不适合创业",
+          "compensatory_strategies": "用“应该”自我施压，考虑放弃以减少挫败感",
+          "automatic_thoughts": "我应该就此放弃梦想，我显然不适合做这个。",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "每天在处理与业务相关的任务时，命名问题反复出现",
+          "conditional_assumptions": "如果这一环节卡住，我在更复杂的创业问题上也必然失败",
+          "compensatory_strategies": "降低推进速度、回避更复杂任务，反复琢磨名字以求一次性达成“完美”",
+          "automatic_thoughts": "如果连名字都搞不定，更大的问题我更处理不了。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾以往完成学位、工作表现良好等积极经历时",
+          "conditional_assumptions": "过去的成功不代表现在的能力，这次必须完美，否则等于失败",
+          "compensatory_strategies": "否定或忽略积极证据，继续聚焦当前困难",
+          "automatic_thoughts": "过去的成功在现在毫无意义。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "面对命名任务时，将结果二元化为“完美或失败”",
+          "conditional_assumptions": "只有一次就命中完美名字才算合格，否则就是失败者",
+          "compensatory_strategies": "不断打磨名字、迟迟不做其他推进，以求一次达成“完美”",
+          "automatic_thoughts": "如果现在不能给出完美名字，我就是失败者。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望实现创业梦想并被视为有能力、能胜任挑战",
+        "fear": "害怕失败与被否定，害怕暴露“无能”并因此梦想破灭",
+        "defense_goal": [
+          "通过早期放弃或缩减投入来规避更大失败与羞辱",
+          "以理性辩解维持自我控制并降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、易失败的准创业者",
+          "object_representation": "苛刻的评判者/完美标准（内在化的“必须要一次成功”的规则）",
+          "linking_affect": "挫败、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及当前困难与能力证据，或在业务命名任务上卡住时",
+          "interpretation": "将单一环节的卡顿理解为整体不胜任（把当前困难等同于全面失败）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平稳、理性的解释语气坚持“因为没起名所以不适合创业”的推论，淡化积极证据；当被挑战时重复理由、以逻辑辩解避免表达情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在命名卡壳后以“应该放弃”的方式规避选择与承担的压力",
+            "将一次任务的结果视为对整体命运的决定性评判"
+          ],
+          "outcomes": [
+            "自我怀疑增加",
+            "创业推进受阻",
+            "挫败感与压力上升"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "过往成功（完成学位、工作胜任）被其视为“现在毫无意义”",
+            "对自身能力与梦想的价值感下降"
+          ],
+          "outcomes": [
+            "负性自动思维增强",
+            "动力下降、行动停滞",
+            "自信心受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该……”的句式（如“我应该放弃我的梦想”）",
+            "将“必须一次成功”的完美标准内化为自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "给自己贴上“失败者”的标签",
+            "过度在意是否“配得上”成为创业者，持续自我怀疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在处理与创业相关任务（尤其是为业务命名）时，王博通常会陷入自我怀疑并停滞，导致推进困难。",
+          "unique_outcome": "在大学毕业后刚入职的阶段，尽管一开始感到不堪重负，王博没有像以往那样停滞，而是持续学习与适应，最终胜任工作。",
+          "reason": "不同做法：持续学习与适应新要求；不同理解：将挑战视为可逐步掌握的任务；不同节奏：给自己时间逐步成长。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "完成商业本科学位，证明具备坚持与能力",
+          "曾在工作初期由不适应到胜任，具备学习与成长的经验",
+          "拥有支持性的朋友与家人",
+          "愿意尝试新方法与工具，态度积极",
+          "能识别并讨论负性思维（自我反思能力）"
+        ],
+        "negative_force": [
+          "非黑即白思维将单一任务等同整体成败",
+          "“应该”句式自我施压导致放弃念头",
+          "过度概括未来困难（预测更大失败）",
+          "心理过滤/否定积极证据（过去成功被视为不重要）",
+          "每日负性自动思维强化自我怀疑与行动停滞"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在业务命名任务上出现强烈自我怀疑与放弃念头，导致行动停滞",
+          "antecedent": [
+            "进行与业务相关的工作时",
+            "为新业务头脑风暴名称未找到满意选项",
+            "想到未来更复杂的创业问题"
+          ],
+          "core_reason": "将命名这一单一任务作为整体能力的决定性证明，形成非黑即白的评价并灾难化未来难题。",
+          "function": "逃避不受欢迎的情绪（挫败、焦虑），以回避方式获得短期情绪缓解与表面控制感",
+          "consequence": "创业推进受阻，持续挫败与自我怀疑，每日负性思维循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 328
+}

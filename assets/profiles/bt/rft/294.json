@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "76",
+      "name": "梁淑芳",
+      "gender": "女",
+      "occupation": "英语文学家教",
+      "educational_background": "英语文学硕士",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与同事关系因频繁寻求对编织的认可而紧张；有几位密友但未与其讨论自卑感受",
+      "medical_history": "此前未出现类似的自卑感；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性较好；态度消极、强烈自我批评；愿意尝试但持怀疑态度；倾向寻求他人认可；对将个人问题与他人讨论感到尴尬而回避"
+    },
+    "main_problem": "因为在一次编织比赛中未获得第一名，持续感到自己是“糟糕的编织者”，引发显著的自卑与自我批评，影响工作专注、人际关系与日常自我照顾。",
+    "topic": "情绪管理",
+    "core_demands": "“我只想感觉自己是有能力的而不是一个彻底的失败者。我想重新享受编织，不让这些负面想法压过一切。”；“这类不足感影响了我的自尊与整体幸福感，因此寻求咨询。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（在编织方面）",
+        "我的价值取决于是否赢得第一名"
+      ],
+      "special_situations": [
+        {
+          "event": "编织比赛结果公布，未获得第一名",
+          "conditional_assumptions": "如果没有拿到第一名，就说明我的编织很糟、我不够好",
+          "compensatory_strategies": "给自己施加很大压力去表现、加倍练习提高技巧",
+          "automatic_thoughts": "我真是个糟糕的编织者/我失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每次拿起编织针或想到这次比赛",
+          "conditional_assumptions": "如果再次编织，就会再次失败，证明我不行",
+          "compensatory_strategies": "过度自我批评、避免与密友讨论以防尴尬",
+          "automatic_thoughts": "这次也会很糟糕，我会再次失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事互动时频繁寻求对编织的认可，关系因此紧张",
+          "conditional_assumptions": "他人的评价决定我的能力与价值；如果他们不认可，我就不够好",
+          "compensatory_strategies": "不断向同事寻求外部认可、回避独立评估",
+          "automatic_thoughts": "他们觉得我的编织不够好/看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在未获第一名后回想投入的时间与精力",
+          "conditional_assumptions": "如果努力没有换来第一名，所有付出都不算数",
+          "compensatory_strategies": "否定自己的进步与长处",
+          "automatic_thoughts": "我的努力都白费了，什么都不算",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力并获得认可（尤其在编织方面）",
+        "fear": "害怕失败与被否定，导致自我价值崩塌与羞耻",
+        "defense_goal": [
+          "以高标准与自我监控来避免失败",
+          "通过寻求外部认可来缓解不安",
+          "避免与朋友讨论以防尴尬和羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自我",
+          "object_representation": "挑剔、评判性的他者（同事/评委）",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "尴尬而脆弱的分享者",
+          "object_representation": "会轻视自己问题、认为琐碎的他人",
+          "linking_affect": "尴尬、羞耻、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其探索并重构“必须赢”的僵化信念、或设定更现实的目标时",
+          "interpretation": "认为这些负面想法“很真实、很难改变”，对改变持怀疑态度",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以温和而稳定的语气，承认其感受的真实，同时将体验与事实区分；使用具体例证引导其进行小步实验，避免对抗式说服。"
+        },
+        {
+          "trigger_condition": "当被询问是否与密友分享这些不足与羞耻感受时",
+          "interpretation": "认为编织问题“太琐碎，不值得谈”，从而回避分享",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用正常化与去污名的语气，强调问题对其福祉的影响；以开放式问题邀请其回忆分享后可能获得的支持，鼓励尝试有限度的自我披露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "未获第一名后感到“投入都白费”",
+            "将编织与他人更严重问题比较，认为自己的困扰“很琐碎”",
+            "自我价值过度依赖外界评判（比赛结果、同事认可）"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "持续自我批评与失败感",
+            "工作专注下降",
+            "同事关系紧张",
+            "日常自我照顾受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“必须赢得第一名”这类僵化规则自我束缚",
+            "高期望与高压力下失去选择的弹性"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "完美主义压力",
+            "难以享受编织过程"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须赢得第一名才算好”的规则评判自己",
+            "将比赛结果当作能力与价值的唯一标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自我批评与怀疑能力",
+            "不敢与密友讨论，过度谨慎地管理自我暴露"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "以“编织问题很琐碎”为由回避与他人谈论真实感受",
+            "在谈到失败情绪时转向解释比赛环境/评委口味"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对编织投入时间与精力，具备学习与改进的动机",
+          "能够清晰表达自身想法与感受",
+          "愿意尝试以小步目标进行改变",
+          "有几位密友可潜在提供支持"
+        ],
+        "negative_force": [
+          "非黑即白的自我评价与完美主义规则",
+          "过度依赖外部认可（External Validation）",
+          "灾难化与否定积极面",
+          "强烈自我批评导致自尊受损与回避分享"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的自我批评与失败感（围绕编织表现）",
+          "antecedent": [
+            "看到或拿起编织针",
+            "想到编织比赛及其结果",
+            "与同事互动、寻求对编织的认可时"
+          ],
+          "core_reason": "将比赛结果与自我价值等同，形成非黑即白与灾难化的认知，进而引发自我否定与羞耻",
+          "function": "逃避失败与羞耻感、寻求外部认可以短暂缓解不安",
+          "consequence": "工作专注下降、同事关系紧张、日常自我照顾受影响，自尊进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 294
+}

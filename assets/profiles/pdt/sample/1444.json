@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "医学生",
+      "educational_background": "医学院二年级在读",
+      "marital_status": "离异",
+      "family_status": "有两个孩子；母亲以烘焙手艺闻名，关系支持性",
+      "social_status": "有支持性的母亲与朋友，但未与其分享自我怀疑；与同事的关系因自我批评而受影响",
+      "medical_history": "无显著躯体疾病；无既往相似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性好；语气偏消极、常自我贬低；频繁与他人比较；能配合探索；对改变持怀疑态度"
+    },
+    "main_problem": "我认为自己之所以在医学院二年级，是因为我不够聪明，无法在一年内完成学业，这导致了自我怀疑与自卑感。",
+    "topic": "学业压力",
+    "core_demands": "希望提高对自己能力的信心，停止觉得自己不如他人，能够在没有持续自我怀疑的情况下专注学习；因为这些想法影响了学业表现与总体幸福感而寻求帮助。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明",
+        "我的价值取决于成绩和进度"
+      ],
+      "special_situations": [
+        {
+          "event": "在考试期间或当他人公布学业成绩时",
+          "conditional_assumptions": "如果我不能拿到高分或进度更快，就证明我能力不足",
+          "compensatory_strategies": "与他人比较、贬低自己的成绩、对自己提出更高且僵化的要求",
+          "automatic_thoughts": "我不是学医的料；我不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当同侪宣布高分或显得学业进度更快时",
+          "conditional_assumptions": "如果别人表现更好，就说明我很差、我落后",
+          "compensatory_strategies": "减少与同侪的积极互动、回避向支持者求助以免显得软弱",
+          "automatic_thoughts": "大家都比我快、比我聪明；我落后了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在实验课中获得教授称赞或在某些考试中发挥良好",
+          "conditional_assumptions": "如果不是完美或顶尖，就不算真正的能力",
+          "compensatory_strategies": "将成功归因于运气或低标准，刻意忽略积极证据",
+          "automatic_thoughts": "这不算数；我只是勉强过关",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "意识到自己处于医学院二年级（非更快完成）",
+          "conditional_assumptions": "如果没能在一年内完成，就证明我不够聪明、不配",
+          "compensatory_strategies": "用自我标签化来解释现状、继续抬高标准以逼迫自己",
+          "automatic_thoughts": "我之所以在二年级，是因为我不够聪明",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳为有能力、值得尊重的专业人士",
+        "fear": "害怕被比较与被评判为不够好，从而被否定或排斥",
+        "defense_goal": [
+          "通过自我批评与降低期待来避免外界的打击",
+          "隐藏脆弱（不向亲友倾诉）以防被视为软弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、落后的学生",
+          "object_representation": "更优秀且带有评判性的同侪或权威",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师关注其成就、邀请其识别优势或给予正向反馈时",
+          "interpretation": "认为正向反馈“不算数”或担心被期待、被揭穿“其实不够好”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和并验证感受，避免对抗式说服；采用开放式提问与具体化技术，邀请举例其实际成就与证据；慢速、留白，帮助其停留在被肯定的体验。"
+        },
+        {
+          "trigger_condition": "当谈到是否向母亲或朋友表达自我怀疑、寻求支持",
+          "interpretation": "表达脆弱会被视为软弱、可能被看低或拒绝",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "保持共情与安全氛围，使用温和邀请式语言；允许其按可承受的节奏分享，强调选择权与自我主导。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值与成绩和学习进度完全等同",
+            "在取得成绩或被称赞时仍觉得“不算数”",
+            "持续与他人比较，贬低自身意义"
+          ],
+          "outcomes": [
+            "持续的自我怀疑与自卑",
+            "注意力下降、学习效率受损",
+            "睡眠紊乱",
+            "与同侪关系受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持系统（母亲与朋友）但未分享真实感受",
+            "担心显得软弱而回避求助"
+          ],
+          "outcomes": [
+            "主观支持感降低、情绪负担加重",
+            "负性信念获得强化，恶化自我评价"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "把“必须更快完成、必须拿高分才算好”的他人标准内化为唯一评判自身价值的准绳",
+            "以进度与分数作为自我价值的绝对依据"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制冲动或不再向外寻求帮助。",
+          "manifestations": [
+            "明知有支持性母亲与朋友，仍选择不表达、不求助",
+            "在自我怀疑时“忍着”，把批评与压力转向自我"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "持续自我批评、担心显得软弱",
+            "对正向反馈保持怀疑、难以接纳"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在考试或同侪成绩公布等情境下，来访者通常会进行自我否定与比较，导致自卑与专注力下降。",
+          "unique_outcome": "在某些考试与实操中取得了良好表现，并在实验课中获得教授称赞；当时能够更投入完成任务，结果较以往更好。",
+          "reason": "线索：获得教授的正向反馈（不同支持）；实验技能情境更匹配其优势（不同情境），因此自信与投入度相对提升。"
+        },
+        {
+          "target_problem": "在面对学业压力与与人比较时，来访者通常会忽视自身优点、否定积极证据。",
+          "unique_outcome": "曾尝试关注自己的优势与成就，并能列举出被教授称赞的具体经历，相较平时完全否定自我有所松动。",
+          "reason": "线索：刻意思考并回忆成功经验（不同做法），使积极证据更为可见。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的母亲与朋友",
+          "在实验与部分考试中的正向表现与教授称赞",
+          "愿意求助并开始咨询、愿意尝试小目标",
+          "能识别部分消极思维模式"
+        ],
+        "negative_force": [
+          "频繁比较与自我贬低",
+          "非黑即白思维、过度概括",
+          "否定正面证据",
+          "对脆弱与求助的回避（担心被视为软弱）",
+          "睡眠紊乱与专注受损放大负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的自我怀疑与消极自我对话（自我贬低）",
+          "antecedent": [
+            "临近或进行考试时",
+            "听到同侪公布高分或更快进度时",
+            "想到自己处于二年级时"
+          ],
+          "core_reason": "将自我价值与成绩/进度强绑定，内在核心信念为“我不够聪明”；长期与他人比较强化负性评价",
+          "function": "短期获得控制感并降低外界期待，回避不确定性与被评判的焦虑",
+          "consequence": "学业表现与自信受损、注意力下降、睡眠紊乱、与同侪关系受影响"
+        },
+        {
+          "behavior": "回避寻求社会支持（不向母亲与朋友表达困扰）",
+          "antecedent": [
+            "出现强烈自我怀疑或自卑时",
+            "与同侪比较后情绪低落时"
+          ],
+          "core_reason": "担心被视为软弱或被评判，产生羞耻感",
+          "function": "逃避潜在的否定与羞耻体验，短期维持自我保护感",
+          "consequence": "主观支持感降低、情绪负担累积、负性信念被维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1444
+}

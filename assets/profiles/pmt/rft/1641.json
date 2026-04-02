@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "林博文",
+      "gender": "男",
+      "occupation": "医院工作人员",
+      "educational_background": "社区大学在读学生（小型社区学院）",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与同学社交回避；有一位亲密朋友可倾诉，但尚未充分分享自我怀疑",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；无类似问题既往史",
+      "language_features": "负性自评明显，使用绝对化表述（如“永远”“从不”）；能配合咨询、表达清晰，但长期焦虑与自我怀疑影响专注。语速、音量等未提及"
+    },
+    "main_problem": "因自己就读社区大学而认为不如他人聪明，长期感到自卑与自我怀疑。",
+    "topic": "学业压力",
+    "core_demands": "这些想法正在影响我的自尊和学业表现，并导致压力与焦虑增加，我因此寻求咨询。",
+    "growth_experiences": [
+      "两年前未被四年制大学录取，选择就读社区大学。自入学起开始形成“自己不够聪明、不如他人”的信念；每逢考试和讨论未来职业规划时加重；看到同龄人在名校表现优异时进一步强化该信念。为应对，曾尝试关注社区大学的积极方面，但自卑与自我怀疑仍持续。",
+      "近期在医院开始一份新工作。自收到录用通知后由兴奋转为强烈怀疑与焦虑，在需要做汇报或承担新项目时尤为明显；会想象同事在窃窃私语、认为自己“不胜任、不该被雇用”，导致注意力下降、错误增多，并在工作与生活中持续紧张、睡眠差。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明",
+        "我不胜任/不如他人"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同龄人就读或在名校表现优异",
+          "conditional_assumptions": "如果我没有进入或匹配名校水平，就说明我不聪明、不如人",
+          "compensatory_strategies": "回避与同学社交；尝试通过关注社区大学的积极面来自我安抚",
+          "automatic_thoughts": "我不如他们，我就是笨的",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "参加考试或面对学业评估",
+          "conditional_assumptions": "如果我不能考得很好或立刻掌握，就证明我很笨、注定失败",
+          "compensatory_strategies": "强迫自己进行正向自我对话以缓解焦虑，但效果有限；自我加压",
+          "automatic_thoughts": "我肯定会失败/我可能永远都搞不懂",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与他人讨论未来职业规划",
+          "conditional_assumptions": "成功的唯一标准是就读四年制名校；若未达到，就不配谈未来、我是失败者",
+          "compensatory_strategies": "回避讨论未来计划以避免被评价",
+          "automatic_thoughts": "我应该上四年制大学，否则我就是失败者",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在新工作中需要做演示或承担新项目",
+          "conditional_assumptions": "如果我表现不完美，别人就会看出我不胜任并否定我",
+          "compensatory_strategies": "减少与同事的交流与求助；不向朋友透露工作困扰以避免显得软弱",
+          "automatic_thoughts": "他们会看穿我不行；他们在背后议论我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、被接纳",
+        "fear": "害怕被评判为愚蠢或不胜任、被羞辱与拒绝",
+        "defense_goal": [
+          "通过回避社交与减少自我暴露来避免他人评判",
+          "用自我批评与绝对化标准压制期待，以减少失望感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自视为不够聪明、容易被看不起的自卑者",
+          "object_representation": "他人被体验为挑剔、评判性的旁观者（同学、同事）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人关注其能力表现、提出质询或建议时",
+          "interpretation": "潜意识将对方体验为会像同事/同学一样评判自己；沉默或建议被理解为否定",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不被接纳的感受与不安归咎于他人，认为他人在评判或否定自己",
+          "response_instruction": "语言上保持含糊、减少细节披露，语气谨慎，避免承诺；如被追问，通过强调“现实”“不要过度乐观”来回避情感表达。"
+        },
+        {
+          "trigger_condition": "在考试、演示或新项目等高评价情境中",
+          "interpretation": "相信一旦表现不完美就会被揭露不胜任并遭到否定",
+          "defense_mechanism": "sring",
+          "defense_definition": "将本应指向外界的愤怒或紧张转向自己，表现为自我批评、内疚与自我贬低",
+          "response_instruction": "自我指责、使用绝对化用语（如“永远/注定”），降低主动表达与求助，语气自我否定。"
+        },
+        {
+          "trigger_condition": "当被邀请将“规则”转为“愿望”、进行认知重构时",
+          "interpretation": "把灵活的观点视为不现实，认为放下严苛规则会“自欺”",
+          "defense_mechanism": "sring",
+          "defense_definition": "以抽象、理性的思考方式来避免情感卷入与焦虑",
+          "response_instruction": "强调“现实”“不想过度乐观”，用分析性的语气讨论，而回避情绪感受与脆弱表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将就读四年制名校视为成功与价值的唯一标准",
+            "在与他人讨论未来职业规划时感到迷茫与自我否定"
+          ],
+          "outcomes": [
+            "自尊低下",
+            "焦虑加重",
+            "学业与工作表现下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避与同学社交",
+            "不向亲密朋友分享工作中的困扰与自我怀疑"
+          ],
+          "outcomes": [
+            "社会支持减少",
+            "孤立感与焦虑维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“应该”“必须”定义自我价值（如“必须上四年制大学才算成功”）",
+            "将社会与同辈的名校标准直接当作自我衡量"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "想象同事在窃窃私语、看不起自己",
+            "在演示前预设他人会否定自己的能力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心显得软弱而不向朋友求助",
+            "过度自责、用绝对化语言否定自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有一位可倾诉的亲密朋友（潜在支持）",
+          "曾主动尝试关注社区大学的积极面与进行正向自我对话",
+          "能够识别部分自动化思维并愿意寻求咨询",
+          "在工作与学业上持续投入，具备成长意愿"
+        ],
+        "negative_force": [
+          "以他人与名校标准做比较并自我标签化",
+          "过度概括、读心术与“应该”句式等不良认知模式",
+          "依赖外部评价定义自我价值，低自尊",
+          "在被评价情境中出现强烈焦虑与社交回避，导致睡眠与饮食紊乱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避（与同学/同事减少交流、不向朋友分享困扰）",
+          "antecedent": [
+            "与同学讨论未来职业规划",
+            "在工作中需要演示或承担新项目",
+            "担心被他人评判的互动情境"
+          ],
+          "core_reason": "自我标签化（不够聪明/不胜任）与读心术（他人会看不起我）引发羞耻与恐惧",
+          "function": "逃避被评判与羞辱的可能性，暂时降低焦虑",
+          "consequence": "社会支持减少，人际关系受损，孤立与焦虑维持"
+        },
+        {
+          "behavior": "负性自动化思维的绝对化表达（如“我永远搞不懂”“注定失败”）",
+          "antecedent": [
+            "考试与学业评估",
+            "工作中新任务与汇报",
+            "看到同龄人在名校表现优异"
+          ],
+          "core_reason": "过度概括与预测未来、外部验证导向的认知偏差",
+          "function": "为可能失败做心理防御，维持控制感与预期",
+          "consequence": "注意力受损、错误增多，学业与工作表现下降，压力与焦虑加重"
+        },
+        {
+          "behavior": "睡眠与饮食紊乱",
+          "antecedent": [
+            "长期焦虑与自我怀疑",
+            "在高压力评价情境后难以放松"
+          ],
+          "core_reason": "持续应激与焦虑导致的生理与情绪激活",
+          "function": "无明确功能（压力反应），但短期内反映内在紧张",
+          "consequence": "身心状态下降，进一步影响学习与工作"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1641
+}

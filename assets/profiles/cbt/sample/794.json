@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "57",
+      "name": "林涛",
+      "gender": "男",
+      "occupation": "当地餐馆的快餐灶台厨师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有几个可以交谈的朋友，但未向他们分享自己对唱歌羞耻的感受；因回避唱歌相关的聚会与活动，社交生活受限，与朋友关系因敏感度提高而趋于紧张",
+      "medical_history": "未接受过心理治疗或相关治疗；无重大躯体疾病；无其他类似心理问题既往史",
+      "language_features": "表达清晰、配合度高、能反思自身想法并举例说明；语速未提及"
+    },
+    "main_problem": "我对自己糟糕的唱歌水平感到尴尬和不自信，尤其是在朋友拿这件事开玩笑时。",
+    "topic": "人际关系",
+    "core_demands": "关于唱歌的持续性负面想法和尴尬感开始影响我的自信与整体幸福感，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "青少年时期开始因唱歌被同伴嘲笑，最初压力水平中等，但随着时间推移在社交场合愈发突出；为避免再次尴尬和被取笑，逐渐回避唱歌或卡拉OK活动；每当朋友提及自己的唱歌，就会涌现尴尬和低自我价值感；尽管关系受影响，仍有一些朋友愿意与自己一起活动，但自己没有与他们分享这方面的感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人对我的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友聚会时，朋友拿他的唱歌开玩笑",
+          "conditional_assumptions": "如果别人取笑我的唱歌，就说明他们看不起我，我作为一个人也不被认可",
+          "compensatory_strategies": "回避与唱歌相关的话题与活动，尽量不在社交场合唱歌",
+          "automatic_thoughts": "他们真的觉得我很差劲、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "被邀请参加卡拉OK或可能需要唱歌的社交活动",
+          "conditional_assumptions": "如果我唱不好，就一定会出丑并被嘲笑",
+          "compensatory_strategies": "拒绝或回避此类邀约，减少参加聚会",
+          "automatic_thoughts": "如果我去唱歌，肯定会很尴尬、被他们笑话",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友在谈话中提到他的唱歌水平",
+          "conditional_assumptions": "唱歌不好不仅是技巧问题，也说明我这个人不够好",
+          "compensatory_strategies": "通过在线观看教程尝试改进嗓音以减少被嘲笑的风险",
+          "automatic_thoughts": "我永远都不可能唱好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友以轻松玩笑的方式评论他的唱歌",
+          "conditional_assumptions": "朋友的玩笑是在针对我这个人、是对我的否定",
+          "compensatory_strategies": "把玩笑视为攻击，增强自我防御，避免与朋友讨论此话题",
+          "automatic_thoughts": "他们是在嘲笑我这个人",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳与欣赏（包括对自身不擅长的部分仍被善意包容）",
+        "fear": "害怕被羞辱、被嘲笑与被贬低（进而被拒绝）",
+        "defense_goal": [
+          "通过回避唱歌与相关场合来维持自我保护与安全感，减少暴露弱点"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嘲笑、羞耻的被评价者",
+          "object_representation": "带有评判和嘲弄倾向的同伴",
+          "linking_affect": "尴尬、羞耻、低自我价值感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为避免尴尬与被嘲笑而回避唱歌相关的聚会和活动",
+            "未与朋友分享自己的羞耻与困扰，选择独自承受"
+          ],
+          "outcomes": [
+            "社交疏离与孤独感增加",
+            "自尊受损、低自我价值感",
+            "与朋友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有若干愿意与其相处的朋友（被邀请一起活动）",
+          "主动尝试通过网络教程提升唱歌能力（自助行为）",
+          "工作功能稳定，工作表现未受影响"
+        ],
+        "negative_force": [
+          "过度在意他人评价并产生读心与个人化的负性思维模式",
+          "在与唱歌相关的社交场合中回避与退缩，导致社交机会减少",
+          "一提及唱歌便产生尴尬与低自我价值感，削弱信心"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避唱歌及卡拉OK等需要唱歌的社交活动",
+          "antecedent": [
+            "朋友开玩笑评论其唱歌",
+            "被邀请参加卡拉OK或可能需要唱歌的聚会",
+            "聚会中出现与唱歌相关的话题"
+          ],
+          "core_reason": "青少年时期被嘲笑的经历内化为负性自动思维（如“他们看不起我”“我永远唱不好”），为避免再次尴尬与被贬低，形成回避模式",
+          "function": "逃避羞耻与负面评价，维持短期的安全与舒适",
+          "consequence": "社交生活受限、感到孤独，与朋友关系紧张，整体自信与幸福感下降"
+        },
+        {
+          "behavior": "在朋友玩笑出现时强烈尴尬与自我贬低（情绪与认知反应）",
+          "antecedent": [
+            "朋友在谈话或聚会中拿其唱歌开玩笑",
+            "他人提及其唱歌水平"
+          ],
+          "core_reason": "读心与个人化的认知偏差导致将轻松玩笑视为对自我价值的否定",
+          "function": "通过自我防御（内在收缩与不参与）来减少被伤害的感受",
+          "consequence": "自尊受损、信心下降，进一步加剧回避与社交疏离"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 794
+}

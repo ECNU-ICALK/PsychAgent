@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "李珊",
+      "gender": "女",
+      "occupation": "厨师（烘焙方向）",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与同事的关系因其在失误后持续自我批评而趋于紧张；有少数亲密朋友可谈心，但尚未向他们分享此具体问题",
+      "medical_history": "无显著躯体疾病；无既往心理问题的治疗或咨询经历；此前未出现类似心理困扰",
+      "language_features": "表达清晰、逻辑性较强，能识别并描述自身的思维模式；合作度较高；情绪略显焦虑；倾向自我批评和全或无的语言"
+    },
+    "main_problem": "我在烘焙技能方面尤其挣扎于失败感和无能感。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到消极的自我认知正在影响我对烘焙的享受，想在问题进一步升级前加以解决。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "为义卖在一晚烤了15批曲奇，其中一批稍微焦了",
+          "conditional_assumptions": "只要出现任何错误，就说明我不称职/失败；必须在烘焙上始终完美才算合格",
+          "compensatory_strategies": "加倍练习并寻求他人认可，过度关注并挑出错误以避免再次失败",
+          "automatic_thoughts": "我居然把这也搞砸了，我是个烘焙上的失败者",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "为一个特别活动研发新甜点时失败，没有按计划呈现",
+          "conditional_assumptions": "在重要场合必须完美呈现，否则就证明我整体能力不足",
+          "compensatory_strategies": "事后反复回放并苛责自己，减少尝试新事物以降低再失败的可能",
+          "automatic_thoughts": "我不够好，我不适合当厨师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上周制作羊角面包时未能正常发酵",
+          "conditional_assumptions": "只要有一次没做成功，就说明我完全不行",
+          "compensatory_strategies": "向同事寻求认可以获得短暂安慰，同时自我否定以“督促”改进",
+          "automatic_thoughts": "又失败了，我的所有技能都不值得信任",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到是否将此困扰告诉亲密朋友时，预感他们不会理解",
+          "conditional_assumptions": "如果别人不能完全理解我的失误与感受，就会否定我",
+          "compensatory_strategies": "回避向朋友分享具体问题，减少外界反馈以保护自尊",
+          "automatic_thoughts": "他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，尤其作为一名优秀的烘焙师",
+        "fear": "害怕失败后被他人贬低或拒绝，担心失去价值感",
+        "defense_goal": [
+          "通过严苛自我监控与自我批评来防止错误，以维持可控与被认可的感觉"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、随时会失败的自我",
+          "object_representation": "苛刻、随时准备评价与否定的他人（同事/顾客/大众）",
+          "linking_affect": "羞愧、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当烘焙出现失误或不完美、或预期他人会注意到错误时",
+          "interpretation": "他人会看不起我，我必须“惩罚”自己以证明我在改正",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责和贬低自我的语气（如“我就是不行”），回避他人安慰，强调错误细节以证明自己有错。"
+        },
+        {
+          "trigger_condition": "在讨论或回忆失败细节时，情绪高涨但需要继续工作/交流",
+          "interpretation": "如果投入情绪会失控，因此需要以纯技术和标准来掌控局面",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用冷静、技术性语言罗列步骤与标准，避免情绪词汇；使用“应该/必须”句式，降低情感表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "消极自我认知使烘焙变得缺乏乐趣，过程被错误与完美标准主导",
+            "频繁将失败等同自我价值降低，体验层面与自我不一致"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "动机下降",
+            "回避尝试新事物"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在失误后过度自我批评与贴标签（如“我是失败者”）",
+            "小心翼翼地回避与朋友分享真实困扰",
+            "用“应该/必须”定义自我与工作标准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友“不会理解我”，预设他人对自己的负面看法",
+            "在同事关系中预期他人会苛刻评价，从而紧张防御"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备专业烘焙训练与技能基础（烹饪学校毕业）",
+          "愿意寻求帮助并与咨询师合作，能识别并命名负性思维模式",
+          "拥有少数亲密朋友的潜在支持网络"
+        ],
+        "negative_force": [
+          "完美主义与外部压力导致将错误等同整体失败",
+          "依赖外部认可以维持自我价值（寻求验证但效果短暂）",
+          "全或无思维、过度概括与心理过滤，持续忽视积极面",
+          "自我标签化与自我批评倾向，损害情绪与关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自我批评与负性自我标签（如“我是失败者”）",
+          "antecedent": [
+            "当烘焙出现失误或不够完美时",
+            "面临重要活动或高标准压力时"
+          ],
+          "core_reason": "在高压追求完美的情境下，将一次或少量错误泛化为整体能力不足，并以全或无的框架进行自我评价",
+          "function": "通过自责获得短期的控制感与“自我纠错”的感觉，同时回避面对外界评价",
+          "consequence": "情绪低落、工作表现下降、与同事关系紧张、对烘焙的乐趣减少"
+        },
+        {
+          "behavior": "回避尝试新配方或挑战性任务",
+          "antecedent": [
+            "在近期经历失败或预期可能失败时",
+            "面临高风险或高曝光度的烘焙任务"
+          ],
+          "core_reason": "害怕失败后被他人否定，将一次失误视为能力的全盘否定",
+          "function": "逃避潜在失败与负面评价，维持短期安全感",
+          "consequence": "创意与专业成长受限，动机下降，工作满足感降低"
+        },
+        {
+          "behavior": "频繁寻求外部验证以缓解自我怀疑",
+          "antecedent": [
+            "在烘焙任务中感到不确定或出现小失误后",
+            "情绪低落、焦虑时"
+          ],
+          "core_reason": "自我价值高度依赖他人认可，对自我评估缺乏稳定性",
+          "function": "短期获得安慰与认可以降低焦虑",
+          "consequence": "对外部反馈产生依赖，难以建立内在自信与稳定的自我评价"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1918
+}

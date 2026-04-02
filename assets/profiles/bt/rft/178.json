@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "周晟",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "已婚，有两个孩子",
+      "social_status": "有配偶与亲密朋友的支持网络，但因害怕被评判而较少分享内疚与自责感受，人际关系因自责而紧张",
+      "medical_history": "使用轮椅行动；无其他重大躯体疾病；既往无相似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较好、配合度高，能够描述自动化思维与身体反应；倾向过度思考与自责，言语中出现“我应该……”的自我苛责句式"
+    },
+    "main_problem": "我经常觉得别人在怪我，即使没有证据，这导致我产生内疚和自责。问题在过去几个月更为强烈，几乎每天都出现，尤其在与人互动后事情出错时更明显。",
+    "topic": "情绪管理",
+    "core_demands": "这些内疚和自责影响了我的关系和情绪健康，我想处理并克服这些模式；我真的想找到一种办法，停止这种持续的内疚感。",
+    "growth_experiences": [
+      "成长过程中，家人经常批评来访者；当事情出了差错时，即便是间接的也常被归因到来访者身上。长期处于被批评与被归责的氛围，使其逐渐内化为遇事先自责、承担过多责任的倾向。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "都是我的错",
+        "我会被责备"
+      ],
+      "special_situations": [
+        {
+          "event": "工作中项目时间线出现问题，尚未讨论责任归属时",
+          "conditional_assumptions": "只要发生差错，别人就会把责任归到我身上；我必须立刻道歉并补救才能避免更糟的评价",
+          "compensatory_strategies": "抢先道歉、迅速加班修复、主动揽责",
+          "automatic_thoughts": "他们肯定在怪我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "家庭出游因安排或天气不顺利而发生问题（该行程由自己提议）",
+          "conditional_assumptions": "如果我提出的计划不完美或出意外，就是我的错；一个好伴侣/家人应该预见并避免所有问题",
+          "compensatory_strategies": "反复道歉与自责、过度解释、回避以后再提出建议",
+          "automatic_thoughts": "大家一定觉得是我搞砸的；我应该更懂得避免这种情况。",
+          "cognitive_pattern": "Should\" Statements"
+        },
+        {
+          "event": "团队没有达成目标（如“我们没有赢”）",
+          "conditional_assumptions": "团队失败意味着我失败且要承担主要责任，否则他人会怪我",
+          "compensatory_strategies": "把失败归到自己身上、加倍努力以补偿并防止被责备",
+          "automatic_thoughts": "我们没赢，他们一定怪我。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "社交场合中一旦出现任何小差错，周围的人保持沉默或未明确表态",
+          "conditional_assumptions": "沉默就是不满或责备；只有先道歉才能维持关系的安全",
+          "compensatory_strategies": "立即道歉、紧张退缩、减少表达以避免再次被评判",
+          "automatic_thoughts": "他们对我失望，心里一定在责怪我。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，不再被指责；希望关系中获得安全与肯定",
+        "fear": "害怕被责备、被评判与被拒绝，担心因失败而被否定",
+        "defense_goal": [
+          "通过先行自责与道歉来安抚他人、避免冲突与被攻击",
+          "撤退与回避以降低被评判的风险",
+          "把责任内归因以保持对局面的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有过错、需要为问题承担责任的人",
+          "object_representation": "苛责、随时准备把责任归到自己身上的他人（家人/同事）",
+          "linking_affect": "内疚、羞耻、焦虑"
+        },
+        {
+          "self_representation": "令伴侣失望和增添负担的人",
+          "object_representation": "对自己不满、易被自己拖累的伴侣",
+          "linking_affect": "内疚、担忧冲突"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕被评判而不敢向配偶与亲密朋友分享真实困扰",
+            "在他人沉默或事情出错时感到被孤立、被责备"
+          ],
+          "outcomes": [
+            "持续的内疚与焦虑",
+            "关系紧张与退缩",
+            "自我照料下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被评判而减少向重要他人求助",
+            "反复自责与“我应该……”的自我要求",
+            "在互动出错时立刻收缩边界、谨小慎微"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在没有证据时假设他人责怪自己（读心式归因）",
+            "将内在的自责体验投射为他人的不满或否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有配偶与亲密朋友的支持网络",
+          "愿意求助并配合治疗，动机明确",
+          "具备一定的自我观察能力（能记录并识别自动化思维与身体反应）",
+          "能接受并尝试新的认知重构与行为实验"
+        ],
+        "negative_force": [
+          "长期内化的自责与揽责模式（源自家庭批评与归责经历）",
+          "读心术、过度归因、灾难化与“应该”句式等认知偏差",
+          "害怕被评判，导致回避分享与寻求支持",
+          "过度道歉与撤退强化焦虑与内疚，维持问题循环",
+          "持续性内疚影响工作表现与自我照料"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在他人面前出现问题时立即自责并过度道歉/撤退，伴随显著焦虑反应（心跳加快、胃部紧绷）",
+          "antecedent": [
+            "工作中项目时间线出错",
+            "家庭活动不顺利（由自己提出建议）",
+            "团队未达成目标",
+            "社交互动中出现小差错或他人沉默未表态"
+          ],
+          "core_reason": "早期在家庭中频繁被批评与间接归责，形成“都是我的错”“我会被责备”的核心信念，并在现实中以读心术、个人化和‘应该’句式等认知偏差维持",
+          "function": "逃避被批评与冲突、寻求他人认可与关系安全感，获得短期的焦虑缓解与控制感",
+          "consequence": "人际关系紧张、工作表现受影响、日常自我照料下降，内疚与焦虑在长期被维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 178
+}

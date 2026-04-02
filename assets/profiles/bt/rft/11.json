@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "60",
+      "name": "王菲娜",
+      "gender": "女性",
+      "occupation": "市场营销从业者",
+      "educational_background": "市场营销学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居；父母已退休，居住在外地",
+      "social_status": "与朋友关系因压力而有所紧张、减少社交；同时拥有支持性的朋友与同事，可在遇到困难时交流",
+      "medical_history": "无重大躯体疾病；过往未出现类似心理问题，未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较强、配合度高，态度积极并愿意尝试新方法"
+    },
+    "main_problem": "因工作量大而感到不堪重负与压力，影响到从事并享受个人爱好。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询是因为这种压力显著影响了我的心理健康和对生活的整体享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任，若达不到高标准就会被否定",
+        "只有持续高效并满足所有期望，我才是有价值的"
+      ],
+      "special_situations": [
+        {
+          "event": "工作量显著增加，需要同时处理多个项目并面对紧迫的截止日期",
+          "conditional_assumptions": "如果不能同时高质量且按时完成所有任务，就说明我不胜任并会被批评",
+          "compensatory_strategies": "加班与自我施压，牺牲兴趣爱好以投入工作",
+          "automatic_thoughts": "我根本完不成所有工作，也没有时间做爱好。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "繁忙工作周开始时，日程被会议与任务排满",
+          "conditional_assumptions": "如果没有整块自由时间，就意味着无法兼顾工作与生活",
+          "compensatory_strategies": "提前放弃社交和兴趣活动以避免“失控”",
+          "automatic_thoughts": "这周一定没有任何空闲，什么爱好都做不了。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "完成项目并收到总体正面反馈",
+          "conditional_assumptions": "只要反馈里有改进意见，就说明整体表现并不佳",
+          "compensatory_strategies": "反复关注不足之处、忽视正面信息",
+          "automatic_thoughts": "即使有表扬，也说明我还有很多问题。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "自从六个月前工作量增加后对未来工作的预期",
+          "conditional_assumptions": "如果当前很忙，未来也会一直这样，生活很难恢复平衡",
+          "compensatory_strategies": "持续担忧、难以放松，减少投入爱好的尝试",
+          "automatic_thoughts": "以后都会这么忙，我再也很难好好享受生活。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并保持对工作与生活的掌控感",
+        "fear": "害怕失败与被批评、被认为不胜任",
+        "defense_goal": [
+          "通过维持高标准与自我苛责来预防失败与批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "努力但随时可能被否定的执行者",
+          "object_representation": "挑剔且高标准的评判者/上级",
+          "linking_affect": "焦虑、压力"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "工作占据生活节奏，主观上感到时间被工作束缚，难以选择将时间投入于爱好与社交"
+          ],
+          "outcomes": [
+            "焦虑与压迫感上升",
+            "对生活掌控感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "享受生活与爱好的能力下降，社交活动减少"
+          ],
+          "outcomes": [
+            "生活满意度下降",
+            "动力与兴趣减退"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多数情况下能按时完成任务并获得积极反馈的能力",
+          "愿意尝试新方法（认知重构、正念等）并具备自我反思",
+          "拥有可谈心的同事与朋友支持网络"
+        ],
+        "negative_force": [
+          "倾向于预测最坏结果与过度概括的思维方式",
+          "心理过滤导致忽视积极反馈、聚焦不足",
+          "客观工作负荷高、同时处理多项目与紧迫截止期",
+          "对批评的敏感与对自我价值的外部评价依赖"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与工作相关的持续性焦虑与压力反应（紧张、担忧、难以放松）",
+          "antecedent": [
+            "繁忙工作周开始时",
+            "同时处理多项目与紧迫截止日期时",
+            "看到日程被会议与任务排满时"
+          ],
+          "core_reason": "担心无法满足高标准并被批评，将个别压力情境泛化为持续性的威胁",
+          "function": "逃避失败与被否定的潜在风险，促使过度准备与自我施压以寻求安全感",
+          "consequence": "工作专注度下降、效率受影响；爱好与社交被削减，生活满意度降低"
+        },
+        {
+          "behavior": "回避（减少社交与兴趣活动的投入）",
+          "antecedent": [
+            "预见到本周工作繁忙时",
+            "在认为没有整块自由时间时"
+          ],
+          "core_reason": "相信若不牺牲休闲就会失控或达不到标准，将放松视为风险",
+          "function": "短期降低焦虑与内疚感，保留更多时间以应对工作",
+          "consequence": "长期愉悦感与恢复力下降，社交关系紧张，进一步加重压力体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 11
+}

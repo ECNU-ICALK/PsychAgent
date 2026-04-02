@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "杰西卡",
+      "gender": "女",
+      "occupation": "大学生",
+      "educational_background": "哲学与历史学学位在读",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有一位亲密朋友可谈心，但尚未就此具体问题交流；人际关系未见明显影响",
+      "medical_history": "无重大躯体疾病；无既往心理治疗史；未出现类似心理问题的经历",
+      "language_features": "表达清晰，能具体描述情绪与经历；合作度较高，态度积极"
+    },
+    "main_problem": "我正为关于我破损眼镜的负面想法而困扰，认为修理没有意义，因为我不会喜欢任何其他眼镜。",
+    "topic": "情绪管理",
+    "core_demands": "这些关于眼镜的负面想法影响了我的日常生活与决策，我很难独自处理，因此决定寻求咨询。",
+    "growth_experiences": [
+      "约一年前，杰西卡将朋友画成“小马宝莉”角色，期待他们会喜欢并感到惊喜，但朋友的反应并不积极或兴奋。她当时感到像被重击一样的失望与尴尬，开始质疑自己的画画能力。自那以后，她在分享作品时变得焦虑，担心负面反馈，做画时会反复自我怀疑，出现“没有人会喜欢”“我不够好”等想法。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果他人不喜欢我的作品，就说明我不够好",
+        "没有其他眼镜会让我满意"
+      ],
+      "special_situations": [
+        {
+          "event": "当考虑去店里修理或更换眼镜，或谈到眼镜相关话题时",
+          "conditional_assumptions": "如果找不到与当前眼镜一样好或更好的选择，修理或更换就没有意义",
+          "compensatory_strategies": "回避行动，迟迟不去修理或试戴新镜框",
+          "automatic_thoughts": "修也没用，我不会喜欢任何其他眼镜",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "眼镜最近坏了，被迫用虎纹胶带临时固定",
+          "conditional_assumptions": "眼镜一旦坏了就意味着整体体验会变差，难以恢复到满意状态",
+          "compensatory_strategies": "聚焦在不便与挫败上，忽视可能的解决方案（如维修或更换）",
+          "automatic_thoughts": "这太糟了，换什么都不行",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到将作品分享给他人或预期他人的反馈",
+          "conditional_assumptions": "如果别人不喜欢，就证明我不够好，不值得继续创作",
+          "compensatory_strategies": "减少分享、过度自我审查、反复纠结与拖延",
+          "automatic_thoughts": "没有人会喜欢这个/我不够好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在课堂上因眼镜问题而分心",
+          "conditional_assumptions": "只要被眼镜问题分心，学习表现就会受影响且难以恢复",
+          "compensatory_strategies": "沉浸在担忧中，难以切换注意到课堂内容",
+          "automatic_thoughts": "我今天根本没法专心",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与喜欢（作品被欣赏、选择被肯定）",
+        "fear": "害怕被否定、被评判与再次失望",
+        "defense_goal": [
+          "通过回避改变与外界评价来维持安全感与自尊",
+          "坚持现状以减少不确定性与潜在受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被否定的创作者与决策者",
+          "object_representation": "挑剔、可能不认可自己努力的他人",
+          "linking_affect": "羞愧、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议尝试修理/更换新镜框，或鼓励分享作品以获取反馈时",
+          "interpretation": "将建议理解为潜在的评判与否定，担心再次受到羞辱或失望（移情：他人会像过去的朋友那样不认可自己）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、谨慎的语气说明“现在不合适/不想显得需要或不自信”等理由，推迟或回避尝试；保持礼貌、降低情绪强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在选择新眼镜时因害怕不合适而迟迟不作决定",
+            "在艺术表达中受他人评价束缚，难以自由分享"
+          ],
+          "outcomes": [
+            "犹豫不决与回避",
+            "焦虑与自我怀疑",
+            "日常生活的困扰与不适"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心显得“需求过多或不自信”，因此不向亲密朋友分享不安",
+            "在分享作品前反复自我批评与审查",
+            "在做选择（如更换眼镜）时过度谨慎，拖延决策"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在准备将作品分享给他人时，来访者通常会产生强烈焦虑并预期负面反馈，从而回避分享或拖延。",
+          "unique_outcome": "在独自绘画的情境下，来访者没有像往常那样担心他人反馈，而是专注创作过程并体验到乐趣，焦虑明显降低。",
+          "reason": "不同情境：仅为自己而画、没有分享计划；不同做法：将注意力放在过程而非评价，因此出现了更投入与更轻的焦虑。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "学业表现稳定，具备一定的自我管理能力",
+          "态度积极，愿意尝试小型行为实验",
+          "拥有一位亲密朋友作为潜在支持",
+          "当不为他人而画时能体验到创作的乐趣"
+        ],
+        "negative_force": [
+          "过度在意他人评价，寻求外部验证",
+          "非黑即白思维、过度概括与心理过滤导致决策僵化",
+          "对改变的恐惧与对现有眼镜的强烈依恋",
+          "回避行动，缺乏面对问题的具体尝试",
+          "分享作品前的高焦虑与自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避修理或更换眼镜并反复产生消极想法",
+          "antecedent": [
+            "想到或讨论眼镜相关话题",
+            "眼镜破损并被胶带暂时固定"
+          ],
+          "core_reason": "对当前眼镜的情感依恋与害怕找不到合适替代，伴随非黑即白思维与过度概括",
+          "function": "逃避不确定性与可能的失望，短期维持心理安全感",
+          "consequence": "影响日常决策与课堂注意力，造成挫败与不适"
+        },
+        {
+          "behavior": "在分享作品前的焦虑与回避",
+          "antecedent": [
+            "想到将作品分享给他人或预期反馈",
+            "回忆朋友此前不理想的反应"
+          ],
+          "core_reason": "将一次负面体验过度概括为普遍规则，过度依赖外部评价界定自我价值",
+          "function": "避免负面评价与羞耻感，暂时保护自尊",
+          "consequence": "自信受损，降低分享与练习机会，艺术创作的乐趣下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1509
+}

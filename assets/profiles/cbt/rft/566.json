@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林珊",
+      "gender": "女性",
+      "occupation": "旅行博主",
+      "educational_background": "传播学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有少数亲密朋友可交流，但难以建立深层连接；回避社交聚会，常感到孤立",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或精神科治疗",
+      "language_features": "表达清晰、合作度较高；语气谨慎、紧张，不习惯谈论自己；能识别并描述自动化思维"
+    },
+    "main_problem": "我一直感觉别人觉得我很怪或令人反感，尤其在社交场合。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些社交不足感开始影响我的工作和个人生活，并导致更强的孤立。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是怪异的/令人反感的",
+        "我不被他人接纳/我不属于这里"
+      ],
+      "special_situations": [
+        {
+          "event": "参加旅行博主大会，现场人多；尝试加入对话时，感觉他人给出奇怪的眼神或忽略自己",
+          "conditional_assumptions": "如果别人没有热情回应或目光从我身上移开，就说明我很怪、不属于那里",
+          "compensatory_strategies": "减少交流、独自待着并提前离开活动",
+          "automatic_thoughts": "他们都觉得我很奇怪；我不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在朋友的派对中，与不熟悉的人同处一室，而人们各自忙自己的事",
+          "conditional_assumptions": "如果大家没有主动与我交谈，就说明他们认为我尴尬且不受欢迎",
+          "compensatory_strategies": "回避社交互动，站在一旁不参与",
+          "automatic_thoughts": "大家一定在想‘我为什么在这里’，他们可能觉得我很尴尬",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在动物救助站看小猫时，工作人员几乎没有与我交谈",
+          "conditional_assumptions": "如果对方不与我交谈，就一定是因为我令人反感或很怪",
+          "compensatory_strategies": "自我否定、减少与该场景的接触或保持沉默",
+          "automatic_thoughts": "她一定觉得我很怪",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与新认识的人互动或在拥挤场所出现",
+          "conditional_assumptions": "如果我与陌生人交流，他们很可能会觉得我不合群或看低我",
+          "compensatory_strategies": "避免拥挤活动，减少与新人的接触",
+          "automatic_thoughts": "他们会觉得我不合群/会看低我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、建立归属感并能自然地与他人连接",
+        "fear": "害怕被拒绝、被评判为“怪”或“尴尬”，引发羞耻与不被理解",
+        "defense_goal": [
+          "通过保持距离与回避来降低受伤与羞辱的可能",
+          "控制自我暴露，减少与陌生人接触以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解的局外人/不受欢迎者",
+          "object_representation": "他人是冷漠或评判的群体/拒绝者",
+          "linking_affect": "焦虑、羞耻、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问详细回忆社交场景或在会谈中被直接关注其人际体验时",
+          "interpretation": "潜意识将询问视为可能的评判与暴露，担心被看轻或不被理解（移情：将他人视作潜在评判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和与支持，先验证其感受，再以小步提问具体化经历；避免逼迫表露，邀请其描述当下情绪与身体感受，并给予适度停顿。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期感觉格格不入与被误解",
+            "回避社交聚会并倾向独处",
+            "独居且难以向朋友充分敞开",
+            "在陌生人和拥挤场所显著不适"
+          ],
+          "outcomes": [
+            "主观孤立感加重",
+            "睡眠模式受影响、整体幸福感下降",
+            "工作受阻（避免社交活动与会议）",
+            "社交焦虑与自我否定增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在大会与派对上将他人中性行为解释为对自己“怪/尴尬”的评判",
+            "假设他人都在想她“不属于这里”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "在社交场合把参与与交流的冲动收回，选择独自待着或提前离开",
+            "与朋友交流时难以充分开放，压抑表达脆弱的需要"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我设限并担心被看轻",
+            "在陌生情境中过度谨慎、避免主动接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友，过往在分享个人事务时对其支持",
+          "愿意尝试记录与检验自动化思维，具备改变动机",
+          "曾主动尝试走出舒适区参加社交与行业会议"
+        ],
+        "negative_force": [
+          "在社交情境中倾向心智读取与个人化，过度将他人行为解释为对自己的负面评价",
+          "对陌生人和拥挤场所高度敏感，易回避并提前离场",
+          "自我标签为“内向/兴趣不主流”，形成自我设限与对外部验证的依赖",
+          "孤立导致睡眠与整体健康受影响，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在陌生或拥挤社交场合的回避与提前离场",
+          "antecedent": [
+            "参加旅行博主大会或社交聚会",
+            "与不熟悉的人互动",
+            "他人未主动回应或目光游离"
+          ],
+          "core_reason": "将他人中性行为解读为对自己负面评价（心智读取、个人化），担心被认为“怪”或“尴尬”而产生焦虑",
+          "function": "逃避可能的社交评判与不适情绪，寻求短期安全与控制感",
+          "consequence": "工作受影响（减少参加活动与合作），人际连接浅、孤立加重，睡眠与整体健康受损"
+        },
+        {
+          "behavior": "难以向亲密朋友敞开表达脆弱感受",
+          "antecedent": [
+            "想到与朋友分享社交不足与不安",
+            "朋友提出关心或询问"
+          ],
+          "core_reason": "担心朋友不理解或看低自己，害怕暴露脆弱被拒绝",
+          "function": "避免被评判与被拒绝的风险，维持表面关系的稳定",
+          "consequence": "无法获得情感支持与现实校验，孤独感加重"
+        },
+        {
+          "behavior": "在社交互动中的负性自动化思维与自我批评",
+          "antecedent": [
+            "看到他人冷淡或忙于自身的行为",
+            "进入拥挤环境"
+          ],
+          "core_reason": "基于核心信念“我很怪/不受欢迎”，对模糊线索做负面解释并预测不良结果",
+          "function": "试图通过自我警觉降低失望风险，但实际增加焦虑与回避",
+          "consequence": "社交焦虑升级，参与度下降，职业与生活质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 566
+}

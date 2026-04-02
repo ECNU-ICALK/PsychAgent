@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "79",
+      "name": "陈雅琳",
+      "gender": "女",
+      "occupation": "护理专业学生（未来护士），独立乐队主唱",
+      "educational_background": "正在攻读护理学位",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与乐队成员的关系因对演出的负面看法而趋于紧张；虽有乐队成员与朋友可交流，但对表达“无望感”有所犹豫",
+      "medical_history": "无类似心理问题既往史；无过往心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能自我反思与识别思维模式；配合度较好；情绪较为平稳（态度中性）"
+    },
+    "main_problem": "在乐队最近一次演出失利后感到沮丧和无望，倾向于灾难化，认为事情总会出错，进而在每次演出前都感到焦虑并怀疑自己作为歌手的能力。",
+    "topic": "情绪管理",
+    "core_demands": "近期演出失利与持续的负面想法让我意识到需要专业帮助来管理这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（作为歌手）",
+        "事情总会变糟/我会一直失败"
+      ],
+      "special_situations": [
+        {
+          "event": "乐队一次重要演出失利（音响问题、唱错音、观众反应冷淡）",
+          "conditional_assumptions": "如果一次演出出现失误，就说明我是不称职的歌手，以后也会一直演砸",
+          "compensatory_strategies": "减少上台意愿，回避与队友讨论表现以避免被负面评价",
+          "automatic_thoughts": "这说明我不行，而且以后也会这样。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "演出前音检/彩排出现不顺利或不够完美",
+          "conditional_assumptions": "如果音检不完美，整场演出就一定会失败",
+          "compensatory_strategies": "在脑海中不断预演最坏情境，过度关注可能出错之处以求“提前准备”",
+          "automatic_thoughts": "音检都不顺，今晚肯定要完蛋。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "排练中出现小失误（例如某处拿捏不稳/唱错）",
+          "conditional_assumptions": "如果排练出错，正式演出就会完全失败",
+          "compensatory_strategies": "产生强烈上台回避倾向，减少面对压力情境",
+          "automatic_thoughts": "我一旦出错，整场就毁了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "演出中看到观众反应不够热烈",
+          "conditional_assumptions": "如果观众反应一般，说明他们会觉得我是个很差的歌手",
+          "compensatory_strategies": "避免与队友或观众进行反馈交流以逃避可能的负面评价",
+          "automatic_thoughts": "他们一定觉得我很糟。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定（作为歌手与学生）",
+        "fear": "害怕失败与被负面评价、羞耻感被激发",
+        "defense_goal": [
+          "通过预先悲观和回避讨论来降低失望与羞耻感",
+          "以控制与警觉（预演最坏）来维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的/随时会失败的表演者",
+          "object_representation": "挑剔、苛评的观众或队友",
+          "linking_affect": "焦虑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出用行为实验来挑战负性假设、并邀请设定具体目标与收集数据时",
+          "interpretation": "担心结果会证明自己不够好，从而再次感到失败与羞耻",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平静、客观的语气回应，强调计划与数据，减少情绪性用词，回避深入情感细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在学业（护理）与乐队承诺之间进行选择与平衡的压力",
+            "对角色与责任的取舍带来紧张与内在冲突"
+          ],
+          "outcomes": [
+            "焦虑上升、无助感增强",
+            "睡眠受影响与学业表现下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有乐队成员与朋友可谈，但对表达无望感犹豫",
+            "担心被负评而减少真实交流"
+          ],
+          "outcomes": [
+            "人际关系紧张与支持减少",
+            "负性情绪加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求他人为其做某事，转而对自己做。",
+          "manifestations": [
+            "通常回避与队友讨论自己的表演以避免负面评价",
+            "将对外表达的需要转为自我苛责与自我怀疑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑并预设他人负面评价",
+            "在互动中小心翼翼，难以直接寻求支持与反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有乐队成员与朋友等潜在社会支持资源",
+          "能够觉察并命名自身灾难化、跳结论等思维模式",
+          "主动寻求专业帮助，愿意尝试新的应对方式"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白与预测未来等负性认知偏差显著",
+          "演出前高度焦虑并产生上台回避倾向",
+          "回避与队友沟通反馈，担心负面评价",
+          "学业与乐队双重压力大，时间与精力分配造成紧张",
+          "睡眠受损与学业下降加剧消极循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "演出前的强烈焦虑与上台回避倾向",
+          "antecedent": [
+            "想到即将表演",
+            "音检/彩排不顺利",
+            "排练时出现小失误",
+            "联想到观众反应不热烈或未来演出"
+          ],
+          "core_reason": "灾难化与非黑即白思维导致对失败与负面评价的高度恐惧",
+          "function": "短期逃避潜在失败与羞耻，暂时降低焦虑",
+          "consequence": "影响演出准备与表现，削弱自信；睡眠受损、学业下滑，人际关系紧张"
+        },
+        {
+          "behavior": "回避与队友讨论与获取反馈",
+          "antecedent": [
+            "担心收到负面评价",
+            "在演出或排练出现瑕疵后"
+          ],
+          "core_reason": "担心被否定与羞耻感被激发，倾向通过回避来减少痛苦",
+          "function": "避免不受欢迎的评价与情绪刺激，维持脆弱的自尊",
+          "consequence": "错失建设性反馈与支持，团队关系紧张，负性信念得不到修正"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 587
+}

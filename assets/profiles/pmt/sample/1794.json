@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "林宇",
+      "gender": "男性",
+      "occupation": "育儿看护（保姆）",
+      "educational_background": "高中毕业",
+      "marital_status": "订婚（六个月后结婚）",
+      "family_status": "三兄妹中的中间孩子",
+      "social_status": "与未婚妻关系因负性思维而紧张；家人总体支持但尚未向其分享困扰；工作与一般社交基本正常",
+      "medical_history": "无类似问题的既往史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、条理较好，语气中性，能配合咨询并进行自我反思；认知上存在读心与否定积极的偏向"
+    },
+    "main_problem": "我持续地想着即使我即将结婚，我的未婚妻只是为了不孤独而会选择任何人。这一想法让我痛苦并感到不安全。",
+    "topic": "婚姻关系",
+    "core_demands": "我意识到这些想法正在影响我的关系并造成显著的痛苦，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "我不够好，不值得被选择"
+      ],
+      "special_situations": [
+        {
+          "event": "在筹备婚礼或讨论未来时出现分歧",
+          "conditional_assumptions": "如果伴侣在讨论中不完全认同或表现不够热情，就说明她并不真正在乎我，只是为了不孤独而结婚",
+          "compensatory_strategies": "反复揣测对方的动机、寻求外部确认、紧盯负面线索",
+          "automatic_thoughts": "她只是为了不孤独才选择我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "讨论宾客名单时，伴侣对邀请我老友的建议显得冷淡或不感兴趣",
+          "conditional_assumptions": "如果她不赞同我的建议或显得冷淡，就意味着她不重视我和我的感受",
+          "compensatory_strategies": "将对方的中性反应解读为不关心，减少表达并陷入焦虑与怀疑",
+          "automatic_thoughts": "她不在乎我的感受",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "伴侣经常表达爱意，并在确定婚礼地点时真诚地感到兴奋",
+          "conditional_assumptions": "积极的迹象不足以证明她真的爱我；只有完美一致的表现才算数",
+          "compensatory_strategies": "否定或忽视积极证据，选择性关注可能的负面解释",
+          "automatic_thoughts": "这些表现不代表她真的在乎我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在日常琐事或随机触发时独自思考关系",
+          "conditional_assumptions": "如果我感到不安，就说明关系有问题并可能走向糟糕的结果",
+          "compensatory_strategies": "反复思考以寻求确定性，通过担忧来尝试获得控制感",
+          "automatic_thoughts": "我们的关系并不稳固，可能会失败",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣独特地选择与确认，得到稳定的爱与承诺",
+        "fear": "害怕被视为可替代、被抛弃，最终陷入孤独",
+        "defense_goal": [
+          "通过持续怀疑与警觉来避免受伤",
+          "寻求外部证据与保证以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可被替代、不够值得被爱的伴侣",
+          "object_representation": "冷漠、仅为避免孤独而维持关系的伴侣",
+          "linking_affect": "焦虑、不安全感、怀疑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心伴侣只是为了不孤独而结婚",
+            "在分歧与谈及未来时产生强烈不安与怀疑",
+            "婚礼筹备期间频繁出现关于被替代的念头"
+          ],
+          "outcomes": [
+            "焦虑与不安全感加剧",
+            "睡眠与饮食受影响",
+            "伴侣关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应；语言表现为“他在看不起我”“他们想排挤我”等。",
+          "manifestations": [
+            "在会谈中多次将伴侣的动机解释为“只是为了不孤独”，忽视其积极表达与行为",
+            "将对方在宾客讨论中的中性反应解读为“不在乎我”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与未婚妻讨论婚礼细节或发生分歧时，来访者通常会读心并否定积极证据，随后出现焦虑并使关系紧张。",
+          "unique_outcome": "在一起选择婚礼地点的那次，来访者没有像往常那样只关注负面信号，而是注意到未婚妻的真诚兴奋与投入，因此感到更安心，焦虑明显减轻。",
+          "reason": "线索：情境不同（共同做决定且伴侣积极反馈明显）；做法不同（来访者当时留意并接纳了积极证据），因此这次出现了关注正面并情绪缓和的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "伴侣经常表达爱意并在婚礼筹备中表现出积极投入",
+          "家人总体支持，具备潜在外部支持资源",
+          "来访者愿意自我反思并尝试认知重构与行为实验",
+          "工作表现未受影响，生活基本稳定"
+        ],
+        "negative_force": [
+          "自我价值怀疑显著，倾向寻求外部验证",
+          "认知偏差：读心术、否定积极、仓促下结论",
+          "婚礼筹备压力增加触发频繁负性思维",
+          "焦虑与不安全感影响睡眠与饮食，降低情绪耐受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在亲密关系情境中出现的读心与否定积极，伴随显著焦虑与不安全感",
+          "antecedent": [
+            "与未婚妻发生分歧或讨论未来",
+            "婚礼筹备中的具体细节讨论（如宾客名单）",
+            "伴侣表现中性或不够热情的时刻",
+            "随机日常触发时的独自思考"
+          ],
+          "core_reason": "对自我价值的怀疑与被抛弃的恐惧在婚礼筹备压力下被强化，形成对外部验证的依赖与过度揣测",
+          "function": "通过担忧与揣测来获得控制感与确定性，试图预防被伤害",
+          "consequence": "关系紧张，焦虑持续，睡眠与饮食受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1794
+}

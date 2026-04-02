@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母是律师",
+      "social_status": "因回避与泳装相关的社交活动，友谊受影响、社交互动受限",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗",
+      "language_features": "表达清晰、条理性较好；能描述自动化思维与情绪；承认许多判断基于“感觉而非证据”；整体语气消极但愿意探索替代视角与小步尝试；咨询配合度良好"
+    },
+    "main_problem": "我害怕穿泳衣，因为我认为别人会嘲笑我，把我看成一个无价值、超重的失败者。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这种恐惧显著限制了我的社交活动和自我表达。",
+    "growth_experiences": [
+      "该恐惧始于青少年时期，由负性身体意象与对被评价的担忧触发；起初压力水平很高，随后在成年后持续存在并加重，逐渐发展为回避泳衣相关场合，影响社交生活与自信心。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有价值",
+        "我是一个失败者",
+        "我是一个又胖又一无是处的人"
+      ],
+      "special_situations": [
+        {
+          "event": "夏季来临或受邀参加需要穿泳衣的泳池派对/海边活动",
+          "conditional_assumptions": "如果我穿上泳衣，别人就会盯着我的身材看并嘲笑我；被嘲笑就证明我没有价值",
+          "compensatory_strategies": "回避一切需要穿泳衣的场合，减少与朋友接触以避免被评价",
+          "automatic_thoughts": "大家会笑我，觉得我是一个没有价值的胖失败者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在出门前想到可能需要穿泳衣或被拍照",
+          "conditional_assumptions": "如果我暴露出身材缺点，接下来一定会出丑、被议论和羞辱",
+          "compensatory_strategies": "提前想象最坏结果、干脆不去，以减少当下焦虑",
+          "automatic_thoughts": "他们一定会议论我、嘲笑我，我会很难堪",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "照镜子或试穿泳衣时看到自己的身材",
+          "conditional_assumptions": "如果外形不够“完美”，那就说明我整体就是失败者",
+          "compensatory_strategies": "以极端标准评判外形、否定其他优点，进一步避免社交",
+          "automatic_thoughts": "我看起来很糟，这再次证明我就是个失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在公共场合中他人普通的目光或交谈",
+          "conditional_assumptions": "如果别人看了我一眼或低声说话，必定是在嘲笑我",
+          "compensatory_strategies": "将注意力集中在他人反应上、不断自证被贬低，因而迅速撤离场合",
+          "automatic_thoughts": "他们的眼神和低语是在讽刺我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被尊重地呈现真实的自我与身体",
+        "fear": "害怕暴露自我后被嘲笑、羞辱与拒绝",
+        "defense_goal": [
+          "通过回避暴露身体与相关场合来降低羞耻与焦虑",
+          "保持与潜在评判者的距离以维持安全感和自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻、脆弱且容易被嘲笑的自我",
+          "object_representation": "苛刻、带有嘲弄与审视目光的他人/群体",
+          "linking_affect": "羞耻、恐惧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她检视证据、挑战负性信念或尝试新视角时",
+          "interpretation": "认为改变“不现实”，坚持他人必定会评判自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉但坚定的语气强调“避免更省心”，用“这对我来说不现实”来弱化尝试改变的必要性。"
+        },
+        {
+          "trigger_condition": "在讨论他人目光或社交情境时",
+          "interpretation": "将内在的自我贬损体验外归为“他人看不起我、嘲笑我”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用肯定句断言他人负面评价，如“我从他们眼神里就能看出来”，语气笃定、难以被说服。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕被评判而回避泳装相关活动，逐渐与朋友疏远",
+            "未向朋友坦露真实困扰，内心经历隔离与疏离感"
+          ],
+          "outcomes": [
+            "社交圈缩小、友谊受损",
+            "自我表达受限与自信下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧与羞耻感限制了夏季休闲与社交的选择",
+            "为避免焦虑而反复选择回避，个人行动空间被自我限制"
+          ],
+          "outcomes": [
+            "生活方式与社交活动受限",
+            "对自我选择与生活掌控感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在叙述中多次以“他们会笑我”“我能从他们眼神看出来”为依据判断他人负面评价",
+            "将内在的羞耻与自我贬损体验外归为他人的嘲笑与鄙视"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "将参与社交的愿望转为自我限制与撤回，以“少压力”为由选择不去",
+            "长期未向朋友坦露真实困扰，转而独自承受焦虑与羞耻"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有数位可交谈的朋友，潜在支持资源存在",
+          "愿意在咨询中探索替代视角，能识别负性思维模式",
+          "愿意尝试小范围、低风险的暴露（如与少数亲近朋友一起）",
+          "能在对话中区分“感觉”与“证据”，具备一定自我反思能力"
+        ],
+        "negative_force": [
+          "稳定的自我贬损与低自我价值感",
+          "读心术、预测未来、过度概括与个人化等认知扭曲显著",
+          "以回避作为主要应对策略，短期降焦但长期维持恐惧",
+          "对身体意象的负性关注度高，羞耻感强"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避一切需要穿泳衣的社交与休闲活动",
+          "antecedent": [
+            "夏季来临或受邀参加泳池派对/海边活动",
+            "照镜子或试穿泳衣、想到可能被拍照",
+            "出现关于身材的负性自动化思维"
+          ],
+          "core_reason": "对身体意象的强烈羞耻与自我贬损，伴随读心术与预测未来的灾难化信念（认为一定会被嘲笑与羞辱）",
+          "function": "逃避被评判的情境以迅速降低焦虑与羞耻",
+          "consequence": "社交活动受限、与朋友关系受损；自信下降与自我表达受限，负性信念进一步被强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 419
+}

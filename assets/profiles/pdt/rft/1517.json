@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "林洁",
+      "gender": "女性",
+      "occupation": "应届高中毕业生",
+      "educational_background": "高中学历",
+      "marital_status": "未婚",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "与家人关系亲密但对表达焦虑犹疑；对大学中的人际交往感到焦虑并出现回避",
+      "medical_history": "未有类似心理问题经历；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性良好、配合度高、态度中性；语速与具体言语特征未提及"
+    },
+    "main_problem": "“我担心秋季上大学后，人们会因为我讨厌意大利面而觉得我很奇怪，不愿意和我做朋友”，这一信念引发焦虑与担忧，并导致回避社交与睡眠困难。",
+    "topic": "人际关系",
+    "core_demands": "围绕大学社交的恐惧与焦虑变得压倒性并影响日常生活，希望通过咨询获得支持与缓解。",
+    "growth_experiences": [
+      "高中毕业后开始出现对大学社交的恐惧与焦虑，且随着开学临近逐渐加重；在想到结交新朋友或参加社交活动时，产生每日反复的担忧并回避相关情境，同时出现睡眠困难。",
+      "学业表现良好（高中以较好的成绩毕业），计划秋季入读密歇根大学；对进入新的社交环境的预期成为触发焦虑的主要背景。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我与众不同会被认为很奇怪，从而不被接纳",
+        "他人的评价决定我的价值与归属感"
+      ],
+      "special_situations": [
+        {
+          "event": "想到在大学结交新朋友或参加社交活动",
+          "conditional_assumptions": "如果别人知道我不喜欢意大利面，他们就会觉得我很奇怪并疏远我",
+          "compensatory_strategies": "回避社交场合，尽量不谈及自己的食物偏好",
+          "automatic_thoughts": "他们会觉得我很怪，不会愿意和我做朋友",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "随着大学开学临近，反复思考未来的社交情境",
+          "conditional_assumptions": "如果我不能融入，就会一直孤单并被排斥",
+          "compensatory_strategies": "反复担忧、难以入睡以保持警觉",
+          "automatic_thoughts": "我到大学后会被排斥、一个人待着",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "意识到自己与他人在食物偏好上的差异（不喜欢意大利面）",
+          "conditional_assumptions": "一个小差异足以让别人否定我、不接纳我",
+          "compensatory_strategies": "用自我安慰试图压制担忧（告诉自己“别人不会在意”）",
+          "automatic_thoughts": "我不合群，会被认为很奇怪",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆过去没有人因其食物偏好嘲笑她，但仍持续担忧未来的评价",
+          "conditional_assumptions": "除非有明确证据证明不会被评判，否则我应该继续担心",
+          "compensatory_strategies": "忽视已有的积极证据，持续维持担忧以自我保护",
+          "automatic_thoughts": "即使过去没人嘲笑，我到了大学也会被嘲笑和排斥",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同伴接纳、融入群体并建立友谊",
+        "fear": "害怕被评判、被排斥与孤独感",
+        "defense_goal": [
+          "通过回避社交与理性自我安慰来降低被拒绝与焦虑的感受"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被排斥的外来者/不合群者",
+          "object_representation": "会因小差异而评判与拒绝人的同龄人群体",
+          "linking_affect": "焦虑、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及大学社交、他人评价或想到同龄人可能如何看待她“不喜欢意大利面”时",
+          "interpretation": "他人会像一个挑剔的评判者，对她的差异予以否定并排斥（移情：将内在的被拒绝恐惧投射到外部他人）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用克制、理性化的语气淡化感受，强调“这不是什么大问题/多数人不会在意”，提供逻辑解释以回避深入表达恐惧与脆弱。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心因小差异（不喜欢意大利面）被视为“奇怪”而不被接纳",
+            "对在大学建立新关系的预期引发强烈焦虑并回避社交情境"
+          ],
+          "outcomes": [
+            "社交回避",
+            "睡眠困难",
+            "持续焦虑与担忧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在会谈中多次假设他人会认为她“很奇怪”并不愿结交，将内在的被拒绝恐惧归因于同龄人的未来反应"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "高中成绩良好，具备学业能力与适应资源",
+          "与家人关系亲密，存在潜在支持网络",
+          "愿意寻求咨询并愿意尝试证据质询与重构思维"
+        ],
+        "negative_force": [
+          "对他人评价高度敏感，倾向读心与预测负面未来",
+          "在社交情境中回避，导致适应受限",
+          "否定已有的积极证据，强化担忧与孤独预期",
+          "持续睡眠受影响，降低恢复力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交场合",
+          "antecedent": [
+            "想到在大学结交新朋友",
+            "预期参加社交活动",
+            "临近大学开学时的社交相关线索"
+          ],
+          "core_reason": "担心因不喜欢意大利面等小差异被评判与排斥，产生灾难化与负性预测，试图通过回避降低被拒绝的风险与焦虑",
+          "function": "逃避潜在的负面评价与不适，暂时缓解焦虑",
+          "consequence": "减少社交参与，影响大学适应与关系建立"
+        },
+        {
+          "behavior": "睡眠困难（入睡困难、反复担忧）",
+          "antecedent": [
+            "睡前想到大学社交与他人评价",
+            "临近开学的时间压力"
+          ],
+          "core_reason": "对被拒绝与孤独的恐惧激活，负性自动思维维持高度警觉与焦虑",
+          "function": "维持警觉以（主观上）预防被拒绝的假想风险、回避面对焦虑情绪",
+          "consequence": "睡眠质量下降，白天功能受影响，焦虑进一步加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1517
+}

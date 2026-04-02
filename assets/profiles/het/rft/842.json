@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "李可欣",
+      "gender": "女",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "与家人和朋友关系良好，但她未向他们透露自己受挫的程度；具备一定的社会支持",
+      "medical_history": "无显著医疗史；此前未接受过心理咨询",
+      "language_features": "表达清晰、逻辑性较好，能识别并描述自身情绪与想法；配合度高、态度积极；但存在反复反刍负面事件与自我苛责倾向"
+    },
+    "main_problem": "因单口喜剧表演未如预期而感到失望和沮丧。尽管观众大多给予笑声与正面反馈，但我固着在最后一个没有奏效的笑话上，这使我感到整场表现失败。",
+    "topic": "情绪管理",
+    "core_demands": "单口喜剧表演带来的失望感以及无法从那个失败的笑话中走出来已影响我的情绪与自信，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美才算成功",
+        "我不够好（不适合做单口喜剧）"
+      ],
+      "special_situations": [
+        {
+          "event": "单口喜剧表演中最后一个笑话没有引发观众笑声",
+          "conditional_assumptions": "如果任何一个笑话失败，整场表演就算失败；只有每个环节都完美，才能证明我有能力",
+          "compensatory_strategies": "反复回放并推演问题、立誓下次必须完美、暂时回避上台和社交",
+          "automatic_thoughts": "我失败了/我不适合做单口喜剧",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "演出当晚收到观众正反不一的反馈",
+          "conditional_assumptions": "如果有人没笑或有质疑，就说明我不够有趣、别人都在评判我",
+          "compensatory_strategies": "过度关注负面反馈、忽略正面评价，试图通过自我批评来“改正错误”",
+          "automatic_thoughts": "他们觉得我不好笑",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "日常生活中回想起观众没有笑的瞬间",
+          "conditional_assumptions": "我现在感到羞耻和失落，说明那场演出本身就是糟糕的",
+          "compensatory_strategies": "通过反刍来寻找“证据”，减少创作与上台以避免再次受挫",
+          "automatic_thoughts": "我感觉很糟糕，所以那次一定很糟糕",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "考虑是否向家人朋友坦露真实受挫感",
+          "conditional_assumptions": "如果我表达失落，他们会觉得我矫情或不够坚强",
+          "compensatory_strategies": "保持沉默、减少社交话题以避免被评价",
+          "automatic_thoughts": "他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被观众与重要他人认可，证明自己在喜剧表演上的价值",
+        "fear": "害怕失败、被否定或被嘲笑，从而被视为不够好",
+        "defense_goal": [
+          "通过完美主义与自我批评来避免再次受挫",
+          "保持控制与警惕以降低被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且需要自我修正的表演者",
+          "object_representation": "挑剔、随时会否定的观众/评价者",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "犹豫表达需求、担心被误解的人",
+          "object_representation": "可能不理解或认为她“太苛责自己”的他人",
+          "linking_affect": "顾虑、忐忑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中回忆观众没有笑的瞬间、谈及“失败的那个笑话”",
+          "interpretation": "将当下的尴尬与羞耻体验等同于自身不够好，认为自己应被指责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责语气，降低音量，反复强调自己的不足与错误，避免为自己辩护。"
+        },
+        {
+          "trigger_condition": "当被邀请考虑向家人朋友表达真实受挫感时",
+          "interpretation": "假定他人会认为她矫情或不够坚强（将内在的批判感投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "强调“他们会怎么看我”，以疑问句表达担忧，保持保留与回避的态度。"
+        },
+        {
+          "trigger_condition": "当咨询师引导其回顾正向反馈、进行客观评估时",
+          "interpretation": "通过强调标准、数据与逻辑分析来远离羞耻等情绪体验",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观统计与分析性语言，减少情感词汇，用冷静克制的语气陈述事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与家人和朋友的支持性关系",
+          "演出中多数笑话获得观众笑声与正面反馈，具备实际能力证据",
+          "工作功能基本稳定，日常生活维持良好",
+          "对喜剧有热情与投入",
+          "曾尝试用理性方式聚焦正面反馈，具备一定的自我调节意识"
+        ],
+        "negative_force": [
+          "完美主义倾向，使用非黑即白的成功/失败标准",
+          "反复反刍失败片段，心理过滤负面信息",
+          "否定正向反馈，过度依赖外界评价来确定自我价值",
+          "担心他人看法而回避社交与再表演",
+          "自我标签化（如“失败/不合格”）导致自信下降与动力减弱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍关于未成功的笑话，伴随失落与失败感",
+          "antecedent": [
+            "回想起那场单口喜剧表演",
+            "看到与喜剧相关的线索（如写段子、喜剧节目）",
+            "独处时进行自我回顾"
+          ],
+          "core_reason": "完美主义与对他人评价的过度关注，将一次失误灾难化与过度概括为整体失败",
+          "function": "逃避面对“不完美”的焦虑，试图通过反刍获得控制感与纠错方案",
+          "consequence": "情绪低落与自我效能感降低，创作与再表演动力下降"
+        },
+        {
+          "behavior": "回避社交与再次创作/上台表演",
+          "antecedent": [
+            "被人提及那次演出",
+            "想到需要写新段子或表演",
+            "预期可能被询问或评价"
+          ],
+          "core_reason": "害怕再次失败与被评判，将尴尬与羞耻视为不能承受的结果",
+          "function": "短期逃避焦虑与潜在尴尬",
+          "consequence": "减少正向经验与练习机会，维系关系与兴趣活动受影响，自我怀疑维持并加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 842
+}

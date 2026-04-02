@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "林婕",
+      "gender": "女",
+      "occupation": "会计",
+      "educational_background": "会计学学位",
+      "marital_status": "未婚",
+      "family_status": "母亲拥有一家时尚品牌",
+      "social_status": "有一位亲密的素食朋友，但尚未与其讨论困惑；与朋友谈论饮食选择时感到困难",
+      "medical_history": "无重大躯体疾病；无类似问题史；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑性较好、语气中性；能自我反思并觉察灾难化倾向；配合度高但对自我慈悲持谨慎态度"
+    },
+    "main_problem": "我觉得成为素食者并没有提升我的整体健康，导致不满意和困惑的感受。",
+    "topic": "自我探索",
+    "core_demands": "这些感受正在影响我的心理健康并让我的生活方式选择充满困惑，我希望通过咨询澄清与改善。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果我的饮食不能明显改善健康，那就没有意义",
+        "我可能不够健康，甚至会被当前饮食永久性伤害"
+      ],
+      "special_situations": [
+        {
+          "event": "饭后经常感到倦怠或不满足",
+          "conditional_assumptions": "如果吃完感觉没有精力，说明我的素食饮食对健康不利",
+          "compensatory_strategies": "把疲劳直接归因于饮食，频繁调整食谱并在网上寻找建议",
+          "automatic_thoughts": "素食让我的健康变差了",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "与非素食者讨论饮食选择时受到质疑",
+          "conditional_assumptions": "如果别人不认可，就说明我的选择是错误的/不可持续",
+          "compensatory_strategies": "回避相关话题、减少与朋友交流，试图从外部意见获得肯定",
+          "automatic_thoughts": "他们说得对，我在营养上有缺失",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "开始新工作后压力增大、精力下降",
+          "conditional_assumptions": "只要我感觉累，原因一定是饮食造成的，并且会造成长期伤害",
+          "compensatory_strategies": "忽视压力与睡眠等因素，将一切不适单一归因于素食；加剧担忧",
+          "automatic_thoughts": "我可能正在被素食永久性伤害健康",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在互联网上查阅营养与素食相关信息",
+          "conditional_assumptions": "看到质疑或负面信息就认定素食不健康",
+          "compensatory_strategies": "过度关注负面内容、忽略积极证据与亲身正向体验",
+          "automatic_thoughts": "证据到处都是：素食不健康",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望做出对健康与伦理都正确且被认可的生活方式选择，获得自信与肯定",
+        "fear": "害怕选择错误导致健康受损，并被他人否定或批评",
+        "defense_goal": [
+          "通过回避讨论与依赖外部权威信息来降低不确定性与被否定的风险",
+          "将不适单一归因为饮食以维持一种“可控解释”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不确定、容易自我怀疑的被评判者/决策者",
+          "object_representation": "他人（非素食者或朋友）被视为评判者、挑错者",
+          "linking_affect": "焦虑、不安、羞怯"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与非素食者或朋友讨论饮食选择、并感到自己被质疑时",
+          "interpretation": "认为对方会否定自己、觉得自己“不健康”（移情：将内在自我怀疑投射到他人评价上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和且支持性；先共情其不安，再用开放式问题探查实际证据；避免对错评判，帮助其区分事实与推测。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人强调积极面、提出练习自我慈悲时",
+          "interpretation": "将“自我慈悲”理解为空洞的理论，担心这意味着忽视真实问题",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用具体化、体验式邀请（如微型实验、身体感受核对）；语气稳定、缓慢，减少抽象讨论，帮助其停留在当下感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "“我已经是素食者，但仍然不健康，那又有什么意义”的念头",
+            "对素食的意义与价值产生怀疑",
+            "在与他人讨论饮食时感到困惑与不安"
+          ],
+          "outcomes": [
+            "困惑与不满意感增强",
+            "焦虑加重，动力下降",
+            "回避相关社交话题",
+            "工作表现轻度受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "自述“我是自己最苛刻的批评者”",
+            "在饮食讨论中对自我评价严格、容易自我否定"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为非素食者会否定自己",
+            "担心亲密素食朋友“可能不理解”，从而不去讨论"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "谈到自我慈悲时以“理论上……”淡化感受",
+            "倾向于转向寻找外部信息而非直接体验自身状态"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对伦理与环境有明确价值承诺（素食的道德动机）",
+          "愿意尝试行为实验并获取新信息",
+          "能觉察到自己的灾难化倾向",
+          "拥有素食朋友这一潜在支持资源"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维",
+          "过度依赖外部认可与评价（外部验证）",
+          "新工作带来的压力与疲劳",
+          "回避讨论饮食选择、减少社会支持的使用",
+          "营养信息与方法的知识缺口"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "将身体不适（疲劳/倦怠）一概归因于素食饮食并产生灾难化担忧",
+          "antecedent": [
+            "饭后感到倦怠或不满足",
+            "开始新工作后压力增大",
+            "在网上看到质疑素食的内容"
+          ],
+          "core_reason": "营养知识不足与认知歪曲（灾难化、情绪化推理、非黑即白）导致单一归因",
+          "function": "获得一种“可控解释”以缓解不确定性与焦虑",
+          "consequence": "持续困惑与不满意，能量水平下降，饮食调整反复，工作表现略受影响"
+        },
+        {
+          "behavior": "回避与他人讨论饮食选择/减少社交话题参与",
+          "antecedent": [
+            "与非素食者谈论饮食选择",
+            "担心被质疑或被评价",
+            "想到向素食朋友倾诉时产生“他们可能不理解”的想法"
+          ],
+          "core_reason": "害怕被否定与评判，将内在不安投射到他人",
+          "function": "逃避潜在负面评价与尴尬，短期降低焦虑",
+          "consequence": "社会支持利用不足、孤立感增加，问题持续，信心下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1253
+}

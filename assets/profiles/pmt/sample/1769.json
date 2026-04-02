@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "李瑾",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "大学毕业",
+      "marital_status": "未提及",
+      "family_status": "有四个兄弟姐妹，自己排行最小（老幺）",
+      "social_status": "有朋友和家人可交流，但他们可能无法完全理解其对体力挑战的恐惧；人际与职业功能未提及。",
+      "medical_history": "数年前因车祸失去一只手臂；无其他重要躯体疾病；事故前未有类似心理问题，既往未接受心理咨询治疗。",
+      "language_features": "表达清晰、逻辑性良好；语气偏消极并持怀疑态度，但能合作与配合；能够具体描述恐惧、回避与尝试；愿意逐步尝试并观察变化。"
+    },
+    "main_problem": "因车祸失去一只手臂后，我害怕无法完成具有挑战性的徒步线路。",
+    "topic": "情绪管理",
+    "core_demands": "我现在决定寻求咨询，因为这种恐惧正在限制我的体验并导致挫败感。",
+    "growth_experiences": [
+      "几年前发生车祸并失去一只手臂，事故时压力很大；从那时起，来访者在面对需要体力的任务（如高难度徒步）时产生强烈恐惧，担心无法完成并在他人面前失败；因此逐渐避免新的、困难的体力挑战，户外活动明显减少，自信心受到影响。事故前未出现类似问题，也未接受心理咨询治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法完成需要体力的任务",
+        "失败会让我在他人面前显得软弱、被评判"
+      ],
+      "special_situations": [
+        {
+          "event": "考虑尝试一条新的高难度徒步路线时",
+          "conditional_assumptions": "如果任务很难且需要体力，我很可能无法完成，并会在他人面前丢脸",
+          "compensatory_strategies": "提前回避困难挑战，或仅选择更小、更容易的任务以降低失败风险",
+          "automatic_thoughts": "我可能永远也走不完整条路线",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想象在徒步过程中体力出现困难、走到半程无法继续的情境",
+          "conditional_assumptions": "一旦出现体力问题，我会被困住、无法前进或后退，后果会非常糟糕",
+          "compensatory_strategies": "依赖他人帮助或提前放弃以避免陷入更糟的状态",
+          "automatic_thoughts": "我会被困在半路，事情会一发不可收拾",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回忆几个月前与朋友完成一次短途徒步后，再想到更难的路线",
+          "conditional_assumptions": "如果任务更难，以往成功经验不算数，无法说明我有能力应对更大挑战",
+          "compensatory_strategies": "只关注风险与不足，忽视可用证据与已有成功",
+          "automatic_thoughts": "那次只是运气好，对更难的挑战没帮助",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与朋友同行时担心在他们面前失败或显得软弱",
+          "conditional_assumptions": "如果我休息或寻求帮助，别人会觉得我不行、很弱",
+          "compensatory_strategies": "选择独自硬撑或干脆不参加具有挑战性的活动",
+          "automatic_thoughts": "他们会觉得我不行、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望恢复能力、完成身体挑战并被他人接纳与认可",
+        "fear": "害怕在挑战中失败、在他人面前显得软弱并受到评判",
+        "defense_goal": [
+          "通过回避困难任务或仅选择小挑战来降低失败与羞耻的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在身体挑战面前容易失败、受限的自我",
+          "object_representation": "可能评判或不理解自己恐惧的他人/旁观者",
+          "linking_affect": "恐惧、挫败、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议通过设定小目标逐步挑战，或当面临开始新的困难徒步计划时",
+          "interpretation": "倾向认为这些方法对自己可能不起作用；一旦尝试失败会在他人面前丢脸",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、稳定、共情的语气回应，先验证其担忧与挫败感；使用开放式问题与具体化探询，引导进行现实检验与证据搜集；积极重述其既往小成功与可用支持，强调节奏可控与选择权，避免对抗与评判。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "车祸致残后体验到行动自由受限，对体力挑战的恐惧扩大为自我限制",
+            "担心在他人面前失败导致自我约束与回避"
+          ],
+          "outcomes": [
+            "回避高难度徒步与体力任务",
+            "户外活动减少与体验受限",
+            "自信下降与挫败感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在开始新挑战前过度担心失败与他人评判",
+            "强调“我不行”“可能走不完”，反复权衡是否做、如何做",
+            "对支持与休息策略持怀疑态度，谨慎而迟疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在考虑尝试需要体力的高难度徒步时，来访者通常会预期半途而废并在他人面前失败，从而选择回避挑战。",
+          "unique_outcome": "几个月前与朋友进行了一次短途徒步；这次并未像以往那样回避，而是完成了全程并在结束后感到成就感。",
+          "reason": "不同支持：有朋友同行与协助；不同做法：选择较短、难度较低的路线，目标更可达；负荷较轻使情绪压力可承受。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试并逐步挑战（已有小规模实践）",
+          "有家人和朋友的社会支持",
+          "有过一次成功的短途徒步经验，可作为证据和资源",
+          "具备进行现实检验与行为实验的动机"
+        ],
+        "negative_force": [
+          "灾难化与预测性认知（担心半途而废并被困）",
+          "自我效能感不足，倾向自我限制",
+          "回避模式强化了恐惧与失败脚本",
+          "对他人评价的担忧与羞耻感",
+          "身体功能受限（失去一只手臂）带来的实际压力与不确定性"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避具有较高难度的徒步与其他需要体力的挑战性任务",
+          "antecedent": [
+            "看到或规划高难度徒步路线",
+            "朋友邀请或想到与他人一起挑战更难路线",
+            "想象在半途体力不支、无法继续的情境"
+          ],
+          "core_reason": "车祸后失去一只手臂，形成对失败与他人评判的强烈恐惧，并伴随灾难化与预测性自动思维，降低自我效能感",
+          "function": "逃避潜在失败与羞耻，维持主观安全感与可控性",
+          "consequence": "户外活动减少、体验受限；自信下降与挫败感增加；生活满意度受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1769
+}

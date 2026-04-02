@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "王佩琪",
+      "gender": "女",
+      "occupation": "市场营销从业者",
+      "educational_background": "市场营销学士",
+      "marital_status": "未婚",
+      "family_status": "独生子女",
+      "social_status": "有几位亲密朋友，但尚未与其讨论这些具体想法；与潜在伴侣的关系受自尊问题影响；工作表现未受影响",
+      "medical_history": "无重大躯体疾病；既往未有类似问题；未接受过心理治疗",
+      "language_features": "首次咨询略紧张；态度积极、配合度高；表达清晰、逻辑性较好；能自我觉察与反思"
+    },
+    "main_problem": "我相信别人觉得我不漂亮，这影响了我的自尊与自信，尤其是在寻找结婚伴侣的过程中；我常常自我怀疑并感到自己不具吸引力，主要在社交或初次见面时出现。",
+    "topic": "婚姻关系",
+    "core_demands": "“我愿意做任何事来让自己感觉更好并提升自信。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不漂亮",
+        "我不具吸引力"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合或与陌生人初次见面时",
+          "conditional_assumptions": "如果我外表不够漂亮，别人就会不愿与我交谈或发展关系",
+          "compensatory_strategies": "通过化妆与造型来提升自信；在出门前过度投入外貌管理",
+          "automatic_thoughts": "这里的人大概都觉得我不好看，不想和我说话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "开始主动寻找结婚伴侣的阶段",
+          "conditional_assumptions": "如果别人根据外貌评判我并觉得我不漂亮，我就无法找到伴侣",
+          "compensatory_strategies": "在约会或认识新朋友前强化外貌修饰；回避向朋友透露这些想法以避免被评价",
+          "automatic_thoughts": "他们会根据外貌来判断我，觉得我不够漂亮",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在聚会或公共场合中，注意到自己相比他人获得的关注更少",
+          "conditional_assumptions": "如果我得到的关注少，就证明我不漂亮、不如别人",
+          "compensatory_strategies": "加重自我批评并进一步投入外貌修饰以“追赶”他人",
+          "automatic_thoughts": "我不如别人漂亮",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与潜在伴侣的互动中",
+          "conditional_assumptions": "如果不够漂亮，就不会被选为伴侣并可能遭到拒绝",
+          "compensatory_strategies": "在互动前过度准备外貌；社交中谨慎、减少主动表达以避免被拒绝",
+          "automatic_thoughts": "他大概不会对我有兴趣，因为我不好看",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被欣赏，并与伴侣建立稳定的亲密关系",
+        "fear": "害怕因外貌被评判与拒绝，体验羞耻与不被选择的痛苦",
+        "defense_goal": [
+          "通过过度修饰外表来降低被拒绝风险",
+          "避免向朋友透露真实想法以减少被评判的可能",
+          "在社交中保持谨慎与自我监控以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自卑、需要通过外貌获得认可的自我",
+          "object_representation": "他人（尤其潜在伴侣）被体验为苛刻的评判者",
+          "linking_affect": "羞耻、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请其分享与外貌相关的羞耻性想法，或在社交中感到被注视与比较时",
+          "interpretation": "潜意识将他人视为评判者，认为对方会觉得自己浅薄或不好看（移情：他人=批判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用温和、接纳的语气，先共情其羞耻与担忧，再以开放式问题引导其具体化证据与体验；避免评判与过度解释，保持节奏缓慢与安全感的建立。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "强烈渴望找到婚姻伴侣以对抗孤独感",
+            "在社交场合担心被外貌评判，减少主动交流",
+            "因羞耻而不向朋友透露真实想法"
+          ],
+          "outcomes": [
+            "自尊降低与自我怀疑加重",
+            "社交焦虑与退缩",
+            "对外貌的过度投入与时间消耗"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在社交场合不断自我怀疑与二次猜测",
+            "会谈中坦言紧张、谨慎表达",
+            "在出门前过度花时间于外貌打理以确保“合格”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将他人的目光或关注度不足解释为“他们觉得我不漂亮”",
+            "初次见面时预设他人会负面评价自己的外貌"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并积极配合咨询，动机强",
+          "拥有支持性的朋友网络（有几位亲密朋友）",
+          "工作表现稳定，生活功能保持",
+          "能觉察并开始质疑负性自动思维（承认缺乏证据并看到相反证据）"
+        ],
+        "negative_force": [
+          "频繁的读心术与仓促下结论，过度关注他人评价",
+          "自我监控与自我怀疑严重，依赖外部认可",
+          "过度投入外貌管理以寻求暂时缓解，造成时间消耗",
+          "羞耻与被拒绝的恐惧导致与潜在伴侣互动受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交前后过度打理外貌（化妆与造型耗时）",
+          "antecedent": [
+            "临近社交活动或与陌生人初次见面",
+            "准备与潜在伴侣互动"
+          ],
+          "core_reason": "基于“别人觉得我不漂亮”的信念，以外貌修饰作为补偿来缓解焦虑与不安全感",
+          "function": "寻求外部认可、暂时降低被拒绝的恐惧",
+          "consequence": "打乱日常作息，耗费时间与精力，仍难以稳定提升自尊"
+        },
+        {
+          "behavior": "在社交场合出现显著的焦虑与自我怀疑，减少主动交流",
+          "antecedent": [
+            "置身社交场合或初次与新朋友见面",
+            "注意到他人对自己的关注度较低"
+          ],
+          "core_reason": "读心术与仓促下结论，预测他人会因外貌拒绝自己并感到羞耻",
+          "function": "回避潜在的拒绝与羞耻，短期保护自尊",
+          "consequence": "与潜在伴侣的关系受影响，错失互动机会，自我价值感下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1711
+}

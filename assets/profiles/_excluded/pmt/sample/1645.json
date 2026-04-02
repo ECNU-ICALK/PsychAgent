@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "柯瑞",
+      "gender": "男",
+      "occupation": "房主",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数亲密朋友可交流，但尚未与他们讨论该问题；与宠物（狗）的关系受到负面影响",
+      "medical_history": "无显著躯体疾病；未有类似心理问题史；既往未接受心理治疗或咨询",
+      "language_features": "表达清晰、思路连贯，能配合探索；语气偏消极与犹豫；自我怀疑、羞耻感较显著；能识别并描述自身情绪与自动化思维；愿意尝试练习但对效果不确定"
+    },
+    "main_problem": "我一直觉得我从狗那里得到的爱仅仅因为我喂它们、照顾它们，这让我很痛苦。",
+    "topic": "情绪管理",
+    "core_demands": "我只想感觉好一些，不要总是有这些想法；我想像以前一样享受与我的狗在一起的时光，不要那么担心。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被真正地爱"
+      ],
+      "special_situations": [
+        {
+          "event": "当与狗互动或观察它们表现出亲近时",
+          "conditional_assumptions": "如果别人（包括宠物）的亲近只是因为我的付出，那就不是真正的爱；这说明我不值得被无条件地爱",
+          "compensatory_strategies": "减少与狗玩耍与亲密接触以降低焦虑和失望",
+          "automatic_thoughts": "它们只是因为我喂食、照顾才对我好，这不是真正的爱",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在喂食或提供照料的情境中",
+          "conditional_assumptions": "我的价值仅来自作为照料者的角色；一旦不提供照料就不会被爱",
+          "compensatory_strategies": "在脑中不断试图理性化与自我论证以缓解不安",
+          "automatic_thoughts": "它们对我的所有亲近都只是交易性的，因为食物和照料",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当想到是否向亲密朋友倾诉这些担忧时",
+          "conditional_assumptions": "如果我表达这些想法，别人会觉得我可笑、不会理解我",
+          "compensatory_strategies": "回避与朋友讨论，保持沉默以避免被轻视",
+          "automatic_thoughts": "他们会笑话我、觉得我很奇怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当观察到狗的任何亲近行为时",
+          "conditional_assumptions": "负面迹象更能说明真相；积极的证据不可靠",
+          "compensatory_strategies": "只关注支持“交易性关系”的线索，忽略其他温情的时刻",
+          "automatic_thoughts": "它们靠近我只是为了得到食物，其他表现都不算数",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被无条件地爱与接纳",
+        "fear": "害怕不被真正地爱、被轻视或被嘲笑",
+        "defense_goal": [
+          "通过保持距离来降低被拒绝的风险",
+          "避免向他人暴露脆弱以保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不值得被爱的、对自身价值感到怀疑的照料者",
+          "object_representation": "他者（宠物/朋友）是有条件给予、可能轻视和不理解自己的存在",
+          "linking_affect": "焦虑、悲伤、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与亲密朋友分享并寻求支持时",
+          "interpretation": "认为朋友会觉得自己可笑、不被理解（将被嘲笑的担心投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用犹豫且自我保护的语气表达顾虑（如“他们可能会笑我”），避免承诺分享，转而强调尴尬和不适。"
+        },
+        {
+          "trigger_condition": "当咨询师提出进行认知练习或行为实验时",
+          "interpretation": "认为这些方法对自己可能不起作用，以理由维持现状",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用大量“也许/可能”的限定词，给出看似理性的理由说明自己很难改变，从而推迟行动。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其关注与狗之间的真实情感体验时",
+          "interpretation": "将亲密与爱抽象化为照料—回报的交易，以避免情绪卷入",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用分析性的语言讨论“因果”和“逻辑”，减少情感词汇，语气平淡、与情绪保持距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心自己不被真正地爱，即使与宠物的关系也充满怀疑",
+            "因尴尬而不向朋友倾诉，减少外界连接",
+            "与狗的互动减少，体验到疏离"
+          ],
+          "outcomes": [
+            "焦虑与悲伤加重",
+            "社交退缩与关系疏离",
+            "自我价值感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外发出的行为或冲动，将能量转而对自己。",
+          "manifestations": [
+            "不向朋友寻求支持，把顾虑和能量转向自责与羞耻",
+            "减少与狗的互动、压抑亲近冲动以避免更难受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心被笑话而不愿开口，频繁自我怀疑",
+            "用“谁会担心这种问题”来否定自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对狗有稳定的情感连接与爱（愿意改善关系）",
+          "主动寻求咨询并愿意尝试练习",
+          "能够识别并命名自身的负性思维与情绪",
+          "拥有少数亲密朋友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "对被爱真实性的深层不安全感与恐惧",
+          "认知偏差显著（否定正面、心理过滤、过度概括、读心术、个人化）",
+          "羞耻与自我怀疑，回避向朋友求助",
+          "退缩并减少与狗的互动，强化孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "减少与狗的互动与玩耍（社交退缩）",
+          "antecedent": [
+            "与狗互动或观察它们表现亲近时",
+            "想到“它们只因我喂食和照料才对我好”"
+          ],
+          "core_reason": "对“不被真正地爱”的恐惧与不安全感，以及否定正面、心理过滤等认知偏差维持该恐惧",
+          "function": "逃避亲密与情感接触，以降低被证实“不被爱”的可能和由此带来的焦虑",
+          "consequence": "与宠物关系受损、愉悦感下降、整体情绪更低落与焦虑加剧"
+        },
+        {
+          "behavior": "反复思考“狗只因喂食而爱我”（反刍性思维伴随焦虑与悲伤）",
+          "antecedent": [
+            "与狗相处时反复关注其靠近与亲近行为",
+            "独处时回想并论证相关想法"
+          ],
+          "core_reason": "对爱真实性的怀疑与自我价值感低落，过度概括与否定正面驱动反刍",
+          "function": "试图通过理性化获得确定性与自我安慰（实际维持焦虑）",
+          "consequence": "焦虑与悲伤维持或加重，进一步削弱与狗的互动与日常愉悦"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1645
+}

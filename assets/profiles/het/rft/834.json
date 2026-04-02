@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "工商管理专业学生",
+      "educational_background": "在读工商管理学位",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有少量朋友可谈一般话题，但尚未分享更深层的感受与困扰",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；本问题在搬到新国家后出现",
+      "language_features": "表达清晰、有条理；能具体描述情境与感受；配合度高、态度积极，愿意尝试新策略；在计划实践时表达适度紧张与犹豫"
+    },
+    "main_problem": "我热爱旅行，但因人们对俄罗斯人的偏见和刻板印象而感到气馁，这种信念让我困扰并犹豫是否去旅行。",
+    "topic": "人际关系",
+    "core_demands": "持续的消极想法与怀疑妨碍了我充分享受旅行的热情，因此寻求咨询以应对并克服这些担忧。",
+    "growth_experiences": [
+      "搬到新国家就读后，开始出现关于他人对俄罗斯人持有偏见的消极想法；当计划旅行或与不同文化背景的人互动时，这些想法会浮现并加重，压力起初为中等但随着类似情境累积而逐渐增加；曾尝试自行挑战想法并向朋友寻求再保证，但疑虑仍反复出现，影响旅行、社交与一定程度的学业表现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界对我（作为俄罗斯人）充满偏见与敌意",
+        "我不会被他人接纳（因为我的国籍）"
+      ],
+      "special_situations": [
+        {
+          "event": "计划一次旅行时",
+          "conditional_assumptions": "如果我在旅行中遇到他人，他们会因为我是俄罗斯人而带着偏见对待我，那将会是糟糕的经历，所以最好不要去。",
+          "compensatory_strategies": "回避出行计划、减少具体安排；在出发前向朋友寻求再保证以暂时缓解焦虑",
+          "automatic_thoughts": "无论去哪儿，人们都会因为我是俄罗斯人而对我不好，不如不去。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与不同文化背景的新朋友初次见面时",
+          "conditional_assumptions": "如果对方知道我的国籍，就一定会负面评价我、与我保持距离。",
+          "compensatory_strategies": "减少自我披露、保持谨慎与距离，降低互动深度",
+          "automatic_thoughts": "他们肯定在心里评判我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在校园或日常社交中准备与陌生同学交谈时",
+          "conditional_assumptions": "如果对方不够热情或表情中性，那就说明他们对俄罗斯人持偏见，是我不被喜欢的证据。",
+          "compensatory_strategies": "过度关注他人细微的负面线索，减少主动互动以避免被拒绝",
+          "automatic_thoughts": "他/她对我不太热情，是在嫌弃我。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "朋友给予安慰或正向反馈时",
+          "conditional_assumptions": "除非大多数人都明显友善，否则个别的正向反馈并不能代表现实；正面证据不可靠。",
+          "compensatory_strategies": "将安慰与友好反应视为偶然或表面客气，从而维持原有信念",
+          "automatic_thoughts": "他们只是说些好听的话，这不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被公平对待与接纳，能够自由地去旅行并与不同文化的人建立联系",
+        "fear": "害怕因国籍而被评判、拒绝与排斥，最终被孤立",
+        "defense_goal": [
+          "通过保持距离与回避旅行来降低被拒绝的风险",
+          "以强调外界偏见的理由来维持心理安全与自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被排斥、被评判的外来者",
+          "object_representation": "带有偏见、随时可能拒绝自己的评判者",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或面对具体的旅行与跨文化互动计划时（包括在咨询中探讨并细化计划的时刻）",
+          "interpretation": "将他人的中性或未证实的反应理解为对自己国籍的负面评价（移情式地期待对方会像“评判者”那样对待自己）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎而保守，提前强调“他人可能有偏见”的风险以自我保护，倾向于弱化或推迟行动，避免深度接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "热爱旅行但因担心他人偏见而限制自身行动选择",
+            "在计划旅行时产生退缩与犹豫"
+          ],
+          "outcomes": [
+            "自由感受限，生活范围与体验缩减",
+            "对旅行热情受挫与内在冲突增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与不同文化背景的人建立联系",
+            "未向朋友分享更深层的感受与困扰"
+          ],
+          "outcomes": [
+            "社交连接受限，主观疏离与焦虑感增强",
+            "支持系统难以深入发挥作用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在咨询中表达紧张与担心，强调需要更充分的计划与准备后才敢行动",
+            "倾向于谨慎开启互动，降低自我暴露"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在叙述中频繁假设他人会因其国籍而评判自己",
+            "将未验证的他人想法当作既定事实，从而退缩接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "内在动机强：热爱旅行，愿意恢复自由探索的生活",
+          "求助与改变意愿强：主动寻求咨询、态度积极，愿意尝试行为实验",
+          "具备一定社会支持：有几位可交流日常话题的朋友"
+        ],
+        "negative_force": [
+          "读心术与预测未来倾向，放大被偏见对待的可能性",
+          "心理过滤与否定正向证据，强化负面信念",
+          "回避旅行与跨文化互动，减少获取纠偏证据的机会",
+          "依赖再保证的安全行为带来短期缓解但维持长远疑虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避旅行与减少跨文化互动",
+          "antecedent": [
+            "计划旅行或准备制定具体出行安排",
+            "与不同文化背景的人初次见面或预期互动",
+            "想到自己的俄罗斯身份可能被评价时"
+          ],
+          "core_reason": "对被偏见评判的灾难化预测与读心式预期，导致强烈焦虑与退缩",
+          "function": "逃避被拒绝或被评判带来的不适与焦虑",
+          "consequence": "旅行频率与体验减少；社交受限、难以建立联系；学业投入与表现受到一定影响"
+        },
+        {
+          "behavior": "重复寻求再保证（向朋友反复求证）",
+          "antecedent": [
+            "在出行前或社交前出现疑虑和焦虑",
+            "遇到未确定的他人反应或中性线索"
+          ],
+          "core_reason": "对不确定性的低耐受与对外部验证的依赖，试图用他人保证缓解焦虑",
+          "function": "获得短期安心与控制感",
+          "consequence": "对再保证的依赖加重、疑虑反弹更快，维持负性信念与回避行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 834
+}

@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "张宇",
+      "gender": "男性",
+      "occupation": "无人机制造/组装工程师",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一位亲密且支持的朋友，但尚未与其讨论相关感受",
+      "medical_history": "无显著躯体疾病；此前未就此问题接受过咨询",
+      "language_features": "态度偏负面但合作度高；表达清晰、能进行自我反思；在涉及自我揭露时谨慎犹豫；能够设定小目标并愿意尝试渐进改变"
+    },
+    "main_problem": "因对动漫的热爱与多次参加漫展而担心被他人视为“奇怪/幼稚”，在社交场合尤其谈及兴趣时产生被评价的羞耻与焦虑，进而避免分享、影响自信与建立深层关系。",
+    "topic": "人际关系",
+    "core_demands": "“我决定寻求咨询，因为这些被评价的感受开始影响我的自信和社交互动。”并希望逐步减少羞耻、增强自信，尝试先向支持的朋友分享关于兴趣的内容。",
+    "growth_experiences": [
+      "自青少年时期起，因社会对动漫爱好者的刻板印象与误解而长期感到被评价与羞耻；这些感受延续至成年，导致在社交场合回避谈论兴趣、难以形成深层连接。此前未接受相关咨询，身体状况无明显问题。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不被他人接纳的",
+        "我很奇怪/幼稚"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合谈论自己的兴趣或爱好时",
+          "conditional_assumptions": "如果公开谈论动漫与漫展，我会被贴上“幼稚/奇怪”的标签，从而被评判与拒绝",
+          "compensatory_strategies": "在社交中尽量回避谈及兴趣；尝试“把念头抛开并关注爱好的积极面”以减少不适",
+          "automatic_thoughts": "他们会觉得我很奇怪、幼稚",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当他人知道或询问我参加多个漫展的经历时",
+          "conditional_assumptions": "如果别人知道我经常参加漫展，就会认定我不够成熟",
+          "compensatory_strategies": "隐藏相关信息、轻描淡写或不主动提及参加漫展的事实",
+          "automatic_thoughts": "成年人不应该喜欢动漫，我不该这样",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "与支持的朋友相处但考虑是否分享关于兴趣与羞耻感受时",
+          "conditional_assumptions": "即便是亲密朋友也可能基于社会刻板印象看轻我",
+          "compensatory_strategies": "保持沉默、避免深入自我揭露以防被评判",
+          "automatic_thoughts": "他可能不会理解，会觉得我幼稚",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想社会刻板印象与自身积极体验（创造力与社区感）的冲突时",
+          "conditional_assumptions": "社会普遍看低动漫爱好者，因此我的积极体验“并不算数”",
+          "compensatory_strategies": "否定正向证据、持续用负性标签看待自己",
+          "automatic_thoughts": "即使我热爱并从中获得社区感，别人仍会认为我是怪人",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳，能够自由且自然地表达对动漫的兴趣，并建立更深的人际连接",
+        "fear": "害怕被评判、羞辱与拒绝，被视为幼稚或奇怪",
+        "defense_goal": [
+          "通过保持沉默与回避来自我保护",
+          "与他人保持安全距离以减少被评判的风险",
+          "以社会刻板化解释来降低情感暴露与脆弱性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞怯的局外人、容易被贴标签的人",
+          "object_representation": "带有偏见的评判者/轻视者",
+          "linking_affect": "羞耻、焦虑、退缩"
+        },
+        {
+          "self_representation": "需要被理解与接纳的爱好者",
+          "object_representation": "可能会理解但也可能评判的亲密他人",
+          "linking_affect": "矛盾、犹豫、希望与担心并存"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在会谈或现实中被邀请谈论/分享自己的动漫兴趣时",
+          "interpretation": "将咨询师或他人体验为可能用“幼稚/奇怪”的标签来评判自己（移情中带有投射的色彩）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和、肯定与正常化；避免评判性语言；以开放式提问邀请其描述具体场景与情绪；逐步引导其识别和命名羞耻、恐惧等感受。"
+        },
+        {
+          "trigger_condition": "当想到“别人会怎么看我”或讨论社会刻板印象时",
+          "interpretation": "将外界整体视为潜在否定者，预期他人一概会负面评价自己",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气支持与共情；引导其关注身体与当下体验，帮助其把被压抑的情绪以安全幅度表达；使用具体化与证据检视，区分事实与假设。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在社交场合难以自由表达兴趣，担心被贴上“幼稚/奇怪”的标签",
+            "在漫展语境中感到创造力与社区带来的自我一致与自由感"
+          ],
+          "outcomes": [
+            "羞耻与焦虑加重",
+            "自我一致性受损",
+            "自信下降与回避自我揭露"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免分享兴趣导致难以建立深层连接",
+            "虽有支持的朋友却迟疑是否表达真实感受"
+          ],
+          "outcomes": [
+            "人际疏离",
+            "社交互动受限",
+            "情感支持利用不足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将社会对动漫爱好者的刻板印象当作评价自己的标准",
+            "内在化“动漫=幼稚/奇怪”的标签，削弱自我接纳"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "“他们会觉得我幼稚/奇怪”、“别人会看不起我”",
+            "在尚未验证的情况下预设他人负面态度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我怀疑与第二猜自己",
+            "在分享兴趣前过度谨慎、担心出错或被评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，将能量回收而非向外表达。",
+          "manifestations": [
+            "有表达兴趣与感受的冲动但选择保持沉默",
+            "避免与朋友讨论真实感受，转而自我压抑与自我标签"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在一般社交场合谈及兴趣时，张宇通常会担心被评判并选择回避，导致难以建立深层关系。",
+          "unique_outcome": "在参加漫展的情境中，他体验到创造力与社区的积极氛围，感到更自在与被接纳，相较平时更少担心被评价。",
+          "reason": "线索：情境不同（同好者聚集、刻板印象弱化）；关系不同（共享兴趣的人在场，获得接纳与归属感）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对兴趣与社区的热爱带来自我一致与归属感",
+          "拥有一位支持的朋友可作为安全的分享对象",
+          "职业功能稳定、工作表现未受影响"
+        ],
+        "negative_force": [
+          "过度在意他人评价与寻求外部验证",
+          "读心术与预测未来倾向加剧不安全感",
+          "自我贴标签与回避自我揭露导致人际疏离",
+          "羞耻感与自信心下降影响日常自我照料"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交情境中回避谈论个人兴趣（动漫与漫展），并进行自我否定/贴标签",
+          "antecedent": [
+            "被问及兴趣或主动谈及爱好时",
+            "想到社会对动漫爱好者的刻板印象时",
+            "准备与支持的朋友分享前产生犹豫与羞耻"
+          ],
+          "core_reason": "担心被评判为“幼稚/奇怪”，内摄社会刻板印象并进行读心与负面预测，对外部认可高度依赖以判断自我价值。",
+          "function": "逃避被评判与拒绝的潜在风险，降低羞耻与焦虑的不适体验。",
+          "consequence": "难以建立深层关系，自信心受损，日常自我照料与生活质量受到影响。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1801
+}

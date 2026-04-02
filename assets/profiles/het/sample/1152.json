@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "李洁",
+      "gender": "女",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，与一只猫一起生活",
+      "social_status": "偏好独处，缺乏强有力的支持系统，与他人关系不多",
+      "medical_history": "无显著躯体疾病；既往未出现类似心理问题；未接受过心理治疗或心理咨询",
+      "language_features": "能清晰表达困扰与具体情境，配合度较高；语气偏消极，反复出现自我否定与担忧；呈现明显焦虑与一定的回避倾向"
+    },
+    "main_problem": "我持续担心咖啡馆的顾客因为我衣服上有猫毛而把我看作邋遢的人，这个念头让我感到压力和焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "持续的担忧和焦虑影响了我的工作表现和整体身心健康，因此寻求咨询以改善这种状况。",
+    "growth_experiences": [
+      "几个月前，一位顾客对我制服上的猫毛做了随口评论；自此开始在与顾客互动时反复产生“他们会觉得我邋遢”的想法，焦虑逐步加重；我尝试过“淡化评论”和使用粘毛滚清理衣物，但担忧与自动化思维仍持续；该问题影响到工作表现、睡眠以及自我照料。",
+      "首次需要出售自有土地，因缺乏相关经验而产生强烈自我怀疑与对谈判的恐惧；每当想到谈判与与潜在买家接触就会回避与拖延；虽然尝试向朋友咨询并阅读谈判技巧，仍感到更为不堪与压倒性，进一步强化“我不够好、会失败”的认知。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的自我价值取决于他人的认可与评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在咖啡馆与顾客互动时，注意到衣服上有猫毛",
+          "conditional_assumptions": "如果别人看到我衣服不干净，就会认定我邋遢并否定我这个人",
+          "compensatory_strategies": "使用粘毛滚、尽量掩饰猫毛，过度关注顾客的反应与表情",
+          "automatic_thoughts": "顾客一定觉得我很邋遢",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "几个月前有顾客对我制服上的猫毛作出随口评论",
+          "conditional_assumptions": "如果他人指出我的不足，说明我整体上就是不够好",
+          "compensatory_strategies": "不断反刍该评论，试图通过更用力清理衣物来避免再次被评价",
+          "automatic_thoughts": "他们说的是真的，我就是不够体面",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次上班前想到要与顾客接触",
+          "conditional_assumptions": "只有外表完美无瑕才能被认可，一旦不完美就会被拒绝或看不起",
+          "compensatory_strategies": "班前反复检查与清理衣物，或产生逃避上班的想法",
+          "automatic_thoughts": "如果出现猫毛，今天一定会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到需要与潜在买家谈判出售土地",
+          "conditional_assumptions": "如果谈判不成功或被拒绝，就证明我不够好并会遭到羞辱",
+          "compensatory_strategies": "拖延与回避联系买家，仅进行间接准备（咨询朋友、阅读资料）",
+          "automatic_thoughts": "我会失败，没人会买，我不够好",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被积极评价、被接纳与认可",
+        "fear": "害怕被拒绝、被羞辱与被否定",
+        "defense_goal": [
+          "通过回避与维持完美形象来降低被评判的风险与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被他人评判的当事者",
+          "object_representation": "苛刻的评判者或潜在的拒绝者（顾客/买家）",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到要出售土地并需要与买家进行谈判时",
+          "interpretation": "潜意识将潜在买家视为会拒绝并羞辱自己的权威性评判者",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但犹疑的语气强调“我还没准备好/这是我第一次”，将话题引向信息搜集与准备，避免承诺具体行动。"
+        },
+        {
+          "trigger_condition": "在咖啡馆注意到衣服上有猫毛或听到顾客关于猫毛的评论时",
+          "interpretation": "把顾客的中性或随口评论理解为对自身品格的负面评判与否定",
+          "defense_mechanism": "抵消",
+          "defense_definition": "用象征性的行为或语言来试图抵消或弥补已经发生的、引发内疚的念头或行为。",
+          "response_instruction": "迅速道歉并解释，强调“我马上处理”，同时反复使用粘毛滚清理衣物，以降低内疚与焦虑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "偏好独处、缺乏强支持系统，常将担忧与困扰埋在心里不与他人分享"
+          ],
+          "outcomes": [
+            "持续焦虑与自我怀疑加重",
+            "睡眠被影响与自我照料下降",
+            "在人际情境中更依赖他人评价以确认自我价值"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（“我不够好”）",
+            "过度担心他人评价、在接触顾客或潜在买家前反复检查与犹疑"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将自身的羞耻与担忧投射为“顾客一定觉得我很邋遢”",
+            "在销售土地的情境中预设“他们会拒绝我”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一定的沟通与说服能力，可迁移至谈判场景",
+          "愿意寻求专业咨询与支持，开放于探索与尝试",
+          "已采取具体行动（使用粘毛滚、尝试淡化评论）显示问题解决意愿",
+          "能提出“小步尝试”的思路（先非正式接触以试水）"
+        ],
+        "negative_force": [
+          "过度依赖外部评价以确认自我价值",
+          "认知偏差显著（读心术、过度概括、预测未来）",
+          "社交支持薄弱、倾向独处，难以获得情绪性与工具性支持",
+          "回避与拖延行为导致问题维持与加重",
+          "焦虑影响睡眠与自我照料，进一步削弱应对资源"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在想到出售土地与需要谈判时出现回避与拖延",
+          "antecedent": [
+            "想到要联系潜在买家",
+            "面对谈判情境与不确定的结果"
+          ],
+          "core_reason": "害怕失败与被拒绝、对谈判技能缺乏信心，并以此验证“我不够好”的核心信念",
+          "function": "逃避潜在的失败与羞耻，暂时降低焦虑",
+          "consequence": "交易推进受阻，持续焦虑与自我效能感下降，问题长期化"
+        },
+        {
+          "behavior": "与顾客互动时对他人评价的强迫性担忧与显著焦虑",
+          "antecedent": [
+            "工作中与顾客互动",
+            "注意到衣物上猫毛或想起顾客的相关评论"
+          ],
+          "core_reason": "自我价值高度依赖他人认可，伴随读心术与预测未来的认知偏差",
+          "function": "通过警觉与自我检查试图避免负面评价",
+          "consequence": "工作表现受影响、睡眠紊乱与自我照料下降，负性循环强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1152
+}

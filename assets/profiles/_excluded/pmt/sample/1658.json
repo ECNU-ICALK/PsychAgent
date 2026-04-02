@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "张博文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "人际关系受不安全感影响，出现社交回避与群体情境焦虑；有一些朋友但未与其讨论不安全感",
+      "medical_history": "无重大躯体疾病；未接受心理治疗；此前未出现类似心理问题史",
+      "language_features": "表达清晰，能自我反思并配合重构认知；配合度高、态度积极；在社交话题上情绪与认知描述具体，报告在群体情境中明显焦虑与回避"
+    },
+    "main_problem": "感觉他人认为自己无聊和不有趣，因而在社交场合出现焦虑并回避互动，影响社交生活并造成痛苦。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些不安全感正在影响我的社交生活并造成我困扰。",
+    "growth_experiences": [
+      "几个月前，一位朋友对张博文的爱好（喜爱披头士乐队、弹贝斯、集邮、古董家具、拥有大量CD）做了随口评价，此后他开始觉得别人认为自己的兴趣“奇怪/过时”，由此触发持续的不安全感与自我怀疑；此前没有类似问题或心理治疗史；虽有一些朋友，但未与他们讨论这份不安全感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个无聊、不值得被认识的人",
+        "我的价值取决于他人是否认可我的兴趣"
+      ],
+      "special_situations": [
+        {
+          "event": "在结识新朋友并进行初次对话时",
+          "conditional_assumptions": "如果我的兴趣被认为奇怪或过时，就说明我很无聊，不值得被认识",
+          "compensatory_strategies": "刻意更换话题、尝试谈论更多不同内容以显得更有趣；回避社交场合",
+          "automatic_thoughts": "他们觉得我很无聊，肯定不想了解我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在派对上谈及自己的集邮爱好时，周围人表现出不太感兴趣",
+          "conditional_assumptions": "如果别人当下不表现出兴趣，就代表我这个人很无聊",
+          "compensatory_strategies": "减少谈论自己的兴趣、避免类似社交话题或场合",
+          "automatic_thoughts": "大家都在觉得我很无聊，是我的问题",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "几个月前朋友对其兴趣的随口评论被他听到",
+          "conditional_assumptions": "他人的评价就是事实，我必须迎合主流兴趣才能避免被认为无聊",
+          "compensatory_strategies": "努力在对话中显得更有趣，以获取他人认可",
+          "automatic_thoughts": "他们都觉得我的兴趣很奇怪，所以我不有趣",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在群体场合或与陌生人互动的社交情境",
+          "conditional_assumptions": "若我不能让大家觉得有趣，就会被排斥和拒绝",
+          "compensatory_strategies": "提前回避群体互动以避免尴尬或被否定",
+          "automatic_thoughts": "我会被他们排斥，谈不起来",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳和喜欢，期待以真实兴趣被理解与认可",
+        "fear": "害怕被拒绝、被评判为无聊，从而失去关系与联系",
+        "defense_goal": [
+          "通过回避社交来降低被否定的风险",
+          "通过迎合他人话题来减少被评判的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无趣、容易被拒绝的自我",
+          "object_representation": "他人是挑剔的评判者或不感兴趣的观众",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合中他人表现沉默或不太感兴趣时（如派对谈论集邮时）",
+          "interpretation": "认为对方正在评判自己“无聊”、不值得被认识（移情：将他人视为挑剔的评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用温和、共情和澄清式询问；帮助其检视证据与替代解释，避免评判与对抗，鼓励逐步面对社交情境。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在结识新朋友和群体场合中因担心被评判而回避接触",
+            "将自我价值过度系于他人看法，难以以真实兴趣呈现自己",
+            "频繁自我贴标签为“无聊、不值得被认识”"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "社交回避",
+            "自我评价降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "经常认为他人会觉得自己无聊、在评判自己，即使对方并未表态",
+            "在派对上将他人的不感兴趣解读为对自己的否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心显得无趣而刻意改变话题以迎合他人",
+            "在社交前过度审查自己是否“足够有趣”，导致紧张与回避"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有多样且独特的兴趣（音乐/乐器/收藏），可作为社交资源",
+          "愿意尝试认知重构与行为实验，配合度高",
+          "具备自我反思能力，能提出替代解释（如意识到他人可能只是不了解集邮）",
+          "存在一定社会支持（有朋友可交流）"
+        ],
+        "negative_force": [
+          "读心术与个人化的认知偏差，过度在意他人评价",
+          "社交场合的回避行为，强化不安全感",
+          "寻求外部验证以决定自我价值",
+          "在群体情境中的预期性负面判断导致焦虑（预测未来）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与焦虑",
+          "antecedent": [
+            "结识新朋友时",
+            "参与群体活动或派对时",
+            "谈论个人兴趣（如集邮、披头士、贝斯等）时"
+          ],
+          "core_reason": "将他人的中性或不熟悉反应解读为对自我的负面评价（读心术、个人化），并预测被拒绝，导致不安全感与焦虑。",
+          "function": "逃避被否定或尴尬的风险，以暂时降低焦虑",
+          "consequence": "社交生活受损，减少互动与练习机会，加重自我怀疑与孤独感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1658
+}

@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "陈达",
+      "gender": "男",
+      "occupation": "医药行业从业者",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友和家人可倾诉，但安慰未能缓解焦虑；近期因焦虑与同事关系一度紧张",
+      "medical_history": "无重大躯体疾病；此前无类似焦虑问题；无既往心理治疗/咨询史",
+      "language_features": "表达清晰、逻辑性良好、配合度高；频繁使用负性预测与灾难化表述，反复聚焦于不确定性（天气）"
+    },
+    "main_problem": "对即将到来的巴黎旅行感到焦虑，坚信坏天气会毁掉行程，因而产生痛苦并预期负面体验。",
+    "topic": "情绪管理",
+    "core_demands": "焦虑已影响日常功能与工作专注，希望缓解与旅行相关的焦虑、恢复专注与日常状态。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法拥有好事",
+        "如果体验不够完美，就不值得/等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "临近出发日期并查看一周天气预报显示可能有雨",
+          "conditional_assumptions": "如果天气不完美，旅行就会被毁；我需要在出发前把一切都确定下来才安全",
+          "compensatory_strategies": "过度监测天气、反复刷新APP与信息搜寻以试图获得掌控感",
+          "automatic_thoughts": "这次一定会一直下雨，行程会被完全毁掉",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在制定行程时想到户外景点可能受雨影响",
+          "conditional_assumptions": "如果计划被打乱，时间和金钱就被浪费；备选方案都不如原计划",
+          "compensatory_strategies": "做多个备选计划但同时贬低其价值，降低期待以避免失望",
+          "automatic_thoughts": "只要天气不好，这趟旅行就不值得",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与朋友或家人谈论担忧并获得安慰与鼓励",
+          "conditional_assumptions": "如果我需要他人安慰却仍焦虑，说明问题很严重、安慰没有用",
+          "compensatory_strategies": "反复寻求保证，但很快否定正面信息",
+          "automatic_thoughts": "他们说再多也没用，这次肯定会很糟",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "独自思考旅行（尤其在夜间）时焦虑显著升高",
+          "conditional_assumptions": "我现在感觉很糟就等于事实会很糟",
+          "compensatory_strategies": "通过预演最坏情景来‘心理准备’，希望减少失望",
+          "automatic_thoughts": "我感到很糟，所以这次旅行一定会很糟",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望一次可掌控、令人满意并能尽情享受的旅行体验（渴望好事真正发生且能被自己拥有）",
+        "fear": "害怕失望与失控，担心外界不可控因素（天气）剥夺快乐与意义",
+        "defense_goal": [
+          "通过提前监控与计划来避免或降低失望",
+          "通过降低期待来减少受伤的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "对不确定性感到无助的焦虑者，必须确保‘完美’才安心",
+          "object_representation": "好意但无效的安慰者/无法真正解决问题的他人",
+          "linking_affect": "焦虑、怀疑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师鼓励用更平衡的证据挑战负性预测、放松对天气的过度控制时",
+          "interpretation": "感觉对方在让自己‘将就’、降低标准，等同于接受不完美会毁掉体验",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "先共情其对失望的恐惧，语速放慢、语气温和；再以苏格拉底式提问帮助区分事实与预测、可能与必然；提供具体化的两手准备练习，强调选择与掌控在自己。"
+        },
+        {
+          "trigger_condition": "当讨论制定备选方案（室内活动、灵活行程）作为应对不确定性的方法时",
+          "interpretation": "将备选方案视为‘全坏/将就’，感觉一旦不是完美天气就等同失败",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "以温和对镜（反映）方式命名其“全好/全坏”的框架，邀请举例‘同时存在的好与不完美’，鼓励以小步尝试体验“足够好”，巩固灰度思维。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "担心坏天气会让旅行变成‘浪费时间和金钱’",
+            "认为如果不是完美天气，体验就‘不够好’、不值得"
+          ],
+          "outcomes": [
+            "焦虑升级并持续反刍最坏情景",
+            "睡眠与食欲受扰",
+            "工作专注下降、人际紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将‘完美天气才算值得’内化为硬性标准，用‘不够好’评判旅行体验",
+            "即便有备选方案，也被评为不如原计划、因而难以接纳"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "以往性格相对随和（通常较为放松）",
+          "拥有朋友与家人的支持网络",
+          "具备求助动机并主动寻求咨询",
+          "能够提出具体尝试（减少查看预报、考虑备选计划）",
+          "有稳定工作与基本生活结构"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式",
+          "完美化期待与非黑即白的评价标准",
+          "对不确定性的低容忍与过度控制（反复查看天气）",
+          "情绪化推理与对负面信息的选择性关注",
+          "焦虑引发的睡眠、食欲与专注受损形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "强迫性反复查看天气预报",
+          "antecedent": [
+            "想到或讨论即将到来的巴黎旅行",
+            "制定行程时担心户外活动受影响",
+            "临近出发日期",
+            "看到天气APP或相关新闻"
+          ],
+          "core_reason": "害怕失望与无法享受旅行，将‘天气不好=旅行被毁’的灾难化认知视为事实",
+          "function": "通过信息搜寻获得短暂的掌控感，试图降低不确定性与焦虑",
+          "consequence": "短期略减轻不安但总体维持并加剧焦虑；工作专注下降；睡眠和食欲紊乱；与同事关系紧张"
+        },
+        {
+          "behavior": "与旅行相关的过度焦虑与最坏情景预演",
+          "antecedent": [
+            "独处时反复思考行程（尤其夜间）",
+            "查看天气后出现负面线索（如‘可能有雨’）",
+            "与他人谈及旅行并获得安慰后仍反复想象最糟结果"
+          ],
+          "core_reason": "害怕失望与‘不完美=不值得’的内摄规则驱动，倾向以最坏预期来防止受伤",
+          "function": "通过预演最坏情况进行心理准备以自我保护（逃避失望）",
+          "consequence": "持续情绪困扰、难以享受准备过程；日常功能受损（睡眠、食欲、专注下降）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 667
+}

@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "57",
+      "name": "刘帆",
+      "gender": "男",
+      "occupation": "咖啡师",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "独居，与一只名为Jasper的猫同住；未提及其他家庭成员",
+      "social_status": "有几位同事可交谈，但尚未向他们分享自己的内疚与自责感受",
+      "medical_history": "过去未有类似心理问题或心理治疗经历；无显著躯体疾病",
+      "language_features": "表达清晰，条理较好；能进行自我反思与认知重构；配合度高，态度积极"
+    },
+    "main_problem": "因猫Jasper出现耳部感染而产生强烈的内疚与自责，认为自己是糟糕的宠物主人；这种自责每日出现，尤其在给药或清理耳朵时，并影响睡眠与工作专注。",
+    "topic": "情绪管理",
+    "core_demands": "“我希望更有掌控感，减少内疚，这样我可以在工作中更专注并获得更好的睡眠。”此外，“我决定寻求咨询当这些内疚影响我的日常功能和整体幸福感时。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的宠物主人",
+        "出了问题都是我的过失"
+      ],
+      "special_situations": [
+        {
+          "event": "上周带Jasper就诊时被诊断为耳部感染，并被开具后续治疗方案",
+          "conditional_assumptions": "如果我的宠物生病，就说明我照顾不周，我是失败的主人",
+          "compensatory_strategies": "迅速就医并严格遵循治疗计划，投入更多时间护理以“弥补”过失",
+          "automatic_thoughts": "这是我的错，我是个糟糕的宠物主人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每日为Jasper给药或清理感染的耳朵",
+          "conditional_assumptions": "如果需要治疗，就意味着我之前没有及时发现问题，说明我不够细心",
+          "compensatory_strategies": "制定护理与用药时间表、严格执行，并持续在网上学习养宠知识",
+          "automatic_thoughts": "我应该更早注意到这件事",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "工作中因担心Jasper的病情而出现注意力分散、反复思考",
+          "conditional_assumptions": "一个合格的宠物主人必须时刻防患于未然，否则就是失职",
+          "compensatory_strategies": "在工作空档反复检索信息、自我责备、避免与同事分享以防被评判",
+          "automatic_thoughts": "我让他受苦了，说明我不称职",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与其他宠物主人交流或在线搜索理想的护理标准",
+          "conditional_assumptions": "只有得到他人的认可与“标准答案”，我才算合格的主人",
+          "compensatory_strategies": "持续寻求他人建议与网络信息来证明自己做得足够好",
+          "automatic_thoughts": "我做得不够好，需要别人告诉我该怎么做",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可的、合格的照顾者，确保重要对象（宠物）安全无虞",
+        "fear": "害怕因疏忽而伤害重要对象并被视为失败者，随之而来的内疚与自我贬损",
+        "defense_goal": [
+          "通过自我苛责与维持高标准来保持警觉与控制感，以避免再次失误"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚的失职者",
+          "object_representation": "脆弱、需要我保护的被照顾者",
+          "linking_affect": "内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及“我应该更早注意到”这类自责语句，或在照护细节被关注时",
+          "interpretation": "潜意识将不可控的因素解读为自身失职，认为只有更严苛地要求自己才算合格",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用温和、共情的语气，承认其用心与责任感；以开放式提问引导区分可控与不可控因素，鼓励情感命名与现实检证，减少自我惩罚式语言。"
+        },
+        {
+          "trigger_condition": "当面对病因与治疗的不确定性而不断检索信息、寻求“完美标准”时",
+          "interpretation": "相信找到完美答案就能避免错误，以理性分析来对抗焦虑",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "降低解释强度，邀请其关注当下身体与情绪体验；以具体、有限的事实检视代替无限搜寻，强化对自身有效行为的认可。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，与猫Jasper相依；尽管有同事可交流，但未分享内疚与自责感受；与Jasper的关系因内疚而紧张"
+          ],
+          "outcomes": [
+            "内疚加重与自我贬损",
+            "睡眠紊乱",
+            "工作注意力下降与分心"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该”句式（如“我应该更早注意到”）",
+            "以高而僵化的标准评判自己的照护行为"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责、将不可控因素归于自身",
+            "避免向同事表达情绪以防被评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在宠物出现健康问题时，来访者通常会陷入强烈的内疚与自责、反复思考，并导致睡眠受影响与工作注意力下降。",
+          "unique_outcome": "上周发现Jasper耳朵不适后，来访者并未拖延，而是立即带其就医并严格遵循治疗方案，获得明确诊断与照护步骤，展现负责与有效应对。",
+          "reason": "不同做法：及时行动并遵循专业建议；不同支持：获得兽医的专业指导与清晰的护理计划，提升掌控感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对宠物有强烈的关爱与责任心",
+          "及时就医并严格执行治疗计划的行动力",
+          "愿意学习（线上检索、请教其他宠物主人）",
+          "能够从他人视角看见自己正向行为（在会谈中可进行重构）"
+        ],
+        "negative_force": [
+          "过度自责与个人化归因模式",
+          "僵化的“应该”信念与完美标准",
+          "心理过滤倾向，聚焦负面忽略积极证据",
+          "睡眠不足与持续担忧导致注意力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的内疚与自我责备（情绪与认知反应）",
+          "antecedent": [
+            "Jasper出现不适或被提醒需要继续治疗",
+            "每日给药或清理耳朵的时刻",
+            "想到“我应该更早发现问题”"
+          ],
+          "core_reason": "将不可控的病因个人化为自己的过失，内摄外界的“完美照护”标准并以“应该”自我要求。",
+          "function": "通过自我惩罚维持对“合格主人”的道德感与控制感，试图降低对不确定性的焦虑。",
+          "consequence": "睡眠紊乱、工作注意力下降、与宠物的互动紧张，整体福祉受损。"
+        },
+        {
+          "behavior": "过度上网检索与寻求他人建议以反复求证",
+          "antecedent": [
+            "面对病因不明确或担心复发的情境",
+            "工作间隙或独处时焦虑升高"
+          ],
+          "core_reason": "依赖外部验证以确认自身照护是否达标，试图用信息控制不确定性。",
+          "function": "获得短暂的确定感与安抚，避免直接面对内疚与自责的情绪。",
+          "consequence": "分心加重，工作绩效下降，负面思维循环被强化。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 641
+}

@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34岁",
+      "name": "林洁",
+      "gender": "未提及",
+      "occupation": "婚礼策划师",
+      "educational_background": "活动管理学士学位",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与同事关系因其对职业的负面看法而趋于紧张；拥有一群支持性的朋友，但尚未与其讨论这些具体感受",
+      "medical_history": "无重大躯体疾病；无既往心理问题或治疗史",
+      "language_features": "表达清晰、逻辑性强，配合度高（态度积极）"
+    },
+    "main_problem": "因为童年想当建筑师却成为了婚礼策划师，我觉得整个人生被毁了，这一信念导致失望与失败感。",
+    "topic": "职业发展",
+    "core_demands": "这些失望与失败感正在影响整体幸福感与工作满意度，并导致职业倦怠，希望通过咨询缓解这些感受、改变看待职业与成就的方式，从而获得更持续的满足感。",
+    "growth_experiences": [
+      "童年一直向往成为建筑师；约5年前开始从事婚礼策划工作后，因理想与现实不一致逐渐产生强烈的失落与失败感，尤其在繁忙或高压项目中更为明显。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者/我浪费了自己的潜力",
+        "除非实现童年理想（成为建筑师），否则我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在大型婚礼项目中需要与建筑师协作（如上月为场地布局与建筑师对接）",
+          "conditional_assumptions": "如果我没有成为建筑师，就说明我做错了人生选择并且是失败者",
+          "compensatory_strategies": "在工作中分心、对同事变得冷淡或退缩，避免直面失落与嫉妒",
+          "automatic_thoughts": "如果我是建筑师，我的生活会好很多；我毁了自己的人生",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在高压/高曝光的婚礼项目期间",
+          "conditional_assumptions": "只有成为建筑师才算成功，否则就是彻底失败",
+          "compensatory_strategies": "不断与理想职业作比较并自我苛责，导致动力下降",
+          "automatic_thoughts": "要么成为建筑师要么就是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "顺利完成婚礼且客户高度满意时",
+          "conditional_assumptions": "与儿时理想无关的成就都不算数",
+          "compensatory_strategies": "否定正面反馈，将满足感贬为“短暂、不重要”",
+          "automatic_thoughts": "这些成功不是真正的成就",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在与建筑师接触后或独自反思职业选择时",
+          "conditional_assumptions": "我已经错过唯一的机会，现在无法改变",
+          "compensatory_strategies": "放弃探索或尝试改变，陷入懊悔与自责",
+          "automatic_thoughts": "已经太晚了，我改变不了任何事情",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望实现自我理想并获得被认可的成就感与价值感",
+        "fear": "害怕承认现实选择意味着“失败”与无价值，担心失去对人生的掌控感",
+        "defense_goal": [
+          "通过非黑即白的自我评价维持一种确定与控制感",
+          "通过对同事撤退与自责来避免暴露脆弱与嫉妒",
+          "通过贬低当下成就来避免面对理想落空所带来的悲伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "把自己看作浪费潜力、失败的人",
+          "object_representation": "将建筑师/他人想象为更优越、对自己价值进行评判的人",
+          "linking_affect": "羞耻、嫉妒、失望、怨怼"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中被邀请回顾成功案例或客户称赞时",
+          "interpretation": "认为这些成功“并不算数”，无法证明自己的价值",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "淡化积极经验，使用“只是运气好/不算真正的成就”等表述，语气平静而坚定。"
+        },
+        {
+          "trigger_condition": "当讨论“是否还有选择/是否错过唯一机会”等主题时",
+          "interpretation": "把承认现实理解为彻底失败，以理性分析压制悲伤与无助",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以客观、分析性的语言回应，回避情感层面，语气克制。"
+        },
+        {
+          "trigger_condition": "当与高成就者（如建筑师）比较而感到羞耻与愤懑时",
+          "interpretation": "将本应对外的攻击性与不满转向自己，加深“我一无是处”的自我认知",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性的表达（如“都是我的错”），语气低落，减少与他人的互动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在婚礼策划工作中整体感到不满足与不充实",
+            "即便完成完美婚礼并获得客户高度认可，满足感也被迅速贬低为短暂"
+          ],
+          "outcomes": [
+            "持续的失望与失败感",
+            "职业倦怠",
+            "动机下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "认为自己已错过唯一的选择，感到“无法改变”",
+            "在高压时期强化对既有选择的被束缚感"
+          ],
+          "outcomes": [
+            "无助与停滞感",
+            "回避探索新的可能",
+            "僵化的非黑即白思维"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“成为建筑师才算成功”内化为绝对标准",
+            "在会谈中倾向以单一职业理想定义自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自我批评（如“我浪费了潜力”“我做错了人生选择”）",
+            "在叙述中反复审视并否定自己的成绩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在大型或高压婚礼项目中，来访者通常会把未成为建筑师视为失败，从而感到失落、动力下降，并在与同事互动中变得冷淡或退缩。",
+          "unique_outcome": "在几场“非常漂亮”的婚礼中，一切进展顺利、客户极为满意；当时来访者获得了喜悦与满足感，没有像以往那样被失败感吞没。",
+          "reason": "不同支持：来自客户的积极反馈与婚礼顺利带来的可见成效，使其注意力从比较转向当下成果，短时降低了灾难化与比较。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络（尽管尚未谈及此议题）",
+          "多次项目中创造高质量成果并获得客户高度满意",
+          "愿意求助并积极接受新策略（合作态度良好）",
+          "已尝试正念与记录思维，具备一定自助技能基础"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "过度比较并否定正面经验，维持“失败者”自我图式",
+          "对未来的消极预测（认为已错过唯一机会）",
+          "工作压力大使负性情绪与思维被放大",
+          "与同事关系紧张，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化与自我贬低的自动思维（如“我的人生被毁了”“我浪费了潜力”）",
+          "antecedent": [
+            "在高压/大型婚礼项目中",
+            "与建筑师接触或看到建筑师时",
+            "工作压力增大时"
+          ],
+          "core_reason": "童年理想（建筑师）与现实职业不一致被内化为僵化的成功标准，导致持续比较与自我否定",
+          "function": "短期回避面对失落与不确定，通过自责维持一种控制感",
+          "consequence": "幸福感与工作满意度下降，职业倦怠加重"
+        },
+        {
+          "behavior": "对同事变得简短/冷淡或撤退",
+          "antecedent": [
+            "自我失败感强烈时",
+            "忙碌或高压时段"
+          ],
+          "core_reason": "将内在挫败与愤懑转向自身与关系以避免暴露脆弱与被评判",
+          "function": "暂时缓解羞耻与嫉妒，逃避被评价的情境",
+          "consequence": "与同事关系紧张，进一步削弱社会支持与工作投入"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1458
+}

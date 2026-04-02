@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "快餐厨师（短单厨师）",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友可倾诉，但他们并不了解这个具体问题",
+      "medical_history": "无显著躯体疾病；此前未有类似问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰，能具体描述经历；思维逻辑较好；语气偏消极但愿意尝试改变；自我反思能力较好；在会谈中配合度尚可"
+    },
+    "main_problem": "我倾向于否定正面反馈，只关注负面评论，这影响了我的情绪和自尊。",
+    "topic": "情绪管理",
+    "core_demands": "持续关注负面反馈显著影响了我的情绪和工作表现，因此希望通过咨询得到帮助。",
+    "growth_experiences": [
+      "开始在本地餐馆担任短单厨师后，逐渐形成只关注负面反馈、否定正面评价的模式；最初压力中等，多由负面的顾客反馈触发，随着时间推移加重，任何批评都会压过正面反馈。该模式几乎每天在工作中出现，导致情绪低落、自尊受损、与同事关系受影响以及工作失误增多。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者/我不胜任我的工作",
+        "我的价值取决于他人的评价（尤其是顾客的反馈）"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次晚餐服务中，尽管收到了很多称赞，但有一位客人表示不喜欢我的菜，情绪因此受到强烈影响",
+          "conditional_assumptions": "如果有任何一个人不满意，就说明我做得很差，这一天都被毁了",
+          "compensatory_strategies": "反复回想那条差评、忽略当晚的称赞，闷闷不乐以期“提醒自己不要再犯错”",
+          "automatic_thoughts": "她不喜欢我的菜，说明我厨艺很差；这一天都被毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "同一班次中既收到了“汉堡很棒”的称赞，也收到“薯条太咸”的抱怨，负评完全压过正评",
+          "conditional_assumptions": "如果连简单的薯条都做不好，我就一定是个失败者",
+          "compensatory_strategies": "自我苛责并在工作中变得过度紧张，试图以此避免再次被批评（反而更易出错）",
+          "automatic_thoughts": "我连薯条都做不好，我就是个失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作中，即使有多位顾客称赞，我依然自动忽视正面反馈，只盯住一条负评",
+          "conditional_assumptions": "称赞往往不算数，真正反映水平的是批评",
+          "compensatory_strategies": "选择性注意负面信息；尝试提醒自己正面评价但难以坚持，最终仍回到负面循环",
+          "automatic_thoughts": "那些称赞不算数，真正说明问题的是批评",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在与同事互动时，被负面反馈影响后情绪低落、易怒并回避交流",
+          "conditional_assumptions": "我应该始终友好、不能有负面情绪，否则就是糟糕的同事",
+          "compensatory_strategies": "强行压抑情绪、减少与同事接触，情绪积累后出现“发火/顶撞”",
+          "automatic_thoughts": "我应该更友好，不能让别人看到我的状态",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被肯定，证明自己是胜任且有价值的",
+        "fear": "害怕被否定为“失败者”，害怕他人批评与拒绝",
+        "defense_goal": [
+          "通过自我苛责和回避他人来降低再次被否定的风险",
+          "将挫败感转移到更安全的目标上以缓解紧张"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败、需要他人认可的员工",
+          "object_representation": "苛刻挑剔、随时可能否定自己的评判者（顾客/他人）",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在工作中收到顾客的负面反馈后与同事互动",
+          "interpretation": "将由顾客反馈引起的挫败与愤怒转移到同事身上，把同事体验为“令人恼火”的对象",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "语气不耐烦、简短回应，减少眼神接触与交流，偶尔出现顶撞或冷处理。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收到正负混合反馈时，李博文通常会忽视称赞、只关注负评，并因此情绪低落、表现变差。",
+          "unique_outcome": "有一次顾客称赞他的汉堡是“很久以来吃过的最好”的，他当下感到很开心，短暂地体验到“自己真的做得很好”。",
+          "reason": "不同支持/情境：正向反馈明确具体且强烈、及时；这种具体化的肯定更容易被注意并短暂地被内化。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试改变并参与咨询",
+          "能觉察到自身的思维模式（如忽视正面反馈）",
+          "在工作中曾获得清晰且强烈的正向反馈",
+          "有几位亲密朋友可提供基本支持"
+        ],
+        "negative_force": [
+          "持续的心理过滤与否定正面思维模式",
+          "非黑即白的自我评价方式导致自尊受损",
+          "过度依赖外部评价决定自我价值",
+          "将挫败感带入同事关系，增加紧张与冲突",
+          "工作环境中负面反馈不可避免，触发频率高，形成恶性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到负面评价后持续反刍负评并否定正面反馈，情绪迅速下降",
+          "antecedent": [
+            "收到顾客负面反馈",
+            "在同一情境中出现正负混合反馈",
+            "高压或忙碌班次"
+          ],
+          "core_reason": "对自我价值高度依赖他人评价，并存在灾难化与非黑即白的认知模式",
+          "function": "通过自我苛责和聚焦问题来获得控制感与自我纠正的错觉，短期内逃避不确定感与焦虑",
+          "consequence": "情绪低落与自尊受损，注意力分散导致错误增多，工作表现下降"
+        },
+        {
+          "behavior": "对同事易怒或回避交流",
+          "antecedent": [
+            "在工作中刚收到顾客负评后",
+            "感到失败和耗竭时"
+          ],
+          "core_reason": "将对顾客/自我产生的挫败与愤怒转移到同事这一更安全的目标上",
+          "function": "短期释放紧张情绪并避免进一步的社交暴露",
+          "consequence": "同事关系受损，团队支持减少，进一步恶化工作氛围与表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 698
+}

@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "66",
+      "name": "李梅",
+      "gender": "女",
+      "occupation": "正在寻找第二份工作",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，附近无亲近家人",
+      "social_status": "有少数朋友可交谈，但因爱比较影响了与朋友的关系，未向朋友透露自卑感",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、逻辑性好，能描述情绪和困扰；配合度高、态度积极；倾向自我批评与与他人比较"
+    },
+    "main_problem": "因在跑步中与他人比较而产生自卑与自我怀疑，这些感受始于加入当地跑步团体后，逐渐发展为在跑步时不断比较、降低了跑步的乐趣，并影响到全天情绪、自尊与动力。",
+    "topic": "个人成长",
+    "core_demands": "寻求咨询以恢复对跑步的享受、改善整体情绪与动机；希望学习识别并挑战对自己能力的负性想法，找到更平衡的视角，重建自信。",
+    "growth_experiences": [
+      "六个月前加入本地跑步群后，开始在集体跑步时频繁将自己与他人进行比较；看到他人跑得更好时，产生“我不够好”的想法，逐渐削弱了对跑步的兴趣与满足感，并将这种比较延伸到朋友关系与职业/创业目标上。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有比他人更出色才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在跑步群与他人一起跑步时，看到其他成员跑得更好",
+          "conditional_assumptions": "如果别人比我跑得好，就说明我不行/我失败了",
+          "compensatory_strategies": "更用力训练、设定个人纪录来证明自己",
+          "automatic_thoughts": "我永远比不过他们，我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在他人面前跑步，感到被注视并担心评价",
+          "conditional_assumptions": "如果我表现一般，别人就会看不起我/觉得我反应过度",
+          "compensatory_strategies": "避免向朋友表达脆弱，保持沉默以减少被评价的风险",
+          "automatic_thoughts": "他们会觉得我很差、在嘲笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾近期训练中已将跑量提升至5英里",
+          "conditional_assumptions": "只有做到顶尖水平才算成绩，自己的进步不值得肯定",
+          "compensatory_strategies": "轻描淡写自己的进步，继续自我批评以促进提升",
+          "automatic_thoughts": "这点进步不算什么，还是不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在跑步时看到他人更快后，联想到自己未来的表现",
+          "conditional_assumptions": "如果现在不如别人，将来也不可能达到他们的水平",
+          "compensatory_strategies": "给自己更大压力、强迫设定更高目标以避免失败感",
+          "automatic_thoughts": "我永远不可能跑得像他们一样好",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，能在群体中保持自我价值并享受跑步",
+        "fear": "害怕被评判、被看低与被拒绝，担心暴露脆弱后受到羞耻感",
+        "defense_goal": [
+          "通过更加努力追求成绩与完美来减少被评判的风险",
+          "减少自我暴露与求助以避免可能的否定与羞辱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被比较和贬低的人",
+          "object_representation": "苛刻的评判者或更优秀的竞争者",
+          "linking_affect": "羞耻、焦虑与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议向朋友适度分享感受、测试支持系统时",
+          "interpretation": "如果表达脆弱，别人会觉得我矫情或看轻我（担心被拒绝/评判）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以简短、客观的语气回应，回避细节，表示“没必要麻烦别人”，并迅速转移到训练计划或数据上。"
+        },
+        {
+          "trigger_condition": "当咨询师肯定其将跑量提升至5英里的成就时",
+          "interpretation": "夸赞可能不真实或不足以证明自己不差，避免被看穿不足",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "淡化与贬低自己的进步，使用“这不算什么”“别人都能做到”的表述，语气平淡。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕被评判而不向朋友透露脆弱，感觉把压力独自扛着",
+            "在群体活动（跑步）中感到自我价值受威胁，加剧孤立体验"
+          ],
+          "outcomes": [
+            "孤立感与羞耻感增加",
+            "自尊受损、情绪低落"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "跑步原本是喜爱的爱好与“逃离”，因持续比较而失去乐趣",
+            "个人成长与目标（如创业梦想）被自我怀疑侵蚀"
+          ],
+          "outcomes": [
+            "兴趣与满足感下降，动力降低",
+            "对生活目标的投入与行动减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "不向朋友表达自卑与压力，把情绪压在心里",
+            "以更用力训练来对付羞耻与不安"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "对自我严格要求，常以与他人比较来定义自我价值",
+            "担心被认为“反应过度”而抑制自我表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设他人会评价自己差或矫情",
+            "在群跑时将内在自我否定投向他人的假定评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对跑步有稳定兴趣并能坚持训练（已将跑量提升至5英里）",
+          "主动求助与配合度高，愿意尝试认知重构与现实检验",
+          "明确的人生目标（想通过第二份工作支持开餐馆的梦想）",
+          "能觉察并描述自身负性思维与影响范围"
+        ],
+        "negative_force": [
+          "强烈的社会比较倾向（外部验证依赖），自我价值与他人表现捆绑",
+          "否定积极证据与成就，忽视自身进步",
+          "对被评判与羞耻的恐惧，减少自我暴露与社会支持的获取",
+          "过度自我施压，导致乐趣丧失、情绪低落与动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与他人一起跑步时持续比较并自我否定，伴随焦虑/低落与乐趣丧失",
+          "antecedent": [
+            "参加跑步群体活动、在他人面前跑步",
+            "看到他人配速或耐力优于自己"
+          ],
+          "core_reason": "核心信念“我不够好”与对外部评价的依赖，担心在他人眼中被视为不足",
+          "function": "通过自我批评与加压来避免被否定（逃避羞耻感）并试图获得认可",
+          "consequence": "跑步乐趣下降，持续的自卑与情绪低落，影响日常情绪、人际关系与对创业目标的动力"
+        },
+        {
+          "behavior": "回避向朋友表达脆弱与寻求支持",
+          "antecedent": [
+            "想到他人可能评判自己“反应过度”或“不够好”",
+            "谈及自卑或失败话题时"
+          ],
+          "core_reason": "害怕暴露脆弱导致被拒绝或羞耻，内在客体关系将他人表征为评判者",
+          "function": "逃避可能的负面评价与羞耻体验，维持表面安全感",
+          "consequence": "孤独感增加，社会支持减少，负面情绪与信念得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 885
+}

@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "方林",
+      "gender": "男",
+      "occupation": "研究生",
+      "educational_background": "攻读硕士学位",
+      "marital_status": "单身",
+      "family_status": "未提及直系亲属情况",
+      "social_status": "与朋友关系较为亲近，但因担心被评价而犹豫分享自己的烹饪成果",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或咨询；此前未出现类似心理问题",
+      "language_features": "表达清晰、配合度高、语气平和；能进行理性反思与证据检视；主观报告存在焦虑与反复怀疑"
+    },
+    "main_problem": "我一直担心朋友会如何看待我做的意大利菜，尽管我自己很享受烹饪。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些持续的怀疑正在影响我对烹饪的享受并造成不必要的压力，这促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的烹饪不够好",
+        "我的好坏取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "为朋友烹饪意大利菜并即将上桌的情境",
+          "conditional_assumptions": "如果朋友不喜欢我的菜，就说明我不是好厨师",
+          "compensatory_strategies": "在上菜前反复担心并追求完美以避免负面评价，或减少与朋友分享",
+          "automatic_thoughts": "他们会觉得不好、他们会失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到在社交场合分享自己做的意大利菜",
+          "conditional_assumptions": "他人的评价决定我的好坏",
+          "compensatory_strategies": "在分享前不断揣测朋友的看法，尝试用自我安慰压制担忧但效果不佳",
+          "automatic_thoughts": "他们可能觉得我不行、他们会看不起我的厨艺",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想起朋友过去对自己烹饪的赞美与积极反馈",
+          "conditional_assumptions": "正面反馈不足以证明能力，必须持续获得认可才算合格",
+          "compensatory_strategies": "否定或弱化正面证据，继续纠结潜在负评",
+          "automatic_thoughts": "那些赞美不算数、他们只是客气",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "研究生最后一年学业压力增大、临近与朋友聚餐",
+          "conditional_assumptions": "在压力下若表现不佳，就会被朋友评价为不好",
+          "compensatory_strategies": "提高标准、苛责自己，减少主动邀请朋友品尝",
+          "automatic_thoughts": "我可能会搞砸，他们会因此失望",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友认可、被接纳，享受自由分享与被赞赏的体验",
+        "fear": "害怕被否定和被评判，担心被看到“不够好”而感到羞耻",
+        "defense_goal": [
+          "通过谨慎与证据检视来降低被否定的风险，减少暴露以保持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑的取悦者（担心不够好、需要他人认可）",
+          "object_representation": "评判性的他人（可能失望或否定的朋友）",
+          "linking_affect": "焦虑、紧张、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈论朋友可能如何评价其烹饪、或在咨询中被要求检视证据与自动化思维时",
+          "interpretation": "倾向认为只有充分证据才能避免他人的否定，否则朋友就会不喜欢自己的菜（将他人视为随时可能评判的对象）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观、中性语气，列举支持与反证、讨论概率与事实，尽量减少情绪化词语与自我评价。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在烹饪与分享时受他人评价束缚，难以自由地按自身喜好行动",
+            "把注意力从自我体验转向外部认可，犹豫分享"
+          ],
+          "outcomes": [
+            "焦虑增加",
+            "对烹饪的享受显著下降",
+            "与朋友的互动受影响（减少分享）",
+            "专注力与生产力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：‘他在看不起我’，‘他们想排挤我’等。",
+          "manifestations": [
+            "反复猜测朋友会不喜欢自己的菜",
+            "在尚未得到真实反馈前就预设他人负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在分享前过度审查与苛责自己，追求完美以避免差评",
+            "因担心评价而减少邀请朋友品尝"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对烹饪本身有稳定的兴趣与享受",
+          "过去曾获得朋友的正面反馈（赞美、索要食谱）",
+          "具备理性检视证据与调整期待的意愿（态度积极）",
+          "拥有可依靠的朋友群体（社会支持可用）"
+        ],
+        "negative_force": [
+          "过度在意他人评价，寻求外部验证",
+          "自动化思维频繁（读心术、预测未来、否定正面）",
+          "学业压力溢出到生活其他领域，增加焦虑水平",
+          "因担心被评判而出现回避与犹豫，减少分享"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在为朋友烹饪或想到分享时出现显著焦虑与回避（犹豫、减少邀请）",
+          "antecedent": [
+            "为朋友烹饪意大利菜并准备上桌",
+            "想到在社交场合分享菜品",
+            "研究生最后一年压力增大"
+          ],
+          "core_reason": "过度关注外部评价与潜在否定，自动化思维（读心术、预测未来、否定正面）在压力背景下被激活，导致自我价值与表现过度绑定他人看法",
+          "function": "逃避被评判与可能的羞耻感，以降低即时焦虑",
+          "consequence": "对烹饪的乐趣被削弱；与朋友互动与分享减少；注意力与生产力下降，日常压力增大"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1492
+}

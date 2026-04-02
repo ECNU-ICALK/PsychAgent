@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "何森",
+      "gender": "男",
+      "occupation": "果汁吧店主",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与朋友关系紧张；有一位亲密朋友提供支持，但尚未向其倾诉与求助",
+      "medical_history": "无以往相似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，条理尚可，语速未提及；情绪紧张、态度消极，倾向灾难化、跳结论、非黑即白思维；在咨询中配合度较好，愿意尝试记录与观察思维"
+    },
+    "main_problem": "由于果汁吧生意清淡而产生的焦虑与压力，使我相信我的生意会失败。",
+    "topic": "职业发展",
+    "core_demands": "“我只是不想一直感到害怕和担心。我想感觉自己能对发生的事情有一些掌控。”；“我不想每次遇到生意清淡就恐慌。我想在不假设最坏情况的前提下，觉得自己能应对一切。”",
+    "growth_experiences": [
+      "18岁烹饪学校毕业后独自创业开设果汁吧；约一月前出现生意清淡的情况，此后未明显回升；在多次清淡日触发持续焦虑与对失败的担忧，常联想到“会失去一切”；曾尝试新的营销策略与促销，但未见显著成效；压力影响睡眠与饮食，注意力与工作表现下降；与朋友关系因此紧张，尽管有一位支持的朋友，仍未向其谈及业务压力与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会失败",
+        "我在经济上不安全"
+      ],
+      "special_situations": [
+        {
+          "event": "营业日客流很少（如上周几乎无人进店）",
+          "conditional_assumptions": "如果某天生意清淡，就意味着整体趋势在恶化，我的生意终将失败",
+          "compensatory_strategies": "立刻高度关注生意数据、加倍投入以试图控制局面，同时不断担忧",
+          "automatic_thoughts": "这是生意走向终结的开始",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "实施新的营销与促销后仍未见显著改善",
+          "conditional_assumptions": "如果短期内看不到明显成效，就说明我的努力毫无意义、我不行",
+          "compensatory_strategies": "不断更换策略、焦虑地监测结果，用加倍努力来证明自己",
+          "automatic_thoughts": "没用，我的生意注定不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "一个月内多次出现生意清淡的日子",
+          "conditional_assumptions": "一次或几次低迷就能代表整体失败与长期低迷",
+          "compensatory_strategies": "持续担忧未来、减少与朋友交流以避免被问及或评价",
+          "automatic_thoughts": "这说明以后都会这样，我会一直糟糕下去",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "夜间因睡眠受影响而独自反复思考生意前景",
+          "conditional_assumptions": "如果我无法立刻找到解决方案，就表示我无法掌控局势，一切会变得更糟",
+          "compensatory_strategies": "通过不断担心与预演最坏情境来寻求控制感",
+          "automatic_thoughts": "我失去控制了，事情会越来越糟",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望事业成功、获得稳定的经济安全感与对局势的掌控",
+        "fear": "害怕失败、害怕经济不安全以及失去投入的一切",
+        "defense_goal": [
+          "通过保持高度警觉与提前预判来降低失败风险",
+          "避免向他人求助以免暴露脆弱与不确定感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被压力压迫、焦虑且倾向独自承担的创业者",
+          "object_representation": "朋友/他人被视为不宜麻烦或难以谈及压力的对象",
+          "linking_affect": "焦虑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出使用重构、现实检验等方法来改变思维模式或鼓励多角度解释时",
+          "interpretation": "来访者倾向认为“我很难改变思维”，需要为无法改变或暂不尝试提供理由以缓解焦虑",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用犹疑且防御的语气，频繁使用“很难”“不确定”“可能”等词，强调客观困难，礼貌地表达保留与顾虑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "渴望获得对生意与生活的掌控感",
+            "每遇到生意清淡便感觉失去掌控",
+            "希望“不再恐慌”并“能处理任何情况”"
+          ],
+          "outcomes": [
+            "持续焦虑与恐慌",
+            "睡眠紊乱",
+            "注意力与决策能力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "与朋友关系紧张",
+            "尚未向支持的朋友谈及业务压力与焦虑"
+          ],
+          "outcomes": [
+            "社会退缩与支持系统未被动用",
+            "焦虑加剧",
+            "情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "即便有一位支持的朋友，也没有向其倾诉或寻求帮助",
+            "把压力与焦虑内化并独自承受",
+            "在生意低迷时将能量转向自我担忧与自我消耗，而非外向求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一位支持性的朋友",
+          "主动寻求咨询并愿意尝试观察与记录思维",
+          "能在引导下提出其他可能解释（如天气、人们的时间安排）",
+          "采取过营销与促销等具体行动"
+        ],
+        "negative_force": [
+          "灾难化、跳结论、过度概括、非黑即白的认知模式",
+          "对失败与经济不安全的高度恐惧",
+          "睡眠与饮食受影响导致精力与专注下降",
+          "人际疏离与不主动寻求支持",
+          "持续预期最坏结果，决策与工作表现受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在生意清淡时出现强烈焦虑与灾难化思维（恐慌）",
+          "antecedent": [
+            "营业日客流很少",
+            "营销促销短期无明显成效",
+            "想到未来的财务风险与失败可能",
+            "夜间入睡困难时反复思考业务"
+          ],
+          "core_reason": "对失败与经济不安全的恐惧，伴随对最坏结果的预测与非黑即白的认知加工",
+          "function": "逃避不确定性并通过担忧与预演最坏情境来寻求控制感",
+          "consequence": "睡眠紊乱、饮食不规律、注意力与工作表现下降、与朋友关系紧张，持续担忧业务前景"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1416
+}

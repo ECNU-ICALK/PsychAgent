@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "陈奕诚",
+      "gender": "男",
+      "occupation": "空档年，暂未就读大学且无固定工作",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母同住；父母支持、可沟通",
+      "social_status": "与朋友相比感到被落下，影响与朋友的关系",
+      "medical_history": "无重大躯体疾病；既往未出现类似问题；无既往心理治疗史",
+      "language_features": "表达清晰，能具体描述情绪与自动化思维；合作度高；言语中常出现绝对化、灾难化与否定性表述（如“我已经失败”“没有其他理由”等）"
+    },
+    "main_problem": "我感到不堪重负，因为我的朋友们都已经制定了上大学的计划，而我还不确定并在休学一年。这种不确定让我相信我会失败，并且会一直依赖父母。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为这些压倒性的失败感和比较心正在影响我的心理健康和自尊。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好/不值得被录取",
+        "我会一直依赖父母、无法独立"
+      ],
+      "special_situations": [
+        {
+          "event": "看到/得知朋友们都已经有了上大学的计划或申请进展",
+          "conditional_assumptions": "如果我没有像同龄人一样按时进入大学，就说明我落后且是失败者",
+          "compensatory_strategies": "尝试尽快制定计划或用爱好分散注意力，但依然反复自我比较",
+          "automatic_thoughts": "我不如他们，我已经落后了，是个失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次检查邮箱都没有收到兽医学院的回复",
+          "conditional_assumptions": "如果学校没有回复，就意味着他们不在乎我/我不够好，最终我不会被任何学校录取",
+          "compensatory_strategies": "频繁查看邮箱、在脑中预演最糟情形以求确定性",
+          "automatic_thoughts": "他们不感兴趣，我永远进不了兽医学院",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "申请季开始、周围频繁讨论未来计划",
+          "conditional_assumptions": "在申请季还没有确定计划，说明我的未来已经注定失败",
+          "compensatory_strategies": "加重自责与自我否定，难以投入到具体规划",
+          "automatic_thoughts": "我已经失败，这会一直这么糟",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到自己正在休学一年并与父母同住",
+          "conditional_assumptions": "如果现在还住在父母家且没有明确计划，就会一直依赖父母、无法独立",
+          "compensatory_strategies": "通过贬低自我来降低期望，回避面对不确定性带来的焦虑",
+          "automatic_thoughts": "我会一直住在父母家，永远独立不了",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳（被兽医学院录取、与同伴保持同等地位），并实现自我价值与独立",
+        "fear": "害怕失败与被拒绝，担心被同伴落下、被视为“不够好”而失去价值与归属",
+        "defense_goal": [
+          "通过先行自我贬低与预期最坏结果，来降低希望以避免再次受挫与被拒绝的痛苦"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被落下的、不够好的失败者",
+          "object_representation": "苛刻的评判者（同伴/学校）",
+          "linking_affect": "羞耻、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“寻找其他解释/证据”以挑战负性信念时",
+          "interpretation": "认为“没有其他可能，沉默就等于被拒绝”，把无回复理解为对自我价值的否定",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气坚决、反复强调“没有其他理由/这就是事实”，对咨询师的替代解释给予最小化回应。"
+        },
+        {
+          "trigger_condition": "当谈及与朋友的比较与落后体验时",
+          "interpretation": "把同伴与社会的标准当作唯一有效的评判，自己若未达标即等于失败",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”式标准化语言强调自我要求，语气自责，忽略个体差异与情境因素。"
+        },
+        {
+          "trigger_condition": "当看到邮箱依旧没有学校回复时",
+          "interpretation": "将外界的沉默转化为对自我的否定与攻击（“我不够好、我不值得”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我批评与负性标签，降低自我价值，减少对外求证与主动沟通。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "描述“已经失败”“看不到希望”，将暂时性的沉默等同于长期无望",
+            "自我价值强烈依赖外界回应与录取结果"
+          ],
+          "outcomes": [
+            "无助感与绝望感增强",
+            "动机下降，难以制定未来计划",
+            "睡眠与日常作息受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友比较时感到被落下、被排除在同伴轨道之外",
+            "讨论未来计划时感到格外不适与疏离"
+          ],
+          "outcomes": [
+            "与朋友关系受影响",
+            "回避或缩减有关未来的交流"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对休学一年后的选择与责任感到焦虑与负担",
+            "担心选择错误导致长期失败与依赖父母"
+          ],
+          "outcomes": [
+            "犹疑与拖延，难以做出行动性选择",
+            "通过灾难化思维来回避不确定性带来的焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将同伴的时间表内化为唯一标准：未按时入学=失败",
+            "把“有回复=有价值”当作绝对规则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制与苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（“我不够好”“我已经失败”）",
+            "在证据不足时仍不断自责，难以接纳其他解释"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，将应指向外部的情绪或行动转为自我攻击/压抑。",
+          "manifestations": [
+            "把对学校“未回复”的失望与不满转向自责与贬低自我",
+            "减少外部沟通与求证，更多内耗与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在检查邮箱没有收到学校回复时，通常会立即将沉默解读为“我不够好/不会被录取”，继而陷入无助与绝望，影响日常与睡眠。",
+          "unique_outcome": "在最初发送邮件的那几天，他感到更有希望并采取了主动行动（发送咨询/申请邮件），并未立刻陷入“我已经失败”的思路。",
+          "reason": "线索：做法不同（主动发出邮件、采取行动）；情境不同（尚未经历长时间的沉默回路与比较刺激）；因此当时更易维持希望与行动感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "父母支持、可沟通",
+          "能够主动采取行动（曾主动给学校发邮件）",
+          "具备一定的自我观察与同理能力（能对朋友给出更平衡建议）",
+          "愿意求助并接受认知重构练习"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白与预测未来等认知偏差",
+          "过度社会比较导致自我价值外置",
+          "自尊脆弱、易自责与自我否定",
+          "不确定性耐受度低，遇沉默即下结论"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化与自我贬低性自动思维反复出现（感到无望、认为“已失败/不够好”）",
+          "antecedent": [
+            "检查邮箱未见学校回复",
+            "听到/参与有关未来计划的谈话",
+            "看到朋友的大学申请进展或计划"
+          ],
+          "core_reason": "在社会比较与申请沉默的背景下，将沉默与暂时落后解释为被拒绝与永久失败，核心信念为“我不够好/我是失败者”。",
+          "function": "回避不确定性带来的焦虑（通过先行否定与自责降低期待），并试图获得控制感。",
+          "consequence": "动机下降、难以制定具体计划；日常作息与睡眠受影响；与朋友关系受损。"
+        },
+        {
+          "behavior": "在申请与规划任务前后出现的回避与拖延（难以集中与推进）",
+          "antecedent": [
+            "申请季开始、任务临近",
+            "与同伴比较结果不利时"
+          ],
+          "core_reason": "担心失败与被拒绝，非黑即白的“达标=有价值/未达标=失败”标准导致行动瘫痪。",
+          "function": "短期内逃避失败与评判带来的焦虑与羞耻感。",
+          "consequence": "规划与申请进展受阻，进一步强化“被落下/是失败者”的信念。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1813
+}

@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "达琳",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "倾向于回避涉及数学讨论的社交情境，影响与同事和朋友的关系",
+      "medical_history": "既往未接受心理治疗或心理干预；无重大躯体疾病",
+      "language_features": "态度偏消极，语气犹疑但表达清晰；能配合讨论，对改变持怀疑；常使用“应该”句式"
+    },
+    "main_problem": "我坚信自己不能做数学，并且一生都不应该做数学；面对数学相关任务时出现回避和显著焦虑，影响工作表现并引发自卑感。",
+    "topic": "职业发展",
+    "core_demands": "意识到对数学任务的回避正在阻碍职业成长并造成显著困扰，因此寻求咨询以应对这一问题。",
+    "growth_experiences": [
+      "学生时代数学长期表现不佳，且教师缺乏支持；由此形成对数学的负性信念（“我不能做数学”），伴随焦虑与回避。近几个月在工作中遇到数字相关事宜时症状加重；过去未寻求帮助，无显著躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我做不了数学",
+        "我不应该一辈子都做数学"
+      ],
+      "special_situations": [
+        {
+          "event": "工作中出现涉及数字的任务",
+          "conditional_assumptions": "如果我在数学任务上犯错，同事就会看到我很糟并认为我不胜任",
+          "compensatory_strategies": "回避或推诿涉及数字的工作内容，尽量不接触需要计算的任务",
+          "automatic_thoughts": "我会搞砸，所有人都会看到我很糟糕",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "需要在团队会议上呈现财务数据",
+          "conditional_assumptions": "如果在公开场合处理数学任务，我几乎肯定会失败并当众出丑",
+          "compensatory_strategies": "以装病为由逃避参加展示，避免暴露在他人面前",
+          "automatic_thoughts": "我会失败并让自己难堪",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "日常工作或生活要求进行基本计算或预算",
+          "conditional_assumptions": "我从来就不会数学，因此我应该一辈子都不做数学",
+          "compensatory_strategies": "彻底避免练习或接触任何数学任务",
+          "automatic_thoughts": "我不能做数学／我不应该做数学",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "与同事或朋友讨论与数学相关的话题",
+          "conditional_assumptions": "如果参与数学讨论，别人会看不起我，认为我不聪明",
+          "compensatory_strategies": "回避相关讨论，与同事保持距离，减少互动",
+          "automatic_thoughts": "他们会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在涉及数学的任务中被视为胜任并获得认可，避免羞辱与否定",
+        "fear": "害怕失败与当众出丑，被他人评价为无能",
+        "defense_goal": [
+          "通过回避数学任务来维持安全与自尊",
+          "减少社交暴露以避免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不擅长数学、容易出丑的自己",
+          "object_representation": "挑剔的评判者（同事、老师、同伴）",
+          "linking_affect": "焦虑与羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行数学相关的行为实验或布置小型数学任务时",
+          "interpretation": "来访者将邀请理解为可能把自己置于失败与被评判的情境（移情：把他人视为潜在评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "表达担忧与怀疑，使用假设性句式（“如果…就…”），强调失败和他人看法；语气犹疑，延迟或缩小承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "坚持“我一生都不应该做数学”的僵化规则",
+            "在工作中对涉及数字的要求感到被迫与失去选择感",
+            "面对小型任务也倾向于逃避，避免承担责任与可能性"
+          ],
+          "outcomes": [
+            "持续焦虑",
+            "职业发展受阻",
+            "自我效能感低下",
+            "人际互动受影响（回避讨论）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复使用“应该”句式：如“我一辈子都不应该做数学”",
+            "以僵化规则指导行为，拒绝接触数学任务"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为“大家都会看到我很糟／会看不起我”",
+            "在团队场合担心被他人羞辱而回避"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友或家人求助，避免讨论此问题",
+            "通过装病等方式把外向行动转为自我处理以规避外界接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有职业成长动机，意识到当前问题正在阻碍发展",
+          "拥有一定的社会支持网络（朋友与家人），虽尚未使用"
+        ],
+        "negative_force": [
+          "僵化的“应该”信念（认为自己一生都不该做数学）",
+          "对失败与当众尴尬的灾难化预测与读心术倾向",
+          "长期负性学习经历与不支持的教师导致自信不足",
+          "广泛的回避行为（装病、推迟、避免讨论）导致绩效受损",
+          "在数学相关情境中显著焦虑并出现冻结反应"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "遇到数学任务时的回避与显著焦虑反应",
+          "antecedent": [
+            "工作中出现涉及数字的任务",
+            "需要在团队会议上呈现财务数据",
+            "与同事或朋友展开数学相关讨论",
+            "日常生活中需要进行基本计算或预算"
+          ],
+          "core_reason": "学校阶段数学长期不佳且缺乏支持，形成“我做不了数学”的核心信念与僵化的“应该”规则，并对失败与羞辱进行灾难化预测，导致自信心不足",
+          "function": "逃避潜在羞辱与焦虑，维持短期安全与自尊",
+          "consequence": "工作表现受损、错失发展机会；持续焦虑与无能感；影响与同事朋友的关系与日常生产力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1047
+}

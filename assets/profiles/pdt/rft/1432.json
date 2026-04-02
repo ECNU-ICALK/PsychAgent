@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "李明轩",
+      "gender": "男",
+      "occupation": "烘焙师",
+      "educational_background": "烹饪学校文凭",
+      "marital_status": "单身",
+      "family_status": "家庭支持良好：母亲为牙医，有两位姐妹。",
+      "social_status": "与同事的互动因对自身技能的悲观看法受到影响；家庭支持度高。",
+      "medical_history": "无重要躯体疾病，无既往类似心理问题及治疗史。",
+      "language_features": "表达清晰、逻辑连贯、配合度高，能自我反思并具备一定洞察。"
+    },
+    "main_problem": "我倾向于否定自己烘焙技能中的积极面，只关注错误和失败。这种消极思维模式在上周一次三层蛋糕的烘焙失误后出现。自那以后，我对自己的烘焙能力过于苛刻，坚信自己再也无法做出完美的蛋糕；这些想法在每次尝试烘焙时都会出现，导致自我怀疑与挫败，并影响工作与与同事的互动。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到自己的消极思维模式正在影响我对烘焙的热情和整体幸福感，因此寻求咨询以获得支持和指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我会失败",
+        "只有完美才算有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "上周为一份特殊订单制作三层蛋糕时失败（层次不齐、外观不佳）",
+          "conditional_assumptions": "如果一次作品失败，就证明我永远做不好复杂蛋糕，也不适合做烘焙",
+          "compensatory_strategies": "反复重做同一款蛋糕以证明自己，并以绝对化标准要求“必须完美”",
+          "automatic_thoughts": "我永远做不好三层蛋糕/我不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次开始新的烘焙任务前，想起三层蛋糕的失败",
+          "conditional_assumptions": "如果我再尝试，结果还会一样糟",
+          "compensatory_strategies": "拖延或犹豫开工，或在开工后过度监控细节导致紧张",
+          "automatic_thoughts": "这次也会搞砸/肯定失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "成功烤出一批饼干",
+          "conditional_assumptions": "只有做出复杂的完美蛋糕才算成功，简单产品不算成绩",
+          "compensatory_strategies": "贬低或忽视正向经验，不做记录与巩固",
+          "automatic_thoughts": "这不算成功，饼干太简单了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作中检查成品质量、回想此前失败",
+          "conditional_assumptions": "如果不能每次都做对，就说明我什么都做不好",
+          "compensatory_strategies": "只盯着瑕疵与错误，忽略整体完成度与优点",
+          "automatic_thoughts": "我在厨房里什么都做不对",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过作品被认可、被看见为胜任且有价值",
+        "fear": "害怕失败与被否定，担心因不完美而失去价值感",
+        "defense_goal": [
+          "以自我批评和高标准来控制风险、避免再次失败与羞耻",
+          "通过否定积极经验来维持“谨慎”，避免放松警惕"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的/可能失败的烘焙者",
+          "object_representation": "苛刻的评判者（挑剔他人或内在批评者）",
+          "linking_affect": "羞耻、焦虑、挫败"
+        },
+        {
+          "self_representation": "需要被支持和鼓励的年轻人",
+          "object_representation": "支持性的照顾者（母亲与姐妹）",
+          "linking_affect": "被接纳、安心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或回想三层蛋糕失败，或面临复杂烘焙任务时",
+          "interpretation": "一次失败就意味着“完全不行”，若再尝试会再次出丑",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用绝对化词语（如“永远”“完全”）自责，放大错误，降低自我评价与语气能量。"
+        },
+        {
+          "trigger_condition": "当他人或咨询师邀请其关注近期成功或积极证据时",
+          "interpretation": "承认成功等于忽视问题、会放松警惕",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "给出看似合理的解释来贬低成功（如“任务太简单”），弱化积极意义。"
+        },
+        {
+          "trigger_condition": "当需要评价作品品质或做出成败判断时",
+          "interpretation": "不是完美就是失败，没有中间地带",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用非黑即白的评语，坚持“必须/只能”的表达，拒绝承认部分成功。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对热爱的烘焙乐趣下降，难以像过去那样享受",
+            "自我怀疑强化，成就感与价值感动摇"
+          ],
+          "outcomes": [
+            "动机降低与挫败感增加",
+            "自尊受损、工作满意度下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“必须做出完美蛋糕”的内在规则束缚",
+            "害怕再次失败而犹豫尝试"
+          ],
+          "outcomes": [
+            "行动受限、回避或拖延",
+            "焦虑和紧张上升，表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈与工作中频繁自责，使用“永远/不行”等绝对化表达",
+            "过度在意可能的错误，谨小慎微以至于表现受限"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须做出完美蛋糕才算成功”内化为绝对标准",
+            "否定饼干等简单任务的成功，将其视为“不算数”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在回想三层蛋糕失败后开始烘焙时，来访者通常会预期失败、注意力下降并出现自我怀疑，从而影响作品质量。",
+          "unique_outcome": "上周有一次烤制饼干的经历“做得挺好”，与往常不同的是当次成品满意、体验相对积极。",
+          "reason": "线索：任务难度较低（饼干相对不如三层蛋糕复杂），由此降低紧张和失败预期，更易集中注意力。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭支持良好（母亲与两位姐妹可提供帮助与指导）",
+          "具备自我反思能力，能识别“自我实现预言”的模式",
+          "愿意尝试记录积极体验与认知重构（同意写成功/挑战并行的日志）",
+          "有坚持性与行动力（多次尝试重做蛋糕）",
+          "存在可被看见的成功经验（如饼干烘焙成功）"
+        ],
+        "negative_force": [
+          "消极认知模式显著（否定积极、心理过滤、过度概括、预测未来、非黑即白）",
+          "完美主义/全或无标准强化失败恐惧",
+          "过度自我批评，易将一次失败等同为全面无能",
+          "失败预期导致紧张与注意力下降，进一步干扰表现",
+          "倾向贬低正向证据，削弱自我效能感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在烘焙任务中出现强烈失败预期与自我怀疑，注意力涣散。",
+          "antecedent": [
+            "开始新的烘焙任务前回想三层蛋糕失败",
+            "面对难度较高或复杂的烘焙要求（如三层蛋糕）"
+          ],
+          "core_reason": "对失败的灾难化与“全或无”标准、过度概括导致对自身能力的稳定性负面推断。",
+          "function": "心理上逃避潜在失败与羞耻，试图通过自我设防获得控制感。",
+          "consequence": "表现受损、错误增加、工作满意度降低，并影响与同事的互动与自尊。"
+        },
+        {
+          "behavior": "否定积极结果（将成功经验视为“不算数”）。",
+          "antecedent": [
+            "当出现较顺利的烘焙结果（如饼干成功）",
+            "被提醒关注正向证据或小的进步"
+          ],
+          "core_reason": "完美主义标准与心理过滤，认为只有复杂作品且完美无瑕才算成功。",
+          "function": "维持与内在负性图式的一致性，避免面对不确定性或放松警惕。",
+          "consequence": "自我效能感受损、动机下降，延续消极情绪与失败预期的循环。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1432
+}

@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "王伦",
+      "gender": "男",
+      "occupation": "机械师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "未提及",
+      "medical_history": "无显著身体疾病；过去未有类似心理问题；未接受心理治疗",
+      "language_features": "表达清晰、逻辑连贯；能够具体描述自动化思维和感受；配合度高、态度积极但自我苛责明显；入室时有紧张感"
+    },
+    "main_problem": "我因最近一次车祸（我的科尔维特被追尾）感到内疚并不断责备自己。我认为事故发生是因为我驾驶技术差。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自责和内疚影响了我的日常功能和整体福祉，所以决定寻求咨询。我希望采用更平衡的视角、减少内疚的负担并继续前进。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够称职/不够好",
+        "发生的不幸都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "每次看到受损的科尔维特或回想起被追尾的事故",
+          "conditional_assumptions": "如果我没能避免事故或保护好我的车，就说明我驾驶技术差、我不称职",
+          "compensatory_strategies": "反复回放事故经过、自我批评；尝试亲自修车并向朋友请教以弥补过失",
+          "automatic_thoughts": "都是我的错/我太愚蠢了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "获知警方报告显示对方司机在发短信但仍在脑中反复出现“如果当时我更快反应”",
+          "conditional_assumptions": "即使对方有责任，只要我更快更好地应对，就能阻止事故；我必须完全掌控一切",
+          "compensatory_strategies": "持续进行“如果……就不会发生”的假设性推演，苛责自己以维持控制感",
+          "automatic_thoughts": "我本来应该能阻止这一切",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "在工作时想到事故，注意力难以集中",
+          "conditional_assumptions": "一次事故意味着我作为司机和机械师都不够好",
+          "compensatory_strategies": "过度聚焦失误与风险信号，降低投入以避免再次失败",
+          "automatic_thoughts": "我不够好，我的专业能力也可能不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友互动时频繁谈及事故，关系出现紧张",
+          "conditional_assumptions": "如果我不不断检讨和承担全部责任，就显得不负责任",
+          "compensatory_strategies": "反复向他人提起事故、寻求建议以证明自己在负责",
+          "automatic_thoughts": "他们会觉得我在抱怨、我让人厌烦",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为可靠、称职并得到认可与原谅",
+        "fear": "害怕被视为失败者、被指责与否定自我价值",
+        "defense_goal": [
+          "通过自责与全责来维持控制感与道德安全，避免外界指责"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有过失且需要不断自我检讨的失败者",
+          "object_representation": "可能会批评、厌烦或否定自己的他人",
+          "linking_affect": "羞愧、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其考虑不可控因素或分担事故责任时",
+          "interpretation": "若不承担全部责任，自己就会显得不负责任、会被他人批评（移情：将他人视为潜在批评者）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以懊悔与自责的语气表达，频繁使用“我应该……”的句式，强调自身过错，弱化外部因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "过度承担事故的责任，试图完全控制不可控因素",
+            "频繁使用“应该”自我苛责并进行反事实思考（如果我当时更快/更注意）"
+          ],
+          "outcomes": [
+            "持续的内疚与自责",
+            "睡眠与饮食紊乱",
+            "工作专注力下降",
+            "与朋友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复检讨自己的错误，强调“我应该……”“我本来能避免”",
+            "担心被视为不负责任，从而将责任尽可能揽到自身",
+            "在互动中小心翼翼、过度自责"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本欲对外发出的能量转而对自己，抑制对他人或外界的表达，将行为或情绪转向自身。",
+          "manifestations": [
+            "将对肇事方的不满与愤怒转为自我指责与惩罚",
+            "通过自我批评与反刍来“承担”后果而非与他人合理分担"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意寻求并参与咨询",
+          "具备一定的现实检证能力（能够参考警方报告与朋友意见）",
+          "有社会支持（有几位可以交谈的朋友）",
+          "能够采取行动（尝试修车、寻求建议）"
+        ],
+        "negative_force": [
+          "过度自责与个人化思维",
+          "过度概括，将一次事故扩展为能力全面不足",
+          "控制谬误与“应该”句式导致高标准自我苛责",
+          "反复反刍引发睡眠与饮食紊乱、工作注意力受损、人际紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "强烈自责与反复反刍事故细节",
+          "antecedent": [
+            "看到受损的车辆",
+            "想到驾驶或回忆事故经过",
+            "与朋友谈及事故"
+          ],
+          "core_reason": "将事故主要归因于自身，伴随灾难化与个人化认知以维持对事件的“控制感”与道德自我",
+          "function": "逃避面对外部不可控性、通过自我惩罚维持责任与控制的主观感受",
+          "consequence": "睡眠与饮食紊乱、工作表现下降、与朋友关系紧张，整体生活功能受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1770
+}

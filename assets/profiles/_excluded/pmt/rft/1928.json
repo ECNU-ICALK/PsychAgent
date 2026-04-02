@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "刘珊",
+      "gender": "女",
+      "occupation": "",
+      "educational_background": "硕士研究生",
+      "marital_status": "",
+      "family_status": "",
+      "social_status": "有几位可以谈心的朋友，但对表达这类自卑与怀疑的感受有所犹豫；与朋友关系因自我怀疑而受影响",
+      "medical_history": "无重大躯体疾病；既往无相似心理问题史；无既往心理治疗或咨询史",
+      "language_features": "表达清晰、有自我觉察与逻辑，能具体描述自动化思维；情绪略显紧张，配合度高"
+    },
+    "main_problem": "完成硕士学位后出现自卑与自我怀疑，担心朋友认为自己的求学是浪费时间；在谈论职业路径与教育背景时尤其被触发，反复担忧他人看法并影响自我价值感。",
+    "topic": "人际关系",
+    "core_demands": "我想停止这种不足感，开始认可自己的成就，而不是不断担心他人怎么看我。",
+    "growth_experiences": [
+      "几个月前完成硕士学位后，一位朋友就其职业选择说“如果你不真正用到这个学位，那学习是否值得？”此评论对其自我价值造成显著打击，之后在社交与谈论职业话题时反复触发自卑与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我是失败者",
+        "我的价值取决于他人的评价",
+        "如果没有把学位直接用于职业，就等于浪费与失败"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友对其职业选择发表“如果不用到学位是否值得”的评论",
+          "conditional_assumptions": "如果我没有把学位直接用于职业，就说明我的努力毫无意义，我就是失败者",
+          "compensatory_strategies": "向朋友寻求安慰与肯定，试图用积极自我对话说服自己",
+          "automatic_thoughts": "他们一定觉得我把时间都浪费了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在朋友聚会时谈及职业规划与教育背景",
+          "conditional_assumptions": "如果我没有清晰的职业路径，就证明我所有努力都是失败，要么完全匹配学位，要么就是一无是处",
+          "compensatory_strategies": "回避或减少关于职业话题的交流，尽量解释/辩解自己的决定以降低被评价的风险",
+          "automatic_thoughts": "如果我不能把学位用在工作上，那一切努力都白费了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "独自反思自己的职业选择与“是否犯了大错”",
+          "conditional_assumptions": "如果现在没有把学位用在工作上，未来也会越来越糟，无法挽回",
+          "compensatory_strategies": "反复反刍与自我质疑，尝试用积极自我对话短暂安抚",
+          "automatic_thoughts": "我做了一个巨大的错误，这会毁掉我的职业与生活",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与朋友讨论学业与职业并寻求肯定时，对方未给予明确一致的强力肯定",
+          "conditional_assumptions": "只有当他人明确肯定我，我才有价值；若对方不立即肯定，就说明我真的不行",
+          "compensatory_strategies": "反复向不同朋友寻求保证与认可",
+          "automatic_thoughts": "他们没有马上说好，说明他们也觉得我失败",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见并肯定自我价值",
+        "fear": "害怕被否定与羞辱，担心被视为失败者而被群体排斥",
+        "defense_goal": [
+          "通过寻求外部认可来稳住自尊与关系安全",
+          "回避关于职业与学位用途的直接对话以降低被评价的风险",
+          "以自我贬低与先行否定来避免更强的他人否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被评判的失败者",
+          "object_representation": "苛刻、评判性的他者（朋友/旁人）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询“朋友实际如何看法/证据何在”，或邀请区分事实与推断时",
+          "interpretation": "来访者倾向将自我否定体验归因为“他人这样想”，将外界视作评判者",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和、验证感受；以具体化提问澄清证据与推断，邀请列举支持与反驳的事实，鼓励将“他们的想法”改述为“我的担心”。"
+        },
+        {
+          "trigger_condition": "当咨询师提出“错误/挫折可作为成长机会”并邀请体验当下感受时",
+          "interpretation": "以理性谈论与逻辑同意取代情绪体验，弱化羞耻与不安的直接接触",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "放慢语速，关注当下身体感受（如胸口紧、呼吸变化），使用反映情感的语言，减少解释，鼓励短句描述“此刻我感到……”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“学位是否被直接应用于职业”作为价值判断的核心标准",
+            "反复怀疑自己的努力是否“值得”",
+            "在社交中对他人评价高度敏感，担心自己的学习被视为浪费"
+          ],
+          "outcomes": [
+            "自尊受损与自我贬低",
+            "焦虑与紧张，尤其在职业话题中加剧",
+            "睡眠受影响与工作动机下降",
+            "与朋友关系紧张、社交回避"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在聚会或谈到职业时，假定朋友认为其“浪费时间”“失败”",
+            "将自我怀疑体验理解为“他们都这样看我”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交情境中过度担心言行引发负评，谨小慎微",
+            "反复自责“我不够好”，犹豫表达真实感受"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“学位必须直接用于职业，否则失败”作为僵硬标准",
+            "以“应该/必须”的自我要求评估自身价值"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备较强的学习与坚持能力（完成硕士学位）",
+          "有几位可提供情感支持的朋友",
+          "愿意求助并接受心理咨询，具备改变动机",
+          "能识别并命名负性自动思维，具备一定的自我觉察与逻辑分析能力"
+        ],
+        "negative_force": [
+          "过度依赖他人评价以确定自我价值（寻求外部验证）",
+          "灾难化、非黑即白思维与读心术倾向明显",
+          "自我怀疑与自我贬低导致社交回避与关系紧张",
+          "反刍担忧干扰睡眠与工作动机，功能受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及职业/教育背景的社交情境中出现显著焦虑并回避发言或缩减交流",
+          "antecedent": [
+            "朋友聚会中被问及“学位/职业规划”",
+            "听到他人讨论职业路径或“是否值得”的话题"
+          ],
+          "core_reason": "核心信念“我的价值取决于他人评价/必须把学位直接用到职业上”，触发对被否定与羞耻的强烈预期",
+          "function": "逃避被评价与羞耻的威胁，从而短期降低焦虑",
+          "consequence": "社交参与度下降、人际关系紧张，自尊进一步受损"
+        },
+        {
+          "behavior": "反复向朋友寻求安慰与肯定（Reassurance Seeking）",
+          "antecedent": [
+            "在反思职业选择或被问及学位用途后感到不安",
+            "朋友未给予明确一致的正向反馈"
+          ],
+          "core_reason": "以他人肯定来稳定自我价值与减轻不确定感",
+          "function": "获得外部安慰与短期情绪缓解",
+          "consequence": "对外部认可的依赖增强，长期维持自我怀疑循环"
+        },
+        {
+          "behavior": "睡前反刍式担忧（关于学位是否浪费、未来是否糟糕）导致入睡困难",
+          "antecedent": [
+            "白天社交中被触发的相关话题",
+            "睡前回想朋友评论或自我评判"
+          ],
+          "core_reason": "灾难化与过度概括的自动化思维持续活跃，难以停止",
+          "function": "试图通过反复思考找到确定答案以降低不确定感",
+          "consequence": "睡眠质量下降、白天精力与工作动机降低，负性情绪加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1928
+}

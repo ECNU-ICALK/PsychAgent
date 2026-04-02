@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "张远",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "与家人同住",
+      "social_status": "有朋友和家人可倾诉，但尚未就此具体问题与他们沟通",
+      "medical_history": "哮喘，偶尔使用吸入器；无其他显著病史",
+      "language_features": "表达清晰、配合度高、语气诚恳；能觉察自动化思维但易焦虑与灾难化；在涉及心仪同事的互动时倾向回避表达"
+    },
+    "main_problem": "由于对同事的暗恋而产生压力与焦虑；担心因自己的游戏爱好与哮喘被拒绝，导致明显困扰。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为与这段暗恋相关的焦虑和压力影响了我的工作效率并造成情绪动荡。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会因为自己的哮喘和游戏爱好被拒绝",
+        "我显得不够认真、很脆弱，因此不值得被喜欢"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作或社交活动中与该同事互动的场景",
+          "conditional_assumptions": "如果她知道我的哮喘和游戏爱好，她就一定不会和我约会",
+          "compensatory_strategies": "隐瞒个人兴趣与健康状况、回避表达好感",
+          "automatic_thoughts": "她不会喜欢我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交场合看到她与他人互动、担心他人对自己爱好与哮喘的看法",
+          "conditional_assumptions": "如果我谈及游戏或哮喘，她会觉得我不够认真或不可靠",
+          "compensatory_strategies": "保持沉默、避免谈论相关话题",
+          "automatic_thoughts": "她会觉得我不够认真",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "需要与她直接沟通或表达好感的时刻",
+          "conditional_assumptions": "如果我表达自己，就会说错话、场面会很糟糕",
+          "compensatory_strategies": "回避开启话题、拖延接触",
+          "automatic_thoughts": "我肯定会搞砸",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在脑海中反复想象她知道我有哮喘后会如何评价我",
+          "conditional_assumptions": "我的哮喘会让她把我视为负担，问题都在我身上",
+          "compensatory_strategies": "自我贬低、压抑追求冲动",
+          "automatic_thoughts": "我的哮喘会成为她的负担",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢并建立更深的联系",
+        "fear": "害怕因哮喘与兴趣被评判与拒绝",
+        "defense_goal": [
+          "通过压抑与回避表达来减少被拒绝的风险、维持表面安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、可能被拒绝的追求者",
+          "object_representation": "会评判并拒绝自己的同事",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要与心仪同事沟通或表达好感，或想到她可能知道自己的哮喘与游戏爱好时",
+          "interpretation": "将对方想象为会评判与拒绝的人（移情：将内在的自我怀疑投射到对方的意图上）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以谨慎、间接的语气表达，尽量使用假设性与条件式措辞，回避直接表露情感与需求；若被追问，以“还没准备好”“担心影响工作”为由转移话题。"
+        },
+        {
+          "trigger_condition": "当被建议尝试主动沟通与表达时",
+          "interpretation": "将潜在风险扩大化，认为一旦表达就会出现糟糕后果",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调工作繁忙、场合不合适等外在理由，以温和但回避的方式推迟行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕被拒绝导致难以建立更深的关系",
+            "在与心仪同事互动时因担忧评价而回避表达自我"
+          ],
+          "outcomes": [
+            "显著焦虑与压力",
+            "睡眠受影响",
+            "工作效率下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "臆测同事会觉得自己不够认真或把哮喘视为负担",
+            "在未求证前就预设对方的负面看法（读心术）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度担心“说错话”、过度审查自己的表达与兴趣",
+            "在互动中因自我苛责而压抑真实需要"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的自我觉察，能识别焦虑与自动化思维的存在",
+          "愿意寻求帮助并对改变持积极态度",
+          "拥有朋友与家人的潜在支持网络"
+        ],
+        "negative_force": [
+          "强烈的被拒绝恐惧与外部评价敏感",
+          "倾向读心与预测最坏结果（跳到结论）",
+          "自我贴标签与自我贬低（将哮喘与游戏爱好视为缺点）",
+          "回避表达与接触，导致关系难以推进"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与心仪同事互动前后出现显著焦虑并回避沟通与表达",
+          "antecedent": [
+            "在工作或社交场合需要与该同事接触",
+            "想到她可能知道自己的哮喘与游戏爱好"
+          ],
+          "core_reason": "对被拒绝的灾难化与读心式预设，认为一旦了解自己就会被评判与拒绝",
+          "function": "逃避可能的负性评价与拒绝，以维持短期情绪安全",
+          "consequence": "工作专注与效率下降、睡眠受影响、关系无法推进与建立更深连接"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1605
+}

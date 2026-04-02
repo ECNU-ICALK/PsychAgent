@@ -1,0 +1,15 @@
+# 任务开始 (Task Start)
+- **【元技能库】** 
+该技能库是一个嵌套字典，每个条目为 Python 字典格式的技能键值对，具体格式为：
+{
+    skill_id: {
+        "skill_id": （一个字符串类型的数字，例如："1"）,
+        "skill_name": （技能名称，例如："评估性会谈"）,
+        "skill_description": "（元技能描述）"
+    }
+}
+技能库内容如下：
+{{ skills_library }}
+
+- **【Session目标】**:
+{{ session_goals }}

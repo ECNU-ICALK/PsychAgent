@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "陈格瑞",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "丈夫在电信行业工作，有两个女儿",
+      "social_status": "有几位密友和丈夫作为支持，但尚未向他们深入沟通驾驶焦虑；因对堂（表）兄弟看法的假设导致关系紧张",
+      "medical_history": "此前无类似问题；无以往心理治疗经历；无重大躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我在驾驶时感到挫败和焦虑，这影响了我的日常生活并造成困扰。",
+    "topic": "情绪管理",
+    "core_demands": "日益加重的驾驶焦虑变得难以承受，因此我寻求咨询以有效地处理和管理这个问题。",
+    "growth_experiences": [
+      "几个月前一次驾驶中的“险些发生事故”的经历（几乎发生碰撞），随后逐渐出现与驾驶相关的显著焦虑与回避：在拥挤或高流量时段更为紧张，尤其在高速并线或遇到临时绕行时感到失控；尝试了听舒缓音乐和深呼吸，稍有帮助但总体焦虑持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被他人接纳（尤其担心被亲属讨厌）",
+        "我无法应对不可预知的驾驶情境，随时会出事"
+      ],
+      "special_situations": [
+        {
+          "event": "计划与堂（表）兄弟一起外出或想到与他们相处",
+          "conditional_assumptions": "如果我表现得很张扬，他们一定会讨厌我并排斥我",
+          "compensatory_strategies": "减少与亲属接触、压抑真实的自我表达以避免被评判",
+          "automatic_thoughts": "他们会讨厌和我在一起",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "需要在拥挤或高流量的道路上驾驶",
+          "conditional_assumptions": "一旦交通拥挤或出现复杂情况，我就无法处理并可能发生事故",
+          "compensatory_strategies": "回避高峰时段和拥挤路段，开车时听舒缓音乐、做深呼吸以试图降低焦虑",
+          "automatic_thoughts": "我处理不了，会发生糟糕的事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在繁忙的高速路段并线",
+          "conditional_assumptions": "只要需要并线，我就会失控或犯严重错误",
+          "compensatory_strategies": "尽量选择不需要并线的路线或在较不繁忙的时段出行",
+          "automatic_thoughts": "我肯定搞不定，会出事",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "遇到临时绕行或路线突发变化",
+          "conditional_assumptions": "一旦出现不可预测的变化，我对驾驶就毫无掌控力",
+          "compensatory_strategies": "避免陌生路线、优先选择可预测的道路和时段",
+          "automatic_thoughts": "我会完全失控，不知道该怎么办",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被亲近的人（丈夫、亲属）接纳与理解，并在驾驶与生活中获得安全感与掌控感",
+        "fear": "害怕被拒绝、被轻视；害怕在不可预测情境下失控并遭遇危险",
+        "defense_goal": [
+          "通过回避高风险驾驶情境与压抑自我表达来降低焦虑与羞耻感，维持表面安全与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判、易被排斥的脆弱者",
+          "object_representation": "挑剔、不接纳的亲属（堂/表兄弟）",
+          "linking_affect": "焦虑、羞耻、被拒绝的恐惧"
+        },
+        {
+          "self_representation": "担心被轻视的易受伤者",
+          "object_representation": "可能会批评或轻视自己的伴侣",
+          "linking_affect": "尴尬、担忧、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与丈夫沟通驾驶焦虑、寻求支持时",
+          "interpretation": "来访者担心丈夫会觉得自己连“基本的驾驶”都处理不好，从而轻视自己（将内在的羞耻与担忧投射到丈夫）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹豫、谨慎的语气强调“不想被看不起”，提出暂缓沟通或转移话题到实际困难上。"
+        },
+        {
+          "trigger_condition": "当咨询师引导其用更为平衡的视角看待驾驶风险与焦虑时",
+          "interpretation": "来访者以“道路不可预测”为理由，强调理性层面的不可控，从而淡化情绪体验与身心感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观、冷静的语气陈述“不可控性”，减少对情绪的描述与停留。"
+        },
+        {
+          "trigger_condition": "当谈及为何回避拥挤路段、并线或绕行时",
+          "interpretation": "来访者以“为了安全”解释所有回避行为，将焦虑与害怕合理化为必要的谨慎",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调“谨慎是必须的”，以肯定句与理由链条为主，弱化对内在恐惧的承认。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在驾驶中感到道路不可预测、体验到失控感",
+            "遇到并线与绕行时强烈的无力与紧张"
+          ],
+          "outcomes": [
+            "焦虑加剧与回避驾驶情境",
+            "日常事务受影响、生活压力增大"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "预设堂（表）兄弟会讨厌自己，关系因此紧张",
+            "对向丈夫表达脆弱与寻求支持感到尴尬与羞耻"
+          ],
+          "outcomes": [
+            "社交回避、支持系统未充分启动",
+            "自我否定与被拒绝恐惧增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为亲属会讨厌自己而回避相处",
+            "担心丈夫会轻视自己从而不愿表达真实感受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将“不能连开车都不行”的自我要求内化为羞耻感",
+            "在表达需要与寻求支持前反复自我审查、犹豫不决"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有丈夫与几位密友的社会支持网络",
+          "已尝试听舒缓音乐与深呼吸等自我调节策略",
+          "主动寻求心理咨询，具备改变意愿"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式强化恐惧",
+          "读心术与过度概括导致社交回避与关系紧张",
+          "对驾驶情境的回避维持焦虑循环",
+          "羞耻与担心被轻视，阻碍向亲密关系求助"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "驾驶时的高度焦虑与回避",
+          "antecedent": [
+            "需要驾驶时",
+            "在拥挤或高流量道路上",
+            "并线进入繁忙高速",
+            "遇到临时绕行或路线突发变化"
+          ],
+          "core_reason": "几个月前的“险些发生事故”经历触发对驾驶危险的灾难化与失控信念，强化对不确定性的恐惧",
+          "function": "逃避潜在危险与失控，短期缓解焦虑",
+          "consequence": "避免某些驾驶场景导致跑腿与日常事务效率下降，整体生活压力增大，回家后情绪紧张影响家庭氛围"
+        },
+        {
+          "behavior": "与堂（表）兄弟的社交回避",
+          "antecedent": [
+            "计划与亲属聚会或想到与他们相处时",
+            "担心他人不喜欢“张扬的男性”"
+          ],
+          "core_reason": "对他人评价的读心与过度概括，内在“我不被接纳”的核心信念驱动",
+          "function": "回避被拒绝与羞耻的风险，维持自我保护",
+          "consequence": "人际关系紧张、支持来源减少、孤独感与自我否定加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 125
+}

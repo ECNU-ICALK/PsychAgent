@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "李迪安",
+      "gender": "男",
+      "occupation": "厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与朋友的关系因持续自我批评而受影响；有几位可以交谈的朋友，但尚未与他们讨论关于打鼓的负性想法",
+      "medical_history": "无显著身体疾病；此前未接受心理治疗；过去未出现类似心理问题",
+      "language_features": "表达清晰，配合度高，语气中性，能进行自我反思但倾向于严苛自我批评"
+    },
+    "main_problem": "我经常对自己的打鼓能力产生负性想法，导致无力感和气馁。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些关于我打鼓能力的负性想法影响了我对音乐的热情和整体情绪。",
+    "growth_experiences": [
+      "几个月前在一场面对大量观众的高压演出中打鼓出现失误；此后每次练习或演出都会反复浮现“我很糟糕”“我会再次失败”等负性自动思维，感到紧张和焦虑，错误增多、难以享受打鼓；尝试通过加倍练习和向朋友寻求安慰来应对，但积极反馈难以被接纳，负性想法持续加重，并波及到日常心情和与朋友的互动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前在大型观众面前的演出中打鼓出现失误",
+          "conditional_assumptions": "如果在表演中犯错，就说明我不称职/很糟糕",
+          "compensatory_strategies": "加倍练习并向朋友寻求安慰以证明自己、缓解焦虑",
+          "automatic_thoughts": "我打鼓很烂",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次练习或准备演出时，回想那次失误导致压力和紧张上升",
+          "conditional_assumptions": "必须做到完美才算合格；任何错误都意味着失败",
+          "compensatory_strategies": "不断增加练习时间以避免错误",
+          "automatic_thoughts": "我又要搞砸了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友给予积极反馈或安慰时",
+          "conditional_assumptions": "他人的正面评价不可信，只有没有错误才能证明我不差",
+          "compensatory_strategies": "一方面寻求外部认可，另一方面否定正向反馈",
+          "automatic_thoughts": "他们只是说好话，实际上我很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "上周为一场小型演出排练时，在简单段落频繁出错",
+          "conditional_assumptions": "过去的失败预示未来也会失败；在舞台上我总会出错",
+          "compensatory_strategies": "在焦虑中硬撑练习，忽视对表现的客观评估",
+          "automatic_thoughts": "如果再犯错，后果会很糟糕",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任的鼓手并重新享受音乐",
+        "fear": "害怕再次失败、被观众或朋友否定，从而失去自信与热爱",
+        "defense_goal": [
+          "通过自我批评来预防失误与羞耻",
+          "通过高强度练习与寻求安慰来缓冲焦虑、维持掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的演奏者/严苛自我批评者",
+          "object_representation": "不理解自己、只是表面安慰的他人/朋友",
+          "linking_affect": "沮丧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（朋友或咨询师）给予积极反馈或安慰时",
+          "interpretation": "倾向认为对方只是出于好意或不真正理解自己（移情：将内在怀疑投射到他人动机上）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "轻描淡写正面反馈，强调自身不足；语气克制但坚决，重复“我其实很差”的自我评价以维持既有认知。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "负性思维使打鼓不再享受，热情下降",
+            "对音乐的投入被反复的失败期待所吞没"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "动力下降与兴趣减退"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "尚未与朋友讨论负性想法",
+            "人际关系因自我批评而紧张"
+          ],
+          "outcomes": [
+            "社交疏离感增强",
+            "可用支持未被充分利用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "练习时严苛地盯住错误并进行全局否定",
+            "与朋友互动中因自我批评而显得紧张、拘谨"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为朋友的安慰只是出于好意、不真实",
+            "假设他人不理解自己的真实困难"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作领域保持稳定表现，显示出韧性与自我效能",
+          "有几位可信赖的朋友可提供支持",
+          "愿意尝试记录与客观分析的行为实验，具备改变动机"
+        ],
+        "negative_force": [
+          "灾难化、过度概括等认知偏差强烈",
+          "严苛自我批评与对错误的高敏感导致焦虑与紧张",
+          "寻求外部认可却否定正向反馈，难以内化积极信息",
+          "表演情境下高压唤起增强失败预期"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "打鼓时出现强烈自我批评与焦虑，紧张并频繁失误",
+          "antecedent": [
+            "在观众面前的演出或准备演出时",
+            "练习时回想过去的失误",
+            "收到朋友正面反馈后产生怀疑与否定"
+          ],
+          "core_reason": "一次公开演出失误后形成“我很糟糕/会失败”的核心负性信念与灾难化期待，由此在练习与表演情境中触发紧张与焦虑",
+          "function": "逃避失败与羞耻感（通过自我批评与增加练习寻求控制），并通过寻求他人安慰暂时缓解焦虑",
+          "consequence": "难以享受音乐与打鼓、练习效率下降且错误增多、人际关系紧张、整体心情变差"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 765
+}

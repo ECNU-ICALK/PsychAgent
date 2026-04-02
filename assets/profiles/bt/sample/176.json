@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "李瑞安",
+      "gender": "男",
+      "occupation": "会计",
+      "educational_background": "会计学学位",
+      "marital_status": "单身",
+      "family_status": "独居，养了一条名为“Spot”的锦鲤",
+      "social_status": "有一位可谈心的亲密朋友，但尚未与其讨论园艺相关焦虑；因对花园结果的过度关注，社交参与受限",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "态度中性；表达清晰、有条理；能具体描述问题与触发情境；配合度良好；存在灾难化与预测未来的认知倾向"
+    },
+    "main_problem": "围绕园艺收成（尤其是番茄）的结果产生持续的焦虑与压力，几个月前注意到番茄长得比往常慢后开始加剧，每次检查或想到花园都会担心整季收成失败。",
+    "topic": "情绪管理",
+    "core_demands": "持续的焦虑和压力让我不堪重负，寻求咨询以获得支持和指导。",
+    "growth_experiences": [
+      "几个月前发现番茄生长较往常更慢，随之产生并逐渐加剧的焦虑与压力；每次检查或想到花园都会担心整季收成失败，尝试自我安慰与上网寻求园艺建议但未缓解，进而影响工作专注、社交参与以及睡眠与食欲。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败是不可接受的",
+        "如果收成失败，我会很丢脸，之前的时间和精力都将被浪费"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前发现番茄生长比往常更慢",
+          "conditional_assumptions": "如果生长进度出现异常，就意味着最终会失败",
+          "compensatory_strategies": "在网上大量寻找园艺建议并反复检查植物",
+          "automatic_thoughts": "整季收成会失败",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次检查花园或想到植物",
+          "conditional_assumptions": "如果我不立即处理每一个问题，收成就会失败",
+          "compensatory_strategies": "不断监控、频繁查看与研究以试图控制结果",
+          "automatic_thoughts": "如果不一直盯着，它们会死掉",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到某株出现几片黄叶",
+          "conditional_assumptions": "任何负面迹象都意味着整体作物将失败",
+          "compensatory_strategies": "长时间在网上研究并一次次检查",
+          "automatic_thoughts": "整个作物可能已注定失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中分心想到花园的状况",
+          "conditional_assumptions": "若收成失败，所有投入都变成浪费并令人尴尬",
+          "compensatory_strategies": "尝试自我安慰并上网寻求建议",
+          "automatic_thoughts": "如果这次失败，我的付出一点意义都没有",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过努力获得成功的收成与稳定的控制感",
+        "fear": "害怕失败、失望与羞耻（觉得投入会被否定）",
+        "defense_goal": [
+          "通过持续监控与理智化（大量查资料）来降低不确定性与失败风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "努力付出却担心失败的自我",
+          "object_representation": "不可预测、可能随时出问题的花园/番茄植物",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当观察到植物异常（如黄叶）或被要求描述具体担忧时",
+          "interpretation": "倾向将小的变化或咨询探问理解为“收成将失败”的信号，认为必须立即找到解决方案，否则会失控",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用事实导向、温和中性的语气，聚焦证据与可行步骤，避免情绪化表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "担心失败会使投入的时间与精力变成浪费",
+            "因番茄生长缓慢而对结果产生持续担忧",
+            "每次想到花园即出现焦虑"
+          ],
+          "outcomes": [
+            "持续焦虑",
+            "工作注意力下降",
+            "社交参与受限",
+            "睡眠与食欲受扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，将原欲对外发出的能量转向自身。",
+          "manifestations": [
+            "未与亲密朋友讨论园艺相关的焦虑",
+            "把焦虑能量转向自我：长时间上网查资料并反复检查植物"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在注意到植物异常或检查花园时，来访者通常会持续焦虑、反复上网查资料并频繁检查，结果焦虑加重、难以专注于工作与社交。",
+          "unique_outcome": "有一次只给植物浇水并暂时不再过度关注，几天里没有频繁检查，感觉更放松。",
+          "reason": "不同做法：告诉自己“给植物一些空间、它们需要时间”，减少监控与在线查找，因此这次出现了短暂的缓解与放松。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能觉察并进行自我安慰（如提醒自己植物需要时间）",
+          "愿意探索并接纳去灾难化训练与策略",
+          "具备相对稳定的职业功能基础（工作仅轻度受干扰）",
+          "有一位可提供情感支持的朋友（虽暂未使用）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式（担心整季收成失败）",
+          "对失败与羞耻的强烈恐惧，倾向全或无地解读投入的价值",
+          "过度监控与反复查找信息维持焦虑",
+          "睡眠与食欲受扰、社交参与与工作专注受影响",
+          "未主动寻求社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕番茄种植的持续性焦虑与过度监控（反复查资料与频繁检查）",
+          "antecedent": [
+            "注意到番茄生长比往常慢",
+            "每次检查花园或想到植物",
+            "看到黄叶等负面迹象",
+            "工作时分心想到花园"
+          ],
+          "core_reason": "对收成失败的灾难化认知与“失败即浪费/羞耻”的信念驱动，试图通过控制消除不确定性",
+          "function": "逃避不确定性与潜在失败，获得暂时的控制感与安全感",
+          "consequence": "焦虑加重，影响工作表现与社交参与，睡眠与食欲被扰乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 176
+}

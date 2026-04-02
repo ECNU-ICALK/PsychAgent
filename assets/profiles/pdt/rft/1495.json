@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "林墨",
+      "gender": "男",
+      "occupation": "时装设计学生",
+      "educational_background": "在纽约一所知名的时装设计学院就读",
+      "marital_status": "单身",
+      "family_status": "在纽约独立生活",
+      "social_status": "因对自身时尚感的不安，难以与同学建立联系",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无显著身体疾病",
+      "language_features": "表达清晰，能描述具体触发情境与自动化思维；能进行一定自我反思；态度中立，配合度较好"
+    },
+    "main_problem": "我对时尚有强烈热情并立志成为成功的设计师，但在一次穿搭不佳后常陷入自我怀疑与负性思维，担心自己的衣橱都很丑、缺乏成功所需的创造力，焦虑影响创作与生活。",
+    "topic": "职业发展",
+    "core_demands": "我注意到自我怀疑和负性思维正在阻碍我的创作过程并影响整体幸福感，因此寻求帮助。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我缺乏在时尚行业成功所需的创造力",
+        "一次失败就意味着我不适合成为成功的时装设计师",
+        "他人比我更优秀，我不如他们"
+      ],
+      "special_situations": [
+        {
+          "event": "一次自认为不够体面的穿搭经历后",
+          "conditional_assumptions": "如果一次穿搭不佳，就说明我整体品味差、我的全部衣服都很丑",
+          "compensatory_strategies": "不断寻找外部灵感、寻求他人认可来修复自我评价",
+          "automatic_thoughts": "我的衣服都很丑；我没有品味",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在学校看到同学的穿搭被别人夸奖",
+          "conditional_assumptions": "如果别人被称赞，就代表我很差、我不够好",
+          "compensatory_strategies": "与他人比较、减少自我表达、回避社交",
+          "automatic_thoughts": "别人都比我强，我的设计很糟",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "临近学校活动或展示前",
+          "conditional_assumptions": "如果这次不能完美呈现，就说明我不适合这个行业",
+          "compensatory_strategies": "过度担忧、反复否定自己的方案以求“完美”",
+          "automatic_thoughts": "如果这次不够好，我就永远无法在行业里成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到他人在时尚领域表现优异或受到称赞",
+          "conditional_assumptions": "如果我达不到同样的认可，就说明我不具备成功的创造力",
+          "compensatory_strategies": "过度依赖他人评价、持续寻求外部验证而忽视自身偏好",
+          "automatic_thoughts": "我不具备成功所需的创造力",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被欣赏、被认可，成为成功的时装设计师",
+        "fear": "害怕失败与被否定、被羞辱",
+        "defense_goal": [
+          "通过自我批评与寻求外部认可来降低被否定的风险",
+          "与同伴保持一定距离以减少受伤感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能被否定的学生/设计师",
+          "object_representation": "挑剔的评判者或更优秀的同侪",
+          "linking_affect": "羞耻、焦虑、自卑"
+        },
+        {
+          "self_representation": "需要外部肯定才能感到有价值的人",
+          "object_representation": "拥有评判权、能决定自己价值的他人",
+          "linking_affect": "紧张、不安、渴望与依赖"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、区分事实与自动化思维时",
+          "interpretation": "来访者倾向以理性分析快速回应，以避免直接接触羞耻与不安的情绪",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和、支持性，使用具体化与情感标注的提问（如“此刻你身体有什么感觉？”），减少抽象解释，鼓励停顿与体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因对自身时尚感的不安而难以与同学建立联系",
+            "看到他人被赞美时更感到自我价值低落"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "睡眠被干扰",
+            "动机下降、创作受阻"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "难以坚持真实偏好与享受穿搭，受他人评价与潮流裹挟",
+            "过度依赖外部验证来决定价值"
+          ],
+          "outcomes": [
+            "自我一致性下降",
+            "自我怀疑、灾难化思维"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "醒来立刻担忧穿搭、整日自我苛责",
+            "在展示前反复否定方案、追求“完美”以避免被评判"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "看到他人被赞美后立即断定“我很差”“别人都比我强”",
+            "假设他人评价决定自身价值，忽略自身体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到他人被赞美或临近展示时，来访者通常会陷入比较与自我贬低，进而产生强烈焦虑，影响创作与表现。",
+          "unique_outcome": "在过去的某些时刻，来访者专注于自己喜欢的风格并享受穿搭过程，而非关注他人评价；当时获得了他人赞美并感到自信，没有像往常那样陷入比较与自我否定。",
+          "reason": "不同做法：将注意力放在个人偏好与乐趣上，减少对外部评价的关注，从而打破了灾难化与比较的惯性。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对时尚有长期而强烈的热情",
+          "曾有对穿搭的自信并获得过赞美的经验",
+          "愿意求助与尝试记录思维、进行认知检视",
+          "有几位学校朋友可交流（虽未分享不安，但具备潜在支持）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的认知风格",
+          "非黑即白与过度比较，过度依赖外部验证",
+          "否定积极经验（正向反馈被忽视）",
+          "睡眠被干扰导致精力下降与动机降低",
+          "因不安而弱化同伴连接、社交回避倾向"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到他人被夸或临近展示时出现强烈焦虑与自我否定",
+          "antecedent": [
+            "看到同学的穿搭/设计被赞美",
+            "临近学校活动或展示",
+            "早晨醒来即担忧当日穿搭"
+          ],
+          "core_reason": "将一次穿搭不佳过度概括为整体失败，并以外部验证作为价值依据，触发灾难化与非黑即白思维",
+          "function": "逃避被否定与失败的风险，通过自我批评与谨慎来寻求控制感与安全感",
+          "consequence": "创作受阻、设计项目表现下降；与同伴连接困难；整体焦虑升高、耗竭感增加"
+        },
+        {
+          "behavior": "睡眠被干扰（入睡前反复担忧与比较）",
+          "antecedent": [
+            "睡前回想当日比较与他人被赞美的场景",
+            "临近展示或活动的前夜"
+          ],
+          "core_reason": "对一次负面穿搭的灾难化解释与对未来失败的预测，持续反刍",
+          "function": "试图通过脑内预演与担忧来“控制风险”与避免失误",
+          "consequence": "动机下降、白天疲惫与注意力受损，进一步影响学习与创作"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1495
+}

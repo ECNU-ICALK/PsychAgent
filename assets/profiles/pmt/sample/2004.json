@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "林睿",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友可谈心，但未与其讨论此类焦虑；因对甜食的焦虑而回避含糖的社交场合，致与朋友和家人的关系受影响",
+      "medical_history": "无重大躯体疾病；既往无类似问题与心理治疗史",
+      "language_features": "表达清晰、逻辑性好、配合度高；能进行自我反思并接受重构；描述焦虑与内疚感受具体，语气平稳但伴随明显焦虑；求助动机积极"
+    },
+    "main_problem": "我有一种扭曲的信念，认为享受纸杯蛋糕会使我变得肥胖，并最终死于心脏病。这些信念一直给我带来显著的焦虑和痛苦。",
+    "topic": "情绪管理",
+    "core_demands": "持续的焦虑和痛苦已开始影响我的日常生活和幸福感，因此寻求咨询以获得指导和支持。",
+    "growth_experiences": [
+      "约在六个月前因健康方面的担忧而开始出现关于甜食的焦虑；工作与个人生活压力使相关想法更突出；此后几乎每天，尤其在用餐或社交聚会时都会出现焦虑；尝试通过严格限制饮食与过度运动来对抗这些想法，但未能缓解焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的饮食一旦不够严格，就会带来灾难性的健康后果。",
+        "我的身体是脆弱且不安全的，小的偏差也可能导致严重疾病。"
+      ],
+      "special_situations": [
+        {
+          "event": "在朋友的聚会上吃了一个纸杯蛋糕后",
+          "conditional_assumptions": "如果我吃甜食，就是在严重损害健康，并显著增加心脏病风险",
+          "compensatory_strategies": "之后严格限制饮食、加大运动量、回避含糖食物与有甜点的社交场合",
+          "automatic_thoughts": "我犯了严重错误，这会让我变胖，最后会心脏病发作。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每到用餐时间看到甜食（如纸杯蛋糕）",
+          "conditional_assumptions": "如果我不能完全避免甜食，就说明我缺乏自制力，健康会彻底失控",
+          "compensatory_strategies": "制定刚性饮食规则、严格计算摄入、强迫性运动来“对冲”",
+          "automatic_thoughts": "只要吃了一点，我就会控制不住、体重上升、健康走下坡路。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想起六个月前曾有的健康担忧",
+          "conditional_assumptions": "既然我曾经有过健康问题的担心，那说明我的身体更容易出问题，一点甜食都可能诱发大问题",
+          "compensatory_strategies": "把“零甜食”当成安全准则，强化饮食控制与回避",
+          "automatic_thoughts": "我的身体经不起任何甜食的刺激，后果会很严重。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在社交聚会上出现甜点、周围人享用甜食",
+          "conditional_assumptions": "如果我吃了甜食，未来一定会出事（增重、心脏病），只是时间问题",
+          "compensatory_strategies": "回避社交聚会或在场景中刻意回避甜食以降低焦虑",
+          "automatic_thoughts": "如果我吃一口，将来肯定会有严重健康问题。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安心地享受食物与生活、在社交中放松自如",
+        "fear": "害怕失去对身体与健康的控制，发展为严重疾病甚至死亡",
+        "defense_goal": [
+          "通过严格控制饮食与过度运动来减少不确定性与焦虑",
+          "回避含糖的社交场合以避免被诱发的恐惧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、需要高度自控才能维持安全的个体",
+          "object_representation": "甜食/社交场合是潜在威胁与诱惑，可能带来伤害",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交聚会上出现甜点或被他人劝食时",
+          "interpretation": "把甜食视为会带来严重健康后果的危险刺激（“一口也不能吃”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以健康风险为由进行坚定拒绝，语气果断，避免进一步讨论与接触相关食物。"
+        },
+        {
+          "trigger_condition": "在进食甜食后出现强烈焦虑与内疚感时",
+          "interpretation": "将当下的不安归因为“甜食已对身体造成伤害”，需要立即弥补",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "立即安排高强度运动或制定更严格的饮食计划，语速加快、强调“必须立刻行动”以缓解内疚与紧张。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "将吃甜食与未来心脏病发作和死亡直接相连",
+            "对健康的不确定性感到强烈威胁，反复预想最坏结果"
+          ],
+          "outcomes": [
+            "广泛性焦虑与内疚",
+            "回避社交与甜食，生活受限"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以刚性规则限制饮食与生活方式，减少选择的自由",
+            "通过过度运动来获得“控制感”"
+          ],
+          "outcomes": [
+            "被规则束缚，体验受限",
+            "焦虑维持与加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为避免接触甜食而回避社交聚会",
+            "与朋友和家人关系受到影响"
+          ],
+          "outcomes": [
+            "社交联系变弱",
+            "支持系统未被充分利用，主观孤立感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“吃甜食必然有害”作为绝对规则执行",
+            "对“适量也可以”的证据接受困难，倾向坚持刚性健康准则"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "将对甜食的渴望转向对自身的严格约束：限制饮食、过度运动",
+            "出现焦虑后以自我加压的方式“弥补”而非寻求外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "求助动机积极，愿意尝试新方法（如行为实验）",
+          "具备一定的理性辨识能力（承认“一次甜食不会毁掉健康”）",
+          "有几位可提供情感支持的亲密朋友",
+          "能够进行自我观察与认知重构练习的意愿"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知偏差显著",
+          "将“健康=绝对控制”内摄为刚性规则，易引发内疚",
+          "通过限制饮食、过度运动与回避社交维持焦虑循环",
+          "工作与个人生活压力提升了健康焦虑的敏感度",
+          "用餐与社交场景为高频触发情境，增强负性条件反射"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到或食用甜食（特别是纸杯蛋糕）时出现强烈焦虑与内疚",
+          "antecedent": [
+            "用餐时间看到甜食",
+            "在社交聚会中出现甜点",
+            "回想起六个月前的健康担忧"
+          ],
+          "core_reason": "将吃甜食与严重健康后果（增重、心脏病发作）进行灾难化关联，并被既往健康担忧与压力放大",
+          "function": "逃避预期中的健康威胁并短期降低焦虑",
+          "consequence": "持续高水平焦虑与内疚，饮食体验受损，生活质量下降"
+        },
+        {
+          "behavior": "严格限制饮食与过度运动（补偿性行为）",
+          "antecedent": [
+            "进食甜食后感到强烈不安",
+            "预期自己可能“失控”或“变胖”的念头出现时"
+          ],
+          "core_reason": "通过极端控制来对冲灾难化信念，寻求确定感与安全感",
+          "function": "获得主观的控制感并短期缓解焦虑",
+          "consequence": "强化“甜食=危险”的条件反射，维持与加剧焦虑循环"
+        },
+        {
+          "behavior": "回避与甜食相关的社交场合",
+          "antecedent": [
+            "受邀参加有甜点的聚会或庆祝活动",
+            "预想到现场难以避免甜食"
+          ],
+          "core_reason": "认为一旦接触甜食将不可避免地导致严重后果，从而通过回避来降低威胁",
+          "function": "逃避诱发焦虑的线索与情境",
+          "consequence": "人际关系受损，社会支持减少，负性信念得不到现实检验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2004
+}

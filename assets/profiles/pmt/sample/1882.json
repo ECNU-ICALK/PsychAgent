@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "陈美莎",
+      "gender": "女",
+      "occupation": "有志成为教师",
+      "educational_background": "正在攻读教育学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，与一只宠物狗同住",
+      "social_status": "有几位亲密朋友可交谈，但未向他们充分分享自己的脾气问题；因易怒爆发导致与朋友和同事的关系受损并感到孤立",
+      "medical_history": "一直脾气急躁但未曾寻求帮助；既往未接受心理治疗或咨询；无显著身体疾病",
+      "language_features": "表达清晰、逻辑较好，态度中性；能描述触发情境与已尝试的策略，配合度高；常出现“心理过滤”和“读心术”等认知偏差；在压力情境下倾向回避潜在触发"
+    },
+    "main_problem": "我认为因为我脾气急躁，所有人都把我看成一个爱发脾气的坏人，这让我产生内疚和羞耻。我的急躁脾气导致与朋友和同事的关系紧张，让我感到被孤立。",
+    "topic": "情绪管理",
+    "core_demands": "我的急躁脾气对我的关系和幸福感的影响让我意识到需要专业帮助。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个容易失控、令人厌恶的人",
+        "别人都会负面看待我并最终离开我"
+      ],
+      "special_situations": [
+        {
+          "event": "在学业与工作双重压力下与朋友或同学互动时容易被激怒",
+          "conditional_assumptions": "如果我在他人面前失控发脾气，就说明我是个坏人，别人一定会评判我并疏远我",
+          "compensatory_strategies": "尽量回避可能激怒自己的社交情境，减少与他人接触",
+          "automatic_thoughts": "他们一定觉得我是个爱发脾气的坏人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每次失控发脾气后的反思时刻（伴随内疚与羞耻）",
+          "conditional_assumptions": "如果我曾经失控，那就说明我总体上很糟糕、不可被接纳",
+          "compensatory_strategies": "反复回想负面片段，忽视他人的理解与支持的证据",
+          "automatic_thoughts": "我太糟了，大家都会这样看我",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "因易怒导致失去几位朋友后对其他关系的预期",
+          "conditional_assumptions": "一旦有过关系破裂的经历，以后所有关系也会这样",
+          "compensatory_strategies": "将社交圈进一步缩小，避免建立或深化人际关系",
+          "automatic_thoughts": "以后大家也都会离开我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友在冲突后展现支持与理解（如留下来倾听和安抚）",
+          "conditional_assumptions": "即使别人表现出支持，那也不是真心的，迟早会发生坏结果",
+          "compensatory_strategies": "贬低积极反馈的价值，不把其纳入整体评价",
+          "automatic_thoughts": "他们只是在装好人，终究会离开",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被接纳，维持亲密友谊与良好的同伴关系",
+        "fear": "害怕因失控发脾气被评判、被拒绝或被抛弃",
+        "defense_goal": [
+          "保持距离、回避可能激怒的情境以降低被拒绝的风险",
+          "通过自责与压抑来尝试控制愤怒与维持关系的稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有罪、羞耻的坏脾气者",
+          "object_representation": "会评判并最终离开的他人",
+          "linking_affect": "羞耻、恐惧、孤独"
+        },
+        {
+          "self_representation": "需要被理解和支持的困扰者",
+          "object_representation": "能倾听与安抚的支持性他人",
+          "linking_affect": "感激、羞愧、安慰"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及他人对自己的看法或回忆冲突情境时",
+          "interpretation": "认为他人会评判自己、最终离开自己（移情：将内在的批判体验投向外界）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气防御、谨慎；频繁使用“他们”“大家”等泛化用语，强调他人负面意图，减少自我感受的表露。"
+        },
+        {
+          "trigger_condition": "在回顾失控后的后果与自责时",
+          "interpretation": "理智化或将痛苦情感与事件分离，避免深入体验羞耻与悲伤",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用客观、技术性词汇陈述经历，弱化情绪词，转而讨论策略与应对步骤。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因易怒爆发导致关系紧张、失去部分朋友",
+            "主动回避可能激怒的社交情境，减少与他人的接触"
+          ],
+          "outcomes": [
+            "感到孤立",
+            "内疚与羞耻加重，影响睡眠与饮食",
+            "对他人反应的悲观预期"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "主动回避可能让自己被激怒的场景",
+            "在关系紧张后减少接触以避免再次冲突"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与羞耻，认为自己是“坏人”",
+            "过度在意他人看法，假定“大家都这样看我”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与朋友或同学发生冲突、被激怒的情境下，陈美莎通常会失控发脾气，随后陷入内疚与羞耻，关系恶化并倾向回避对话。",
+          "unique_outcome": "有一次对朋友发火后，对方仍然留下来倾听与安抚，陈美莎没有进一步升级冲突，而是在支持下平复情绪并维持了关系。",
+          "reason": "不同支持：朋友的在场与理解提供了安全的交流环境；不同做法：当时她愿意停下来被倾听并接受安抚，从而减轻了升级冲突的倾向。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友提供情感支持",
+          "愿意寻求专业帮助，动机明确",
+          "已尝试放松与愤怒管理策略，具备一定自助经验",
+          "能识别并愿意挑战负性思维模式（如心理过滤、读心术）"
+        ],
+        "negative_force": [
+          "学业与工作并行带来的高压情境",
+          "读心与心理过滤导致的自我贬损与悲观预期",
+          "回避潜在触发的社交情境，进一步加剧孤立",
+          "易怒爆发后强烈的内疚与羞耻影响睡眠与饮食"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "易怒爆发、对人发火",
+          "antecedent": [
+            "学业与工作并行的高压情境",
+            "与朋友或同学的互动与冲突话题"
+          ],
+          "core_reason": "在高压下对他人评价的读心与心理过滤，伴随对关系丧失的灾难化预期，情绪调节与压力管理不足",
+          "function": "短期释放紧张与焦虑、获得控制感或阻止进一步刺激",
+          "consequence": "人际关系受损、失去朋友；内疚与羞耻增强，影响睡眠与饮食，进一步感到孤立"
+        },
+        {
+          "behavior": "回避可能引发愤怒的社交情境",
+          "antecedent": [
+            "预期在社交中会被激怒或被评判",
+            "回忆过去关系破裂经历后对新关系的悲观预期"
+          ],
+          "core_reason": "害怕失控与被评判/被抛弃，试图通过回避降低焦虑与风险",
+          "function": "逃避潜在冲突与不适，短期降低情绪唤起",
+          "consequence": "社交减少、孤立加重，支持性资源减少，维持负性自我评价"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1882
+}

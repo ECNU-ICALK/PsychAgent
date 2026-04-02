@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "企业主",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有少数亲友可提供支持，但来访者不愿与其讨论财务焦虑",
+      "social_status": "财务压力使部分人际关系紧张",
+      "medical_history": "无重大躯体疾病；过去经历过财务困难与破产；此前未因类似心理问题接受过治疗",
+      "language_features": "表达清晰、配合度高、逻辑性较强；情绪焦虑但态度中性；能回忆并描述自动化思维"
+    },
+    "main_problem": "因过往破产经历导致对失去所有钱财的过度担忧与焦虑，这种迫近的财务“灾难感”自上次破产后一直持续，并在经济下行或市场波动时加剧。",
+    "topic": "情绪管理",
+    "core_demands": "恐惧与焦虑已影响其决策能力与整体福祉，寻求咨询中的支持与指导以缓解焦虑并改善决策。",
+    "growth_experiences": [
+      "曾经历多次破产与严重财务困难，自此对经济下行、市场波动与负面财经新闻高度敏感；虽尝试财务管理技巧并咨询理财顾问，但焦虑反复出现并逐渐加剧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会再次失去一切",
+        "我的财务决策不可靠，终将让我破产"
+      ],
+      "special_situations": [
+        {
+          "event": "听到或看到市场下跌的坏消息（如上周的市场下跌）",
+          "conditional_assumptions": "只要市场出现回调，最终就会发展成全面崩盘，我会再次破产",
+          "compensatory_strategies": "恐慌性撤资、过度谨慎直至决策瘫痪",
+          "automatic_thoughts": "要完了，这次又要失去一切",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "经济下行或宏观负面消息出现",
+          "conditional_assumptions": "一有负面迹象就意味着我会重蹈覆辙，迟早会失去所有钱",
+          "compensatory_strategies": "提前抛售、回避任何风险投资",
+          "automatic_thoughts": "不管怎样我迟早会一无所有",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "业务或投资中出现小的挫折或波动",
+          "conditional_assumptions": "如果出现小挫折，就说明整体注定失败",
+          "compensatory_strategies": "自我苛责并减少决策、拖延，或做出过激调整",
+          "automatic_thoughts": "这又是在走向失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面对需要做出新的投资/财务决策",
+          "conditional_assumptions": "只要我做错一次决定，就会一无所有；要么完全安全要么彻底失败",
+          "compensatory_strategies": "不决策或极端保守/迅速撤出以求“绝对安全”",
+          "automatic_thoughts": "我很可能做错并失去全部",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望财务上的安全感与可控性，渴望不再经历失败",
+        "fear": "害怕再次破产与失去一切，害怕错误决策毁掉生活",
+        "defense_goal": [
+          "通过保持高度警惕与控制来避免风险",
+          "与风险保持距离（撤出投资、冻结决策）以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易失败、对决策不自信的自我",
+          "object_representation": "充满威胁且不可预测的外部环境/市场",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有少数亲友可倾诉，但对财务焦虑不愿开口，倾向于独自承受",
+            "市场波动时陷入自我反刍，难以从关系中获得安抚"
+          ],
+          "outcomes": [
+            "焦虑维持并加剧",
+            "人际关系紧张",
+            "睡眠受影响，生活质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己",
+          "manifestations": [
+            "对财务焦虑不与亲友沟通，选择自己消化",
+            "在高压情境下把求助与沟通转为自我克制与紧绷"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "反复强调“做错决定就会一无所有”，在讨论投资时过度谨慎甚至瘫痪",
+            "会谈中以理性叙述压过情绪体验，语气谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "经历破产后仍能重建财务，客观处境较以往更好",
+          "主动寻求外部专业意见（咨询理财顾问），具备求助意识",
+          "拥有一定的社会支持网络（少数亲友可谈）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括等负性认知加工",
+          "焦虑驱动下的决策瘫痪或恐慌性撤资，影响业务表现",
+          "对负面市场信息高度敏感，过度关注风险信号",
+          "回避与亲友讨论财务焦虑，减少现实检验与情绪支持",
+          "睡眠受损与持续紧张降低认知与决策能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在财务与市场波动时出现强烈焦虑并作出恐慌性决策或陷入决策瘫痪",
+          "antecedent": [
+            "听到市场负面新闻",
+            "经济下行或宏观不利信号",
+            "业务/投资中的小挫折或短期波动",
+            "面临新的投资或财务决策"
+          ],
+          "core_reason": "过往破产经历形成的威胁记忆与灾难化、预测未来、过度概括等认知偏差",
+          "function": "逃避不确定性与潜在损失，获得短期的安全感与控制感",
+          "consequence": "睡眠与生活质量下降；业务表现受损；人际关系紧张，整体福祉降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 781
+}

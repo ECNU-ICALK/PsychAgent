@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "陈明泽",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与母亲同住；与母亲关系亲密，她是重要支持者",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；过去未出现类似问题",
+      "language_features": "表达清晰，能进行自我反思，配合度较高，语气中性，能具体描述事件与情绪"
+    },
+    "main_problem": "因上周读书会迟到而产生“我不负责任、我很懒”的自我贴标签，这一模式在遇到小失误时频繁出现，削弱自尊并影响日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "希望在专业指导下识别并改变对小失误的自我贴标签与个人化模式，改善自尊与心理健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懒惰且不负责任的人",
+        "我总是把事情搞砸"
+      ],
+      "special_situations": [
+        {
+          "event": "上周参加读书会时迟到",
+          "conditional_assumptions": "如果我出现一次失误，就说明我是懒惰且不负责任的人",
+          "compensatory_strategies": "通过自我反思与积极自我对话来纠正错误",
+          "automatic_thoughts": "我太不负责任，我很懒",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中忘记发送一封邮件",
+          "conditional_assumptions": "如果我忘记一个任务，别人会认为我不在乎，我是不可靠的人",
+          "compensatory_strategies": "尝试保持忙碌，并进行自我反思和积极自我对话以弥补失误",
+          "automatic_thoughts": "他们一定觉得我不在乎",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "错过一个截止日期",
+          "conditional_assumptions": "如果我不能完全按时完成所有事情，就说明我是不可靠的人",
+          "compensatory_strategies": "保持忙碌以避免再次失误",
+          "automatic_thoughts": "我总是把事情搞砸",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "忘记回一个电话",
+          "conditional_assumptions": "如果我没有把每件小事都做对，就意味着我很懒惰",
+          "compensatory_strategies": "自我批评后尝试以积极自我对话安抚自己",
+          "automatic_thoughts": "我很懒、我不可靠",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为负责任、可靠并得到他人认可",
+        "fear": "害怕被看作懒惰与不可靠，从而被否定",
+        "defense_goal": [
+          "通过严苛的自我批评与自我贴标签来监控与约束自己，以减少错误并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "懒惰、不可靠、容易犯错的自责者",
+          "object_representation": "他人是会批评我、认为我不在乎的评判者",
+          "linking_affect": "羞愧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中谈及自己犯小错误（如迟到、忘记发邮件）时",
+          "interpretation": "认为他人会把自己视为不在乎、懒惰的人（移情：将外界可能的负面评价内化并投射到咨询师/他人）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责性的语气描述事件，重复“我很懒/不负责任”，减少对外情境的探讨，强调自身过错。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对“负责任/懒惰”的强烈自我评判，将守时与不犯错视为自我价值的核心",
+            "在小失误后体验到羞愧与自我否定，担心他人看法"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "动力下降与回避",
+            "情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“必须时刻负责任、不能迟到或犯错”视为绝对标准",
+            "在小失误后用“我不负责任”等标签评价自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "频繁自责与自我否定，过度关注他人如何看待自己",
+            "面对小失误过度谨慎，动力下降"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与母亲关系亲密，获得稳定的情感支持",
+          "愿意主动寻求专业帮助并配合记录与目标设定",
+          "具备自我反思与意识到认知模式的能力",
+          "有工作与兴趣爱好维持日常节律"
+        ],
+        "negative_force": [
+          "对小失误的过度概括与个人化，倾向自我贴标签",
+          "过度在意他人评价，出现读心与心理过滤",
+          "自尊受损导致动力下降与日常效率降低",
+          "对“完美守时/不犯错”的僵化标准"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在发生小失误后进行自我贴标签与严苛自责，并出现情绪低落与动力下降",
+          "antecedent": [
+            "上周读书会迟到",
+            "忘记发送工作邮件",
+            "错过截止日期",
+            "忘记回电话"
+          ],
+          "core_reason": "将一次失误泛化为整体人格问题（“懒惰/不负责任”），并担心他人负面评价",
+          "function": "试图通过自我批评来强化自我监控与避免再次犯错（负强化），同时回避面对错误的不确定与他人评价",
+          "consequence": "自尊下降、情绪低落、动力不足，影响日常工作与生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 342
+}

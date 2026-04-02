@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "李薇",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "母亲曾是教师，任教二十余年，最近几个月前失业",
+      "social_status": "有少量朋友可倾诉，但并未充分表达焦虑与担忧；与朋友关系因其持续焦虑而受影响",
+      "medical_history": "无重大躯体疾病；此前未接受心理咨询或治疗；此前未出现与母亲工作相关的类似心理问题",
+      "language_features": "表达清晰、逻辑较好；能够具体描述焦虑与负性想法；配合度较高、愿意尝试干预；语气与内容呈现显著担忧与灾难化、预测未来的思维倾向"
+    },
+    "main_problem": "我一直在为“我的母亲永远找不到像她之前那样好的工作”这个信念而挣扎，这让我非常痛苦和焦虑。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询是因为关于我母亲工作状况的焦虑与担忧几乎吞噬了我，影响我的日常生活并造成痛苦。我希望能管理这些强烈的担忧，停止感到不堪重负。",
+    "growth_experiences": [
+      "母亲作为教师工作超过20年且热爱其工作；几个月前母亲失业后，李薇开始持续担忧母亲未来的职业与经济稳定，随着时间推移，看到母亲求职受挫（如投递与被拒）进一步强化其负性预期，导致睡眠紊乱、食欲变化、工作表现下降及与朋友关系紧张。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "关于母亲就业的绝对化消极信念：母亲永远找不到像之前一样好的工作"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前母亲失业",
+          "conditional_assumptions": "如果母亲无法找到与之前同等或更好的工作，她的生活将长期不稳定并且不幸福",
+          "compensatory_strategies": "持续安慰与提供支持、过度关注与监控母亲的求职进展以获得控制感",
+          "automatic_thoughts": "她永远都回不到从前的稳定与满意",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "母亲提到投递简历或收到拒信的时刻",
+          "conditional_assumptions": "一旦出现拒信，就意味着未来也会持续被拒、职业前景彻底糟糕",
+          "compensatory_strategies": "反复思考最坏结果，避免向母亲与朋友充分表达自己的担忧以免加重他们的压力",
+          "automatic_thoughts": "这次又被拒绝，以后也会一直被拒绝",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到母亲求职进展缓慢或遭遇困难",
+          "conditional_assumptions": "现在没有明显进展就说明未来也不会有好结果",
+          "compensatory_strategies": "将注意力集中在负面信息上，忽略可能的积极迹象或替代性机会",
+          "automatic_thoughts": "她的未来只会越来越糟，没有积极可能",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与朋友互动时因母亲求职而分心",
+          "conditional_assumptions": "如果我不持续担心并设法控制局势，就是在不负责任、无法保护母亲",
+          "compensatory_strategies": "减少与朋友分享真实感受，把担忧压在心里以维持表面稳定",
+          "automatic_thoughts": "我必须时刻担心并不能松懈",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保护并确保母亲的职业与生活稳定、被需要且能发挥作用",
+        "fear": "害怕失去对母亲未来的掌控、害怕母亲受苦而自己无力改变现状",
+        "defense_goal": [
+          "通过保持高度警觉与担忧来获得掌控感",
+          "避免表达自身情绪以防加重对母亲与朋友的压力"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负担沉重、必须承担责任的照顾者",
+          "object_representation": "脆弱且需要帮助与保护的母亲",
+          "linking_affect": "焦虑、责任感、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当母亲收到拒信或提到求职进展不顺时",
+          "interpretation": "将个别拒信视为长期失败的证据，认为未来注定糟糕（仓促下结论，灾难化）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
+          "response_instruction": "语气温和稳定，先共情并验证其焦虑，再邀请区分可能性与证据，聚焦具体当下信息与可操作的支持方式。"
+        },
+        {
+          "trigger_condition": "当被建议或想到要向母亲或朋友坦诚表达自己的压力与感受时",
+          "interpretation": "认为表达会给他人增加负担、使关系更糟，因此最好不说",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用支持性与非评判语气，肯定其体谅他人的动机，提议小步尝试安全的自我披露，设置清晰界限与目标，鼓励区分事实与假设。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心给母亲与朋友增添压力而不愿充分表达自己的痛苦",
+            "感觉像背负无法放下的重担、独自承受"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "与朋友关系紧张",
+            "睡眠与食欲紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在反复拒信后难以看到积极可能性",
+            "倾向只想象最坏结局，难以赋予当前努力以意义"
+          ],
+          "outcomes": [
+            "无望感与灾难化思维",
+            "注意力与工作表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向母亲与朋友充分表达自己的压力与焦虑",
+            "将担忧与负担内化并独自承受"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我必须时刻担心并不能松懈”这类规则约束自己",
+            "将“必须保护母亲”的信条内化为对自我的苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试认知重构与行为实验",
+          "有少量社会支持（一些朋友可交流）",
+          "对母亲具有稳定的关心与支持动机",
+          "能够觉察到自己在灾难化与预测未来的思维模式"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知偏差显著",
+          "过度担忧导致睡眠与食欲紊乱、工作效率下降",
+          "倾向于只关注负面信息（心理过滤）",
+          "避免表达真实感受，承担过多责任",
+          "自我监控与自我苛责增加心理负荷"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对母亲求职的过度担忧与灾难化预期（持续性焦虑）",
+          "antecedent": [
+            "母亲提到投递或面试情况",
+            "母亲收到拒信",
+            "注意到母亲求职进展缓慢或受挫",
+            "回想最坏情境与未来不确定性"
+          ],
+          "core_reason": "倾向想象最坏结局并将个别拒信视为长期失败证据，对不确定性难以容忍而以担忧获得控制感",
+          "function": "逃避不确定与失控感，通过持续担忧来获得主观的控制与负责感",
+          "consequence": "睡眠紊乱、食欲变化、工作表现下降、与朋友关系紧张、焦虑持续加重"
+        },
+        {
+          "behavior": "回避向母亲和朋友充分表达自身压力与感受",
+          "antecedent": [
+            "想到要与母亲或朋友交流自身感受时",
+            "被建议进行更多情感分享时"
+          ],
+          "core_reason": "担心表达会加重他们的压力或使关系更糟，因此选择压抑与隐藏",
+          "function": "避免引发他人担忧或冲突，维持表面稳定与自我保护",
+          "consequence": "孤独感与负担加重、焦虑维持、社会支持利用不足"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 273
+}

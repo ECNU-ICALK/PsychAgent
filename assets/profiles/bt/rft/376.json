@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "韩凯琳",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位朋友可倾诉，但因对娃娃收藏的不安全感，与朋友互动受到影响，谈及兴趣时常自我怀疑。",
+      "medical_history": "无重大躯体疾病；既往无类似问题；未接受过心理治疗。",
+      "language_features": "配合度好，表达清晰，语速平稳，略显紧张。"
+    },
+    "main_problem": "我觉得我的娃娃收藏并未得到真正的欣赏，因为人们不喜欢娃娃，这使我对收藏的价值感到不安和怀疑。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些不安全感开始影响我的自尊和对爱好的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的爱好没有价值",
+        "娃娃收藏不被社会接受与欣赏"
+      ],
+      "special_situations": [
+        {
+          "event": "当她向朋友展示或谈论娃娃收藏时，朋友显得不感兴趣",
+          "conditional_assumptions": "如果他人（尤其是朋友）不感兴趣，就证明我的爱好一文不值、太幼稚",
+          "compensatory_strategies": "减少谈论或展示收藏，回避与他人谈及相关话题以避免被评价",
+          "automatic_thoughts": "他们不喜欢娃娃，所以我的收藏没价值；我是不是很幼稚",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当朋友口头表示“挺好/不错”等礼貌性赞美时",
+          "conditional_assumptions": "如果赞美不够热情或与我预期不一致，就一定是不真诚的",
+          "compensatory_strategies": "反复向他人寻求确认与认可",
+          "automatic_thoughts": "他们只是敷衍我，说好听话而已",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当与他人讨论各自的兴趣爱好时",
+          "conditional_assumptions": "如果同龄人大多不喜欢娃娃，就说明社会不认可娃娃收藏，我的爱好没有意义",
+          "compensatory_strategies": "质疑自己兴趣的重要性，减少分享与投入",
+          "automatic_thoughts": "大家都不喜欢娃娃，我的爱好不重要",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当她意识到身边几乎没有同龄人喜欢或理解娃娃收藏时",
+          "conditional_assumptions": "如果身边找不到同好，将来也难被理解，我会一直是局外人",
+          "compensatory_strategies": "预先降低期待，回避深入交流以免再次被否定",
+          "automatic_thoughts": "没有人会理解我，我可能一直都是局外人",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地接纳与认可（希望自己的兴趣被理解和欣赏）",
+        "fear": "害怕被拒绝、被当作幼稚或怪异、成为局外人",
+        "defense_goal": [
+          "通过避免谈论或展示收藏来减少被否定的风险",
+          "通过寻求外部认可以缓解不安",
+          "以“社会不认可”为理由解释他人冷淡，从而自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被理解的局外人、需要认可的爱好者",
+          "object_representation": "冷淡、敷衍的评价者/旁观者",
+          "linking_affect": "悲伤、不安、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及他人对她收藏的反馈，或他人给出礼貌性赞美时",
+          "interpretation": "将他人的中性或正面反馈理解为敷衍或不真诚（将内心的不认可投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹疑，反复强调“他们只是说好听的”，对正面反馈提出质疑。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人追问其不安全感的原因与意义时",
+          "interpretation": "用“社会都不认可娃娃收藏”来概括原因，回避触及自身被接纳的渴望与脆弱",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以客观、泛化的口吻谈“社会观念”，减少主观情绪与需要的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉像局外人，认为周围同龄人很少喜欢娃娃收藏",
+            "与朋友分享收藏时感到被冷淡对待",
+            "难以与朋友谈论自己的不安全感与兴趣"
+          ],
+          "outcomes": [
+            "自尊受影响与自我怀疑",
+            "回避谈论兴趣、减少社交分享",
+            "对爱好的热情与享受下降",
+            "感到悲伤与不安"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对兴趣有热情并长期投入（拥有大型收藏）",
+          "求助动机明确，愿意参与咨询并尝试新方法",
+          "愿意探索线上同好社区以寻求共鸣与支持",
+          "仍有几位可以交谈的朋友，具备一定支持资源"
+        ],
+        "negative_force": [
+          "过度依赖外部认可以评估自我价值",
+          "常见认知歪曲（灾难化、过度概括、否定积极、二分法）",
+          "在人际互动中倾向读心与自我怀疑，增加社交回避",
+          "自尊下降导致对兴趣的分享与投入减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避谈论或展示娃娃收藏",
+          "antecedent": [
+            "当与朋友谈论兴趣或准备展示收藏时",
+            "意识到朋友以往表现出不感兴趣"
+          ],
+          "core_reason": "担心被否定与评价，认为娃娃收藏不被社会接受，从而产生羞耻与不安",
+          "function": "逃避被拒绝与负面评价，降低焦虑",
+          "consequence": "与朋友互动减少，兴趣分享受限，对爱好的享受下降"
+        },
+        {
+          "behavior": "反复向他人寻求对收藏的认可与保证",
+          "antecedent": [
+            "展示收藏后得到冷淡反应",
+            "收到礼貌性赞美但主观感到不真诚"
+          ],
+          "core_reason": "自我价值感依赖外部评价，试图以外部认可缓解不安全感",
+          "function": "获得短期安慰与确定感",
+          "consequence": "短期缓解但长期不改善不安全感，增加对他人反馈的敏感度与依赖"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 376
+}

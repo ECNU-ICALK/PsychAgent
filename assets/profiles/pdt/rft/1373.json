@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "62",
+      "name": "葛萍",
+      "gender": "女",
+      "occupation": "护士",
+      "educational_background": "护理学学位",
+      "marital_status": "已婚",
+      "family_status": "已婚，有5个孩子",
+      "social_status": "拥有支持的丈夫和朋友，但尚未与他们分享具体的挫败与失败感受",
+      "medical_history": "无显著身体疾病；无既往心理咨询或治疗经历",
+      "language_features": "未提及"
+    },
+    "main_problem": "在学习一首新的小提琴曲时感到不堪重负与挫败，反复练习仍难以掌握，产生“干脆放弃”的念头。",
+    "topic": "情绪管理",
+    "core_demands": "这些挫败感削弱了整体动力与自信，影响音乐技能与日常生活，因此希望通过咨询减轻失败与放弃的想法，恢复动力与自信。",
+    "growth_experiences": [
+      "在护理学校期间经历了非常艰难的阶段，但通过坚持不懈并获得同学与家人的支持最终顺利毕业，收获了显著的成就感与自我效能体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法成功",
+        "需要他人帮助就等于我不够能力"
+      ],
+      "special_situations": [
+        {
+          "event": "每次练习这首新的小提琴曲目时反复卡住并难以取得进展",
+          "conditional_assumptions": "如果几周内还不能学会这首曲子，就说明我永远也学不会",
+          "compensatory_strategies": "加倍练习并查找在线教程，但在持续受挫后开始考虑放弃",
+          "automatic_thoughts": "这根本不会发生，我应该就此放弃",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到向小提琴老师或丈夫寻求额外帮助时",
+          "conditional_assumptions": "如果需要他人帮助，就说明我不够能力，甚至会给对方添麻烦",
+          "compensatory_strategies": "坚持独自解决问题、回避求助以维护“独立与胜任”的形象",
+          "automatic_thoughts": "我应该自己搞定，不能麻烦别人",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "将自己的练习表现与“要在小提琴上出色”的高期待进行比较",
+          "conditional_assumptions": "只有达到卓越水平才算成功，否则就是失败",
+          "compensatory_strategies": "设定过高目标、否定现有努力与任何小的进步",
+          "automatic_thoughts": "要么完美要么就是失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "尝试不同练习技巧与在线教程后仍未见明显改善",
+          "conditional_assumptions": "这次不成功意味着以后也不会成功",
+          "compensatory_strategies": "以数次挫败推断整体能力，逐渐产生放弃的倾向",
+          "automatic_thoughts": "我永远也学不会这首曲子",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学习与表现中被看见为胜任与优秀，同时在需要时获得支持与理解",
+        "fear": "害怕显得不够能力或成为他人的负担，从而被评价为在抱怨或无能",
+        "defense_goal": [
+          "通过坚持独立解决与回避求助来维持自尊并避免让他人失望或被自己拖累"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要独立解决问题、不能麻烦他人的人",
+          "object_representation": "他人是可能被自己拖累或会对不足进行评判的对象",
+          "linking_affect": "羞愧、内疚、挫败"
+        },
+        {
+          "self_representation": "在困难中犹疑、需要帮助却难以开口的学习者",
+          "object_representation": "老师/家人是潜在的支持者，同时也是可能揭示自己“不够能力”的他者",
+          "linking_affect": "矛盾、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议向丈夫或老师寻求帮助、或开口表达脆弱需求时",
+          "interpretation": "将求助解读为给别人添麻烦，也意味着自己不够能力（移情：把内在的“不能麻烦他人”的规则加诸关系）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但坚定的语气强调“我不想麻烦别人”，优先提出不涉及求助的替代方案，减少情感自揭示。"
+        },
+        {
+          "trigger_condition": "当咨询聚焦于挫败感受并邀请深入体验情绪时",
+          "interpretation": "将深入表达视为抱怨或失控，转而以计划与技巧讨论来保持掌控感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用分析性、任务导向的语言，讨论练习策略与步骤，弱化主观情绪词汇，维持冷静、克制的语调。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在练习小提琴曲目反复受挫时产生“再练也没有意义”的念头",
+            "将当前困难推断为不可改变，从而怀疑继续努力的价值"
+          ],
+          "outcomes": [
+            "挫败与绝望感增强",
+            "动力与自信下降",
+            "睡眠与整体情绪受影响",
+            "与配偶及子女关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“应该自己搞定”的表述",
+            "将“独立解决问题、不麻烦别人”当作不可动摇的自我标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明知老师与家人可提供支持，仍克制求助冲动，转而独自承受挫败",
+            "以“我不该麻烦别人”为由停下表达需要的动作"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在练习困难的小提琴曲目时，来访者通常会感到强烈挫败并产生放弃念头。",
+          "unique_outcome": "在护理学校的艰难阶段，来访者没有像现在这样选择放弃，而是坚持不懈并寻求同学与家人的支持，最终顺利毕业并获得成就感。",
+          "reason": "线索：不同支持与做法——当时获得同伴与家人支持，并采取坚持与合作的策略，因此在高难度学习任务中出现了与“放弃”不同的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在艰难的学习任务中通过坚持与求助获得成功（护理学校毕业的经历）",
+          "具备主动尝试不同练习方法与在线资源的倾向",
+          "拥有支持性的配偶与朋友网络"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括与预测失败等认知模式强烈",
+          "将求助视为不胜任或会给他人添麻烦，从而回避支持",
+          "动力与自信下降，情绪低落并影响睡眠与工作、人际关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在练习困难的小提琴曲目时产生灾难化与放弃倾向，并回避向他人求助",
+          "antecedent": [
+            "开始练习这首新曲目",
+            "练习过程中反复卡住、进展缓慢",
+            "想到寻求老师或家人帮助的情境"
+          ],
+          "core_reason": "对表现有高标准期待，诱发非黑即白与预测失败的认知；将求助与“不够能力、给他人添麻烦”相连，导致自我否定与回避支持。",
+          "function": "短期逃避失败与挫败的痛感，维持“独立与胜任”的自我形象。",
+          "consequence": "情绪低落、睡眠受影响、工作表现下降、与家人关系紧张，练习停滞并强化放弃念头。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1373
+}

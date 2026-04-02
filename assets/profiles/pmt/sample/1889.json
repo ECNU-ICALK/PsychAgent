@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈明宇",
+      "gender": "男",
+      "occupation": "业余厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有少数朋友可交流，但因担心被评判而减少参与社交活动；未将被误解的感受对朋友展开讨论。",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题史；未接受过心理治疗。",
+      "language_features": "表达清晰，逻辑性较好，配合度良好；在谈及被评判话题时略显紧张与担忧，语气谨慎。"
+    },
+    "main_problem": "因喜欢玩电子游戏而感到被评判与被误解，尤其在社交场合与讨论兴趣时压力增大。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为我意识到这些被误解的感觉正在影响我的自信，并在社交场合造成困扰。",
+    "growth_experiences": [
+      "几个月前，一位同事发表“电子游戏是浪费时间”的评论，此后又有他人表达类似看法，来访者因此在社交场合更为自觉与紧张，逐渐选择隐藏或淡化自己对电子游戏的兴趣，避免谈论以免被评判。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的评价",
+        "喜欢电子游戏说明我不够成熟/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "同事评论“电子游戏是浪费时间”，随后他人有类似言论",
+          "conditional_assumptions": "如果别人贬低我的爱好，就说明我不成熟、不值得被尊重",
+          "compensatory_strategies": "在工作和社交场合回避提及游戏、淡化兴趣，减少涉谈机会",
+          "automatic_thoughts": "大家都会觉得我幼稚、在浪费时间",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在社交聚会或谈及兴趣爱好时",
+          "conditional_assumptions": "为了被接纳，我的爱好必须被“主流认可”，否则就会被小看",
+          "compensatory_strategies": "转换话题、隐藏兴趣、避免深入讨论",
+          "automatic_thoughts": "一说到游戏他们就会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "注意到朋友对其游戏爱好持中立/积极态度时",
+          "conditional_assumptions": "负面反馈更“真实”，正面或中立反应不算数",
+          "compensatory_strategies": "忽视或贬低正面证据，反复关注负面评价",
+          "automatic_thoughts": "这些友善只是客气，真正的大多数仍然看不起",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在即将参加社交活动前的预期",
+          "conditional_assumptions": "只要谈到游戏，我一定会丢脸、被嘲笑",
+          "compensatory_strategies": "提前演练回避策略，减少自我暴露",
+          "automatic_thoughts": "这次肯定又会被贴上幼稚的标签",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与尊重，能够真实表达自己的兴趣而不被羞辱",
+        "fear": "害怕被贬低、被排斥，显得不成熟而失去价值感",
+        "defense_goal": [
+          "通过隐藏兴趣与回避相关话题来降低被羞辱与被拒绝的风险",
+          "保持与可能评判者的安全距离以维护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要隐藏真实兴趣、容易被看低的‘不够成熟者’",
+          "object_representation": "苛刻、轻蔑、随时准备评判的他人（同事/群体）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "被理解和接纳的自己",
+          "object_representation": "友善、支持性的朋友",
+          "linking_affect": "放松、被认可"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问“有哪些证据支持‘大多数人都看不起玩游戏的人’”时",
+          "interpretation": "将咨询师的探询体验为对自己兴趣的潜在否定（如同同事的评判）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的情感或评价归因于他人，认为他人持有这些负面看法",
+          "response_instruction": "语气谨慎，使用模糊化措辞（比如“大家都这样觉得”），避免具体举例，轻微防御性地强调“不是只有我这么想”。"
+        },
+        {
+          "trigger_condition": "当讨论社交场合的尴尬与羞耻体验时",
+          "interpretation": "以概括性、理性化的方式谈论群体看法，从而与不适情绪保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "通过过度抽象和理性分析来避免情感卷入与焦虑",
+          "response_instruction": "使用客观、概括性表述（如“从社会主流看……”），减少第一人称感受词，语气平稳，回避具象情绪描绘。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "为迎合他人评价而隐藏兴趣，感到自我表达受限制",
+            "内化“应该有更正经爱好”的规则，违背自身真实偏好"
+          ],
+          "outcomes": [
+            "自我不一致、羞耻与焦虑增加",
+            "在社交中退缩、回避暴露真实自我"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被评判而减少参与社交活动",
+            "感到被误解，不愿向朋友谈及真实感受"
+          ],
+          "outcomes": [
+            "社会支持使用度降低，连接感减弱",
+            "心情与动力下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将电子游戏视为“不值得/浪费时间”的声音内化",
+            "质疑自己投入的价值与意义"
+          ],
+          "outcomes": [
+            "自我价值感受损",
+            "动机与整体情绪受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“电子游戏是浪费时间”的外界评价视为普遍真理",
+            "自我要求‘应该有更正经的爱好’，据此限制自我表达"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "在社交中主动转换话题，避免谈及游戏",
+            "在感到被评判时回避深入交流"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体过度自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过分在意他人如何看待自己的兴趣",
+            "担心显得‘幼稚/不值得’，说话做事格外谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在社交场合讨论兴趣时，来访者通常会预期被评判并选择回避或淡化自己的游戏兴趣。",
+          "unique_outcome": "在与几位熟悉的朋友聚会时（朋友平时也会一起玩），来访者自然地提到并分享了自己的游戏爱好，对方未作负面评价，甚至一起参与；当时他感到更放松与被接纳。",
+          "reason": "线索：关系不同（朋友支持、氛围安全）；情境不同（熟悉的社交圈）；理解不同（注意到并非所有人持负面看法）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在支持性朋友网络，能提供中立/积极反馈",
+          "能反思并识别自动化思维模式，愿意进行现实检验",
+          "工作功能稳定，基本生活结构完整",
+          "愿意迈出求助步伐，动机与合作度较好"
+        ],
+        "negative_force": [
+          "过度概括与读心术导致对他人评价的放大化理解",
+          "以外界评价为中心的自我价值感（寻求外部验证）",
+          "社交与话题回避维持了羞耻—退缩的恶性循环",
+          "心理过滤/否定积极证据，加剧负性信念的自证"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合回避或淡化谈及电子游戏的兴趣",
+          "antecedent": [
+            "社交聚会或谈及兴趣爱好的话题出现",
+            "听到或回想起他人关于游戏的负面评论"
+          ],
+          "core_reason": "害怕被贬低、被贴上‘幼稚/浪费时间’的标签，试图避免羞耻与被拒绝。",
+          "function": "逃避不受欢迎的情绪和可能的负面评价，短期缓解焦虑与尴尬。",
+          "consequence": "社交参与减少，自信受损，整体情绪与动力下降。"
+        },
+        {
+          "behavior": "在社交前的预期性焦虑（反复假设他人会负面评价）",
+          "antecedent": [
+            "将要参加聚会或预计会谈及兴趣的场合",
+            "回想同事的负面评价"
+          ],
+          "core_reason": "对他人评价的灾难化预测与读心术思维维持了威胁感。",
+          "function": "通过提前预设威胁促使自我保护（如回避/隐藏），以降低当场的羞耻风险。",
+          "consequence": "紧张增加、心境低落，倾向更多回避，限制了积极体验的机会。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1889
+}

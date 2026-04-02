@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "戴博文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "未曾接受心理治疗，无显著躯体疾病史",
+      "language_features": "表达清晰，能描述自身感受与想法；态度偏消极，反复自我怀疑；配合度尚可；未提及语速与逻辑异常"
+    },
+    "main_problem": "参加了才艺秀歌唱试镜，但坚信自己不可能获胜，这一想法引发了自我怀疑与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "因自我怀疑与焦虑加剧并影响日常生活与自信而寻求帮助，希望减轻焦虑与自我怀疑的影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不够好",
+        "我不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "参加才艺秀的歌唱试镜（陌生且高压力的体验）",
+          "conditional_assumptions": "如果不能赢，就说明我不够好，这次尝试没有意义",
+          "compensatory_strategies": "向亲友寻求安慰与肯定，以对抗不确定感",
+          "automatic_thoughts": "没有任何可能获胜",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "日常想到才艺秀或自己的唱歌能力",
+          "conditional_assumptions": "如果无法确保结果是赢，那就是失败",
+          "compensatory_strategies": "反复担忧与预演失败情景，回避与朋友深入讨论自我怀疑与焦虑",
+          "automatic_thoughts": "我不该去试镜，我会失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与其他选手的才华进行比较",
+          "conditional_assumptions": "如果我不如他们，就证明我不够好，不该参赛",
+          "compensatory_strategies": "过度关注他人表现、降低自信、寻求外部认可来缓解不安",
+          "automatic_thoughts": "我根本竞争不过他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在K歌夜收到陌生人的唱歌称赞",
+          "conditional_assumptions": "只有正式比赛的评价才算数，非正式场合的夸奖不可靠",
+          "compensatory_strategies": "否定正面证据，继续坚持负面信念以维持自我一致的认知",
+          "automatic_thoughts": "这些夸奖不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与证明自己有能力（获得成功）",
+        "fear": "害怕失败与被拒绝，担心不被认可",
+        "defense_goal": [
+          "通过否定正面证据与寻求外部安慰来降低焦虑、避免面对可能失败的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能失败的竞争者",
+          "object_representation": "苛刻的评判者或更有才华的他人",
+          "linking_affect": "焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师指出正面反馈（如陌生人的称赞）或建议以更平衡的视角看待试镜时",
+          "interpretation": "认为这些证据不具代表性或带有偏见，只有正式比赛评委的评价才算数",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平静但坚持，强调“只是娱乐”“他们有偏见”等理由，回避正面评价带来的情感影响。"
+        },
+        {
+          "trigger_condition": "当谈到与他人比较或可能失败的结果时",
+          "interpretation": "将比赛情境视为非成即败，若不能赢则等同失败",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用非黑即白的措辞，如“要么赢、要么没意义”，语气坚决，拒绝探讨中间可能性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将比赛获胜视为自我价值的重要标准；若不能赢则倾向否定自我（“我永远不够好”）"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "焦虑增加",
+            "睡眠受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有几位亲密朋友，但不愿讨论自我怀疑与焦虑，情感难以被他人看见与共鸣"
+          ],
+          "outcomes": [
+            "情绪困扰内化与加剧",
+            "求助意愿受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我否定（“我永远不够好”）",
+            "不愿与朋友讨论自我怀疑与焦虑",
+            "对正面反馈持怀疑态度"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将比赛获胜视为评判自我价值的核心标准",
+            "倾向以他人的评判作为能力的唯一衡量"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到才艺秀或评估唱歌能力的情境下，来访者通常会产生强烈的自我怀疑与焦虑，并否定自身能力。",
+          "unique_outcome": "在几次K歌夜，陌生人称赞了他的歌声，获得了积极的外部反馈，与其“无人认可/不可能获胜”的主导叙事形成对照。",
+          "reason": "情境不同：非正式、低压力的环境更容易发挥与被他人看见；支持线索：现场他人的即时积极反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一定的唱歌能力（曾获陌生人称赞）",
+          "勇于尝试并走出舒适区（参加试镜）",
+          "愿意求助并尝试现实检验等认知干预"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "过度比较他人并寻求外部验证",
+          "倾向否定正面证据",
+          "焦虑与睡眠受影响，加剧负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对才艺秀结果的灾难化预期与自我否定，伴随焦虑与睡眠受影响",
+          "antecedent": [
+            "想到才艺秀或自己的唱歌能力",
+            "处于评估与比较他人的情境",
+            "经历试镜等高压力场景"
+          ],
+          "core_reason": "首次试镜的陌生高压情境激发失败恐惧，且自我价值过度依赖外部评价（若不赢即不够好）。",
+          "function": "逃避潜在失败与羞耻感，通过提前否定来获得短期的控制感与心理缓解。",
+          "consequence": "自信受损、焦虑加剧、睡眠被扰、与朋友讨论困扰的意愿下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1090
+}

@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈洁妮",
+      "gender": "女",
+      "occupation": "网站开发工程师",
+      "educational_background": "计算机科学学士",
+      "marital_status": "单身",
+      "family_status": "独自居住，附近无直系亲属",
+      "social_status": "有几位可以提供一般支持的朋友，但不愿与朋友讨论财务不安；因频繁寻求理财建议与朋友关系有所紧张",
+      "medical_history": "无重大躯体疾病；既往无心理治疗或咨询；无类似财务问题史",
+      "language_features": "表达清晰、有条理，配合度良好（态度中性）；在谈及失败与评价时焦虑显著，倾向忽视正向信息、放大负面评价与自我否定"
+    },
+    "main_problem": "在一次错误的股票选择后，我一直觉得自己是一个很糟糕的理财者，这影响了我的自尊并引发焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "因为这些不自足感和焦虑影响了我的日常功能并造成困扰而寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我能力不足",
+        "我的价值取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在进行一次投入较大的股票投资后出现亏损",
+          "conditional_assumptions": "如果我在投资上犯错，就说明我整体上不擅长理财",
+          "compensatory_strategies": "大量查阅理财策略、在网上论坛寻求建议以弥补不足",
+          "automatic_thoughts": "我做了错误的选择，我是个糟糕的理财者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "为女友准备的三道菜晚餐中，甜点不受她喜欢",
+          "conditional_assumptions": "如果一道菜做不好，就证明我整体是个差劲的厨师",
+          "compensatory_strategies": "准备更复杂的菜肴来证明自己，增加练习",
+          "automatic_thoughts": "我连甜点都做不好，我就是个失败的厨师",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在收到他人的正面反馈或称赞时",
+          "conditional_assumptions": "他人的夸奖往往不真诚，不能说明我真的做得好",
+          "compensatory_strategies": "忽视正面反馈，继续挑剔自己以避免自满",
+          "automatic_thoughts": "他们只是客气而已",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在准备做饭或想到要做饭时，回想那次甜点事件",
+          "conditional_assumptions": "如果这次再出错，就能证明我确实是个失败者",
+          "compensatory_strategies": "提高标准、过度准备、选择难度更高的菜式试图控制结果",
+          "automatic_thoughts": "这次很可能又会出错，到时就彻底证明我不行了",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力（在亲密关系与工作/理财领域）",
+        "fear": "害怕被否定、被看低或失去自我价值感",
+        "defense_goal": [
+          "通过自我批评与提高标准来避免再次失败",
+          "回避直接表达脆弱与需要以免被拒绝",
+          "借由过度准备与寻求外部建议来控制不确定性并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自己",
+          "object_representation": "挑剔、可能贬低自己的重要他人（如伴侣、他人）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要不断自我证明的求认可者",
+          "object_representation": "不真诚或难以取悦的评价者/观众",
+          "linking_affect": "紧张、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人肯定其过去的成功、或建议与伴侣沟通感受时",
+          "interpretation": "认为对方的肯定不真诚，沟通会暴露自己的不足并被贬低（移情：将自我怀疑投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "淡化肯定、强调一次失败，语气保留，使用“他们只是客气”的表述，避免展开积极细节。"
+        },
+        {
+          "trigger_condition": "当谈及在关系中表达脆弱（如向伴侣说明担忧与需要）",
+          "interpretation": "把表达脆弱等同于被看低或被拒绝，认为自我价值会受损",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "回避表达感受，转而强调行动（如做更复杂的菜来证明自己），语气克制，减少“我感受”的用语。"
+        },
+        {
+          "trigger_condition": "当被邀请客观回顾证据、平衡看法或讨论财务失误时",
+          "interpretation": "将注意力转向技术细节与策略以回避羞耻与无力感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析性、概念化语言回答，列举策略与数据，减少对情绪的直接描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在投资决策中感受到高度责任与不确定性的压力",
+            "做财务决定时反复求证并担忧再度犯错"
+          ],
+          "outcomes": [
+            "决策焦虑与拖延/回避",
+            "睡眠与注意力受损，工作表现下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独自居住，附近无直系亲属",
+            "不愿向朋友谈及财务不安",
+            "与女友因一次晚餐事件而关系紧张且未表达真实感受"
+          ],
+          "outcomes": [
+            "关系疏离与紧张",
+            "内在孤立感增强，焦虑加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "把正面反馈解释为不真诚（“他们只是客气”）",
+            "担心伴侣暗地里看低自己"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“必须证明自己、不能出错”作为绝对标准",
+            "通过制作更复杂的菜式满足内在化的高标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度自责，将一次失误等同于对整体能力的否定",
+            "在表达需求与感受时过分谨慎与压抑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过往在烹饪方面有大量积极体验与反馈，能够从中获得乐趣",
+          "具备主动求助与信息搜寻的倾向（研究理财策略、在论坛寻求建议）",
+          "拥有一定的社会支持（有几位可提供一般支持的朋友）",
+          "教育背景扎实（计算机科学学士），具备学习与分析能力"
+        ],
+        "negative_force": [
+          "过度概括与标签化（一次失误被视为全盘失败）",
+          "心理过滤与否定积极反馈",
+          "读心式推测他人评价，导致社交回避与关系紧张",
+          "对不确定性容忍度低、财务决策焦虑显著",
+          "睡眠与注意力受损，工作受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对财务决策或想到个人财务时出现强烈焦虑与自我否定",
+          "antecedent": [
+            "想到财务状况或投资选择",
+            "面对需要做出金钱/投资决策的场景"
+          ],
+          "core_reason": "一次股票失误且投入金额较大，引发对未来的灾难化与过度概括的认知，进而形成自我贬损",
+          "function": "逃避不确定性与潜在错误，借由求证与自我否定获得暂时的控制感与安全感",
+          "consequence": "决策困难、焦虑持续、睡眠与注意力受损、工作表现下降、与朋友关系紧张"
+        },
+        {
+          "behavior": "在烹饪相关情境中高度焦虑与过度准备（选择更复杂的菜式以证明自己），并回避与伴侣沟通感受",
+          "antecedent": [
+            "想到要做饭或准备与伴侣共餐",
+            "回想甜点未获喜爱的那次经历"
+          ],
+          "core_reason": "一次负面反馈后形成“非黑即白/过度概括”的信念（一次错误=整体失败），并担心被贬低",
+          "function": "通过提高标准与加倍努力来降低被否定的可能、证明自身价值，从而暂时缓解焦虑",
+          "consequence": "烹饪乐趣下降、焦虑与压力上升、与伴侣关系紧张、身心疲惫"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 153
+}

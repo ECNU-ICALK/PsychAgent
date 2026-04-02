@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "詹姆森",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "母亲是教师；其他未提及",
+      "social_status": "与朋友关系良好，有几位亲密朋友可提供支持，但在浪漫关系上困难",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史；未有类似问题史",
+      "language_features": "配合度高、态度积极；表达清晰、有逻辑；能描述孤独与自我怀疑；但难以与朋友讨论约会困境"
+    },
+    "main_problem": "过去两年一直无法找到约会对象，并认为原因在于自己只喜欢户外野餐、亲近自然；这一信念导致持续的孤独与自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "持续的孤独与自我怀疑显著影响心理健康与整体幸福感，因此寻求咨询。",
+    "growth_experiences": [
+      "两年前开始主动寻找浪漫伴侣，持续经历多次拒绝与缺乏兴趣；最初压力中等，随后在看到他人恋爱或听到约会成功故事时频繁感到孤独与自我怀疑。",
+      "新冠疫情持续期间限制社交互动与约会机会，进一步减少线下接触与结识对象的可能性，加剧了问题的持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被喜欢/被爱",
+        "我是有问题的"
+      ],
+      "special_situations": [
+        {
+          "event": "看到他人在恋爱或听到约会成功故事",
+          "conditional_assumptions": "如果我没有伴侣，就说明我不值得被爱或有问题",
+          "compensatory_strategies": "加大寻求约会的努力（线上约会、参加社交活动、请朋友介绍）",
+          "automatic_thoughts": "没有人会想和我约会",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在约会尝试中遭遇拒绝或对方缺乏兴趣",
+          "conditional_assumptions": "一旦被拒绝就意味着我本质上不受欢迎",
+          "compensatory_strategies": "自我怀疑增强，减少主动表达与与朋友讨论",
+          "automatic_thoughts": "我有问题，所以被拒绝是必然的",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "疫情导致社交与约会机会减少",
+          "conditional_assumptions": "社交机会减少等于注定找不到伴侣",
+          "compensatory_strategies": "主要依赖线上方式尝试，线下参与有限",
+          "automatic_thoughts": "在这种环境下我肯定找不到对象",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与他人互动或想到他人对自己兴趣的看法",
+          "conditional_assumptions": "他人会因为我的兴趣而评判我、看不起我",
+          "compensatory_strategies": "避免向朋友表达浪漫意图，减少探索与拥有相同兴趣的人建立更深连接",
+          "automatic_thoughts": "他们觉得我的兴趣很奇怪，不会愿意与我约会",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望建立亲密关系、被接纳与被喜欢",
+        "fear": "害怕被拒绝与被评判为不正常/不值得",
+        "defense_goal": [
+          "通过谨慎自我保护、减少暴露脆弱来降低被拒绝的风险",
+          "将失败归因于个人缺陷以维持可控解释（尽管代价是自我否定）"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被喜欢/有问题的被拒绝者",
+          "object_representation": "挑剔的评判者/拒绝者",
+          "linking_affect": "孤独、羞耻、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向朋友或他人谈论约会困境时",
+          "interpretation": "他会认为对方会像评判者一样看不起自己（移情：将他人视为会否定自己）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，回避深入披露，使用含糊与概括性表述，必要时转移话题。"
+        },
+        {
+          "trigger_condition": "在约会尝试后遭遇拒绝或冷淡回应",
+          "interpretation": "对方的拒绝等同于自己有缺陷、没人会喜欢自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性的语言描述经历，强调自身不足，语气低落。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "两年来难以找到约会对象",
+            "看到他人恋爱或听到约会成功故事时孤独感明显加重",
+            "不愿与朋友讨论自己的约会与孤独困境"
+          ],
+          "outcomes": [
+            "动力下降",
+            "兴趣减退",
+            "幸福感降低",
+            "自我怀疑加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外发出的能量，放弃向外寻求他人帮助，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "遇到约会困境时不向朋友主动求助",
+            "选择“忍着”，减少表达真实感受与需求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "假设他人会因为自己的兴趣而评判、看不起自己",
+            "在互动中先入为主地认为他人不愿与自己约会"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友可提供支持",
+          "态度积极、愿意尝试并开放接受建议",
+          "已尝试线上约会、参加社交活动、请朋友介绍，具备主动性",
+          "身边存在也喜欢户外活动的朋友（潜在资源）"
+        ],
+        "negative_force": [
+          "过度概括、读心术、个人化等认知偏差维持自我怀疑",
+          "疫情限制社交与约会机会",
+          "难以与朋友讨论困境、减少寻求支持",
+          "与他人比较后产生绝望感，导致动力不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在约会相关情境中产生强烈自我怀疑并回避表达浪漫兴趣",
+          "antecedent": [
+            "看到他人在恋爱或听到约会成功故事",
+            "在约会尝试中遭遇拒绝或对方冷淡",
+            "想到他人可能会因自己的兴趣评判自己",
+            "疫情导致线下社交机会减少"
+          ],
+          "core_reason": "源于核心信念“我不值得被爱/我是有问题的”，并受到过度概括与读心术等认知偏差的维持与强化",
+          "function": "逃避被拒绝与羞耻的情绪痛苦，维持表面安全感",
+          "consequence": "难以建立浪漫关系，孤独与自我怀疑加重，日常动力与兴趣下降、幸福感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1478
+}

@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "林佩琪",
+      "gender": "女",
+      "occupation": "高中生",
+      "educational_background": "高中在读",
+      "marital_status": "单身",
+      "family_status": "与严格的父亲和兄弟姐妹同住",
+      "social_status": "有一位亲密朋友但尚未分享其财务担忧",
+      "medical_history": "无重大躯体疾病；无既往类似心理问题与心理咨询经历",
+      "language_features": "表达清晰、逻辑性较好，能配合探索；情绪略显紧张与担忧"
+    },
+    "main_problem": "我一直担心钱的问题，觉得自己永远赚不够。这种担心从我开始第一份工作时出现，我认为可能与家庭的经济困难有关；现在一想到金钱或开销就会加重，影响睡眠与学业。",
+    "topic": "职业发展",
+    "core_demands": "持续的金钱担忧和觉得永远赚不够已经影响到我的日常生活和心理健康，因此来寻求咨询。",
+    "growth_experiences": [
+      "原生家庭长期存在经济拮据，父亲对金钱态度严格；在这样的家庭氛围中成长，目睹“没有足够钱”的压力与后果，逐渐形成对金钱与安全的高警觉。",
+      "获得第一份工作后收入较低，由此开始持续担心未来的财务稳定，担忧自己无论怎么做都赚不够。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法保障自己的经济安全",
+        "我是注定在经济上失败的"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作时面对低薪与工作压力",
+          "conditional_assumptions": "如果我的第一份工作赚得不够，未来也不会有改善",
+          "compensatory_strategies": "加倍节省与预算，时刻计算开销以寻求安全感",
+          "automatic_thoughts": "我会一直没钱，会被经济困住",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "看到工资单/薪资到账",
+          "conditional_assumptions": "当前收入水平等于我未来的收入上限",
+          "compensatory_strategies": "用一次工资水平推演长期困境，反复核算支出",
+          "automatic_thoughts": "这证明我永远赚不够",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "需要花钱支付日常开销时",
+          "conditional_assumptions": "如果现在花钱就是不负责，将来会更穷",
+          "compensatory_strategies": "压抑消费、尽量避免花费",
+          "automatic_thoughts": "我不应该花任何钱，否则会更糟",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "想到家庭过去的经济拮据与父亲对金钱的严格态度",
+          "conditional_assumptions": "如果我的家庭曾经拮据，我也会重演同样的命运",
+          "compensatory_strategies": "把父亲的金钱规则内化为唯一标准，持续自我警惕与约束",
+          "automatic_thoughts": "我的未来也会像家里一样拮据",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望可预见的财务安全与被理解、被支持",
+        "fear": "害怕再次经历贫困与匮乏，被责备或被控制",
+        "defense_goal": [
+          "通过控制与克制来降低不确定性",
+          "避免向他人暴露脆弱以免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "谨小慎微、需要时刻警惕的年轻人",
+          "object_representation": "严格、容易评判且控制性的父亲/重要他人",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请表达与金钱相关的情绪或寻求他人支持时",
+          "interpretation": "如果表达担忧会被看作不自立或被责备（如同父亲的标准）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "用简短、事实性的描述带过情绪，避免深入谈感受，迅速转到计划与细节。"
+        },
+        {
+          "trigger_condition": "在讨论未来的不确定性与职业路径时",
+          "interpretation": "必须以理性分析来控制风险，否则会失控并受伤",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "大量使用数据、假设和逻辑推演的语气，弱化个人情绪词汇与主观体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对未来职业与财务的不确定性感到强烈焦虑",
+            "将“现在必须保证未来安全”作为自我要求，强调个人对结果的完全责任",
+            "试图通过严格预算和控制来对抗不确定"
+          ],
+          "outcomes": [
+            "持续性担忧与灾难化思维",
+            "睡眠受损、学业下降，主观幸福感降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有亲密朋友，但从未分享财务担忧",
+            "倾向独自承受对金钱的焦虑，减少外界支持"
+          ],
+          "outcomes": [
+            "情感支持匮乏，焦虑难以被共情与缓冲",
+            "问题在内心循环放大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "内化父亲对金钱的严格规则，把“必须省/不该花”当作唯一标准",
+            "将第一份工作的低薪等同于自我价值与未来发展的定论"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "面对焦虑不向朋友求助，转而自我苛责与自我控制（过度预算、压抑消费）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我审查花销是否“合适”，担心被评价而不敢表达需要"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有主动的预算与储蓄行为，具备基本自我管理能力",
+          "上级提到存在晋升机会，职业发展路径可见",
+          "愿意求助并开始咨询，态度积极，愿意进行自我监测",
+          "具备提升技能的意愿与行动计划（探索晋升、学习技能）",
+          "有一位可联系的亲密朋友（潜在社会支持资源）"
+        ],
+        "negative_force": [
+          "原生家庭长期经济拮据与父亲的严格金钱观被内化为高压力信念",
+          "灾难化、过度概括、非黑即白与预测未来等认知歪曲显著",
+          "过度担忧导致睡眠受损与学业下降，形成负性循环",
+          "回避寻求支持，将压力内化，独自承担",
+          "将当前低薪等同于一生发展上限，缺乏对成长路径的弹性视角"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕金钱的持续性焦虑与灾难化思维",
+          "antecedent": [
+            "在工作时",
+            "看到工资单/薪资到账",
+            "需要花钱支付日常开销",
+            "想到未来的职业与财务稳定性"
+          ],
+          "core_reason": "原生家庭经济困难与父亲的严格金钱观使其将当前低薪过度概括为长期困境，并对未来进行灾难化预判。",
+          "function": "通过过度担忧与控制来获得短期的安全感、逃避不确定性带来的焦虑",
+          "consequence": "睡眠受损、学业表现下降、整体幸福感下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1472
+}

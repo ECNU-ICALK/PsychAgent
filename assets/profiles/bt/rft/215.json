@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "克里斯汀·鲍曼",
+      "gender": "女",
+      "occupation": "钢琴家",
+      "educational_background": "音乐硕士",
+      "marital_status": "恋爱中",
+      "family_status": "父亲已去世；男友在军队服役",
+      "social_status": "有支持的男友和几位亲密朋友，但尚未向他们敞开关于自我怀疑和不值得的感受",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、逻辑性好、配合度高、能够自我反思，语气平和"
+    },
+    "main_problem": "因为在一次钢琴独奏音乐会中出现了一个错误，我觉得自己不配得到认可或掌声，这影响了自尊与自信。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自己存在否定积极、聚焦错误的思维模式，这阻碍了我的音乐成长并造成情绪困扰，因此寻求咨询。",
+    "growth_experiences": [
+      "几个月前的一次钢琴独奏音乐会：在演出的最后一段出现失误。此后来访者持续反复回想这一错误，认为它毁掉了整场演出，感到尴尬与羞耻；尽管观众给予掌声并在演后有积极评论，来访者仍难以看到表现中的积极面，演奏时常感到焦虑与压力，动力下降，并尝试通过加倍练习和向同伴寻求安慰来应对。该事件成为其自我价值与自信受损的转折点。",
+      "父亲去世：父亲已去世（具体时间与细节未提及）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被认可/不配得到掌声",
+        "只有完美无误，我才有价值并配得上认可"
+      ],
+      "special_situations": [
+        {
+          "event": "上一次钢琴独奏音乐会的最后一段出现失误，观众仍给予掌声与积极评论",
+          "conditional_assumptions": "如果表演中出现一次错误，整场就被我毁掉，我不配得到任何认可",
+          "compensatory_strategies": "加倍练习、向同伴寻求安慰和认可，否定积极反馈以逼迫自己更完美",
+          "automatic_thoughts": "这一切掌声不属于我；我不配被认可",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每次坐到钢琴前或上台演奏时，都会涌现对那次错误的记忆并出现强烈焦虑与压力",
+          "conditional_assumptions": "如果我再次犯错，所有人都会认为我不行，整个演出会被我毁掉",
+          "compensatory_strategies": "演前过度自我监控与紧张准备，试图通过用力控制来避免错误",
+          "automatic_thoughts": "我这次一定会犯错，大家会失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "演后观众的掌声与积极反馈，没有人像我一样关注那次错误",
+          "conditional_assumptions": "只有完美无误的演奏才算成功并值得认可",
+          "compensatory_strategies": "在脑海中过度回放错误片段，忽视积极反馈",
+          "automatic_thoughts": "即使他们鼓掌，我也失败了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "临近新的独奏音乐会，想到可能再次犯错而提前焦虑",
+          "conditional_assumptions": "如果这次不做到完全完美，就会再次毁掉整场演出",
+          "compensatory_strategies": "加班式练习与不断寻求他人保证以求心安",
+          "automatic_thoughts": "一旦有一个错误，整场就完了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见并通过演奏获得肯定",
+        "fear": "害怕因失误而被否定、羞辱，自我价值被摧毁",
+        "defense_goal": [
+          "通过追求完美与自我监控来降低被批评的风险",
+          "保持对积极反馈的怀疑以避免失望和羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不配得到掌声、容易把整场演出“搞砸”的失败者",
+          "object_representation": "观众/他人是随时会失望和批评我的评判者",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及演出中的失误或听到他人对其表演的积极反馈时",
+          "interpretation": "将内在的自我批评投射到外界，认为观众和他人都在失望和批评自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持温和、共情的语气；避免直接反驳其感受；用开放式提问邀请其区分事实与推测，鼓励其连接自身情绪并检视证据。"
+        },
+        {
+          "trigger_condition": "当想到要向男友或朋友坦诚表达自我怀疑与不配得感受时",
+          "interpretation": "认为表达会带来负担或被否定，因而选择压住不讲",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气轻柔、允许停顿与沉默；邀请来访者识别被压住的情绪与身体感受，探讨适度表达的可行边界与支持资源。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值与“完美无误”绑定，一次错误即否定整场表现与掌声",
+            "难以接受积极反馈，怀疑认可的意义"
+          ],
+          "outcomes": [
+            "自尊受损与自我怀疑",
+            "表演焦虑加剧",
+            "动力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "尽管拥有支持的男友与朋友，仍未向他们敞开关于自我怀疑与不值得的感受"
+          ],
+          "outcomes": [
+            "关系紧张",
+            "内心隔离感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "坚持“只有完美才配得上认可”的内在规则",
+            "用严格的自我要求否定掌声与积极反馈"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制对他人表达或寻求帮助，与“冲动”对应。",
+          "manifestations": [
+            "不向男友和朋友表达真实的自我怀疑与不配得感受",
+            "将批评和压力转向自身，内在自责"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为自己让所有人失望、他人会批评自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备专业能力与舞台经验，演出的大部分环节表现良好并获得掌声与积极反馈",
+          "能够进行自我反思并愿意尝试新的认知重构方法",
+          "拥有支持的男友与几位亲密朋友",
+          "对他人抱有同理心（能更宽容地看待他人的失误）"
+        ],
+        "negative_force": [
+          "否定积极面与心理过滤，过度关注错误",
+          "非黑即白的完美标准，价值条件化",
+          "预测未来式的担心导致演出前后焦虑",
+          "过度依赖外部安慰与认可来缓解不安",
+          "不向支持系统敞开，关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在弹奏钢琴或演出前后，反复回放错误并否定积极反馈",
+          "antecedent": [
+            "坐到钢琴前练习或上台演出",
+            "回想几个月前演出中的那次错误",
+            "临近新的独奏演出"
+          ],
+          "core_reason": "将自我价值与完美表现绑定，存在非黑即白思维与心理过滤，导致对错误的灾难化聚焦",
+          "function": "试图避免被批评、维持对失误的控制感，短期缓解不确定性",
+          "consequence": "表演焦虑与压力增加，自尊与动力下降，主观体验被负面信息主导"
+        },
+        {
+          "behavior": "频繁向同伴寻求安慰与认可（reassurance seeking）",
+          "antecedent": [
+            "在演前或演后感到焦虑和自我怀疑时"
+          ],
+          "core_reason": "对外部验证的依赖，内在自我价值不稳定",
+          "function": "获得短期的安心与肯定以缓解焦虑",
+          "consequence": "对外部安慰的依赖增强，难以内化自信，问题持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 215
+}

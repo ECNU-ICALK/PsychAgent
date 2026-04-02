@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "79",
+      "name": "刘志成",
+      "gender": "男",
+      "occupation": "真人秀演员（曾在马戏团担任小丑）",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲为学校教师，其余未提及",
+      "social_status": "有支持性的朋友和家人可倾诉，但尚未与他们讨论该具体的内疚与恐惧",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；无类似心理问题史",
+      "language_features": "态度中性；表达清晰、愿意配合并能自我反思；报告持续的焦虑与自责；思维中存在灾难化、跳结论与过度概括"
+    },
+    "main_problem": "在马戏团担任小丑时一次不慎吓到了许多孩子，此后长期陷入内疚与恐惧，认为雇主再也不会信任自己。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些内疚和恐惧显著影响我的心理健康并造成困扰。我想走出来并感觉好一些。",
+    "growth_experiences": [
+      "在马戏团表演时因角色投入过深，做了带有巨大声响与突然动作的把戏，导致许多孩子被吓到。事件发生时压力很大，担心丢掉工作并让他人失望。自此之后，持续出现内疚与恐惧，反复回想当日场景，在类似环境（马戏团现场、看到小丑服装）或想到过去行为时加重。曾尝试向孩子和家长道歉、弥补，但情绪未明显缓解。担心声誉受损、雇主不再信任。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被信任",
+        "一次错误就会毁掉一切"
+      ],
+      "special_situations": [
+        {
+          "event": "处在与事件相似的环境（马戏团现场、看到小丑服装）",
+          "conditional_assumptions": "如果再次处在类似场景，我必定会再犯错并被解雇",
+          "compensatory_strategies": "回避相关场景与工作内容，保持高度警觉以减少失误",
+          "automatic_thoughts": "我会再次搞砸，老板会解雇我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "反复回想那天的表演失误",
+          "conditional_assumptions": "一次错误就证明我不可靠，未来也不会被信任",
+          "compensatory_strategies": "不断自我检讨和责备，试图通过严苛自律避免再犯错",
+          "automatic_thoughts": "这次失误毁了我的声誉，没人会再信任我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "未从雇主处获得明确的安抚或保证",
+          "conditional_assumptions": "如果没有被明确表态原谅，就表示他们对我失去信任",
+          "compensatory_strategies": "对雇主和同事保持警惕与不信任，以自我保护",
+          "automatic_thoughts": "他们在等我再次出错然后解雇我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在担心丢掉工作、让他人失望的高压情境中",
+          "conditional_assumptions": "如果让别人失望，就会被永久否定与不再信任",
+          "compensatory_strategies": "主动向孩子和家长道歉、尝试补救以挽回信任",
+          "automatic_thoughts": "雇主永远不会再信任我",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被原谅、被信任并维持职业名誉",
+        "fear": "害怕被拒绝与抛弃、失去工作、被永久贴上“不可靠”的标签",
+        "defense_goal": [
+          "通过保持警惕与一定疏离来避免再次受伤",
+          "以自我批评与高标准约束来控制风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有瑕疵、容易被怀疑的错误制造者",
+          "object_representation": "严苛、随时会惩罚或否定自己的审判者（雇主/他人）",
+          "linking_affect": "恐惧、羞愧、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“可能雇主已过去此事”并邀请其检视证据时",
+          "interpretation": "将对方未给出明确保证理解为他人不信任自己（移情：将不被信任的恐惧投射到他人意图上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用怀疑的语气强调他人“在等我出错”，反复提出担忧，要求更多外部保证，暂缓情感深入探讨。"
+        },
+        {
+          "trigger_condition": "当谈及那次失误与自责情绪时",
+          "interpretation": "将对他人的愤怒与失望转向自我批评，认为自己应受惩罚",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责性语言描述自身过错，降低对外表达情绪，强调“我应该更严苛要求自己”。"
+        },
+        {
+          "trigger_condition": "当被邀请寻找反证或考虑替代解释时",
+          "interpretation": "用看似合理的理由维持负面结论，如“他们没安抚我，所以一定不信任我”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "列举表面证据支持负面假设，语气坚定，忽略与之相反的信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有支持系统却未与其讨论具体的内疚与恐惧",
+            "对雇主与同事难以建立信任，担心不被再次信任"
+          ],
+          "outcomes": [
+            "焦虑与内疚持续",
+            "睡眠被扰与日常活动受影响",
+            "职业与人际功能下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被对失误的恐惧与负面预测束缚，回避类似环境",
+            "在工作中因担心被不信任而减少自主性与尝试"
+          ],
+          "outcomes": [
+            "回避行为增加",
+            "选择空间与行动自由感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我毁了一切”）",
+            "在与他人互动中小心谨慎，难以信任雇主和同事",
+            "不愿向支持系统透露具体困扰"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "认为雇主和同事在等待自己再次失误并会解雇自己",
+            "在缺乏明确证据时推断他人对自己不信任"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不与朋友和家人讨论具体的内疚与恐惧",
+            "将寻求支持的冲动转为自我忍耐与自我惩罚"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人，可作为潜在支持资源",
+          "能够承担责任并主动尝试弥补（曾向孩子与家长道歉）",
+          "愿意参与并尝试认知重评与行为实验（表达“值得一试”）"
+        ],
+        "negative_force": [
+          "灾难化、跳跃性结论与过度概括的思维模式",
+          "对外部保证的依赖与不信任他人（外部验证倾向）",
+          "回避类似情境与主题，导致问题维持",
+          "持续焦虑与睡眠紊乱，损害职业表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化与跳结论的思维反应（伴随显著焦虑）",
+          "antecedent": [
+            "回想马戏团失误当日",
+            "处在与事件相似的环境（马戏团、看到小丑服装）",
+            "未收到雇主的明确安抚或保证"
+          ],
+          "core_reason": "内在核心信念“我不值得被信任”与对单次失误的过度概括，导致对未来的负性预测",
+          "function": "逃避不确定性与潜在威胁、获得短期的控制感",
+          "consequence": "焦虑与内疚持续，睡眠和日常活动受扰，工作表现下降，与他人信任受损"
+        },
+        {
+          "behavior": "回避讨论与接触触发线索（环境与人际话题）",
+          "antecedent": [
+            "想到当日事件",
+            "遇到与马戏团、小丑相关的线索",
+            "他人提及相关话题或建议与支持系统沟通"
+          ],
+          "core_reason": "害怕被再次否定或不被信任，对最坏情况的预测",
+          "function": "降低即时焦虑并自我保护",
+          "consequence": "资源未被利用，情绪问题维持甚至加重，孤立感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1870
+}

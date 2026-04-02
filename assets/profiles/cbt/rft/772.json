@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "方杰",
+      "gender": "男",
+      "occupation": "护士",
+      "educational_background": "护理学学位",
+      "marital_status": "未婚",
+      "family_status": "成长于军旅家庭（父亲在军队服役），未提及母亲信息",
+      "social_status": "与同事的关系因内在挣扎而趋于紧张；有少数朋友可倾诉，但对其职业动机的复杂性理解有限",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或心理咨询",
+      "language_features": "表达清晰、逻辑性较好，语气中性，配合度良好；存在自我怀疑与反刍倾向"
+    },
+    "main_problem": "我对作为护士的职业选择存在相互冲突的想法——一方面我享受帮助他人，但另一方面我担心我的职业选择完全是因为我需要去帮助他人。这些想法和担忧自我开始从事护理工作以来一直存在，并在患者表达感谢或他人称赞时更为明显。",
+    "topic": "职业发展",
+    "core_demands": "我想找到一种方式，让自己对职业选择更有底气，并在没有这些挥之不去的念头的情况下享受工作。",
+    "growth_experiences": [
+      "原生家庭：成长于军旅家庭（自述为“army brat”），父亲在军队服役，长期强调“服务”的价值；这一价值观对其职业选择有深远影响——他渴望像护士那样展现同情心并“让他人的生活产生改变”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于动机是否纯粹、无私",
+        "如果我不是始终无私而奉献，我就是不真诚/不够敬业"
+      ],
+      "special_situations": [
+        {
+          "event": "患者表达感谢或他人称赞我的护理技能时",
+          "conditional_assumptions": "如果我的动机里包含“被需要/被认可”，就说明我不真诚、不够敬业",
+          "compensatory_strategies": "尝试理性化并专注积极面来压制怀疑，同时倾向否定他人的正面反馈",
+          "automatic_thoughts": "也许我只是为了被需要才做这些",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与患者互动的当下",
+          "conditional_assumptions": "我必须始终出于纯粹的利他动机，否则我就是骗子",
+          "compensatory_strategies": "在互动中自我监控、反复检视动机是否“足够纯粹”",
+          "automatic_thoughts": "我像个骗子",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "夜间准备入睡时开始反复思考职业选择",
+          "conditional_assumptions": "如果动机不纯，职业选择就是错误，会毁掉我的工作满意度",
+          "compensatory_strategies": "不断分析并寻找证据以试图确定“真正动机”",
+          "automatic_thoughts": "如果我的动机不纯，后果会很糟糕",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "注意到同事似乎觉得我“有些不对劲”时",
+          "conditional_assumptions": "他人的看法能证明我是否真诚和敬业",
+          "compensatory_strategies": "在同事面前更加谨慎、克制表达以避免被评价",
+          "automatic_thoughts": "他们觉得我不够真诚/不敬业",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过服务他人获得意义与被认可，同时保持自我道德的纯洁感",
+        "fear": "害怕被揭示为动机不纯的“伪善者”，因此被评判、被拒绝并损害人际关系与职业满意度",
+        "defense_goal": [
+          "通过自我监控与理智化维持“动机纯粹”的自我形象",
+          "谨慎表达以降低被他人评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够真诚、需要被需要的“伪善者”",
+          "object_representation": "会审视与评判自己的他人（患者/同事）",
+          "linking_affect": "焦虑、羞愧、内疚"
+        },
+        {
+          "self_representation": "渴望服务与被认可的奉献者",
+          "object_representation": "值得被服务和感激的他人",
+          "linking_affect": "矛盾（温暖与不安并存）"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人赞扬其工作并邀请其探讨职业动机时",
+          "interpretation": "将赞美体验为“审视”，担心被看成动机不纯的伪善者（移情：被评判）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "采用温和、具体化的提问；鼓励描述当下体验与具体行为证据，少用价值评判词；语气平稳，承认其矛盾感。"
+        },
+        {
+          "trigger_condition": "夜间独处、临睡前出现反刍时",
+          "interpretation": "把动机的不确定性视为危险，认为必须立即找到确定答案以避免被视为不真诚",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "引导其将注意力拉回当下的身体感受与事实清单；用短句、慢速，限制过度分析，鼓励记录可观察证据。"
+        },
+        {
+          "trigger_condition": "与同事互动时感觉对方“注意到自己不对劲”",
+          "interpretation": "将自身的不安投射到他人身上，推断对方在负面评价自己",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "使用澄清式回应，区分事实与推测；提出检验性问题，语气柔和，避免对错式评判。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复质疑自己的职业动机是否纯粹",
+            "在被感谢或被赞扬时加重怀疑并感觉像“骗子”",
+            "将“服务”的价值与个人动机的纯洁性纠缠不清"
+          ],
+          "outcomes": [
+            "工作满意度下降",
+            "睡眠紊乱（因反刍）",
+            "与同事关系紧张",
+            "持续的内在动荡与自我怀疑"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得朋友难以理解其对职业动机的复杂思考",
+            "在同事关系中因内在挣扎而疏离"
+          ],
+          "outcomes": [
+            "支持感不足",
+            "人际互动中的不安全感与自我监控增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以父亲强调的“服务”价值作为绝对标准检视自我动机",
+            "频繁出现“我应该更有奉献精神”的内在要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在患者互动中反复自我检视动机是否“足够纯粹”",
+            "担心被视为不真诚而谨慎克制表达",
+            "持续反刍导致睡眠受损"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在患者表达感谢的情境下，来访者通常会陷入怀疑动机、感觉自己像骗子，并在互动后持续反刍，影响工作满意度与睡眠。",
+          "unique_outcome": "一次他加班留到很晚安抚一位非常恐惧的患者，当时只专注于患者的需要，没有寻求任何回报，体验到意义与安定。",
+          "reason": "线索：采取不同做法——将注意力聚焦在患者当下的需求；不同理解——把“服务”视为具体的关怀行为而非动机审判，因此当下怀疑减弱。"
+        },
+        {
+          "target_problem": "在组织或参与科室活动时，来访者通常会反复质疑自身动机并担心自己是为博取赞美，从而影响投入与体验。",
+          "unique_outcome": "他曾参与组织终末期患者的小型活动，尽管工作繁重，但看到患者的喜悦后体验到“值得”，当下的怀疑显著减少。",
+          "reason": "线索：不同情境与做法——主动投入具体行动并关注患者的实际体验；不同理解——以“带来片刻欢乐”为目标，意义感增强。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对“服务他人”的价值高度认同",
+          "具备同理心与实际行动（安抚患者、组织活动）的能力与经验",
+          "愿意寻求咨询与尝试新视角",
+          "能回忆并识别自己出于关怀的具体行为证据"
+        ],
+        "negative_force": [
+          "灾难化、否定积极与“应该”句式等认知偏差",
+          "对动机纯洁的僵化价值条件导致持续自我怀疑",
+          "反刍倾向造成睡眠紊乱与内在动荡",
+          "与同事关系受影响、对他人看法过度在意（读心式推断）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反刍性思考并伴随睡眠紊乱",
+          "antecedent": [
+            "夜间临睡前",
+            "在患者表达感谢或他人称赞后"
+          ],
+          "core_reason": "对动机纯洁的僵化价值条件与灾难化预期（担心职业选择因此是“错误的”）",
+          "function": "通过过度思考来寻求确定性与自我证明，以逃避不确定性与内疚感",
+          "consequence": "睡眠被打乱、疲惫加重，工作满意度下降"
+        },
+        {
+          "behavior": "在患者互动中出现强烈的自我怀疑与“欺骗感”",
+          "antecedent": [
+            "患者表达感谢或互动进行中"
+          ],
+          "core_reason": "情绪化推理（将“感觉像骗子”当作事实）与内摄的“必须更无私、应该更奉献”的标准",
+          "function": "自我监控与自我修正，以避免被他人负面评价",
+          "consequence": "与同事关系紧张、工作表现与人际互动质量受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 772
+}

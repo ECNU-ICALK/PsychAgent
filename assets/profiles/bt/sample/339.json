@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈婉宁",
+      "gender": "女",
+      "occupation": "研究生",
+      "educational_background": "在读硕士",
+      "marital_status": "未婚",
+      "family_status": "独居，其他家庭信息未提供",
+      "social_status": "有少数朋友可交流，但在自我怀疑出现时倾向于与同伴疏离",
+      "medical_history": "本科期间曾有类似自我怀疑但程度较轻；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能自我反思；态度积极；谈及被拒与自我怀疑时有犹豫与自我批评"
+    },
+    "main_problem": "尽管是研究生，我常觉得自己不够聪明，无法找到好工作，这种自我怀疑最近加重。",
+    "topic": "职业发展",
+    "core_demands": "意识到持续的自我怀疑正在阻碍学业进展并造成痛苦，希望通过咨询重建自信与动力，获得新的视角来看待挫折与比较。",
+    "growth_experiences": [
+      "本科阶段曾经历过类似的自我怀疑，但程度较轻，未求助心理咨询；随着年龄增长与职业压力增加，这一模式在研究生阶段加重。",
+      "过往面对职业挫折时较容易恢复，因相信“还有时间”；如今更频繁体验到“时间不够”的压力感，使挫折更具打击性。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明。",
+        "我不够好，不值得得到好工作和机会。"
+      ],
+      "special_situations": [
+        {
+          "event": "在学术上遇到挑战或任务困难",
+          "conditional_assumptions": "如果我无法轻松完成任务，就说明我不够聪明，是失败者。",
+          "compensatory_strategies": "尝试忽视或分散注意力；在自我怀疑上来时减少与同伴互动。",
+          "automatic_thoughts": "我不够聪明，不能胜任。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到同学/同行取得成功或受到认可",
+          "conditional_assumptions": "如果我不如他们，就说明我不行、我失败了。",
+          "compensatory_strategies": "与他们保持距离、回避社交以避免比较和被评判。",
+          "automatic_thoughts": "我比他们差，我不行。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "连续遭遇制片厂对作品的拒绝",
+          "conditional_assumptions": "被拒绝就意味着我不够好，未来也很难被认可。",
+          "compensatory_strategies": "降低创作与投递的主动性，减少尝试以避免再次受挫。",
+          "automatic_thoughts": "没人愿意给我机会，这说明我不够好。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "感到年龄与职业阶段带来的时间压力",
+          "conditional_assumptions": "成功必须尽快发生，否则就等于失败、以后更不可能成功。",
+          "compensatory_strategies": "在压力驱动下反复思考与担忧，影响睡眠与专注。",
+          "automatic_thoughts": "我快来不及了，我不会成功。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑向朋友分享挫败感与想放弃的念头",
+          "conditional_assumptions": "暴露脆弱会被看作软弱/不配，别人会看不起我。",
+          "compensatory_strategies": "保持沉默、回避分享感受，选择自我隔离。",
+          "automatic_thoughts": "他们会认为我软弱、能力不足。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被接纳，并在职业与学术上被看见与支持",
+        "fear": "害怕被拒绝与被评判为“不够好/不够聪明”，担心暴露脆弱会被贬低",
+        "defense_goal": [
+          "通过压抑与保持疏离来避免被他人评判，维持脆弱自尊的安全边界"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、容易失败的被拒者",
+          "object_representation": "评判性、拒绝性的他人/机构（同伴、制片厂）",
+          "linking_affect": "羞耻、沮丧、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到向朋友坦诚自己的挫败感与想放弃的念头，或面对被拒与比较时",
+          "interpretation": "潜意识将他人视为可能的评判者，认为一旦暴露脆弱就会被看作软弱或无能",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "在对话中轻描淡写不适与挫败，避免直接表达需求与请求支持，语气谨慎、节制，用词模糊以回避情感深入。"
+        },
+        {
+          "trigger_condition": "看到同伴成功或受到认可后产生强烈自我否定",
+          "interpretation": "将外界的压力与不公平感转为对自我的批评与贬低",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "倾向使用自责性表述（如“都是我不行”），语气低落，减少与他人互动，避免讨论具体的支持或解决方案。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在挫折与自我怀疑出现时选择自我隔离、保持沉默，担心被朋友评判而不愿分享",
+            "将被拒与比较视为个人失败，削弱与他人的连结感"
+          ],
+          "outcomes": [
+            "自信下降与动力减退",
+            "睡眠受扰与专注力下降",
+            "人际关系受影响、孤独感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "担心朋友会评判自己“软弱/无能”，即使没有明确证据",
+            "在对话中假设他人会看轻自己而保持沉默"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "需要支持时不向外求助，把情感压回自己",
+            "在自我怀疑时选择隔离而非表达与连接"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责与自我否定，谨慎表达观点与需求",
+            "将挫折归咎于自身能力不足，限制进一步尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对创作过程仍保有热情（写作、导演、把故事带入生命）",
+          "拥有可谈心的朋友与潜在支持资源",
+          "在其他领域能将拒绝视为改进机会，有一定认知重构的能力",
+          "态度积极、愿意尝试重新聚焦于初心与个人项目",
+          "愿意进行认知评估与行为实验，具备改变意愿"
+        ],
+        "negative_force": [
+          "自我怀疑与自我否定显著，常以他人成功为参照进行比较",
+          "将拒绝过度概括为“自己不够好”，并预测未来失败",
+          "对他人评价高度敏感，担心被视为软弱而选择隔离",
+          "睡眠与专注受影响，反复思虑加剧压力",
+          "依赖外部认可（制片厂/同行）的评价来界定自我价值"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在自我怀疑出现时自我隔离、减少与同伴交流",
+          "antecedent": [
+            "看到同伴/同行成功或被认可",
+            "遭遇学术挑战",
+            "考虑向朋友分享挫败感时担心被评判"
+          ],
+          "core_reason": "将比较与拒绝解读为自身“不够好”，害怕暴露脆弱被视为软弱或无能",
+          "function": "逃避被评判与负面社交后果，短期维持脆弱自尊的安全感",
+          "consequence": "人际关系受损，孤独感增强，支持减少，进一步加重自我怀疑"
+        },
+        {
+          "behavior": "生产力下降、回避持续创作与对外投递",
+          "antecedent": [
+            "连续遭遇制片厂拒绝",
+            "在学术或职业任务中受挫"
+          ],
+          "core_reason": "将拒绝过度概括为“我不够好”，并预测未来失败，动机受挫",
+          "function": "短期逃避再次失败与挫折体验，减少不适感",
+          "consequence": "学业/职业进展受阻，负面情绪加剧，自我效能感下降"
+        },
+        {
+          "behavior": "睡眠受扰、夜间反复思考“哪里做错了”",
+          "antecedent": [
+            "白天遭遇拒绝后在夜间回想细节",
+            "临睡前担心未来机会与时间压力"
+          ],
+          "core_reason": "负性自动思维与灾难化/预测未来导致警觉升高，试图通过反复思考获得控制感",
+          "function": "企图获得控制与问题解决的感觉（自我安抚/认知自我刺激）",
+          "consequence": "睡眠质量下降、白天专注与效率受损，进一步削弱信心与动力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 339
+}

@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20岁",
+      "name": "李若薇",
+      "gender": "女性",
+      "occupation": "销售人员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；既往未出现类似心理问题的治疗史",
+      "language_features": "表达清晰，态度积极，配合度高；自述略显紧张；愿意按建议进行观察与记录"
+    },
+    "main_problem": "我有一种观念：我之所以喜欢健身，是因为我从小就害怕因任何与健康有关的问题而死亡，现在只能通过锻炼来平复自己。这一信念影响了我对健身的享受，并可能影响我的整体心理健康。",
+    "topic": "情绪管理",
+    "core_demands": "我想打破这种恐惧的循环，能够在没有持续担忧和焦虑的情况下享受锻炼。",
+    "growth_experiences": [
+      "童年时期家庭对健康与健身高度重视，父母常担心疾病并督促全家‘做一切保持健康的事’；来访者逐渐将家人的健康焦虑内化为自身信念，长期存在对健康相关死亡的担忧，这种恐惧一直在背景中伴随，近两年更加明显。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的健康随时面临威胁",
+        "只有通过严格锻炼才能保持安全"
+      ],
+      "special_situations": [
+        {
+          "event": "在进行健身训练时",
+          "conditional_assumptions": "如果我不通过锻炼来控制健康，就会生病甚至死亡",
+          "compensatory_strategies": "把锻炼作为主要的安抚方式，增加训练频率和强度以降低恐惧",
+          "automatic_thoughts": "如果不练，就可能会出事",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "错过一次训练或觉得自己没有足够用力的时候",
+          "conditional_assumptions": "如果我错过一次或强度不够，就意味着我对健康不负责任，风险会显著上升",
+          "compensatory_strategies": "严格遵守高标准训练计划，避免任何缺席或降低强度",
+          "automatic_thoughts": "不能有一次松懈，否则健康会快速恶化",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "家人或他人谈论健康、疾病与保持健康的重要性时",
+          "conditional_assumptions": "如果不按家人的健康标准行事，就会不安全、容易生病",
+          "compensatory_strategies": "内化并遵循家人的健康规则与期待",
+          "automatic_thoughts": "我应该照着他们的标准去做",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在日常生活中出现与健康风险相关的焦虑或担忧时",
+          "conditional_assumptions": "如果我不立刻锻炼，焦虑会失控并危害健康",
+          "compensatory_strategies": "立刻进行运动以平复情绪和获得安全感",
+          "automatic_thoughts": "只有锻炼才能让我安全和冷静",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得安全与掌控（免受疾病和死亡的威胁）",
+        "fear": "害怕生病或死亡",
+        "defense_goal": [
+          "通过严格坚持锻炼来维持安全感并降低焦虑",
+          "避免放松或缺席以减轻被疾病威胁的恐惧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要时刻警惕、易受健康威胁的个体",
+          "object_representation": "担忧并要求严格的照看者/监督者（父母）",
+          "linking_affect": "焦虑、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探索恐惧的起源及家庭对健康的影响时",
+          "interpretation": "将咨询师的提问理解为需要提供理性解释与事实，而非进入情绪体验（倾向以思考替代感受）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用平静、描述性语言，聚焦事实与解释，减少情感词汇；语气温和但保持一定距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "从很小就害怕因健康问题而死亡",
+            "将锻炼视为避免死亡与疾病的手段",
+            "在锻炼中不断担心健康风险、把健身当成逃避恐惧的方式",
+            "近两年恐惧更突出，享受感下降"
+          ],
+          "outcomes": [
+            "健康焦虑加重",
+            "强迫性/僵化的锻炼模式",
+            "对健身的乐趣减少",
+            "身心疲惫与压力增大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "把家庭的健康规则视为必须遵守的个人标准",
+            "以“不能错过一次训练”“必须足够用力”的自我要求面对健身"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备稳定的运动习惯与行动力",
+          "对问题有自我觉察并主动寻求咨询支持",
+          "愿意尝试记录与行为实验，态度积极"
+        ],
+        "negative_force": [
+          "健康相关的灾难化预期",
+          "非黑即白的自我要求与标准",
+          "将外界健康规则内摄为自我规范，依赖外部标准获得安全感",
+          "过度依赖锻炼来缓解焦虑，限制了灵活性与享受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "将锻炼作为唯一的自我安抚方式，强迫性坚持高强度与高频率",
+          "antecedent": [
+            "想到健康或疾病风险",
+            "进行锻炼时的自我监控与压力",
+            "错过一次训练或强度不足",
+            "出现焦虑或担忧时"
+          ],
+          "core_reason": "早期家庭对健康的高度关注促成内化信念“若不严格锻炼就会生病/死亡”，伴随灾难化预期与非黑即白标准",
+          "function": "逃避焦虑与感知到的健康风险，获得短期安全感与情绪缓解",
+          "consequence": "锻炼的乐趣显著下降，身心疲惫；焦虑-锻炼的负性循环被强化，整体幸福感受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1104
+}

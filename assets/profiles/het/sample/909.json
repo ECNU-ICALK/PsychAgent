@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "张伟",
+      "gender": "男",
+      "occupation": "办公室职员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，养一只猫（名为 Speckles）",
+      "social_status": "与朋友关系因财务比较而紧张；有一位要好的朋友但尚未与其讨论财务困扰。",
+      "medical_history": "无重大躯体疾病；既往未有类似心理问题；未接受过心理治疗。",
+      "language_features": "表达清晰、逻辑性较强，能自我反思，合作度高；报告长期焦虑与压力增大。"
+    },
+    "main_problem": "持续感到在办公室工作期间永远买不起房子。",
+    "topic": "情绪管理",
+    "core_demands": "“我想看看自己如何能改变对这件事的看法。”希望通过改变视角与重构信念，减轻因买房问题引发的焦虑与压力。",
+    "growth_experiences": [
+      "三年前开始在当前办公室工作后，因与拥有住房的同事和他人比较而产生并逐渐加重“我永远买不起房”的感受；每当看到房产广告或听到别人购房消息即被强烈触发；曾尝试预算与存钱策略但自我感觉的财务不足与自卑未缓解，逐渐影响工作表现、人际关系、睡眠与整体压力水平。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者/不如他人（我的价值取决于是否买得起房）",
+        "我永远无法实现财务稳定（买不起房）"
+      ],
+      "special_situations": [
+        {
+          "event": "看到房产广告",
+          "conditional_assumptions": "如果我现在买不起房，就说明我没有财务稳定、我就是失败者。",
+          "compensatory_strategies": "严格制定预算与存钱计划，压缩开支以证明自己在努力。",
+          "automatic_thoughts": "我永远买不起房，我会一直租房。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到别人买了新房",
+          "conditional_assumptions": "如果达不到同龄人的财务水平，就证明我不如人、没有价值。",
+          "compensatory_strategies": "不断与同事和朋友进行比较，关注差距以鞭策自己。",
+          "automatic_thoughts": "我比同事差，我是失败者。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在公司看到同事在财务目标上取得进展（如升薪或购房）",
+          "conditional_assumptions": "要么达到与他人相当的财务水平，要么就是彻底失败。",
+          "compensatory_strategies": "聚焦不足与差距，忽视自身已有的努力与积极面。",
+          "automatic_thoughts": "我永远赶不上他们。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得财务稳定与拥有住房，被视为与同龄人一样“成功”并得到认可与接纳。",
+        "fear": "害怕被看作失败、不被认可或被比较时显得不如人。",
+        "defense_goal": [
+          "通过维持高标准与持续比较来控制焦虑，避免暴露脆弱",
+          "回避与朋友谈论财务以减少被评判的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如人的失败者、财务上不稳定的人",
+          "object_representation": "评判性的他人/更成功的同龄人",
+          "linking_affect": "自卑、焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及是否与亲近朋友讨论财务焦虑时",
+          "interpretation": "如果谈及我的财务困扰，对方会看轻我、觉得我失败（将自己的羞耻与失败感投射到他人评价上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免深入展开，转而强调“我不想麻烦别人”，用简短、保留的语气回应，减少情感暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“我应该与同龄人处于相同财务水平”为内在规则约束自我选择",
+            "将“拥有住房”视为必须达成的里程碑，感到被规则束缚"
+          ],
+          "outcomes": [
+            "焦虑与压力增大",
+            "工作表现下降",
+            "睡眠受影响，整体身心负担加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有亲密朋友可谈心但选择不谈财务烦恼",
+            "在人际中因比较而退缩，关系紧张"
+          ],
+          "outcomes": [
+            "社会支持未被利用",
+            "孤立感增强、焦虑持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我应该与他们在同一财务水平”为自我评价标准",
+            "使用“必须/应该/理应”式自我要求来衡量价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "有要好的朋友却不谈财务困扰，将压力与羞耻感向内消化",
+            "自责与比较引发的能量转而攻击自身，影响睡眠与情绪"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "能主动尝试预算与存钱等策略，具备一定自我管理能力",
+          "对改变持开放态度，愿意重构信念（将规则改为愿望）",
+          "有一位可倾诉的亲密朋友（潜在社会支持）",
+          "求助动机明确，对行动（进修、增加收入）有初步意愿"
+        ],
+        "negative_force": [
+          "持续的社会比较与自我贬低",
+          "僵化的“应该”规则与全或无思维",
+          "灾难化与预测未来式的认知偏差（如“我永远买不起房”）",
+          "回避与他人讨论财务困扰，导致支持难以获得",
+          "睡眠受损与长期压力加剧，进一步降低功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我比较与负性自动化思维（如“我永远买不起房”），伴随显著焦虑与压力",
+          "antecedent": [
+            "看到房产广告",
+            "听到他人购买新房的消息",
+            "在职场看到同事在财务目标上的“进步”"
+          ],
+          "core_reason": "将自我价值与是否买得起房紧密绑定，内在存在“必须达到与同龄人相同财务水平”的规则，并伴随灾难化与预测未来等认知偏差。",
+          "function": "逃避不确定与无力感，通过比较与自责获得暂时的“控制感”与解释框架（但维持了焦虑）。",
+          "consequence": "工作表现下降，人际关系紧张，睡眠受损，整体压力持续加剧。"
+        },
+        {
+          "behavior": "回避与亲密朋友讨论财务焦虑与担忧",
+          "antecedent": [
+            "想到要向朋友倾诉财务困扰",
+            "出现与财务相关的话题场景"
+          ],
+          "core_reason": "害怕被评判、被视为失败，伴随羞耻感与自卑。",
+          "function": "避免可能的负面评价与羞耻体验，短期降低暴露性焦虑。",
+          "consequence": "社会支持未被利用，孤立感增加，焦虑与问题维持。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 909
+}

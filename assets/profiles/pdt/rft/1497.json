@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "陈志诚",
+      "gender": "男性",
+      "occupation": "厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和妹妹同住",
+      "social_status": "有几位关系较好的朋友给予支持，但尚未将此次事件告诉他们；与家人关系因事件而紧张",
+      "medical_history": "此前未有类似心理问题；既往未接受心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑可理解；自我苛责显著，频繁使用灾难化与“必须/应该”式推理；对再次尝试持怀疑与谨慎态度，但仍愿意配合尝试"
+    },
+    "main_problem": "我在为一次为家人做饭把菜烧糊后产生的失败感和尴尬而挣扎。",
+    "topic": "情绪管理",
+    "core_demands": "该事件显著影响了我的自信和对烹饪的热情，因此我寻求咨询来处理这些情绪。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我是个笑话"
+      ],
+      "special_situations": [
+        {
+          "event": "为家人做饭时把食物烧糊",
+          "conditional_assumptions": "如果在重要场合出错，就证明我是失败者，家人会看不起我",
+          "compensatory_strategies": "避免再次做饭与参加家庭聚会以避免被评价",
+          "automatic_thoughts": "他们一定把我当失败者/笑话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到要做饭或参加家庭聚会",
+          "conditional_assumptions": "如果再次失败，就会遭到家人评判和否定",
+          "compensatory_strategies": "回避烹饪和社交场合以减少恐惧和焦虑",
+          "automatic_thoughts": "我肯定会再失败，他们会评判我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作中的厨房环境面对烹饪任务",
+          "conditional_assumptions": "在工作中只要犯一次错就说明我不配当厨师",
+          "compensatory_strategies": "试图不断精进技能以弥补一次失误的影响",
+          "automatic_thoughts": "我是个失败的厨师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "试图给家人留下深刻印象的情境",
+          "conditional_assumptions": "我必须在家人面前表现完美，否则就是失败",
+          "compensatory_strategies": "追求完美、给自己施加高压力",
+          "automatic_thoughts": "我应该做到完美，否则证明我不行",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人认可与尊重",
+        "fear": "害怕被评判、被羞辱为失败者",
+        "defense_goal": [
+          "通过回避烹饪与家庭聚会来保护自尊、避免他人负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧的失败者",
+          "object_representation": "苛刻、会评判自己的家人",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到再次尝试做饭或被建议进行行为实验时",
+          "interpretation": "认为失败不可避免，别人（尤其家人）会评判自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以犹疑与保留的语气回应，强调可能失败的风险，使用条件句与前提限制，避免明确承诺。"
+        },
+        {
+          "trigger_condition": "提及家人的看法或回忆家人期望时",
+          "interpretation": "将内心的失败感归因于家人的负面看法，认为他们会看不起自己（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们会……”的断言句式，忽略证据，强化他人负面意图的假设。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与家人关系因事件而紧张，避免家庭聚会；未将此事告知支持性的朋友"
+          ],
+          "outcomes": [
+            "社交退缩与回避",
+            "焦虑加重",
+            "主观孤立感增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自信受挫与对烹饪的热情下降",
+            "将自我价值过度绑定于完美表现"
+          ],
+          "outcomes": [
+            "动力减弱",
+            "职业投入降低",
+            "自我怀疑与羞耻感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“必须/应该”式语言框定自我表现（如“我必须做到完美”）",
+            "将一次失误等同于整体失败"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度担心再次失败与他人评判",
+            "对再次尝试采取谨慎、怀疑态度并减少承诺"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友网络（虽未分享此事件）",
+          "具备专业烹饪训练基础（烹饪学校毕业）",
+          "曾主动尝试理性化并提升烹饪技能"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的认知模式显著",
+          "过度在意他人评价并进行读心式推断",
+          "回避烹饪与社交场合导致问题维持与扩大",
+          "自我标签化为“失败者/笑话”，自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪与家庭聚会，并在想到烹饪时产生显著焦虑与恐惧",
+          "antecedent": [
+            "想到要做饭或参加家庭聚会",
+            "面对工作中的烹饪任务或厨房环境",
+            "回忆为家人做饭时的失误"
+          ],
+          "core_reason": "一次为家人做饭烧糊的失误后，形成灾难化与读心式推断，将单次失误泛化为整体失败并预期会被评判，从而以回避来降低焦虑",
+          "function": "逃避被评判和羞耻的体验，短期降低焦虑",
+          "consequence": "工作表现受影响；与家人关系紧张；减少社交与烹饪活动，维持并加重焦虑与失败感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1497
+}

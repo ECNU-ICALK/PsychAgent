@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "72",
+      "name": "徐玉兰",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "本科在读",
+      "marital_status": "未婚",
+      "family_status": "与一只狗同住，无父母",
+      "social_status": "有少数亲密朋友可交流，但未与他们讨论学业问题；与教授和同学的关系因迟到而紧张",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；过往无类似问题史",
+      "language_features": "表达清晰、配合度较好；语气偏消极与犹疑；思路较为逻辑；存在灾难化、跳结论与过度概括倾向"
+    },
+    "main_problem": "我上课总是迟到，这影响了我的学业表现并导致我压力很大。",
+    "topic": "学业压力",
+    "core_demands": "意识到持续迟到正在影响我的学业前途并导致显著压力，因此寻求咨询以解决迟到问题、减轻学业压力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我可能永远无法毕业"
+      ],
+      "special_situations": [
+        {
+          "event": "再次上课迟到",
+          "conditional_assumptions": "如果我又迟到，说明我不负责任并且无法完成学业",
+          "compensatory_strategies": "设置多个闹钟与提醒、匆忙赶路",
+          "automatic_thoughts": "我又迟到了，我可能永远毕不了业。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "夜间躺在床上想到白天未完成的事情而难以入睡",
+          "conditional_assumptions": "如果我没把担忧想清楚并解决，明天会更糟且更难按时到课",
+          "compensatory_strategies": "在床上反复思考与担忧、晚睡",
+          "automatic_thoughts": "今天很多事没做好，明天会更糟。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与教授或同学互动时因迟到受到负面反馈",
+          "conditional_assumptions": "如果他们对我的迟到不满，就说明我是不称职的学生",
+          "compensatory_strategies": "回避与朋友讨论学业问题以避免被评价",
+          "automatic_thoughts": "他们会觉得我不可靠、不负责任。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "早晨闹钟响起时感到疲惫与缺乏动力",
+          "conditional_assumptions": "如果我感觉很疲惫，就注定无法按时到课",
+          "compensatory_strategies": "按下贪睡键、继续躺床",
+          "automatic_thoughts": "我起不来，今天肯定又会迟到。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望掌控作息、按时到课并顺利毕业，获得他人对自己作为学生的认可",
+        "fear": "害怕失败与被负面评价，担心被视为不负责任的学生",
+        "defense_goal": [
+          "通过否定方案的有效性与保持犹疑来降低尝试带来的焦虑",
+          "避免与朋友讨论学业问题以减少被批评或尴尬的风险",
+          "将压力转向自我反刍与失眠以维持对问题的主观控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、可能无法毕业的学生",
+          "object_representation": "严苛的批评者（教授与同学）",
+          "linking_affect": "羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出新的睡前管理技巧或分步骤的日程安排时",
+          "interpretation": "认为这些方法对自己“可能没用”，担心无法坚持，进而否定改变的可能",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "语气温和、先共情其顾虑；避免直接与其否定对抗，用微步骤与小实验的方式邀请尝试；聚焦可观察的短期目标并及时反馈有效性。"
+        },
+        {
+          "trigger_condition": "当涉及与他人（朋友）讨论学业问题或寻求支持的可能性",
+          "interpretation": "担心被评价或看轻，预期负面互动，从而选择不启齿",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用验证与支持性语句，邀请其识别自我批评的语句并转化为具体请求；鼓励从低风险对象与小话题开始练习求助。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "本学期开始持续迟到，难以自我主导与掌控作息",
+            "对能否毕业产生质疑，感到自我效能低",
+            "面对改变方案犹疑与否定，担心无法坚持"
+          ],
+          "outcomes": [
+            "显著的焦虑与压力",
+            "睡眠受损（失眠、躺床反刍）",
+            "人际紧张与回避求助",
+            "动机与自我效能感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁质疑或否定建议的有效性（如“我不认为会有用”）",
+            "强调自己缺乏动力、担心无法坚持，从而压缩可尝试的空间",
+            "未与朋友讨论学业问题，谨慎回避外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试并接受将任务拆分为小步骤",
+          "能够觉察“压力-失眠-迟到”的循环",
+          "拥有少数亲密朋友，具备潜在社会支持",
+          "提出可行的睡前放松活动（呼吸练习、舒缓音乐）"
+        ],
+        "negative_force": [
+          "灾难化、跳结论与过度概括的认知模式",
+          "睡眠质量差与晚间反刍导致的疲惫感",
+          "回避与朋友讨论学业问题，减少外部支持",
+          "自我效能感低、对改变的怀疑与否定",
+          "与教授和同学关系紧张带来的额外压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "上课迟到（持续性）",
+          "antecedent": [
+            "本学期开始后形成的作息紊乱",
+            "早晨闹钟响起时疲惫与缺乏动力",
+            "夜间反刍担忧导致晚睡与睡过头",
+            "出门途中意识到将迟到时的焦虑加剧"
+          ],
+          "core_reason": "对迟到与毕业的灾难化与跳结论认知（“迟到=无法毕业”），引发焦虑与拖延；睡眠不足进一步降低早晨启动行为。",
+          "function": "短期逃避要求与负面评价以减少焦虑（时间性负强化）",
+          "consequence": "学业表现受损、与教授和同学关系紧张、压力升级并形成“压力-失眠-迟到”的恶性循环"
+        },
+        {
+          "behavior": "夜间入睡困难与反刍担忧",
+          "antecedent": [
+            "临睡前想到白天未完成的事项",
+            "担忧学业未来与毕业可能性",
+            "缺乏有效的睡前卸载与放松流程"
+          ],
+          "core_reason": "灾难化与跳结论维持担忧；试图通过思考获得控制但缺乏有效边界与策略。",
+          "function": "试图通过持续思考来获得主观控制与问题解决（认知性自我安抚的尝试），但实际维持焦虑",
+          "consequence": "睡眠不足、早晨疲惫与动机低下，次日更易迟到"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1480
+}

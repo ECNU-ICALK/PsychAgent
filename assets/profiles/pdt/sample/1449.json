@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "69岁",
+      "name": "陈慧兰",
+      "gender": "女性",
+      "occupation": "科学教师",
+      "educational_background": "科学教育硕士学位",
+      "marital_status": "单身",
+      "family_status": "母亲是癌症幸存者",
+      "social_status": "有支持性的朋友群体，但未向朋友充分分享自己的不足感",
+      "medical_history": "无重大躯体疾病；无既往心理问题治疗史",
+      "language_features": "表达清晰，有自我反思与配合度；能具体描述触发情境与自动化思维；存在明显的读心术、预测未来、过度概括与个人化等认知偏差"
+    },
+    "main_problem": "我相信潜在伴侣不会对我感兴趣，因为我不认为自己长得足够好看。分手后这种不足感加重，看到幸福情侣时更强烈，影响了自尊、社交，以及睡眠和饮食。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些不足感正在影响我的自尊并阻碍我的社交互动。",
+    "growth_experiences": [
+      "约一年前经历一段关系的结束（分手）。当时压力水平很高，此后自我不足感逐步增强；在看到幸福情侣或与有伴侣的朋友社交时尤为明显。尽管朋友与同事支持，她倾向于将他人的认可解读为礼貌而非真诚，逐渐影响到睡眠与饮食节律，但工作表现基本未受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有吸引力",
+        "我不值得被选择/被爱"
+      ],
+      "special_situations": [
+        {
+          "event": "与有伴侣的朋友社交或看到幸福情侣",
+          "conditional_assumptions": "如果我不够好看，就没有人会选择我；别人都成双成对，说明我注定不行",
+          "compensatory_strategies": "减少涉入恋爱相关话题与场景、回避约会机会、保持沉默以避免被比较",
+          "automatic_thoughts": "我永远不会拥有那样的关系；没有人会要我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到再次约会或面对恋爱相关话题",
+          "conditional_assumptions": "如果我去尝试约会，就会被拒绝或羞辱；年轻、漂亮的人一出现，我就没有机会",
+          "compensatory_strategies": "退缩，找理由不参与约会或结识新人的场合",
+          "automatic_thoughts": "为什么会有人选择我？外面有那么多更漂亮、更年轻的人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到朋友或同事的积极反馈、被关注或称赞",
+          "conditional_assumptions": "如果别人对我好，那只是出于礼貌而非真心",
+          "compensatory_strategies": "否定或淡化积极反馈、转移话题以避免深入接触",
+          "automatic_thoughts": "他们只是客套和礼貌，并不是真的欣赏我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想分手经历、独处时反复思考自我价值",
+          "conditional_assumptions": "如果一段关系失败了，就证明我在亲密关系里都会失败",
+          "compensatory_strategies": "用全或无的标准自我评判，强化自我保护以降低再受伤的可能",
+          "automatic_thoughts": "我不适合亲密关系，我注定会再次失败",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地欣赏与选择，建立稳定而亲密的伴侣关系",
+        "fear": "害怕被拒绝、被羞辱与再次被否定（尤其因外貌）",
+        "defense_goal": [
+          "通过保持疏离、回避约会来降低被拒绝的风险",
+          "将他人的积极反馈解释为礼貌以减少不确定性与脆弱感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够吸引人、容易被挑剔与拒绝的“失败者”",
+          "object_representation": "挑剔、只看外表、随时会拒绝自己的评判者/潜在伴侣",
+          "linking_affect": "羞耻、焦虑、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“朋友的积极反应可能是真诚”的探讨或建议进行行为实验时",
+          "interpretation": "将内心的“不被喜欢/不值得”体验归因于他人的动机，认为对方只是出于礼貌（移情式的对他人动机的负性假定）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，反复使用“可能、也许、只是礼貌”等词，淡化对方积极性，避免承认被欣赏的可能。"
+        },
+        {
+          "trigger_condition": "在谈及分手与自我价值时需要触碰羞耻与脆弱的感受",
+          "interpretation": "以分析他人动机与一般性规律取代直接体验自身情绪，远离羞耻与被拒绝感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观化、抽象化的语言陈述经历，减少情感词汇与自我感受描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "分手后在看到幸福情侣或与有伴侣的朋友相处时强化孤立感",
+            "因害怕被拒绝而回避约会和亲密关系尝试",
+            "将他人的善意理解为礼貌，从而削弱真实连接的可能"
+          ],
+          "outcomes": [
+            "自尊受损，持续的不足感",
+            "社交回避与亲密关系退缩",
+            "睡眠与饮食节律被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将朋友的赞赏与笑声解释为“只是礼貌”",
+            "预设潜在伴侣会因外貌否定自己，未进行现实检验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定：认为“不如更年轻更漂亮的人”",
+            "在尝试行为实验时强烈担心失败，谨慎观察以避免受伤"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友充分表达不足感与真实需求，选择自我消化",
+            "减少参与恋爱相关社交，压抑主动接触的冲动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与朋友的社交情境中，来访者通常会认为他人对自己并无真正兴趣，从而减少表达与参与。",
+          "unique_outcome": "一次与朋友聚会时，她主动分享了一个离奇梦境的故事，朋友们当场发笑并表现出兴趣，互动氛围轻松积极。",
+          "reason": "不同做法：主动分享个人经历；不同支持：在支持性的朋友群体中；不同理解：当下更专注于现场反应而非自我否定。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "稳定的职业与未受明显影响的工作功能",
+          "存在支持性的朋友网络，具备现实支持资源",
+          "愿意尝试现实检验与行为实验，具备改变动机",
+          "能够通过爱好与自我照护短暂提升自我感受"
+        ],
+        "negative_force": [
+          "关于外貌与自我价值的消极核心信念根深蒂固",
+          "常见认知歪曲：读心术、预测未来、过度概括与否定积极",
+          "在亲密关系情境中的回避与退缩维持了孤独与自卑",
+          "将积极反馈归因于“礼貌”，削弱正性经验的整合"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及约会/亲密关系的话题或场景中回避与退缩",
+          "antecedent": [
+            "与有伴侣的朋友社交或看到幸福情侣",
+            "想到再次约会或被邀请参与恋爱相关活动"
+          ],
+          "core_reason": "消极核心信念（我不够有吸引力/不值得被选择）与灾难化预测（一定会被拒绝、羞辱）",
+          "function": "逃避潜在的拒绝与羞耻，短期降低焦虑",
+          "consequence": "限制社交与亲密机会，强化孤独与自卑，睡眠与饮食节律受扰"
+        },
+        {
+          "behavior": "否定正性反馈（将他人的欣赏/积极反应解释为“礼貌”）",
+          "antecedent": [
+            "在社交中获得朋友的笑声、关注或称赞",
+            "同事给予积极评价"
+          ],
+          "core_reason": "读心术与对自我价值的负性偏见，避免承认被欣赏所带来的不确定感与脆弱感",
+          "function": "维持心理上的可控感并避免期待落空",
+          "consequence": "削弱积极经验的整合，维持负性自我图式与回避行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1449
+}

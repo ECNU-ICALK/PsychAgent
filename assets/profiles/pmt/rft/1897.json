@@ -1,0 +1,231 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "陈思明",
+      "gender": "男",
+      "occupation": "未知",
+      "educational_background": "未知",
+      "marital_status": "未知",
+      "family_status": "未知",
+      "social_status": "有几位朋友可以交谈，但尚未与他们讨论健康担忧与负性想法",
+      "medical_history": "无重大躯体疾病史；此前未接受心理治疗；未有类似问题经历",
+      "language_features": "表达清晰但偏悲观，常使用灾难化和自责的表述；配合度尚可"
+    },
+    "main_problem": "我认为由于高咖啡因摄入和不健康饮食，我的健康已经被毁了，我将永远无法恢复以往的健康水平。这种信念带来绝望感与无望感；最近出现疲劳、头痛、消化问题等身体症状，且在尝试减少咖啡因与改善饮食后症状仍持续。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到负性想法与健康担忧正在影响我的日常功能与生活质量。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的健康已经被我毁了",
+        "我永远无法恢复到过去的健康水平",
+        "我的健康问题都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "在摄入咖啡因或垃圾食品后出现疲劳、头痛、消化不适",
+          "conditional_assumptions": "如果我继续摄入不健康食物或咖啡因，就会对健康造成永久性伤害",
+          "compensatory_strategies": "尝试减少咖啡因摄入并改善饮食",
+          "automatic_thoughts": "我已经把健康毁了，永远恢复不了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "即使减少咖啡因、改善饮食，身体症状仍持续存在",
+          "conditional_assumptions": "如果改变后短期内没有明显好转，就说明损伤不可逆",
+          "compensatory_strategies": "认为继续努力没有意义，产生放弃念头",
+          "automatic_thoughts": "这毫无意义，我的健康已经不可逆地变差了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在学校和个人生活压力增大时",
+          "conditional_assumptions": "压力大时只能依靠咖啡因和垃圾食品来应对",
+          "compensatory_strategies": "在压力情境下增加咖啡因与垃圾食品摄入以自我安抚",
+          "automatic_thoughts": "我控制不住，只能这样",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "想到要与朋友谈论自己的健康担忧时",
+          "conditional_assumptions": "如果向朋友倾诉，他们不会理解或在乎我",
+          "compensatory_strategies": "避免与朋友分享，保持退缩",
+          "automatic_thoughts": "他们不会理解或关心我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望恢复健康并被理解、支持",
+        "fear": "害怕健康问题是不可逆的、被他人不理解或忽视",
+        "defense_goal": [
+          "通过自我批评与回避分享来降低被否定的风险",
+          "保持一定的控制感以减轻焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、被损坏的自我（对健康问题负有全部责任的罪责者）",
+          "object_representation": "冷漠或不理解的他人（可能不会在乎我的担忧）",
+          "linking_affect": "无望、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议与朋友分享健康担忧、寻求社会支持时",
+          "interpretation": "潜意识认为朋友不会理解或在乎自己（移情：将被忽视的期待投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用含糊和保留的表达，回避承诺分享，语气谨慎，减少细节披露。"
+        },
+        {
+          "trigger_condition": "在努力减少咖啡因和改善饮食后，短期内症状仍存在",
+          "interpretation": "将现实中的波动理解为“彻底失败”，认为损伤不可逆",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化词语（如“永远”“完全”“彻底”），拒绝看到渐进改善，语气坚定否定。"
+        },
+        {
+          "trigger_condition": "在学校或个人生活压力增大时",
+          "interpretation": "认为自己对行为没有控制力，只能依赖咖啡因和垃圾食品",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“没办法”“只能这样”为由结束对替代方案的探讨，语气无奈。"
+        },
+        {
+          "trigger_condition": "出现身体不适（疲劳、头痛、消化问题）后",
+          "interpretation": "将焦虑与不满转向自我，认为一切都是自己的错",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "强化自责语句，如“都是我的错”，语气低沉，并避免指向外界因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复认为改善饮食与作息“毫无意义”",
+            "感觉无望，认定健康已不可逆"
+          ],
+          "outcomes": [
+            "绝望感增强",
+            "动机降低，减少持续改变的努力"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友分享健康担忧，认为他们不会理解或在乎"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "缺乏支持感"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在压力下认为“我控制不住，只能这样”，依赖咖啡因与垃圾食品"
+          ],
+          "outcomes": [
+            "控制感下降",
+            "习惯性依赖加剧健康焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责，认为健康问题“都是我的错”",
+            "在咨询中强调自己应该做得更好但感到无力"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设朋友“不理解或不在乎”自己的担忧",
+            "因此避免与他人直接接触与分享"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "面对分享建议时以“很尴尬”“他们不会理解”来转移话题",
+            "避免细化具体支持方式的讨论"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "将沮丧与怒气转向自责与内耗",
+            "不去寻求支持而选择独自承受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求心理咨询，具备改变动机",
+          "曾尝试减少咖啡因摄入并改善饮食",
+          "能够识别并描述负性思维模式（如灾难化）",
+          "拥有一定的社会支持潜力（有几位朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "自我否定与自责倾向",
+          "在压力下依赖咖啡因与垃圾食品的习惯性应对",
+          "社交回避，难以向他人寻求支持",
+          "对健康状况的过度担忧与负面未来预测"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在压力下摄入高咖啡因与垃圾食品",
+          "antecedent": [
+            "学校压力增大",
+            "个人生活压力",
+            "出现疲劳、头痛、消化不适时"
+          ],
+          "core_reason": "将咖啡因与垃圾食品作为应对压力与不适的即时安抚方式",
+          "function": "快速缓解紧张与不适感，获得短期的精神振奋或情绪安抚",
+          "consequence": "身体症状加重，强化对健康的担忧与负性思维"
+        },
+        {
+          "behavior": "灾难化的负性自我对话（如“我把健康毁了”）",
+          "antecedent": [
+            "摄入咖啡因或垃圾食品之后",
+            "出现身体不适时",
+            "尝试改变但短期内未见好转"
+          ],
+          "core_reason": "对健康不可逆损害的核心信念与过度泛化的认知模式",
+          "function": "为焦虑寻找确定性解释、宣泄内疚与自责",
+          "consequence": "无望感增加，学习/工作表现下降，睡眠与自我照料进一步受损"
+        },
+        {
+          "behavior": "社交退缩与避免分享困扰",
+          "antecedent": [
+            "想到与朋友讨论健康担忧时",
+            "被建议寻求社交支持时"
+          ],
+          "core_reason": "认为他人不会理解或在乎自己",
+          "function": "避免被否定或尴尬，维持表面安全",
+          "consequence": "支持系统未被激活，孤独感与压力维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1897
+}

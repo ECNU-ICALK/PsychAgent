@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "张博文",
+      "gender": "男",
+      "occupation": "贺卡公司校对员",
+      "educational_background": "学士学位",
+      "marital_status": "单身",
+      "family_status": "父母婚姻稳定，已结婚40年",
+      "social_status": "拥有支持性的朋友群体，但尚未与他们讨论自己的负面想法",
+      "medical_history": "未有类似心理问题经历；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我正在为我最喜欢的橄榄球队最近的失利产生的负面想法而苦恼，导致我认为整个赛季都毁了。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些负面想法影响了我享受观看足球比赛等活动的能力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败就是灾难",
+        "事情要么完美，要么一无是处"
+      ],
+      "special_situations": [
+        {
+          "event": "喜爱球队在上周的比赛中失利",
+          "conditional_assumptions": "如果一场比赛输了，就说明整个赛季都注定失败",
+          "compensatory_strategies": "尝试用其他爱好和活动来分散注意力，但回避与朋友讨论此事",
+          "automatic_thoughts": "整个赛季都毁了，他们以后也赢不了其他比赛",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在随后的比赛开始前或观看时（尚未有结果）",
+          "conditional_assumptions": "如果他们这场可能会输，那就意味着后面的比赛也会输",
+          "compensatory_strategies": "在观看时只关注负面细节，以验证担忧",
+          "automatic_thoughts": "这场多半又会很糟，季后赛没希望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "球队失利后的赛后回顾",
+          "conditional_assumptions": "失败说明积极因素都不重要或不算数",
+          "compensatory_strategies": "忽视团队配合与进步，只反复关注失误与不足",
+          "automatic_thoughts": "那些好的表现都不值一提，输就是全盘否定",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到与朋友分享自己的烦恼或在朋友谈论比赛时",
+          "conditional_assumptions": "如果我表达这些想法，朋友会觉得我夸张并评判我",
+          "compensatory_strategies": "避免与朋友讨论比赛与感受，保持沉默以减少被评判的风险",
+          "automatic_thoughts": "他们会觉得我太戏剧化，不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望确定性与完美的结果（赛季持续获胜、不被失望）",
+        "fear": "害怕失败与不确定带来的失望与失控感",
+        "defense_goal": [
+          "用非黑即白的规则来简化复杂情境，以降低焦虑感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "担心被视为“过度反应”的球迷，容易因失败而陷入负面",
+          "object_representation": "朋友被想象为不理解且会评判自己的人",
+          "linking_affect": "担心、羞愧、疏离感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到与朋友分享这些负面想法或朋友提及比赛时",
+          "interpretation": "来访者认为朋友会觉得自己戏剧化并不理解（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "倾向回避分享，保持保留；如需回应，用委婉、低强度语气，简短表达，避免深入细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为一次失利使整个赛季失去意义",
+            "难以享受原本喜欢的活动（阅读、看电影、看球）"
+          ],
+          "outcomes": [
+            "兴趣与享受度下降",
+            "对比赛和日常活动的投入减少"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有支持性朋友但不分享困扰，担心被认为戏剧化",
+            "与家人和朋友的关系因负面思维而趋于紧张"
+          ],
+          "outcomes": [
+            "社交疏离感增强",
+            "人际张力上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设朋友会认为自己夸张而不理解",
+            "因此不愿意与朋友讨论负面想法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "压抑向外表达与寻求支持的冲动",
+            "选择独自承受并不与朋友沟通"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络",
+          "工作与职业功能基本完好（工作表现未受影响）",
+          "愿意寻求帮助并尝试新的应对方式"
+        ],
+        "negative_force": [
+          "非黑即白思维显著",
+          "过度概括与灾难化预测未来",
+          "心理过滤，只关注负面细节",
+          "否定正面思考，难以承认积极因素",
+          "担心被评判而回避与他人沟通"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在球队失利后反复沉思并断言“赛季已毁”，并回避与他人讨论",
+          "antecedent": [
+            "喜欢的球队输球",
+            "新一场比赛开始前的预期情境"
+          ],
+          "core_reason": "以非黑即白的认知规则理解比赛结果，并将一次失败过度概括为长期灾难以寻求确定性",
+          "function": "通过简化为“全好或全坏”来获得心理上的确定感，避免面对失望与不确定",
+          "consequence": "难以享受观看比赛及其他活动；与家人朋友关系紧张、社交互动受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1573
+}

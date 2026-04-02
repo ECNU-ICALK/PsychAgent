@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "汤思凯",
+      "gender": "男",
+      "occupation": "在华尔街工作",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "独居，与一只贵宾犬Nanette同住",
+      "social_status": "在纽约有几位亲密朋友可谈，但尚未就此问题寻求他们的支持",
+      "medical_history": "无重大躯体疾病；未接受过其他心理治疗；无类似问题史",
+      "language_features": "表达清晰、逻辑较为连贯、态度中性、能进行自我反思、配合度较高"
+    },
+    "main_problem": "我经常觉得自己是最糟糕的狗主人，因为在去华尔街上班前忘记抚摸我的贵宾犬Nanette，这导致内疚、自我批评和自我不足感。",
+    "topic": "情绪管理",
+    "core_demands": "持续的内疚与自我批评开始影响情绪与工作专注，因而寻求咨询",
+    "growth_experiences": [
+      "几个月前收养了贵宾犬Nanette；起初因适应与宠物相处的新日常而压力较高；随着时间推移问题加重，尤其在忙碌的工作日容易忘记简单任务（如出门前抚摸Nanette），由此几乎每天出现内疚与自我批评，影响工作专注、睡眠与饮食。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是最糟糕的狗主人",
+        "如果在照料上出现小错误，我在其他方面也会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "在忙碌的工作日、出门去华尔街上班前忘记抚摸Nanette",
+          "conditional_assumptions": "如果我连这样的小细节都记不住，就说明我在忽视她、是个糟糕的主人",
+          "compensatory_strategies": "整日不断反刍并提醒自己曾经做过的照料与关爱，希望借此缓解内疚",
+          "automatic_thoughts": "这是场灾难，我是最糟糕的狗主人",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在生活中出现微小的失误或忘记简单任务时",
+          "conditional_assumptions": "如果出现一次差错，就表示整体失败、所有努力都被抹除",
+          "compensatory_strategies": "用负面标签进行自我批评以迫使自己更加谨慎",
+          "automatic_thoughts": "一个失误就把一切都毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作中被“自己是坏主人”的想法干扰注意力",
+          "conditional_assumptions": "如果我不能照顾好宠物，就说明我在其他领域也不行",
+          "compensatory_strategies": "在工作中反复思考并试图自我纠正，以求恢复控制感",
+          "automatic_thoughts": "我连宠物都照顾不好，工作也会失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到忘记抚摸后，联想Nanette的感受",
+          "conditional_assumptions": "如果我忘记抚摸她，她一定会失望并因此受伤",
+          "compensatory_strategies": "不与朋友讨论这些感受，选择独自承担以避免被评价",
+          "automatic_thoughts": "她一定很失望，我在伤害她",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为负责任、温暖且合格的照料者（对宠物的爱与价值感）",
+        "fear": "害怕因为一次疏忽而被否定为“坏主人”，并由此推及到自我整体的失败",
+        "defense_goal": [
+          "通过加强自我监控与自我苛责来维持高标准、避免再次犯错，从而减少被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚且可能失败的照料者",
+          "object_representation": "容易被我伤害、会对我感到失望的宠物",
+          "linking_affect": "内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当意识到自己在出门前忘记抚摸宠物，或被工作中的念头提醒这一失误时",
+          "interpretation": "将一次疏忽等同于全面失败，并将自我定位为“坏主人”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责语气与绝对化词汇（如“最糟糕”），忽略积极证据，强化负面标签。"
+        },
+        {
+          "trigger_condition": "当咨询师提出重构视角或布置识别与改写灾难化思维的作业时",
+          "interpretation": "倾向以理性分析处理，弱化情绪接触，试图通过计划与逻辑来掌控不安",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、理性、计划化的语言回应，强调方法与步骤，减少情绪表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "收养宠物后对“选择即伴随责任”的议题高度敏感",
+            "担心一次疏忽便意味着自己未尽责",
+            "忙碌日常中忘记细节引发持续自我审判"
+          ],
+          "outcomes": [
+            "显著的内疚与自我批评",
+            "工作专注受损",
+            "睡眠与饮食节律被打乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居生活",
+            "虽有几位朋友但未就此问题寻求支持与分享"
+          ],
+          "outcomes": [
+            "反刍与自我否定加重",
+            "情绪负担难以缓解、恢复慢"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“最糟糕的狗主人”等绝对化标签评价自我",
+            "将“每次出门前都必须抚摸宠物”视为不可违背的硬性标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "未向朋友讨论这类内疚，选择独自承受",
+            "将应对失误的能量转为自我苛责与自我批评"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对微小错误过度苛责与警惕",
+            "频繁以负面标签评价自我、担忧全面失败"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对宠物有强烈的责任心与关爱（喂养、每日散步、陪伴玩耍）",
+          "具备理性反思能力并愿意尝试认知重构",
+          "拥有一定的社会支持资源（在纽约有几位朋友）",
+          "主动寻求专业帮助、动机良好"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "过度自我批评与负面标签化",
+          "反刍内疚导致注意力分散与情绪低落",
+          "工作压力与繁忙日程增加遗忘与失误概率",
+          "睡眠与饮食节律受损，恢复与调节能力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对忘记抚摸宠物的事件产生持续的内疚与自我批评（反刍）",
+          "antecedent": [
+            "忙碌的工作日",
+            "出门去华尔街上班前忘记抚摸Nanette",
+            "生活中出现任何微小错误或忘记简单任务"
+          ],
+          "core_reason": "对照料的完美化与灾难化认知，担心让宠物失望，将一次失误推及整体失败并内化为高标准自我要求",
+          "function": "通过自责与过度警惕来获得控制感、避免再次犯错（逃避不确定与被否定的风险）",
+          "consequence": "情绪低落、工作注意力下降、睡眠与饮食节律被打乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 758
+}

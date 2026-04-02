@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "刘婷",
+      "gender": "女",
+      "occupation": "房地产办公室员工",
+      "educational_background": "大学学历",
+      "marital_status": "恋爱中（与上司交往）",
+      "family_status": "未提及",
+      "social_status": "与上司恋爱关系导致工作压力增大；与客户频繁互动；有一位亲密朋友但未分享具体恐惧",
+      "medical_history": "无显著身体疾病；未接受过心理治疗；无类似问题既往史",
+      "language_features": "表达清晰，逻辑完整，配合度高；能识别并描述自动化思维与其影响；态度积极，但焦虑显著"
+    },
+    "main_problem": "我持续担心客户会认为我在房地产工作中对他们说谎或欺骗他们。",
+    "topic": "职业发展",
+    "core_demands": "当这些侵入性思维影响我的工作表现和与上司的关系时，我决定寻求咨询。我想在工作和与客户互动中更自信、减少焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被信任",
+        "如果我不能完美表现，就会被否定并失去工作"
+      ],
+      "special_situations": [
+        {
+          "event": "与客户进行直接对话",
+          "conditional_assumptions": "如果客户在任何细节上表现出怀疑，就说明我不诚实或不专业",
+          "compensatory_strategies": "不断自我安慰与事实核查、强调信息准确性以求证明自己",
+          "automatic_thoughts": "他们会觉得我在说谎或欺骗他们。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "准备房产展示或审阅房源信息",
+          "conditional_assumptions": "如果我不能做到完美准备，客户一定不会信任我",
+          "compensatory_strategies": "反复检查材料、过度准备以避免任何错误",
+          "automatic_thoughts": "如果有一点遗漏，客户就会认为我不可信。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作中回想可能的客户反应",
+          "conditional_assumptions": "如果曾有客户沉默或表情冷淡，就意味着大多数客户都不信任我",
+          "compensatory_strategies": "减少与客户深入交流，转而强调程序与事实以降低风险",
+          "automatic_thoughts": "所有客户都会觉得我不诚实。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "考虑与上司的关系对工作评价的影响",
+          "conditional_assumptions": "如果我表现稍有不足，就会被认为是不专业，进而丢掉工作",
+          "compensatory_strategies": "对工作细节过度谨慎，自我苛责以确保没有任何被攻击的点",
+          "automatic_thoughts": "我可能因此失去工作。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被客户与上司信任、认可与肯定",
+        "fear": "害怕被视为不诚实、被否定并失去工作与关系",
+        "defense_goal": [
+          "通过完美表现与事实核查来降低被质疑的风险",
+          "保持谨慎与自我约束以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被质疑、不被信任的从业者",
+          "object_representation": "挑剔、会怀疑她动机的客户",
+          "linking_affect": "焦虑、恐惧"
+        },
+        {
+          "self_representation": "需要通过完美来换取认可的下属",
+          "object_representation": "压力与评判并存的上司/权威",
+          "linking_affect": "紧张、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与客户直接交流或准备展示时，感到对方可能不信任自己",
+          "interpretation": "来访者将客户的中性信号解读为对其不诚实的判断（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平稳、专业的语气强调事实与流程，罗列证据与细节，尽量不涉及感受与不确定性。"
+        },
+        {
+          "trigger_condition": "当被询问是否向亲密朋友分享焦虑或在关系中表达担忧时",
+          "interpretation": "认为表达脆弱可能引发他人负面评价或增加麻烦",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简单承认存在担忧但不展开细节，语气克制，若对话深入则转移到具体工作事项。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "尽管有亲密朋友，但未向其倾诉具体的恐惧与担忧",
+            "在职场中感到他人不会信任自己，产生隔离感"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠与饮食紊乱",
+            "与上司的关系紧张"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在与上司的恋爱关系与工作压力中感到必须完美，体验到选择受限与外界期待的束缚"
+          ],
+          "outcomes": [
+            "持续自我监控与完美主义倾向",
+            "担心失去工作导致未来选择受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "频繁假设客户会认为她不诚实或欺骗",
+            "将内在的怀疑归因于客户的想法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自我核查与事实验证以避免错误",
+            "担心表现不够完美而过度谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与客户互动的情境中，来访者通常会担心被认为不诚实，导致焦虑升级并影响工作表现。",
+          "unique_outcome": "某位客户对她的房源搜索表示非常感激，并写了感谢信；当时她的服务被积极认可，焦虑相对减轻。",
+          "reason": "不同支持：客户提供了积极反馈与感谢；不同情境：业务流程顺畅、信息透明；做法不同：保持诚实开放的沟通与专业展示。"
+        },
+        {
+          "target_problem": "在房产展示或客户看房的场景中，来访者通常会预期负面评价并紧张失误。",
+          "unique_outcome": "一次看房中，一对夫妇称赞她的专业度与表现，互动顺畅，她更能投入当下。",
+          "reason": "不同支持：客户的即时称赞与正向互动；做法不同：专注当前需求、提供清晰信息；情境不同：展示流程顺利、无意外干扰。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得客户的感谢与称赞，说明具备专业能力与良好服务",
+          "愿意寻求咨询并保持积极态度",
+          "能够进行事实核查与自我监督，重视诚信",
+          "有可依靠的社交资源（有一位亲密朋友）"
+        ],
+        "negative_force": [
+          "跳到结论的认知偏差（Mind Reading、Fortune Telling、Overgeneralization）",
+          "完美主义压力与对外部评价的依赖",
+          "工作相关焦虑导致睡眠与饮食紊乱，进一步削弱功能",
+          "对亲密朋友隐瞒困扰，支持系统未被有效使用",
+          "担心失去工作，持续的负面未来预期"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与客户交流或展示房产时出现显著焦虑与偏执性担忧",
+          "antecedent": [
+            "与客户直接对话",
+            "准备或进行房产展示",
+            "审阅房源信息",
+            "想到与上司的关系可能影响评价"
+          ],
+          "core_reason": "跳到结论的认知偏差（读心术、预测未来）与完美主义压力，担心被视为不诚实并失去工作",
+          "function": "逃避被质疑与负面评价的风险，寻求安全感与控制",
+          "consequence": "工作表现下降；与上司关系紧张；睡眠与饮食紊乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1692
+}

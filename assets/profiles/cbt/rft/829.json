@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "有志成为歌手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "父亲曾在GE工作；其余未提及",
+      "social_status": "有一位可以谈心的挚友，但尚未与其分享该信念；深层连接受影响",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "初次会面略显忐忑但合作；表达清晰、能反思；语气谨慎、配合度良好"
+    },
+    "main_problem": "我相信动物并不回报我对它们的爱，这使我感到被拒绝和孤独；近一年更为突出，收养宠物狗后尤为明显。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这种信念影响了我的情绪健康，想与咨询师一起处理并改变它。",
+    "growth_experiences": [
+      "童年时期长期感到不被爱，被来访者视为当前“不被爱”的信念根源；该感受自记事起便存在，近一年在收养宠物狗后更加凸显。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "别人（包括动物）不会真正关心我"
+      ],
+      "special_situations": [
+        {
+          "event": "收养宠物狗后在日常互动中感觉对方反应平淡或独立",
+          "conditional_assumptions": "如果对方没有持续、明确的亲密回应，就说明他不爱我",
+          "compensatory_strategies": "投入大量时间陪伴与示好，同时在心理上预设不被爱以降低失望",
+          "automatic_thoughts": "他（狗）并不在乎我/不爱我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当宠物狗出现摇尾、依偎等可能的亲近行为",
+          "conditional_assumptions": "只有符合我预期的显性标志才算“爱”，其他积极迹象都不算数",
+          "compensatory_strategies": "将积极信号解释为习惯或条件反射以避免抱有期待",
+          "automatic_thoughts": "这只是习惯，不是爱",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与挚友相处、想到要分享自己的这一信念",
+          "conditional_assumptions": "如果暴露脆弱，就会被评判与拒绝",
+          "compensatory_strategies": "保持沉默、回避自我披露以自我保护",
+          "automatic_thoughts": "他会觉得我很奇怪/不正常",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到追求歌手梦想并面对他人/观众的评价",
+          "conditional_assumptions": "如果得不到他人的欣赏，就证明我没有价值",
+          "compensatory_strategies": "自我怀疑、减少尝试以避免被拒绝",
+          "automatic_thoughts": "没有人会欣赏我的歌声",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱、被接纳并与他者建立亲密连接（包括与动物）",
+        "fear": "害怕被拒绝、被评判，爱得不到回应",
+        "defense_goal": [
+          "通过降低期待与保持情感防备来减少受伤可能",
+          "以“对方不在乎”的预设来获得可控与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被爱的、随时会被忽视的自我",
+          "object_representation": "冷漠、评判、不会回应的他者（动物/朋友/观众）",
+          "linking_affect": "孤独、悲伤、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向重要他人（如挚友或咨询师）袒露脆弱与需求时",
+          "interpretation": "对方会像过去的人一样评判或拒绝我（将早年“不被爱”的经验投射到当下关系）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎、含糊其词，减少细节披露；提前自嘲或弱化以降低被评判的风险。"
+        },
+        {
+          "trigger_condition": "当注意到宠物狗出现亲昵信号（如摇尾、依偎）时",
+          "interpretation": "把对方的靠近理解为无意义的习惯，以免承认自己被需要与被爱",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性化语言（如“只是条件反射/习惯”）淡化情绪与亲密需要。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "童年长期感到不被爱",
+            "与动物互动中反复体验“对方不爱我”",
+            "担心被评判而不向挚友表达",
+            "在歌手梦想上预期无人欣赏"
+          ],
+          "outcomes": [
+            "持续的孤独与被拒体验",
+            "动机下降、对喜爱活动的投入减少",
+            "回避自我披露与尝试，关系亲密度受限",
+            "职业追求受影响、内心自我怀疑增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的表达/请求，将能量转向自己，避免向外寻求。",
+          "manifestations": [
+            "不向挚友分享核心信念，选择自己消化痛苦",
+            "降低期待以免失望",
+            "在关系中收敛真实需求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设朋友会觉得自己“很奇怪/不正常”",
+            "将“不会被爱”的信念投射到动物与他人",
+            "在追求歌手梦想时预设观众不会欣赏"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和自我限制，过于小心谨慎、伴随自我苛责。",
+          "manifestations": [
+            "初次会面时表达“有点忐忑”，用词谨慎",
+            "对自我评价严格，担心被他人评判",
+            "在表达需求与情感时明显收敛"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一位可以倾诉的挚友（潜在支持可激活）",
+          "愿意求助并接受探索与行为实验",
+          "对动物的爱与持续投入",
+          "能注意到狗的积极信号（如摇尾、依偎）",
+          "有清晰的职业愿景与热爱（想成为歌手）"
+        ],
+        "negative_force": [
+          "“我不被爱”的消极核心信念根深蒂固",
+          "读心与预设拒绝（Jumping to conclusions: mind reading）",
+          "否定积极信息（Disqualifying the Positive）",
+          "对外部认可的过度依赖，担心无人欣赏",
+          "害怕评判导致回避自我披露与主动尝试"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在人际互动中回避自我披露（尤其不向挚友谈及核心信念）",
+          "antecedent": [
+            "与挚友相处、想到要分享自己的信念与感受",
+            "预期他人可能评判自己"
+          ],
+          "core_reason": "童年“不被爱”体验内化为信念，引发对评判与拒绝的恐惧",
+          "function": "逃避潜在的羞耻与被拒体验，以短期缓解焦虑",
+          "consequence": "关系深度受限、亲密感降低，孤独与被拒感加剧"
+        },
+        {
+          "behavior": "与宠物狗互动时将积极信号负性解读并沉浸于被拒情绪",
+          "antecedent": [
+            "狗的中性或亲近行为（如摇尾、依偎）",
+            "独处时回想狗的冷淡时刻"
+          ],
+          "core_reason": "“我不被爱”的核心信念与读心倾向强化负性解释",
+          "function": "通过降低期待与否定积极证据来自我保护，避免失望",
+          "consequence": "正向互动体验减少，悲伤与孤独加重，养宠物的满足感降低"
+        },
+        {
+          "behavior": "在歌唱追求上自我怀疑、减少公开演唱或高曝光练习",
+          "antecedent": [
+            "想到他人/观众对歌声的评价",
+            "面对尝试或表演机会"
+          ],
+          "core_reason": "预期不被欣赏、过度依赖外部认可，害怕失败与拒绝",
+          "function": "逃避潜在负面评价以维持短期情绪稳定",
+          "consequence": "职业进展受阻、练习与演出机会减少、动力下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 829
+}

@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "周岚",
+      "gender": "女性",
+      "occupation": "美发沙龙店主",
+      "educational_background": "美容美发执照",
+      "marital_status": "已婚",
+      "family_status": "与配偶居住在船上",
+      "social_status": "有一位亲密朋友可交谈，但因对婚姻疑虑感到尴尬而少与其讨论",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题或心理治疗经历",
+      "language_features": "表达清晰、逻辑较好，能自我反思并配合度高；情绪以焦虑为主，倾向关注负面细节并与他人比较"
+    },
+    "main_problem": "我一直觉得婚姻之所以还在维持，是因为丈夫过于善良不去结束；这些怀疑从我们第一周年纪念时开始。",
+    "topic": "婚姻关系",
+    "core_demands": "持续的怀疑和消极想法造成显著困扰，影响婚姻与日常生活，希望通过咨询缓解这些想法与痛苦、恢复工作专注并改善关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "只有达到他人/社会标准的婚姻才算好"
+      ],
+      "special_situations": [
+        {
+          "event": "看到看似幸福完美的夫妻（如在日常生活或社交场景中）并进行比较",
+          "conditional_assumptions": "如果我们的关系达不到社会所谓“完美婚姻”的标准，就说明婚姻有问题、我不被爱",
+          "compensatory_strategies": "反复与他人比较、向配偶寻求安慰与确认但难以吸收正面证据",
+          "automatic_thoughts": "我们的婚姻不如别人，他可能只是太善良才没离开我",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与丈夫发生小的分歧或争执",
+          "conditional_assumptions": "如果他真的爱我，就不会与我发生争执；一有争执就意味着他厌倦我并准备离开",
+          "compensatory_strategies": "争执后过度解读对方举动、保持警惕与疏离以自我保护或反复求证",
+          "automatic_thoughts": "他肯定已经受够我了，可能在计划离开我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "丈夫在争执后冷静、给空间并回头沟通、平时支持与安慰",
+          "conditional_assumptions": "如果我仍感到怀疑，说明他的安慰并非出于爱而是出于善良或礼貌",
+          "compensatory_strategies": "否定积极证据、只关注负面线索来维持怀疑与防御",
+          "automatic_thoughts": "他只是太好心，不好意思说分开",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "触发一周年纪念等里程碑时刻，联想到“我们是否足够好/够幸福”",
+          "conditional_assumptions": "如果第一年并不“完美”，那以后也难以幸福，关系可能注定不好",
+          "compensatory_strategies": "以单次/短期体验推断整体和未来，用更多比较来寻找“确定性”",
+          "automatic_thoughts": "我们只是勉强维持到现在，接下来只会更糟",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱、被确认与被长期承诺，获得关系中的安全与亲密",
+        "fear": "害怕被抛弃、被拒绝或不被真正爱；害怕关系不达标而被否定",
+        "defense_goal": [
+          "通过提前怀疑和过度警觉来降低被抛弃时的打击",
+          "通过否定积极证据维持心理上的“可控感”",
+          "以社会标准框架解释关系以避免直面脆弱的依恋需要"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、可能不被爱的伴侣",
+          "object_representation": "过于善良但随时可能离开的配偶",
+          "linking_affect": "焦虑、不安、惶恐"
+        },
+        {
+          "self_representation": "不达标、需要被修正的人",
+          "object_representation": "社会/他人是苛刻的评判者",
+          "linking_affect": "羞耻、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当出现小的关系摩擦或争执时",
+          "interpretation": "将对被抛弃的恐惧投射为“他肯定要离开我”（移情：将内在不安归因于对方的意图）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用肯定句断言对方意图（如“他一定厌倦我了”），语气急促，忽略与此相反的证据。"
+        },
+        {
+          "trigger_condition": "当配偶表现出耐心、支持与安慰时",
+          "interpretation": "将对被爱的渴望与不确定感转化为解释：他只是“善良/礼貌”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平静但疏离，将积极关怀解释为“出于善良而非爱”，回避表达真实脆弱需求。"
+        },
+        {
+          "trigger_condition": "当谈及婚姻是否符合社会“完美标准”时",
+          "interpretation": "以抽象标准和概念取代主观情感体验，强调“达标/不达标”的判断",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "大量使用抽象与评判性术语（如“社会标准”“完美婚姻”），避免描述当下具体感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "持续怀疑配偶的爱与承诺，难以内化安慰与支持",
+            "与他人比较后感到关系“不达标”，产生疏离感"
+          ],
+          "outcomes": [
+            "焦虑与不安增加，睡眠受影响",
+            "关系紧张与亲密感下降，日常功能受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "以社会“完美婚姻”标准评估关系价值，忽略自身体验中的积极部分"
+          ],
+          "outcomes": [
+            "对关系的信任与投入感下降，产生空虚感与困惑",
+            "工作专注度与自我照料下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以社会对“完美婚姻”的标准来衡量自我与关系价值",
+            "在比较他人关系时忽视自身关系中的独特性与积极体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对表达婚姻疑虑感到尴尬而减少向朋友求助",
+            "频繁自我怀疑、过度在意负面线索"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "配偶稳定、耐心且愿意沟通与安慰",
+          "来访者有自我观察能力，能觉察自己关注负面并愿意求助",
+          "存在一定的社会支持（有一位可倾诉的朋友）",
+          "对改善关系与恢复功能有动机，愿意尝试现实检验与重构观点"
+        ],
+        "negative_force": [
+          "过度比较与外部标准导向，依赖社会“完美婚姻”评判",
+          "认知歪曲显著（读心术、过度概括、否定积极、心理过滤）",
+          "对被抛弃的担忧与不确定性耐受低，倾向灾难化推断",
+          "持续负性反刍影响睡眠、自我照料与工作专注",
+          "羞于寻求支持，积极证据难以被内化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复怀疑配偶的爱与承诺（负性反刍与警觉）",
+          "antecedent": [
+            "与丈夫发生小的分歧或争执",
+            "看到看似幸福的夫妻并进行比较",
+            "想起结婚一周年等里程碑时刻",
+            "在工作中分心联想到婚姻问题"
+          ],
+          "core_reason": "对被抛弃的恐惧与不确定性低耐受，受社会“完美婚姻”标准影响产生灾难化与过度概括的解释",
+          "function": "短期内通过怀疑与警觉来寻求确定性、避免被抛弃带来的情感打击",
+          "consequence": "婚姻关系紧张，工作表现下降，睡眠与自我照料受损，负性循环加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 248
+}

@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "刘珂",
+      "gender": "女",
+      "occupation": "卡车司机",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与妻子育有两个孩子，家庭成员经常一起露营",
+      "social_status": "与队友关系因其过度关注胜利而变得紧张；家人可提供支持但其自述对自己负性思维的程度理解有限",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、条理较好，能识别并描述自身情绪与想法；合作度高；情绪基调略显挫败但具备反思与改变意愿"
+    },
+    "main_problem": "我觉得如果我的业余棒球队没有赢，那整个比赛就是在浪费时间和精力。这种想法导致我感到失望和沮丧。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到消极思维模式影响了我对活动的整体享受并增加了生活压力，因此寻求咨询。",
+    "growth_experiences": [
+      "大约一年前球队经历连败后，来访者开始形成“只有赢才值得”的评价标准，逐渐只关注胜利、忽视比赛中的积极方面，这一心态随时间变得更加僵化。",
+      "对团队表现抱有较高期待，认为这增加了自身压力，进而影响到与队友的关系及周末露营等休闲体验的愉悦感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有赢才有价值，输就是在浪费时间和努力",
+        "我的投入只有在取得胜利时才有意义"
+      ],
+      "special_situations": [
+        {
+          "event": "比赛失利后",
+          "conditional_assumptions": "如果比赛没有赢，那么我所有的时间与努力就毫无意义",
+          "compensatory_strategies": "提高对自己和球队的期望，赛后反复聚焦失利并以胜负作为唯一评判标准",
+          "automatic_thoughts": "这场比赛白费了，我不该来",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "连败期间在比赛开始前或比赛过程中",
+          "conditional_assumptions": "如果近期经常输球，那么这次也会输，努力也没有价值",
+          "compensatory_strategies": "提前在心理上将失败视为既定，以降低不确定带来的焦虑",
+          "automatic_thoughts": "我们这次又要输了，这一切都是白忙",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在一场失利的比赛中完成一次精彩接球后",
+          "conditional_assumptions": "除非整场赢，否则任何单个好表现都不算数",
+          "compensatory_strategies": "忽视或贬低正向片段，只强调失利的结局",
+          "automatic_thoughts": "那次接球也没什么用，因为我们输了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "周末与家人露营时回想起球队的失利",
+          "conditional_assumptions": "如果比赛输了，我就无法享受其他活动的乐趣",
+          "compensatory_strategies": "将注意力固定在比赛的负面上，减少对家庭活动的投入",
+          "automatic_thoughts": "想到输球就觉得露营也没意思",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "通过胜利获得价值感与认可，体验掌控与成就",
+        "fear": "害怕失败使努力变得毫无意义，担心被视为无能或令人失望",
+        "defense_goal": [
+          "以胜负为唯一标准来保护自尊并减少对失败的焦虑",
+          "通过贬低或压抑积极情绪避免直面失利带来的失落"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "苛求自我的竞争者（必须取胜的人）",
+          "object_representation": "评判与挑剔的他人（队友/他人眼光）",
+          "linking_affect": "挫败、压力、内疚"
+        },
+        {
+          "self_representation": "努力却被结果否定的参与者",
+          "object_representation": "只看结果的否定者",
+          "linking_affect": "失望、无意义感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当球队失利或他人强调“过程/乐趣”价值时",
+          "interpretation": "将对过程的关注理解为在粉饰失败，认为不赢就等于浪费",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气坚定，使用“应该/必须”等词，强调结果至上，否定对过程的关注。"
+        },
+        {
+          "trigger_condition": "当被邀请回忆比赛中的积极瞬间（如精彩接球）",
+          "interpretation": "正向体验不重要，输球才决定一切",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "快速淡化积极情绪，以客观叙述回避感受，随即转回失败话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将胜负作为唯一的意义来源，认为不赢就“浪费时间与精力”",
+            "比赛结果影响到周末露营等休闲活动的主观意义感",
+            "对连败的经历后更专注结果而忽略过程中的价值与联结"
+          ],
+          "outcomes": [
+            "挫败与失望情绪加重",
+            "生活与活动的愉悦感下降",
+            "与队友关系紧张、团队士气受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "在会谈中反复以“赢才有意义”的规则评判自我和活动",
+            "语言中出现“应该/不该”的自我要求（如“不赢就不该来”）",
+            "最初将比赛中的积极瞬间推开，难以允许自己享受当下"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在比赛失利时，来访者通常会认为投入是浪费，情绪低落并忽视比赛中的积极瞬间，导致对运动的享受下降。",
+          "unique_outcome": "在某次失利的比赛中，她在外野完成了一次精彩接球，当下感到兴奋与自豪，短暂体验到成就与乐趣。",
+          "reason": "线索：挑战不熟悉的位置并成功完成高难度动作，带来即时的掌控感与正向反馈，使注意力暂时从结果转向过程。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能觉察并命名自身的负性思维模式，愿意求助",
+          "享受比赛过程与家庭相处，具备内在的愉悦资源",
+          "稳定的工作功能与家庭支持（妻子与两个孩子）",
+          "愿意尝试记录与重构思维（如同意写思想日记）"
+        ],
+        "negative_force": [
+          "非黑即白的胜负标准与过高期望",
+          "否定正向经验、心理过滤并倾向预测失败",
+          "将胜负等同于价值感，导致压力与挫败",
+          "担心影响团队士气而产生自责，增加人际紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "输球后将比赛定义为“白费”并出现显著挫败感",
+          "antecedent": [
+            "球队失利",
+            "连败背景下的比赛"
+          ],
+          "core_reason": "将胜负等同于投入与价值的核心信念以及对失败的灾难化解释",
+          "function": "通过贬低活动意义来逃避失败带来的无力感与不确定，寻求控制与自我保护",
+          "consequence": "比赛与生活的乐趣下降，压力升高，与队友关系紧张"
+        },
+        {
+          "behavior": "赛前或比赛中反复预测失败、专注于负面",
+          "antecedent": [
+            "比赛开始前想到过往连败",
+            "比赛过程中出现失误或对手得分"
+          ],
+          "core_reason": "对未来结果的消极预期与确认偏误，源于连败后形成的僵化假设",
+          "function": "试图通过提前预设最坏结果来降低焦虑与不确定感",
+          "consequence": "注意力被负面占据，体验与发挥受损，进一步强化消极信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 913
+}

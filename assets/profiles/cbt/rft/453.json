@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "杨安婕",
+      "gender": "女",
+      "occupation": "法律助理",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与朋友和家人同住",
+      "social_status": "与朋友和家人一起参与行动主义活动，但未与他们讨论自己的不足感",
+      "medical_history": "无显著躯体疾病；无既往心理问题治疗经历；未曾出现类似问题",
+      "language_features": "表达清晰、能回忆具体事件；语气偏消极，频繁自我否定；对正向反馈持怀疑态度；配合度尚可，愿意尝试但保持谨慎"
+    },
+    "main_problem": "觉得自己的行动主义工作缺乏影响力与挑战性，导致自我不足感和缺乏满足感。",
+    "topic": "自我探索",
+    "core_demands": "意识到自我不足感正在影响自己的目的感与整体满意度，因此希望通过咨询加以处理和改善。",
+    "growth_experiences": [
+      "约一年前因对法律助理工作的个人满足感较低，开始将其与行动主义工作进行比较；比较之后，两者都显得平淡与无意义，逐渐形成“我的努力不重要、任何人都能做”的自我贬低倾向。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的贡献不具价值或影响力"
+      ],
+      "special_situations": [
+        {
+          "event": "社区会议结束后回顾自己的发言与贡献",
+          "conditional_assumptions": "如果我的贡献不独特或不显著，就没有价值",
+          "compensatory_strategies": "将成果归因于集体、淡化个人作用以避免自我期望与外界评价",
+          "automatic_thoughts": "我做的事谁都能做，我不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与他人讨论政治议题后",
+          "conditional_assumptions": "如果看不到可见的改变或持续的认可，说明我的行动没有意义",
+          "compensatory_strategies": "强调需要外部认可、否定零星的正向反馈",
+          "automatic_thoughts": "看不到成果，这都不算数",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "将行动主义与法律助理工作进行比较",
+          "conditional_assumptions": "如果工作不具挑战性或意义，我就是平庸的",
+          "compensatory_strategies": "不断比较两者以证明自身不足，降低自我期望",
+          "automatic_thoughts": "两边都很平淡、没意义，我是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到朋友或家人的正面反馈（如称赞演讲鼓舞人心）",
+          "conditional_assumptions": "如果只有个别人的赞赏，就不代表真正的价值",
+          "compensatory_strategies": "将赞美解释为“只是好心”并予以否定，避免承认个人价值",
+          "automatic_thoughts": "他们只是客套，我的表现不算好",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过行动与工作获得被认可的价值感与意义感",
+        "fear": "害怕自己平庸、无意义；害怕他人评价否定自己",
+        "defense_goal": [
+          "通过否定正向反馈与强调外部标准来降低自我期望，以避免面对可能的失败或批评",
+          "保持自我贬低以维持“安全”的低期待，减少被否定时的痛苦"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "平庸、缺乏影响力的贡献者",
+          "object_representation": "他人是不真诚的评价者或更有能力的竞争者（赞美只是出于好意）",
+          "linking_affect": "自卑、失望"
+        },
+        {
+          "self_representation": "集体中的微不足道成员",
+          "object_representation": "强大的集体与外部标准（媒体、可见成果、持续认可）",
+          "linking_affect": "渺小、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其成就或邀请其回忆正向时刻（如成功的集会）",
+          "interpretation": "认为这些正面信息被过度美化、不够真实；担心被夸大后会被否定",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以怀疑语气回应，使用“这不算”“只是运气好”来否定正向信息，避免深入讨论个人贡献。"
+        },
+        {
+          "trigger_condition": "当被具体追问“你做了什么让集会成功”时",
+          "interpretation": "感到被要求自我夸耀、担心暴露不足而被评判",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "把成功主要归因于集体与外部因素（“大家一起努力”“媒体刚好关注”），回避谈及个人具体贡献。"
+        },
+        {
+          "trigger_condition": "当被邀请列出近期的小成就或正向反馈时",
+          "interpretation": "认为小成就不重要，只有大成果与持续认可才算价值",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
+          "response_instruction": "使用“应该/必须”类语句强调高标准，弱化“鼓舞了一个人”等微小成果的重要性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为行动主义工作不够有影响力与挑战性",
+            "将法律助理工作与行动主义比较后，两者都显得平淡与不重要",
+            "正向时刻（成功集会、鼓舞他人）也被快速淡化"
+          ],
+          "outcomes": [
+            "自我不足感加重",
+            "主观满足感下降",
+            "目的感与整体满意度受损",
+            "与朋友和家人的关系受到影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "强调需要“可见成果”“持续认可”才算价值",
+            "以高外部标准评判自身，否定微小成就"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在被赞美时转而强调不足与限制",
+            "以“这只是一个人”等说法弱化正向反馈"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复说“我不够好”并自我否定",
+            "对积极建议持怀疑态度但谨慎尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在参与行动活动或讨论政治议题后，来访者通常会否定自身贡献、产生“我不够好”的想法，并感到不满足与无意义。",
+          "unique_outcome": "在一次成功组织的集会中，现场参与度高且获得媒体报道，来访者当下感到有影响力与连结，体验到短暂的满足与意义感。",
+          "reason": "线索：集体协作良好、传播有效、现场互动积极并获得外部关注与反馈，使得来访者更容易觉察到具体影响。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备组织与协调能力（曾成功组织集会并获得媒体关注）",
+          "拥有朋友与家人的社会支持网络",
+          "愿意尝试记录小成就等新方法、配合度尚可",
+          "能够清晰表达并回忆具体事件，有自我观察的基础"
+        ],
+        "negative_force": [
+          "否定正向（Disqualifying the Positive）倾向强",
+          "过度比较（Comparing and Despairing）",
+          "依赖外部认可（External Validation），难以内化自我价值",
+          "心理过滤与过度概括导致自我贬低"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在行动主义与工作相关情境中出现自我贬低与否定正向的自动化思维（如“我不够好”“任何人都能做”）",
+          "antecedent": [
+            "参与社区会议后",
+            "与他人讨论政治议题时",
+            "收到来自朋友或家人的正面反馈时",
+            "将行动主义与法律助理工作进行比较时"
+          ],
+          "core_reason": "受“我不够好”“我的贡献不具价值”的核心信念驱动，并对外部认可高度依赖；伴随心理过滤、过度概括与比较倾向。",
+          "function": "自我保护与逃避潜在的失败与被评判的焦虑（通过降低自我期望与否定正向来减少不适）。",
+          "consequence": "主观满足感与目的感降低；人际关系受影响；行动动力与工作满意度下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 453
+}

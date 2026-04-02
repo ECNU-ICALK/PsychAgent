@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "陈梅",
+      "gender": "女",
+      "occupation": "橄榄球运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，养一只宠物狗",
+      "social_status": "有少数朋友可以倾诉，但他们不完全理解比赛压力；与队友关系因自我苛责而紧张",
+      "medical_history": "无显著身体疾病；过去未曾接受过心理治疗；此前未出现类似问题",
+      "language_features": "表达清晰、合作度高、能具体描述事件与感受；语气偏中性；倾向自我批评与反复思考"
+    },
+    "main_problem": "在最近的橄榄球比赛开场回合犯错，觉得该错误导致球队输球并错失地区赛资格，继而产生内疚、自责和失望；问题发展为赛前和训练中的焦虑与对自身能力的怀疑。",
+    "topic": "职业发展",
+    "core_demands": "我意识到自责和焦虑影响了我的发挥和对橄榄球的享受，因此希望在咨询中获得指导与支持；我想走出这次事件，重新享受比赛。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "比赛开场回合失误后，球队落败并错失地区赛资格",
+          "conditional_assumptions": "如果我在关键时刻犯错，就说明整场比赛的失败要由我负责",
+          "compensatory_strategies": "过度自责、否定自身贡献与优点",
+          "automatic_thoughts": "我的一次失误毁了所有，都是我的错",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "赛前或训练时回想那次失误并感到压力",
+          "conditional_assumptions": "如果我再次犯错，球队就会再次失败，我会让大家失望",
+          "compensatory_strategies": "加倍练习、反复观看比赛录像、在情绪上高度紧张",
+          "automatic_thoughts": "我会再次搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与队友和教练互动时，对方未明确表达责备",
+          "conditional_assumptions": "如果他们保持沉默，说明他们在暗地里责怪我",
+          "compensatory_strategies": "回避交流、与队友保持距离以减少被评价的可能",
+          "automatic_thoughts": "他们心里都在怪我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "赛后观看比赛录像并进行自我复盘",
+          "conditional_assumptions": "如果我在某个回合表现不佳，就证明我整体不够好",
+          "compensatory_strategies": "反复观看录像、过度分析自身错误以求弥补",
+          "automatic_thoughts": "这一失误说明我不适合上场",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在团队中表现优秀、被认可与接纳，不让队友失望",
+        "fear": "害怕被责备、被否定与排斥，担心失去团队信任",
+        "defense_goal": [
+          "通过严苛的自我要求来避免再次失败与被责怪",
+          "与队友保持距离以降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让大家失望且不够好的队员",
+          "object_representation": "沉默但暗地里责怪自己的队友和教练",
+          "linking_affect": "内疚、焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当队友或教练对比赛失误保持沉默或未明确反馈时",
+          "interpretation": "认为沉默意味着责备与否定（移情：将内在自责投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎、避免深入谈及感受，使用模糊与假设性表述，减少眼神接触，转而自我检讨。"
+        },
+        {
+          "trigger_condition": "在谈及比赛失误或观看录像进行复盘时",
+          "interpretation": "以理性分析覆盖情绪体验，试图通过技术性思考控制焦虑",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以技术细节和策略性语言回复，回避情绪词汇，语气冷静克制。"
+        },
+        {
+          "trigger_condition": "赛前出现对失败与被责备的担忧",
+          "interpretation": "将对外的紧张与不满转向自我，强化自我批评以获取掌控感",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与贬低自我的语句，语气压低、避免求助与外界支持。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且感觉朋友不理解比赛压力",
+            "与队友关系因自我苛责而疏离、倾向自我隔离"
+          ],
+          "outcomes": [
+            "赛前与训练中的焦虑增强",
+            "内疚与自我否定",
+            "社会支持感降低"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "自责与灾难化思维让比赛的乐趣被消耗",
+            "难以专注于除比赛外的其他活动"
+          ],
+          "outcomes": [
+            "职业倦怠与动机下降",
+            "享受感降低与持续压力"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中频繁自我批评、反复思考错误",
+            "过度关注自身是否会再次失败，谨慎而压抑地表达感受"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "赛后倾向自我隔离、不与队友讨论内疚与担忧",
+            "将寻求支持的冲动转化为自我施压与加练"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须表现最好”的内在标准要求自己",
+            "将团队期待内化为严格的自我评价体系"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "勤奋训练、主动观看录像与技术复盘",
+          "具备团队精神与支持队友的态度",
+          "能够觉察并表达自身负面情绪与问题、愿意寻求帮助"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与过度概括等负性思维模式",
+          "强烈的自我责备与低自我价值感",
+          "赛前与训练中的焦虑导致注意力分散与乐趣下降",
+          "与队友的关系因自我苛责而紧张、倾向社交回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "赛前与训练中的显著焦虑与自我怀疑",
+          "antecedent": [
+            "临近比赛或训练时",
+            "回想开场回合失误并观看录像",
+            "感到团队期待或自我高标准的压力"
+          ],
+          "core_reason": "受“我不够好”的核心信念与灾难化、预测未来、过度概括、个人化等认知模式驱动",
+          "function": "逃避失败与被责备的风险、通过过度担忧与加练来寻求控制感与安全感",
+          "consequence": "职业表现受影响、难以享受比赛、日常活动难以专注"
+        },
+        {
+          "behavior": "与队友的社交回避与自我隔离",
+          "antecedent": [
+            "队友与教练的沉默或未明确反馈",
+            "比赛失利后的团队氛围与压力"
+          ],
+          "core_reason": "将内在的自责与羞愧投射为他人暗地里责怪自己的认知，伴随害怕被否定与排斥",
+          "function": "减少被评价与被责备的可能性，暂时缓解社交焦虑",
+          "consequence": "团队关系紧张、支持减少、负性情绪维持并加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 618
+}

@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "王睿",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有少数亲密朋友可交流，但他们不理解其自我批评的深度",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；无类似问题史",
+      "language_features": "表达清晰、思路连贯，能具体描述触发情境和感受；配合度较高，略显紧张"
+    },
+    "main_problem": "每当在骑行中出现失误（如无法修好自行车链条）时，就会认为自己是“最差的骑手”，产生强烈的自我批评与负性情绪，逐渐影响骑行乐趣与继续从事爱好的动机。",
+    "topic": "情绪管理",
+    "core_demands": "希望提升自尊、减少自我苛责，重新享受骑行与其他活动，不再因为失误而持续自我否定。",
+    "growth_experiences": [
+      "几年前开始以骑行为爱好；在与更有经验的骑手同行时因难以跟上而产生中等压力与自我批评；此后负性思维在遇到骑行挑战时逐渐增多并影响兴趣与动机。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "骑行途中自行车链条故障且当场无法修复",
+          "conditional_assumptions": "如果连简单的机械问题都不能独立解决，就证明我不配骑车、我很差",
+          "compensatory_strategies": "回避骑行以避免再次出错和被他人看到",
+          "automatic_thoughts": "如果连链条都修不好，我就不该骑车；我是最差的骑手；我什么都不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与更有经验的骑手一起骑行时难以保持速度并跟上队伍",
+          "conditional_assumptions": "如果我跟不上别人，就说明我不如他们，他们会看不起我",
+          "compensatory_strategies": "减少与高手同行或避免团体骑行以降低被比较与评判的风险",
+          "automatic_thoughts": "他们在评判我、觉得我拖了后腿",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对骑行中的挑战或技术难题（如故障处理）",
+          "conditional_assumptions": "如果再次犯错，就证明我完全不行，最好不要再尝试",
+          "compensatory_strategies": "提前选择不去骑行以避免失败和尴尬",
+          "automatic_thoughts": "我肯定又会搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "需要寻求他人帮助或将任务拆分为小步骤时",
+          "conditional_assumptions": "我应该能独立处理所有问题；求助等于承认无能、很丢脸",
+          "compensatory_strategies": "拒绝求助、独自硬撑以维持自我标准",
+          "automatic_thoughts": "我应该自己搞定，不能求助",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力的骑手并从爱好中获得价值感",
+        "fear": "害怕被他人评判与羞辱，害怕暴露自己“不够好”的一面",
+        "defense_goal": [
+          "通过回避挑战与求助来减少被评判的机会",
+          "以自我批评维持对自我行为的高标准与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判的、不够好的落后者",
+          "object_representation": "挑剔且会比较、可能轻视自己的他者（资深骑手/同伴）",
+          "linking_affect": "羞耻、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议向他人求助或承认困难时",
+          "interpretation": "求助等同于承认自己无能，对方会因此评判我（移情：将自我批评投射到他人身上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气迟疑、简短，强调“我应该自己解决”，回避承诺求助；若被深入追问，可用含糊表达转开话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "曾经带来快乐的骑行逐渐因自我批评与失败恐惧而失去意义",
+            "面对挑战时更关注自我否定而非体验与成长"
+          ],
+          "outcomes": [
+            "动机下降与回避",
+            "情绪低落与自我价值感受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有少数亲密朋友，但他们不理解自我批评的深度",
+            "在群体骑行中感到被比较与评判，主观上与他人产生隔阂"
+          ],
+          "outcomes": [
+            "社交减少",
+            "获得的情感支持不足，进一步强化自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该”标准（例如：我应该能独立处理所有问题）",
+            "将他人能力/表现内摄为自我要求，难以允许不完美"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈自我批评，认为自己是“最差的骑手”",
+            "因担心被评判而过度谨慎，减少参与团体骑行与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "保有对骑行的兴趣基础与改善动机（主动寻求咨询）",
+          "有少数亲密朋友可作为潜在支持资源",
+          "愿意学习并练习具体技能（如在家练习修理链条）"
+        ],
+        "negative_force": [
+          "自我苛责与全局化的负性自我评价（“我是最差的骑手”“我什么都不行”）",
+          "害怕被评判与羞耻，导致回避挑战与求助",
+          "过度依赖“应该”标准，僵化的自我要求",
+          "对失败的负性预期（预测未来），削弱行动与动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避骑行与团体活动",
+          "antecedent": [
+            "预计会出现技术问题或挑战（如故障处理）",
+            "与更有经验的骑手同行时难以跟上",
+            "想到可能被他人比较或评判"
+          ],
+          "core_reason": "害怕被评判与羞耻；对一次失误的过度概括与负性预期强化了失败恐惧",
+          "function": "逃避不受欢迎的情绪体验（羞耻、焦虑）与外部评判",
+          "consequence": "骑行乐趣下降、动机减弱，连带影响其他爱好与社交活动"
+        },
+        {
+          "behavior": "负性自我对话与自我贬低（“最差的骑手”“我什么都不行”）",
+          "antecedent": [
+            "骑行中出现失误（如无法修链条）",
+            "与他人比较时落后于资深骑手"
+          ],
+          "core_reason": "消极核心信念与认知歪曲（过度概括、读心术、“应该”句式）驱动的自我评价方式",
+          "function": "以自我批评维持高标准与控制感（表面上的自我约束），试图预防再次失误",
+          "consequence": "情绪低落与自尊受损，进一步降低参与与练习的意愿，形成恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 683
+}

@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54岁",
+      "name": "王丹",
+      "gender": "女",
+      "occupation": "快餐厨师（短单厨）",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "未提及家庭成员信息",
+      "social_status": "有几位亲密朋友但未向其敞开心扉；退稿后因自我价值感低而趋向社交退缩，人际关系受到影响",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题，也未接受过心理治疗/咨询",
+      "language_features": "表达清晰、逻辑性良好，能准确描述自动化思维与感受；愿意配合探索并尝试小步行动；情绪偏焦虑与低落但可被引导，具一定自我反思能力"
+    },
+    "main_problem": "因书稿被出版社退稿后出现强烈的无价值感与自我怀疑，认为自己不擅长写作并应当彻底放弃，伴随灾难化、过度概括、读心术与“非黑即白”式思维；每当想到写作或准备开始新项目时，便感到沮丧与瘫痪，逐渐回避写作并与朋友疏远。",
+    "topic": "个人成长",
+    "core_demands": "“书稿的退稿严重影响了我的自尊和对写作的热情（这对我的幸福感至关重要）”，希望通过咨询应对自我怀疑、修正负性思维，恢复写作动力与自信。",
+    "growth_experiences": [
+      "几个月前，王丹投入大量精力创作的书稿被出版社退稿。退稿当时压力很大，此后开始出现强烈的无价值感与自我怀疑。她逐渐形成“一个拒稿意味着永远不会成功”的信念，认为自己不擅长写作，应当放弃；每当想到写作或尝试开启新项目，都会涌现“反正还会被拒”的想法而陷入行动瘫痪。其间虽尝试寻找其他兴趣转移注意，但无价值感持续存在；对日常生活的兴趣与动机下降，人际上因感到失败而主动与朋友保持距离，且未向朋友透露自己的感受与困扰。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/没有天赋",
+        "我注定不会成功（一个失败就证明我不行）"
+      ],
+      "special_situations": [
+        {
+          "event": "书稿被出版社退稿",
+          "conditional_assumptions": "如果一次被拒绝，就说明我没有写作天赋、我不够好；被拒绝就等于失败者",
+          "compensatory_strategies": "决定放弃写作，转移到其他爱好以避免再次受挫",
+          "automatic_thoughts": "我不行了，应该永远放弃写作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "坐下来准备写作或一想到要开始新项目",
+          "conditional_assumptions": "如果再写，还是会被拒绝/被嘲笑；只有被出版社接受才算有价值",
+          "compensatory_strategies": "拖延、回避写作任务，久坐不动但不启动写作",
+          "automatic_thoughts": "有什么意义？反正还会被退",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友对她的作品给予积极反馈或称赞",
+          "conditional_assumptions": "他人的称赞不可靠，朋友只是出于礼貌在安慰我",
+          "compensatory_strategies": "否定正面反馈，只抓住退稿等负面证据来证明自己不行",
+          "automatic_thoughts": "他们只是客套，不是真的喜欢",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想象编辑/读者会如何评价她的作品",
+          "conditional_assumptions": "如果别人不喜欢，就证明我一无是处；外界评价决定我的价值",
+          "compensatory_strategies": "减少展示作品与社交接触以避免被评判",
+          "automatic_thoughts": "他们大概会觉得我很可笑/很糟",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自己的创作被看见与认可，作为作家被接纳与肯定",
+        "fear": "害怕被拒绝、被嘲笑与否定，引发羞耻与失价值感",
+        "defense_goal": [
+          "通过退缩与保持距离来避免再度被否定的伤害",
+          "先行贬低自我、否定积极反馈以减少外界评价带来的不确定与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且不值得被认可的创作者",
+          "object_representation": "苛刻、否定与挑剔的他者（出版社/潜在读者）",
+          "linking_affect": "羞耻、无望、恐惧"
+        },
+        {
+          "self_representation": "会给别人添麻烦的负担者",
+          "object_representation": "表面友好但不真诚、可能敷衍的朋友",
+          "linking_affect": "内疚、怀疑、不信任"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友或咨询师给予积极反馈或鼓励时",
+          "interpretation": "来访者体验为对方不真诚、只是出于礼貌（将内在的自我否定投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以怀疑与否定的语气回应，使用“他们只是客套”的表述，淡化或回避吸收正面信息。"
+        },
+        {
+          "trigger_condition": "当被邀请重拾写作、尝试小步行动或聚焦正向证据时",
+          "interpretation": "诉诸“退稿更真实、称赞不可靠”的解释来维持现有观念，减少情感暴露",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用冷静、理性化的语气陈述“为什么现在不写更合适/失败概率更大”，避免触及羞耻与脆弱感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在写作前自问“有什么意义？”认为反正会被拒绝",
+            "退稿后对先前热爱的创作失去目的感与价值感"
+          ],
+          "outcomes": [
+            "写作动机显著下降与行为瘫痪",
+            "情绪低落、自尊受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因为觉得自己是失败者而与朋友保持距离",
+            "不愿向朋友倾诉以免“麻烦别人”"
+          ],
+          "outcomes": [
+            "社会支持减少，人际关系受损",
+            "负性情绪与自我怀疑被加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将朋友的称赞理解为“只是出于礼貌”，难以接纳积极反馈",
+            "预设编辑/读者会嘲笑或否定自己的作品"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不愿麻烦朋友、选择独自承受，因而减少求助与分享",
+            "把原本可以向外表达的支持需求转而压在自己身上，导致孤立"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对写作有内在热情与意义感（自我表达与创造的享受）",
+          "工作功能稳定（短单厨工作未明显受影响）",
+          "有几位可联系的亲密朋友（潜在社会支持）",
+          "朋友曾给予积极的写作反馈",
+          "具自我反思与学习动机，愿意尝试小步行动与认知重评"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术、非黑即白等认知扭曲显著",
+          "过度依赖外部验证（以退稿来定义自我价值）",
+          "社交退缩与回避求助，削弱支持系统",
+          "否定正向信息（难以吸收赞誉与正面证据）",
+          "对失败的预测导致拖延与回避写作"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "写作启动困难与回避（在写作前感到瘫痪）",
+          "antecedent": [
+            "想到写作或坐下准备开始新项目",
+            "回想被出版社退稿的经历"
+          ],
+          "core_reason": "对再次被拒绝与被嘲笑的灾难化预期（过度概括、预测未来），由羞耻与自我怀疑驱动",
+          "function": "逃避不受欢迎的结果与情绪（拒绝、羞耻、焦虑）",
+          "consequence": "写作动机下降、创作中断，对日常兴趣降低、自尊受损"
+        },
+        {
+          "behavior": "社交退缩与与朋友疏离",
+          "antecedent": [
+            "感到无价值与失败感上涌时",
+            "想到“会麻烦别人/他人会否定我”时"
+          ],
+          "core_reason": "羞耻感与对评价的恐惧，伴随读心术与个人化",
+          "function": "避免被评判和可能的否定，短期降低焦虑",
+          "consequence": "人际支持减少，孤独加剧，负性情绪恶化"
+        },
+        {
+          "behavior": "以“永远放弃写作”的决断/自我陈述",
+          "antecedent": [
+            "收到退稿消息之后",
+            "在反复回想失败并进行非黑即白评估时"
+          ],
+          "core_reason": "全或无思维与过度概括（一次失败即判定永久失败）",
+          "function": "通过“切断可能失败”的方式暂时降低焦虑与不确定感",
+          "consequence": "失去重要的意义感与乐趣，自尊进一步下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 693
+}

@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "70岁",
+      "name": "陈淑珍",
+      "gender": "女性",
+      "occupation": "私人小岛拥有者",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题；无心理治疗史",
+      "language_features": "表达清晰，能具体描述事件与情绪，配合度较高；在谈及下水与浮潜时语气紧张、担忧；思维中可见灾难化、过度概括与预测未来的倾向"
+    },
+    "main_problem": "在最近一次浮潜时差点呛水，此后对浮潜产生强烈恐惧，认为只要下水就会被呛并可能溺水，导致一想到浮潜或接近水域就出现焦虑与恐慌，进而回避与水相关的活动。",
+    "topic": "情绪管理",
+    "core_demands": "希望解决对浮潜的恐惧，恢复对这一喜爱的活动的享受。",
+    "growth_experiences": [
+      "最近一次浮潜时意外吞入海水，出现短暂呼吸困难，主观感到“快要溺水”，高度恐惧与紧张。从那次事件之后开始害怕浮潜，一想到下水就感到心悸与强烈焦虑，逐渐泛化为回避海滩与一切水上活动，认为自己每次下水都会被呛。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在水里不安全",
+        "我会失去控制并可能出事"
+      ],
+      "special_situations": [
+        {
+          "event": "想到浮潜或看到海滩、海水等与水有关的情境",
+          "conditional_assumptions": "只要靠近水或下水，就会再次被呛并可能溺亡",
+          "compensatory_strategies": "回避海滩和所有水上活动，尽量远离水域",
+          "automatic_thoughts": "我会被呛住，可能会溺水",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆上次差点被呛到的经历",
+          "conditional_assumptions": "一旦发生过一次意外，就意味着以后都会发生同样的意外",
+          "compensatory_strategies": "反复自我警示并避免任何练习或接触水",
+          "automatic_thoughts": "上次都那样，这次也一定会那样",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回顾以往多年安全愉快的浮潜经历",
+          "conditional_assumptions": "正面的安全经验并不重要，一次危险就足以证明现在非常不安全",
+          "compensatory_strategies": "否定过去的安全经历，只关注那次意外",
+          "automatic_thoughts": "以前没出事不代表现在不会出事",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "计划涉及水上活动的旅行或朋友邀请参与水上活动",
+          "conditional_assumptions": "如果我此刻感到强烈焦虑，就说明这件事真的不安全、我不应该去",
+          "compensatory_strategies": "取消或拒绝相关行程，以避免潜在危险",
+          "automatic_thoughts": "我现在这么慌，说明一定很危险",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由、安全地亲近海水，重新享受浮潜带来的愉悦与掌控感",
+        "fear": "害怕失去控制、窒息或溺亡，感到被不可控的力量吞没",
+        "defense_goal": [
+          "通过回避水域来保持安全感并压制焦虑",
+          "以理性化与计划化思考来控制不安，远离情绪体验"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易受伤害、随时可能失去控制的自己",
+          "object_representation": "危险、不可预测、可能致命的环境（海水/水域）",
+          "linking_affect": "恐惧、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于制定逐步接近水域/暴露的具体步骤时",
+          "interpretation": "将对危险的恐惧转化为对方案细节与风险评估的过度关注，以避免直接接触情绪",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用客观、分析性的语气，强调步骤与可行性，减少情绪性词语与沉默，围绕计划细节展开。"
+        },
+        {
+          "trigger_condition": "当被邀请靠近水域或参与水上活动时",
+          "interpretation": "以“现在做没有意义/风险太大”为由，证明继续接触是不明智的，从而维持回避",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以冷静、合乎逻辑的措辞列举风险与成本，提出“等等再说/目前条件不合适”的推迟语，弱化当下行动动机。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "对被呛与溺亡的强烈恐惧",
+            "一想到下水就出现心悸与强烈焦虑",
+            "回避海滩与水上活动"
+          ],
+          "outcomes": [
+            "持续的焦虑与恐慌体验",
+            "生活乐趣减少、重要活动被剥夺",
+            "对自身生命脆弱性的高度关注"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "为了安全而自我限制，不敢接触水域",
+            "在“想去享受”与“害怕危险”之间拉扯"
+          ],
+          "outcomes": [
+            "自主性受限，选择空间缩小",
+            "内在价值冲突（热爱与恐惧的对立）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论接触水的计划时多次表达“怕会更糟”“不知道会怎样”，显得谨慎和犹豫",
+            "倾向选择最小步距尝试，反复确认安全性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对浮潜的热爱与恢复活动的动机较强",
+          "愿意求助并尝试循序渐进的策略",
+          "无重大躯体疾病，具备实施暴露与训练的生理条件"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来等认知歪曲明显",
+          "强烈回避行为（避免海滩与水上活动）",
+          "对窒息/死亡的高度恐惧与生理性焦虑反应",
+          "社会支持情况不明确，缺乏稳定的外部支持感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避靠近水域与参与浮潜",
+          "antecedent": [
+            "看到或接近海水/海滩",
+            "想到浮潜或计划涉及水上活动的旅行"
+          ],
+          "core_reason": "在一次呛水事件后形成“每次都会被呛/可能溺亡”的灾难化信念与条件性恐惧",
+          "function": "逃避预期的危险与焦虑，获得短期安全感与情绪缓解",
+          "consequence": "失去重要的休闲活动，生活乐趣与日常安排受限"
+        },
+        {
+          "behavior": "在想到水或浮潜时出现强烈焦虑与生理反应（心悸、恐慌感）",
+          "antecedent": [
+            "回忆上次呛水的情境",
+            "与他人讨论水上活动或看到相关画面"
+          ],
+          "core_reason": "情绪化推理与过度警觉，将焦虑体验当作危险的证据",
+          "function": "作为危险信号促使回避行为，短期降低不适",
+          "consequence": "强化恐惧记忆与回避模式，使问题持续与泛化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1237
+}

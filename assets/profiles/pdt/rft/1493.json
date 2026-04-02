@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "林涛",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "与父亲同住，未提及母亲或其他家庭成员",
+      "social_status": "与朋友关系受到影响，因担心被评判而回避谈及兴趣，感到与他人疏离",
+      "medical_history": "无重大躯体疾病史；无既往心理咨询/治疗经历",
+      "language_features": "表达清晰，配合度高，能进行自我反思与证据检视，略显紧张"
+    },
+    "main_problem": "因自己喜欢火车与《托马斯小火车》等儿童读物而担心被他人认为幼稚，尤其在与新认识的人交流和谈及兴趣时反复出现被评判的想法，逐渐加重并影响自尊与对兴趣的享受。",
+    "topic": "人际关系",
+    "core_demands": "这些想法已影响我的自尊和在不担心的情况下享受兴趣的能力，我希望能减少被评判感的影响，恢复自在地享受兴趣。",
+    "growth_experiences": [
+      "去年宠物猫去世后，经历显著心理压力；自那以后更在意他人反应，逐渐发展出“他人会觉得我幼稚”的担忧，这些被评判的想法在谈及兴趣或看到他人反应时反复出现并逐渐加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是幼稚的/不够成熟",
+        "如果他人不认同我的兴趣，我就不会被接纳",
+        "我的兴趣决定了他人对我价值与成熟度的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "与新认识的人交谈时提到自己喜欢《托马斯小火车》等儿童读物，对方沉默或表情变化",
+          "conditional_assumptions": "如果成年人喜欢被认为是“儿童”的读物，就会被视为幼稚、被看低甚至被拒绝",
+          "compensatory_strategies": "在社交中尽量隐藏或回避谈及相关兴趣",
+          "automatic_thoughts": "他们一定觉得我像小孩子，很幼稚",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合注意到他人“奇怪的眼神”或没有及时回应",
+          "conditional_assumptions": "他人的表情和沉默意味着他们在评判我",
+          "compensatory_strategies": "事后反复回想细节，自我否定并贴标签",
+          "automatic_thoughts": "他们肯定觉得我不正常/很奇怪",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "独处时想到自己19岁还喜欢儿童读物并与同龄人对比",
+          "conditional_assumptions": "一个“成熟”的人不应继续喜欢儿童读物；只有符合年龄规范的兴趣才被接纳",
+          "compensatory_strategies": "用自我批评与“不要再看这些书”的内在命令来压抑兴趣",
+          "automatic_thoughts": "我这么大了还喜欢这些，我就是个小孩",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "准备向一位要好的朋友谈起自己的兴趣之前",
+          "conditional_assumptions": "如果暴露真实兴趣，就会被看低、关系变得尴尬",
+          "compensatory_strategies": "选择沉默或转移话题，避免开启相关谈话",
+          "automatic_thoughts": "他说不定会看不起我，关系会变僵",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地接纳与认可（即使兴趣与“年龄规范”不一致）",
+        "fear": "害怕因兴趣被羞辱、贬低或拒绝，导致被孤立",
+        "defense_goal": [
+          "通过回避自我暴露来避免羞耻与被评判的风险",
+          "以理智化方式压低情绪强度以维持自尊与人际安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易羞耻、担心被看低的脆弱自我",
+          "object_representation": "带有评判与否定倾向、会看不起自己的他人",
+          "linking_affect": "羞耻、焦虑、尴尬"
+        },
+        {
+          "self_representation": "为维持关系而自我隐藏的回避者",
+          "object_representation": "潜在的拒绝者/贬低者",
+          "linking_affect": "紧张、戒备"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与新认识的人交流、对方沉默或表情不明确时",
+          "interpretation": "将对方的沉默视为对自己的否定与贬低（“他们在看不起我”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气局促、缩短回答，使用“他们肯定……”之类推测句式，迅速结束或转移话题，避免眼神接触。"
+        },
+        {
+          "trigger_condition": "当被问及个人兴趣或想到自己19岁仍喜欢儿童读物时",
+          "interpretation": "认为表达情感会带来羞辱，于是以思辨方式与情绪保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用客观、抽离的语气讨论“兴趣是否符合年龄规范”的一般性话题，回避谈及自己的感受与需要。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因回避谈及真实兴趣与朋友产生距离感",
+            "在新关系里因害怕被评判而减少自我暴露"
+          ],
+          "outcomes": [
+            "感到疏离与孤立",
+            "羞耻与焦虑增加",
+            "自尊下降、兴趣乐趣被削弱"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "内在“成年人应该如何”的规则与真实兴趣冲突",
+            "为迎合他人期待而约束自我表达"
+          ],
+          "outcomes": [
+            "自我一致性下降",
+            "自我批评与紧张增多",
+            "对选择与表达的自由感受受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自我审查，担心兴趣不被接纳而不敢表达",
+            "反复猜测他人如何看待自己以决定是否谈及兴趣"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "有表达兴趣的冲动却选择压回自己，转而自我批评与自责",
+            "在社交场合回避开启相关话题以“忍着避免麻烦”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "以“他们肯定觉得我幼稚”来解释他人的沉默或表情",
+            "将内在羞耻体验归因为他人的评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备求助动机与积极配合的态度",
+          "能够进行证据检视与多元视角思考（能意识到缺乏直接负面证据）",
+          "愿意尝试小步行为实验（计划先与最信任的朋友交流）",
+          "拥有一定的社会支持（与父亲同住，潜在的支持资源）"
+        ],
+        "negative_force": [
+          "读心术与仓促下结论的思维习惯",
+          "过度概括与自我标签化，易将兴趣等同于自我整体价值",
+          "内摄的“应该”规则与寻求外部验证倾向",
+          "回避表达真实兴趣，导致人际疏离与自尊受损",
+          "对被评判与羞耻的高度敏感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交中回避谈及真实兴趣与自我暴露",
+          "antecedent": [
+            "与新认识的人谈话时想到自己的兴趣",
+            "看到他人沉默或表情变化",
+            "与朋友聊天触及兴趣话题"
+          ],
+          "core_reason": "丧宠后的压力使其对他人评价更为敏感，形成“表达兴趣会被视为幼稚并遭否定”的担忧与读心式推断",
+          "function": "逃避可能的羞耻与被评判，维护自尊与关系安全感",
+          "consequence": "与朋友关系受影响、感觉疏离；对兴趣的享受度下降；持续的焦虑与自我怀疑"
+        },
+        {
+          "behavior": "读心式负性自动思维（假定他人觉得自己幼稚）",
+          "antecedent": [
+            "在社交场合注意到他人的沉默或“奇怪的眼神”",
+            "谈及或准备谈及兴趣时"
+          ],
+          "core_reason": "内化“成年人不该喜欢儿童读物”的规则，基于有限线索对他人想法做负性推断",
+          "function": "通过先行负性预判来避免尴尬与潜在拒绝",
+          "consequence": "焦虑、羞耻增加，自尊受损，并进一步强化回避行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1493
+}

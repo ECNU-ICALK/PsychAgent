@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "麦当劳员工",
+      "educational_background": "正在修读女性研究课程",
+      "marital_status": "未提及",
+      "family_status": "有四个兄弟姐妹",
+      "social_status": "有朋友可倾诉学业担忧，但不愿与朋友谈论对左转的恐惧；日常焦虑影响学习与工作表现",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题与治疗史",
+      "language_features": "表达清晰，能描述生理与情绪体验；语气消极、担忧较多；能够接受探索与尝试新视角，配合度尚可"
+    },
+    "main_problem": "来访者经历与驾驶左转相关的恐惧与焦虑，并坚信自己会在女性研究课程中不及格；在学期初一次低分后，持续担心老师认为自己很愚蠢。",
+    "topic": "情绪管理",
+    "core_demands": "这些问题显著影响我的日常生活，导致压力增加，并影响我的工作与学习表现。",
+    "growth_experiences": [
+      "一次驾驶中发生的“险些相撞”事件（near-miss）后，来访者开始出现对左转的强烈恐惧：在接近左转路口时会心跳加速、手心出汗、感到慌张，随后逐渐发展为回避左转路线，导致通勤受阻、压力加大。",
+      "在学期初一次作业/测评中获得低分后，来访者形成对学业失败的持续担忧，并伴随对老师评价的过度关注；每逢作业截止前便出现强烈焦虑与自我怀疑，虽后来得到老师“有所进步”的正向反馈，但仍难以缓解对失败与被否定的担心。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/能力不足",
+        "我无法有效应对复杂或危险的情境"
+      ],
+      "special_situations": [
+        {
+          "event": "学期初收到一次低分后再度面对课程与作业",
+          "conditional_assumptions": "如果我曾得过低分，就证明我不够聪明，以后也会一直失败",
+          "compensatory_strategies": "在每次作业前高度焦虑、不断寻求朋友的安慰以缓解不确定感",
+          "automatic_thoughts": "我不够好，我大概会再次不及格",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在课堂或收到反馈后想起老师对自己的看法",
+          "conditional_assumptions": "如果老师没有明确肯定我或曾给我低分，就说明他认为我很蠢",
+          "compensatory_strategies": "避免与老师直接沟通，反复在心里贴负面标签",
+          "automatic_thoughts": "老师一定觉得我很蠢",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "交通繁忙时需要进行左转",
+          "conditional_assumptions": "如果我去左转，就会发生事故，我无法掌控",
+          "compensatory_strategies": "主动绕路、尽量避免左转路段以减少恐惧",
+          "automatic_thoughts": "我做不到，肯定会出事",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每逢作业截止日期临近",
+          "conditional_assumptions": "如果我这次表现不够完美，就会失败并证明我不行",
+          "compensatory_strategies": "反复担忧、向朋友寻求再保证，难以专注任务",
+          "automatic_thoughts": "我可能会挂科，这次肯定也不行",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被肯定为有能力和值得尊重的学生与个体",
+        "fear": "害怕被评价为愚蠢或不足、害怕在危险情境中失控与出事",
+        "defense_goal": [
+          "通过回避（避免左转、回避与老师直接沟通）来降低被否定和失控的可能",
+          "通过寻求他人安慰来缓解焦虑与不确定感，维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的学生",
+          "object_representation": "严苛、带有评判性的权威（老师）",
+          "linking_affect": "焦虑、羞耻、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人提及老师对其表现的看法，或探询其“失败”相关的信念时",
+          "interpretation": "下意识将自我否定投向他人，认为他人（尤其是老师）会像内心的评判者那样贬低自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "弱化或忽视正向反馈，反复强调“我不够好”，语气犹疑，避免与老师直接沟通以免证实被否定。"
+        },
+        {
+          "trigger_condition": "当被鼓励面对左转或减少回避行为时",
+          "interpretation": "将现实中的风险绝对化，认为坚持回避才是“理性且安全”的选择",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“交通太复杂/高峰期太危险”等事实条目进行说明，语气客观疏离，回避讨论内在恐惧与情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "经历一次驾驶险情后，对左转可能引发事故的担忧显著增加",
+            "在繁忙路况下对“出事”的可能性高度敏感与回避"
+          ],
+          "outcomes": [
+            "回避左转路线，通勤受阻",
+            "持续的生理性焦虑与紧张体验"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对左转恐惧不愿与朋友谈论，担忧被误解或评价",
+            "在学业问题上虽能寻求安慰，但仍感到自我怀疑难以被真正理解"
+          ],
+          "outcomes": [
+            "可用支持受限，焦虑维持",
+            "自我否定与羞耻感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以“我不够好/我会失败”自责与否定自我",
+            "面对作业与反馈时格外谨慎，难以接收正向信息"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假定“老师觉得我很蠢”，将内在自我怀疑投向他人看法",
+            "避免与老师直接沟通，以免“证实被否定”的想象"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对课程任务和老师评价时，来访者通常会预设失败并认为老师看低自己，从而高度焦虑、难以专注学习。",
+          "unique_outcome": "在最近一次作业中，老师明确指出“你有进步”，相较以往的低分与自我否定，这次出现了正向反馈与客观进步的迹象。",
+          "reason": "不同支持：来自老师的正向反馈；不同理解：注意到自己并非一贯失败，开始看到改进证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在现实中的正向证据（老师肯定“有所进步”）",
+          "愿意尝试认知重构与“现实检验”，配合度较好",
+          "有朋友可提供学业方面的情感支持和安慰",
+          "过去曾多次安全完成左转，具备成功经验的记忆基础"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与读心术等认知偏差显著",
+          "回避行为维持焦虑（如主动绕路避免左转）",
+          "依赖外部认可以缓解不确定感，易陷入反复求证",
+          "负性自我标签（“我很蠢/不够好”）稳固，削弱自信",
+          "高峰期交通与作业截止临近作为高频触发情境，易激活生理性紧张与恐惧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对驾驶左转的强烈恐惧与回避",
+          "antecedent": [
+            "接近需要左转的路口，尤其是交通繁忙时段",
+            "想起曾经的“险些相撞”经历"
+          ],
+          "core_reason": "险情经历后形成对左转的灾难化信念与失控预期，条件性恐惧被强化",
+          "function": "逃避不受欢迎的刺激（潜在危险与强烈焦虑）",
+          "consequence": "绕行与通勤受阻，日常压力上升，影响生活与工作效率"
+        },
+        {
+          "behavior": "对课程失败的过度担忧与自我否定，伴随频繁寻求安慰",
+          "antecedent": [
+            "作业/考试截止临近",
+            "收到成绩或反馈后"
+          ],
+          "core_reason": "一次低分引发的过度概括与负性自我标签，过度依赖他人评价维持自我价值",
+          "function": "获得他人安慰以短期缓解不确定与焦虑",
+          "consequence": "学习专注力下降、工作学习表现受影响，焦虑与压力持续存在"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1859
+}

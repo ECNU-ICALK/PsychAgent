@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "唐婉琳",
+      "gender": "女",
+      "occupation": "美国公民",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一个踢橄榄球的儿子",
+      "social_status": "有朋友和家人可交谈，但尚未向其充分倾诉关于儿子足球的担忧",
+      "medical_history": "无显著躯体疾病；此前未经历类似强烈的焦虑与负性思维；未接受过心理治疗或心理问题相关治疗",
+      "language_features": "表达清晰、能具体描述诱发情境；配合度较高且愿意尝试；语气与情绪呈明显焦虑；能回忆正面与负面事例但更聚焦负面"
+    },
+    "main_problem": "在儿子上一场比赛发挥不佳后，出现压倒性的焦虑与负性想法，认为这次糟糕表现会毁掉他进入大学球队的机会；此后发展为对其足球前途的持续担忧，影响睡眠、工作与日常专注。",
+    "topic": "情绪管理",
+    "core_demands": "“我想支持我的儿子并更好地管理我的焦虑，所以我愿意尝试。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "成功必须建立在每一场比赛的完美表现上，否则就是彻底失败",
+        "一次关键失误会决定未来走向，机会从此全部丧失"
+      ],
+      "special_situations": [
+        {
+          "event": "儿子在最近一场比赛中错失关键进球",
+          "conditional_assumptions": "如果在关键时刻犯错，就会被贴上失败标签并失去未来机会",
+          "compensatory_strategies": "不停安慰自己与儿子、反复思考失误试图避免再次发生",
+          "automatic_thoughts": "这次失误会毁掉他进入大学队的机会",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每当儿子训练或比赛表现不佳之后",
+          "conditional_assumptions": "必须每场都表现完美才能被球探注意并获得机会",
+          "compensatory_strategies": "高度关注每次表现并进行绝对化评价，难以接受不完美",
+          "automatic_thoughts": "如果他不是每场都完美，就是失败，球探就不会看他",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "比赛后在脑中反复回放错失关键进球的片段",
+          "conditional_assumptions": "负面事件比正面更重要并且具有决定性",
+          "compensatory_strategies": "忽视以往的成功，专注于错误以期促进改进",
+          "automatic_thoughts": "大家都会记住这次失误，这会掩盖他所有的努力和成功",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到未来的选拔与球探关注度",
+          "conditional_assumptions": "一次失误能够准确预示未来结果",
+          "compensatory_strategies": "提前为最坏结果做心理准备并持续担忧",
+          "automatic_thoughts": "他不会被大学队选中，这次表现已经决定了他的未来",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为母亲能够保护并确保儿子的成功与前途",
+        "fear": "害怕儿子的未来因一次失误而被否定、机会被剥夺",
+        "defense_goal": [
+          "通过预演最坏情形与高度警觉来维持控制感并降低不确定性的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑且必须为儿子负责的保护者/监督者",
+          "object_representation": "需要被保护、容易因一次失误而被否定的脆弱孩子",
+          "linking_affect": "恐惧、压力、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问儿子错失关键进球及其对未来的影响时",
+          "interpretation": "倾向将一次失误视为他人（球探/教练）会做出的整体否定（移情：将外界评判者视为严苛、只看负面）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
+          "response_instruction": "使用担忧的语气，强调最坏情形，采用确定性词语（如“一定会”），对不确定性表现出明显不耐受。"
+        },
+        {
+          "trigger_condition": "当被建议向社交支持系统分享担忧、寻求帮助时",
+          "interpretation": "认为表达焦虑会被视为“夸张”，他人无法理解自己的担忧（移情：担心被评价与否定）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以委婉语气解释不分享的理由，使用“我不想显得……”等句式，回避深入情绪与脆弱感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "明知有朋友与家人可交谈却未向其表达真实担忧与焦虑",
+            "担心被视为“夸张”而压抑自我表达"
+          ],
+          "outcomes": [
+            "焦虑加剧与持续化",
+            "睡眠与注意力受损",
+            "与儿子的关系紧张、支持感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“每场都需完美表现”视为绝对标准",
+            "以外界球探评价为唯一成功尺度"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "未向朋友和家人倾诉真实程度的焦虑",
+            "转而进行自我安慰与反复担忧"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被他人评价为“夸张”，谨慎而压抑自我表达",
+            "过度在意外界看法，限制寻求支持的行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对儿子有强烈的关切与支持动机",
+          "愿意接受咨询并尝试行为实验以修正认知",
+          "能够回忆并承认儿子过去的成功经验",
+          "具备一定社会支持资源（朋友与家人）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白思维等不良认知模式主导",
+          "持续担忧与过度聚焦负面表现（心理过滤）",
+          "对不确定性不耐受，渴望以担忧维持控制感",
+          "回避向社会支持系统寻求帮助，导致情绪无法外化与分担"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在儿子比赛或训练表现不佳后出现强烈焦虑与灾难化思维",
+          "antecedent": [
+            "儿子在最近一场比赛中错失关键进球",
+            "每当儿子训练或比赛出现负面结果后"
+          ],
+          "core_reason": "将一次负面表现视为决定性事件，并以非黑即白与预测未来的思维推断其前途（担心球探不会注意、机会全无）以寻求控制感",
+          "function": "逃避不确定性与潜在失败，通过预演最坏结果来获得主观的控制与准备感",
+          "consequence": "日常活动与工作专注受损、睡眠受影响、持续焦虑；与儿子的关系紧张、增加对其的压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 214
+}

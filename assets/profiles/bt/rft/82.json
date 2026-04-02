@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "方美琳",
+      "gender": "女",
+      "occupation": "咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，养一只名为Jasper的猫",
+      "social_status": "有少数朋友可倾诉，但对方不完全理解其焦虑；近来因焦虑而与亲友疏离",
+      "medical_history": "无显著躯体疾病；无既往心理咨询/治疗经历；否认以往类似心理问题",
+      "language_features": "表达清晰连贯，合作度高；能辨识并描述自身焦虑与无助；有一定自我反思能力；情绪紧张但可被引导，态度积极"
+    },
+    "main_problem": "因没有大学学历而害怕会永远被困在咖啡师的工作上，这种担忧带来持续的焦虑与压力。",
+    "topic": "职业发展",
+    "core_demands": "希望管理并减轻与工作相关的焦虑，挑战对未来的消极预测，重构思维，设定并推进小而具体的目标（如在线课程与行业内社交），拓展职业发展的可能性。",
+    "growth_experiences": [
+      "高中毕业后决定不读大学，最初影响不大，但随着时间推移，因看到同龄人事业进展而逐步加重对自身职业停滞的担忧与自我怀疑。",
+      "多次求职或探索其他工作机会未获成功，屡遭挫败感强化了“被困住”的体验，增加了对未来的焦虑与无力感。",
+      "频繁接触到标注“需大学学位”的招聘信息，触发强烈的自卑与无望感，形成对学历与职业前景的负向联结。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有大学学历就没有前途",
+        "我无法摆脱当前处境"
+      ],
+      "special_situations": [
+        {
+          "event": "看到标注“需大学学位”的招聘信息",
+          "conditional_assumptions": "如果我没有大学学位，就无法获得更好的工作和未来",
+          "compensatory_strategies": "减少投递或拖延申请，反复担忧并回避进一步求职行动",
+          "automatic_thoughts": "我会永远被困在现在的工作里",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到同龄人或朋友在事业上取得进展",
+          "conditional_assumptions": "如果同龄人走得更快更好，说明我落后且失败",
+          "compensatory_strategies": "与朋友和家人疏远，回避谈论工作与职业话题",
+          "automatic_thoughts": "我不如他们，我已经失败了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "求职尝试遭到拒绝或未获回应",
+          "conditional_assumptions": "几次失败就意味着我以后也不会成功",
+          "compensatory_strategies": "降低尝试频率、退缩并自我否定以避免进一步失望",
+          "automatic_thoughts": "我总是失败，我没有机会改变",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想自己多年一直做咖啡师且没有明显晋升",
+          "conditional_assumptions": "如果长期没有进展，就说明以后也不可能改变",
+          "compensatory_strategies": "维持现状、避免探索更具挑战的新路径以减少不确定性带来的焦虑",
+          "automatic_thoughts": "已经太晚了，我不可能翻盘",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望摆脱被困感，获得职业发展与他人认可",
+        "fear": "害怕因学历与能力不足而持续被拒绝、被比较与被贬低",
+        "defense_goal": [
+          "通过疏离与回避来减少失败与被评价的痛苦",
+          "降低期望以避免再次受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被落下、缺乏竞争力的人",
+          "object_representation": "前进更快、带有比较与评判意味的同龄人/他人",
+          "linking_affect": "自卑、焦虑、无望"
+        },
+        {
+          "self_representation": "不被充分理解的求助者",
+          "object_representation": "善意但无法真正理解的支持者（朋友/家人）",
+          "linking_affect": "孤独、无助"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈的“被困住”体验，认为没有学历就无法选择与改变",
+            "在面对“需学位”的招聘信息时感到无力与受限"
+          ],
+          "outcomes": [
+            "持续焦虑与压力",
+            "求职与行动上的回避与退缩",
+            "工作表现受影响，自我效能感下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因工作相关焦虑而主动与朋友和家人疏离",
+            "感觉朋友虽在但“不太理解”自己的处境"
+          ],
+          "outcomes": [
+            "社会支持利用度下降",
+            "情绪困扰维持与放大",
+            "自我照料与饮食规律进一步恶化"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意求助并参与咨询",
+          "能觉察并表达自动化消极想法，具备初步的自我反思能力",
+          "意识到自身工作技能与经验的价值，愿意通过在线课程与行业内社交拓展机会",
+          "有一定社会支持（少数朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的思维模式强化无助感",
+          "对学历与未来前景的僵化信念（将“无学历=无前途”）",
+          "回避与退缩行为（减少投递、疏离社交）短期缓解焦虑但维持问题",
+          "多次求职挫折导致自我效能感与希望感下降",
+          "日常自我照料与饮食紊乱进一步削弱行动力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对职业前景的持续焦虑与灾难化思维，并伴随社交回避与自我照料下降",
+          "antecedent": [
+            "看到要求大学学历的招聘信息",
+            "看到同龄人职业晋升或取得成就",
+            "回想自己长期停留在同一岗位的事实",
+            "求职尝试被拒或未获回应"
+          ],
+          "core_reason": "将“无大学学历=没有前途/无法改变”的僵化信念内化，反复以灾难化方式解读现实线索，导致无助与退缩",
+          "function": "逃避被拒绝与被负面评价所带来的痛苦，短期降低焦虑与不确定感",
+          "consequence": "求职与技能提升的实际行动减少；工作绩效受影响；与亲友疏离；饮食与自我照料变差，进而维持并加重焦虑循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 82
+}

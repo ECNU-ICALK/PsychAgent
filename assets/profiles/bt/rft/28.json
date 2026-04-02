@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "何雅婷",
+      "gender": "女",
+      "occupation": "艺术家",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与丈夫、两个儿子及父母同住在带院子的房子",
+      "social_status": "有父母与丈夫可沟通的支持网络，但对“做饭不被欣赏”的自卑与焦虑不易表达",
+      "medical_history": "无显著躯体疾病；无既往心理咨询/治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰，能描述具体经历与想法；情绪色彩消极，倾向灾难化、跳到结论与过度概括；对探索持开放态度，能配合现实检验"
+    },
+    "main_problem": "我觉得家人不欣赏我的厨艺，这导致我感到自我不足和焦虑。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询，因为这些感受开始影响我的自尊，并在与家人一起用餐时引发焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的认可",
+        "我不够好/容易失败"
+      ],
+      "special_situations": [
+        {
+          "event": "晚餐时家人没有称赞或没有吃完我做的菜，显得兴致缺缺",
+          "conditional_assumptions": "如果没有得到称赞或盘子没吃完，就说明我做得很差",
+          "compensatory_strategies": "频繁更换菜谱并主动索要反馈，努力迎合家人口味",
+          "automatic_thoughts": "他们一定觉得我做得很难吃。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "临近晚餐或家庭聚餐前，想到上次没有得到称赞",
+          "conditional_assumptions": "如果上次失败，这次也会一样糟",
+          "compensatory_strategies": "过度担心、反复调整菜品以避免“失败”",
+          "automatic_thoughts": "今晚肯定又会出问题，他们还是不会喜欢。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "家人对饭菜提出意见或没有吃完",
+          "conditional_assumptions": "如果一道菜不受欢迎，说明我作为妻子/母亲都不够好",
+          "compensatory_strategies": "更加用力讨好、牺牲自我需要来取悦他人",
+          "automatic_thoughts": "我是不称职的妻子/母亲。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "一次钓鱼时错失一条大鱼",
+          "conditional_assumptions": "如果这次都做不好，那我以后也不会做好",
+          "compensatory_strategies": "回避再次钓鱼或降低参与度以避免再次失败",
+          "automatic_thoughts": "我永远都不会擅长钓鱼。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人认可与欣赏（希望通过付出与表现被看见、被肯定）",
+        "fear": "害怕被否定、不被理解或被评价为不称职，从而失去价值感",
+        "defense_goal": [
+          "通过迎合与过度努力来维持自尊并避免被批评",
+          "以自责来预防外界的拒绝或否定",
+          "用理智化弱化情绪以保持表面稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "努力取悦他人的不够好的自我/易失败者",
+          "object_representation": "挑剔、难以满足、可能不认可自己的家庭成员或他人",
+          "linking_affect": "焦虑、羞耻、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请分享内心感受、或被建议向家人/朋友表达困扰时",
+          "interpretation": "担心脆弱会被轻视或不被理解，表达情绪可能带来负面评价",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平稳克制，侧重讲事实与分析，淡化或绕开主观情绪体验。"
+        },
+        {
+          "trigger_condition": "当面对做饭或钓鱼的失败与他人可能的评价时",
+          "interpretation": "将外界可能的负面评价内化为对自我的否定（“都是我不行”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与道歉的语气，降低自我价值，回避表达对他人不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向家人与朋友表达关于做饭的自卑与焦虑，担心“他们不会理解”",
+            "将是否被赞美视为被看见/被理解与否的标志"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "自尊受损",
+            "家庭互动紧张与回避表达需求"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "认为为钓鱼沮丧“有点可笑”而压抑表达",
+            "反复自责“我不行/我不够好”以限制真实需要的表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "据家人未称赞便推断“他们一定觉得食物很糟”",
+            "将内心的不安与自我否定投射为他人负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到再次去钓鱼时，何雅婷通常会被“我永远不行”的想法困住，感到沮丧并丧失行动动力。",
+          "unique_outcome": "在过去的某些成功垂钓的日子里，她专注过程并享受当下，成功钓到鱼且体验到自豪与快乐，与“我永远不行”的主导故事不同。",
+          "reason": "线索：不同做法—更关注过程与体验；不同情境—当时专注度更高；不同理解—将一次失误视为练习机会而非结论。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有可沟通的家庭支持（父母与丈夫）",
+          "愿意求助并接受“现实检验”等认知练习",
+          "具备自我鼓励与理性分析的能力",
+          "在钓鱼领域曾有成功与愉悦体验，可作为资源"
+        ],
+        "negative_force": [
+          "过度依赖外部认可来确定自我价值",
+          "灾难化、读心术、预测未来与过度概括等认知偏差",
+          "表达脆弱的困难与对被误解的担心",
+          "自尊受损导致自我照料与创作受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "家庭用餐情境中的焦虑与自我贬低",
+          "antecedent": [
+            "晚餐时间或家庭聚餐前后",
+            "未获得称赞或家人未吃完食物",
+            "家人对菜品的意见或表情冷淡"
+          ],
+          "core_reason": "将自我价值与他人赞赏紧密绑定，并存在灾难化、读心术与过度概括的认知偏差",
+          "function": "逃避被否定与羞耻的情绪，试图通过过度准备与迎合获得确定感与认可",
+          "consequence": "自尊受损、焦虑加重，家庭互动紧张，日常自我照料与烹饪效率下降"
+        },
+        {
+          "behavior": "对钓鱼的回避与“我永远不行”的自我否定",
+          "antecedent": [
+            "回想错失大鱼的经历",
+            "计划或想到再次去钓鱼"
+          ],
+          "core_reason": "将一次失败过度概括为稳定特质结论，形成消极自我图式",
+          "function": "短期内逃避失败带来的焦虑与羞耻",
+          "consequence": "兴趣与动机下降，积极体验减少，自我效能进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 28
+}

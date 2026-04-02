@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "安诚",
+      "gender": "男",
+      "occupation": "全职家庭主夫",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与配偶共同生活，有两个女儿；因对烹饪的自我怀疑导致家庭关系紧张",
+      "social_status": "有几位要好的朋友，但尚未与他们讨论自我怀疑的感受",
+      "medical_history": "无重大躯体疾病史；既往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、语气偏消极、现场紧张与不安、合作度尚可但对改变缺乏信心、倾向自我否定与回避与他人讨论感受"
+    },
+    "main_problem": "我相信自己永远不会成为一名伟大的厨师，尽管我热爱烹饪，这种想法导致自我怀疑与自我否定。",
+    "topic": "职业发展",
+    "core_demands": "这些自我怀疑的感受正在影响我对烹饪的信心与热情，并且影响我的日常生活，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "几年前在一次做菜后收到负面反馈，最初引发中等强度的压力体验；此后对烹饪的信心显著下降，开始频繁自我怀疑并避免为他人烹饪。虽然在负面反馈之前曾多次对自己的作品感到满意和自信，但这些正面经验在负评后被“掩盖”，被来访者视为“不算数”，逐步形成“我永远不会成为伟大厨师”的信念并影响家庭关系、日常情绪与动机。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不会成为伟大的厨师",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "几年前某道菜收到负面反馈",
+          "conditional_assumptions": "如果我的菜被负面评价，就证明我不够好，也永远无法成为大厨",
+          "compensatory_strategies": "避免为他人烹饪、反复自我怀疑、通过观看教程和练习新菜谱试图弥补但仍不敢展示",
+          "automatic_thoughts": "我做得很差，我不会成功",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每当需要为他人做饭时",
+          "conditional_assumptions": "如果做给别人吃，不够完美就意味着失败并会让他们失望",
+          "compensatory_strategies": "回避为他人烹饪，以减少被评价的机会",
+          "automatic_thoughts": "他们可能不喜欢我的菜，我会让他们失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当想到追求烹饪职业或进入专业厨房时",
+          "conditional_assumptions": "如果达不到专业厨房的高标准，就说明我不适合这条路",
+          "compensatory_strategies": "放弃职业方向、减少尝试、避免与朋友讨论以免暴露脆弱",
+          "automatic_thoughts": "我在职业厨房一定不行，这个梦想正在滑走",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "当妻子和女儿表达喜欢他的烹饪时",
+          "conditional_assumptions": "正面反馈并不代表真实水平，过去的好表现不算数",
+          "compensatory_strategies": "否定正面体验，不与亲友分享真实感受",
+          "automatic_thoughts": "这些不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过烹饪被认可、被喜欢，并在家庭与职业上被视为有能力的人",
+        "fear": "害怕被批评与否定、害怕让家人失望、害怕在职业厨房中失败",
+        "defense_goal": [
+          "通过回避他人评价（不为他人烹饪）来维持安全感",
+          "否定积极反馈以避免提升期待后的可能失败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的家庭提供者/家庭厨师，容易让家人失望的人",
+          "object_representation": "被我辜负或可能对我失望的家人",
+          "linking_affect": "愧疚、焦虑、羞耻"
+        },
+        {
+          "self_representation": "被评判的无力者",
+          "object_representation": "挑剔的批评者/评价者",
+          "linking_affect": "紧张、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请他检视并挑战“我不会成为伟大厨师”的信念、或建议进行行为实验时",
+          "interpretation": "来访者倾向认为改变不会发生，尝试是徒劳（移情性地将失败预期带入当前关系）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用犹豫与怀疑的语气，强调“也许”“不过”“我觉得没用”，以此弱化尝试的必要性。"
+        },
+        {
+          "trigger_condition": "当被问及是否愿意与家人或朋友分享真实感受与担忧时",
+          "interpretation": "认为他人不会理解或会评判自己（把自身的羞耻与担心归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避直接回答，使用“他们不会理解”“说出来没意义”等语句，转而结束话题。"
+        },
+        {
+          "trigger_condition": "当听到他人肯定其烹饪或被提醒家人喜欢他的菜时",
+          "interpretation": "将正面信息视为无效或不算数",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以轻描淡写或否定语句回应，如“那不一样”“那些不算”，语气冷淡，迅速换话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "热爱的烹饪被自我怀疑吞噬，难以从中获得以往的意义感",
+            "想到职业厨房时感到“梦想正在滑走”与无望"
+          ],
+          "outcomes": [
+            "动机下降与兴趣减退",
+            "职业追求停滞",
+            "情绪低落与自我否定加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有朋友但没有讨论自我怀疑的感受，选择独自承受",
+            "避免为他人烹饪导致与家人互动减少、关系紧张"
+          ],
+          "outcomes": [
+            "支持系统未被有效使用",
+            "亲密关系疏离与紧张加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "压抑为他人烹饪的冲动，转而自我苛责与自我怀疑",
+            "不向朋友求助或分享感受，选择独自承受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为朋友不会理解自己的自我怀疑，从而不分享",
+            "预设他人会不喜欢自己的菜"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定如“我不够好”",
+            "对尝试改变与接受反馈过度谨慎、缺乏信心"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "热爱烹饪本身，具有持续兴趣基础",
+          "家人喜欢他的菜，为积极反馈与支持提供可能性",
+          "愿意尝试从熟悉菜式入手并接受行为实验的探索态度",
+          "具备练习与自学的行为（观看教程、练习新菜谱）",
+          "拥有可用的朋友支持网络（虽未使用）"
+        ],
+        "negative_force": [
+          "自我怀疑严重、常自我否定",
+          "过度概括与负向预测，聚焦负面反馈",
+          "否定积极反馈，难以整合正面经验",
+          "回避为他人烹饪以逃避评价与失败感",
+          "尴尬与羞耻阻碍向他人寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避为他人烹饪",
+          "antecedent": [
+            "想到要为他人做饭时",
+            "想象他人评价或回忆几年前的负面反馈",
+            "考虑从事烹饪职业时"
+          ],
+          "core_reason": "负面反馈后形成“我不够好/永远不会成为大厨”的信念，并对被评价产生强烈担忧（过度概括与负向预期）",
+          "function": "逃避被评价、羞耻与潜在失败，短期缓解焦虑",
+          "consequence": "家庭角色受影响、与家人关系紧张、烹饪实践减少导致技能与信心进一步下降"
+        },
+        {
+          "behavior": "持续性的自我怀疑与自我贬低的自动化思维",
+          "antecedent": [
+            "烹饪前后或为他人做饭的场景",
+            "思考职业发展与进入专业厨房时",
+            "回忆负面反馈时"
+          ],
+          "core_reason": "将单次负面反馈视为稳定特质证据，过滤与否定正向体验，维持“我不够好”的核心信念",
+          "function": "通过降低期待与自我否定来避免进一步尝试和可能失败的风险",
+          "consequence": "情绪低落、动机下降、职业追求停滞与日常生活受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 714
+}

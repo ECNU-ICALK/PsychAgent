@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "机械师",
+      "educational_background": "技校机械工程相关认证",
+      "marital_status": "单身",
+      "family_status": "无直系亲属，独居",
+      "social_status": "有几位支持她的亲密朋友，但尚未与他们讨论自我怀疑；日常生活未受明显影响；工作表现稳定",
+      "medical_history": "无重大躯体疾病；无既往心理问题治疗；既往未出现类似问题",
+      "language_features": "表达清晰，能具体描述自我怀疑与担忧，能配合咨询探索"
+    },
+    "main_problem": "我一直觉得自己组装的电脑不够好，社区的人不会买，这让我产生自我怀疑并在尝试销售上犹豫不决。",
+    "topic": "职业发展",
+    "core_demands": "希望通过咨询来应对自我怀疑，减轻对拒绝和失败的恐惧，从而更有信心地尝试销售自己组装的电脑并探索新的机会。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（我的作品不够好）",
+        "被拒绝就意味着失败"
+      ],
+      "special_situations": [
+        {
+          "event": "当想到接触潜在客户或展示自己组装的电脑时",
+          "conditional_assumptions": "如果我的电脑不够完美或不能满足大多数人的标准，就算失败、不值得卖",
+          "compensatory_strategies": "回避与潜在客户接触，拖延或完全不尝试销售",
+          "automatic_thoughts": "他们会觉得我的电脑不够好，会拒绝我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在设想尝试销售可能的结果时",
+          "conditional_assumptions": "如果没有人购买，就说明我不适合做这件事，我的努力都白费",
+          "compensatory_strategies": "不去寻求反馈或小范围测试，以避免失败带来的挫败感",
+          "automatic_thoughts": "一旦没人买，我的努力都是白费，我不适合做这个",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "当注意到自己享受组装电脑的过程时",
+          "conditional_assumptions": "只有被他人认可和购买才算有价值，个人的享受不算数",
+          "compensatory_strategies": "否定正面的体验与能力，贬低自己的作品",
+          "automatic_thoughts": "我再怎么喜欢也没用，别人还是不会买",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当想到向朋友或熟人寻求对电脑的反馈时",
+          "conditional_assumptions": "如果我开口寻求反馈，他们会评判我或不理解我",
+          "compensatory_strategies": "保持沉默，不寻求支持或外部意见",
+          "automatic_thoughts": "他们会评判我/觉得我不行",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自己的能力与作品被认可、被接纳，能安全地与他人建立联系",
+        "fear": "害怕被拒绝与失败，担心被否定",
+        "defense_goal": [
+          "通过保持距离与回避尝试来降低被拒绝的风险",
+          "在行动前进行过度预判与自我否定以保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、可能被否定的创作者/卖家",
+          "object_representation": "挑剔、评判性的买家或朋友",
+          "linking_affect": "焦虑、恐惧、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议从小范围获取反馈、逐步尝试时",
+          "interpretation": "认为他人会评判与拒绝自己（将内在的自我批评投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "个体将自己难以接纳的感受归于他人。",
+          "response_instruction": "以犹豫的语气回应，强调“他们可能会评判我”，使用模糊词（也许、可能），避免做出明确承诺或行动计划。"
+        },
+        {
+          "trigger_condition": "当被邀请同时考虑积极结果或制定具体的行动步骤时",
+          "interpretation": "把尝试等同于冒巨大风险，倾向先用理性分析“想清楚”来回避情绪不适",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用分析性的语气，列举假设与最坏情形，减少情感词汇，转而讨论“理论上/如果……”等。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在开启新尝试（出售自组电脑）的选择与责任面前感到焦虑",
+            "担心失败与被拒绝，因而暂停行动"
+          ],
+          "outcomes": [
+            "回避行动与拖延",
+            "自我怀疑加重，无法通过现实检验获得矫正体验"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无直系亲属",
+            "虽有朋友支持但不愿向其求助或分享自我怀疑，担心被评判"
+          ],
+          "outcomes": [
+            "社会支持未被利用，焦虑与恐惧维持",
+            "增加自我封闭与犹豫"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中多次表示“我不确定能不能做到”，避免做出明确承诺",
+            "对可能的评价高度敏感，倾向于先否定自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设他人会评判或拒绝她（“他们会觉得我的电脑不够好”）",
+            "不向朋友寻求反馈，认为他们会不理解自己"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "想寻求支持与反馈却选择沉默，把压力与疑虑留给自己",
+            "独自反复思考而不外求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "稳定的机械师工作表现，具备持续的职业能力",
+          "对组装电脑有内在兴趣与投入",
+          "有几位愿意支持她的朋友（潜在社会支持）",
+          "能够识别并讨论负性思维模式，愿意尝试改变",
+          "主动寻求心理咨询，显示改变动机"
+        ],
+        "negative_force": [
+          "害怕被拒绝与失败，导致回避尝试",
+          "非黑即白思维，将成败二分化",
+          "“读心术”与“预测未来”，预设他人会否定自己",
+          "否定正向经验与能力，难以整合自我优势",
+          "对他人评价的外部验证依赖，缺乏内部自我肯定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避接触潜在客户与销售自组电脑",
+          "antecedent": [
+            "想到接触潜在客户或展示作品",
+            "设想销售可能失败的情形",
+            "准备向朋友寻求反馈的念头出现"
+          ],
+          "core_reason": "对被拒绝与失败的恐惧；存在灾难化、读心术、非黑即白等负性认知",
+          "function": "逃避不受欢迎的情绪与潜在的拒绝，短期降低焦虑",
+          "consequence": "迟迟未开始销售，机会受限，自信心下降"
+        },
+        {
+          "behavior": "否定正面体验与能力（如“喜欢也没用”）",
+          "antecedent": [
+            "在谈到自己享受组装电脑的过程时",
+            "被邀请考虑正面结果或可能性时"
+          ],
+          "core_reason": "通过贬低积极面来维持心理防御，避免希望落空带来的失望",
+          "function": "避免情绪波动与不确定性，维持自我保护",
+          "consequence": "动机下降，难以从正向体验中获得能量，持续自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1252
+}

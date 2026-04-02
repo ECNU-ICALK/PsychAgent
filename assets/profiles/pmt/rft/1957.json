@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "林莎",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "以家庭为中心，重视与家人的关系",
+      "social_status": "有少数亲密朋友，但对分享这些具体感受有所犹豫",
+      "medical_history": "无明显躯体疾病；既往无类似心理问题与治疗史",
+      "language_features": "表达清晰，能具体叙述事件与感受；语气中性；倾向将他人想法做负面推测；对向朋友表达此类感受犹豫"
+    },
+    "main_problem": "我常觉得自己让家人失望，并且他们认为我很自私，尤其当我必须把工作优先于与家人相处时。",
+    "topic": "家庭关系",
+    "core_demands": "希望获得关于如何管理这些情绪的指导，以减轻对心理健康和家庭关系的影响。",
+    "growth_experiences": [
+      "几年前因多次加班至很晚开始出现内疚与担忧，最初压力中等，随后随着此类情绪持续而逐渐升高；每当需要加班或将工作优先于家庭时间，都会触发强烈的内疚与担忧。",
+      "一次因工作会议错过家庭晚餐，事后强烈内疚，通过为家人购买昂贵礼物与安排家庭活动试图补偿；家人虽表示欣赏，但仍存在紧张与未解决的情绪，来访者内疚未缓解。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是自私的/会让家人失望的",
+        "只有始终把家庭放在第一位，我才是一个好女儿/有价值的人"
+      ],
+      "special_situations": [
+        {
+          "event": "某次加班很晚回家，家人已全部入睡",
+          "conditional_assumptions": "如果我没有在他们清醒时陪伴，就等于我不重视家庭、是自私的",
+          "compensatory_strategies": "第二天通过买礼物、安排家庭活动来补偿",
+          "automatic_thoughts": "他们一定很生气，觉得我很自私",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "因工作会议错过家庭晚餐",
+          "conditional_assumptions": "重要家庭活动不能缺席；错过就证明我是不合格的女儿",
+          "compensatory_strategies": "购买昂贵礼物希望抵消缺席带来的影响",
+          "automatic_thoughts": "我不该把工作放在家庭之前",
+          "cognitive_pattern": "Should"
+        },
+        {
+          "event": "在工作与家庭时间发生冲突时需要优先工作",
+          "conditional_assumptions": "必须始终把家庭放在第一位，否则就是不够好、会被家人认为自私",
+          "compensatory_strategies": "回避与朋友谈及此类感受；通过花钱与安排活动来弥补",
+          "automatic_thoughts": "我让他们失望了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "夜间入睡前反复回想曾错过的家庭事件",
+          "conditional_assumptions": "曾经错过一次就说明我总是让家人失望，好的部分不算数",
+          "compensatory_strategies": "反复自责、难以入睡",
+          "automatic_thoughts": "我总是在让家人失望",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人接纳与肯定，作为“尽责的女儿”被看见与珍惜",
+        "fear": "害怕被家人视为自私、被责难或疏远，关系失去温暖与亲近",
+        "defense_goal": [
+          "通过自责与补偿来维持被接纳感",
+          "避免直面家人真实反馈以降低被拒绝的风险",
+          "以把家庭永远置于首位的准则来控制焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、害怕让人失望的女儿",
+          "object_representation": "会批评/会失望的评判性家人",
+          "linking_affect": "内疚、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当家人对自己缺席保持沉默或气氛紧张、或被询问缺席原因时",
+          "interpretation": "认为他们在生气、觉得自己自私（将自己的担忧投射到对方）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以讨好与解释为主，语气急切、频繁强调“我真的在乎”，通过买礼物与安排活动来示好，避免直接探询对方真实感受。"
+        },
+        {
+          "trigger_condition": "谈到错过家庭活动或需要优先工作时",
+          "interpretation": "把错过事件等同于人格失败，强化自我贬责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“都是我的错”），语气低沉，提出补偿方案（送礼物/花钱安排活动），弱化自身需求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在工作与家庭责任之间感到两难与道德压力",
+            "以“应该始终把家庭放在第一位”的外在价值条件约束自我选择"
+          ],
+          "outcomes": [
+            "内疚与焦虑加剧",
+            "睡眠受影响",
+            "家庭关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有少数密友，但对分享这些具体内疚与担忧的感受犹豫"
+          ],
+          "outcomes": [
+            "情绪负担内化、反刍加重",
+            "获得支持的渠道受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复以“我应该把家庭放在第一位”要求自己",
+            "将错过一次家庭活动等同于不合格的女儿"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为家人一定在生气并且觉得自己自私（读心式推断）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈自责与反刍",
+            "犹豫向朋友分享具体内疚担忧",
+            "怀疑自己能否坚持边界调整"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "重视家庭关系、愿意付出与弥补",
+          "主动寻求心理咨询支持",
+          "具备沟通与边界设定的初步意愿（尝试设定更明确的工作时间并与家人沟通）",
+          "有少数可倾诉的朋友网络"
+        ],
+        "negative_force": [
+          "过度自责与“应该”信念主导",
+          "读心式推断家人的负面评价",
+          "心理过滤与否定正面（忽视家人的欣赏与接纳）",
+          "反刍思维导致睡眠受影响与工作注意力下降",
+          "在工作与家庭之间以非黑即白方式评判自我价值"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在需要优先工作或错过家庭活动时出现强烈内疚与反刍思考",
+          "antecedent": [
+            "加班至很晚回家时家人已入睡",
+            "因工作会议错过家庭晚餐",
+            "工作与家庭时间发生冲突"
+          ],
+          "core_reason": "将外界的“必须把家庭永远放在第一位”的规则内化；害怕被家人视为自私并失去接纳；倾向以他人评价决定自我价值",
+          "function": "通过自责与反刍试图预防被批评、维持对家庭的道德承诺感",
+          "consequence": "睡眠受影响、工作表现下降、家庭关系紧张"
+        },
+        {
+          "behavior": "通过购买昂贵礼物与安排家庭活动进行补偿",
+          "antecedent": [
+            "错过家庭事件后强烈内疚",
+            "感到家人可能生气或失望"
+          ],
+          "core_reason": "以补偿行为应对被视为自私的恐惧，寻求外部认可以缓解内疚",
+          "function": "寻求家庭接纳与外部肯定，暂时降低焦虑与内疚",
+          "consequence": "花费增加但内疚未缓解，紧张关系未根本改善"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1957
+}

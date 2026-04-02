@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "张敏",
+      "gender": "女",
+      "occupation": "办公室职员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有一群支持她的朋友，但尚未与他们讨论自我怀疑的感受",
+      "medical_history": "无显著身体疾病；既往未出现类似问题；未接受过心理治疗或辅导",
+      "language_features": "态度积极、表达清晰、愿意配合与反思；逻辑性较好但倾向绝对化比较；能觉察并描述自身认知模式"
+    },
+    "main_problem": "我最近开始上射箭课并对此充满热情，但我总觉得无论我变得多好，任何人只要练习一下就能超过我。这种想法导致了自我怀疑，影响了我继续提高射箭技能的动力。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些自我怀疑的想法阻碍了我在射箭方面的进步，并影响了我对这项运动的整体享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不如他人",
+        "只要有人比我强，我的努力就没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "每当看到别人在射箭中的表现更出色时",
+          "conditional_assumptions": "如果他人比我表现更好，就说明我不够好",
+          "compensatory_strategies": "通过与他人比较来衡量自身水平，并尝试设定目标、规律练习以证明自己",
+          "automatic_thoughts": "我永远不可能像他们一样好；再怎么练也有人比我强",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在练习中命中目标、准确度提升时",
+          "conditional_assumptions": "如果我的进步不能超过别人，就不值得被肯定",
+          "compensatory_strategies": "淡化或否定自己的成绩与努力，把注意力转回他人的表现",
+          "automatic_thoughts": "这不算什么；还不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "思考“任何人只要练习一下就能超过我”的想法被激活时",
+          "conditional_assumptions": "一次或他人某次表现优于我，就意味着我总体都会不如人",
+          "compensatory_strategies": "以绝对化标准评估自己，减少练习动力以避免失望",
+          "automatic_thoughts": "不管我做什么，别人都能轻易超过我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在兼顾全职工作与新爱好射箭时感到压力",
+          "conditional_assumptions": "如果无法完美兼顾工作与练习，就说明我会失败",
+          "compensatory_strategies": "以压力为由降低练习投入，尝试用目标计划来平衡但效果有限",
+          "automatic_thoughts": "我做不到同时把工作和射箭都做好，最终会失败",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在射箭中获得进步与自我肯定",
+        "fear": "害怕被比较后显得不如人、被否定",
+        "defense_goal": [
+          "降低期待、通过理性比较来保护自己以减少失望感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如他人的初学者/学习者",
+          "object_representation": "更优秀的他者/潜在的比较对象",
+          "linking_affect": "自卑、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她承认并面对自己的进步与成就时",
+          "interpretation": "将承认成就视为不安全，担心随后会被他人超过并被否定（将他人的优越感受为对自我的威胁）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用克制而平静的语气，强调事实与数据，减少情绪词汇，避免直接触碰自卑与脆弱感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为“无论我多努力，总有人能超过我”，以他人的表现为参照衡量自我价值"
+          ],
+          "outcomes": [
+            "自我怀疑增强",
+            "练习动力下降",
+            "对射箭的主观享受减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "有支持性的朋友却未向其表达自我怀疑或寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对射箭有热情并持续参与课程",
+          "能够设定目标并规律练习",
+          "有支持性的朋友网络",
+          "工作表现未受影响，基础生活稳定"
+        ],
+        "negative_force": [
+          "过度与他人比较，依赖外部参照衡量自我价值",
+          "否定积极与过度概括的认知偏差",
+          "自我怀疑导致练习动力下降",
+          "压力来源于同时兼顾工作与新爱好而加剧认知负面化",
+          "未主动寻求社会支持，倾向把困扰内化处理"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到他人射箭表现更好时出现强烈自我怀疑并降低练习动力",
+          "antecedent": [
+            "看到或想到他人在射箭中的优秀表现",
+            "反复思考“任何人只要练习一下就能超过我”的念头",
+            "在兼顾全职工作与练习时感到压力"
+          ],
+          "core_reason": "以他人比较为核心的自我评估方式，伴随过度概括与否定积极的认知偏差，使自我价值依赖外部参照",
+          "function": "通过减少投入与练习来逃避失败与羞耻感，试图降低被比较与被否定的情绪痛苦",
+          "consequence": "练习频率与投入度下降、技能提升受阻、对射箭的享受减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1393
+}

@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "韩睿",
+      "gender": "男",
+      "occupation": "枪械俱乐部负责人",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可交流一般事务，但因害怕他人对诗歌的评价而难以建立更深的连接；未与朋友讨论作为诗人的失败感",
+      "medical_history": "无重要躯体疾病；无既往类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑连贯，态度中性，合作度较好；在谈及诗歌反馈时常用绝对化表述（如“完全失败”），易出现灾难化与非黑即白的认知"
+    },
+    "main_problem": "作为诗人感到自己是失败者，因为认为没有人欣赏我的作品。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为作为诗人的失败感开始影响我的自尊和整体情绪。",
+    "growth_experiences": [
+      "约两年前开始公开分享诗歌；在每次诗歌朗诵活动及线上发布后较少获得正向反馈或赞美，失败感逐步加重；尝试自我安抚与向朋友寻求认可但效果短暂、情绪仍持续受影响；因害怕被评判而避免与朋友深入讨论诗歌相关感受，社交连接受限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的价值取决于他人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "诗歌朗诵活动结束后，现场少有正面反馈或赞美",
+          "conditional_assumptions": "如果没有得到积极反馈，就说明我的诗很糟，我就是失败者",
+          "compensatory_strategies": "在下一次活动前进行自我安抚、或加倍寻求他人的认可以缓解不安",
+          "automatic_thoughts": "没有人喜欢我的诗，我就是个失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "将诗歌作品发布到线上后，互动与赞赏较少",
+          "conditional_assumptions": "线上反应不热烈就意味着没人欣赏我的作品",
+          "compensatory_strategies": "频繁关注点赞与评论以寻求外部验证，或减少分享以避免再受挫",
+          "automatic_thoughts": "大家都不喜欢我的作品",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到与朋友坦诚讨论作为诗人的失败感时",
+          "conditional_assumptions": "如果我表现脆弱，他们会觉得我太敏感或不认真对待我",
+          "compensatory_strategies": "回避与朋友深入交流，保持距离以避免被评判",
+          "automatic_thoughts": "他们不会认真对待我，会觉得我太敏感",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被欣赏与被认真对待（作品获得认可）",
+        "fear": "害怕被评判、被轻视与不被认真对待，从而自我价值被否定",
+        "defense_goal": [
+          "保持疏离以降低被否定的风险",
+          "依赖外部验证来暂时稳定自我价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易被否定的失败者",
+          "object_representation": "苛刻或不认真对待自己的评判者",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向他人（如朋友）公开表达对诗歌的失败感或寻求反馈时",
+          "interpretation": "他人会像评判者一样轻视或不认真对待自己（倾向将内在的担忧归因于他人意图）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用含糊与防御性的表述（如“他们会觉得我太敏感”），回避具体细节；语气克制、降低情感暴露，以保护自我。"
+        },
+        {
+          "trigger_condition": "当被建议更开放地寻求真实反馈或向信任的人表达脆弱时",
+          "interpretation": "如果表现出需要或脆弱，会被视为“绝望或依赖”，从而失去尊重",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调“不想显得绝望或需要”，以理性理由拒绝深入分享；语气平稳，以逻辑为主、减少情感接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕被评判而难以建立更深的连接",
+            "未与朋友讨论作为诗人的失败感，倾向独自承受",
+            "对他人是否会认真对待自己存有不确定与焦虑"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "整体情绪低落",
+            "睡眠与自我照料受影响",
+            "社交回避与孤立感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我不想显得绝望或需要”为准则约束自我表达",
+            "用应然标准限制脆弱的呈现"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设他人会认为自己“太敏感”或“不认真对待自己”",
+            "在社交前就假定会被负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人看法而谨慎表达",
+            "因为担心被评判而避免深入交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有基本的朋友支持网络（尽管尚未讨论失败感）",
+          "职业功能稳定（枪械俱乐部工作未受影响）",
+          "愿意尝试收集更准确的反馈并进行行为实验以检验信念"
+        ],
+        "negative_force": [
+          "强烈依赖外部验证来界定自我价值",
+          "认知偏差显著（灾难化、过度概括、非黑即白、读心术）",
+          "害怕被评判，回避深入人际连接，强化孤立与失败感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在分享诗歌后出现强烈自我否定与失败感",
+          "antecedent": [
+            "诗歌朗诵活动后获得的赞美较少",
+            "线上发布作品后互动不多"
+          ],
+          "core_reason": "将自我价值过度绑定于他人反馈，对负面或不足的反馈进行灾难化解读与过度概括",
+          "function": "逃避被否定的威胁、通过自我否定与回避来暂时降低不确定性与焦虑",
+          "consequence": "自尊下降、整体情绪低落、睡眠与自我照料受影响"
+        },
+        {
+          "behavior": "回避与朋友深入讨论失败感并在人际关系中保持距离",
+          "antecedent": [
+            "想到要向朋友坦诚表达作为诗人的失败感",
+            "面临可能被评价的社交情境"
+          ],
+          "core_reason": "害怕被评判或不被认真对待，倾向读心术与外部归因",
+          "function": "避免负面评价以保护自我形象与情绪",
+          "consequence": "难以建立更深的连接，孤立感增加，问题得不到外部支持与修正"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 300
+}

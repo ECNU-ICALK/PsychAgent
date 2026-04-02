@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "单身",
+      "family_status": "父母来自日本，现居加拿大多伦多",
+      "social_status": "与同事的关系因自我怀疑受到影响；有少数挚友，但尚未与他们讨论自我不足的感受",
+      "medical_history": "未经历类似心理问题，未接受过心理治疗；无显著躯体疾病史",
+      "language_features": "表达清晰、逻辑性较好、配合度高；语气偏消极，常用自我否定与“应该”句式，倾向忽视正面信息"
+    },
+    "main_problem": "因为本学期班级的考试成绩下降，我觉得自己是个糟糕的老师，这种不足感在学年开始时出现并持续影响我。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些无能感正在影响我的心理健康和教学表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的老师",
+        "我不够胜任/不够称职"
+      ],
+      "special_situations": [
+        {
+          "event": "本学期班级整体考试成绩下降",
+          "conditional_assumptions": "如果学生分数下降，就说明我的教学失败、我是糟糕的老师",
+          "compensatory_strategies": "主动向同事寻求反馈并实施新教学策略，试图尽快提升分数",
+          "automatic_thoughts": "我让学生失望了，我是个糟糕的老师",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次测验或作业后发现分数低于预期",
+          "conditional_assumptions": "一次测验成绩不好就代表整体教学失败",
+          "compensatory_strategies": "不断自我批评并加班备课，同时疏远同事以避免暴露不足",
+          "automatic_thoughts": "我失败了，我不够胜任",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在收到学生的正面反馈同时看到低分数",
+          "conditional_assumptions": "如果没有高分，任何正面反馈都不算数",
+          "compensatory_strategies": "只关注负面数据、忽视正面信息",
+          "automatic_thoughts": "分数才是真相，其他都是安慰话",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "学年开始时转为线上教学、教学方式发生变化",
+          "conditional_assumptions": "我必须立刻适应线上教学并让所有学生的成绩都提高，否则我就是不合格",
+          "compensatory_strategies": "试图一次性修复所有问题、加班备课以追求全面改进",
+          "automatic_thoughts": "我应该做得更好，必须让所有学生都学会",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职的教师，帮助学生取得好成绩",
+        "fear": "害怕被否定为不合格、担心让学生受损并因此被指责",
+        "defense_goal": [
+          "通过自我苛责维持控制感并督促改进",
+          "与同事保持距离以避免被评判",
+          "把学生成绩完全个人化以强化责任感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、失败的教师自我",
+          "object_representation": "他人（同事、学生、管理者）被体验为严苛的评判者",
+          "linking_affect": "羞愧、焦虑、自我怀疑"
+        },
+        {
+          "self_representation": "对学生负有全部责任的照顾者",
+          "object_representation": "需要我负责的学生群体",
+          "linking_affect": "内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导进行现实检验并指出学生的正面反馈时",
+          "interpretation": "来访者将正面反馈视为“不算数”，担心承认它会显得自己在逃避问题",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "强调分数是唯一标准，用肯定句否定正面证据，语气坚决但克制。"
+        },
+        {
+          "trigger_condition": "当被询问是否向朋友寻求支持时",
+          "interpretation": "来访者将分享困扰等同于暴露不称职，担心被评判和尴尬",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "以简短否定回应，回避细节，减少情感词汇，语气谨慎。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同事疏远，减少互动",
+            "未与挚友讨论自我不足的感受",
+            "因羞愧与尴尬而回避求助"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "压力与焦虑提升",
+            "睡眠与日常被扰",
+            "职业效能感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”来要求自己",
+            "以分数作为绝对标准评估教学，忽视正面反馈"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评、将学生成绩完全个人化",
+            "与同事保持距离",
+            "犹豫向朋友求助、担心被评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求同事反馈并实施新教学策略",
+          "愿意设定具体且可行的改进目标（聚焦薄弱科目）",
+          "学生曾给予积极反馈（认为课堂有收获、喜欢上课）",
+          "具备一定的社会支持（有几位挚友）"
+        ],
+        "negative_force": [
+          "将学生成绩完全个人化，过度归因于自身",
+          "倾向于将自我标签化为“糟糕的老师”",
+          "否定正面信息、只关注负面数据",
+          "使用“应该/必须”的僵化标准要求自己",
+          "因羞愧与自我怀疑而疏远同事、回避求助"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学业评估结果不理想时的个人化自责与自我标签化",
+          "antecedent": [
+            "看到测验或考试分数下降",
+            "线上教学适应压力",
+            "对学生成绩高度期待"
+          ],
+          "core_reason": "将学生成绩等同于自我价值，依赖外部验证并进行灾难化解释（分数低即失败与不称职）",
+          "function": "通过自责维持控制感并促使自己加倍努力，逃避面对更复杂的影响因素",
+          "consequence": "焦虑和自我怀疑加重、工作表现下降、睡眠与日常受扰、与同事疏远"
+        },
+        {
+          "behavior": "回避社会支持与同伴互动",
+          "antecedent": [
+            "想到向朋友或同事谈及困扰时的尴尬与羞愧",
+            "担心被评判为不称职"
+          ],
+          "core_reason": "害怕暴露不足、害怕负面评价，将求助等同于失败",
+          "function": "逃避羞耻与被评价的风险，保持自我保护的边界",
+          "consequence": "孤立感增强、负面情绪维持、资源利用不足导致问题延续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1380
+}

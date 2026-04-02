@@ -1,0 +1,11 @@
+【旧来访者档案】
+{% if client_info -%}
+{{client_info}}
+{% else %}
+(当前档案为空)
+{% endif %}
+
+---
+
+【本次完整心理咨询对话】
+{{ current_session_dialogue }}

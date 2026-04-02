@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "74",
+      "name": "陈伟伦",
+      "gender": "男",
+      "occupation": "",
+      "educational_background": "",
+      "marital_status": "",
+      "family_status": "与8位兄弟关系亲近",
+      "social_status": "近来回避社交，更常待在家中",
+      "medical_history": "无显著身体疾病；无既往心理治疗或心理问题就诊史",
+      "language_features": "表达清晰、合作度高，开场时略显紧张"
+    },
+    "main_problem": "我认为人们根据我的外表，尤其是我浓密的胡须来评判我，觉得我看起来像无家可归的人。这种想法长期存在，最近更困扰我，使我在社交场合自觉被盯视和评判，进而变得自卑和社交焦虑。",
+    "topic": "人际关系",
+    "core_demands": "我之所以求助，是因为这些关于他人根据我外表评判我的想法开始影响我的自尊和与他人的互动。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被接纳/容易被否定",
+        "外表决定我的价值与他人的态度"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合或结识新朋友时",
+          "conditional_assumptions": "如果别人注意到我的胡子，就意味着他们在评判我，觉得我不体面",
+          "compensatory_strategies": "回避社交，尽量待在家里以减少被评判的机会",
+          "automatic_thoughts": "他们觉得我看起来像无家可归的人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在公共场合注意到他人的目光停留在自己的胡须上",
+          "conditional_assumptions": "外表会直接决定他人对我的尊重与评价",
+          "compensatory_strategies": "减少外出、避免与人对视或交流",
+          "automatic_thoughts": "他们一定在想我邋遢、懒惰或贫穷",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "在获得他人对胡须的正面评价时",
+          "conditional_assumptions": "正面反馈是客套或偶然，不具有代表性",
+          "compensatory_strategies": "忽视或淡化正面反馈，加深对负面线索的注意",
+          "automatic_thoughts": "这些赞美不真实，他们只是随口说说",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "考虑是否将困扰与兄弟们分享时",
+          "conditional_assumptions": "如果我表达这些担忧，他们会觉得我小题大做、很可笑",
+          "compensatory_strategies": "保持沉默，不主动寻求家人支持",
+          "automatic_thoughts": "他们会觉得我在胡思乱想、太敏感了",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人接纳与尊重，不被外表标签化",
+        "fear": "害怕被羞辱、被拒绝、被负面贴标签（如“邋遢/无家可归”）",
+        "defense_goal": [
+          "通过保持距离与回避社交来降低被评判的可能",
+          "在心中贬低正面反馈以维持安全的预期，避免失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被评判、脆弱且需要防御的自己",
+          "object_representation": "挑剔、带有贬斥目光的他人/社会",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "可能被家人认为‘小题大做’的人",
+          "object_representation": "不理解、可能否定自己感受的兄弟们",
+          "linking_affect": "担忧、顾虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合中注意到他人的目光或沉默",
+          "interpretation": "将内心的羞耻感与不确定感体验为“对方在负面评判我”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和、具共情地镜映其羞耻与焦虑；采用开放式提问引导区分感受与事实、梳理证据；鼓励短暂停顿与呼吸以降低生理唤起。"
+        },
+        {
+          "trigger_condition": "当被建议向兄弟寻求支持或分享困扰时",
+          "interpretation": "担心被嘲笑或被视为‘小题大做’，因而不愿开启对话",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性的语调确认其顾虑合理性，鼓励微步尝试（如与最信任的一位兄弟做简短分享），使用“我感受”陈述，设置可控情境并商定边界。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心被评判而减少社交，更多待在家中",
+            "与亲密的兄弟尚未分享真实困扰，情感联结受限"
+          ],
+          "outcomes": [
+            "社交焦虑加重",
+            "自尊受损与自我否定",
+            "与他人疏离感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "过度受他人目光与评价假设所束缚，行为选择受限",
+            "在社交中以回避取代自我主导选择"
+          ],
+          "outcomes": [
+            "回避行为维持与强化焦虑",
+            "生活空间缩小，体验的自主性降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在社交场合里假设他人认为自己邋遢或像无家可归者",
+            "将内在羞耻体验理解为他人的负面评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "担心被兄弟认为‘小题大做’而不表达困扰",
+            "把对外寻求支持的能量转向自我压抑与自我怀疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在社交场合时，来访者通常会假设他人对其外表持负面评价并感到焦虑，从而回避互动。",
+          "unique_outcome": "在一些场合中，他人曾对其胡须给予正面评价（如“很有风度/很有型”），当时互动更为自然，负面情绪较轻。",
+          "reason": "不同情境：对方给出具体而真诚的正向反馈；不同理解：当下注意到正面信息，短暂中断了负面假设的连锁反应。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有与8位兄弟的亲密支持网络（潜在可用的社会支持）",
+          "曾获得他人对胡须的正面反馈，现实中存在积极证据",
+          "动机良好、愿意尝试记录与重构（合作意愿强）",
+          "无显著躯体疾病，基本功能稳定"
+        ],
+        "negative_force": [
+          "显著的认知歪曲（读心术、灾难化、过度概括、否定正面）",
+          "社交回避行为维持焦虑与负性信念",
+          "自尊下降、对外部评价高度敏感",
+          "将外表与自我价值强绑定，忽视多元自我"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与在社交场合的明显焦虑（伴随负性自动思维）",
+          "antecedent": [
+            "处于社交场合或结识新朋友",
+            "注意到他人目光停留在自己的胡须上"
+          ],
+          "core_reason": "对外表的负面假设（读心术、灾难化、过度概括等）导致将‘被评判’视为高概率事件，触发羞耻与焦虑",
+          "function": "逃避不受欢迎的情境（减少被评判的主观风险），短时降低焦虑",
+          "consequence": "社交减少、孤独与自尊下降，负性信念被强化，生活范围缩小"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1662
+}

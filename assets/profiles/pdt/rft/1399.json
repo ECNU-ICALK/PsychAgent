@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈博文",
+      "gender": "男",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "无直系亲属，独居",
+      "social_status": "社交互动有限，工作之外没有亲密关系；社会支持较弱，但可与少数同事交流",
+      "medical_history": "无重大躯体疾病；既往无心理咨询或精神科治疗史",
+      "language_features": "表达清晰、逻辑性较好，能自我反思；配合度高、态度积极，语气平和但夹杂压力与自我怀疑"
+    },
+    "main_problem": "尽管在工厂的薪资不错，但由于感觉自己缺乏生产力，我开始质疑自己的价值和拿这份薪水的理由。这些想法在过去几个月持续存在，最近加剧；由管理层设定新的生产力目标触发，已影响我的日常动机和自尊，工作表现下降，尤其在面对高生产力要求的任务时更为明显。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些关于自我价值和生产力的消极想法正在影响我的工作表现和整体健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于工作产出",
+        "我不配拿这份薪水"
+      ],
+      "special_situations": [
+        {
+          "event": "管理层设定新的生产力目标",
+          "conditional_assumptions": "如果我达不到这些目标，就说明我无能、没有价值",
+          "compensatory_strategies": "设定每日目标、向同事请教，试图用更努力来弥补不足",
+          "automatic_thoughts": "达不到目标就等于失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "被分配与新生产力指标直接挂钩的任务",
+          "conditional_assumptions": "在这些任务上任何差错都证明我不够好",
+          "compensatory_strategies": "继续设定小目标并向同事请教，同时自我苛责以期提升表现",
+          "automatic_thoughts": "我在失败，我不适合这份工作",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想到“薪资与自身产出不匹配”",
+          "conditional_assumptions": "只有产出完全匹配薪资，我才算值得被支付",
+          "compensatory_strategies": "淡化或忽视已有的正向反馈和成就，以更严苛标准要求自己",
+          "automatic_thoughts": "我不配拿这份钱",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "偶尔完成任务并感到一些成就的日子",
+          "conditional_assumptions": "如果不能长期稳定达标，这些小成功就不算数",
+          "compensatory_strategies": "淡化当日成就，继续聚焦差距与大目标",
+          "automatic_thoughts": "这次只是运气，之后还是会失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过工作被认可，证明自己有价值",
+        "fear": "害怕被视为无能、不配得到报酬，从而被否定与羞辱",
+        "defense_goal": [
+          "通过自我要求与加倍努力来控制焦虑并维持价值感",
+          "与人保持一定距离以减少来自他人的评价与暴露"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的员工、可能失败者",
+          "object_representation": "要求苛刻、以数字评判人的管理者/他者",
+          "linking_affect": "焦虑、羞耻、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调少数成功经验并邀请其看到积极面时",
+          "interpretation": "倾向认为这些成功不代表整体表现，他人的肯定“不够真实/不算数”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气克制，使用“但是/只是运气”等词淡化积极面，并迅速转向谈不足与差距。"
+        },
+        {
+          "trigger_condition": "当谈及新生产力目标与自我价值的关系时",
+          "interpretation": "将未达标等同于“我不够好”，把外部标准内化为对自我的否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责式表述，降低自我评价，避免表达对外部标准的不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值等同于生产力与绩效",
+            "认为自己不配得到薪酬",
+            "在未达标时产生强烈自我怀疑"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "动机减退",
+            "压力与焦虑增加",
+            "自我照护变差"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "无直系亲属，独居",
+            "社交互动有限，工作外无亲密关系",
+            "社会支持薄弱"
+          ],
+          "outcomes": [
+            "感到孤立",
+            "缺乏情感支持时更易陷入消极思维"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将管理层设定的生产力目标当作衡量自我价值的唯一标准",
+            "使用“必须达标才算有价值”的自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我不够好”",
+            "过度以目标差距审视自己，忽视已有成就与资源"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在被分配与新生产力目标直接相关的任务时，来访者通常会出现强烈压力与自我怀疑，专注涣散，生产力下降并觉得自己不配拿薪水。",
+          "unique_outcome": "在个别几天里，来访者没有像往常那样沉溺于“离目标差太远”的念头，而是把注意力放在“一次做好一个任务”，结果较为投入地完成当日任务，并感到些许成就。",
+          "reason": "线索：当日心情相对较好、压迫感较低；做法不同：将注意力从整体指标转向当前任务，因而减轻负担并提升专注。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有求助意愿并积极参与咨询，态度正向",
+          "能主动尝试策略（设定每日目标、向同事请教）",
+          "具备自我觉察并能总结有效做法（聚焦当下任务）",
+          "工作相对稳定、薪资较好，具备外部资源"
+        ],
+        "negative_force": [
+          "将自我价值与工作产出刚性绑定的认知",
+          "否定正面经验，放大不足",
+          "个人化与非黑即白思维加重压力",
+          "社会支持薄弱，长期独居与社交受限",
+          "自我照护下降，饮食与日常习惯受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作情境下的自我贬低与动机下降",
+          "antecedent": [
+            "管理层设定新的生产力目标",
+            "被分配与指标直接挂钩的任务",
+            "想到薪资与自身产出不匹配"
+          ],
+          "core_reason": "将自我价值等同于生产力与外部指标，伴随非黑即白与否定正面的认知模式",
+          "function": "短期逃避失败与羞耻感，借由降低投入减轻即时压力",
+          "consequence": "工作绩效下降，自尊受损，压力增加，自我照护与饮食习惯恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1399
+}

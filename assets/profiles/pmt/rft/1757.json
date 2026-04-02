@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "李明杰",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "单身",
+      "family_status": "与父母及一名年幼的兄弟姐妹同住",
+      "social_status": "家庭支持存在，但与朋友和家人关系紧张，情绪触发时倾向自我隔离",
+      "medical_history": "无重大躯体疾病，未曾接受过心理治疗",
+      "language_features": "表达犹豫，常用否定性自评与模糊表述（如“我不知道”“很难描述”）；能配合但持怀疑态度；易淡化正面反馈"
+    },
+    "main_problem": "我长期有“不够好”或“不配成功”的感觉，近几个月加重；在取得成就或被表扬时会怀疑自己的成就，觉得自己不值得任何认可；压力与自我期待使问题发展到对成就产生怀疑。",
+    "topic": "个人成长",
+    "core_demands": "这些不够好的感受正在影响我的动力、自尊和整体心理健康，我需要帮助来处理并克服这些负面想法。",
+    "growth_experiences": [
+      "自幼至今持续存在“我不够好/不配成功”的内在体验，近几个月在学业压力与自我期望增高的情境下明显加重；在取得成就或被他人赞扬时尤其容易触发自我怀疑与否定。",
+      "在以往的学业压力期，曾通过“更努力、设定更高目标”的方式进行应对；虽然能一时推动表现，但也强化了以苛刻标准评价自我、未达即否定的认知与行为模式。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不配拥有成功",
+        "我是个骗子"
+      ],
+      "special_situations": [
+        {
+          "event": "在取得具体进展（如为梦想中的保时捷持续存钱并取得明显进度）时",
+          "conditional_assumptions": "如果这件事“谁都能做到”，就不算真正的成就",
+          "compensatory_strategies": "通过贬低或否定自己的成果来维持对自我价值的谨慎评估",
+          "automatic_thoughts": "这不算本事，谁都能做到",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当收到他人的赞美或正向反馈时",
+          "conditional_assumptions": "若我并不完美或付出不够，任何赞美都不算数",
+          "compensatory_strategies": "淡化他人的肯定、强调自己的不足以避免被看穿",
+          "automatic_thoughts": "他们只是客气，并不了解我其实没付出多少",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "当与同龄人或他人进行成绩或成就的比较时",
+          "conditional_assumptions": "只有比别人更好才值得认可；不是最优秀就等于失败",
+          "compensatory_strategies": "不断提高目标、加压自己并频繁与他人比较",
+          "automatic_thoughts": "我的成就没有意义，别人都更强",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在未达到自我设定的高标准或遭遇学业压力时期",
+          "conditional_assumptions": "达不到高期望就证明我不够好",
+          "compensatory_strategies": "拼命努力、设定更高目标来弥补不够好",
+          "automatic_thoughts": "我就是个失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地看见与认可，感到自己配得上成功与赞美",
+        "fear": "害怕被否定或被揭穿为“不配/骗子”，害怕暴露不够好后被羞辱",
+        "defense_goal": [
+          "通过否定或淡化成就来降低被揭穿的风险",
+          "与他人保持距离以避免被评价或给家人带来负担",
+          "以更高标准苛求自己以获得控制感与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、配不上成功的“被怀疑者/骗子”",
+          "object_representation": "外界是苛刻的评判者或表面友好但不真正理解自己的人",
+          "linking_affect": "羞耻、焦虑、无价值感"
+        },
+        {
+          "self_representation": "会给亲人带来负担的退缩者",
+          "object_representation": "家人是会被我拖累、需要我隐藏问题的人",
+          "linking_affect": "愧疚、不安、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请其回顾成就、给予正向肯定时",
+          "interpretation": "认为对方只是客气或不了解真实付出（移情：把他人体验为不理解的评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平淡、克制的语气强调“这不算什么”，突出自己的不足与付出不多，用解释淡化他人的肯定。"
+        },
+        {
+          "trigger_condition": "当被要求尝试新的自我肯定练习或面对积极改变的可能性时",
+          "interpretation": "将改变视为几乎不可能，担心被证明自己不配（移情：把咨询师的鼓励体验为施压）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "使用犹豫和怀疑的语气，频繁表示“不确定有用”，通过拖延与降低期待来回避练习的情感影响。"
+        },
+        {
+          "trigger_condition": "在谈及与他人比较或学业压力的话题时",
+          "interpretation": "把他人视为更优秀的威胁者，确信自己必然不如人（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用肯定句快速断言“他们都更好”，减少自我探究，回避讨论自身努力与优势。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在取得成就或受到赞美时仍认为“没有意义/不算数”",
+            "频繁与他人比较后感到自身价值缺失"
+          ],
+          "outcomes": [
+            "动力下降与成绩下滑",
+            "对曾经感兴趣的活动失去兴趣",
+            "睡眠模式不稳定"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为避免“给家人增添负担”而回避与家人朋友交流",
+            "在情绪触发时选择自我隔离"
+          ],
+          "outcomes": [
+            "关系紧张与社交退缩",
+            "主观压力感增强、无助感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（如“我不配”）",
+            "过度与他人比较并按更高标准要求自己",
+            "难以接纳赞美与正向反馈"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将他人的赞美理解为“只是客气”或“不理解我”",
+            "推断他人的动机为虚假或不准确"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，或放弃向外寻求他人为其做某事。",
+          "manifestations": [
+            "不向家人倾诉以“不要麻烦别人”为由",
+            "在情绪触发时选择独自承受而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在取得进展或获得赞美时，来访者通常会贬低自己的成就、产生“我不配/不够好”的想法，随后动力下降并与他人疏离。",
+          "unique_outcome": "在过去几个月里，为了梦想中的保时捷持续制定并执行存钱计划，按计划存款并取得了明显进展；在该过程中保持了投入与自我管理。",
+          "reason": "线索：设定了明确且可量化的目标与计划；任务具有阶段性成果可见；家庭环境稳定、节奏可控，使其能维持行动并看到正反馈，因此这次表现不同。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能够设定目标并通过持续行动推进（存钱计划取得进展）",
+          "家庭支持存在，具备可利用的支持资源",
+          "具备一定自我觉察，能识别“贬低正面”的思维模式"
+        ],
+        "negative_force": [
+          "过度自我比较，常以他人的标准评判自身",
+          "高标准与完美化倾向，未达即自我否定",
+          "难以接纳赞美，倾向否定正向反馈",
+          "因羞耻与自我怀疑而回避亲友，导致关系紧张与孤独",
+          "睡眠不规律与兴趣降低，进一步削弱学习动力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "否定与贬低自身成就的自动化思维与言语",
+          "antecedent": [
+            "收到赞美或正向反馈",
+            "在目标上取得阶段性进展（如存钱有成果）",
+            "与他人进行横向比较"
+          ],
+          "core_reason": "核心信念“我不够好/不配成功”，并担心被揭穿为“骗子”",
+          "function": "逃避被评判与暴露不完美，维持自我保护的低期待",
+          "consequence": "动力下降、自尊受损、情绪低落，进一步影响学业与人际"
+        },
+        {
+          "behavior": "学业迟到与动力不足",
+          "antecedent": [
+            "学校压力增大",
+            "未达到自我设定的高标准",
+            "睡眠不规律"
+          ],
+          "core_reason": "将未达目标视为“彻底失败”，引发逃避与耗竭",
+          "function": "短期逃避要求与失败感，缓解即时焦虑",
+          "consequence": "成绩下降、学习效率降低"
+        },
+        {
+          "behavior": "社交回避/与家人朋友疏离",
+          "antecedent": [
+            "触发“不够好/不配”的自我评价",
+            "担心给家人带来负担"
+          ],
+          "core_reason": "羞耻与自我怀疑，担心被他人看见真实的不足",
+          "function": "逃避被评价与情绪暴露，维持表面安全",
+          "consequence": "关系紧张、孤独感强化、支持系统弱化"
+        },
+        {
+          "behavior": "睡眠不规律与兴趣减退",
+          "antecedent": [
+            "持续学业压力与负性自我评价活跃"
+          ],
+          "core_reason": "情绪低落与认知负荷导致作息失衡与快感缺失",
+          "function": "短期回避压力与任务（如拖延、熬夜）",
+          "consequence": "精力下降、上课迟到增多、学习效率进一步降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1757
+}

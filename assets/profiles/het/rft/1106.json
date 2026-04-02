@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "李婧",
+      "gender": "女",
+      "occupation": "销售助理",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母及两位兄弟姐妹同住",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往无类似问题；未接受其他心理治疗或干预",
+      "language_features": "略紧张但愿意配合；能具体描述情境与自动化思维；语气偏消极、持怀疑态度；表达清晰，能跟随咨询师引导"
+    },
+    "main_problem": "我总觉得人们在看我、评判我的外貌，导致我频繁照镜并不断检查自己的形象。",
+    "topic": "人际关系",
+    "core_demands": "外貌与被评判的念头持续影响自信与日常功能，希望缓解对外貌的过度关注与被评判感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的外貌不够好",
+        "别人总在注视并评判我"
+      ],
+      "special_situations": [
+        {
+          "event": "开始新工作后，一位同事对她的穿着作出评论",
+          "conditional_assumptions": "如果有人评论我的穿着，就说明我看起来很糟，其他人也会这样看我",
+          "compensatory_strategies": "加倍关注外貌与频繁照镜，尽量让自己看起来“更完美”以避免再被评价",
+          "automatic_thoughts": "他们觉得我穿得很难看",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "走进公司休息室时，感到所有人都在盯着她看",
+          "conditional_assumptions": "如果别人看我，就一定是在负面评判我的外貌",
+          "compensatory_strategies": "在窗户或任何反射面偷偷检查外貌并调整仪容",
+          "automatic_thoughts": "他们正在审视我，认为我看起来很糟",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作或社交场合中频繁注意到他人的目光或随口评论",
+          "conditional_assumptions": "如果我的外表不够完美，就会被人批评或排斥",
+          "compensatory_strategies": "反复检查外貌、尝试回避镜子、使用自我肯定语但效果有限",
+          "automatic_thoughts": "我看起来不够好，会被人看不起",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与获得正面评价",
+        "fear": "害怕被否定、被羞辱与被负面审视",
+        "defense_goal": [
+          "通过持续自我监控与让外表看起来更“完美”来降低被批评的可能性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被审视、容易受辱的被评价者",
+          "object_representation": "挑剔、批判性的他人（尤其是同事/公众）",
+          "linking_affect": "羞耻、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议记录并重构负性自动化思维、提出尝试新策略时",
+          "interpretation": "认为这些方法可能只是理论、不一定能帮助自己（对改变持怀疑）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、犹疑的语气表达“不确定/可能没用”，使用模糊词汇（如“也许”“好像”）弱化承诺，减少情感暴露。"
+        },
+        {
+          "trigger_condition": "在咨询中谈及他人目光或评论、回忆社交场景",
+          "interpretation": "把内在的自我批评体验视为来自他人（“他们都在看不起我”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "强调他人的负面意图与看法，使用确定性措辞（如“他们都在…”），强化外界的批评感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有一位亲密朋友可倾诉但尚未表达困扰，倾向独自承受",
+            "在公共场合感到被审视与评判，减少开放交流"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "自信下降",
+            "与同事关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "认为他人都在负面评判自己的外貌",
+            "把自我批评体验归因于他人的目光与评论"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过多的自我限制和苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁照镜与在反射面自检外貌",
+            "即使尝试回避镜子仍沉溺于外貌担忧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "存在一位亲密朋友可提供支持（虽尚未求助）",
+          "愿意尝试记录与重构思维，能提出替代视角的可能性",
+          "主动寻求心理咨询，动机明确（希望改善日常功能与自信）"
+        ],
+        "negative_force": [
+          "过度自我监控与外貌检查，依赖外部评价",
+          "显著的认知偏差（读心术、过度概括、心理过滤）",
+          "自信下降并对改变持怀疑态度"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作与公共场合反复检查外貌（照镜、利用反射面自检），伴随显著社交焦虑",
+          "antecedent": [
+            "开始新工作后同事对穿着的评论",
+            "进入休息室或人群场合时感觉被人注视",
+            "在社交或工作场景中过度关注他人目光或随口评论"
+          ],
+          "core_reason": "对他人目光与评论采用“读心”与“过度概括”的解释，担心被负面评价而产生强烈焦虑",
+          "function": "通过检查外貌来降低焦虑并寻求外部确认与安全感",
+          "consequence": "工作表现受损、与同事关系紧张、日常自我照料与作息受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1106
+}

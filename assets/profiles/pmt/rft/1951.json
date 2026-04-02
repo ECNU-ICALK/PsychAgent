@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "李贝宁",
+      "gender": "女",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母同住",
+      "social_status": "社交支持有限，偶与几位熟人寒暄，但难以建立深层友谊",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、配合度较好，语气平稳，会谈中自述略感焦虑"
+    },
+    "main_problem": "因父母严格且缺乏社交，我觉得自己像隐居者，长期感到孤立与寂寞；这些感受始于青春期，并在父母对与朋友社交的限制加严后加重。问题随年龄增长而恶化，我觉得自己没有真正的朋友；几乎每天都会出现，尤其看到同龄人自由社交时更为明显。",
+    "topic": "人际关系",
+    "core_demands": "我意识到孤独与隔离感正在负面影响我的心理健康与整体福祉，因此寻求咨询，希望减轻这些影响并改善社交状况。",
+    "growth_experiences": [
+      "青春期开始，父母非常保护且对外出与见朋友设定严格规则，限制了社交机会；随着年龄增长，这些规定并未明显放松，我逐渐觉得自己不会与人连接、没有真正朋友。长期的孤独感与被限制的经历，使我在日常生活中很少外出参与活动，饮食也变得不规律（有时会跳餐），人际关系以熟人寒暄为主，缺乏深入交流。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个与社会隔绝的人",
+        "没有人会想和我成为朋友"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同龄人自由社交",
+          "conditional_assumptions": "如果我不能像同龄人那样自由社交，就说明我不受欢迎、注定孤独。",
+          "compensatory_strategies": "减少外出、回避主动联系，尽量待在家里以避免被比较与拒绝。",
+          "automatic_thoughts": "我不可能拥有真正的朋友。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "父母对外出和交友实施严格规则",
+          "conditional_assumptions": "父母的规定决定了我的社交命运，我几乎没有自主选择的空间。",
+          "compensatory_strategies": "顺从规则、不主动提出社交计划，以避免冲突。",
+          "automatic_thoughts": "我的社交完全由父母决定，我无能为力。",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "与父母沟通社交需求时被表示“不理解”",
+          "conditional_assumptions": "如果父母不理解我，那就没有人会理解我、支持我社交。",
+          "compensatory_strategies": "减少表达深层需求，降低冲突话题的讨论频率。",
+          "automatic_thoughts": "他们永远不会理解我。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "准备外出或尝试结交新朋友",
+          "conditional_assumptions": "如果我社交经验不足或不够有吸引力，他人就会拒绝我。",
+          "compensatory_strategies": "仅与熟人进行浅层寒暄，避免深入互动或主动邀约。",
+          "automatic_thoughts": "没有人会想和我成为朋友。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由社交、被同伴接纳与理解",
+        "fear": "害怕被拒绝与不被理解；害怕违背父母引发冲突或被批评",
+        "defense_goal": [
+          "通过顺从父母与减少外出保持安全与家庭和谐",
+          "弱化表达深层社交需求以降低被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "受限且孤立的孩子/隐居者",
+          "object_representation": "控制、保护但不理解的父母",
+          "linking_affect": "无力、孤独、挫败"
+        },
+        {
+          "self_representation": "不被喜欢的旁观者",
+          "object_representation": "他人是可能拒绝自己的群体",
+          "linking_affect": "焦虑、羞怯"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及父母的严格与其动机时",
+          "interpretation": "倾向将父母理解为“为我好”，以淡化自身愤怒与对自主的需求",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解，以减轻内在冲突与不适。",
+          "response_instruction": "以温和、委婉的语气陈述，强调父母的好意，减少情绪化词汇，回避对控制的直接指责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期自觉像隐居者、被社交隔离",
+            "几乎每天感到孤独与隔离，看到同龄人自由社交时更为明显",
+            "与熟人仅停留在浅层寒暄，难以分享深层感受"
+          ],
+          "outcomes": [
+            "持续的孤独感与焦虑",
+            "社交回避与生活参与度下降",
+            "饮食不规律、生活质量下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "父母限制外出与交友，社交自主性被规则定义",
+            "表达需求未获理解，体验到选择受限与无力"
+          ],
+          "outcomes": [
+            "无力感与停滞",
+            "主动性降低、难以采取改变"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "会谈中以自我否定语句评价自己（如“没有人会想和我成为朋友”）",
+            "表达愿意尝试但强调“感到卡住”，推进谨慎",
+            "不愿与熟人分享深层感受的倾向在会谈叙述中反复出现"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在社交前预设他人会拒绝自己，将他人的可能态度归因于对方（如“没人会想和我做朋友”）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在尝试社交的情境下，来访者通常会因父母的严格规则与自我否定而回避外出，难以与他人建立友谊。",
+          "unique_outcome": "有几次与熟人外出并交谈，体验到轻松与愉快，没有像往常那样退缩回避。",
+          "reason": "线索：熟人同行与环境更安全、当时父母干预较少（或规则未触发）、自身愿意尝试的小步行动从而降低了焦虑。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "偶有几位熟人可提供低强度社交机会",
+          "能觉察孤独对身心的影响并主动求助",
+          "愿意尝试以小步方式增加社交，并进行自我监测"
+        ],
+        "negative_force": [
+          "父母的严格社交规则与外部控制感强",
+          "自我标签与过度概括（将孤立经验推广为普遍真相）",
+          "社交前的读心术与消极预期（认为他人不会接纳）",
+          "长期回避导致社交技能与自信不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与减少外出",
+          "antecedent": [
+            "看到同龄人自由社交",
+            "父母对外出与交友的严格限制",
+            "在准备社交时出现“没有人会想和我成为朋友”的念头"
+          ],
+          "core_reason": "担心被拒绝与不被理解；在父母严格控制下形成的无力感。",
+          "function": "逃避可能的负面评价与冲突，维持短期的安全与稳定。",
+          "consequence": "进一步孤立，难以建立友谊与参与活动，失业状态与生活受限持续。"
+        },
+        {
+          "behavior": "饮食不规律（跳餐）",
+          "antecedent": [
+            "感到孤独与压力时"
+          ],
+          "core_reason": "孤独与低落使对自我照料的注意与动力下降，进食被忽略。",
+          "function": "短期回避内在不适或减少对负面情绪的关注。",
+          "consequence": "营养摄入不足、身体状态与生活质量下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1951
+}

@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "艾薇",
+      "gender": "女",
+      "occupation": "工厂工人",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有少数朋友可提供支持，但她常犹豫分享感受",
+      "medical_history": "过去未出现类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑尚可；语气偏消极，倾向自我比较与否定；在咨询中虽不乐观但愿意尝试；语速未提及"
+    },
+    "main_problem": "我常常否定积极反馈或成就，觉得相比他人它们毫无意义，这导致我感到不够好与自我价值低。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到不断否定积极反馈正在影响我的自尊和整体幸福感，因此寻求咨询。",
+    "growth_experiences": [
+      "约一年前开始在工厂工作，频繁接受上司反馈，逐步形成与同事的比较习惯；随着时间推移，自我否定与低自尊加重。在此之前未出现类似问题。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的成就不重要/不值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "老板在工厂里表扬我，但同时也表扬了另外两个人",
+          "conditional_assumptions": "如果表扬不是仅属于我、我没有明显优于他人，就不算成就",
+          "compensatory_strategies": "通过与他人比较并否定正面信息来维持自我标准，避免因“不够好”而受挫",
+          "automatic_thoughts": "这不重要/不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作反馈会上收到积极评价",
+          "conditional_assumptions": "如果赞美可能出于客套或管理策略，就不值得相信",
+          "compensatory_strategies": "将他人的赞美归因为“只是为了激励我”，以保护自己免于期待与失望",
+          "automatic_thoughts": "他们只是为了激励我，可能对每个人都这么说",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "看到同事表现出色或多人被称赞",
+          "conditional_assumptions": "必须比他人更好才有价值，否则就是失败",
+          "compensatory_strategies": "不断与同事比较以检验自我价值",
+          "automatic_thoughts": "我不如他们；我的成就不重要",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "下班后回想当天工作表现",
+          "conditional_assumptions": "只要有不足就说明我整体不行",
+          "compensatory_strategies": "反复反思与挑错，忽略当天的优点和成绩",
+          "automatic_thoughts": "今天表现很差，我本该做得更好",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见自身的价值",
+        "fear": "害怕被否定、在比较中显得无能",
+        "defense_goal": [
+          "通过否定积极反馈和减少与同事的接触来降低被评价的风险",
+          "保持疏离以维持安全感，避免受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被比较而显得逊色的员工",
+          "object_representation": "上司/同事是评判者、可能不真诚的认可者",
+          "linking_affect": "自卑、羞耻、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“积极反馈可能是真诚”并邀请进行现实检验时",
+          "interpretation": "来访者倾向认为对方忽视她的真实不足，只是试图让她改变想法（移情：将他人动机理解为管理策略）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以平静但怀疑的语气解释“他们只是想激励我”，弱化积极面，避免直接承认自己的优点。"
+        },
+        {
+          "trigger_condition": "当被邀请向朋友或同事分享感受、寻求支持时",
+          "interpretation": "来访者认为表达会给他人带来负担，因此不应说出感受",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "简短回答、避免深入情绪描述，语气克制，转而谈论客观事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "把积极反馈视为“没意义”“不真实”，认为成就因他人也被表扬而不重要"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "工作动力减弱",
+            "表现受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在同事互动中撤退、减少交流",
+            "犹豫向朋友分享感受"
+          ],
+          "outcomes": [
+            "关系疏离与支持不足",
+            "睡眠受影响",
+            "主观孤立感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "把老板的赞美解读为“只是客套/激励策略”",
+            "认为同事不看重自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我比较与贬低",
+            "用“我不够好”的标准苛责自己",
+            "否定正面反馈"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "在工作中减少与同事交流",
+            "将想要交流的冲动转为夜间自我反刍与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试挑战自动化思维（对现实检验持开放态度）",
+          "在工作中获得过上司的积极反馈（存在客观正向证据）",
+          "拥有少数可靠的朋友作为潜在支持",
+          "能觉察并命名自身的负性思维模式（如否定正面、心理过滤、个人化）"
+        ],
+        "negative_force": [
+          "过度比较与外部评价依赖，倾向以他人表现定义自我价值",
+          "否定正向反馈、以读心术方式解释他人动机",
+          "睡眠受损与精力低下，形成负性循环",
+          "社交撤退，减少互动与支持",
+          "低自尊与持续的自我贬低"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "否定正向反馈与成就",
+          "antecedent": [
+            "在工作反馈或被上司表扬时",
+            "看到同事也被表扬或表现出色"
+          ],
+          "core_reason": "进入工厂后处于高比较与频繁反馈的环境，强化了“我不够好”的认知，导致将赞美视为不真实或不重要",
+          "function": "逃避可能的失望与被否定感，维持自我保护",
+          "consequence": "自尊下降、工作表现受影响、难以巩固积极行为"
+        },
+        {
+          "behavior": "社交撤退（与同事减少交流）",
+          "antecedent": [
+            "感到同事“不看重我”",
+            "比较后感到自卑"
+          ],
+          "core_reason": "害怕被评价与显得无能，担心被否定",
+          "function": "逃避负面评价与羞耻感",
+          "consequence": "人际关系受损、支持减少、孤立感增加"
+        },
+        {
+          "behavior": "夜间反刍导致睡眠受损",
+          "antecedent": [
+            "下班后反思当天工作表现并聚焦不足"
+          ],
+          "core_reason": "心理过滤与“应该”式自我要求加剧自我批评与担忧",
+          "function": "试图通过过度反思获得控制与改进（但适得其反）",
+          "consequence": "睡眠质量下降、精力低下、工作动力减弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 331
+}

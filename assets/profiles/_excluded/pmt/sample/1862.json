@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "林贝娜",
+      "gender": "女",
+      "occupation": "市场营销从业者",
+      "educational_background": "市场营销学士学位",
+      "marital_status": "单身",
+      "family_status": "无抚养人",
+      "social_status": "与同事关系较以往更疏离并易烦躁；有几位朋友可求助，但尚未与任何人讨论此具体问题",
+      "medical_history": "无显著躯体疾病史；既往无相似心理问题与治疗经历",
+      "language_features": "表达清晰、逻辑性良好、语速平稳，配合度高；能识别与描述自动化思维；情绪以焦虑、担忧为主"
+    },
+    "main_problem": "“在一次电话中，商业教练对我说话很简短，我一直在想他不想再和我合作了，这个念头让我很焦虑和紧张。”",
+    "topic": "人际关系",
+    "core_demands": "因这一事件引发的持续性压力与焦虑已影响到工作专注与整体身心健康，来访者希望获得指导与支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不够胜任",
+        "出现问题通常是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "上周与商业教练的一次电话中，对方语气简短、态度显得冷淡",
+          "conditional_assumptions": "如果他对我态度冷淡，就说明我做错了或不够好，他可能不想再合作",
+          "compensatory_strategies": "反复自我反思与复盘、担心显得“需求感强/不专业”而回避直接沟通",
+          "automatic_thoughts": "他不想再和我合作了；一定是我哪里做错了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在需要与商业教练互动或为线上业务做决策的时刻",
+          "conditional_assumptions": "如果我表现得不确定或处理不好，他会看轻我并终止合作",
+          "compensatory_strategies": "拖延决策、反复预演对话以降低被否定的风险",
+          "automatic_thoughts": "我会搞砸，他会终止合作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "反复回想那通简短、突兀的电话细节",
+          "conditional_assumptions": "如果我在通话里说错一句话，就可能导致关系破裂",
+          "compensatory_strategies": "不断在脑中复盘、道德自责以期“改正错误”",
+          "automatic_thoughts": "都是我的错，他对我不耐烦是因为我不够好",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "感受到让线上业务成功的压力增大",
+          "conditional_assumptions": "如果业务不成功，就证明我不行；一旦教练不支持，我的事业会崩盘",
+          "compensatory_strategies": "过度关注负面线索、频繁寻求保证与外部线索来评估风险",
+          "automatic_thoughts": "如果这段合作出问题，我的事业就完了",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被专业他者（如教练）认可与支持，维持稳定合作关系",
+        "fear": "害怕被拒绝、被否定或被视为不专业，从而失去重要关系与机会",
+        "defense_goal": [
+          "通过自责与回避直接澄清来降低被拒绝的风险",
+          "保持表面和谐以维护脆弱的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易犯错的求助者/下属",
+          "object_representation": "可能随时否认与拒绝的评判者/掌控者",
+          "linking_affect": "焦虑、内疚、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议与教练直接沟通、澄清对方态度或意图时",
+          "interpretation": "如果我开口表达担忧，会显得需要感强与不专业，从而被看低或被拒绝",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气谨慎、强调职业形象与风险顾虑，提出各种可能的负面后果以推迟或避免直接沟通"
+        },
+        {
+          "trigger_condition": "当讨论那通简短电话带来的情绪影响时",
+          "interpretation": "直接触及被拒绝的感受会让我失控，理性分析更安全",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "偏向分析“原因与可能性”，以客观措辞描述事件，减少情感词汇与情绪表达"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心教练不再合作导致关系破裂与职业上的孤立",
+            "与同事更疏离、易烦躁，减少情感联结",
+            "犹豫表达真实担忧以避免显得“需要感强”"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "社交退缩",
+            "睡眠与食欲受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对线上业务成功负有选择与责任，引发强烈压力",
+            "在关键决策时段焦虑升高、倾向拖延与反复思考"
+          ],
+          "outcomes": [
+            "决策回避与效率下降",
+            "持续性的自我怀疑与紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心表达担忧会显得需要感强或不专业",
+            "说话时强调控制形象、避免被看低"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将自己的自我怀疑与不安投射为“对方厌烦我、想结束合作”",
+            "在缺乏证据时仍推断他人负面意图"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与教练过去合作良好、对方通常开放且支持",
+          "能识别并描述自动化思维，愿意进行现实检验与重构",
+          "具备一定社会支持（有几位可求助的朋友）"
+        ],
+        "negative_force": [
+          "灾难化、读心术与个人化等认知偏差显著",
+          "对线上业务成败的高压力与高标准加剧焦虑",
+          "回避直接澄清以规避被拒绝的风险，导致误解持续",
+          "焦虑导致睡眠与食欲受损、工作专注下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕与商业教练关系的持续性过度担忧与反复思考",
+          "antecedent": [
+            "想到与教练的互动",
+            "准备通话或会议",
+            "做与线上业务相关的关键决策",
+            "回想那通简短的电话"
+          ],
+          "core_reason": "对被拒绝/被否定的担忧与“我不够好”的信念",
+          "function": "通过反复思考获得暂时的控制感与安全感，回避不确定性",
+          "consequence": "焦虑加剧，睡眠与食欲受影响，工作专注下降"
+        },
+        {
+          "behavior": "回避与教练直接沟通敏感担忧",
+          "antecedent": [
+            "计划向教练表达对那通电话的疑虑",
+            "临近互动前感到紧张"
+          ],
+          "core_reason": "害怕被视为需要感强或不专业，从而被拒绝",
+          "function": "逃避潜在拒绝与尴尬，暂时缓解焦虑",
+          "consequence": "误解难以及时澄清，负性假设持续并扩大"
+        },
+        {
+          "behavior": "在职场对同事表现出退缩与易怒",
+          "antecedent": [
+            "想到与教练事件",
+            "工作压力升高时"
+          ],
+          "core_reason": "焦虑累积与情绪未被表达，转而外显为防御性反应",
+          "function": "短暂释放紧张、减少社交负荷",
+          "consequence": "人际关系受损，支持系统利用减少，进一步加重孤立感与焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1862
+}

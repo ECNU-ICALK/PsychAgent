@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "夏莉",
+      "gender": "女",
+      "occupation": "电厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与配偶和两个孩子同住",
+      "social_status": "有支持性的配偶，但在分享与烹饪相关的焦虑上存在困难",
+      "medical_history": "无显著躯体疾病；无既往心理问题与治疗史",
+      "language_features": "表达清晰，能描述情绪与想法，配合度较高；倾向使用绝对化/泛化的表达；语速未提及"
+    },
+    "main_problem": "几个月前把一锅意大利面烧糊后，我在烹饪方面持续感到无能与失败；每当想到做饭或尝试新菜时就感到焦虑并选择回避。",
+    "topic": "情绪管理",
+    "core_demands": "持续的自卑感与围绕烹饪的焦虑已影响日常生活和家庭关系，因此希望获得专业帮助，减少焦虑、恢复尝试做饭并改善家庭用餐。",
+    "growth_experiences": [
+      "几个月前一次将意大利面煮糊的经历被视为重大失败事件：此后来访者将该单次失误泛化为“自己不会做饭”，频繁回避做饭与尝试新菜，焦虑增加，家庭用餐更多依赖外卖，内心伴随内疚与自责。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的（尤其在厨房/做饭方面）",
+        "如果在“基本”事务上失败，我就是一个失败的家人/伴侣"
+      ],
+      "special_situations": [
+        {
+          "event": "想到走进厨房或准备做饭，联想到几个月前烧糊意大利面的经历",
+          "conditional_assumptions": "如果我再做就会再次失败，这会证明我就是无能的",
+          "compensatory_strategies": "回避实际下厨，只看教程与食谱但不动手",
+          "automatic_thoughts": "我肯定又会搞砸的，还是别试了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "家庭用餐时更多依赖外卖，注意到家人对用餐安排的变化",
+          "conditional_assumptions": "如果我不能提供家常饭菜，就等于辜负家人、我是失败的伴侣/母亲",
+          "compensatory_strategies": "继续回避做饭、在心里自责，减少与配偶讨论相关焦虑",
+          "automatic_thoughts": "我让家人失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想到“做饭是每个人都该会的基本能力”的评价标准",
+          "conditional_assumptions": "如果连基本的都做不好，就说明我是彻底的失败者",
+          "compensatory_strategies": "用全有全无的标准评判自己，给自己贴负面标签",
+          "automatic_thoughts": "我就是不会做饭的人/我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "准备尝试新菜或想象跟随食谱动手做饭",
+          "conditional_assumptions": "一次失败意味着我以后都会失败",
+          "compensatory_strategies": "通过预演失败场景来阻止自己动手，继续避免烹饪",
+          "automatic_thoughts": "上次都烧糊了，这次肯定还是会出错",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人认可、作为照料者（做饭者）是胜任且值得被需要的",
+        "fear": "害怕失败与被评判，担心让家人失望、被视为不称职",
+        "defense_goal": [
+          "通过回避烹饪来降低暴露于失败与羞耻的风险",
+          "以自我苛责来维持对局面的控制感并预防外在批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能且随时会失败的照料者/提供者",
+          "object_representation": "带有期待与评判的家人/重要他人",
+          "linking_affect": "焦虑、内疚、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师鼓励其尝试简单食谱或讨论具体行动计划时",
+          "interpretation": "若尝试失败，咨询师也会看到我的无能（担心被评判）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和、具体化，邀请回到当下情绪体验（例如“此刻你的焦虑在身体里的感觉是什么？”），减少抽象讨论，采用反映与澄清。"
+        },
+        {
+          "trigger_condition": "当家人或咨询师谈到家庭用餐、做饭责任时",
+          "interpretation": "把压力与不满内收为自责，认为一切是自己的错",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用接纳与共情语言，区分“行为与价值”，肯定努力并探讨现实可行的小步尝试，避免强化羞耻。"
+        },
+        {
+          "trigger_condition": "当回忆烧糊意大利面的事件并以“大家都应该会做饭”为标准评判自己时",
+          "interpretation": "将外界的价值与规则直接内化为自我标准，难以容纳个体差异与学习过程",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以温和探询的方式松动“应该”规则，使用重新框定与例外提问，引导识别自我与外界标准的边界。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "尽管配偶支持，但难以与其讨论与烹饪相关的焦虑与羞耻感",
+            "在家庭角色期待（提供家常餐食）与自身不确定/恐惧之间感到隔离"
+          ],
+          "outcomes": [
+            "加重焦虑与自责感",
+            "持续回避烹饪，导致家庭用餐节律紊乱与外卖依赖"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复以“做饭是每个人都应该会的基本能力”评判自己",
+            "将单次失误视为道德/价值层面的失败"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在烹饪相关话题中过度自责，认为自己“辜负了家人”",
+            "对尝试新菜过于谨慎，害怕失败暴露自身价值缺陷"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "配偶支持，具备基本的社会支持系统",
+          "工作表现稳定，角色功能总体良好",
+          "主动寻找解决途径（观看教程、阅读食谱）",
+          "愿意在咨询支持下尝试从简单食谱开始的小步行动"
+        ],
+        "negative_force": [
+          "全或无思维、过度概括与灾难化预期维持焦虑与回避",
+          "将外界规则内摄为僵化的“应该”，自我价值与单次表现过度捆绑",
+          "个体化与自责突出，易将家庭用餐问题归咎于自身",
+          "持续回避烹饪，短期减少焦虑但长期维持问题循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪与尝试新食谱",
+          "antecedent": [
+            "想到做饭或进入厨房",
+            "家庭用餐时间临近",
+            "回忆烧糊意大利面的事件"
+          ],
+          "core_reason": "一次失败被过度概括为恒常失败，并以全或无标准评价自我价值，害怕再次失败与让家人失望",
+          "function": "逃避潜在失败与羞耻、短期降低焦虑",
+          "consequence": "家庭用餐依赖外卖，日常作息受影响，焦虑与自我否定被维持"
+        },
+        {
+          "behavior": "在烹饪相关情境出现显著焦虑与自我否定言语",
+          "antecedent": [
+            "想象跟随食谱动手",
+            "被建议尝试简单菜式"
+          ],
+          "core_reason": "内摄“应该会做饭”的僵化规则与非黑即白标准，赋予错误过高的自我威胁意义",
+          "function": "通过自我批评与退缩获得控制感，避免外界评价",
+          "consequence": "自尊受损、学习与练习的机会减少，形成焦虑—回避—失败预期的恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1913
+}

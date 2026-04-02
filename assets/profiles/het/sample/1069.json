@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "陈博文",
+      "gender": "男",
+      "occupation": "厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "单身",
+      "family_status": "父亲来自印度",
+      "social_status": "有一些可以倾诉的朋友，但未与他们分享关于父亲的愧疚与悲伤",
+      "medical_history": "此前未遇到类似心理问题；未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度良好，能进行自我反思；倾向聚焦负面反馈与自我贴标签"
+    },
+    "main_problem": "我因为从不去看望父亲而认为自己是一个坏儿子，这让我产生愧疚和悲伤。",
+    "topic": "家庭关系",
+    "core_demands": "意识到关于不去看望父亲的愧疚与悲伤正在影响我的心理健康和日常功能，因此寻求咨询帮助。",
+    "growth_experiences": [
+      "几年前为工作搬到不同城市，导致难以定期探望父亲；父亲在电话中提到感到孤独和被忽视；来访者因此愧疚加重，并逐渐回避接听父亲的电话以逃避愧疚。",
+      "近段时间连续经历不顺利的约会：约会前出现明显焦虑并预期失败；约会后感到自卑与被拒，常在脑中反复想象失败情境并聚焦负面反馈。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个坏儿子",
+        "我不被喜欢/不值得被喜欢",
+        "我不够有吸引力"
+      ],
+      "special_situations": [
+        {
+          "event": "接到父亲的来电或想到要给父亲打电话",
+          "conditional_assumptions": "如果我不能经常探望父亲，就说明我是个坏儿子，并且会让他更加孤独",
+          "compensatory_strategies": "回避接听电话、减少联系；为不探望寻找理由以缓解愧疚",
+          "automatic_thoughts": "都是我的错，我是个坏儿子",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与父亲通话时，父亲提到感到孤独与被忽视",
+          "conditional_assumptions": "如果父亲感到孤独，那是我没有尽到儿子的责任",
+          "compensatory_strategies": "口头答应但拖延或继续找借口以避免面对愧疚",
+          "automatic_thoughts": "我让父亲失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "因为工作搬到异地，难以经常探望父亲",
+          "conditional_assumptions": "一个好儿子就应该经常探望父亲；如果做不到就等于不孝",
+          "compensatory_strategies": "自我苛责，并尝试用理性解释与借口为不探望辩解",
+          "automatic_thoughts": "我不合格/不孝",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "约会前想到即将见面",
+          "conditional_assumptions": "如果之前几次约会不顺利，那我注定会再次失败",
+          "compensatory_strategies": "过度担心、在脑中预演失败，试图通过反复反思与寻求反馈来避免错误",
+          "automatic_thoughts": "这次也会很糟，我会被拒绝",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "约会中对方显得不感兴趣",
+          "conditional_assumptions": "她表现冷淡就说明我很无聊或不吸引人",
+          "compensatory_strategies": "事后反刍并集中于负面反馈，忽略其他可能的解释",
+          "automatic_thoughts": "她觉得我很无聊/不够吸引人",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可的好儿子，维系亲密而稳定的父子关系；同时渴望在亲密关系中被真实地喜欢与接纳",
+        "fear": "害怕让父亲失望、被指责为不孝；在亲密关系中害怕被拒绝、被看穿并评判",
+        "defense_goal": [
+          "通过回避联系与合理化来减轻愧疚和焦虑，维持表面的自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚的、不合格的“坏儿子”",
+          "object_representation": "被我伤害、孤独且会失望的父亲",
+          "linking_affect": "愧疚、悲伤、焦虑"
+        },
+        {
+          "self_representation": "不被喜欢、容易被拒绝的追求者",
+          "object_representation": "挑剔、会评判且能“看穿”自己的潜在伴侣",
+          "linking_affect": "羞耻、焦虑、被拒感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当话题涉及是否应探望父亲或接听父亲来电时",
+          "interpretation": "来访者将他人的关切理解为对自己“不孝”的责备，认为自己的不作为必然伤害父亲（移情：自我否定的投射）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但防御的语气解释工作距离和忙碌，列举客观障碍，弱化情感，回避深入讨论愧疚感。"
+        },
+        {
+          "trigger_condition": "当被询问约会细节、对方感受或被拒的原因时",
+          "interpretation": "来访者认为他人会像以往的约会对象一样挑剔、看不起自己（移情：将内在的自我否定投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用不确定性的措辞（如“他们肯定觉得……”），语气犹疑，避免承认自身需要，保持距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "父亲在通话中表达孤独与被忽视",
+            "来访者因愧疚而回避与父亲联系，关系疏离"
+          ],
+          "outcomes": [
+            "持续的愧疚与悲伤",
+            "睡眠与饮食紊乱",
+            "工作表现受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "为工作搬迁至异地，现实条件限制探望频率",
+            "在自主追求与对家庭责任之间感到张力与两难"
+          ],
+          "outcomes": [
+            "自我苛责与“应该”化规则",
+            "加剧回避与自我贴标签"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自述“好儿子就应该经常探望”，以“应该/必须”评价自我",
+            "以是否探望作为衡量自我价值的唯一标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "将原本想与父亲联系的冲动转为自责与愧疚",
+            "通过回避接听电话来对自己施加控制而非直接沟通"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在约会中假设对方会看不起自己、能看穿并评判自己",
+            "将自我不安全感归因于他人的想法与态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一定的社会支持（有朋友可倾诉）",
+          "愿意尝试记录与重构思维（接受写日记与替代视角建议）",
+          "能识别并描述负性自动思维（如预测失败、读心）",
+          "有稳定的工作与生活结构"
+        ],
+        "negative_force": [
+          "自我贴标签为“坏儿子”",
+          "个人化他人的情绪（将父亲的孤独直接归咎于自己）",
+          "回避与父亲联系并进行反刍，强化愧疚",
+          "心理过滤、读心与预测未来，放大负面结果",
+          "睡眠与饮食紊乱，功能受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与父亲联系（不接电话、不探望）",
+          "antecedent": [
+            "想到要给父亲打电话或接到父亲来电",
+            "回忆父亲在通话中表达孤独与被忽视",
+            "因工作搬到异地、行程不便"
+          ],
+          "core_reason": "将“不能经常探望”与“我是坏儿子”直接等同，个人化地承担父亲孤独的责任，引发强烈愧疚与焦虑，从而以回避降低不适",
+          "function": "逃避不受欢迎的情绪（愧疚、焦虑）与被评判的担忧，短期缓解心理压力",
+          "consequence": "父子关系进一步紧张，愧疚与悲伤加剧，睡眠与饮食被扰乱，工作表现下降"
+        },
+        {
+          "behavior": "约会前过度焦虑与负面预期（反复想象失败、读心他人）",
+          "antecedent": [
+            "计划或临近约会时",
+            "经历数次约会不顺后的回忆与自我反刍"
+          ],
+          "core_reason": "基于“我不被喜欢/不够有吸引力”的核心信念，进行灾难化的未来预言与读心，从而预期失败",
+          "function": "试图通过预演失败与过度警惕获得控制感、减少被拒时的打击",
+          "consequence": "焦虑升高，表现受影响，事后自我否定与被拒感加重，进一步削弱人际与约会体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1069
+}

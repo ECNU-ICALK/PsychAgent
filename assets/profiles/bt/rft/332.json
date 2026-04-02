@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "56",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "医学院二年级学生",
+      "educational_background": "攻读医学学位",
+      "marital_status": "离异",
+      "family_status": "与前配偶离婚，有两个孩子；母亲被家人视为最擅长烘焙者",
+      "social_status": "有几位亲密朋友提供情感支持，但尚未就此问题与他们沟通",
+      "medical_history": "无重大躯体疾病；无既往类似心理问题与治疗史",
+      "language_features": "表达清晰、逻辑条理较好、配合度良好；情绪较为平稳（态度中性）"
+    },
+    "main_problem": "我在烘焙方面感到自卑，因为我认为没有人会想尝试我的点心——我妈妈是家里最会烘焙的人。",
+    "topic": "情绪管理",
+    "core_demands": "这些自卑感已经开始影响我的自尊与对烘焙的享受（它曾是我的减压方式），我希望通过咨询建立更平衡的看法，重拾对烘焙的乐趣。",
+    "growth_experiences": [
+      "家庭中长期将母亲视为最擅长烘焙者，亲友在家庭聚会等场合常对母亲的烘焙给予高度评价，并在谈论烘焙时以其作为比较参照。",
+      "与前配偶离婚并育有两名子女。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不如他人。",
+        "我的价值取决于他人的评价与比较结果。"
+      ],
+      "special_situations": [
+        {
+          "event": "在家庭聚会上带去自己做的蛋糕，亲友一边称赞一边将其与母亲的蛋糕比较",
+          "conditional_assumptions": "如果我的作品不如母亲的水准，就说明我不够好，也不值得被认可",
+          "compensatory_strategies": "回避为他人烘焙，转而加倍练习以证明自己",
+          "automatic_thoughts": "我永远达不到她的水平，大家不会想吃我的",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "听到亲友对母亲烘焙的称赞与比较",
+          "conditional_assumptions": "只要别人谈到妈妈的手艺，就等于在否定我",
+          "compensatory_strategies": "频繁寻求他人认可与评价来缓解不确定感",
+          "automatic_thoughts": "他们觉得我不够好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "准备为他人烘焙或要端出作品时",
+          "conditional_assumptions": "只有达到家族中的最高标准，我的烘焙才会被认可；否则就会让人失望",
+          "compensatory_strategies": "拖延或取消为他人烘焙，避免邀请他人品尝",
+          "automatic_thoughts": "他们不会想尝我的点心，我会让他们失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到来自家人和朋友的反馈（其中包含正面评价与比较）",
+          "conditional_assumptions": "只要有比较在，正面评价就不算数；必须毫无比较才算成功",
+          "compensatory_strategies": "忽视正面反馈，继续加倍练习以弥补“不足”",
+          "automatic_thoughts": "他们只是在客套，我其实不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见并因自身独特的烘焙能力而被肯定与欣赏",
+        "fear": "害怕被比较、被贬低与不被接纳，进而感到羞耻与失败",
+        "defense_goal": [
+          "通过回避展示作品以降低被否定的风险",
+          "通过寻求外部认可来暂时维护自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学习者/永远达不到标准的人",
+          "object_representation": "挑剔的评判者/无法满足的比较者（母亲与亲友）",
+          "linking_affect": "羞耻、焦虑、无力感"
+        },
+        {
+          "self_representation": "害怕被否定的孩子",
+          "object_representation": "强大且近乎完美的母亲形象",
+          "linking_affect": "自卑、敬畏、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议向朋友或亲密他人表达脆弱、寻求支持时",
+          "interpretation": "他们会觉得我小题大做、会轻视我（把自己的担心投射到他人意图上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气迟疑，反复强调“这不算什么/我可能是多想了”，避免深入展开具体情绪与细节。"
+        },
+        {
+          "trigger_condition": "当在会谈中被邀请回忆积极反馈或承认自己的进步时",
+          "interpretation": "正面反馈不真实或不算数，只是安慰我",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用客观、评估性的语句，降低情感表达强度，迅速回到“证据/比较”的理性讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "烘焙曾是重要的减压与愉悦来源，如今因比较而变为压力源",
+            "自我价值感被外部比较所绑架，难以从活动本身获得意义与满足"
+          ],
+          "outcomes": [
+            "乐趣与动机下降",
+            "自尊受损与持续自我怀疑",
+            "回避展示作品，生活中放松与恢复功能受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友分享脆弱，担心被否定或被视为小题大做",
+            "对社交支持的利用度低"
+          ],
+          "outcomes": [
+            "情感隔离与羞耻增多",
+            "支持系统未被有效动员，维持问题循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心自己是在小题大做而不敢求助",
+            "反复自我怀疑，不敢表达需求",
+            "希望获得“完全不被比较”的反馈才敢相信自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设他人会轻视或淡化自己的困扰",
+            "将自身的否定体验归因为他人的评价意图"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有几位可提供情感支持的朋友（潜在可用的支持资源）",
+          "主动寻求咨询、愿意尝试新视角与练习（改变动机与行动）",
+          "学业表现稳定，具备自律与韧性",
+          "对烘焙仍有兴趣与投入，愿意练习提升"
+        ],
+        "negative_force": [
+          "过度比较与对外部认可的依赖",
+          "认知偏差：灾难化、过度概括、预测未来与否定积极",
+          "回避为他人烘焙，限制行为尝试与正向经验累积",
+          "羞耻感与自我怀疑增加，阻碍表达脆弱与寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避为他人烘焙",
+          "antecedent": [
+            "准备为他人烘焙或要端出作品时",
+            "听到亲友称赞母亲的烘焙并进行比较时",
+            "在家庭聚会或他人期待品尝时"
+          ],
+          "core_reason": "害怕被比较与否定，内部核心信念“我不够好”，并对可能的负面结果进行灾难化预测",
+          "function": "逃避潜在的羞耻与失败体验，短期降低焦虑",
+          "consequence": "乐趣与放松来源减少，自尊受损，减少技能练习与正向反馈机会"
+        },
+        {
+          "behavior": "反复寻求外部认可并进行自我怀疑",
+          "antecedent": [
+            "收到他人反馈（包括正面评价夹杂比较）",
+            "听到对母亲烘焙的赞美"
+          ],
+          "core_reason": "将自我价值与他人评价高度绑定，缺乏内部评价标准与自我肯定能力",
+          "function": "通过获得肯定暂时缓解不确定感与焦虑",
+          "consequence": "对外部认可的依赖性增加，内在自信难以建立，维持负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 332
+}

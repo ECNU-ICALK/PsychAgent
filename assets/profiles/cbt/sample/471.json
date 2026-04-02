@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "杨衡",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与配偶共同生活，有三个孩子",
+      "social_status": "与配偶和子女关系因其自责与不自信而紧张；有住在同一街区的挚友可交流部分问题，但难以谈及自己的不够好与自卑感",
+      "medical_history": "无明显躯体疾病史；既往无类似心理问题和心理治疗经历",
+      "language_features": "表达清晰、逻辑连贯；情绪偏消极，带有怀疑但愿意配合；能描述自身自动化思维与情绪体验"
+    },
+    "main_problem": "我因为孩子们今天下午错过了他们最喜欢的电视节目而觉得自己是个糟糕的父亲，并因此责怪自己。",
+    "topic": "家庭关系",
+    "core_demands": "我想不再总觉得自己是个失败者；希望能在没有持续性内疚的情况下享受与家人相处的时光。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的父亲",
+        "我不够好/我是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "孩子们因日程安排失误而错过了最喜欢的电视节目",
+          "conditional_assumptions": "如果我不能把孩子们的日程安排得完美无误，就证明我是个不称职的父亲",
+          "compensatory_strategies": "加倍计划与安排孩子们的日程，力求不再出错",
+          "automatic_thoughts": "如果连这么简单的事情都做不好，我就是个糟糕的父亲",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "孩子在活动出差错后表现出失望或难过",
+          "conditional_assumptions": "孩子一不开心就是我的错；一个合格的父亲应该让孩子始终满意",
+          "compensatory_strategies": "立即自责、过度道歉并试图通过控制更多细节来补救",
+          "automatic_thoughts": "都是我的错，我让他们失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "配偶指出自己更易怒更疏远，因而发生争执",
+          "conditional_assumptions": "只要家人对我不满意，就证明我作为丈夫/父亲一无是处",
+          "compensatory_strategies": "忽视自己做得好的地方，反复挑错以逼自己更完美",
+          "automatic_thoughts": "我不称职，哪里都做不好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与挚友散步等本可放松的时刻被负面想法占据，难以享受",
+          "conditional_assumptions": "我不应该享受/放松；只要还没把父亲角色做到完美，就不配娱乐",
+          "compensatory_strategies": "减少社交与休闲，把时间都用于“纠错”和反思",
+          "automatic_thoughts": "我不配享受快乐，我必须把错误都弥补回来",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人接纳与肯定，作为称职、可靠的父亲/丈夫被爱",
+        "fear": "害怕被视为失败、令家人失望并被疏远",
+        "defense_goal": [
+          "通过自我批评与追求完美来预防外界的指责与拒绝",
+          "加强控制与计划以降低不确定性和内疚感",
+          "在冲突中拉开情感距离以避免进一步的否定与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败/有缺陷的父亲、容易辜负他人的人",
+          "object_representation": "被我辜负、随时会失望的孩子",
+          "linking_affect": "内疚、焦虑"
+        },
+        {
+          "self_representation": "被评判与挑剔的丈夫",
+          "object_representation": "挑剔/厌烦的配偶",
+          "linking_affect": "羞耻、自责"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议识别自动思维或提出“行为实验”时",
+          "interpretation": "认为仅靠讨论想法是“无效的空谈”，必须通过完美的行为表现来证明价值",
+          "sring": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、冷静的语气强调逻辑与证据，减少情感词汇，对建议持保留与质疑。"
+        },
+        {
+          "trigger_condition": "当回顾孩子错过节目或家人不满等失败场景时",
+          "interpretation": "将所有不良后果归因于自己，忽视外在情境因素（移情：把内在苛责投向自体）",
+          "sring": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，产生自我批评或内疚。",
+          "response_instruction": "反复自责、道歉，使用“都是我的错/我不行”等自我贬低表述。"
+        },
+        {
+          "trigger_condition": "当察觉到他人的失望或批评信号（如配偶的抱怨、孩子的不悦）",
+          "interpretation": "不加批判地把“必须完美”的他人标准当作唯一正确的准则",
+          "sring": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "频繁使用“应该/必须”的自我要求语句，提高自我控制与自我否定的强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对父职责任与选择的高度控制与自责，担心每次安排失误都意味着不合格",
+            "倾向以完美标准约束自己，害怕犯错带来的后果"
+          ],
+          "outcomes": [
+            "持续的内疚与自我否定",
+            "僵化的完美主义与高控制需求",
+            "家庭互动紧张，难以体验当下的亲密与放松"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与挚友讨论自己的不足与羞耻感",
+            "与配偶更易怒更疏远，争执增加"
+          ],
+          "outcomes": [
+            "社会支持利用不足，情绪调节困难",
+            "关系疏离感加重，自我价值进一步受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "频繁以“应该/必须”要求自己做一个完美的父亲",
+            "将他人的不满视为必须立刻纠正的绝对标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，过分小心谨慎地进行接触。",
+          "manifestations": [
+            "对自身错误高度敏感，反复检视并否定自己",
+            "与咨询师互动中保持怀疑和谨慎，但仍勉强配合"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "将原欲对外发出的能量转而对自己，抑制表达与请求支持的冲动。",
+          "manifestations": [
+            "把对情境的挫败与愤怒转为自责与自我惩罚",
+            "减少与朋友的分享与求助，独自承受压力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "重视家庭、愿意为孩子承担责任",
+          "主动寻求咨询并愿意尝试新方法（如行为实验）",
+          "具备一定的自我觉察，能识别自动化思维与情绪",
+          "拥有基本的社会支持资源（挚友住在附近）",
+          "为改进问题进行过组织与计划的尝试"
+        ],
+        "negative_force": [
+          "自我否定与自责倾向显著（个人化）",
+          "心理过滤，聚焦于负面证据忽视积极面",
+          "完美主义与强烈的“应该”规则",
+          "易怒与情绪失调加剧家庭冲突",
+          "羞耻与孤立导致难以有效利用社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复自责与负性反刍",
+          "antecedent": [
+            "孩子的活动出现差错或未达预期",
+            "孩子在失望时的情绪反应",
+            "想到自己在育儿安排上的一次失误"
+          ],
+          "core_reason": "内化的“完美父亲”标准叠加个人化与心理过滤，形成对错误的灾难化解读与自我价值贬低",
+          "function": "回避来自他人的潜在指责并获得短暂的控制感与“负责感”",
+          "consequence": "焦虑与内疚加重，亲子与夫妻关系受损，反刍循环持续"
+        },
+        {
+          "behavior": "对孩子易怒/发脾气",
+          "antecedent": [
+            "在自责与压力升高后与孩子互动",
+            "家庭日常琐事中出现轻微差错"
+          ],
+          "core_reason": "挫败与羞耻的累积通过易怒外泄，伴随对秩序与完美的高要求",
+          "function": "短暂释放紧张情绪、试图通过控制他人行为恢复秩序",
+          "consequence": "亲子冲突升级、关系受损，事后更强烈的愧疚与自责"
+        },
+        {
+          "behavior": "回避或难以享受休闲/社交活动（如与挚友散步）",
+          "antecedent": [
+            "在休闲场景中出现“我不配享受”的负性想法",
+            "想到尚未“弥补”的错误"
+          ],
+          "core_reason": "“不配享受”的内在信念与“应该”规则驱动自我惩罚",
+          "function": "通过自我限制回避面对自我评价与羞耻",
+          "consequence": "社会支持减少、愉悦体验下降，负性情绪维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 471
+}

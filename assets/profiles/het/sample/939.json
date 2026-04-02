@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "银行柜员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "有一个支持性的朋友群体，但因自我怀疑和持续比较而影响与朋友的关系；尚未向朋友讨论具体的“不够好”感受",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "能清晰表达并进行反思；情绪低落、持怀疑态度但愿意尝试；与咨询师配合度较好"
+    },
+    "main_problem": "我觉得自己不能在徒步中表现出色，因为我不是世界级的徒步者，这导致自我怀疑和不够好的感觉。",
+    "topic": "情绪管理",
+    "core_demands": "持续的自我怀疑和“不够好”感开始影响我对其他爱好和活动的动力，促使我寻求咨询。",
+    "growth_experiences": [
+      "几年前开始将徒步作为爱好，起初感到有趣，但随着在社交媒体上看到他人分享更出色的徒步表现与冒险经历，自己不断进行比较并逐渐加重自我怀疑；尽管尝试设定个人目标提升徒步技能，达成目标后也难以维持自我肯定，这种“不够好”的感觉扩展到其他兴趣与活动并影响与朋友的关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有成为最优秀才有价值/享受"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交媒体上看到他人分享更为出色的徒步表现或冒险",
+          "conditional_assumptions": "如果我不是世界级或不是最优秀，就等于不够好、没有意义",
+          "compensatory_strategies": "通过设定更高的个人目标、加练来证明自己",
+          "automatic_thoughts": "他们都比我强，我不够好。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与朋友互动时注意到对方在徒步等方面表现更好",
+          "conditional_assumptions": "如果我不如朋友，就会显得失败、不配参与",
+          "compensatory_strategies": "社交退缩、减少与朋友联系以避免比较",
+          "automatic_thoughts": "我不如他们，和他们在一起让我更显得不够好。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "达成个人设定的徒步目标后仍然感到不足",
+          "conditional_assumptions": "只有达到世界级水平才值得肯定，其他进步都不算数",
+          "compensatory_strategies": "提高标准、否定已有进步的价值",
+          "automatic_thoughts": "这些进步不值一提，还是远远不够。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到要去徒步或计划新的爱好时",
+          "conditional_assumptions": "如果不能成为最优秀，就等于浪费时间、没有意义",
+          "compensatory_strategies": "降低尝试新活动的动力、推迟或放弃",
+          "automatic_thoughts": "既然做不到最好，那就没必要去做。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有价值与优秀",
+        "fear": "害怕被评价为不够好、害怕失败与羞耻",
+        "defense_goal": [
+          "通过坚持“必须成为最优秀”的标准来维持自尊、避免暴露不够好的自我"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的比较者、容易被他人超越的自我",
+          "object_representation": "更优秀、带有评判的他人",
+          "linking_affect": "自卑、羞愧、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于挑战“必须成为最优秀”的信念或讨论设定非比较、以享受为导向的目标时",
+          "interpretation": "来访者可能将咨询师的探询理解为在否定或削弱自己的标准（移情：将外界的评判感投射到咨询情境中）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用共情且不评判的语气；先验证其对“标准”的重要性，再以开放式问题引导其具体化体验与成本收益；避免直接对抗，邀请其举例说明在非最佳时的愉悦瞬间。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将活动的意义与是否“世界级/最优秀”紧密绑定，认为“若不是最优秀就是浪费时间”",
+            "享受感被表现与比较所吞没，对徒步的本身价值产生怀疑"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "动力下降，减少参与新爱好与活动",
+            "社交退缩与关系受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“必须/应该成为最优秀”的内在规则来评判自我",
+            "将享受与世界级表现绑定，否定非顶尖状态下的积极体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我比较与自我否定，担心“不够好”而减少参与新活动",
+            "在朋友关系中因自我怀疑而退缩、谨慎表达真实感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友群体，可提供情感支持",
+          "对徒步活动本身能体验到自然之乐与一定的愉悦",
+          "愿意尝试新的目标设定与认知重构（对咨询持开放态度）"
+        ],
+        "negative_force": [
+          "非黑即白思维与过度比较主导意义评估",
+          "否定积极进步，难以内化自我肯定",
+          "将价值与外部表现/世界级标准绑定，过度依赖外部比较"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在想到徒步或看到他人徒步分享时出现强烈自我怀疑并显著降低参与动力",
+          "antecedent": [
+            "想到要去徒步",
+            "在社交媒体上看到他人分享徒步冒险或更优表现"
+          ],
+          "core_reason": "内在信念为“只有成为最优秀才有意义”，由非黑即白思维与比较驱动",
+          "function": "逃避失败与羞耻感，短期缓解被评判的威胁",
+          "consequence": "对徒步的享受减少，整体动力下降，进一步影响其他兴趣与活动"
+        },
+        {
+          "behavior": "在与朋友互动中退缩、减少联系",
+          "antecedent": [
+            "与朋友互动时注意到朋友的表现更好",
+            "想到可能被比较或被视为“不够好”"
+          ],
+          "core_reason": "自我价值过度依赖外部比较与评判，害怕暴露不够好",
+          "function": "避免感到羞愧与被评判，维持脆弱的自尊",
+          "consequence": "朋友关系受到影响，减少支持性互动与正向体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 939
+}

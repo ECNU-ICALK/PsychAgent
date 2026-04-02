@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "陈凯",
+      "gender": "男性",
+      "occupation": "工作",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "已婚且有子女",
+      "family_status": "妻子和子女",
+      "social_status": "与妻子和子女的关系因工作压力与对暴食/肥胖的担忧而紧张；有支持性的妻子，但尚未与其讨论相关担忧",
+      "medical_history": "此前未出现类似问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清楚、配合度良好；态度中性；能清晰描述压力与饥饿的循环；语速未提及"
+    },
+    "main_problem": "我持续感到饥饿，担心因暴食而变得肥胖。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为对暴食和体重增加的担忧开始影响我的心理健康和家庭生活。我真的想把这件事处理好，为了我自己和我的家人。",
+    "growth_experiences": [
+      "近几年因工作时间增加与财务担忧，压力由中等上升；在压力较大的工作日后每天都感到饥饿与不安全感；尝试过多种饮食与运动方案但饥饿仍持续；未与支持性的妻子讨论体重与暴食的担忧，家庭关系因此受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法控制自己的饮食",
+        "我会变得肥胖"
+      ],
+      "special_situations": [
+        {
+          "event": "在压力很大的工作日结束后回到家，强烈饥饿感出现",
+          "conditional_assumptions": "如果我在饥饿时吃得多，就一定会迅速变胖",
+          "compensatory_strategies": "试图分散注意力或只吃少量食物，努力用各种饮食与运动计划来控制结果",
+          "automatic_thoughts": "这样下去我肯定会变成肥胖",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "工作负荷与财务压力增加的阶段",
+          "conditional_assumptions": "压力一大，我的饥饿就不可控；不可控的饥饿必然导致暴食和肥胖",
+          "compensatory_strategies": "加紧自我监控饮食与锻炼，避免与妻子谈论以免“增加负担”",
+          "automatic_thoughts": "无论我做什么，最终都会胖",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在某些日子吃得更多以缓解强烈饥饿后",
+          "conditional_assumptions": "一旦吃多了，就说明我正在走向不可逆的肥胖",
+          "compensatory_strategies": "自责、加大控制计划（更严格的饮食或运动）",
+          "automatic_thoughts": "我把事情搞糟了，我会越来越胖",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "下午工作变得非常忙碌、回家前持续感到饥饿",
+          "conditional_assumptions": "我会一直这样饥饿，未来一定会胖",
+          "compensatory_strategies": "进行预先防范式的饮食限制或分散注意力来压过饥饿",
+          "automatic_thoughts": "按照这个趋势，我不可避免会变成肥胖",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望对身体与饮食有掌控，并维持家庭的稳定与被支持感",
+        "fear": "害怕失控导致肥胖、被评判或给家人增添负担",
+        "defense_goal": [
+          "通过自我控制与克制表达来维持安全感、避免让伴侣“承受我的问题”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "会给他人带来负担的担忧者/需要自我克制的人",
+          "object_representation": "支持但可能被我的问题拖累的伴侣",
+          "linking_affect": "内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到是否向妻子表达对暴食与体重的担忧，或被邀请与家人讨论此问题时",
+          "interpretation": "来访者倾向认为表达自己的担忧会给妻子增加负担，因此不应说出来",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、共情的语气肯定其体贴家人的意图，同时轻柔地探询“不说”的真实代价与证据；使用开放式问题、避免对抗，邀请其设想更安全的沟通方式与边界。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不与支持性的妻子分享担忧，担心“增加负担”而选择独自承受",
+            "在压力—饥饿—进食—内疚的循环中独自挣扎"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "家庭关系紧张",
+            "自我隔离感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被工作与财务压力限制，体验到对饥饿与饮食的失控",
+            "将未来视为不可避免的肥胖，体验到选择受限"
+          ],
+          "outcomes": [
+            "无力感与不自由感",
+            "灾难化思维与预言式担忧增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "担心“增加负担”而不向妻子表达压力与担忧",
+            "将情绪能量转向更严格的自我控制（饮食/运动）"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "在强烈饥饿与焦虑时尝试分散注意力而非直接接触与探索感受",
+            "以技巧性回避来短暂压过饥饿与担忧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备家庭支持（妻子支持且愿意倾听）",
+          "已主动寻求心理咨询帮助，变化动机较高（为自己与家庭）",
+          "有一定自我监控与行动能力（尝试多种饮食与运动方案）",
+          "能识别压力—饥饿—进食—内疚的循环"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式强（认为必然会变胖）",
+          "过度概括与心理过滤（忽视正面证据）",
+          "工作与财务压力长期维持高水平，触发饥饿与焦虑",
+          "回避与伴侣沟通导致支持资源未被充分利用",
+          "进食后内疚加剧，进一步强固负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在高压工作日后出现的过度进食（为缓解强烈饥饿）",
+          "antecedent": [
+            "繁忙且高压的工作日",
+            "回家前持续出现的强烈饥饿感"
+          ],
+          "core_reason": "工作与财务压力导致生理与情绪性饥饿增强；伴随“吃多必胖”的灾难化认知使自我控制下降",
+          "function": "逃避/缓解压力与饥饿不适，获得短暂的生理与情绪舒缓",
+          "consequence": "进食后产生强烈内疚与担心，进一步加剧对肥胖的恐惧与家庭关系紧张"
+        },
+        {
+          "behavior": "灾难化地预测自己必然会变胖并伴随强烈焦虑",
+          "antecedent": [
+            "在感到强烈饥饿时",
+            "在吃得较多后自我反思时"
+          ],
+          "core_reason": "核心信念“我无法控制饮食/我会变得肥胖”被触发，负性自动化思维主导",
+          "function": "试图通过高度警觉与自我约束来获得对不确定性的控制感",
+          "consequence": "焦虑与压力升高，饥饿体验加剧，形成压力—饥饿—进食—内疚的恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1863
+}

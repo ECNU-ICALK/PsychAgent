@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36岁",
+      "name": "张薇",
+      "gender": "女性",
+      "occupation": "秘书",
+      "educational_background": "高中毕业（文凭）",
+      "marital_status": "单身",
+      "family_status": "独居，与3只猫共同生活",
+      "social_status": "社交支持薄弱，因内疚而与亲友疏离",
+      "medical_history": "无明显躯体疾病；既往未出现类似心理问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、能自我反思、配合度良好；语速未提及"
+    },
+    "main_problem": "因三只猫最近都生病，我觉得自己是个糟糕的猫妈妈，这让我非常痛苦并充满内疚。",
+    "topic": "情绪管理",
+    "core_demands": "因猫生病带来的压倒性的痛苦与内疚而求助，希望获得支持与指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的猫妈妈",
+        "我的失职会伤害我所爱之物"
+      ],
+      "special_situations": [
+        {
+          "event": "三只猫在短时间内先后生病",
+          "conditional_assumptions": "如果我的猫生病了，就说明我没有尽到照护责任",
+          "compensatory_strategies": "不断上网查养猫知识、加倍清洁环境、频繁联系兽医以弥补“过失”",
+          "automatic_thoughts": "都是我的错，我是个糟糕的猫妈妈",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到猫不舒服或症状加重时",
+          "conditional_assumptions": "好主人应该能更早发现并阻止所有疾病",
+          "compensatory_strategies": "反复自我检讨、以“应该”要求自己做到完美照护",
+          "automatic_thoughts": "我应该更早发现并带它们去看医生",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "兽医未指出她有任何过错",
+          "conditional_assumptions": "即使没有明确证据，我也应为负面结果负责",
+          "compensatory_strategies": "忽视中性或正面信息，强化自责与过度归因",
+          "automatic_thoughts": "他们只是没有明说，其实是我让猫生病了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作或生活中想到猫的病情时",
+          "conditional_assumptions": "如果我真的在乎，就不该体验快乐或投入其他事务",
+          "compensatory_strategies": "自我惩罚（回避社交、降低自我照顾），用内疚压制积极体验",
+          "automatic_thoughts": "在它们受苦时我不配开心或专注工作",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为可靠且能保护所爱之物的照护者",
+        "fear": "害怕自己的疏忽会伤害所爱之物并被视为不负责任",
+        "defense_goal": [
+          "通过自责与严格自我要求来避免再次失误",
+          "保持高控制与警觉以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、不称职的照护者",
+          "object_representation": "脆弱、依赖且需要被保护的猫（被照料者）",
+          "linking_affect": "内疚、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问“有哪些证据表明你造成了猫的生病”或被鼓励用事实检验自责时",
+          "interpretation": "倾向将不可控的因素理解为自己的失职，并认为必须做到完美照护",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "语气内疚而谨慎，频繁使用“我应该…”“都是我的错”，淡化外部因素，难以接受安慰或中性证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因内疚而主动疏离朋友与家人",
+            "社交支持薄弱，缺少倾诉渠道"
+          ],
+          "outcomes": [
+            "社交退缩与孤立",
+            "情绪痛苦加剧",
+            "工作与日常功能受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自责并以“我不配开心”限制自己",
+            "用“我应该/必须…”苛责自己",
+            "与他人接触时过度谨慎，倾向退回到自我批评"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做",
+          "manifestations": [
+            "本可寻求朋友家人的支持却选择自我隔离",
+            "将关切与能量转为自我惩罚（加重内疚）而非表达求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与三只猫之间存在稳定的依恋与信任（生病时仍寻求她的安慰）",
+          "能主动采取照护行动（及时就医、查阅养护资料）",
+          "具备自我反思与现实检验的意愿（可识别事实与情绪的不一致）"
+        ],
+        "negative_force": [
+          "个人化、过度概括与读心术等认知偏差加剧内疚",
+          "社交支持薄弱且因内疚而主动隔离",
+          "以“应该”句式苛责自我，追求完美照护",
+          "持续的自我惩罚与情绪化推理导致功能受损（工作、日常、自我照护）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度内疚与自责",
+          "antecedent": [
+            "看到或想到三只猫的病情",
+            "在日常工作或自我照护过程中回忆猫的不适"
+          ],
+          "core_reason": "将猫的生病个人化为自己的失职，并以“应该”与完美标准要求自己（过度概括、读心术、情绪化推理）",
+          "function": "通过自责获得道德上的控制感与自我惩罚以缓解焦虑",
+          "consequence": "工作表现受损、日常自我照护被打乱、情绪痛苦加剧"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "感到强烈内疚时",
+            "朋友或家人尝试联系时"
+          ],
+          "core_reason": "认为在猫受苦时自己不配享受社交与支持，担心被视为不负责任",
+          "function": "逃避来自他人的接触与可能的评价，减少不适情绪",
+          "consequence": "社会支持进一步下降，孤独与痛苦增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 870
+}

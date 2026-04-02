@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "商场保安",
+      "educational_background": "高中毕业",
+      "marital_status": "最近离婚",
+      "family_status": "无子女，独居",
+      "social_status": "离婚后与朋友和家人的关系紧张，社交支持有限，交流时常感到被评判或误解",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；无类似心理问题史",
+      "language_features": "能具体描述困扰与自动化思维；语气偏消极，表达中常出现绝对化与灾难化倾向（如“没人会喜欢”“一定会失败”）"
+    },
+    "main_problem": "我一直在经历压倒性的想法，认为我关于动物的电子书不会成功、也会被差评，这导致我痛苦并产生自我怀疑。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，是因为这些负面想法正在阻碍我电子书的推进，并影响我的整体身心状态。",
+    "growth_experiences": [
+      "最近离婚：离婚后自我信任感下降，压力外溢到写作，独居、社交支持感降低；与朋友与家人的关系紧张，讨论困扰时常感到被评判或误解；负面思维循环影响睡眠与饮食，并使工作分心。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有人关心我想说的",
+        "我的作品会失败",
+        "别人会觉得它很糟糕"
+      ],
+      "special_situations": [
+        {
+          "event": "独自坐下来写关于动物的电子书时",
+          "conditional_assumptions": "如果我的作品不能被多数人喜欢或认可，就等于失败",
+          "compensatory_strategies": "在脑海中反复演练最坏结果并寻求朋友的安慰以减轻焦虑，但常导致写作停滞",
+          "automatic_thoughts": "这本书会失败；没人会想看",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友给出“电子书有潜力”的正面反馈后",
+          "conditional_assumptions": "如果没有确凿证据证明他人真心认可，他们的好话就不可信",
+          "compensatory_strategies": "否定积极反馈并继续向外部寻求更多保证",
+          "automatic_thoughts": "他们只是客气，不是真的觉得有潜力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到离婚后独居、缺少支持的写作处境",
+          "conditional_assumptions": "如果没有外部支持或认可，自己更可能失败",
+          "compensatory_strategies": "写作时反复自我怀疑、降低投入以避免“白费力气”",
+          "automatic_thoughts": "我一个人做不会成功",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在工作中被关于电子书的负面评价担忧分心",
+          "conditional_assumptions": "如果不能得到他人的认可或完美表现，就说明我不够好",
+          "compensatory_strategies": "在脑海中预设他人会差评，难以专注当下工作",
+          "automatic_thoughts": "大家会觉得我的书很糟糕",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与认可，作品被真实地看见与肯定",
+        "fear": "害怕被评判与拒绝，担心再次经历关系破裂后的孤独与失败",
+        "defense_goal": [
+          "通过寻求外部保证来降低不确定性",
+          "以自我怀疑与退缩来避免面对可能的失败与批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被重视、易失败的被评判者/作者",
+          "object_representation": "挑剔、冷漠、会否定自己的他者（读者、朋友）",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人强调你曾收到过正面反馈、或提出更平衡的视角时",
+          "interpretation": "潜意识认为对方只是敷衍安慰，实际上并不真正认可自己（移情：将他人视为会否定的评价者）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "先共情其被误解的感受，语气温和、不对抗；使用开放式问题邀请举例，并以具体证据为基础逐步校准认知。"
+        },
+        {
+          "trigger_condition": "当被邀请回忆并陈述写作中的优势或成功片段时",
+          "interpretation": "担心承认优点会带来更大失败风险，于是将负性情绪与攻击转向自身，强化自我批评",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "降低评判性、强调自我同情；语气柔和，帮助区分事实与评价，逐步接纳有限度的积极自我叙述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "离婚后独居",
+            "独自写作时陷入负面思维循环",
+            "与朋友交流困扰时常感到被误解与评判"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑加重",
+            "动力与创造力下降",
+            "睡眠与饮食紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复怀疑“没人关心我想说的”",
+            "需要外部“确凿证明”才相信作品有价值"
+          ],
+          "outcomes": [
+            "写作停滞",
+            "工作分心与绩效下降",
+            "持续的情绪困扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "谈到朋友的正面评价时，认为他们只是客气并不真心",
+            "设想读者反应时预设他人会认为作品“很糟糕”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我怀疑：“谁在乎我说的？”",
+            "在会谈中对自己的表达过度苛责，难以接纳积极反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有意愿寻求咨询并尝试更平衡的视角",
+          "曾获得朋友对电子书“有潜力”的正面反馈",
+          "工作与生活中保持投入与努力的习惯",
+          "能够识别并表达自身的负性思维与困扰"
+        ],
+        "negative_force": [
+          "灾难化、读心术、预测未来等认知偏差显著",
+          "过度依赖外部认可，常否定积极反馈",
+          "离婚后社会支持减弱、孤独感增强",
+          "睡眠与饮食受影响，精力与情绪调节能力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在写作时回避/停滞并反复自我怀疑",
+          "antecedent": [
+            "独自坐下来写电子书",
+            "想到可能的评价与失败"
+          ],
+          "core_reason": "离婚与独居导致自我效能感下降，加之灾难化、读心术与预测未来等负性认知模式驱动",
+          "function": "短期逃避失败与评判、暂时缓解焦虑",
+          "consequence": "电子书进度停滞，创造力与动力下降，并波及工作表现"
+        },
+        {
+          "behavior": "反复向朋友寻求安慰与保证",
+          "antecedent": [
+            "出现强烈负面思维与焦虑时",
+            "与朋友谈及电子书时"
+          ],
+          "core_reason": "将外部认可视为自我价值的主要证明，否定积极反馈后继续寻求确认",
+          "function": "获得短期心理安抚、减少不确定感",
+          "consequence": "安抚效果短暂，依赖性增加，负性思维持续，整体身心状态受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1548
+}

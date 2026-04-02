@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "李莎",
+      "gender": "女",
+      "occupation": "银行员工",
+      "educational_background": "大学本科毕业",
+      "marital_status": "未说明",
+      "family_status": "父亲曾在银行工作",
+      "social_status": "未提及",
+      "medical_history": "未接受过心理治疗或心理问题的治疗；无重大躯体疾病",
+      "language_features": "略显紧张；表达清晰、能具体描述负性自动化思维；配合度良好；态度中性；倾向自我批评与过度思考"
+    },
+    "main_problem": "在工作中犯错时（尤其是给顾客找零时数错），会觉得“自己是个白痴”，伴随强烈焦虑与自我批评。",
+    "topic": "职业发展",
+    "core_demands": "意识到自我批评的想法正在影响工作表现与整体身心健康，希望减轻其影响。",
+    "growth_experiences": [
+      "父亲曾在银行工作，与来访者当前职业环境存在关联，但具体影响未详述。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我不称职/不适合这份工作"
+      ],
+      "special_situations": [
+        {
+          "event": "在柜台为顾客找零时出现数错",
+          "conditional_assumptions": "如果我在工作中犯错，就说明我不聪明、没有能力",
+          "compensatory_strategies": "反复核对工作、进行深呼吸来缓解紧张",
+          "automatic_thoughts": "我是个白痴；我不该在银行工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在顾客或同事面前犯错",
+          "conditional_assumptions": "如果当着别人的面出错，就会被他们看不起",
+          "compensatory_strategies": "更加谨慎、尽量避免在社交中谈及与工作相关的困扰",
+          "automatic_thoughts": "他们一定觉得我很笨",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "同事在工作失误后开玩笑",
+          "conditional_assumptions": "别人的玩笑意味着他们认为我不称职",
+          "compensatory_strategies": "加倍自我批评以示改正、在现场过度道歉",
+          "automatic_thoughts": "他们在嘲笑我、看穿了我的无能",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "下班后躺在床上回想当天的错误",
+          "conditional_assumptions": "必须做到绝对准确，否则就是失败者",
+          "compensatory_strategies": "在随后的工作中过度追求完美、持续负面自我标签",
+          "automatic_thoughts": "我就是不行，这样的我不会好起来",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、被认可为可靠的员工",
+        "fear": "害怕被他人评价为愚蠢或不称职",
+        "defense_goal": [
+          "通过严苛自我批评与加倍检查来维持控制并避免出错与被贬低"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、需要不断证明自己的低能员工",
+          "object_representation": "苛刻的评判者（顾客/同事），会嘲笑或看不起我",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在顾客或同事面前出现工作差错，或同事就差错开玩笑时",
+          "interpretation": "对方会看不起我、认为我愚蠢（移情：将内部自我否定投射到他人评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以防御性的语气过度解释或道歉，强调自己的不足，试图通过自我贬低来获得安全感。"
+        },
+        {
+          "trigger_condition": "当他人或咨询师提出更平衡的观点、邀请其用证据反驳自我标签时",
+          "interpretation": "积极重构显得勉强，错误才是更“真实”的证据",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "坚持以“如果我更聪明就不会犯错”的论点进行反驳，语气克制但坚定，反复引用差错作为证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值紧密绑定于工作中的“绝对准确”表现",
+            "把一次差错泛化为整体性的“我是笨蛋/不称职”",
+            "在他人面前出错即体验到强烈羞耻与自我贬低"
+          ],
+          "outcomes": [
+            "持续焦虑与过度自我批评",
+            "睡眠受扰、难以专注自我照料",
+            "与同事关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "工作失误后过度自责与自我标签（“我是笨蛋”）",
+            "在会谈中表达“感觉勉强”，对改变持谨慎态度",
+            "认为自己不该在银行工作，倾向限制自我选择"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为顾客或同事一定在想“她很笨”",
+            "把同事的玩笑理解为对自己能力的负面评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明知朋友支持却不愿谈论工作困扰",
+            "将表达与寻求支持的冲动转为对自己的压力与苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对金融交易的高准确性要求且有顾客或同事在场时，来访者通常会出现强烈焦虑与自我批评，进而影响工作表现。",
+          "unique_outcome": "刚开始在银行工作时的前几个月，来访者能较好地处理工作任务，没有被自我批评困住，整体表现稳定。",
+          "reason": "情境不同：初入职阶段存在成功经验与正向证据，因此当时负面自动化思维尚未形成或强度较低。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备大学学历与入职初期的良好表现（存在能力与成功证据）",
+          "拥有支持性的朋友网络（虽未使用）",
+          "能清晰识别并表达负性自动化思维",
+          "已尝试自我调节策略（反复核对、深呼吸）",
+          "愿意接受并练习证据检验与认知重构"
+        ],
+        "negative_force": [
+          "过度概括与非黑即白的自我评价（一次错误即“我是笨蛋”）",
+          "读心术与个人化，过度在意他人看法",
+          "对工作“绝对准确”的价值条件导致完美主义压力",
+          "焦虑与睡眠紊乱削弱恢复与专注",
+          "与同事关系紧张、对支持的回避（不与朋友讨论）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中犯错后出现强烈焦虑与自我贬低（反复自我标签“我是笨蛋/不称职”）",
+          "antecedent": [
+            "在为顾客找零或处理金融交易时发生差错",
+            "在顾客或同事在场的情境",
+            "面对高准确性要求的工作压力"
+          ],
+          "core_reason": "将自我价值与工作表现绝对绑定，并长期对自己过于苛责；金融交易的高准确性压力成为显著诱因",
+          "function": "通过自我批评与过度谨慎来试图避免再次犯错、获得控制感并逃避被他人负面评价的威胁",
+          "consequence": "焦虑加剧、睡眠紊乱、难以专注自我照料；与同事关系紧张；工作表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1077
+}

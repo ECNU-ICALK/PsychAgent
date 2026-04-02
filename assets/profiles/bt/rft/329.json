@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "刘柯迪",
+      "gender": "男",
+      "occupation": "工程师（已辞职，现旅行并从事加密货币项目）",
+      "educational_background": "工学学士（工程专业）",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与前同事保持回避，担心被评价；有一位亲密朋友但尚未表达不安和求助",
+      "medical_history": "无类似心理问题史；未接受过心理治疗或咨询；无重要躯体疾病",
+      "language_features": "表达清晰、逻辑性较好，能自我反思；配合度高、态度积极；能识别缺乏证据的假设但情绪仍受影响"
+    },
+    "main_problem": "辞职后去旅行并从事加密货币项目，持续出现不安全感与自我怀疑，尤其担心前同事会认为自己愚蠢或鲁莽，导致专注与生产力下降并回避与前同事联系。",
+    "topic": "职业发展",
+    "core_demands": "离职并转入新领域的决定一直让我感到压力，影响了我的自信并引发痛苦，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的评价",
+        "当我做出冒险选择时，我可能会被视为愚蠢或鲁莽"
+      ],
+      "special_situations": [
+        {
+          "event": "想到前同事可能如何看待自己辞职从事加密货币项目的决定",
+          "conditional_assumptions": "如果他们觉得我愚蠢或鲁莽，就说明我的决定是错误的、我不够好",
+          "compensatory_strategies": "避免与前同事联系；通过自我辩解和理性化来安慰自己（提醒潜在收益）",
+          "automatic_thoughts": "他们一定觉得我很愚蠢/鲁莽",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在回顾离职决定并思考未来发展时",
+          "conditional_assumptions": "如果现在看不到明确成果，未来就会变得很糟，这次选择可能会毁掉我的职业",
+          "compensatory_strategies": "不断反刍与自我怀疑，降低投入与生产力；尝试以“潜在收益”的理性化来缓和焦虑",
+          "automatic_thoughts": "我做了错误的决定，未来会越来越糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在旅行与项目推进过程中体验到专注与愉悦下降时",
+          "conditional_assumptions": "如果我无法持续高效投入，说明我的决定是失败的",
+          "compensatory_strategies": "过度关注负面体验、忽视支持与积极面；重复自我怀疑",
+          "automatic_thoughts": "我不该辞职，一切都变差了",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与尊重，做自己热爱的事仍被视为有能力且勇敢",
+        "fear": "害怕被前同事贬低或羞辱，被评价为愚蠢/鲁莽，失去价值与归属感",
+        "defense_goal": [
+          "通过与前同事保持距离减少被评判的风险",
+          "用理性化与自我辩解来缓冲焦虑并维持自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被认可、易受评判的“冒险者”自我",
+          "object_representation": "批判性、可能看低自己的“前同事”他者",
+          "linking_affect": "羞耻、焦虑、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及离职决定或想到前同事的看法时",
+          "interpretation": "他人（包括咨询师/前同事）会像评审一样挑剔并否定自己",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平稳偏理性，强调“逻辑”“潜在收益”等概念，回避深入情感感受的描述，使用客观化词汇。"
+        },
+        {
+          "trigger_condition": "当需要与前同事或支持性朋友联系、表达不安或寻求支持时",
+          "interpretation": "对方会看轻自己或被自己的情绪拖累，自身会成为负担",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用含糊其辞与假设语（“他们可能会…”），避免直接请求或表露脆弱，语气谨慎，以担忧为主。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "主动辞职追求热爱的加密货币项目，面对不确定性与选择带来的责任感与风险焦虑",
+            "担心他人（前同事）对自己选择的评价"
+          ],
+          "outcomes": [
+            "自我怀疑与不安全感加剧",
+            "生产力与专注下降",
+            "旅行的愉悦感降低",
+            "回避人际接触"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与前同事联系",
+            "对亲密朋友隐瞒不安与求助，担心成为负担"
+          ],
+          "outcomes": [
+            "社会支持未被有效利用，情绪负担加重",
+            "负性自我叙事得不到修正，维持焦虑与羞耻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "没有向支持性朋友表达不安与需求",
+            "将表达与求助的冲动压回自己，转为反刍和自我怀疑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度在意他人看法，担心“成为负担”而抑制表达",
+            "社交中小心翼翼，避免联系前同事以防被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对加密货币项目具有热情与动机",
+          "具备工程专业背景与学习能力",
+          "拥有一位支持性的亲密朋友",
+          "敢于承担职业风险、具有探索精神"
+        ],
+        "negative_force": [
+          "过度在意他人评价与外部认可",
+          "跳到结论（读心术、预测未来）与心理过滤",
+          "回避与前同事及朋友的联系，减少社会支持",
+          "反刍自我怀疑，导致专注与生产力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与前同事联系",
+          "antecedent": [
+            "想到前同事可能如何评价自己的离职与新项目",
+            "需要主动联系或看到与前同事相关的信息"
+          ],
+          "core_reason": "担心被看轻或被评价为愚蠢/鲁莽，寻求外部验证导致对负面评价的恐惧增强",
+          "function": "逃避可能的负面评价与羞耻感，短期缓解焦虑",
+          "consequence": "社交与职业关系疏离，信息与支持减少，负性信念未被检验而持续"
+        },
+        {
+          "behavior": "不向支持性朋友表达不安（情绪抑制与求助回避）",
+          "antecedent": [
+            "与朋友互动或想到向朋友倾诉时",
+            "情绪负担增加、需要支持的时刻"
+          ],
+          "core_reason": "担心成为他人的负担与被拒绝，倾向将不安归因为他人的潜在反应",
+          "function": "避免被他人评判或“累及他人”，维持自我形象的控制感",
+          "consequence": "社会支持未被有效利用，情绪负担与孤独感增加"
+        },
+        {
+          "behavior": "反刍自我怀疑，导致专注与生产力下降",
+          "antecedent": [
+            "回顾离职决定、思考未来结果或项目进展时",
+            "旅行或工作中体验到不顺或低愉悦时"
+          ],
+          "core_reason": "灾难化与预测未来的认知偏差加剧不确定性焦虑，外部评价焦虑驱动反刍",
+          "function": "通过反刍试图获得确定性或自我保护（避免行动的风险）",
+          "consequence": "注意力涣散、工作投入减少，旅行与项目体验下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 329
+}

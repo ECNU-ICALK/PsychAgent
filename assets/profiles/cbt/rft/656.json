@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可交谈，但尚未与他们讨论这些负面想法；人际/社交功能未具体描述",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或咨询",
+      "language_features": "表达清晰，能如实描述感受；情绪以焦虑、怀疑为主，合作度尚可；语速与逻辑条理未提及"
+    },
+    "main_problem": "近期因法兰克福之行产生的负面想法和情绪困扰：旅行本身很棒，但总是聚焦于旅途中的拥挤航班、昂贵食物和没有WiFi等不便，使整体体验被负面部分所掩盖。",
+    "topic": "情绪管理",
+    "core_demands": "这些负面想法影响了我对过往经历的享受，并影响了我的情绪与日常生活，我希望能够改善这种情况。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果事情不够好或不完美，就等于失败",
+        "我的价值与安全感取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "回忆法兰克福之旅时，注意到旅途中的拥挤航班、昂贵食物与没有WiFi等不便",
+          "conditional_assumptions": "如果旅行途中出现明显不适或不便，就意味着整次旅行都是糟糕/不值得的",
+          "compensatory_strategies": "尝试用理性化来解释以控制情绪，但持续反刍负面经历，并减少与他人分享积极片段",
+          "automatic_thoughts": "这些不便毁了整趟旅行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "面对为日本班级旅行存钱与预算的要求",
+          "conditional_assumptions": "如果不能严格控制开销并尽快存够，就无法达成目标，等于失败",
+          "compensatory_strategies": "通过购买小物来缓解焦虑，回避预算与监控开支",
+          "automatic_thoughts": "无论我怎么做都存不够。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑向有旅行经验的同学请教理财与出行经验",
+          "conditional_assumptions": "如果暴露自己的财务困扰，别人会觉得我不负责任或很奇怪",
+          "compensatory_strategies": "回避求助与社交暴露，保持沉默以避免被评价",
+          "automatic_thoughts": "他们会觉得我爱打听、很奇怪。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在准备尝试与同学交流前，预估可能的后果",
+          "conditional_assumptions": "如果这次尝试不能立刻带来好结果，就证明这条路没用",
+          "compensatory_strategies": "以怀疑与拖延来保护自己免于失望与受挫",
+          "automatic_thoughts": "这不会改变任何事情，可能让我更受打击。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，能自在地寻求支持并享受积极的旅行与生活体验",
+        "fear": "害怕被评判为不负责任、害怕失败与失控，进而被拒绝或贬低",
+        "defense_goal": [
+          "通过保持距离与回避求助来避免被评价",
+          "以理智化、怀疑与自我否定来降低被拒绝与失败的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被指责、做得不够好的求助者",
+          "object_representation": "会评判、可能拒绝或轻视自己的他人",
+          "linking_affect": "焦虑、羞耻、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议向同学寻求经验或支持时",
+          "interpretation": "将同学想象为潜在的批判者，担心一旦开口就会被贴上“不负责任”的标签（移情：把对评价的恐惧投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹豫和质疑的语气回应，反复提出“如果……怎么办”的问题，避免承诺具体行动。"
+        },
+        {
+          "trigger_condition": "当被邀请回顾旅行的积极体验并靠近情绪时",
+          "interpretation": "认为情绪表达会带来失控或脆弱，只有客观分析才安全",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用抽象、概括性语言（如“从理论上说”），减少情绪词汇，转向细节与流程的分析。"
+        },
+        {
+          "trigger_condition": "当被探询预算困难与消费冲动背后的感受时",
+          "interpretation": "将对外界不便或压力的失望转向自责，以避免指向他人的不满",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "用自责的口吻强调“都是我不行/我做不到”，回避表达对环境或他人带来的影响。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友或家人讨论财务担忧，担心被误解或评判",
+            "在为旅行做准备的压力中独自承受，避免寻求同伴经验"
+          ],
+          "outcomes": [
+            "焦虑加重与持续",
+            "回避求助与信息来源受限",
+            "负性反刍强化，积极体验被遮蔽"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心同学会觉得自己不负责任或很奇怪",
+            "认为亲友不会理解自己，从而不去开口"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在开口求助前不断自我审核措辞，担心显得冒犯或唐突",
+            "反复自责“我怎么都存不够”而不去尝试新的方法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向外寻求帮助与信息，转而通过即时消费来安抚焦虑",
+            "把想要获得支持的冲动压回自身，形成自我消耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试“小步实验”的态度（对咨询建议持开放尝试）",
+          "能清晰识别并描述自身负面想法与情绪",
+          "具备一定社会支持（有朋友可谈）",
+          "旅行本身存在许多正性素材可供重构"
+        ],
+        "negative_force": [
+          "否定积极、心理过滤、非黑即白等认知扭曲模式突出",
+          "对他人评价高度敏感，倾向读心并预期负面结果而回避求助",
+          "以消费作为情绪调节以逃避焦虑，削弱存钱目标",
+          "持续反刍导致情绪低落与动机下降，强化问题信念"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对旅行经历的负性反刍与心理过滤",
+          "antecedent": [
+            "回忆法兰克福之旅时想到旅途不便（拥挤航班、昂贵食物、无WiFi）",
+            "看到与旅行相关的线索或谈论旅行"
+          ],
+          "core_reason": "以非黑即白与否定积极来评估整体体验，试图通过反刍获得控制与确定感",
+          "function": "短时验证担忧与获得认知上的“确定性”，回避面对复杂的矛盾感受",
+          "consequence": "积极体验被遮蔽，情绪低落与不满维持并加重"
+        },
+        {
+          "behavior": "在焦虑下的回避性消费与逃避预算",
+          "antecedent": [
+            "面对为日本班级旅行的存钱目标与预算计划",
+            "出现消费诱因（如与朋友外出、想要即时满足）"
+          ],
+          "core_reason": "相信“无论如何都存不够”，以消费缓解焦虑与剥夺感",
+          "function": "逃避不适与获得短期情绪安抚",
+          "consequence": "储蓄受阻、压力与自责加重，形成恶性循环"
+        },
+        {
+          "behavior": "回避向他人求助或获取信息",
+          "antecedent": [
+            "想到要向同学打听经验或请教预算方法时",
+            "预期他人会负面评价自己"
+          ],
+          "core_reason": "害怕被评判与羞耻，读心与灾难化导致社交回避",
+          "function": "避免潜在的羞耻感与负面评价",
+          "consequence": "资源与信息不足，孤立感与焦虑维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 656
+}

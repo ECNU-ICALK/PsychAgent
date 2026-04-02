@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "林怡雯",
+      "gender": "女",
+      "occupation": "汽车制造商",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几个朋友能聊一般话题，但未与他们讨论自我怀疑；在工作中因自觉不足而与同事疏远",
+      "medical_history": "无显著躯体疾病；无既往心理治疗或精神科史；此前未出现类似心理问题",
+      "language_features": "紧张但愿意表达；配合度高；能清晰描述经历与想法；存在自我批评与负性自动化思维；在引导下能够进行现实检验与理性分析"
+    },
+    "main_problem": "我一直感觉自己在制造汽车方面正在失去天赋，因为上一辆车卖得不快，这导致自我怀疑和焦虑。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些自我怀疑影响了我的工作表现和整体幸福感。",
+    "growth_experiences": [
+      "约一个月前，上一辆车的销售比预期慢，来访者据此产生“自己正在失去天赋”的认知；之后在工作场景中，看到同事的车卖得更快会加剧自我怀疑与焦虑；因压力（截止日期与财务压力）与持续反刍，出现工作动力下降、与同事疏远、食欲与睡眠受影响。",
+      "去年曾设计过一辆销量很快并得到好评的汽车，来访者当时因投入设计并吸收此前的客户反馈而取得成功，该经历一度增强自信与成就感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我没有同事那么有才华",
+        "我的天赋正在流失"
+      ],
+      "special_situations": [
+        {
+          "event": "上一辆车的销售进度比预期慢",
+          "conditional_assumptions": "如果一辆车卖得慢，就说明我没有才华或正在失去天赋",
+          "compensatory_strategies": "延长工作时间、主动寻求他人反馈来证明自己",
+          "automatic_thoughts": "我在失去天赋；我的作品不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中看到同事的车卖得更快",
+          "conditional_assumptions": "如果我不如同事表现好，就等于我不够好/没天赋",
+          "compensatory_strategies": "疏远同事、回避交流以避免羞耻感",
+          "automatic_thoughts": "我不如他们；他们一定觉得我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回顾过往业绩时，只关注最近一次销售不佳的事实",
+          "conditional_assumptions": "只有持续、每次都快速销售才算有才华，单次成功不足以证明能力",
+          "compensatory_strategies": "忽略积极证据，强化负面自我评价以督促改进",
+          "automatic_thoughts": "过去的成功并不能说明我真的有能力",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "考虑市场因素（如该月市场较慢或有更受欢迎车型）时仍将结果归因于自身能力",
+          "conditional_assumptions": "如果结果不理想，主要原因一定在我身上",
+          "compensatory_strategies": "自我归咎、减少与他人交流以避免被评价",
+          "automatic_thoughts": "都是我的错，我不够好",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有才华、作品被市场肯定并得到同行赞许",
+        "fear": "害怕被比较与评判为不够好，害怕失败与羞耻",
+        "defense_goal": [
+          "与他人保持距离以避免被比较和羞辱",
+          "通过自我加压与加班来证明自身价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被比较的、不够好的同行者",
+          "object_representation": "更优秀且可能评判自己的同事/市场评价者",
+          "linking_affect": "羞愧、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在工作场合看到同事的车卖得更快或被拿来与他人比较时",
+          "interpretation": "他人会像评审一样否定我，我会丢脸",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "以回避式语言回应，缩短回答、减少细节，降低情感暴露并结束话题。"
+        },
+        {
+          "trigger_condition": "当想到向朋友或同事表达自己的自我怀疑与焦虑时",
+          "interpretation": "如果表达出来会被看轻或麻烦别人",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "避免谈及自我怀疑，转而聊一般性话题，用轻松语气掩饰不安，不触及个人感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居生活",
+            "在工作中因羞愧与不足感而疏远同事",
+            "有朋友但不谈及内心自我怀疑与焦虑"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠与食欲受影响",
+            "工作动机与表现下降",
+            "主观意义感与自我价值动摇"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "没有向朋友表达自我怀疑与焦虑，选择独自承受",
+            "通过加班、自我加压来解决问题而非寻求外部支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（“我不够好”“我没有天赋”）",
+            "在人际接触中过于谨慎，担心被评价而减少交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾有明显成功经验并能总结有效策略（重视客户反馈、投入设计）",
+          "愿意寻求反馈和专业帮助（主动加班、求助咨询）",
+          "在引导下能考虑外部因素（市场节奏、车型偏好）",
+          "具备一定社会支持（有朋友可交流一般事务）"
+        ],
+        "negative_force": [
+          "自我否定与比较倾向强（将单次销售缓慢归因于能力不足）",
+          "过度个人化归因、忽视积极证据",
+          "社交回避（与同事疏远）导致支持减少与孤独感增强",
+          "持续焦虑与反刍影响睡眠与食欲，进一步削弱工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作场景中的自我怀疑与焦虑",
+          "antecedent": [
+            "在工作时看到同事的车卖得更快",
+            "想到上一辆车销售缓慢",
+            "面临截止日期与财务压力"
+          ],
+          "core_reason": "将一次销售缓慢过度概括为能力不足，并进行消极比较与外部验证依赖，导致自我否定",
+          "function": "逃避被评判与失败感；通过自我批评试图维持控制与促成改进",
+          "consequence": "工作表现下降、反刍持续、焦虑加剧"
+        },
+        {
+          "behavior": "回避与同事的互动",
+          "antecedent": [
+            "在工作中感到羞愧或不如人",
+            "看到同事的销售更快"
+          ],
+          "core_reason": "羞耻与自卑驱动的社交回避，以减少被比较和被评价的风险",
+          "function": "逃避社交评价与负性情绪刺激",
+          "consequence": "人际支持减少、孤独感增强、协作与资源获取受限"
+        },
+        {
+          "behavior": "睡眠与食欲紊乱",
+          "antecedent": [
+            "工作相关焦虑与持续自我怀疑"
+          ],
+          "core_reason": "持续心理压力与反刍引发跨系统的生理节律失调",
+          "function": "无意的生理反应（短期逃避压力体验）",
+          "consequence": "身体状态下降，进一步影响工作与情绪调节"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 480
+}

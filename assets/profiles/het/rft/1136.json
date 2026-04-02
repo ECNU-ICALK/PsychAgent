@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "李雯",
+      "gender": "女",
+      "occupation": "家庭主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "父亲为传教士；丈夫为美国陆军军人；首次怀孕",
+      "social_status": "居住在乡村，线下社交机会较少；与丈夫关系良好但其常外出执勤，社区内交友困难",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、合作度高，能描述自动化思维与担忧；语气平稳，态度积极；能识别极端化（非黑即白）思维倾向"
+    },
+    "main_problem": "我感到被孤立，并认为自己缺乏人际交往能力，导致孤独和自卑感。自结婚后搬到乡下的房子，这种孤立感开始出现，在怀孕后进一步加剧；我担心在缺乏沟通能力的情况下独自带娃。尤其当丈夫外出执勤时，这种感受几乎每天发生。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为我意识到孤立感和自卑正在影响我的心理健康，并可能影响我照顾新生儿的能力。",
+    "growth_experiences": [
+      "结婚后搬到乡下的房子，线下社交显著减少；自觉人际能力下降，孤独与自卑感逐渐加重，怀孕后进一步强化；尤其在丈夫外出执勤时每日感到孤独和焦虑，担心独自带娃缺乏沟通与处理事务的能力。",
+      "原生家庭背景：父亲是传教士（未提及具体影响）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有社交能力",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "丈夫外出执勤、自己独自在乡下的房子里",
+          "conditional_assumptions": "如果没有稳定的陪伴与支持，我就无法应对日常与育儿事务",
+          "compensatory_strategies": "减少向丈夫表达孤独与自我怀疑，尽量独自承受情绪",
+          "automatic_thoughts": "没有人可求助，我会一直很孤独",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到即将独自与新生儿相处",
+          "conditional_assumptions": "如果我社交与沟通能力不足，就会成为不称职的母亲",
+          "compensatory_strategies": "提前放大风险、不断自我检查与担忧以试图“准备充分”",
+          "automatic_thoughts": "我会处理不好一切，我不是一个好母亲",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "加入在线论坛后仍感到缺乏连接",
+          "conditional_assumptions": "如果线上交流没有立刻带来被接纳感，说明我根本没有人际能力",
+          "compensatory_strategies": "进一步减少线下尝试，把注意力集中在能证明“我不行”的线索上",
+          "automatic_thoughts": "连在线上我都很不合群，我真的没有社交能力",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "搬到乡下、面对线下社交减少的环境",
+          "conditional_assumptions": "如果我住在乡下还无法结识朋友，原因只能是我不行",
+          "compensatory_strategies": "把居住选择与自我能力直接绑定，持续自责",
+          "automatic_thoughts": "我之所以一个人住在乡下，是因为我没有人际技能",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被陪伴、被理解与支持（尤其在怀孕与育儿在即的阶段）",
+        "fear": "害怕表达依赖或脆弱后被忽视、被评价为无能，或给对方增添负担",
+        "defense_goal": [
+          "通过减少表达与自我否定来降低被拒绝或被责备的风险",
+          "维持一定的情感距离以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤独而不够好的准妈妈、缺乏社交能力的人",
+          "object_representation": "重要他人（丈夫/周围的人）忙碌、难以提供及时回应与支持",
+          "linking_affect": "孤独、焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到是否向丈夫表达自己的孤独与自我怀疑时",
+          "interpretation": "认为表达需求会给丈夫添麻烦、被视为软弱或无能（对他人的反应持负性预期）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "轻描淡写情绪，避免直接提出需求，使用委婉语气并缩短自我暴露的篇幅。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬到乡下后线下社交减少，感到被孤立",
+            "丈夫常外出执勤，独处时间长",
+            "怀孕后担心独自带娃、无支持与沟通"
+          ],
+          "outcomes": [
+            "持续孤独与焦虑",
+            "自我否定与不够好的感受",
+            "社交回避与行动犹豫"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，过多自我限制，对接触过于小心谨慎。",
+          "manifestations": [
+            "把不完美等同失败（“如果不能立刻交到朋友，就说明我永远不行”）",
+            "频繁自我贴标签（“我没有社交能力”）",
+            "担心被评价为无能而减少表达需求"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "将本应向外发出的能量转向自身，压抑对他人表达或寻求帮助的冲动。",
+          "manifestations": [
+            "不愿向丈夫表达孤独与自我怀疑，选择独自承受",
+            "减少面对面求助或探索线下支持渠道"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与丈夫关系较为稳固",
+          "主动寻求帮助并开始心理咨询，态度积极",
+          "曾尝试通过在线论坛寻找支持与连接"
+        ],
+        "negative_force": [
+          "居住在乡村导致线下社交减少",
+          "自我否定与灾难化/预测未来的思维加重焦虑",
+          "不愿向丈夫表达孤独与自我怀疑，降低获得支持的机会",
+          "对独自照料婴儿的担心强化无力与不称职感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避线下社交并反复自我否定（“我没有社交能力”），伴随孤独与焦虑",
+          "antecedent": [
+            "丈夫外出执勤时独处",
+            "想到即将独自照料新生儿",
+            "居住在乡村、线下社交机会稀少的环境"
+          ],
+          "core_reason": "对自身社交能力的负性核心信念与灾难化/预测未来的自动化思维（担心成为不称职的母亲、无法沟通与应对）",
+          "function": "逃避潜在的被拒绝/被评判与失败，短期降低焦虑",
+          "consequence": "持续孤独与焦虑、日常自我照料受影响，社交技能与支持网络难以建立"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1136
+}

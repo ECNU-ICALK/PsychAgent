@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "陈安",
+      "gender": "男性",
+      "occupation": "未披露",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与家人成员关系紧张",
+      "social_status": "人际关系受影响，难以与他人建立紧密联系；有少数朋友可倾诉",
+      "medical_history": "无重大躯体疾病；未接受过类似心理咨询",
+      "language_features": "表达清晰、思路较为连贯，配合度高；倾向使用绝对化、自我否定的表述，并常否定正向反馈"
+    },
+    "main_problem": "与家人相处困难，常对日常生活感到失望，并因关系紧张而担心被家人抛弃。这些问题自青少年时期持续至今，近年因误解与冲突加剧。",
+    "topic": "家庭关系",
+    "core_demands": "负面情绪正在影响整体幸福感与对日常生活的享受，希望通过咨询改变消极思维、缓解失望与被抛弃的恐惧，改善生活体验。",
+    "growth_experiences": [
+      "自青少年时期开始与家人关系紧张，常出现误解与冲突；压力由中等逐渐升高，几乎每天在与家人互动后体验失望与被抛弃的恐惧。曾尝试疏远家庭活动并以兴趣分散注意，但情绪困扰仍持续。",
+      "过去一年在工作中销售业绩下降；随着公司及行业向数字化、无纸化推进，与同事的业绩比较加重了自责与“不够好”的感受，进一步影响与同事的关系及自我照料与饮食习惯。",
+      "社会支持薄弱：家庭支持不足，仅有少数朋友可谈心。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者",
+        "我会被抛弃"
+      ],
+      "special_situations": [
+        {
+          "event": "与家人互动后，因误解与冲突而情绪加剧",
+          "conditional_assumptions": "如果我无法与家人相处融洽，关系必然恶化，最终会被他们抛弃",
+          "compensatory_strategies": "减少参加家庭活动、与家人保持距离，用兴趣分散注意",
+          "automatic_thoughts": "他们迟早会抛弃我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作中看到同事达成业绩目标而自己的销售下滑",
+          "conditional_assumptions": "如果我的表现不如同事，就说明我不适合这份工作、我是失败者",
+          "compensatory_strategies": "避免联系新客户，回避可能失败的情境",
+          "automatic_thoughts": "我永远不可能像他们那样好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到客户的正面反馈或完成小额成交",
+          "conditional_assumptions": "除非有显著的整体业绩提升，否则任何积极反馈都不算数",
+          "compensatory_strategies": "将成功归因于运气，否定自身能力",
+          "automatic_thoughts": "这只是运气，没什么用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "从经理处收到关于销售指标的反馈",
+          "conditional_assumptions": "如果未达标就证明我不够好，且以后也不会改善",
+          "compensatory_strategies": "回避挑战性任务，以减少失败带来的羞耻感",
+          "automatic_thoughts": "我不可能改进，达不到目标就是失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人与重要他人稳定地接纳与信任，获得肯定与归属",
+        "fear": "害怕被抛弃与被拒绝，担心关系破裂与被淘汰",
+        "defense_goal": [
+          "通过保持距离与回避来降低受伤与被否定的风险，维持脆弱的自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时可能被拒绝的孩子",
+          "object_representation": "容易误解、批评并可能抛弃自己的家庭成员",
+          "linking_affect": "焦虑、失望、恐惧"
+        },
+        {
+          "self_representation": "业绩低下的失败者",
+          "object_representation": "要求严格、以结果评判价值的上级与同事",
+          "linking_affect": "自责、羞耻、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问或提醒关注正面反馈与小成功时（如客户称赞、完成小额成交）",
+          "interpretation": "将积极证据视为偶然，不足以动摇“失败者”的自我认知",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平淡语气轻描淡写积极事实，强调“运气”“不够重要”，避免深入情感体验。"
+        },
+        {
+          "trigger_condition": "当与家人发生误解或冲突，或预感关系不稳时",
+          "interpretation": "将内在的被抛弃焦虑投射为“他们一定会离开我/看不起我”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "表达他人负面意图的猜测，用担忧语气预先撤退或疏远互动。"
+        },
+        {
+          "trigger_condition": "面对可能失败的任务（如主动联系新客户）",
+          "interpretation": "将外界压力与失败恐惧转向自我，强化自责以避免外在冲突",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我批评式表述（如“都是我的问题”），语气低落，并以回避行为结束对话或行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "家庭支持薄弱，难以与他人建立紧密联系",
+            "与家人互动后频繁出现被抛弃的恐惧",
+            "疏远家庭活动以自我保护"
+          ],
+          "outcomes": [
+            "社会连接感降低与孤立",
+            "持续焦虑与不安全感",
+            "关系进一步疏离"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对日常生活常感到失望",
+            "经常白日梦式地幻想逃离现实",
+            "工作表现受情绪困扰影响"
+          ],
+          "outcomes": [
+            "动力下降与快感缺失",
+            "功能受损（工作与自我照料）",
+            "消极自我评价与回避行为"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将内在的被抛弃恐惧解读为“家人要抛弃我”",
+            "在职场将他人的成功体验为对自己的否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用绝对化的自我否定（如“我是失败者”“我不可能改善”）",
+            "回避联系新客户以避免可能失败"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "减少参与家庭活动，将修复关系的冲动转为自我疏离",
+            "以分散注意（兴趣嗜好）代替直接沟通或寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中与同事比较或接受业绩反馈时，来访者通常会产生“我不够好/我是失败者”的想法，继而回避联系新客户，导致业绩进一步下降。",
+          "unique_outcome": "上个月完成了几笔较为困难的成交，客户对服务表示满意；当下体验到一定的肯定，与以往一概视为失败不同。",
+          "reason": "线索：当次获得客户的正面反馈与具体成功经验，为能力提供了可观察的证据，使其短暂地弱化了“失败者”的叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备实际的成功经验（上个月完成几笔困难成交）",
+          "态度积极，愿意尝试现实检验与重构思维",
+          "拥有少数可信赖的朋友可倾诉与支持"
+        ],
+        "negative_force": [
+          "灾难化与跳跃性结论（读心术、预测未来）",
+          "否定正面反馈，维持失败者自我图式",
+          "回避行为（减少家庭互动、避免联系新客户）",
+          "被抛弃恐惧与家庭支持缺失导致的持续不安全感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避联系新客户与挑战性任务",
+          "antecedent": [
+            "看到同事达成业绩目标",
+            "从经理处收到业绩指标反馈",
+            "想到近期销售下滑"
+          ],
+          "core_reason": "对自身能力的全或无认知与灾难化预测（认为“不可能改善”“再次失败会证明我是失败者”）",
+          "function": "逃避可能的失败与羞耻，短期降低焦虑",
+          "consequence": "业绩进一步下降，与同事关系紧张，自我效能感降低"
+        },
+        {
+          "behavior": "疏远/回避家庭活动",
+          "antecedent": [
+            "与家人互动后出现误解与冲突",
+            "预感关系将恶化或被抛弃"
+          ],
+          "core_reason": "被抛弃恐惧与对关系破裂的灾难化解释",
+          "function": "逃避被评判与冲突，维持短期安全感",
+          "consequence": "家庭关系进一步疏离，孤独感与不安全感加重"
+        },
+        {
+          "behavior": "否定正面反馈并将成功归因于运气",
+          "antecedent": [
+            "收到客户的正面反馈",
+            "完成小额或困难成交"
+          ],
+          "core_reason": "维持“失败者”核心信念，通过否定正向证据避免认知不一致带来的不适",
+          "function": "减少对自我价值的期待以回避焦虑",
+          "consequence": "积极体验被削弱，自我效能感难以提升，持续低落与自责"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 680
+}

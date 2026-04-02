@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "林若兰",
+      "gender": "女性",
+      "occupation": "医院工作人员",
+      "educational_background": "在一所小型社区学院就读的学生",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病史；无既往心理治疗史；未有类似问题经历",
+      "language_features": "表达清晰、配合度较好；语气偏消极，反复自我怀疑；能具体描述工作场景中的困扰与情绪"
+    },
+    "main_problem": "我认为自己被调到医院的新科室是因为工作做得很差，这导致我出现自我怀疑和焦虑。",
+    "topic": "职业发展",
+    "core_demands": "这些想法和感受正在影响我在工作中的自信和整体幸福感，因此我决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任/我会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "被调到医院的新科室后，上级说明是“需要你的经验”，但来访者认为这是借口",
+          "conditional_assumptions": "如果被调岗，一定是因为我表现不好；他人不会告诉我真实的负面评价",
+          "compensatory_strategies": "向同事和主管寻求安慰与保证，但内心持续怀疑其真实性",
+          "automatic_thoughts": "他们只是敷衍我，真实原因是我做得很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在新科室面对不熟悉的新流程与任务",
+          "conditional_assumptions": "如果我不能一次做对，就说明我不胜任",
+          "compensatory_strategies": "减少与同事互动、回避主动求助，犯错后选择躲避",
+          "automatic_thoughts": "我又要把这件事搞砸了，就像其他所有事情一样",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "主管偶尔对工作表示感谢、同事给予一般性安慰",
+          "conditional_assumptions": "正面反馈不可靠，别人只是好心安慰并不是真心认可",
+          "compensatory_strategies": "继续寻求外部保证，但快速否定正向反馈的价值",
+          "automatic_thoughts": "这不是真心的，他们只是说说而已",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作中面对新挑战或任务时感到高压和焦虑",
+          "conditional_assumptions": "只有得到他人明确肯定，我才有价值；否则就说明我很差",
+          "compensatory_strategies": "反复向同事或主管寻求认可与确认",
+          "automatic_thoughts": "如果他们不肯定我，就说明我不行",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，盼望自己的能力在工作中被真实肯定",
+        "fear": "害怕被否定和被视为不胜任，担心他人隐藏真实负面评价",
+        "defense_goal": [
+          "通过寻求保证与保持谨慎来降低被否定的风险；避免暴露不足以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不胜任、容易出错、需要他人认可的自己",
+          "object_representation": "表面安慰但不真正理解、可能隐藏真实负面评价的他人（上级/同事）",
+          "linking_affect": "焦虑、羞耻、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被告知“调岗是因为需要你的经验”或在咨询中被邀请接纳正向反馈时",
+          "interpretation": "来访者倾向于认为对方在敷衍或隐藏真实负面评价（移情：他人不真诚）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以谨慎、质疑的语气回应，强调“这只是借口/客套”，避免深入接纳正向信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与新同事建立联系并主动求助",
+            "在工作中感到“无人真正理解我”的落差感"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠受影响",
+            "学习专注下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "新岗位带来更高的职责与选择压力",
+            "对不确定结果的担忧与责任焦虑"
+          ],
+          "outcomes": [
+            "自我怀疑与回避求助",
+            "工作表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "在需要帮助时克制求助冲动，选择独自硬撑",
+            "犯错后想隐藏自己、避免与同事直接接触"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑，强调“我不够好/我会失败”",
+            "难以接纳正向反馈，持续用负面标准评判自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对新任务或挑战的工作情境中，来访者通常会陷入自我怀疑与焦虑，并认为自己表现很差，难以接纳正向反馈。",
+          "unique_outcome": "有几次任务结束后，主管感谢了她的努力；当天她在犯错后仍尽力纠正并完成任务，获得正向回应。",
+          "reason": "线索：她在犯错后主动尝试修正问题（做法不同）；主管注意到她的努力并给出感谢（不同支持），因此出现了与以往自我否定不同的结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备可迁移的工作经验（调岗说明对其经验有需求）",
+          "犯错后主动纠错、坚持完成任务",
+          "愿意尝试咨询并探索替代性解释",
+          "拥有几位可倾诉的朋友"
+        ],
+        "negative_force": [
+          "过度概括、跳到结论、个人化等非功能性思维模式",
+          "过度依赖外部认可且否定正向反馈",
+          "持续自我怀疑与低自我评价",
+          "与新同事连接与求助困难",
+          "焦虑影响睡眠与学习专注，进一步削弱工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作场景中的强烈自我怀疑与焦虑（伴随回避求助、否定正向反馈）",
+          "antecedent": [
+            "被调到新科室后对调岗原因的负性解释",
+            "面对不熟悉的新流程与任务",
+            "收到主管或同事的正向反馈/安慰",
+            "在高压环境中承担新职责"
+          ],
+          "core_reason": "对自身能力的消极核心信念（“我不够好”）与认知歪曲（过度概括、读心术、个人化、否定正面），并对外部认可的高度依赖。",
+          "function": "逃避潜在失败与负面评价的威胁、寻求安慰与外部确认以暂时缓解焦虑。",
+          "consequence": "工作表现受影响；与同事关系建立与求助受限；焦虑加重并影响睡眠与学习专注。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1619
+}

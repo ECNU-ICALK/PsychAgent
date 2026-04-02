@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "张若薇",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；未曾出现过类似心理问题",
+      "language_features": "表达清晰、逻辑性较好、配合度高，语速正常，略显紧张与怀疑"
+    },
+    "main_problem": "我认为自己在舞蹈方面很普通且没有任何技巧，这一信念导致自我怀疑和低自信。",
+    "topic": "个人成长",
+    "core_demands": "持续的负面感受影响了我对舞蹈的享受和整体自信，希望通过挑战负性认知、收集证据并重构观点，从“我没有技巧”转变为“我在练习中逐步进步并享受过程”。",
+    "growth_experiences": [
+      "一年前开始参加舞蹈课程。一次班级展示中，其他同学都能较为完美地完成高级动作，而自己未能成功，感到格格不入与羞愧。此后在课堂中频繁与他人比较，看到他人更自信、更熟练，由此逐步形成“我很普通、没有技巧、不够好”的自我评价模式，并在每次跳舞或想到跳舞时反复出现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我没有舞蹈天赋/技巧"
+      ],
+      "special_situations": [
+        {
+          "event": "班级展示时，其他同学能完成高级动作而自己未能成功",
+          "conditional_assumptions": "如果不能像同学一样完美地完成动作，就说明我没有天赋、我不够好",
+          "compensatory_strategies": "加倍练习但过度关注错误、在心里否定正面反馈以避免失望",
+          "automatic_thoughts": "我不适合跳舞/我没有任何技巧",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在课堂上收到教练或同学的正面反馈（如“你在进步”“这一招做得很好”）",
+          "conditional_assumptions": "只有完全没有错误的表演才值得认可；别人看不到我的真实错误，赞美不可信",
+          "compensatory_strategies": "忽视赞美、抓住不足与瑕疵不放",
+          "automatic_thoughts": "他们只是客气，我其实很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在舞蹈课中看到同学们更自信、更熟练的表现",
+          "conditional_assumptions": "如果我不如他们，就证明我不行/我不够好",
+          "compensatory_strategies": "不断与他人比较、降低自我评价",
+          "automatic_thoughts": "我不如他们，我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "练习或回看表现时注意到自己的几个错误",
+          "conditional_assumptions": "出错等于失败；错误更能代表我的真实水平",
+          "compensatory_strategies": "反复在脑中批判自己、减少对过程的享受",
+          "automatic_thoughts": "我果然不行",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见自己的进步并作为“舞者”被接纳",
+        "fear": "害怕暴露不足后被评判与羞辱，最终被否定为“不够好”",
+        "defense_goal": [
+          "通过自我贬抑与否认积极面来降低期望、避免失望与外界评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、平庸的学员/舞者",
+          "object_representation": "他人（同学/教练）是更优秀且潜在挑剔的评判者，只能看到我做对的片段",
+          "linking_affect": "羞愧、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人在课堂/对话中给予正向反馈、鼓励其回顾优点与进步时",
+          "interpretation": "认为对方看不到“真实的自己”（即错误与不足），因此赞美不可信（移情：将自身的否定体验投射到他人意图上）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以委婉但坚定的口吻否定赞美，常用“但是”“其实我还是很差”等句式；语气偏谨慎、收敛，强调自己的错误细节来削弱正面信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有几位亲密朋友但未向其分享自我怀疑与不足的感受",
+            "在舞蹈群体中经历格格不入与羞愧，主观上感到与他人疏离"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "情感表达与求助减少",
+            "对舞蹈的享受下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "热爱舞蹈但持续的自我否定使得乐趣降低"
+          ],
+          "outcomes": [
+            "动力减弱",
+            "主观满足感下降",
+            "对自我价值的质疑增多"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注错误、苛责自己",
+            "对赞美与积极反馈保持怀疑、难以接纳",
+            "在回顾表现时更多罗列问题而非承认优点"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为他人只看到自己“做对的片段”而看不到“真实错误”",
+            "将自身的否定体验归因为他人的不真实或客套的称赞"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对舞蹈具有稳定的热爱与参与（持续参加课程）",
+          "他人曾给予正向反馈（被评价为有进步与某些动作完成良好）",
+          "偶尔能完成某些动作、存在可被观察到的成功片段"
+        ],
+        "negative_force": [
+          "过度与他人比较，形成“我不如他们”的固定叙事",
+          "否定正向反馈、聚焦错误（心理过滤）",
+          "将一次或少数失败过度概括为整体能力不足",
+          "自信心不足、持续自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在舞蹈相关情境中的自我否定与与他人比较",
+          "antecedent": [
+            "舞蹈课堂或班级展示",
+            "看到同学更自信、更熟练的表现"
+          ],
+          "core_reason": "与同伴比较激活“我不够好”的核心信念，并将一次失败泛化为整体能力判断",
+          "function": "逃避被评判与失败感，通过自我贬低来预防期望与压力",
+          "consequence": "对舞蹈的乐趣下降、动力受损、整体自信降低"
+        },
+        {
+          "behavior": "否定正向反馈（将赞美视为不真实或客套）",
+          "antecedent": [
+            "收到教练或同伴的赞美、鼓励或改进反馈"
+          ],
+          "core_reason": "内在规则为“只有完美才值得认可”，因此把正面评价解释为不真实或忽略不计",
+          "function": "维持苛刻标准以获得控制感、避免失望与暴露不足",
+          "consequence": "无法形成平衡认知，强化自我怀疑与挫败体验"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 544
+}

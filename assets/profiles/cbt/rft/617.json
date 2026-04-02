@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "海莉",
+      "gender": "女性",
+      "occupation": "医疗档案文员",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "独居于马里兰州巴尔的摩",
+      "social_status": "有少数朋友可交流，但未向他人透露具体不安；因外貌不安而回避社交和与女性互动，难以建立有意义的关系",
+      "medical_history": "无显著躯体疾病；既往无心理问题相似史；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较强，能自我反思并承认证据不足；配合度高、语气中性，愿意探索替代解释"
+    },
+    "main_problem": "我对自己的外貌感到不安，尤其是我几乎长不出胡须，这让我相信女性会把我当成小孩。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询来处理这些影响我社交互动和自尊的不安全感。",
+    "growth_experiences": [
+      "自青少年时期起因社会对男性气质的规范而对“几乎长不出胡须”产生持续的不安与自卑，将“男性外貌标准”内化为自我评价准则；进入成年后，这种内化导致在社交场合（尤其女性在场时）频繁出现自动化思维（她们会把我当小孩），逐渐发展为社交回避与自尊受损的长期困扰。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的外貌（是否有胡须）决定别人对我的评价与价值感",
+        "我不够成熟/不够“男人”，因此不被异性认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在有女性在场的社交场合",
+          "conditional_assumptions": "如果我看起来不够“男人”（胡须稀少），她们就会把我当成小孩并拒绝我",
+          "compensatory_strategies": "回避社交、减少与女性接触以避免被评价",
+          "automatic_thoughts": "她们一定会把我当小孩看待",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "照镜子时注意到自己几乎没有胡须",
+          "conditional_assumptions": "男人应该有胡须才算成熟、值得被认真对待",
+          "compensatory_strategies": "在镜前反复检查外貌并进行自我贬低",
+          "automatic_thoughts": "男人就应该有胡须，我没有，所以我不够成熟",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "浏览网络论坛和自助文章以寻求安慰与确认",
+          "conditional_assumptions": "只有获得他人的认可与保证，我才算有价值、才不会被当成小孩",
+          "compensatory_strategies": "反复在网上寻求他人意见与认可，依赖外部评价稳定自尊",
+          "automatic_thoughts": "如果他们不认可，我就证明自己确实不行",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "朋友表达不在意外貌（正向反馈）",
+          "conditional_assumptions": "若正向反馈与我信念不符，必有其他原因（如出于礼貌）",
+          "compensatory_strategies": "否定积极证据，将其归因为客气或敷衍",
+          "automatic_thoughts": "他们只是出于礼貌，不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人（尤其是潜在亲密关系对象）视为成熟、有吸引力并被平等认真对待",
+        "fear": "害怕被当成小孩、被贬低与拒绝，担心遭到羞辱与否定",
+        "defense_goal": [
+          "通过回避社交以降低被评价与羞辱的风险",
+          "以理性化和外部验证来缓解焦虑、维持脆弱的自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够成熟、缺乏吸引力、容易被当作小孩的人",
+          "object_representation": "挑剔、带有评判眼光的他者（尤其是女性）",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、寻找反例时",
+          "interpretation": "倾向将正向反馈解读为“对方只是客气”，以维持原有负性信念",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以中性、抽象化词汇（如“社会标准”“内化”）回应，弱化情绪色彩，用“他们可能只是出于礼貌”来否定积极证据。"
+        },
+        {
+          "trigger_condition": "当他人对其外貌表示不介意或给予正向评价时",
+          "interpretation": "认为对方只是出于礼貌或社交客套，实际并不认同自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以轻描淡写、带保留的语气回应，使用“可能……只是……吧”的句式来削弱正向信息的影响。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因外貌不安而回避社交，尤其避免与女性互动",
+            "难以建立有意义的连接与亲密关系，倾向先替他人做负面判断",
+            "独居，主观上感到被孤立与不被理解"
+          ],
+          "outcomes": [
+            "社交回避与焦虑增强",
+            "自尊受损与持续的不安全感",
+            "与他人连接减少，孤独感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“男人应该有胡须”视为自我评价的硬性标准",
+            "用“社会期待/男性气质标准”来衡量自身价值与可被接受度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交前即替他人下负面判断（他们会把我当小孩）",
+            "为避免被评价而回避社交，过度谨慎与自责",
+            "正向反馈被贬低为“客气”，维持自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有少数稳定朋友关系可提供基本支持",
+          "工作功能完好，生活自理能力稳定",
+          "愿意求助并参与认知重建与行为尝试（开放于替代解释与小目标）",
+          "能够识别自动化思维并承认证据不足，具备反思能力"
+        ],
+        "negative_force": [
+          "将社会性别规范内摄为自我价值标准（外貌决定价值）",
+          "读心术与跳到结论的思维模式反复出现",
+          "对外部验证的依赖，否定正向证据",
+          "社交回避维持焦虑与孤独，自尊脆弱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合（尤其女性在场时）出现明显焦虑并回避接触",
+          "antecedent": [
+            "进入社交情境或即将与女性互动",
+            "照镜子时注意到自己几乎没有胡须",
+            "接触关于男性气质的讨论/内容"
+          ],
+          "core_reason": "将“男性应有胡须”的社会规范内摄为自我评价标准，产生读心与灾难化推测（被当成小孩、不被认真对待）。",
+          "function": "逃避被评价与可能的羞辱，以短期减轻焦虑与羞耻感",
+          "consequence": "社交圈缩小、难以建立亲密关系，自尊进一步受损并维持负性信念循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 617
+}

@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "韩以森",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单亲",
+      "family_status": "有一个孩子，最近大学毕业",
+      "social_status": "有几位可以倾诉的亲密朋友，但尚未与他们讨论负性思维模式",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "逻辑清晰、配合度尚可；表达焦虑明显、反复自我怀疑；倾向用绝对化与最坏结果的表述；对正向反馈持怀疑态度"
+    },
+    "main_problem": "我经常进行非黑即白的思维，如果不能完全达成目标，就认为一切都是失败。这种思维模式影响了我的动力和整体幸福感。",
+    "topic": "情绪管理",
+    "core_demands": "意识到消极思维模式正在影响日常生活和自尊，因此寻求咨询以应对这些思维。",
+    "growth_experiences": [
+      "开始参加三项赛后，逐渐形成以“完全达成目标才算成功”的标准来评估自我，若目标未充分达成就认定为失败。这一模式逐步影响到日常跑步与其他个人目标，导致动力下降。",
+      "女儿大学毕业进入空巢期后，压力显著增加，相关消极思维（如把不完美表现视为全面失败）进一步加剧，伴随自我失望与动机减退。",
+      "在一次外科手术中出现过一个小失误，虽及时纠正且未造成伤害，但自那以后反复担心再次犯错会毁掉职业与形象，并在工作决策中持续发生灾难化联想与强烈焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "犯错就等于失败，且会毁掉一切"
+      ],
+      "special_situations": [
+        {
+          "event": "日常跑步时只跑了一英里",
+          "conditional_assumptions": "如果没有完全达成训练目标，就说明我失败了",
+          "compensatory_strategies": "逼迫自己更用力训练、加倍要求以证明自己",
+          "automatic_thoughts": "我今天只跑了一英里，我的整个目标都完蛋了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在一次外科手术中出现小失误（已及时纠正且无伤害）",
+          "conditional_assumptions": "一次失误足以毁掉职业并让我被视为失败者",
+          "compensatory_strategies": "反复自我安抚并向同事寻求肯定以缓解不安",
+          "automatic_thoughts": "我会丢掉工作、毁掉事业、被看作失败者",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "女儿大学毕业后进入空巢期",
+          "conditional_assumptions": "在没有家庭角色支撑时，必须完美达成个人目标才能证明自身价值",
+          "compensatory_strategies": "设定更高期待并在三项赛等个人目标上逼迫自己",
+          "automatic_thoughts": "如果我不能把个人目标做到最好，我就一无是处",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同事讨论并获得他们的正向反馈与安慰",
+          "conditional_assumptions": "只有得到他人的认可，我才可以证明自己不是失败者",
+          "compensatory_strategies": "频繁寻求他人安慰与认可来短暂缓解焦虑",
+          "automatic_thoughts": "如果同事不能肯定我，就说明我不行",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力与可靠，维持成就感与安全感",
+        "fear": "害怕犯错后被看作失败者、失去工作与重要关系",
+        "defense_goal": [
+          "通过维持完美标准与寻求外部肯定来避免失败与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "随时可能失败、需要证明自己的不够好的执行者",
+          "object_representation": "他人是评判者或不可信的安慰者（给予肯定但难以被相信）",
+          "linking_affect": "焦虑、羞耻、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当同事或咨询师淡化错误、给予正向反馈或肯定时",
+          "interpretation": "将他人的安慰理解为不真实或不可靠，认为他们不理解真实风险",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "坚持强调最坏结果，使用绝对化（“一定”“彻底”）措辞，忽略正面证据与安慰。"
+        },
+        {
+          "trigger_condition": "当回想起那次小失误或在工作中面临关键决策时",
+          "interpretation": "把一次失误等同于全面失败与职业毁灭，以此合理化持续焦虑与自我苛责",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以“风险”“后果”作为理由不断强调最坏可能，用条理化论证来维持负面结论并回避接纳不确定性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "女儿毕业进入空巢期后感到压力上升，内在支持角色减少",
+            "在自我价值与目标感上更依赖完美表现与达成"
+          ],
+          "outcomes": [
+            "动机下降",
+            "焦虑与灾难化思维加剧",
+            "将失误视为全面失败"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "大量使用“必须/完全达成”的内在规则评判自己",
+            "以完美达成为唯一成功标准，未加检视其适用性"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作中反复自我怀疑、二次猜测每个决定",
+            "害怕犯错而过度谨慎，难以接纳正向反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中出现失误时，来访者通常会灾难化思维、强烈焦虑并认定职业可能因此被毁",
+          "unique_outcome": "那次外科手术的小失误后，来访者迅速纠正错误且未造成伤害，表现出及时应对与责任感",
+          "reason": "不同做法：及时采取纠正措施；不同支持：同事反馈认为失误不严重，提供了现实性信息"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在压力情境下仍有良好专业表现的记录",
+          "能迅速纠错并承担责任",
+          "拥有少数可倾诉的朋友与同事支持"
+        ],
+        "negative_force": [
+          "非黑即白与灾难化思维突出",
+          "过度依赖外部认可且难以接纳正面反馈",
+          "空巢期压力加重自我价值动摇",
+          "自我怀疑与自尊受损导致动机下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在目标未完全达成或发生小失误时出现灾难化与非黑即白思维并伴随强烈焦虑",
+          "antecedent": [
+            "日常跑步训练进度不如预期",
+            "工作中面对挑战或回想过去的小失误",
+            "空巢转变后对个人目标的压力提升"
+          ],
+          "core_reason": "自我价值高度绑定于完美达成与零错误，并担心外界评价将自己视为失败者",
+          "function": "通过绝对化与最坏情境预设来获得短期的确定感与控制感、逃避不确定性与失败感",
+          "consequence": "持续焦虑、睡眠受损、动力下降，雪上加霜地影响工作表现与人际关系"
+        },
+        {
+          "behavior": "过度寻求他人的安慰与认可（反复向同事确认）",
+          "antecedent": [
+            "在工作中感到焦虑或出现错误后",
+            "面对重要决策时自我怀疑加剧"
+          ],
+          "core_reason": "内在自我评价不稳，试图依靠他人认可来证明自己不是失败者",
+          "function": "获得短期安慰与缓解焦虑",
+          "consequence": "缓解短暂但对肯定难以信任，强化对外部认可的依赖并维持负性思维循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1506
+}

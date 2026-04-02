@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈明",
+      "gender": "男",
+      "occupation": "化妆师",
+      "educational_background": "化妆艺术认证",
+      "marital_status": "单身",
+      "family_status": "与手足同住",
+      "social_status": "有少数朋友但不愿谈及自我怀疑；与姐姐关系受影响；多数客户满意且有回头客",
+      "medical_history": "无重要躯体疾病；未接受过心理治疗；既往无类似心理问题",
+      "language_features": "表达清晰、思路连贯、配合度高；能够自我观察思维模式；常使用绝对化与标签化表述（如“永远不够好”）；倾向否定正向反馈与成就；工作情境中伴随焦虑与自我批评"
+    },
+    "main_problem": "因姐姐对我为她做的妆容不满意，我开始对自己的化妆师技能产生强烈的自我怀疑与不足感，并将一次负面反馈泛化到整体能力，影响工作时的信心与表现。",
+    "topic": "职业发展",
+    "core_demands": "寻求咨询的支持与指导，以挑战并重构消极信念，缓解自我怀疑，恢复作为化妆师的职业自信。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的化妆师/艺术家",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "姐姐对我为她做的妆容表达不满，指出妆感不均匀、不是她的预期",
+          "conditional_assumptions": "如果重要的亲人都不喜欢我的作品，就证明我整体能力不足，说明我是个坏艺术家",
+          "compensatory_strategies": "通过加倍练习与观看在线教程来证明自己并避免再次失误",
+          "automatic_thoughts": "我就是一个糟糕的化妆师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次开始为新客户化妆",
+          "conditional_assumptions": "如果客户不完全满意，就意味着我失败；我必须让每位客户都满意",
+          "compensatory_strategies": "在工作中高度自我监控、追求完美以避免不满",
+          "automatic_thoughts": "他们会不满意，我可能会搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到客户的正向反馈或出现回头客",
+          "conditional_assumptions": "他人的赞美不代表真实能力，可能只是礼貌，不足以说明我真的有水平",
+          "compensatory_strategies": "否定成功经验、继续加练以弥补所谓不足",
+          "automatic_thoughts": "他们只是客套，我只是走运",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "反复回想姐姐的负面评价并因此关系紧张",
+          "conditional_assumptions": "如果让家人失望，就说明我没用且这是我的错误",
+          "compensatory_strategies": "回避与朋友讨论不安，减少社交以避免被评价",
+          "automatic_thoughts": "我让她失望了，都是我的问题",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被重要他人（家人与客户）认可与肯定",
+        "fear": "害怕被否定、被拒绝与失败，担心让亲人失望",
+        "defense_goal": [
+          "通过自我监控与否定正向证据来避免受伤与再次被否定",
+          "保持谨慎与自我苛责以获得控制感、降低不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让人失望、不够好的兄弟与专业人士",
+          "object_representation": "苛刻且不满足的评价者（姐姐）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "不合格、容易失败的服务提供者",
+          "object_representation": "可能不满意、挑剔的客户",
+          "linking_affect": "恐惧、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调正向证据或鼓励其接纳积极反馈时",
+          "interpretation": "认为他人的赞美不真实、只是礼貌；体验到他人忽视事实或过度乐观",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "以质疑和保留的语气回应，强调“他们只是客套”、淡化正向证据，避免情绪卷入。"
+        },
+        {
+          "trigger_condition": "开始为新客户工作、面临可能的评价与反馈时",
+          "interpretation": "将部分不满视为全面失败，认为只要不是完美就是彻底不行（全好全坏）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "使用绝对化陈述（如“要么完美要么失败”），语气紧张、倾向自我贬低并加大自我监控。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友讨论自我怀疑与不安",
+            "亲密关系中的一条负面反馈被赋予重大意义，反复侵入性回想",
+            "工作场景中常感到独自承受他人评价的压力"
+          ],
+          "outcomes": [
+            "自我怀疑与焦虑增强",
+            "职业自信下降",
+            "人际疏离与关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "开始新客户时过度担忧与自我审查",
+            "将注意力聚焦在错误与不足",
+            "工作中追求完美以避免不满"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "将客户的赞美理解为“只是礼貌”",
+            "预设他人会不满意、把不安归因为他人态度"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "将原本指向外界的能量转向自己，克制对他人提出需求或表达",
+          "manifestations": [
+            "不与朋友谈论不安与自我怀疑，选择独自承受",
+            "减少寻求支持的行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多数客户对作品满意且存在回头客的客观证据",
+          "主动练习与观看在线教程以提升技能",
+          "愿意寻求专业咨询，态度积极",
+          "具备化妆艺术专业认证与从业经验"
+        ],
+        "negative_force": [
+          "过度概括与灾难化思维导致整体自我否定",
+          "否定正向反馈的习惯使成功难以内化",
+          "对未来的负面预测与读心术加剧工作焦虑",
+          "强依赖外部评价的自我价值（寻求外部验证）",
+          "开始工作时高度自我监控与完美主义倾向"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "开始为新客户化妆时出现显著焦虑与自我否定，预期客户将不满意",
+          "antecedent": [
+            "开始为新客户服务",
+            "回想姐姐的负面评价",
+            "面对可能的评价或反馈"
+          ],
+          "core_reason": "将一次亲密他人的负面反馈过度概括为整体能力不足，并以外部评价决定自我价值（寻求外部验证）",
+          "function": "通过提前担忧与高度自我监控来逃避被否定的可能、寻求控制以降低不确定性",
+          "consequence": "工作效率与自信下降，压力增大，客户互动紧张，日常生活受影响"
+        },
+        {
+          "behavior": "否定正向反馈（认为他人只是礼貌或自己只是走运），难以内化成功经验",
+          "antecedent": [
+            "收到客户的赞美",
+            "出现回头客或积极评价"
+          ],
+          "core_reason": "维持负性自我图式以避免期望提升后再次失望",
+          "function": "降低期望以缓解焦虑，避免情绪受挫",
+          "consequence": "自我效能感难以提升，持续自我怀疑与职业自信受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1457
+}

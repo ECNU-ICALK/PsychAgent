@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "陈宇",
+      "gender": "男",
+      "occupation": "网页开发工程师",
+      "educational_background": "计算机科学学士学位",
+      "marital_status": "单身",
+      "family_status": "独自居住，未提供更多家庭信息",
+      "social_status": "有一群支持性的朋友，但因频繁寻求他人意见与保证，人际互动受到影响；尚未向朋友直接表达自己的不自足感",
+      "medical_history": "无明显躯体疾病；既往无类似心理问题与心理治疗史",
+      "language_features": "表达清晰、逻辑连贯、配合度较高；情绪中性偏低落，伴随焦虑与自我怀疑；在涉及投资/财务决策时显得犹疑并寻求保证"
+    },
+    "main_problem": "在一次新的商业投资中亏损后，持续出现自卑与自我怀疑，影响自尊与对自身商业/财务决策的信任，尤其当面对新的投资机会或财务决策时加重。",
+    "topic": "情绪管理",
+    "core_demands": "“财务损失及随之而来的无能感已影响我的日常生活和决策能力，因此来寻求咨询。”“我意识到这些感觉不会消失，需要在变得更糟之前做点什么。”",
+    "growth_experiences": [
+      "六个月前在一次新的商业投资中遭遇较大金额的亏损。当时压力很大，随后开始出现持续的自卑与自我怀疑，觉得自己在投资上无能，难以信任自己的判断。这一事件使其在面对新的投资或财务决策时出现明显焦虑与回避，并在日常生活中表现为工作中反复犹疑、绩效下降，以及在人际中频繁寻求他人保证。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的生意人/决策者",
+        "我注定会在投资上失败"
+      ],
+      "special_situations": [
+        {
+          "event": "面对新的投资机会或需要做财务决策",
+          "conditional_assumptions": "如果我再次做出投资决策而失败，就证明我天生不适合这件事，且可能造成更大损失",
+          "compensatory_strategies": "回避投资、拖延或冻结决策以降低风险",
+          "automatic_thoughts": "我一定会再次失败，情况只会更糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在工作中需要做重要的选择或提交方案",
+          "conditional_assumptions": "如果我做出错误选择，就说明我一无是处；一次错误代表我总会做错",
+          "compensatory_strategies": "反复犹疑和二次猜测、过度自我检查以避免出错",
+          "automatic_thoughts": "我做不好任何决定/我总会犯错",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友讨论财务问题、征求意见或需要他人对决策的看法",
+          "conditional_assumptions": "只有得到他人认可或指引，我的决定才是安全的；靠自己会失败",
+          "compensatory_strategies": "过度寻求保证、优先采纳他人意见以降低不确定性",
+          "automatic_thoughts": "我的判断不可信，最好照他们说的做",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "回想起那次投资亏损或看到账单/余额提醒时",
+          "conditional_assumptions": "一旦想到那次失败，就证明我本质上就是失败者",
+          "compensatory_strategies": "自我批评、回避与理财相关的信息或决定",
+          "automatic_thoughts": "我是个糟糕的生意人/我不配做投资",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、能做出可靠决定并获得认可与成功",
+        "fear": "害怕失败后被否定与羞辱，失去控制与安全感",
+        "defense_goal": [
+          "通过回避风险与重要决策来降低失败及被否定的可能",
+          "依赖他人意见以获得安全感与外部认可"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、需要依赖他人的决策者",
+          "object_representation": "更懂、更有权威且可能评判自己的人（朋友/他人）",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验、测试其信念，或邀请其在会谈中做出选择时",
+          "interpretation": "担心这会暴露自己的无能，一旦失败就会被证实“我很糟糕”",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "语气谨慎、犹疑，频繁使用“如果…就…”的假设句，提出最坏情况的担忧并请求进一步保证；在接受建议前要求分步说明、低难度起步。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在面对投资或财务决策时回避做选择，将责任外包给他人意见",
+            "担心失败与承担后果，减少自主选择以求安全",
+            "将自我价值过度与一次失败捆绑，弱化自我主导感"
+          ],
+          "outcomes": [
+            "自主性与自我效能感下降",
+            "广泛性自我怀疑与焦虑",
+            "工作表现受影响、生活乐趣降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论行为实验时反复担心“万一证明我很糟怎么办”，语气谨慎、需要保证",
+            "对自己的判断持持续否定态度，难以自我接纳"
+          ]
+        },
+        {
+          "mode": "融合",
+          "definition": "个体自我与他人或群体边界不清，倾向一致，消融个体意识，与“退缩”对应。",
+          "manifestations": [
+            "在决策上倾向采纳他人意见以求安全",
+            "在咨询中更期待得到明确指示而非做出自我选择"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友关系网络",
+          "具备稳定工作与专业背景（计算机科学学士、网页开发经验）",
+          "能主动寻求帮助并愿意尝试新的方法（咨询与行为实验）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的思维模式，将单次失败扩展为全面否定",
+          "决策回避与过度寻求保证，过度依赖他人意见",
+          "自尊受损与自我标签化（将自己定义为“糟糕的生意人”）",
+          "对失败的强烈恐惧，导致在关键情境中冻结"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避投资/财务相关决策，遇到决策时出现冻结与强烈焦虑",
+          "antecedent": [
+            "面对新的投资机会",
+            "需要做重要财务决策",
+            "回想起过去的投资亏损"
+          ],
+          "core_reason": "将单次亏损解释为永久性无能，灾难化预测未来失败，害怕羞耻与进一步损失",
+          "function": "逃避不受欢迎的情绪（焦虑、羞耻）与潜在经济损失以获得暂时的安全感",
+          "consequence": "机会损失与拖延增多，自信与决策能力进一步下降，焦虑维持甚至加重，工作表现受影响"
+        },
+        {
+          "behavior": "过度寻求他人保证与意见以替代自我判断",
+          "antecedent": [
+            "面对投资或财务相关选择",
+            "对自身判断产生怀疑"
+          ],
+          "core_reason": "对外部验证的高度依赖，认为只有得到他人认可决策才安全",
+          "function": "获得安慰与确定感、分担责任以降低失败焦虑",
+          "consequence": "依赖增强，自主性与自我效能感降低，难以形成稳定的决策标准"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 138
+}

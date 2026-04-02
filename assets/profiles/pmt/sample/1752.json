@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "78",
+      "name": "林梅",
+      "gender": "女性",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "与母亲和祖父母同住",
+      "social_status": "有三位要好的朋友但未分享自卑感；与男性同伴讨论汽车话题时感到被轻视",
+      "medical_history": "无重大医学疾病；此前未接受过心理治疗；既往无类似问题",
+      "language_features": "表达清晰、逻辑连贯，配合度高；态度积极"
+    },
+    "main_problem": "作为喜欢跑车的女孩，我觉得自己永远不可能像男性那样了解跑车，因而产生自卑与自我怀疑。",
+    "topic": "自我探索",
+    "core_demands": "我决定寻求咨询，因为这些自卑感正在影响我的自尊和对爱好的享受。",
+    "growth_experiences": [
+      "约两年前开始对跑车产生兴趣；认为社会刻板印象与汽车行业女性代表的缺乏是问题的主要原因，这一认知逐步强化为“女生不可能像男生那样懂车”，并加重自我怀疑。",
+      "与男性同伴讨论赛车话题时常感到被轻视和被评判；曾在在线论坛中有被他人认可的积极讨论，但这些正面时刻被负面体验所遮蔽。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是女生，所以在跑车知识上永远不如男性。"
+      ],
+      "special_situations": [
+        {
+          "event": "与男性同伴讨论跑车话题",
+          "conditional_assumptions": "如果我不能像他们一样侃侃而谈或展现足够知识，就会被轻视，证明女生天生不如男生懂车。",
+          "compensatory_strategies": "提前大量查阅资料以增强知识储备",
+          "automatic_thoughts": "他们觉得我不懂车、在看不起我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "任何社交场合出现汽车相关话题",
+          "conditional_assumptions": "如果话题涉及汽车而我不能表现得很懂，就会被看不起并证实自己不如人。",
+          "compensatory_strategies": "加入在线论坛、进一步研究以试图提升自信",
+          "automatic_thoughts": "这次又会被看不起，我会显得很外行。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到车圈与汽车行业中女性代表较少",
+          "conditional_assumptions": "如果女性在这个领域很少见，就说明女生不可能达到与男生同等的知识水平。",
+          "compensatory_strategies": "用“女性稀少”作为证据驱动自己持续学习来证明价值",
+          "automatic_thoughts": "女生在这里很少，所以我也不可能像他们一样懂。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在在线论坛中曾获得他人对自己观点的认可",
+          "conditional_assumptions": "如果不是所有情况下都得到认可，那些正面反馈就不算数。",
+          "compensatory_strategies": "忽视被认可的时刻、更多关注负面经历",
+          "automatic_thoughts": "这些认可不代表什么，仍然说明我不够好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被平等看待、被认可为有能力的跑车爱好者。",
+        "fear": "害怕因性别被轻视或否定，担心被评判为外行。",
+        "defense_goal": [
+          "通过理性学习与准备来获得安全感；减少在人际中的暴露与分享以避免被贬低。"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被认可的外行、容易被轻视的女孩",
+          "object_representation": "评判、看不起人的男性同伴",
+          "linking_affect": "自卑、羞耻、焦虑"
+        },
+        {
+          "self_representation": "有能力、能贡献观点的兴趣者",
+          "object_representation": "给予肯定与接纳的在线社群成员",
+          "linking_affect": "被认可、希望与信心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当男性同伴自信地讨论汽车、展现熟悉度时",
+          "interpretation": "将对方的自信解读为对自己的贬低与轻视（认为他们在看不起自己）。",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气平和、探索式提问；先标注和反映对被轻视的感受，再共同检视证据与替代解释，避免直接指责。"
+        },
+        {
+          "trigger_condition": "当被邀请进行现实检验或讨论客观事实时",
+          "interpretation": "以理性层面的信息堆砌来与情绪隔离，认为“只要学够就能安全”。",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用温和、具体的情感聚焦语言；邀请其描述当下身体与情绪体验，平衡事实核查与情感连结。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到社会性别刻板印象限制了自己自在追求与表达对跑车的热爱",
+            "在男性同伴面前自我怀疑、犹豫分享兴趣"
+          ],
+          "outcomes": [
+            "自卑与自我怀疑",
+            "对爱好的享受降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有三位要好的朋友但未分享自己的自卑与困扰",
+            "在社群中犹豫充分参与"
+          ],
+          "outcomes": [
+            "社交支持未被激活",
+            "孤立与疏离感增加"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "爱好被负性自我评价所遮蔽，积极体验被忽视"
+          ],
+          "outcomes": [
+            "动机与乐趣下降",
+            "睡眠受到干扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“女生不可能像男生那样懂车”的社会刻板印象内化为自我标准",
+            "以性别规则来界定自己的知识边界"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制向外寻求他人支持或行动。",
+          "manifestations": [
+            "未向三位亲密朋友分享自卑与困扰",
+            "在在线车友社群中犹豫参与、压抑表达"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与自我苛责，接触过于小心谨慎。",
+          "manifestations": [
+            "过度在意他人看法，担心被评判为外行",
+            "在讨论中倾向先否定自我能力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人讨论汽车话题时，来访者通常会感到被轻视并产生自我怀疑，从而犹豫参与或减少表达。",
+          "unique_outcome": "在在线论坛的某些讨论中，她的观点被他人欣赏与认可，交流顺畅、体验到被肯定。",
+          "reason": "线索：此前做了研究、加入在线论坛并分享具体观点；论坛环境更开放、基于内容的互动减少了性别偏见，使这次体验更积极。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对跑车具有持续的热情与学习动力",
+          "主动研究与查阅资料，积累知识",
+          "已经加入在线社群，具备扩展参与的渠道",
+          "拥有三位要好的朋友，可作为潜在支持",
+          "愿意寻求咨询并尝试现实检验与重构认知"
+        ],
+        "negative_force": [
+          "内化的性别刻板信念（女生不如男生懂车）",
+          "过度依赖外部评价，倾向寻求外部验证",
+          "否定正面反馈、过度概括与读心术等不良认知模式",
+          "自卑与自我怀疑导致对社交表达的犹豫",
+          "自尊问题导致睡眠受扰"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及汽车话题时出现自卑与自我怀疑并减少表达/参与",
+          "antecedent": [
+            "与男性同伴讨论汽车",
+            "社交场合出现汽车相关话题"
+          ],
+          "core_reason": "内化的性别刻板印象与不良认知模式（读心术、过度概括、否定正面），导致将他人自信解读为对自己的贬低。",
+          "function": "逃避被评判与被轻视的可能性，以减少焦虑与羞耻感",
+          "consequence": "自尊受损、对爱好的享受下降、社交支持未被激活"
+        },
+        {
+          "behavior": "睡眠模式受扰（如入睡困难、睡眠质量下降）",
+          "antecedent": [
+            "在一天中经历与汽车话题相关的自卑与自我怀疑后",
+            "被负性思维反复激活的夜间时段"
+          ],
+          "core_reason": "自尊问题与持续的自我怀疑引发的焦虑与反刍思维。",
+          "function": "无意的情绪加工与警觉维持（非适应性），试图通过反复思考获得控制感但适得其反",
+          "consequence": "恢复不足，进一步降低情绪调节与兴趣投入，形成负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1752
+}

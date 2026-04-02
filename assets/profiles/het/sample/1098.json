@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "王敏",
+      "gender": "女",
+      "occupation": "殡仪师",
+      "educational_background": "殡葬科学学位",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交支持薄弱，遇到困难时常感到无人可求助",
+      "medical_history": "无重大躯体疾病史；既往无类似心理问题与治疗经历",
+      "language_features": "表达清晰，能自我反思，情绪平稳，配合度高，态度中性"
+    },
+    "main_problem": "我觉得由于自己作为殡仪师和集邮爱好者的特殊兴趣，无法与他人建立联系，感到被孤立和被评判。",
+    "topic": "人际关系",
+    "core_demands": "这些孤立感正在影响我的心理健康与整体幸福感，促使我寻求咨询。",
+    "growth_experiences": [
+      "在开始从事殡仪师职业后，周围人得知其职业时常表现出不适或用玩笑应对，这些经历逐渐让其产生“我不属于这里/我不正常”的感受，并引发持续的社会性孤立体验。",
+      "在逐步深入集邮这一小众爱好后，自我感受到的社会刻板印象与“被贴标签”的经历加深，进一步强化了“他人会因此评判与疏离我”的信念。",
+      "长期独居、无兄弟姐妹、可依赖的社会支持系统薄弱，使其在面对被误解与评判的经历时难以获得情感支持，孤独与隔离感不断累积。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不正常/怪异的。",
+        "没有人会接纳真正的我。"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合谈及自己的职业（殡仪师）时，他人表现出不适或以玩笑回应",
+          "conditional_assumptions": "如果他人露出不适或拿我打趣，就说明我很怪，他们会拒绝我",
+          "compensatory_strategies": "保持礼貌微笑并迅速转移话题，减少自我暴露",
+          "automatic_thoughts": "他们一定觉得我很奇怪，我不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在尝试认识新朋友或准备参加社交活动前",
+          "conditional_assumptions": "如果别人知道我的职业和爱好，就一定会看低我、不愿与我亲近",
+          "compensatory_strategies": "避免外出或减少社交，推迟或放弃结交新朋友",
+          "automatic_thoughts": "我又会被评判，没人会喜欢我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在他人谈论兴趣爱好或主流话题时，想到自己的集邮爱好较为小众",
+          "conditional_assumptions": "只有符合主流、外向社交的人才会被接纳，像我这样就会被视为“书呆子/怪人”",
+          "compensatory_strategies": "试图隐藏真实兴趣，迎合他人话题以求被接受",
+          "automatic_thoughts": "我是个怪人/书呆子，别人不会理解我",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "当他人用玩笑方式回应其职业与爱好时",
+          "conditional_assumptions": "如果被拿来取笑，就说明问题全在我身上，我本质上不被欢迎",
+          "compensatory_strategies": "强作轻松、快速岔开话题，减少进一步交流",
+          "automatic_thoughts": "我不被接纳，只能装作没事",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望以真实的自己被理解与接纳，建立有意义的亲密连接",
+        "fear": "害怕暴露真实自我后被评判、羞辱与拒绝，进一步被孤立",
+        "defense_goal": [
+          "通过保持距离与减少自我暴露来降低被拒绝与羞耻的风险",
+          "在互动中以礼貌与转移话题的方式控制局面，避免情感受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、怪异且不被接纳的边缘人",
+          "object_representation": "带有偏见、容易评判与嘲弄他人的群体",
+          "linking_affect": "羞耻、孤独、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人对其职业/爱好表现出不适或以玩笑方式回应时",
+          "interpretation": "他人像过去那些人一样会评判与疏离自己（移情性地将他人体验为拒绝者）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件分离，理智地应对而缺乏情感表达",
+          "response_instruction": "保持礼貌与简短回应，迅速更换话题，语气轻描淡写，避免表达受伤或不适感。"
+        },
+        {
+          "trigger_condition": "在新关系的早期被问及个人职业与兴趣时",
+          "interpretation": "一旦透露真实自我就会被拒绝（将现实关系体验为潜在的否定与抛弃）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "不自觉地将难以接受的情感或冲动压入潜意识",
+          "response_instruction": "选择性披露信息，强调中性内容，减少个人情感表达与细节分享。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期独居、无兄弟姐妹、社会支持薄弱",
+            "在社交情境中担心被评判而减少外出与结交新朋友",
+            "被问及职业/爱好时感到被贴标签与不被理解"
+          ],
+          "outcomes": [
+            "持续的孤立与被排斥感",
+            "社交回避与焦虑增加",
+            "难以形成有意义的人际连接，日常互动受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理",
+          "manifestations": [
+            "反复使用“我应该更外向/我应该隐藏自己”来约束自我",
+            "以迎合主流为导向评价自我是否“正常/可被接纳”"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体有意避开直接接触或回避触发刺激",
+          "manifestations": [
+            "当他人对其职业开玩笑或显得不适时，笑着转移话题，避免继续深入交流",
+            "在社交场合尽量减少关于真实兴趣与价值的自我暴露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对工作与兴趣具有明确的价值感与意义感（热爱殡仪工作与集邮爱好）",
+          "职业功能良好，工作表现未受影响，具备稳定的日常结构",
+          "具备自我反思与同理他人的能力（能觉察“内在批评者”，并能对他人表达接纳性语言）",
+          "主动求助并愿意尝试新的视角与方法（寻求咨询）"
+        ],
+        "negative_force": [
+          "过度依赖外部评价进行自我价值判断（寻求外部验证）",
+          "灾难化预测、读心术、过度概括与个人化等消极认知模式",
+          "社交回避与自我隐藏（减少外出、转移话题）",
+          "社会支持系统薄弱，缺乏稳定的支持网络"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隐藏（在社交中减少外出、转移话题、隐藏职业与兴趣）",
+          "antecedent": [
+            "在社交场合被问及职业或兴趣",
+            "准备结识新朋友或参加聚会前",
+            "观察到他人对其职业/爱好表现出不适或玩笑"
+          ],
+          "core_reason": "对被评判与拒绝的担忧，伴随读心术与灾难化预测，以及将社会刻板印象内化为自我标签",
+          "function": "逃避潜在的负面评价与羞耻情绪，短期内保护自尊与情感安全",
+          "consequence": "孤立与孤独感加重，难以建立并维持有意义的人际关系，日常互动与活动受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1098
+}

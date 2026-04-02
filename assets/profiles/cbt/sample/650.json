@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "李曼",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "在瑞典有少量朋友，但未与其讨论健忘问题",
+      "medical_history": "无重大躯体疾病；既往无类似问题与心理治疗史",
+      "language_features": "表达清晰、逻辑性较好、语速平稳、能具体举例、态度积极、配合度高，伴随一定焦虑"
+    },
+    "main_problem": "我经常觉得自己在丢东西，最近在日常生活中出现健忘和缺乏条理的问题。这一问题从几个月前搬到瑞典后开始出现，现已发展到经常错放重要物品、遗忘任务，且在高压或忙碌时每天都会发生。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询是因为健忘和缺乏条理开始影响我的日常功能和人际关系。",
+    "growth_experiences": [
+      "几个月前搬到瑞典，因跨国家搬迁感到不堪重负（初期压力为中等）。搬迁后逐渐出现健忘与组织混乱：经常丢失物品、忘记任务、错过约会，问题频率在忙碌与高压情境中更明显。此前未有类似问题或心理治疗史，无重大身体疾病。搬迁后工作表现受影响、与朋友和同事的关系受挫、日常生活更加混乱与压力增大；虽在瑞典有少数朋友可谈日常，但未向他们谈及健忘问题。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个缺乏条理、容易出错的人",
+        "如果不做到井井有条，就会被视为不可靠"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作或生活中处于忙碌且高压的时段，需要同时处理多项任务",
+          "conditional_assumptions": "我必须把所有东西立刻放回原处、严格遵守规则，否则就会出错并被证明我不可靠",
+          "compensatory_strategies": "反复自我提醒“应该把东西放回原处”，尝试设定固定放置点与使用提醒，但执行不稳定",
+          "automatic_thoughts": "如果这次没放回原处，我肯定又会把它弄丢",
+          "cognitive_pattern": "Should\" Statements"
+        },
+        {
+          "event": "在工作中面对重要任务与截止日期",
+          "conditional_assumptions": "只要有一次忘记任务，别人就会觉得我不专业、不可依赖",
+          "compensatory_strategies": "过度担心、独自扛下问题而不寻求同事或朋友支持，增加自我监控",
+          "automatic_thoughts": "同事会认为我不可靠",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "出门前或临近预约时发现自己找不到钥匙或重要物品",
+          "conditional_assumptions": "只要丢过一次东西，就说明我总是会丢东西",
+          "compensatory_strategies": "反复检查与拖延出门，以期减少出错",
+          "automatic_thoughts": "我总是把东西弄丢",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "搬到瑞典后的新环境与新制度带来的适应压力",
+          "conditional_assumptions": "我必须立刻完全适应并保持完美有序，否则生活和工作都会崩盘",
+          "compensatory_strategies": "强迫自己迅速建立一整套规则与习惯，但因负荷过大而难以坚持",
+          "automatic_thoughts": "如果我适应不好，我的生活和工作会一团糟",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持掌控与有序，被他人视为可靠并获得认可",
+        "fear": "担心被评价为不可靠而被指责、排斥或失去机会",
+        "defense_goal": [
+          "通过内化严格规则并加强自我控制来降低焦虑",
+          "避免求助以防暴露自己的“不可靠”",
+          "以理性化方式聚焦方案而回避羞耻与无助感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出错、需要不断自我约束的个体",
+          "object_representation": "随时评判与挑剔可靠性的他人",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问情绪影响或人际受损细节时",
+          "interpretation": "感觉自己会被当作不可靠的人而被评判（移情：将他人视为挑剔的评判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和稳定，先共情其压力与羞耻感，再用开放式问题温柔探询具体感受；放慢节奏、允许停顿，避免快速给建议以免加剧其自我批评。"
+        },
+        {
+          "trigger_condition": "当出现大量“我应该/必须……”的自我要求时",
+          "interpretation": "认为只有严格遵从内在规则才能避免被否定（移情：把外界标准内化为内在评判）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "以接纳的语气邀请觉察“应该”的来源，区分外在标准与自我需要；使用温和的重述与正常化，鼓励以“我需要/我选择”替代“我应该”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "跨国搬迁到瑞典后适应压力大",
+            "仅有少量朋友，且未与他们讨论健忘问题",
+            "在高压与忙碌情境中倾向独自承担"
+          ],
+          "outcomes": [
+            "焦虑增强",
+            "人际关系紧张",
+            "日常生活混乱与压力上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该把东西放回原处”等自我指令",
+            "将完美有序视为必须达成的标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评，担心被视为不可靠",
+            "倾向独自应对而不向朋友求助",
+            "在高压时进一步加大自我要求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意求助并参与问题解决训练",
+          "能具体描述问题情境并提出可行步骤（设定固定放置点、使用提醒、日程回顾）",
+          "具备一定社会支持（在瑞典有几位朋友）",
+          "对建立习惯与一致性持开放态度"
+        ],
+        "negative_force": [
+          "跨国搬迁导致适应压力与环境变化",
+          "在忙碌与高压时执行功能负荷过大，健忘与无序加重",
+          "以“应该”为核心的自我苛责与完美化要求",
+          "回避求助、倾向独自承担，资源动员不足",
+          "缺乏稳定的一致性执行与情境化策略"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "健忘与组织混乱（经常错放物品、遗忘任务、迟到）",
+          "antecedent": [
+            "搬到瑞典后的新环境与制度变化",
+            "高压力或忙碌、多任务情境",
+            "临近截止日期或约会时间",
+            "缺乏固定放置点与一致性习惯"
+          ],
+          "core_reason": "环境与角色转变带来适应压力，导致注意力分散与执行功能负荷上升；内在“应该”规则增加自我压力，反而削弱稳定习惯的形成与维持",
+          "function": "在高压下被动地减少当下的认知负荷与不适（逃避高负荷任务/决策压力），但非有意为之",
+          "consequence": "工作表现受影响、人际关系紧张、日常生活混乱与压力上升"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 650
+}

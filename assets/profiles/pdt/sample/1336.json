@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林瑞安",
+      "gender": "男",
+      "occupation": "零售店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，住在海岸附近",
+      "social_status": "有一位亲密朋友但未向其倾诉负面想法，近期回避社交",
+      "medical_history": "无明显躯体疾病；既往未出现类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、配合度较高，语气低落，倾向自我贬损与反复纠结"
+    },
+    "main_problem": "我觉得自己把红色头发染错了，这让我相信自己愚蠢且无能；每次照镜子或听到别人对发色的评论时都会触发这些感受与负面想法。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些关于自己智力的负面想法影响了自尊和日常功能，因此寻求咨询；希望能够从不同视角看待这件事，走出困扰，不再让它控制我的生活。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我很无能",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "照镜子看到染发效果与预期不符",
+          "conditional_assumptions": "如果外表出现明显错误，就说明我总体很愚蠢、很无能",
+          "compensatory_strategies": "反复给自己贴负面标签，在家尝试自行修正染色",
+          "automatic_thoughts": "我太愚蠢了，连头发颜色都弄不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到他人对发色的评论",
+          "conditional_assumptions": "如果别人评论我的发色，就意味着他们在否定或嘲笑我",
+          "compensatory_strategies": "回避社交、不向朋友倾诉以避免被评价",
+          "automatic_thoughts": "大家都觉得我是个笑话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作中需要做决定或承担任务",
+          "conditional_assumptions": "如果我连选发色都选不好，就无法胜任更大的任务",
+          "compensatory_strategies": "在工作中犹疑、减少尝试以避免再次“失败”",
+          "automatic_thoughts": "我不能信任自己的能力做更大的事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "夜间反复回想染发经历与“错误”细节",
+          "conditional_assumptions": "如果我不断检视这次错误，就能证明我总会失败",
+          "compensatory_strategies": "反刍并忽视积极证据或其他能力表现",
+          "automatic_thoughts": "我做什么都会出错",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，确认自己的能力与价值",
+        "fear": "害怕被他人嘲笑与否定，暴露自己的“无能”与缺陷",
+        "defense_goal": [
+          "通过自我贬损与回避社交来减少外界评价的威胁",
+          "维持谨慎与自我怀疑以避免承担更大风险与失败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、可笑的失败者",
+          "object_representation": "挑剔、带有评判与嘲笑的他者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询或他人谈及外表错误、他人看法或要求其检视更大任务时",
+          "interpretation": "来访者倾向认为他人（包括咨询师）在评判或轻视自己（移情：将他人视为批判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用温和、验证性的语气；避免评判与标签化；多用开放式提问与短句；允许停顿与情感命名，帮助其区分事实与推测。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且近期回避社交",
+            "未向亲密朋友表达脆弱与困扰，感到羞耻"
+          ],
+          "outcomes": [
+            "自尊降低与自我否定加重",
+            "睡眠与饮食节律紊乱",
+            "工作表现下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次外表失误泛化为“我做什么都会出错”",
+            "以失败者自我图式看待整体能力"
+          ],
+          "outcomes": [
+            "动力与自我效能感下降",
+            "回避尝试与承担任务",
+            "情绪低落与反刍增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "使用严苛的自我标签（如“愚蠢”“失败者”）",
+            "在社交中退缩，担心被看见与评价",
+            "难以向亲密朋友求助",
+            "在咨询中反复聚焦错误、难以接纳更平衡视角但愿意尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动求助并愿意尝试替代视角",
+          "具备一定问题解决行为（曾尝试在家修正染色）",
+          "有一位可谈心的亲密朋友（潜在支持资源）",
+          "能清晰表达内心体验，咨询动机明确"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括的认知风格",
+          "过度在意他人看法并进行读心式推测",
+          "反刍与羞耻感导致睡眠和饮食紊乱",
+          "社交回避与自我怀疑加重工作功能受损",
+          "外部评价依赖，易将单次失误等同整体能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬损的负性自我对话（如“我很愚蠢/我是失败者”）",
+          "antecedent": [
+            "照镜子看到染发与预期不符",
+            "回想在沙龙的染发经历",
+            "听到他人对外观的评论"
+          ],
+          "core_reason": "将一次外表失误灾难化并过度概括为整体无能，将外界评价内摄为自我价值判断",
+          "function": "通过自我惩罚与自我否定来避免再尝试和外界评价，短期逃避羞耻与焦虑",
+          "consequence": "自尊显著下降、情绪低落与反刍增加，工作表现受损"
+        },
+        {
+          "behavior": "回避社交场合",
+          "antecedent": [
+            "被邀请外出或社交互动",
+            "想到他人会看到自己的发色",
+            "收到朋友信息时"
+          ],
+          "core_reason": "担心被嘲笑与否定（读心式推测），羞耻感强",
+          "function": "逃避潜在负面评价与不适情绪，获得短期安全感",
+          "consequence": "社交联系减少，孤独感与负面自我形象加重"
+        },
+        {
+          "behavior": "睡眠与饮食节律紊乱（失眠/过度睡眠，食欲下降）",
+          "antecedent": [
+            "夜间躺床时反刍染发错误",
+            "白天持续自我否定与焦虑"
+          ],
+          "core_reason": "持续负性自动思维与反刍引发生理唤醒变化与情绪失调",
+          "function": "部分作为对痛苦的被动回避或失调反应（如过度睡眠以暂时降低不适）",
+          "consequence": "体能与专注下降，进一步影响工作与情绪稳定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1336
+}

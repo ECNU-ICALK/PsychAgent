@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "安东",
+      "gender": "男",
+      "occupation": "飞行员",
+      "educational_background": "航空学学士学位",
+      "marital_status": "恋爱中",
+      "family_status": "父母均为军人",
+      "social_status": "与女友居住在盐湖城；养有两只比格犬（Chance与Boomer）；有一定社会支持但难以与亲密关系对象讨论对蜘蛛的恐惧",
+      "medical_history": "无重大躯体疾病；此前未针对该恐惧接受治疗或咨询",
+      "language_features": "自我贬责与负性标签明显（“愚蠢”“失败者”“不够男人”）；态度偏消极与怀疑；表达具体、逻辑清晰，能描述恐惧影响；配合度一般，愿意尝试记录想法；存在回避倾向与羞耻感"
+    },
+    "main_problem": "我害怕蜘蛛，这种恐惧让我觉得自己很失败、很可笑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为对蜘蛛的恐惧开始影响我的日常生活并造成痛苦。",
+    "growth_experiences": [
+      "童年时期经历过一次与蜘蛛相关的事件，受到严重惊吓；虽不记得全部细节，但从那之后对蜘蛛一直极度恐惧，该问题长期存在并逐渐加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者/不够男人",
+        "我很软弱，无法控制自己的恐惧",
+        "面对蜘蛛我会失控"
+      ],
+      "special_situations": [
+        {
+          "event": "在家中看到或得知有蜘蛛出现",
+          "conditional_assumptions": "如果我在家里遇到蜘蛛，我会失去控制，无法自我调节",
+          "compensatory_strategies": "立刻逃避现场、加强检查和警觉、避免在可能有蜘蛛的房间逗留，甚至无法入睡",
+          "automatic_thoughts": "我可能会崩溃/失控，整晚都睡不着",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作场所（飞行相关环境）知晓附近有蜘蛛",
+          "conditional_assumptions": "如果工作环境有蜘蛛，我将无法专注并可能影响工作安全与表现",
+          "compensatory_strategies": "回避工作区域、分心、尝试绕行或延迟任务以躲避与蜘蛛接触",
+          "automatic_thoughts": "我会搞砸工作，情况可能很严重",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与女友发生争执（她认为我反应过度）",
+          "conditional_assumptions": "如果我表现出恐惧，他人会看不起我，说明我不够男人、没用",
+          "compensatory_strategies": "减少相关话题交流、回避可能出现蜘蛛的活动或场所，以避免被评价",
+          "automatic_thoughts": "她觉得我很可笑/没用，关系会因此变糟",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与他人比较（认为别人都能处理蜘蛛而自己不行）",
+          "conditional_assumptions": "如果我不能像别人那样应对蜘蛛，就证明我是失败者",
+          "compensatory_strategies": "自我否定、加剧自我批评与羞耻，进一步回避可能出现蜘蛛的环境",
+          "automatic_thoughts": "只有我做不到，我不如别人",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，被视为有力量且能掌控恐惧的人",
+        "fear": "害怕失控、被嘲笑或被贬低为“失败者/不够男人”，担心关系受损",
+        "defense_goal": [
+          "通过回避与自我否定来降低外界评价的威胁，维持表面安全与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻、软弱、易失控的失败者自我",
+          "object_representation": "批判且不理解的他者（以伴侣为主），可能会看不起自己",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请讨论或面对对蜘蛛的恐惧（如咨询师建议探索与暴露）",
+          "interpretation": "认为改变很难、恐惧根深蒂固，担心自己会失控或被证明“很弱”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和且共情，承认其担忧的合理性；用具体化与小步推进的提问方式，避免对抗，邀请其描述一次最轻微的恐惧情境并评估可承受的尝试。"
+        },
+        {
+          "trigger_condition": "在亲密关系中被认为“反应过度”或被暗示“不够男人”",
+          "interpretation": "将外部评价内化为对自我的全面否定，认为问题在于自己本身“无用”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "采用支持性语气，识别并标注自我攻击的语言；以温和反问区分事实与评价，鼓励其描述具体事件与影响，逐步重建更平衡的自我表述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧限制了选择与行动（避免场所与活动）",
+            "在工作场合因恐惧无法专注、需要绕行或延迟任务",
+            "难以在亲密关系中自由表达与讨论恐惧"
+          ],
+          "outcomes": [
+            "生活受限与回避增加",
+            "焦虑与失控感加剧",
+            "职业功能受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得“只有自己不能应对”，与他人比较时感到自卑与孤立",
+            "难以与女友或支持系统讨论恐惧，担心被看不起"
+          ],
+          "outcomes": [
+            "羞耻与自我否定",
+            "关系紧张与争执增多",
+            "主观孤立感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“别人都能应对、我也应该能”为标准衡量自己",
+            "用“失败者”“不够男人”等社会化标签评价自我"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我很愚蠢”“很可笑”）",
+            "在会谈中表达怀疑与保留，担心尝试会被证明“很弱”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并开始咨询，具备一定的改变动机",
+          "能清晰描述触发情境与影响，具备自我观察基础",
+          "拥有一定社会支持（女友、宠物）尽管目前难以讨论恐惧"
+        ],
+        "negative_force": [
+          "长期回避与警觉强化了恐惧反应",
+          "自我标签化与羞耻感显著，降低自我效能感",
+          "灾难化与预测未来的认知倾向增强焦虑",
+          "与他人比较导致自卑与孤立，阻碍寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对蜘蛛的强烈恐惧与回避（伴随惊恐反应与失眠）",
+          "antecedent": [
+            "看到或接近蜘蛛",
+            "仅仅想到或得知环境中有蜘蛛",
+            "在家中出现蜘蛛或被告知曾出现蜘蛛",
+            "在工作场所知晓可能有蜘蛛"
+          ],
+          "core_reason": "童年时期的与蜘蛛相关的创伤性经历强化了对蜘蛛的危险解释，并发展为灾难化与失控的认知",
+          "function": "逃避恐惧与潜在危险以获得即时安全感与情绪缓解",
+          "consequence": "工作专注与表现受损；亲密关系紧张与争执；日常活动中断与范围缩小；难以入睡、疲惫增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 563
+}

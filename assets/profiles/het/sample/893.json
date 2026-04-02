@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "王杰",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友与家人可谈一般事务，但尚未与他们讨论关于徒步的焦虑与担忧",
+      "medical_history": "否认既往相似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑连贯，能进行自我反思与现实检验；态度合作、语气平和；存在中等程度焦虑与自我怀疑，偶尔寻求他人保证"
+    },
+    "main_problem": "担心他人会认为自己因为独自徒步而是“孤独的人”，由此产生焦虑与自我怀疑，影响对徒步的享受与社交。",
+    "topic": "人际关系",
+    "core_demands": "希望减轻对他人评价的恐惧，恢复对独自徒步的享受，并降低在社交情境中的自我怀疑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的看法与认可",
+        "独自做事容易被视为“不被接纳/没有朋友”，这会让我被拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "在登山口无意听到他人谈论“独自徒步的人大多很孤独”",
+          "conditional_assumptions": "如果我独自徒步，别人就会认定我是孤独、不合群的人，这说明我有问题",
+          "compensatory_strategies": "试图理性化、向朋友寻求安慰与认可，或回避独自出行以避免被评价",
+          "automatic_thoughts": "他们肯定会觉得我是个孤僻的人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在计划独自徒步行程时",
+          "conditional_assumptions": "如果被别人认为是‘孤独的人’，就证明我没有朋友、不被接纳",
+          "compensatory_strategies": "反复思考与自我说服、缩减行程或取消计划来降低风险",
+          "automatic_thoughts": "这次大家一定会用异样眼光看我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与他人谈及自己的徒步爱好时",
+          "conditional_assumptions": "谈到我独自徒步会让别人给我贴负面标签，影响我在人群中的形象",
+          "compensatory_strategies": "回避谈论、弱化自己的爱好、转移话题并寻求对方认可",
+          "automatic_thoughts": "他们会觉得我不合群、没人要",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "回想徒步过程中与他人的互动（大多友善）",
+          "conditional_assumptions": "负面线索更可靠，正面经历不算数，必须警惕他人潜在的负面评价",
+          "compensatory_strategies": "选择性关注负面言论、忽视积极互动以“保护自己”不受伤害",
+          "automatic_thoughts": "那次别人夸我只是偶然，更多人其实看不起独行者",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "既想保有独立与自由，也渴望被他人接纳与认可",
+        "fear": "害怕因独自行动而被贴上“孤独/不合群”的标签，从而被贬低或排斥",
+        "defense_goal": [
+          "通过理智化与合理化来减轻被评价时的焦虑",
+          "通过回避谈论或减少独自出行来避免潜在拒绝",
+          "通过寻求他人保证来短暂维持自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被人看低、需要他人认可的独行者",
+          "object_representation": "挑剔、带有评判目光的他人",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "有能力、可被欣赏的徒步者与知识提供者",
+          "object_representation": "友善、尊重且愿意互动的他人",
+          "linking_affect": "轻松、自信、被认可"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请检视证据或分析“他人是否在评判”时",
+          "interpretation": "感觉需要通过理性分析来掌控局面，以避免再次感到羞耻或被否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析性语气回应，强调逻辑与证据，淡化个人感受与情绪体验。"
+        },
+        {
+          "trigger_condition": "当被鼓励肯定正面互动或记录积极体验时",
+          "interpretation": "认为正面证据不足以保证安全，担心一旦放松警惕就会被评价",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "表达对未来负面情形的提前设想，语气谨慎，强调需要“做好准备”。"
+        },
+        {
+          "trigger_condition": "当讨论‘独自徒步是否意味着不被接纳’并涉及自我价值时",
+          "interpretation": "将潜在的外部否定转为自我批评，以避免与他人直接冲突",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责式语言（如“可能是我不够合群”），降低对他人不满的表达，语气克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "热爱独自徒步，但担忧被贴上“孤独/不合群”的标签",
+            "在社交互动后反复揣测他人看法，体验自我怀疑",
+            "因他人评论（如“独行者很孤独”）而动摇对自我选择的肯定"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑增强",
+            "对徒步的兴趣与动机下降，出现回避",
+            "与他人谈及爱好时感到尴尬，关系紧张",
+            "睡眠受扰、反刍增多"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "重视独立与自由选择（独自徒步）",
+            "因害怕他人评价而限制自由表达与行动（减少独自出行、回避谈论）"
+          ],
+          "outcomes": [
+            "自我一致性受损，在个人价值（独立）与外界评价之间摇摆",
+            "内在冲突引发焦虑与动机下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在没有直接证据时，假设他人会把自己视为“孤独的人”",
+            "社交后倾向揣测对方负面评价（读心）"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "谈及爱好时过度在意形象，谨慎言辞以避免被评判",
+            "反复向朋友寻求保证以缓解不确定感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人谈及独自徒步或处于社交情境时，王杰通常会担心被贴上“孤独者”标签，从而产生焦虑并回避进一步交流。",
+          "unique_outcome": "一次徒步中，一对年长夫妇称赞他的装备并向他请教路线，他主动交流且感到被尊重与认可，当时并未陷入“被评判”的担忧。",
+          "reason": "不同支持/情境：对方友好且主动求教；不同理解：将注意力放在当下互动与自身能力上；不同做法：基于经验给予建议，获得正向反馈，增强自信。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "重视独立与自由，具备内在动机从事徒步",
+          "拥有实际的徒步经验与知识，能在互动中提供价值",
+          "能进行现实检验并识别正面证据（如记起友善互动）",
+          "愿意求助与尝试新方法（如记录积极经历）",
+          "具备一定社会支持（朋友与家人可提供倾听）"
+        ],
+        "negative_force": [
+          "过度依赖外界评价来确认自我价值（寻求外部验证）",
+          "读心与预测未来的倾向，夸大潜在负面评价",
+          "心理过滤负面线索，忽视正面经验",
+          "回避行为（减少独自出行、回避谈论），短期缓解焦虑但维持问题",
+          "反刍导致睡眠受扰，进一步弱化情绪调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与独自徒步相关的情境中出现显著焦虑与回避，并频繁寻求他人保证",
+          "antecedent": [
+            "计划独自徒步时",
+            "与他人谈及徒步爱好时",
+            "回想起他人关于“独行者很孤独”的评论后",
+            "社交互动结束后独自反刍时"
+          ],
+          "core_reason": "将“独自行动=被视为孤独/不被接纳”内化为规则，并将自我价值与他人评价强绑定，导致对负面评价的灾难化预期。",
+          "function": "逃避可能的负面评价以暂时降低焦虑，并通过寻求保证获得短期安全感与认可",
+          "consequence": "徒步动机与享受下降、回避社交与谈论爱好、关系紧张、睡眠受扰，自我怀疑持续并强化焦虑循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 893
+}

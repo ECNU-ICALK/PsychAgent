@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "乔纳森·米勒",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无类似心理问题史；未接受心理治疗；无重大躯体疾病",
+      "language_features": "逻辑清晰、表达具体；配合度较好；反复使用“应该”句式并进行自我标签；语气显著焦虑与自责"
+    },
+    "main_problem": "我有一个持续的想法：我应该在路上更负责任，这导致我在驾驶时感到内疚和焦虑。问题自几个月前第一次收到超速罚单开始，此后每次开车都会反复出现该念头，看到警车时更为明显。",
+    "topic": "情绪管理",
+    "core_demands": "“It would be a huge relief. I could enjoy driving again and not spend so much energy worrying about things that might not even happen.”（希望再次享受驾驶，减轻焦虑和内疚，不再把大量精力花在可能并不会发生的担心上）",
+    "growth_experiences": [
+      "几个月前第一次因超速收到罚单，当时压力很大并感到自己不负责任。自那以后，驾驶时反复出现“我应该更负责任”的念头，看到警车时焦虑更强。此前未有类似问题，也未接受过心理咨询；无重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不负责任的人",
+        "我不能信任自己"
+      ],
+      "special_situations": [
+        {
+          "event": "看到警车时在路上驾驶",
+          "conditional_assumptions": "如果我稍微超速或不够谨慎，就一定会再次被罚，证明我是不负责任的人",
+          "compensatory_strategies": "降低车速、更加谨慎驾驶、不断自我提醒要守规",
+          "automatic_thoughts": "我大概率又会吃罚单",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "普通路况下准备上路或刚握上方向盘",
+          "conditional_assumptions": "只有完全不犯任何错误才算负责任；只要有一点疏忽就是失败",
+          "compensatory_strategies": "过度自我监控与紧张，力求零失误",
+          "automatic_thoughts": "我应该更负责任，我不能犯任何错",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "回想起那次超速被罚的情景",
+          "conditional_assumptions": "一次错误就足以证明我本质上是不负责任的驾驶者",
+          "compensatory_strategies": "不断反思并自责，以期提醒自己不要再犯错",
+          "automatic_thoughts": "我就是个不负责任的人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在驾驶途中想到可能引发事故的最坏情形",
+          "conditional_assumptions": "如果不时刻高度警惕，最坏情况就会发生（出事故、被罚）",
+          "compensatory_strategies": "持续紧张与担忧，尽量降低速度、避免任何“风险”动作",
+          "automatic_thoughts": "会不会下一秒就出事或被拦下？",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为负责任且安全的驾驶者，并能安心享受驾驶",
+        "fear": "害怕再次受罚或造成事故，被评价为不负责任、失去自我信任",
+        "defense_goal": [
+          "通过过度谨慎与自我指责来避免再犯错误或被惩罚",
+          "以持续担忧来保持警觉，获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、不可被信任的驾驶者",
+          "object_representation": "警察/权威是随时会惩罚与评判的监督者",
+          "linking_affect": "焦虑、内疚、担心"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "拥有一辆“快车”并享受驾驶自由，但在罚单事件后将“自由-责任”的张力绝对化，反复使用“我应该更负责任”的自我规训语句",
+            "看到警车时强烈感到被约束与被评判，难以体验到自由带来的愉悦"
+          ],
+          "outcomes": [
+            "焦虑与内疚增强",
+            "驾驶专注与享受下降",
+            "持续担忧最坏情形"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "高频使用“我应该更负责任”的语句，将外部交通规则与惩罚经历内化为苛刻的自我要求",
+            "将一次罚单当作稳定的自我评价依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "驾驶时过度谨慎与紧张，反复自我监督以避免任何差错",
+            "将注意力大量用于担忧与自责，难以与当下驾驶体验良性接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "能主动采取更谨慎的驾驶策略并遵守规则",
+          "具有一定的社会支持（有朋友和家人可谈一般问题）",
+          "有求助动机，愿意尝试新的方法以改善体验"
+        ],
+        "negative_force": [
+          "灾难化地预期最坏情形（事故、再次被罚）",
+          "内摄的“应该”句式导致自我苛责与僵化标准",
+          "自我标签为“不负责任”、降低自我信任",
+          "驾驶时焦虑与内疚显著，影响专注与享受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "驾驶场景中的持续性焦虑与内疚，并伴随灾难化担忧与“应该”自我批评",
+          "antecedent": [
+            "上路驾驶",
+            "看到警车",
+            "回想被罚单的经历",
+            "即便遵守规则也在路上行驶时"
+          ],
+          "core_reason": "一次超速罚单强化了对“负责任”的非黑即白标准与“应该”句式，诱发灾难化预期与自我标签，从而维持高水平焦虑与内疚",
+          "function": "通过过度担忧与自我约束来规避被罚或发生事故等不受欢迎的结果（逃避潜在危险）",
+          "consequence": "驾驶专注与乐趣下降，持续高压与疲惫，每次驾驶均被焦虑和内疚困扰"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1574
+}

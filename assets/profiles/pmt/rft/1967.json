@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "林远",
+      "gender": "男",
+      "occupation": "销售主管，工作时间长",
+      "educational_background": "高中学历",
+      "marital_status": "最近与女友分手",
+      "family_status": "独居",
+      "social_status": "有少量朋友可交流一般事务，但未与他们讨论自己的不安全感",
+      "medical_history": "此前未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高，语速与语调平稳但情绪低落；思维倾向聚焦负面并跳到结论与自我标签；能接受重构并愿意尝试行动"
+    },
+    "main_problem": "近期与女友分手后不安全感显著加重，长期存在的不安全与自我不足在关系与社交中恶化，常自责并感到“不够好”，独处或社交场景时易跳到负面结论。",
+    "topic": "人际关系",
+    "core_demands": "因分手及不安全感对关系的影响而寻求咨询，希望提升自尊并改善社交互动。",
+    "growth_experiences": [
+      "在过往的恋爱关系中长期感到不安全与自我不足，这一模式在当下关系破裂后进一步加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是令人厌烦的，会把人逼走"
+      ],
+      "special_situations": [
+        {
+          "event": "与女友分手",
+          "conditional_assumptions": "如果在亲密关系中表现出不安全或不完美，就说明我不值得被爱、并且一定会被抛弃",
+          "compensatory_strategies": "反复自责、回避向他人（朋友）透露不安全感，尝试通过分散注意与自助书籍自我修复",
+          "automatic_thoughts": "她离开我是因为我的不安全感，都是我的错。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在社交场景中与他人互动（同事、乐队成员、观众）",
+          "conditional_assumptions": "如果他人对我没有明确的正面反馈，就意味着他们在否定我或觉得我很烦",
+          "compensatory_strategies": "在互动中不断二次猜测与自我监控，尽量压低自我表达以避免被评价",
+          "automatic_thoughts": "他们一定觉得我不好/很烦人。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "演出出现失误与技术问题后回看整场演出",
+          "conditional_assumptions": "一旦发生明显错误，就等于整场都失败，我的价值被错误完全定义",
+          "compensatory_strategies": "持续反刍错误并忽视积极片段，企图通过过度反思来避免再次犯错",
+          "automatic_thoughts": "这些错误毁了整场演出。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "独处时回想关系与工作中的表现",
+          "conditional_assumptions": "如果我现在感觉不够好，就会一直搞砸事情，未来也不会好转",
+          "compensatory_strategies": "通过分散注意自我安抚，但缺少与他人求助与现实检验",
+          "automatic_thoughts": "我会继续搞砸一切，没人会真正认可我。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并拥有稳定的亲密关系",
+        "fear": "害怕被拒绝与被抛弃，担心他人将自己定义为“不够好/令人厌烦”",
+        "defense_goal": [
+          "通过自我否定与过度反省来控制风险、避免更糟的评价",
+          "压抑与回避暴露脆弱以维持表面安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、令人厌烦、容易犯错的被评价者",
+          "object_representation": "可能会挑剔、最终拒绝或抛弃我的评价者/拒绝者",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "因错误而被全盘否定的失败者",
+          "object_representation": "只关注错误、忽视优点的挑剔旁观者",
+          "linking_affect": "紧张、内疚、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其从整体视角回看演出，并尝试将错误视为“事件的一部分”而非“全部”时",
+          "interpretation": "潜意识担心这会被理解为在淡化问题，或担心自己的感受不被认真对待，从而加重被否定的恐惧",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和具体，先命名并验证其失望与羞耻感，再以事实对比和比例化重构（列出演出中的正负片段），避免评判，用开放式问题邀请其描述感受的细微变化。"
+        },
+        {
+          "trigger_condition": "当咨询师鼓励其与朋友或队友讨论不安全感、寻求现实反馈与支持时",
+          "interpretation": "将可能的接纳想象为拒绝，认为暴露脆弱会导致关系破裂或被贴上“麻烦”的标签",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持支持性语气，使用探询证据的方式区分假设与事实，鼓励小步尝试（先与最安全的对象沟通），并设置具体可观察的反馈点以降低不确定性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独处时不安全感与自我不足感显著加剧",
+            "害怕他人否定而减少向他人求助与表达脆弱"
+          ],
+          "outcomes": [
+            "持续的焦虑与紧张感",
+            "社交退缩与关系紧张",
+            "睡眠与饮食受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界做出的行为冲动，转而对自己做，将原本欲向外发出的能量回转到自身。",
+          "manifestations": [
+            "不与朋友谈及不安全感，将表达与寻求支持的冲动压回自我",
+            "在互动中二次猜测与自我苛责而非外向沟通"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "假设他人对自己有负面看法（读心术）",
+            "将少量失误理解为“所有人都在否定我”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定与二次猜测，降低表达与探索",
+            "在团队合作中过度谨慎、信心下降，影响互动质量"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动寻求咨询并愿意尝试新方法（与队友沟通、重构视角）",
+          "具备一定的自我觉察能力，能识别并命名自己的不安全感与思维模式",
+          "拥有基础社会支持（有几位朋友可交流一般事务）",
+          "愿意进行行为实验与小步尝试，具备学习与调整的动机"
+        ],
+        "negative_force": [
+          "长期不安全感与自我不足感，倾向自我责备",
+          "跳到结论（读心术、预测未来）与心理过滤，放大错误",
+          "回避披露脆弱，减少现实检验与支持获取",
+          "工作时间长、压力大，情绪与睡眠饮食受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场景中读心与自我否定（紧张、认为他人负面评价自己）",
+          "antecedent": [
+            "社交互动（同事、乐队成员、观众）",
+            "独处时回想社交经历"
+          ],
+          "core_reason": "源于“我不够好/令人厌烦”的核心信念与过往关系中的不安全感，伴随跳到结论与外部评价敏感",
+          "function": "逃避被拒绝或负面评价、获得表观的控制与安全感",
+          "consequence": "信心下降、人际关系紧张，工作表现受影响，持续焦虑并影响睡眠与饮食"
+        },
+        {
+          "behavior": "演出后灾难化反刍错误与心理过滤（将少量失误定义为整体失败）",
+          "antecedent": [
+            "演出中出现失误或技术问题后回看整场演出"
+          ],
+          "core_reason": "灾难化与心理过滤导致忽视积极部分，强化“错误=失败=我不够好”的信念",
+          "function": "试图通过过度反思避免再次犯错（寻求控制感）",
+          "consequence": "情绪低落、与队友互动紧张、持续二次猜测，影响整体表现与自尊"
+        },
+        {
+          "behavior": "回避向朋友表达不安全感与寻求支持",
+          "antecedent": [
+            "想到要与朋友谈及自己的不安全感",
+            "担心被评判或感到羞耻时"
+          ],
+          "core_reason": "个人化与被拒绝恐惧，使其将脆弱视为会导致关系恶化的风险",
+          "function": "逃避被评判与羞耻感，维持表面安全",
+          "consequence": "社会支持利用不足、孤独感增加，不安全感与自我否定维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1967
+}

@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "林若彬",
+      "gender": "女",
+      "occupation": "社会科学专业学生（硕士在读）",
+      "educational_background": "社会科学硕士在读",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有几位亲密朋友可倾诉，但因对答辩失败的恐惧而减少社交；感觉朋友不完全理解其担忧。",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；过去未出现同等程度的恐惧与焦虑。",
+      "language_features": "紧张但抱有希望，配合度高；表达清晰、逻辑性较好，能具体陈述自动化思维与情绪；倾向寻求他人安慰与保证。"
+    },
+    "main_problem": "我持续担心硕士论文答辩会失败；随着答辩临近恐惧加剧，导致高强度压力、焦虑与失眠，影响专注与整体身心状态。",
+    "topic": "学业压力",
+    "core_demands": "希望获得支持与指导，减轻对论文答辩失败的恐惧，提升专注与工作能力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败等同于一切努力被否定/归零"
+      ],
+      "special_situations": [
+        {
+          "event": "在撰写论文时出现小错误时",
+          "conditional_assumptions": "如果论文里有小错误，委员会会认为我的研究存在缺陷，从而导致我失败",
+          "compensatory_strategies": "向同学和教授寻求安慰与保证以降低恐惧",
+          "automatic_thoughts": "我的研究有缺陷，他们会认为我不行，我会失败",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到即将进行的论文答辩时",
+          "conditional_assumptions": "如果我在现场忘记内容或表现不完美，就会被否定并失败",
+          "compensatory_strategies": "向他人寻求安慰与保证",
+          "automatic_thoughts": "我会在答辩时忘记一切，结果一定会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到导师的正面反馈后",
+          "conditional_assumptions": "他人的正面评价并不能说明我能通过评审，委员会可能会持相反观点",
+          "compensatory_strategies": "继续寻找更多外部证明与安慰",
+          "automatic_thoughts": "导师说我的工作很扎实，但委员会不会这样看",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "持续进行论文写作与准备时",
+          "conditional_assumptions": "如果论文不够完美，就意味着我会失败、所有努力都白费",
+          "compensatory_strategies": "反复纠结最坏情况并寻求外部安慰",
+          "automatic_thoughts": "不够完美就会失败，我所有的努力会白费",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见为有能力并顺利通过答辩",
+        "fear": "害怕被评审否定、被视为无能，过往努力失去意义",
+        "defense_goal": [
+          "通过寻求外部保证与保持高度警觉来维持安全感与掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被否定的学生/候选人",
+          "object_representation": "苛刻且可能否定自己的评审者或他人",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如导师或咨询师）给予正面反馈或安慰时",
+          "interpretation": "林若彬倾向认为这些正面信息不可靠，担心他人不理解她的恐惧程度或委员会会持相反看法",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "保持支持性与温和语气，邀请其具体化正面证据与担忧来源，用开放式问题探索“委员会看法”是推测还是事实；避免对抗式纠正。"
+        },
+        {
+          "trigger_condition": "当想到答辩场景或在写作中出现小错误时",
+          "interpretation": "将内在的失败恐惧投射到评审身上，预设他们会认为研究有缺陷并否定自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "标注其假设并区分事实与推测，鼓励描述可验证证据；语气稳定、慢速，避免评判。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为一旦答辩失败，以往多年努力都会“付诸东流”",
+            "对委员会的不可预测性感到不安与恐惧",
+            "因恐惧而减少社交，难以与他人深入分享脆弱"
+          ],
+          "outcomes": [
+            "显著焦虑",
+            "失眠",
+            "社交退缩",
+            "专注受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心显得无能而不敢充分表达恐惧与脆弱",
+            "在获得正面反馈后仍谨慎、继续寻求外部保证"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "持续投入论文写作，具有学术坚持",
+          "主动寻求同学与导师的支持与建议",
+          "导师给予正面反馈（认为其工作与论证较为扎实）"
+        ],
+        "negative_force": [
+          "灾难化与预测失败的思维方式",
+          "否定正面信息（轻视他人正面反馈）",
+          "对小错误过度反应与心理过滤",
+          "社交退缩，睡眠与饮食紊乱",
+          "过度依赖外部安慰与保证"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对论文答辩失败的持续性担忧与焦虑（伴失眠）",
+          "antecedent": [
+            "撰写论文时",
+            "想到即将进行的论文答辩时",
+            "写作中出现小错误时"
+          ],
+          "core_reason": "灾难化认知与对负面评估的预测；将失败等同于一切努力被否定；对外部安慰与保证的依赖",
+          "function": "逃避不确定性与潜在失败以获得安全感（通过寻求安慰与保证）",
+          "consequence": "学习专注受损，睡眠与饮食节律被打乱，社交退缩，整体身心状态下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1591
+}

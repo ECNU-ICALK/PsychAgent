@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "李卓",
+      "gender": "男",
+      "occupation": "IT技术支持/客服（IT Agent）",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "父亲在 Stifel 工作",
+      "social_status": "有少数朋友可交流，但难以谈及工作中的无能感与困扰；与同事关系因自信不足而趋于紧张与疏远",
+      "medical_history": "无显著躯体疾病；无既往心理问题与治疗史；此前未经历类似问题",
+      "language_features": "表达清晰、合作度高，能觉察并描述负性自动思维；语速与逻辑速度未提及"
+    },
+    "main_problem": "在向一位客户提供了我认为不正确的电脑维修建议后，我持续感到自己在工作中无能，这让我觉得自己“愚蠢、胜任力不足”。这些感受在过去几周一直存在，尤其在处理复杂技术问题时明显，伴随焦虑与睡眠、饮食受影响。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这种无能感已影响我的工作表现和整体身心健康。",
+    "growth_experiences": [
+      "某次技术支持通话中向客户提供了错误的电脑维修建议，结果问题被认为变得更糟。事件发生后数周内反复回放错误、强化自我怀疑，遇到复杂技术问题即迅速陷入“我不够好/不胜任”的认知，工作效率下降、犯错增多，焦虑加剧并影响睡眠与饮食，同时对同事产生被评判的担忧而趋于退缩，关系紧张。期间尝试通过线上课程提升技能，但自我怀疑仍持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我不胜任这份工作"
+      ],
+      "special_situations": [
+        {
+          "event": "一次为客户提供电脑维修建议后，客户问题被认为变得更糟",
+          "conditional_assumptions": "如果我犯一次错，就等于我不够聪明、也不称职",
+          "compensatory_strategies": "反复回放错误、通过上网课加倍学习来“弥补”并试图避免再犯错",
+          "automatic_thoughts": "我很笨，我不适合这份工作",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中遇到复杂的技术问题",
+          "conditional_assumptions": "如果我不能立刻解决复杂问题，就证明我没有能力",
+          "compensatory_strategies": "放慢速度、反复确认、拖延决策以降低出错风险",
+          "automatic_thoughts": "这次肯定又会失败，我处理不了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同事互动、担心他们看到自己在工作中的挣扎",
+          "conditional_assumptions": "如果同事看到我的不足，就会看不起我/否定我",
+          "compensatory_strategies": "减少与同事交流、保持距离以避免被评价",
+          "automatic_thoughts": "他们会认为我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想以往成功处理复杂问题的经历",
+          "conditional_assumptions": "只有持续且完美的表现才能证明能力，偶发成功不算数",
+          "compensatory_strategies": "否定或贬低成功经验，避免将其作为能力证据",
+          "automatic_thoughts": "那只是运气罢了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任与有能力，获得他人的肯定与信任",
+        "fear": "害怕被评价为无能、被贬低或羞辱",
+        "defense_goal": [
+          "通过与同事保持距离来避免暴露不足",
+          "以自我批评与过度谨慎来控制错误、缓解焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易出错、需要不断证明自己的员工",
+          "object_representation": "挑剔并会评判自己能力的他人（客户/同事）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾并承认自己处理复杂问题的成功经验时",
+          "interpretation": "若承认成功，会显得自我夸耀，最终仍会被识破为“其实不行”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平淡语气淡化成绩，将成功归因为“运气/巧合/外因”，回避体验自豪与能力感。"
+        },
+        {
+          "trigger_condition": "当谈及客户事件的失误与其造成的影响时",
+          "interpretation": "错误完全归因于自己“能力不够”，忽略情境与客观因素",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责式语言（如“都是我的错”“我太笨了”），承担全部责任，否定任何外部影响。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被同事评判而退缩，减少互动",
+            "有朋友但难以谈及无能感，觉得开口很尴尬"
+          ],
+          "outcomes": [
+            "人际疏离与支持减少",
+            "焦虑加剧并影响睡眠",
+            "工作中的自我怀疑被维持与放大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我贴标签“愚蠢/不够好”",
+            "面对复杂任务立即自我怀疑、动作变慢以求零错误",
+            "将成功归因为运气，否定自我价值"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设同事会看不起/评判自己",
+            "因此与同事保持距离、减少交流"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "内化“不能犯错、必须一次就解决问题”的完美标准",
+            "用完美规则衡量自我价值，稍有失误即自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对复杂技术问题时，来访者通常会立即自我怀疑，动作变慢并更易出错，事后反复反刍，焦虑加重。",
+          "unique_outcome": "在少数几次处理复杂问题的情境中，他成功解决了问题（并非常规的失败预期与彻底否定），呈现出与主导故事不同的结果。",
+          "reason": "线索：不同理解——这些成功本身即是胜任力的证据；可能的做法差异（合理推断）——当时更专注、按流程排查；情境差异——任务与既有经验更匹配。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有成功处理复杂问题的经验（存在能力证据）",
+          "愿意寻求帮助并尝试新方法（进入咨询、愿意进行日常反思）",
+          "具有自我提升动机（已通过线上课程提升技能）",
+          "有少数朋友可作为潜在支持资源"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括，将单次错误等同全面无能",
+          "预测失败与读心他人负面评价，导致回避与犹豫",
+          "反刍与自责维持焦虑，干扰睡眠并损害绩效",
+          "社交退缩减少支持，进一步强化无能感与孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍与自我贬低的内在言语（如“我很笨/不胜任”），伴随焦虑与入睡困难",
+          "antecedent": [
+            "想起客户事件的错误",
+            "在工作中遇到复杂技术问题",
+            "当日出现小的失误或不确定时"
+          ],
+          "core_reason": "将单次错误视为自身能力的全面失败（过度概括/灾难化），以自责来获得“控制感”并试图防止再犯错",
+          "function": "逃避失败与被评价的焦虑，通过自我监控减少不确定性",
+          "consequence": "焦虑升高、睡眠受损、工作效率下降且更易再犯错"
+        },
+        {
+          "behavior": "社交回避（与同事保持距离，减少交流与求助）",
+          "antecedent": [
+            "担心同事看到自己的挣扎或错误",
+            "预期会被评判或看不起时"
+          ],
+          "core_reason": "读心术与个人化倾向，认为他人会负面评价自己并将问题归咎于自己",
+          "function": "逃避潜在的负面评价与羞耻感",
+          "consequence": "团队关系紧张、可用支持减少、问题解决效率下降，进一步强化自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 501
+}

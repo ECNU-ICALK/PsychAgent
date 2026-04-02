@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "李辰安",
+      "gender": "男",
+      "occupation": "退休",
+      "educational_background": "高中毕业",
+      "marital_status": "丧偶",
+      "family_status": "独居在乡村",
+      "social_status": "社交较少，有少数邻居可交谈，但因不想给他人添麻烦而减少互动",
+      "medical_history": "轻度关节炎；既往无类似心理问题及治疗史",
+      "language_features": "表达清晰、逻辑性强，语速平稳；能自我觉察并描述情绪体验，对改变持谨慎与怀疑态度，但配合度高"
+    },
+    "main_problem": "近几个月来在园艺等活动中频繁出现负性自我对话，如给自己贴“笨拙的蠢货”标签，并否定积极方面；担心变老和失去对身体的控制，导致情绪低落、动力下降，影响日常活动与社交。",
+    "topic": "情绪管理",
+    "core_demands": "希望学会更好地管理这些负面想法，让它们不再左右情绪和日常行为，重新享受园艺和生活。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨拙且无能的",
+        "随着变老我会失去对身体的控制"
+      ],
+      "special_situations": [
+        {
+          "event": "在花园里不小心打翻花盆",
+          "conditional_assumptions": "如果在简单任务上出错，就证明我就是笨拙、没用的人",
+          "compensatory_strategies": "自责贴标签、暂停或减少园艺活动以避免再次出错",
+          "automatic_thoughts": "你又来了，你就是个笨拙的蠢货",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收获胡萝卜时折断了一根胡萝卜",
+          "conditional_assumptions": "如果我无法精确控制每个动作，说明我正在老去并将持续失控",
+          "compensatory_strategies": "变得过度谨慎、减少尝试，以避免暴露“失控”",
+          "automatic_thoughts": "我在失去对身体的控制",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "完成许多园艺任务但出现一个小失误",
+          "conditional_assumptions": "必须完美无误才算做好，否则其他努力都不算数",
+          "compensatory_strategies": "只盯着错误反刍，忽视当天完成的积极部分",
+          "automatic_thoughts": "做得好的都不算，我还是很糟糕",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "日常生活中发生小意外（如掉落物品）",
+          "conditional_assumptions": "一次错误就等于失败，说明我整体都不行",
+          "compensatory_strategies": "用自我批评来“督促自己”，并回避尝试新的活动",
+          "automatic_thoughts": "只要犯一次错，就证明我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、有价值，保持自主与掌控，能自在地享受园艺与日常生活并与他人保持联系",
+        "fear": "害怕因衰老与失控而被看作无能、成为他人的负担，并因此被疏远",
+        "defense_goal": [
+          "通过自我批评与降低期望来避免外界评价带来的羞耻",
+          "减少求助、保持距离以避免成为负担",
+          "以“我在变老”的理性解释压下更脆弱的无助与恐惧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、容易出错且可能成为负担的自己",
+          "object_representation": "可能被我拖累、会被我打扰的他人（邻居）",
+          "linking_affect": "羞耻、担忧"
+        },
+        {
+          "self_representation": "孤立的独居者",
+          "object_representation": "不愿被打扰、难以提供情感支持的他人",
+          "linking_affect": "孤独、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其表达情绪并尝试认知重构或行为实验时",
+          "interpretation": "感觉改变很难、可能否定“衰老的事实”，担心自己做不到而再次失败",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平稳，强调“这已经是长期自动化的想法”，多用抽象概括，减少情绪词汇与具体感受描述。"
+        },
+        {
+          "trigger_condition": "当谈及向邻居寻求支持或分享困扰时",
+          "interpretation": "认为他人会被自己拖累、自己会给别人添麻烦（将负担感归于对方）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避求助话题，快速以“我不该麻烦别人”作结，并转回到自我消化的表述。"
+        },
+        {
+          "trigger_condition": "当讨论到犯错或被指出忽视积极面时",
+          "interpretation": "将负面情感指向自身，认为“都是我的问题，我本来就笨拙”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责与贬抑的语气回应，强化“我不行”的主题，减少对情境性因素的讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "丧偶且独居在乡村，社交机会有限",
+            "不愿麻烦邻居，减少与他人分享负面情绪",
+            "描述自己感到与他人“疏离”"
+          ],
+          "outcomes": [
+            "孤立感与寂寞感增加",
+            "情绪低落加重",
+            "活动动机下降，减少园艺投入"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "害怕变老与失去对身体的控制",
+            "小失误后体验为“正在失控”"
+          ],
+          "outcomes": [
+            "回避尝试新活动或继续任务",
+            "对错误过度警惕与自我限制",
+            "生活乐趣减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "想到向邻居求助时收回需求，选择独自消化",
+            "在犯错后将能量转为自责而非寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "高频使用自责性标签（如“笨拙的蠢货”）",
+            "担心给他人添麻烦而避免交流",
+            "在行动前过度谨慎、犹豫，降低尝试意愿"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对园艺保持长期兴趣与日常实践",
+          "愿意求助并配合记录与行为实验",
+          "具有一定自我观察与觉察能力",
+          "具备基础的邻里支持资源（有几位可交谈的邻居）"
+        ],
+        "negative_force": [
+          "对衰老与失控的恐惧强化了错误-失败的联结",
+          "负性自动思维模式（自我标签、否定积极）稳定存在",
+          "社交回避与不愿求助，担心成为他人负担",
+          "独居带来的孤独与支持有限，放大消极情绪"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "负性自我对话/自我标签（如“我是个笨拙的蠢货”）",
+          "antecedent": [
+            "园艺时打翻花盆",
+            "收获时折断胡萝卜",
+            "掉落物品等日常小意外",
+            "在任务中出现小错误"
+          ],
+          "core_reason": "对衰老与失控的恐惧导致将单次小错等同整体无能，并以自责维持一种表面的控制感",
+          "function": "逃避面对无助与衰老焦虑，通过自我批评试图预防再度犯错",
+          "consequence": "情绪低落与胸口压抑感增加，动力下降，减少对园艺与日常活动的投入"
+        },
+        {
+          "behavior": "回避社交与求助（减少与邻居互动）",
+          "antecedent": [
+            "情绪低落或出现负性自动思维后",
+            "想到与邻居交谈或寻求支持时"
+          ],
+          "core_reason": "担心成为他人的负担、被评价为无能或笨拙",
+          "function": "逃避潜在的羞耻与被拒绝感",
+          "consequence": "孤立感与疏离感加重，情绪进一步恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1447
+}

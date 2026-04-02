@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "韩娜",
+      "gender": "女",
+      "occupation": "零售销售助理",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与室友同住",
+      "social_status": "与朋友的关系受到影响，回避涉及跳舞的社交聚会；有一位亲密朋友但未向其倾诉当前困扰",
+      "medical_history": "未有显著躯体疾病；过去未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "表达清晰、逻辑较好；自述略紧张；配合度较高，愿意进行头脑风暴与评估不同解释"
+    },
+    "main_problem": "近几个月以来，我持续感到自己是一个糟糕的舞伴/教师，并相信无人来上我的舞蹈课就是因为我不够好。这种不足感影响了我的自信，使我在每次舞蹈课或涉及跳舞的社交场合前都感到焦虑和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "这些不足感已经影响我对跳舞的享受和整体自信，我希望通过咨询改善这种状况。",
+    "growth_experiences": [
+      "几个月前在一次舞蹈课上受到批评，此后将批评与自我价值直接关联：每次上课前出现焦虑并怀疑能力；认为课程无人到场是因为自己不够好；逐渐回避涉及跳舞的社交聚会。期间尝试提升舞蹈技巧并得到正面反馈，但仍持续感到不足。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我是一个糟糕的舞伴与教师",
+        "他人的出勤与评价决定我的价值"
+      ],
+      "special_situations": [
+        {
+          "event": "舞蹈课无人到场",
+          "conditional_assumptions": "如果没人来上课，就说明我能力差、教学不好",
+          "compensatory_strategies": "加倍练习并考虑调整课程时间以证明自己",
+          "automatic_thoughts": "没有人来是因为他们不喜欢我的教学/我很糟糕",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在上一堂课中受到批评",
+          "conditional_assumptions": "如果受到批评，就证明我不够好，不适合教舞",
+          "compensatory_strategies": "提升舞蹈技巧并主动寻求正面反馈",
+          "automatic_thoughts": "这就是我不够好的证据",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在有跳舞的社交聚会前",
+          "conditional_assumptions": "如果我跳得不够好，别人会看不起我或不喜欢我",
+          "compensatory_strategies": "回避涉及跳舞的社交聚会以避免被评价",
+          "automatic_thoughts": "他们会觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在收到正面反馈之后仍评估自身能力",
+          "conditional_assumptions": "只有完美表现或满堂课才算好，否则正面反馈不算数",
+          "compensatory_strategies": "继续自我怀疑，忽视积极信息",
+          "automatic_thoughts": "这些好评不代表我真的够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被喜欢，作为舞者和教师得到肯定",
+        "fear": "害怕被批评与被否定，担心无人到场意味着自己不被需要",
+        "defense_goal": [
+          "通过自责与回避来降低被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被否定的舞者/教师",
+          "object_representation": "挑剔的他人/观众（会用出勤与批评来评判我）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论舞蹈课的低出勤或回想起受到批评时",
+          "interpretation": "他人不喜欢我、我不够好（将外部状况等同于对自我的否定）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责的语气表达，使用绝对化词语（如“都是因为我不好”），淡化或忽视外部因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "将无人到场解释为自己不被喜欢",
+            "回避涉及跳舞的社交聚会",
+            "有亲密朋友却不愿倾诉，担心“麻烦别人”"
+          ],
+          "outcomes": [
+            "上课前持续焦虑",
+            "整体自信下降",
+            "社交回避、减少尝试新活动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "有亲密朋友可谈但选择不倾诉，担心“麻烦别人”",
+            "在焦虑时更多自我消化而非向外求助",
+            "回避涉及跳舞的社交场合"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动提升舞蹈技巧，有行动倾向",
+          "愿意进行问题求解与头脑风暴，能考虑外部因素（天气、时间冲突等）",
+          "拥有一定社会支持（有一位亲密朋友）",
+          "工作表现未受影响，日常功能基本稳定"
+        ],
+        "negative_force": [
+          "倾向个人化与读心术，将低出勤归因于自身不足",
+          "心理过滤与过度概括，聚焦批评并忽视正面反馈",
+          "在上课或涉舞社交前的预期性焦虑与自我怀疑",
+          "回避社交聚会，减少参与新活动与爱好，进一步削弱自信"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在舞蹈课前及收到批评时出现显著焦虑与自我否定",
+          "antecedent": [
+            "舞蹈课无人到场或出勤偏低",
+            "在课堂中受到批评",
+            "在课前或涉舞社交活动开始前"
+          ],
+          "core_reason": "将他人的出勤与批评直接等同于自我价值，形成“我不够好”的核心信念",
+          "function": "逃避被否定的威胁，并以自责维持一种看似可控的解释以减少不确定性",
+          "consequence": "降低对跳舞的享受与整体自信，每次上课前持续焦虑"
+        },
+        {
+          "behavior": "回避涉及跳舞的社交聚会",
+          "antecedent": [
+            "涉及跳舞的社交活动邀请或计划",
+            "想到他人可能评价自己的舞蹈"
+          ],
+          "core_reason": "对负面评价与羞耻的预期，伴随读心术与灾难化倾向",
+          "function": "避免潜在的批评与社交不适",
+          "consequence": "与朋友关系受影响，减少尝试新活动与爱好"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 143
+}

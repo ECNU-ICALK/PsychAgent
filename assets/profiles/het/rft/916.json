@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "傅贝莎",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；既往未接受心理咨询或出现类似心理问题",
+      "language_features": "态度消极；能清晰表达自身感受与想法；未提及语速与逻辑特征"
+    },
+    "main_problem": "我因身高持续感到不够好和挫败，认为自己会永远矮小，这导致自尊下降和无望感。问题始于青少年时期，最近更强烈；一次在厨房拿不到橱柜里的饼干罐触发了这些感受，并因此回避涉及身高的情境（如高处取物），睡前会反复思考身高与人生成就而影响睡眠。",
+    "topic": "情绪管理",
+    "core_demands": "意识到与身高相关的想法正在影响日常生活与自尊，希望通过心理咨询改善这种影响。",
+    "growth_experiences": [
+      "青少年时期一直比多数同龄人矮，常因身高受到他人取笑，长期感到自卑与无望；虽有家人和朋友可倾诉，但从未向他们谈及身高困扰，这种隐忍与不表达逐渐固化为负性自我评价与社交回避的倾向。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会一直很矮",
+        "我永远不会足够好",
+        "人们不会认真对待我"
+      ],
+      "special_situations": [
+        {
+          "event": "在厨房里够不到橱柜中的饼干罐",
+          "conditional_assumptions": "如果我连高处的物品都拿不到，就说明我很无能、身高会永远限制我",
+          "compensatory_strategies": "回避所有与身高相关的场景，如尽量不去拿高处的物品",
+          "automatic_thoughts": "我会一直这么矮，我很无助",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每晚临睡前反复思考自己的身高与人生成就",
+          "conditional_assumptions": "如果我个子矮，就意味着我一生的成就会受限、我整体就是不够好",
+          "compensatory_strategies": "持续反刍负面想法，试图通过思考解决，但实际上加重失眠与情绪",
+          "automatic_thoughts": "我的身高会一直拖累我，我永远不会好起来",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与同伴社交时担心身高会成为问题，关系因此紧张",
+          "conditional_assumptions": "如果面对他人时暴露了我的身高不足，就会被看不起或被嘲笑",
+          "compensatory_strategies": "避免与同伴一起活动，减少社交以规避被评价",
+          "automatic_thoughts": "他们不会认真对待我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "上课时间因缺乏动力而迟到，学业受影响",
+          "conditional_assumptions": "如果我无法改变身高、表现不完美，就没有努力的意义",
+          "compensatory_strategies": "拖延与迟到来逃避被评估或可能的失败",
+          "automatic_thoughts": "反正我做得也不会好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被平等看待与认真对待，获得认可而不被身高定义",
+        "fear": "害怕因身高被嘲笑、轻视与拒绝，害怕显得无能与失败",
+        "defense_goal": [
+          "通过回避与疏离减少暴露在他人评价下",
+          "降低自我期待以避免失望与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "矮小、容易被嘲笑的“不够好的人”",
+          "object_representation": "他人是挑剔、轻视与嘲笑自己的人",
+          "linking_affect": "羞耻、无望、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请向他人（包括咨询师）分享身高困扰或表达脆弱时",
+          "interpretation": "他人会认为这个问题很“幼稚/可笑”，从而轻视或拒绝自己",
+          "defense_mechanism": "sring",
+          "defense_definition": "压抑：将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语言收敛，简短回应或回避细节；语气犹疑、降低情感强度，使用“没什么”“不值得说”等词语来淡化。"
+        },
+        {
+          "trigger_condition": "当需要在社交场合直面身高相关情境（如与同伴外出、可能需要高处取物）",
+          "interpretation": "他人会轻视或嘲笑自己，交流只会带来更多羞耻",
+          "defense_mechanism": "sring",
+          "defense_definition": "投射：将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以担忧他人想法为理由婉拒或取消计划；用假设性措辞（“他们肯定会笑我”）强化退出，语气防御性强。"
+        },
+        {
+          "trigger_condition": "当面对需要表现或被评价的任务（如按时上课、完成作业）",
+          "interpretation": "如果做不到完美就等于失败，努力没有意义",
+          "defense_mechanism": "sring",
+          "defense_definition": "合理化：为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“状态不好/身高带来不便”为理由推迟或迟到，语气平淡但坚决，强调客观借口以减轻内疚。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担心身高被轻视而回避与同伴相处，关系紧张与自我隔离",
+            "未向家人朋友倾诉身高困扰，长期独自承受"
+          ],
+          "outcomes": [
+            "孤独感增强",
+            "自尊下降",
+            "情绪低落与无望感"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "睡前反复思考身高与人生成就，认为身高会一直阻碍自己"
+          ],
+          "outcomes": [
+            "动力下降与迟到上课",
+            "学业表现受损",
+            "失眠与情绪困扰加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁的自我否定（“我永远不会足够好”）",
+            "过度在意他人是否认真对待自己",
+            "在社交与课堂场景中因自我苛责而退缩"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "有朋友和家人可谈却长期不表达困扰，选择独自承受",
+            "将社交能量转为自我反刍与失眠"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在社交前预设“他人不会认真对待我”",
+            "因担心被轻视而提前回避聚会或合作"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备艺术特长与幽默感",
+          "拥有家人和朋友的潜在支持资源（虽未分享，但可获得支持）",
+          "愿意寻求心理咨询并尝试小步改变",
+          "能识别并命名负性自动思维与认知模式"
+        ],
+        "negative_force": [
+          "灾难化、跳到结论、过度概括、非黑即白等负性认知模式突出",
+          "社交与情境回避，增加孤立与关系紧张",
+          "睡前反刍导致失眠，进一步削弱状态与动力",
+          "持续自我否定与低自尊",
+          "学业中的迟到与低动力，促使表现受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与身高相关的情境（如高处取物、与同伴活动中可能暴露身高劣势的场景）",
+          "antecedent": [
+            "需要从高处拿物品",
+            "计划与同伴外出或参与活动时担心身高被关注"
+          ],
+          "core_reason": "对身高的灾难化与读心术推断（他人会轻视/嘲笑），伴随羞耻与无望感",
+          "function": "逃避潜在的羞辱与负面评价以短期缓解焦虑",
+          "consequence": "人际关系紧张与自我隔离，增加孤独感与自尊受损"
+        },
+        {
+          "behavior": "睡前反刍与失眠",
+          "antecedent": [
+            "临睡前想到身高与人生成就，开始反复思考负面内容"
+          ],
+          "core_reason": "过度概括与灾难化推理导致持续自我否定与无意义感",
+          "function": "试图通过思考获得控制与解决感（实际加剧情绪）",
+          "consequence": "睡眠质量下降、情绪低落，次日动力不足与迟到"
+        },
+        {
+          "behavior": "上课迟到与学业动力不足",
+          "antecedent": [
+            "上课前想到身高与被评价的担忧",
+            "早晨起床面对学习任务"
+          ],
+          "core_reason": "非黑即白思维与无望感（若不完美则等同失败）",
+          "function": "逃避被评估与可能失败的情境以减少即时焦虑",
+          "consequence": "学业表现受损，负性自我评价进一步强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 916
+}

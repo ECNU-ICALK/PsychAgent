@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "陈博文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "成长于肯塔基州",
+      "social_status": "人际关系因担心被评价而受影响，在社交聚会中回避谈论爱好；有几位亲密朋友但尚未与其讨论这些感受",
+      "medical_history": "无重大躯体疾病；无既往心理治疗史；未有类似心理问题经历",
+      "language_features": "表达清晰、有条理，能进行自我反思与配合；语气中性，能描述具体社交事件，呈现焦虑与自我怀疑"
+    },
+    "main_problem": "觉得自己喜欢阅读与《安德的游戏》会让他人在社交中认为自己“做作”，因此产生强烈的自我意识与怀疑；在谈论爱好时感到焦虑，并回避相关话题。",
+    "topic": "人际关系",
+    "core_demands": "因自我意识过强影响了对爱好与社交的享受，希望通过咨询缓解这些困扰，重新在社交中自在地谈论与参与自己的兴趣。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "表达真实兴趣会让他人认为我做作",
+        "我与他人不合群，别人会因我的爱好而看低我"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次派对上，有人对其喜欢科幻书籍发表讽刺性评论",
+          "conditional_assumptions": "如果他人对我的兴趣表现出不认同或嘲讽，就说明我是做作的、不被接纳的",
+          "compensatory_strategies": "当场以笑带过并迅速转换话题；之后在社交中尽量回避谈论书籍与阅读",
+          "automatic_thoughts": "他们觉得我很装，说多了会被嘲笑",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在谈话中引用书中内容时，有人翻白眼表示轻蔑",
+          "conditional_assumptions": "别人的不耐烦或轻蔑表情意味着我的兴趣是不合时宜或让人反感",
+          "compensatory_strategies": "压缩自我表达，避免分享观点与引用内容",
+          "automatic_thoughts": "我不该谈论我的爱好",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "在社交聚会中被他人询问爱好",
+          "conditional_assumptions": "如果我谈论阅读与《安德的游戏》，别人会认为我自命不凡、不合群",
+          "compensatory_strategies": "回避直接回答，改聊其他话题以避免负面评价",
+          "automatic_thoughts": "说出来只会让场面尴尬，他们可能会不屑",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当谈话主题转向自己不感兴趣的内容时",
+          "conditional_assumptions": "当我与群体兴趣不同，就意味着我不合群、会被排斥",
+          "compensatory_strategies": "顺从群体话题、压抑自我表达以保持表面和谐",
+          "automatic_thoughts": "我就是不合群",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳，能够真实表达自己的兴趣并获得理解与尊重",
+        "fear": "害怕被羞辱、被嘲讽或被拒绝，担心被视为做作与不合群",
+        "defense_goal": [
+          "通过淡化与回避自我表达来降低被评判的风险",
+          "维持表面和谐以避免社交冲突与尴尬"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嘲笑、需要隐藏自我的局外人",
+          "object_representation": "轻蔑的评判者／讽刺的他人",
+          "linking_affect": "羞耻、焦虑、尴尬"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在社交或咨询中被邀请分享书籍/爱好时",
+          "interpretation": "对方可能会像派对上的人一样嘲讽我（移情：将过往评判经验投射到当前关系）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "采用温和、支持性的语气，先共情其担忧与羞耻感，再以开放式问题邀请其描述具体细节；允许停顿与情绪波动，避免评判性语言。"
+        },
+        {
+          "trigger_condition": "当他人露出不耐烦或讽刺的非言语线索（如翻白眼）",
+          "interpretation": "将他人视为轻蔑的评判者，认为自己必须立即撤退以自保",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "保持稳定、低刺激的语调，先命名现场线索与感受，再轻柔邀请其辨别事实与解释的差异；鼓励以“我”的陈述表达体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心因兴趣而被群体排斥，在社交中回避谈论自我以避免评判",
+            "在被问及爱好时选择淡化自我表达，感觉“不合群”"
+          ],
+          "outcomes": [
+            "社交焦虑与疏离感加重",
+            "人际关系紧张，难以建立真实连接"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在真实表达与迎合他人之间摇摆，难以在社交中自主地呈现自我",
+            "为避免评判而限制选择与表达"
+          ],
+          "outcomes": [
+            "自我不一致与内在冲突",
+            "对兴趣的满足感降低、体验受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交前过度担心他人看法，对表达爱好格外谨慎",
+            "倾向自我怀疑，将他人反应个人化"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在聚会中笑着带过并迅速换话题以避免谈论书籍与阅读",
+            "面对询问爱好时不直接回答，转移到安全话题"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在他人尚未明确评价时预设其会认为自己做作",
+            "将少数负面互动泛化为群体的看法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对阅读的真诚热爱，能带来积极情绪与价值感",
+          "拥有几位可获得支持的亲密朋友（虽尚未讨论此困扰）",
+          "能觉察并命名认知歪曲，愿意尝试替代视角与认知重构",
+          "主动寻求咨询帮助，改变动机明确"
+        ],
+        "negative_force": [
+          "过度关注负面互动，心理过滤显著",
+          "心读与预测未来导致在社交前即产生焦虑与回避",
+          "害怕被评判，倾向淡化与回避自我表达",
+          "过度自我监控与自我怀疑，易将他人反应个人化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合回避谈论兴趣、改变话题并伴随显著焦虑",
+          "antecedent": [
+            "社交聚会",
+            "被他人询问爱好",
+            "谈及《安德的游戏》或阅读相关话题",
+            "遭遇讽刺性评论或他人翻白眼等线索"
+          ],
+          "core_reason": "对被评判与羞辱的强烈担忧，受过往负面互动强化，形成对自我表达的灾难化与过度概括",
+          "function": "逃避潜在的负面评价与尴尬，维持表面安全与群体和谐",
+          "consequence": "人际关系紧张、社交参与减少、对爱好的乐趣下降，产生自我不一致与持续自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 317
+}

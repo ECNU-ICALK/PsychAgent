@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "蒋娜",
+      "gender": "女",
+      "occupation": "",
+      "educational_background": "",
+      "marital_status": "为人父母",
+      "family_status": "与女儿同住",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未因其他心理问题接受过治疗或咨询",
+      "language_features": "态度积极，愿意合作"
+    },
+    "main_problem": "我有在万圣节期间过度吃糖的倾向，这会让我感到内疚和后悔。这个行为从童年开始，但在最近几年更加明显。尽管知道这不健康，我仍会在万圣节期间摄入大量糖果，且难以控制。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这种行为正在负面影响我的身体健康和整体幸福，因此来寻求咨询；希望能在享受万圣节的同时实现适度与平衡，减少内疚与失控感。",
+    "growth_experiences": [
+      "童年时期因对万圣节的兴奋开始形成过量食用糖果的习惯与模式，之后每逢万圣节都会出现难以控制的进食，近几年这一问题更加明显。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我缺乏自控力（我管不住自己）",
+        "吃糖是不应该的，享受就等于不健康"
+      ],
+      "special_situations": [
+        {
+          "event": "万圣节期间家里与周围充斥大量糖果与节日气氛",
+          "conditional_assumptions": "只要我一开始吃，就一定会失控；如果失控就证明我没有自制力",
+          "compensatory_strategies": "在节前给自己制定严格限制和自控规则，试图用意志力压制渴望",
+          "automatic_thoughts": "我肯定会停不下来，最后还是会吃多",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "开始吃了几块糖后从享受转向自我评判",
+          "conditional_assumptions": "如果我吃糖，那就是不健康、就是不应该的",
+          "compensatory_strategies": "用自责与内疚来约束自己，试图以内疚感阻止继续进食",
+          "automatic_thoughts": "我不应该吃这个，这很不健康",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "意识到自己吃多后产生强烈的内疚与懊悔",
+          "conditional_assumptions": "一旦破戒就算彻底失败，既然失败就没有再节制的必要",
+          "compensatory_strategies": "索性继续进食以暂时麻痹内疚（情绪性进食）",
+          "automatic_thoughts": "反正已经吃多了，干脆把它们都吃完",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被允许无负罪地享受喜爱的事物，并在亲密关系中被理解与接纳",
+        "fear": "害怕失控、损害健康，并因此影响与女儿的关系、引发羞耻与内疚",
+        "defense_goal": [
+          "通过严苛的“应该/不应该”自我要求维持控制感",
+          "避免与女儿谈论此困扰以免让对方“背负负担”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚且容易失控、需要被约束的自己",
+          "object_representation": "女儿是可能被我麻烦或受影响的人，需要我克制以不打扰她们",
+          "linking_affect": "羞耻、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与女儿沟通这一困扰或探询关系层面时",
+          "interpretation": "如果我说出来会给她们增加负担、让我显得很尴尬",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以犹豫且带歉意的语气强调“不想麻烦她们”，弱化谈论深层情绪，转而聚焦具体策略。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在“享乐/自由选择”与“自律/责任”之间摇摆",
+            "以“应该/不应该”的内化规则限制自我",
+            "担心一旦放松就会失控"
+          ],
+          "outcomes": [
+            "内疚与懊悔反复出现",
+            "情绪性进食的循环加剧",
+            "与女儿关系出现紧张",
+            "日常自我照料与饮食节律受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复使用“应该/不应该”的自我评判（如“我不应该吃糖”）",
+            "把“健康=绝对不该吃糖”的信条当作唯一标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "内疚后强烈自责并加重自我约束",
+            "担心给女儿增加负担而不愿求助"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "没有与女儿沟通困扰而选择独自承受",
+            "用自责与进一步进食来处理内疚情绪"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "动机明确，因健康与幸福受影响主动寻求帮助",
+          "态度积极，愿意尝试正念与认知重构",
+          "能觉察到“享受—内疚—继续进食”的循环模式",
+          "具备潜在支持资源（与女儿同住、可沟通）"
+        ],
+        "negative_force": [
+          "非黑即白与“应该”信念强化自我评判",
+          "“我控制不住自己”的信念导致预期性失控",
+          "羞耻与尴尬阻碍向家人寻求支持",
+          "节日与大量糖果的高诱发情境反复触发问题"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "万圣节期间过度食用糖果",
+          "antecedent": [
+            "万圣节节日氛围与兴奋感",
+            "家中与周围大量糖果易得",
+            "开始吃到几块之后从享受转为自责"
+          ],
+          "core_reason": "对糖果的强烈喜爱与节日兴奋叠加；将内疚情绪以继续进食进行短暂调节；对自控的消极信念与僵化规则触发反弹",
+          "function": "获得即时快感与短暂缓解负性情绪（内疚、压力）",
+          "consequence": "身体健康与自我照料受影响；内疚与懊悔持续；与女儿关系出现紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 463
+}

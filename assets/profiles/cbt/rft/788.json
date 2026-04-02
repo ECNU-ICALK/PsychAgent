@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "68",
+      "name": "林雅芝",
+      "gender": "女",
+      "occupation": "好莱坞的男模特志愿者（立志成为男模）",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有人际支持（有朋友可交谈），但尚未向朋友谈及具体担忧；人际关系受到对被评价为“生病的孩子”的恐惧影响",
+      "medical_history": "18岁时曾患泌尿系统癌症并完成治疗；目前无显著身体疾病；未接受过心理治疗",
+      "language_features": "表达清晰，能自我反思与描述具体情境；配合度较好但带有怀疑态度；情绪体验以焦虑为主；在社交话题上谨慎、易担忧"
+    },
+    "main_problem": "我担心人们会一直把我看作曾患癌症的“生病的孩子”，这让我长期焦虑和担心，尤其在社交情境中。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些被贴上“生病的孩子”标签的感受开始影响我成为男模的自信与志向。",
+    "growth_experiences": [
+      "18岁时经历并战胜泌尿系统癌症。治疗结束后并未感到如释重负，因健康不确定性导致的压力很高，焦虑与担忧自那时持续至今。在社交场合（认识新朋友、参加活动）尤为突出，逐渐发展为对他人评价的恐惧和自我意识过强，影响人际关系、职业信心以及饮食和睡眠。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会一直被视为生病的孩子",
+        "我的价值会被我的病史覆盖"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合认识新朋友或参加活动时",
+          "conditional_assumptions": "如果别人知道我曾经患癌，就会看轻我，只把我当作“生病的孩子”而不是完整的我",
+          "compensatory_strategies": "自我安慰与分散注意（通过工作保持忙碌）、减少自我暴露与回避深入交流",
+          "automatic_thoughts": "他们一定在心里看不起我、只把我当成那个生过病的孩子",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在行业社交或人脉拓展活动中（如上周的网络活动）",
+          "conditional_assumptions": "如果被当作“生病的孩子”，别人就不会用才貌或能力来评判我，我将无法在模特行业获得机会",
+          "compensatory_strategies": "提前离场、降低参与度以避免被审视",
+          "automatic_thoughts": "我会被以病史而不是实力评判，结果只会更糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交活动中没有人直接提及病史时",
+          "conditional_assumptions": "如果我感到强烈的紧张和不适，就说明他们正在评判或议论我",
+          "compensatory_strategies": "继续自我监控与内心反刍，难以停留在现场",
+          "automatic_thoughts": "我感觉很糟，这一定意味着他们在暗地里议论我",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "想到要向朋友谈及自己的具体担忧时",
+          "conditional_assumptions": "如果我表达担忧，就会给别人增加负担并被负面看待",
+          "compensatory_strategies": "回避谈论、把担忧压在心里、独自承受",
+          "automatic_thoughts": "我不该麻烦别人，他们会觉得我有问题",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被当作“完整而有能力的人”来看待，在人际与职业中被接纳与认可（以才貌与努力被评价）",
+        "fear": "害怕被贴上“生病的孩子”的标签而被贬低、被拒绝、失去机会",
+        "defense_goal": [
+          "通过回避深入社交来降低被评判的可能",
+          "把担忧压在心里以维持外在的稳定与安全感",
+          "通过保持忙碌来分散焦虑与自我关注"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易被贴标签的自我（随时可能被他人以病史定义）",
+          "object_representation": "他人是潜在的评判者与拒绝者（会看轻并否定我）",
+          "linking_affect": "焦虑、羞耻、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或进入社交场合，尤其是人际网络与行业活动时",
+          "interpretation": "他人会像过去那样用“生病的孩子”的标签看我，正在暗中评判我（移情：将被评判的期待带入当前关系）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持同理与稳定语气，邀请其检视证据与可能性；使用开放式提问，引导其区分感受与事实，温和挑战“心读”假设。"
+        },
+        {
+          "trigger_condition": "当想到要向朋友或他人表达具体担忧时",
+          "interpretation": "如果说出来会给别人增加负担并被负面看待",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以支持性语气逐步探询其未表达的担忧，提供安全框架；鼓励小步尝试分享，肯定其节奏与界限。"
+        },
+        {
+          "trigger_condition": "当被问及不与朋友讨论的原因或为提前离场寻找理由时",
+          "interpretation": "我不该麻烦别人、他们可能不想听（为回避与退场进行自我辩护）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "温和标注合理化倾向，邀请其区分“关心他人”与“自我回避”；用具体化与再归因技术探索更多可能的理解。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向他人敞开并建立亲密关系",
+            "在社交活动中保持防备与提前离场",
+            "有朋友却未谈及具体担忧，选择独自承受"
+          ],
+          "outcomes": [
+            "持续性焦虑",
+            "社交回避与自我隐藏",
+            "睡眠与饮食被打乱，整体生活质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在社交场合高度自我意识与紧张",
+            "假设他人正在评判自己",
+            "谨慎避免深入交流以降低被审视的风险"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不向朋友表达具体担忧而选择独自承受",
+            "以“我不该麻烦别人”为由压抑表达需求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在没有证据的情况下假定他人看轻或议论自己",
+            "将内在的羞耻和焦虑体验归因于他人的负面看法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备社会支持资源（有朋友可交谈）",
+          "愿意尝试识别与挑战负性思维、接受重构练习",
+          "能觉察并命名认知模式（心读、过度概括、心理过滤）",
+          "曾战胜重大疾病，显示出韧性与坚持"
+        ],
+        "negative_force": [
+          "过度在意他人评价与贴标签的担忧",
+          "心读与预测未来、情绪化推理等认知偏差强化焦虑",
+          "在社交场合的回避与自我隐藏（提前离场、减少交流）",
+          "睡眠与饮食节律受扰，进一步降低情绪与功能状态"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交活动中出现高度焦虑并提前离场",
+          "antecedent": [
+            "认识新朋友或参加社交/行业活动",
+            "想到他人可能知道或谈及其过去病史"
+          ],
+          "core_reason": "担心被贴上“生病的孩子”的标签并被贬低、被拒绝，由此产生灾难化与心读倾向",
+          "function": "逃避被评判与负性情绪体验，迅速降低当下焦虑",
+          "consequence": "错失人脉与机会，职业发展受阻，人际关系维持在浅层"
+        },
+        {
+          "behavior": "不向朋友表达具体担忧、选择独自承受",
+          "antecedent": [
+            "想到要谈及自己的焦虑或病史相关担忧",
+            "面临亲密互动或寻求支持的机会"
+          ],
+          "core_reason": "担心给他人增加负担并被负面看待，倾向合理化与压抑情绪需求",
+          "function": "避免可能的尴尬或被评判情境，维持表面稳定与控制感",
+          "consequence": "社会支持未被充分利用，孤立感与焦虑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 788
+}

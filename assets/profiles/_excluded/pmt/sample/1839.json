@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "泰勒",
+      "gender": "男性",
+      "occupation": "大学生（大学棒球运动员，首发游击手）",
+      "educational_background": "正在攻读体育管理学士学位",
+      "marital_status": "未婚",
+      "family_status": "与父母和妹妹同住",
+      "social_status": "拥有支持性的队友与朋友，但因自我怀疑难以向他人敞开；与队友关系出现紧张",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能描述具体情境；思维呈反复过度思考与消极倾向；语气偏悲观与紧张；配合度较高但对暴露脆弱有所犹疑"
+    },
+    "main_problem": "自从上周比赛错过一个关键回合后，一直觉得自己不是一个好球员，持续过度思考并害怕再犯错，影响练习与比赛表现，同时睡眠与学业受影响。",
+    "topic": "情绪管理",
+    "core_demands": "希望停止持续的自我怀疑，重建自信，重新享受棒球与生活，并改善比赛中的表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（能力不足）",
+        "我不配做首发/我是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "上周比赛中错过一个关键回合（作为首发游击手）",
+          "conditional_assumptions": "如果关键时刻出现一次失误，就证明我整体不够好，不配当首发",
+          "compensatory_strategies": "在训练中对每个动作过度思考、强行压抑负面念头，并通过观看励志视频试图提升信心",
+          "automatic_thoughts": "我不是一个好球员，我以后也会一直犯错",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在训练或比赛中再次出现与上次相似的高压情境",
+          "conditional_assumptions": "如果我再犯错，队友会看轻我、关系会恶化",
+          "compensatory_strategies": "高度警惕、避免冒险动作，尽量不表达真实感受",
+          "automatic_thoughts": "他们都在看着我，等我出错",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "比赛或训练中完成了正确的动作或好的表现",
+          "conditional_assumptions": "除非每一次都完美，否则说明我仍然不够好",
+          "compensatory_strategies": "忽视正面反馈，继续自我怀疑和反刍错误",
+          "automatic_thoughts": "这次做对也不算什么，我最终还是会搞砸",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "夜间睡前回想比赛与训练，担心未来再次失误",
+          "conditional_assumptions": "只有提前不断担心和推演，才能避免下一次错误",
+          "compensatory_strategies": "反复脑演情境、不断自我检查，迟迟无法放松入睡",
+          "automatic_thoughts": "我很可能会再犯错，后果会很糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、可靠的球员，保持自信与稳定表现",
+        "fear": "害怕犯错后被队友/他人看轻、被贴上“失败者”标签，失去位置与价值",
+        "defense_goal": [
+          "通过压抑情绪与过度控制来避免暴露脆弱与错误",
+          "维持表面的镇定以减少他人负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易犯错的球员",
+          "object_representation": "挑剔、随时准备批评自己的他人（队友/观众）",
+          "linking_affect": "羞耻、焦虑、害怕"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被要求回忆并具体描述那次失误或在比赛中被关注时",
+          "interpretation": "倾向将他人的关注理解为批评或在等待自己出错（移情）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "语气克制、简短，强调“我会专注比赛”，避免触及羞耻与恐惧的感受"
+        },
+        {
+          "trigger_condition": "当咨询师探问其情绪体验与脆弱时",
+          "interpretation": "担心暴露脆弱会被看轻，因此倾向转向事实与技术层面的讨论",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "偏向讨论战术安排、训练计划，用较为客观理性语气，减少情绪词汇"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向支持性的队友与朋友敞开表达不安与失败感",
+            "在高压比赛情境中感到被注视与评判"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "持续焦虑与失眠",
+            "自我价值感动摇"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自我怀疑与过度限制自己",
+            "把错误放大并持续反刍",
+            "担心“不配”和队友交流而选择闭合"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "认为队友都在等自己出错",
+            "将他人目光解释为对自己的轻视或批评"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，或放弃向外寻求别人为其做某事",
+          "manifestations": [
+            "不愿向支持者求助、难以开口表达情绪",
+            "把压力与羞耻向内消化、自我消耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的队友与朋友",
+          "主动寻求咨询与改变的意愿",
+          "具备首发游击手的竞技能力基础（此前能够胜任）"
+        ],
+        "negative_force": [
+          "过度思维与反刍，倾向灾难化与否定正面",
+          "对错误的强烈恐惧与对外部评价过度敏感",
+          "难以向他人敞开求助导致自我孤立",
+          "睡眠受扰与注意力下降，进一步影响学业与比赛表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在训练与比赛中过度担忧犯错与过度思考每个回合",
+          "antecedent": [
+            "出现与上次失误相似的高压或关键情境",
+            "与队友共同练习/比赛时被关注"
+          ],
+          "core_reason": "将一次失误过度概括为能力不足，把自我价值与完美表现绑定，并担心被队友看轻",
+          "function": "试图避免潜在错误、维持控制与自我保护（避免他人负面评价）",
+          "consequence": "表现僵硬与信心下降，团队关系紧张，进一步强化自我怀疑"
+        },
+        {
+          "behavior": "睡眠受扰（入睡困难、辗转反侧）",
+          "antecedent": [
+            "临睡前回想比赛与训练",
+            "对未来比赛的担忧"
+          ],
+          "core_reason": "为避免再次失误而进行持续的担忧与脑演，预测未来负面结果",
+          "function": "通过反刍与担忧来寻求安全感与控制感",
+          "consequence": "睡眠质量下降、学业受影响、次日竞技状态变差"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1839
+}

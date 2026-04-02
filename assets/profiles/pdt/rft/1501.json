@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "72",
+      "name": "陈浩",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲在新奥尔良以看手相为业",
+      "social_status": "与朋友关系紧张，因大部分时间待在赌场而很少与朋友见面；虽有可谈心朋友，但因羞耻与尴尬未向其透露赌博问题",
+      "medical_history": "无显著躯体疾病；既往未出现类似问题，未接受过心理治疗",
+      "language_features": "自我贬低、消极怀疑；能清晰描述问题与后果，逻辑基本清楚；对咨询成效持怀疑态度但愿意尝试；表达羞耻与失败感"
+    },
+    "main_problem": "因在赌场花费过多而感到自己是个失败者并感到羞耻，这些问题在我花更多时间和金钱待在赌场后出现并加重。",
+    "topic": "情绪管理",
+    "core_demands": "促使我寻求咨询的决定性因素是意识到我的赌博习惯正在负面影响我的心理健康和经济稳定。",
+    "growth_experiences": [
+      "几个月前经历个人生活中的困难时期，为了转移注意力开始更频繁地去赌场，随后发展为大部分时间待在赌场、花费超出限额，导致忽视日常责任与人际关系，并在每次输钱离开后产生强烈羞耻与自我厌恶。",
+      "原生家庭信息有限，仅知母亲在新奥尔良以看手相为业，未提及其他照料者或家庭结构。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者",
+        "我很没用"
+      ],
+      "special_situations": [
+        {
+          "event": "每次在赌场输钱后离开",
+          "conditional_assumptions": "如果我输掉钱，就等于我是个失败者、没有价值",
+          "compensatory_strategies": "减少与朋友联系、隐瞒近况以避免被评价或羞辱",
+          "automatic_thoughts": "我就是个失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "为赌博设定支出限额后仍然超支",
+          "conditional_assumptions": "如果我无法严格控制支出，就说明我没有自控力、很没用",
+          "compensatory_strategies": "安慰自己“这次会不一样，我能赢回来”，继续加注以试图挽回损失",
+          "automatic_thoughts": "这次会不一样，我能把输的钱赢回来",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在感到特别低落或压力大时",
+          "conditional_assumptions": "我必须通过去赌场分散注意，否则情绪会失控、无法承受",
+          "compensatory_strategies": "把赌博作为情绪逃避与自我安抚的方式",
+          "automatic_thoughts": "我现在很难受，去赌场会好一些",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "想到朋友、担心被问起近况或被比较时",
+          "conditional_assumptions": "如果他们知道我的赌博现状，就会轻视我、疏远我",
+          "compensatory_strategies": "回避与朋友接触、减少社交以躲避可能的评价",
+          "automatic_thoughts": "他们一定会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，维持自尊与价值感",
+        "fear": "害怕因失控与失败而被羞辱、被拒绝，关系破裂",
+        "defense_goal": [
+          "通过回避亲密披露来降低被评判与羞辱的风险",
+          "用赌博麻痹痛苦情绪以暂时减轻焦虑与羞耻",
+          "以自我批评先发制人，避免外界更痛苦的指责"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧、失控的失败者",
+          "object_representation": "他人（朋友/重要他人）是苛刻的评判者、会失望的人",
+          "linking_affect": "羞耻、内疚、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其谈论“开始赌博增多时个人生活中发生了什么”",
+          "interpretation": "披露细节会被评判、丢脸，安全感受威胁（移情：将他人视作评判者）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
+          "response_instruction": "礼貌而简短地回复，回避具体细节，语气保留，迅速转移话题。"
+        },
+        {
+          "trigger_condition": "在咨询开始阶段被邀请相信谈话可能有帮助、并开展认知重构",
+          "interpretation": "认为“谈话帮不了我”，将咨询师视为无效的帮助者以自保（移情：对权威的怀疑）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用看似理性的理由（例如“说了也没用”）淡化改变的必要性，语气冷淡且持怀疑态度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "多次尝试设定限额却控制不住支出",
+            "意识到赌博选择的后果却难以承担责任与改变"
+          ],
+          "outcomes": [
+            "内疚与羞耻加剧",
+            "无力感、消极心态",
+            "经济失衡与日常责任被忽视"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系紧张、很少见面",
+            "因羞耻未向朋友透露赌博问题"
+          ],
+          "outcomes": [
+            "社会退缩与支持系统未被激活",
+            "羞耻与自我贬低循环加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "表示不再享受赌博，却持续以习惯方式去赌场"
+          ],
+          "outcomes": [
+            "空虚感与消耗感",
+            "消极态度、难以看到出路"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "对“个人生活里发生了什么”的探询表示不愿谈细节，转而保持模糊",
+            "对改变与咨询效果保持泛化的怀疑，避免深入当下体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我贬损（“我是失败者/loser”“我一直对自己很苛刻”）",
+            "在咨询中担心难以改变而收缩表达"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "将对困境的不满与压力转为自责、羞耻",
+            "不向朋友寻求支持，将能量转回自身承受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "意识到赌博已损害心理健康与财务，具备问题洞察与改变动机",
+          "愿意尝试咨询与认知重构，即便保持怀疑",
+          "能够识别部分诱发因素（感到低落或压力大时更易去赌场）",
+          "拥有潜在社会支持（有可交谈的朋友）",
+          "觉察到赌博已不再带来愉悦，具备重新选择的现实基础"
+        ],
+        "negative_force": [
+          "自我标签与自我贬低（“我是失败者”）强化羞耻与无力感",
+          "将赌博作为情绪逃避的习惯性策略，难以中断",
+          "认知偏差（预测未来/幻想能“赢回损失”）维持继续下注",
+          "羞耻阻碍求助与披露，导致社会支持未被启用",
+          "对咨询与改变持怀疑态度，降低行动投入"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "长时间在赌场赌博并超出预算",
+          "antecedent": [
+            "感到低落或压力大时",
+            "形成固定化的去赌场习惯",
+            "设定了限额但临近或超过限额时"
+          ],
+          "core_reason": "以赌博作为逃避负性情绪与压力的策略，并抱有“能赢回损失”的期待以恢复控制感与自尊",
+          "function": "逃避不受欢迎的情绪体验，获得短暂的刺激与希望感",
+          "consequence": "忽视日常责任、与朋友关系紧张、经济不稳定，离开赌场后羞耻与自我厌恶加重"
+        },
+        {
+          "behavior": "自我贬低与羞耻（反复以“失败者”给自己贴标签）",
+          "antecedent": [
+            "在赌场输钱并离开时",
+            "超出自定限额后"
+          ],
+          "core_reason": "内化的“我很没用/我是失败者”的核心信念在失败情境中被激活",
+          "function": "通过自责解释失控与失败，短暂避免面对改变的行动与人际评价",
+          "consequence": "负性情绪循环加重，进一步回避求助并以赌博麻醉情绪"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1501
+}

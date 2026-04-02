@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "王薇",
+      "gender": "女",
+      "occupation": "办公室职员",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与同事关系紧张，感觉被孤立，减少与同事社交",
+      "medical_history": "既往无类似心理问题；既往未接受心理咨询治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性较好，能进行自我反思与洞察；配合度高；情绪偏焦虑但可被引导"
+    },
+    "main_problem": "我觉得同事不再愿意帮我，他们一定认为我在占他们的便宜，这让我感到被孤立和有些被迫害的感觉。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些孤立感和被迫害感正在影响我的心理健康和工作表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好，容易被他人评判或拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "在办公室向同事请求协助完成一份报告时被对方以“很忙”为由拒绝",
+          "conditional_assumptions": "如果同事拒绝帮助，就说明他们认为我在占他们的便宜并且不喜欢我",
+          "compensatory_strategies": "减少求助、独自完成任务以避免被评判",
+          "automatic_thoughts": "他们觉得我在利用他们",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "开始参加射箭课程后，下班后与同事聚会与交流的时间减少",
+          "conditional_assumptions": "如果我没有花时间与他们社交，他们就会疏远我并否定我",
+          "compensatory_strategies": "回避与同事互动，尽量不提出请求以降低被评判的风险",
+          "automatic_thoughts": "因为我没陪他们，他们对我有意见",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在办公时间观察到同事近期较少主动提供帮助",
+          "conditional_assumptions": "他人的行为变化一定与我有关，且意味着我做错了事",
+          "compensatory_strategies": "过度监测他人反应、反复在心里揣测他人的想法",
+          "automatic_thoughts": "他们在针对我、我被排斥了",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "想到再次开口向同事求助时，联想到之前被拒的经历",
+          "conditional_assumptions": "如果再被拒绝，就证明我一直在占便宜，并会被更多人排斥",
+          "compensatory_strategies": "不再寻求帮助，降低可见度以自我保护",
+          "automatic_thoughts": "如果我再问他们会更讨厌我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同事接纳、支持与认可",
+        "fear": "害怕被评判为“占便宜”、被拒绝与排斥",
+        "defense_goal": [
+          "通过回避求助与减少互动来降低被拒绝的风险",
+          "通过揣测他人想法来获得控制感与提前自我保护",
+          "保持低暴露以维护脆弱的自尊与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被拒绝的局外人",
+          "object_representation": "挑剔、会评判且不愿帮助的他人/同事",
+          "linking_affect": "焦虑、羞耻、被孤立与被拒感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问“有什么证据支持同事这样想”或澄清感受与事实的差异时",
+          "interpretation": "感觉自己被质疑，倾向把自我批评投向他人，认为他人会否定自己（移情：投向外界的评判）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "先共情其被拒与不安感；语气温和，澄清“想法—证据”的差异；使用开放式提问与具体化，引导其识别可验证信息，避免对抗式纠正。"
+        },
+        {
+          "trigger_condition": "当被邀请尝试与同事直接沟通、表达自己的需求与感受时",
+          "interpretation": "将潜在的拒绝视为确定结果，倾向以“他们很忙”作为不行动的理由",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性语气探询其顾虑背后的需要；采用角色扮演与小步实验，明确最低可行行动，降低一次性沟通门槛并强化自我效能。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到在工作中被孤立，与同事的社交联系减少",
+            "避免互动与求助，难以向朋友和家人谈及困扰",
+            "过度关注他人评价，担心被群体排除"
+          ],
+          "outcomes": [
+            "焦虑与偏执感增加",
+            "工作表现下降、动力与情绪受影响",
+            "自我价值感动摇与不安全感上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为同事觉得自己在占便宜",
+            "把同事的“很忙”解释为对自己不满或否定"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不再向同事求助，把任务独自扛下",
+            "不向朋友或家人倾诉困扰，情绪内化处理"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人看法与评价，谨慎解读他人行为",
+            "担心被视为“占便宜”，从而限制求助与互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我反思与洞察能力，能辨识“缺乏证据”的想法",
+          "愿意求助并开始咨询，动机明确",
+          "对替代视角与开放沟通持开放态度",
+          "愿意尝试与同事进行澄清性沟通"
+        ],
+        "negative_force": [
+          "读心与跳结论的认知模式强化了负性解读",
+          "对外部认可依赖较高，易受社交参与度波动影响",
+          "回避求助与减少互动，进一步加剧孤立感",
+          "不愿使用现有社会支持系统（朋友与家人）",
+          "不安全感上升，易将个别事件过度概括为关系恶化的证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作场合回避向同事求助与互动",
+          "antecedent": [
+            "工作时间需要他人协助处理任务时",
+            "开始参加射箭课程后与同事社交时间减少的背景下"
+          ],
+          "core_reason": "担心被评判为“占便宜”与被拒绝，基于不安全感与对外部认可的依赖",
+          "function": "逃避潜在的羞耻与拒绝，短期降低焦虑与不确定感",
+          "consequence": "工作效率下降，孤立感与被排斥感增强，情绪与动力受损"
+        },
+        {
+          "behavior": "在同事行为上进行读心与负性解读，伴随焦虑与偏执感",
+          "antecedent": [
+            "同事以忙为由拒绝帮助",
+            "观察到同事近期较少主动提供支持"
+          ],
+          "core_reason": "对自我价值的不安全感与寻求外部验证的需求，导致对模糊线索进行消极归因",
+          "function": "为不确定的人际线索提供解释以获得暂时的控制感",
+          "consequence": "焦虑与偏执感升高，人际关系进一步紧张与回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1316
+}

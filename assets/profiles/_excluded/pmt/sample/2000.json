@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "王雯",
+      "gender": "女",
+      "occupation": "优惠券达人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数朋友可交流，但尚未向他们充分分享财务压力的真实程度",
+      "medical_history": "无重大躯体疾病；无既往心理咨询或治疗史；过去未经历类似的财务压力",
+      "language_features": "表达清晰、逻辑较为合理；语气偏消极与怀疑；能配合头脑风暴与方案评估；对与房东谈判等冲突情境表现回避"
+    },
+    "main_problem": "我因房租支出过高，尽管通过使用优惠券和捐赠过量库存来节省，但仍觉得无法存下多少钱。这导致我产生财务不安全感与压力。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为财务压力影响了我的心理健康和整体福祉，使我难以专注于日常任务。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法掌控自己的财务",
+        "我注定无法存到钱"
+      ],
+      "special_situations": [
+        {
+          "event": "每月房租到期或看到租金账单",
+          "conditional_assumptions": "如果房租占据了大部分收入，我就永远无法存下钱",
+          "compensatory_strategies": "更加严格地使用预算与优惠券、削减日常开支，避免与房东谈判",
+          "automatic_thoughts": "我的收入都被房租吃掉了，我永远也存不下钱",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "出现意外支出（如突发费用）",
+          "conditional_assumptions": "一旦出现意外支出，就说明我财务状况很糟糕，我的努力都白费了",
+          "compensatory_strategies": "进一步压缩开支、取消非必要消费与社交",
+          "automatic_thoughts": "又来额外支出，我的预算彻底崩了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "未能达到既定储蓄目标或预算偏离",
+          "conditional_assumptions": "如果没有达到储蓄目标，就等于完全失败",
+          "compensatory_strategies": "设定更严格的节省标准、强迫性比价与囤券",
+          "automatic_thoughts": "达不到目标就是失败，我做得很糟",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面对需要花钱的社交场景（与朋友外出）",
+          "conditional_assumptions": "如果我在社交时花钱就会破坏储蓄目标，也会让别人觉得我不负责任",
+          "compensatory_strategies": "减少或回避社交、对朋友隐匿真实压力",
+          "automatic_thoughts": "他们会觉得我花钱不负责任",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得稳定的财务安全与掌控感",
+        "fear": "害怕失去控制、害怕被拒绝或发生冲突导致处境更糟",
+        "defense_goal": [
+          "通过严格预算与避免对抗来降低焦虑并维持表面稳定",
+          "尽量减少支出以证明自己在努力"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被动且害怕冲突的租客",
+          "object_representation": "强势、可能拒绝的房东",
+          "linking_affect": "紧张、恐惧"
+        },
+        {
+          "self_representation": "拮据而不被理解的朋友",
+          "object_representation": "可能对花钱进行评判的他人",
+          "linking_affect": "不安、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论与房东协商房租或被鼓励采取直接沟通策略时",
+          "interpretation": "来访者将可能的谈判理解为高风险的对抗，认为自己会被拒绝并显得无能",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调实际困难与不可行性，语气谨慎克制，列举多个理由解释为何目前不适合行动，同时表达担忧与不确定。"
+        },
+        {
+          "trigger_condition": "当咨询师引导进行问题求解与评估方案（利弊分析）时",
+          "interpretation": "来访者将咨询师的探索理解为推动自己冒险，借助理性分析来降低情绪卷入",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用理性、条理化的陈述，减少情绪词汇，围绕利弊与可行性展开，语气平稳、克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "房租占据大部分收入，感到财务选择受限",
+            "担心永远无法实现储蓄目标，觉得生活被成本束缚"
+          ],
+          "outcomes": [
+            "持续的财务焦虑",
+            "睡眠受扰",
+            "工作专注下降",
+            "社交紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "虽有朋友可谈，但未分享财务压力的真实程度"
+          ],
+          "outcomes": [
+            "支持资源利用不足",
+            "压力感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制对外采取行动的冲动，将能量转而对自己（内在）使用，与“冲动”对应。",
+          "manifestations": [
+            "避免与房东谈判，将精力转为更严格的自我节制（削减消费、囤券）",
+            "在会谈中倾向选择低冲突路径（先查询援助资源而非直接沟通）"
+          ]
+        },
+        {
+          "mode": "压抑",
+          "definition": "个体压制对刺激的情绪反应，减少或隔离情绪体验。",
+          "manifestations": [
+            "很少向朋友表达财务压力的真实程度",
+            "在讨论可行方案时以理性评估弱化情绪表露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "持续使用预算与优惠券，具备节约意识与技能",
+          "愿意尝试问题解决与寻找外部资源（如财务援助）",
+          "有少数朋友可提供情感支持"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维导致对未来的悲观预测",
+          "回避冲突与谈判，限制可能的解决途径",
+          "过度聚焦负面支出、忽略积极因素（心理过滤）",
+          "长期睡眠受扰加重压力并影响工作与人际",
+          "对解决方案持怀疑态度，降低行动动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "财务焦虑（频繁担忧金钱与储蓄）",
+          "antecedent": [
+            "每月支付房租时",
+            "遇到意外支出时",
+            "查看预算或储蓄目标时"
+          ],
+          "core_reason": "将房租视为不可改变的巨大负担，并对未来储蓄进行灾难化与负面预测",
+          "function": "通过担忧来尝试获得控制感、逃避不确定性",
+          "consequence": "睡眠受扰、注意力下降、工作表现受影响"
+        },
+        {
+          "behavior": "回避与房东协商",
+          "antecedent": [
+            "被建议或想到与房东谈租时",
+            "预算无法达标时"
+          ],
+          "core_reason": "担心被拒绝或发生冲突，认为谈判会使处境更糟（跳到结论/预测未来）",
+          "function": "逃避潜在冲突与焦虑",
+          "consequence": "错失降低租金或改善财务的可能，持续压力加重"
+        },
+        {
+          "behavior": "社交回避与消费回避",
+          "antecedent": [
+            "朋友邀请参与需要花费的社交活动",
+            "计划非必要娱乐消费时"
+          ],
+          "core_reason": "将社交消费视为对储蓄目标的威胁，并担心他人评价（个人化）",
+          "function": "减少支出、避免被评判",
+          "consequence": "人际关系紧张、支持减少、情绪低落"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2000
+}

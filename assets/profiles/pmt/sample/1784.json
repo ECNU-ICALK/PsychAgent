@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "高中教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "已婚",
+      "family_status": "已婚，育有两个孩子",
+      "social_status": "与同事关系紧张（因对自身教学能力的自我怀疑）",
+      "medical_history": "无类似问题经历；无既往心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述自己的想法与感受；态度偏消极（自我怀疑）；合作、愿意尝试行为实验；常出现过度概括与个人化的认知；语速与思维逻辑未提及"
+    },
+    "main_problem": "我因为一名高中学生拿了F而觉得自己是个糟糕的教师，这一信念导致我压力增大和自我不足感。",
+    "topic": "职业发展",
+    "core_demands": "这些自我不足感正在影响我的教学表现并导致显著的痛苦，我因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的教师",
+        "我不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "第一次注意到该学生的F成绩（约一个月前）",
+          "conditional_assumptions": "如果我的学生不及格，就说明我的教学能力差",
+          "compensatory_strategies": "改进教学方法，并给予该学生额外关注",
+          "automatic_thoughts": "这一定是我的错，我是个坏老师。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次在课堂上或看见该学生时",
+          "conditional_assumptions": "如果我不能让每一位学生都达标，就证明我整体教学不称职",
+          "compensatory_strategies": "在课堂中不断反思并调整自己的教学，试图用更高标准纠正问题",
+          "automatic_thoughts": "如果一个学生不及格，那我对所有学生的教学都不行。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到家长的表扬或看到其他学生表现良好时",
+          "conditional_assumptions": "正面反馈不重要，只要有一名学生不及格就说明我不称职",
+          "compensatory_strategies": "忽视正面证据，将注意力集中在该学生的失败上",
+          "automatic_thoughts": "这些好评不算数，我仍然是个差老师。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任的教师，期望能帮助每一位学生取得合格成绩",
+        "fear": "害怕被视为不称职、害怕辜负学生并遭受他人评价",
+        "defense_goal": [
+          "通过将失败归咎于自己来维持对教学结果的控制感",
+          "以提高标准和加倍努力来避免再次被视为不称职"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且有罪责的教师（觉得“我正在辜负他和我自己”）",
+          "object_representation": "学生作为被我辜负的人",
+          "linking_affect": "内疚、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导其关注正面证据或提出行为实验以寻求更平衡的视角时",
+          "interpretation": "倾向认为正面证据“不算数”，继续把学生的失败视为自己不称职的决定性证据",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、重复强调“都是我的错”，弱化或否定正面反馈；咨询师以温和、具体化与量化提问逐步引导其识别并松动自责模式。"
+        },
+        {
+          "trigger_condition": "当被询问是否存在与“差老师”信念相矛盾的证据（如其他学生良好表现、家长赞赏）时",
+          "interpretation": "将正面证据视为不足以改变结论的“例外”，为自我否定寻找看似合理的理由",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和语气强调负面证据的“决定性”，同时淡化积极信息；咨询师可使用反问与归纳总结，帮助其区分事实与推断。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同事关系紧张",
+            "与配偶交流时虽获支持但感觉“不太理解”",
+            "在课堂或见到该学生时感到被困住"
+          ],
+          "outcomes": [
+            "压力增大",
+            "睡眠受影响",
+            "自我不足感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我怀疑并将学生的失败归因于自己",
+            "面对正面反馈时仍持续自我否定"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“教师须为学生成绩完全负责”作为绝对标准",
+            "把个别学生的不及格等同于自己不称职"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "谈及家长表扬或其他学生表现良好时，立刻转而强调F成绩，避免接触积极体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到该学生或上课时，来访者通常会产生强烈的自我否定与压力，并认为自己是不称职的老师，进而影响课堂表现与睡眠。",
+          "unique_outcome": "与配偶交流时，获得了倾听与支持。",
+          "reason": "不同支持：配偶的支持与倾听提供了情感支撑。"
+        },
+        {
+          "target_problem": "面对学生的F成绩时，来访者通常会忽视其他证据，持续认为自己教学能力差。",
+          "unique_outcome": "在一些场合中，家长曾给予正面表扬，且其他学生表现良好，为其教学效果提供了积极证据。",
+          "reason": "不同证据与外部正向反馈：家长赞赏与其他学生的良好表现成为反叙事线索。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求专业帮助并愿意尝试行为实验",
+          "有支持性的配偶关系",
+          "部分学生表现良好、家长曾给予正面反馈",
+          "已主动改进教学并给予该学生额外关注"
+        ],
+        "negative_force": [
+          "过度概括与个人化的认知模式",
+          "倾向忽视正面证据、持续自我否定",
+          "压力增大并影响睡眠",
+          "反复自我审视导致与同事关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到该学生或上课时出现强烈的自责与焦虑",
+          "antecedent": [
+            "注意到该学生的F成绩",
+            "在课堂教学或看见该学生",
+            "想到自己的教学表现"
+          ],
+          "core_reason": "将个别学生的失败过度概括为自身整体不称职，并以个人化方式承担全部责任",
+          "function": "通过自我责备来维持对结果的控制感并促使自我改进，同时回避不确定的外部因素",
+          "consequence": "教学表现受影响、与同事关系紧张、压力增加并影响睡眠与整体健康"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1784
+}

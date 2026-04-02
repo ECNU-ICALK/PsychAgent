@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "陈梅",
+      "gender": "女",
+      "occupation": "保安",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交支持薄弱，少有可倾诉对象",
+      "medical_history": "无显著躯体疾病；以往未寻求心理咨询或治疗；过去未遇到类似心理问题",
+      "language_features": "配合度较好，略显紧张，表达清晰，逻辑性较强，能具体描述自动化思维与困扰"
+    },
+    "main_problem": "自从被雇为保安后，我总觉得人们把我看成懒惰、只想上班睡觉的人，这种被误解的感觉在工作时频繁出现并干扰我的专注与表现。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些想法正在影响我的心理健康与工作满意度；希望在下一次重点讨论如何在负面想法出现时去捕捉并挑战它们。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "别人会看不起我（尤其因为我的工作不够体面）"
+      ],
+      "special_situations": [
+        {
+          "event": "每次进入工作场所并与同事或被守护对象接触",
+          "conditional_assumptions": "如果我从事被认为地位不高的工作，别人就会轻视我、认为我懒惰",
+          "compensatory_strategies": "通过加班与承担额外任务来证明自己勤奋与价值",
+          "automatic_thoughts": "他们一定觉得我很懒，只想上班睡觉",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "下班后在家躺床准备睡觉时，回想白天的互动而难以入睡",
+          "conditional_assumptions": "如果没有明确而频繁的赞赏，就说明他们在背后议论我不称职",
+          "compensatory_strategies": "与同事保持距离、减少交流以避免被评价",
+          "automatic_thoughts": "他们大概都在背后说我无能",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "主管或同事给出积极反馈（如感谢加班、表示有她值守更安心）",
+          "conditional_assumptions": "如果赞美不持续或不强烈，那只是客套，不算数",
+          "compensatory_strategies": "否定正面信息，继续通过更多工作来寻求证明",
+          "automatic_thoughts": "他们只是礼貌性说说，并不是真的认可我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到他人拥有更高学历或更体面的职位",
+          "conditional_assumptions": "如果我的工作不够体面，我就不够好、不值得被尊重",
+          "compensatory_strategies": "自我批评，要求自己更努力工作以“弥补”",
+          "automatic_thoughts": "我的工作不如人，所以会被看不起",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被尊重与被真实看见（希望自己的工作与付出被认可）",
+        "fear": "害怕被轻视、被贴上“懒惰/无能”的标签而被排斥",
+        "defense_goal": [
+          "通过加班与承担更多责任来获得认可、缓解被轻视的恐惧",
+          "与他人保持一定距离以减少被评价的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够体面、不够好的从业者，容易被看不起的人",
+          "object_representation": "带着评判与轻视的他人（同事、被守护对象、外界）",
+          "linking_affect": "羞耻、焦虑、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其接纳积极反馈并探索替代解释时",
+          "interpretation": "将他人的赞赏理解为不真诚的客套，从而维持“他人轻视我”的内在叙事",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气保留、轻声表达，用“他们只是礼貌性说说”的句式弱化赞美；避免长时间情感停留在被认可的体验上。"
+        },
+        {
+          "trigger_condition": "当谈及与同事互动或感到被评判的话题时",
+          "interpretation": "将内在的自卑与不安全感投射为“他们看不起我、在背后议论我”的外部意图",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们都觉得/他们可能在说……”等表述，语气防御性，保持社交距离，减少细节探究。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无兄弟姐妹",
+            "在工作中因感到被评判而倾向于与同事保持距离、自己一个人"
+          ],
+          "outcomes": [
+            "睡眠受扰",
+            "人际疏离与关系受损",
+            "工作满意度下降、焦虑加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对“工作不够体面”与“教育不够好”的不安全感，质疑自我价值"
+          ],
+          "outcomes": [
+            "自我评价降低、羞耻感与不满足",
+            "对工作投入与专注受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以社会对职业地位的标准作为自我价值衡量（“我应该有更好的工作/更多教育”）",
+            "将外界对保安职业的刻板印象直接当作事实并内化为自我评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我不够好”）",
+            "在社交中因担心被评判而刻意保持距离、谨慎言行"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作场景中，陈梅通常会认为他人轻视自己、把自己标签为懒惰，从而产生焦虑并回避同事互动。",
+          "unique_outcome": "上个月主管感谢她加班、同事表示因她值守而更安心；该场景提供了对她工作积极评价与认可的证据，与以往“他人轻视我”的主导叙事不同。",
+          "reason": "不同支持：来源于主管的感谢与同事的安全感表达，形成外界正向反馈的具体线索。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试认知重评与行为实验",
+          "工作责任心强，主动加班与承担额外任务",
+          "曾获得主管与同事的正向反馈（认可与安全感）",
+          "对咨询持积极态度，愿意练习正向自我对话"
+        ],
+        "negative_force": [
+          "过度在意外部评价、寻求外部验证",
+          "读心术与过度概括等负性认知模式",
+          "自我批评与羞耻感导致自我价值感低",
+          "社交退缩与人际疏离",
+          "睡眠受扰，进一步削弱工作表现与情绪稳定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中反复进行“读心”和自我贬损的消极思维，伴随焦虑与专注受扰",
+          "antecedent": [
+            "上班、与同事或被守护对象接触",
+            "缺乏明确的正向反馈时",
+            "想到自身学历与职业地位时"
+          ],
+          "core_reason": "对“工作不够体面”的不安全感及对外部评价的高度依赖，担心被贴上“懒惰/无能”标签。",
+          "function": "逃避被负面评价的威胁、在主观上维持对外部世界的可预测性（通过自我保护性预期降低不确定性）。",
+          "consequence": "工作表现下降、关系受损、睡眠紊乱与焦虑加重。"
+        },
+        {
+          "behavior": "在职场中回避与同事互动、倾向独处",
+          "antecedent": [
+            "感到被他人评判或轻视时",
+            "缺乏当下明确的正向反馈时"
+          ],
+          "core_reason": "担心与他人接触会暴露“自己不够好”，因此选择撤退以减少焦虑。",
+          "function": "逃避潜在的负面评价与社交压力，短期缓解紧张。",
+          "consequence": "人际关系疏离、支持系统薄弱，进一步强化被轻视的主观体验。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 799
+}

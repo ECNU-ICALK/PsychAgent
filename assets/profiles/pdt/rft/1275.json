@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "73",
+      "name": "林睿",
+      "gender": "男性",
+      "occupation": "不适用",
+      "educational_background": "小学学生",
+      "marital_status": "不适用",
+      "family_status": "未提及",
+      "social_status": "有一位最好的朋友Cayden，平时遇到困难可以倾诉，但关于此次拒信事件尚未与任何人交流；同学与其他关系未提及",
+      "medical_history": "无显著躯体疾病；以往未因拒绝相关问题求助；无既往心理咨询或治疗史",
+      "language_features": "表达清晰，能具体描述情绪与自动化想法；语气低落、羞耻感明显；在引导下能进行反思并接纳替代解释；合作度较高；存在灾难化、非黑即白、过度概括、心理过滤、读心术等认知偏差"
+    },
+    "main_problem": "收到天才项目的拒信后，觉得名誉受损，持续反复思考这一事件并感到情绪低落。",
+    "topic": "学业压力",
+    "core_demands": "因被拒信扰动和“名誉被毁”的想法感到不堪重负，希望通过咨询学习应对与调节这些情绪与想法。",
+    "growth_experiences": [
+      "学业方面曾有正向经历：上学期数学成绩优异，去年赢得拼字比赛。上述成就强化了其“被视为聪明/保持高标准”的自我图式与他人期待感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不够好。",
+        "我的价值取决于他人对我的评价。"
+      ],
+      "special_situations": [
+        {
+          "event": "收到天才项目的拒信",
+          "conditional_assumptions": "如果没有被录取，就说明我不够聪明，名誉会被毁。",
+          "compensatory_strategies": "以完美/全或无标准要求自己，事后反复思考失败并回避与他人谈论以避免羞耻。",
+          "automatic_thoughts": "我的名誉完了；我不够聪明。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到同学或朋友会知道他未被录取（尚未收到他人实际反馈）",
+          "conditional_assumptions": "如果别人知道我的失败，他们一定会看不起我。",
+          "compensatory_strategies": "回避与朋友（如Cayden）交流，保持沉默以避免被评价。",
+          "automatic_thoughts": "他们会觉得我不够好/不够聪明。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在头脑中用这次拒信来评价自己的学业能力与‘聪明’身份",
+          "conditional_assumptions": "一次重要的失败就能定义我整体的能力与价值。",
+          "compensatory_strategies": "以“要么被录取要么就是不聪明”的标准评判自我，用单次结果标签化自己。",
+          "automatic_thoughts": "如果这次没有进，我就不算聪明。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想过往成就（如数学成绩、拼字比赛）时，注意力依然只停留在此次拒绝",
+          "conditional_assumptions": "其他成就都不重要，这次结果才说明我的真实水平。",
+          "compensatory_strategies": "忽视正向证据，持续聚焦负面事件以自我证明‘不够好’的信念。",
+          "automatic_thoughts": "那些成绩不算数，这次才是关键。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被视为聪明、维持良好名誉",
+        "fear": "害怕被否定与羞辱、被看低、失去价值感",
+        "defense_goal": [
+          "避免暴露脆弱与失败信息以维护自我形象",
+          "通过全或无标准维持可控与完美的自我叙事"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、可能是失败者的自己",
+          "object_representation": "苛刻的评判者/看不起自己的他人",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到要向好友Cayden或他人透露被拒信，或被他人询问申请结果时",
+          "interpretation": "他人会看不起我、否定我的能力（移情：将内在自我怀疑投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以含糊与回避的方式回应，如“没什么”“不想说”，降低自我暴露，语气谨慎、简短。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人肯定其以往成就、尝试平衡其看法时",
+          "interpretation": "这次拒信更重要、其它成就不足以证明我有能力",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性解释强调此次结果的决定性，用“这次不一样/更重要”等陈述否定正面证据，语气坚决但低落。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕被看不起而不愿向他人（包括最好的朋友Cayden）透露拒信",
+            "将他人想象为负面评判者，选择独自承受羞耻与挫败",
+            "持续自我否定，弱化与他人的真实连接与支持"
+          ],
+          "outcomes": [
+            "情绪低落与羞耻感加重",
+            "主观孤立感增强，支持系统未被激活",
+            "学习动力下降、对自我价值的怀疑加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心“显得软弱”，压抑表达需要与情绪",
+            "在与朋友交流前过度评估风险，迟迟不愿开启对话"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为同学和朋友会看不起他，即使没有实际证据",
+            "以他人会负面评价为由回避求助与坦诚"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "把“必须被录取才算聪明/体面”的标准当作唯一评价依据",
+            "用单次结果定义整体自我价值"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有稳定的社会支持（最好的朋友Cayden），在需要时可获得支持",
+          "过去有学业成就（数学成绩优异、拼字比赛获胜），具备真实能力证据",
+          "能清晰表达情绪与想法，愿意寻求帮助",
+          "在引导下能进行证据审查与替代性思考，具备调整认知的潜力"
+        ],
+        "negative_force": [
+          "灾难化、读心术、非黑即白、过度概括、心理过滤等认知偏差明显",
+          "高度依赖外部评价（名誉/他人看法）来确定自我价值",
+          "回避披露与寻求支持，导致主观孤立与情绪维持",
+          "对单次失败的过度重要化，弱化正向证据，强化失败叙事"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复沉思拒信事件并进行负性自我评价（反刍）",
+          "antecedent": [
+            "看到或想到天才项目与申请相关的线索",
+            "独处时回忆收到拒信的场景"
+          ],
+          "core_reason": "对名誉受损的灾难化认知以及“单次失败即可定义全部能力”的全或无信念",
+          "function": "短期内通过反刍试图获得控制感与解释，但实际回避直接情绪加工与求助",
+          "consequence": "情绪低落持续、注意和动力下降，影响学习兴趣"
+        },
+        {
+          "behavior": "回避向他人（尤其是好友Cayden）披露被拒与寻求支持",
+          "antecedent": [
+            "当想到要告诉朋友或被他人询问申请结果时",
+            "与同学/朋友互动前的预期担忧"
+          ],
+          "core_reason": "害怕被看低与羞耻，将自我否定投射为他人负面评价",
+          "function": "逃避可能的负面评价与羞耻情绪",
+          "consequence": "主观孤立感增强，支持系统未被激活，痛苦维持"
+        },
+        {
+          "behavior": "以一次拒绝来定义整体学业能力的言语/认知评判",
+          "antecedent": [
+            "谈及学业身份或成就话题时",
+            "比较过往成就与当前挫折时"
+          ],
+          "core_reason": "非黑即白思维与过度概括，外部验证取向强",
+          "function": "为当前情绪与自我怀疑提供看似一致的解释框架（合理化）",
+          "consequence": "自尊受损、学习动机下降，进一步强化负性自我图式"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1275
+}

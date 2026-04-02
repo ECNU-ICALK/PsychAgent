@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "林杉",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "社交支持良好（有一群支持的朋友，但尚未与他们讨论钓鱼失望的情绪）",
+      "medical_history": "无显著身体疾病；未接受过心理治疗；无类似问题史",
+      "language_features": "表达清晰，能反思自身思维模式，配合度高，语气平和，逻辑性较好"
+    },
+    "main_problem": "我倾向于忽视钓鱼出行中的积极面，只专注于出了什么问题，导致失望和挫败感。",
+    "topic": "情绪管理",
+    "core_demands": "因为钓鱼时的失望情绪影响了我对这项爱好的整体享受以及出行之外的心情，所以我来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我是失败者",
+        "只有达成特定目标才算成功，否则就一无是处"
+      ],
+      "special_situations": [
+        {
+          "event": "钓鱼出行未捕到心仪的鱼（如鲑鱼），与预设目标不符",
+          "conditional_assumptions": "如果没有钓到指定的鱼种，这次出行就等于失败",
+          "compensatory_strategies": "把全部注意力和时间投入到达成单一目标，忽视过程中的积极体验",
+          "automatic_thoughts": "这次出行被毁了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "某次整天尝试钓大鲈鱼，最终只钓到几条小鱼",
+          "conditional_assumptions": "如果成果不够大或不符合设定，就说明我能力很差",
+          "compensatory_strategies": "通过自我批评和贬低来逼迫自己下次更努力，或加倍设定更高期待",
+          "automatic_thoughts": "我浪费了时间，我是个糟糕的钓鱼者。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次出行前为自己设定必须捕获特定鱼种的高期待",
+          "conditional_assumptions": "我应该/必须达成既定目标，否则就不值得",
+          "compensatory_strategies": "将注意力聚焦在达成特定结果，忽略环境、体验与其他积极成果",
+          "automatic_thoughts": "为什么还要费劲，不如不去。",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在其他活动中未按计划进行时",
+          "conditional_assumptions": "如果事情没有按计划进行，就说明一切都搞砸了",
+          "compensatory_strategies": "用负面自我对话强化自我要求，减少对积极面的关注",
+          "automatic_thoughts": "又失败了，我做什么都不行。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过达成明确结果来确认自我价值并获得成就感",
+        "fear": "害怕失败被视为无能，从而让整个体验失去意义并引发自我否定",
+        "defense_goal": [
+          "通过坚持高标准、关注结果并批评自我来维持控制感、避免面对失败带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败、需要通过成绩证明自身价值的人",
+          "object_representation": "苛刻的评判者/内在化的外界标准（不达标即否定我）",
+          "linking_affect": "挫败、羞愧、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈到一次未达成钓鱼目标的经历，或被邀请回看积极方面时",
+          "interpretation": "将未达成等同于被否定，担心放松标准就失去价值（移情：把内在苛刻标准投射到咨询情境）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "用温和、共情的语气，先验证其失望与压力，再邀请其观察证据、区分结果与价值，避免直接反驳或评判。"
+        },
+        {
+          "trigger_condition": "当咨询师建议降低目标压力、关注过程体验时",
+          "interpretation": "体验为不坚持高标准就会变得不重要或被看轻（移情：将外界要求内摄为绝对规则）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "承认其标准的重要性，同时探索这些标准的来源与适用情境，鼓励其以自身体验为依据灵活调整规则。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将未达成目标的钓鱼出行视为“被毁了”，认为没有意义",
+            "当结果不符预期时，体验中的自然与宁静被忽略"
+          ],
+          "outcomes": [
+            "失去对爱好的享受",
+            "情绪低落、挫败感增强",
+            "对其他活动的心情和动力产生负面影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“必须/应该”的方式设定钓鱼目标（必须钓到特定鱼种）",
+            "将未达成结果等同于失败，坚守僵化标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "在未达成目标时出现强烈的自我贬低（如“我是个糟糕的钓鱼者”）",
+            "对结果过度敏感，忽视当下体验与积极面"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在钓鱼出行未捕到心仪的鱼时，来访者通常会只关注负面并产生失望与沮丧，从而难以享受过程与当天其他积极体验。",
+          "unique_outcome": "去年某次钓鱼时，她没有给自己太多压力，顺其自然地享受过程，并且捕到一条大鳟鱼后感到自豪与满足，整日心情良好。",
+          "reason": "线索：不同做法与心态——当时未设定刚性目标、将注意力放在当下体验与享受上，因此压力较低、积极体验更显著。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友群（尽管尚未讨论该问题）",
+          "能觉察并描述负性自动思维与认知模式",
+          "曾有成功的钓鱼经历并能回忆积极感受",
+          "愿意尝试用“替代视角”重构思维与练习感恩"
+        ],
+        "negative_force": [
+          "黑白/全或无思维导致将未达成等同失败",
+          "心理过滤与否定积极使得积极体验被忽略",
+          "为自己设定僵化的“应该”目标，压力过大",
+          "自我贬低与外部结果捆绑自我价值，影响心情与动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在钓鱼未达成预设目标时出现强烈失望与自我贬低（负性自我对话）",
+          "antecedent": [
+            "出行前设定要钓到特定鱼种的高期待",
+            "当天未能捕到目标鱼或只捕到较小鱼",
+            "长时间尝试特定目标未果"
+          ],
+          "core_reason": "认知歪曲（黑白思维、心理过滤、否定积极）使其将“未达成”视为“彻底失败”，并把自我价值与结果绑定",
+          "function": "通过自我批评维持高标准与控制感，同时回避面对不确定与挫败的情绪",
+          "consequence": "钓鱼的乐趣下降、情绪低落持续至日常生活，影响对其他活动的享受与心情"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1150
+}

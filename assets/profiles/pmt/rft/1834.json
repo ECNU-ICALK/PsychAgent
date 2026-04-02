@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "陈明宇",
+      "gender": "男",
+      "occupation": "全职妈妈",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "丈夫是一名工程师，当前怀有第二个孩子",
+      "social_status": "与丈夫的关系因对未来的焦虑而紧张；有支持性的丈夫可以倾诉",
+      "medical_history": "既往无类似心理问题或治疗史；无显著躯体疾病",
+      "language_features": "未提及"
+    },
+    "main_problem": "我一直在为未来的工作前景感到严重的焦虑。这些症状是在我得知自己怀上第二个孩子后开始的。",
+    "topic": "职业发展",
+    "core_demands": "意识到我的焦虑正在影响日常功能和幸福感，这促使我此时寻求咨询。我觉得需要专业的帮助来处理我的焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/能力不足",
+        "我的价值取决于是否在外工作并有经济贡献"
+      ],
+      "special_situations": [
+        {
+          "event": "得知自己怀上第二个孩子",
+          "conditional_assumptions": "如果因为照顾两个孩子而长时间脱离职场，我就很难再被雇用，这等于失败。",
+          "compensatory_strategies": "通过对自己说“机会会出现”的方式进行自我安慰以缓解焦虑",
+          "automatic_thoughts": "我再也不会有在家外工作的机会了。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "清晨醒来时开始思考孩子长大后自己的职业选择",
+          "conditional_assumptions": "如果我无法清晰规划重返职场的路径，就意味着我将失败并且没人会雇用我。",
+          "compensatory_strategies": "与丈夫沟通并寻求情感上的安慰与支持",
+          "automatic_thoughts": "没有人会雇用像我这样离开职场多年的人。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "注意到并思考简历上的空档",
+          "conditional_assumptions": "如果简历存在空档，雇主就会认为我不胜任并否定我。",
+          "compensatory_strategies": "查阅帮助重返职场的项目与资源以寻找可能性",
+          "automatic_thoughts": "我的技能已经过时了。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到自己可能无法在经济上做出贡献并担心让家人失望",
+          "conditional_assumptions": "如果我不能在经济上有所贡献，就会让家人失望，说明我没用。",
+          "compensatory_strategies": "通过自我安慰并从丈夫处获得肯定来降低内疚感",
+          "automatic_thoughts": "我会让家人失望。",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并在家庭与职业中都体现自身价值",
+        "fear": "害怕因职场中断而被拒绝与评判，从而让家人失望",
+        "defense_goal": [
+          "通过预想最坏结果和自我安慰来控制焦虑、避免被拒绝带来的痛苦"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "能力不足、可能不被雇用的求职者",
+          "object_representation": "苛刻挑剔、否定简历空档的雇主/社会",
+          "linking_affect": "恐惧、羞耻、无望"
+        },
+        {
+          "self_representation": "可能让家人失望的照料者",
+          "object_representation": "支持但担心被我辜负的伴侣/家人",
+          "linking_affect": "内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在家庭角色（两个孩子的母亲）与职业自我之间感到选择受限与不确定",
+            "清晨醒来即被对未来的不确定与恐惧笼罩",
+            "担心简历空档与技能过时影响重返职场"
+          ],
+          "outcomes": [
+            "持续的焦虑与紧张（胃部发紧）",
+            "注意力与自我照顾受损",
+            "与丈夫关系受压"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的丈夫，可进行沟通与获得鼓励",
+          "主动寻找信息（阅读重返职场项目）",
+          "注意到他人成功重返职场的案例，具备借鉴与希望感",
+          "愿意寻求专业帮助，动机良好"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括与预测未来等认知偏差",
+          "对不确定性高度敏感，早晨的反刍性担忧明显",
+          "担心简历空档与技能过时导致的自我怀疑",
+          "将自我价值过度与外出工作/经济贡献捆绑",
+          "焦虑已影响日常功能与伴侣关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对未来工作前景的过度担忧与灾难化思维（显著焦虑与无助感）",
+          "antecedent": [
+            "早晨醒来",
+            "想到孩子长大后的职业选择",
+            "得知怀上第二胎",
+            "看到或想到简历上的空档/技能可能过时",
+            "与丈夫谈论工作与未来"
+          ],
+          "core_reason": "将简历空档与全职照料角色解释为“能力不足/无人录用”，伴随非黑即白与灾难化的未来预测",
+          "function": "通过担忧和最坏情景预测获得短暂的控制感与心理准备，回避直面不确定性带来的焦虑",
+          "consequence": "持续紧张与胃部发紧，注意力与自我照顾受损，夫妻关系紧张，日常功能下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1834
+}

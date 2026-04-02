@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林凯琳",
+      "gender": "女",
+      "occupation": "市场营销从业者（兼营线上商店）",
+      "educational_background": "市场营销学位",
+      "marital_status": "单身",
+      "family_status": "独居，所在城市无直系亲属",
+      "social_status": "有少数密友，但对与业务相关的自我怀疑不愿谈论，因焦虑而感到一定的孤立",
+      "medical_history": "无类似心理问题史；未接受过心理咨询；无重大躯体疾病",
+      "language_features": "配合度高，表达清晰有条理，能识别并描述情绪与身体反应；愿意记录触发情境与想法，整体沟通顺畅"
+    },
+    "main_problem": "在经营线上业务的能力方面持续出现自我怀疑与不足感，尤其在早上没有客户时加重，并影响工作动力与效率。",
+    "topic": "职业发展",
+    "core_demands": "寻求咨询以应对自我怀疑对在线业务工作动机与效率的负面影响，学习更平衡地评估情境并改变消极思维。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不称职/不胜任的",
+        "我注定不会成功（作为店主）"
+      ],
+      "special_situations": [
+        {
+          "event": "整个上午没有任何客户/订单",
+          "conditional_assumptions": "如果短时间没有客户，就证明我不适合做店主、能力不足",
+          "compensatory_strategies": "陷入反刍和自我怀疑，减少实际行动；尝试强迫自己保持“积极”但收效有限",
+          "automatic_thoughts": "我撑不下去，我不适合当店主",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "生意清淡的时段（早上或当日开局不佳）",
+          "conditional_assumptions": "必须持续有客户才算表现良好，否则就是失败",
+          "compensatory_strategies": "把注意力集中在“没有客户”的负面线索，忽略其他经营指标与可控任务",
+          "automatic_thoughts": "没有人对我的产品感兴趣",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "早上没有客户后当日仍未见明显进展",
+          "conditional_assumptions": "如果现在开局不好，接下来也只会更糟",
+          "compensatory_strategies": "预期失败导致投入度下降，推迟或减少改进尝试",
+          "automatic_thoughts": "我的业务不会成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "销售走低时查看业务表现",
+          "conditional_assumptions": "销量不佳完全说明我个人不行",
+          "compensatory_strategies": "自责并回避与朋友讨论以避免显得无能",
+          "automatic_thoughts": "都是我做错了",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定为有能力、能成功地经营事业",
+        "fear": "害怕被否定为不称职、害怕失败带来羞耻与被评价",
+        "defense_goal": [
+          "保持自我控制与独自承担以避免外界评价",
+          "回避向他人求助与披露脆弱以降低羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、可能失败的创业者/从业者",
+          "object_representation": "苛刻的评判者或不感兴趣的他人与客户",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询或日常被问及是否向朋友倾诉或寻求支持时",
+          "interpretation": "认为一旦暴露困难就会被视为无能，像被苛刻评判一样不被接纳",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "婉转回避深入脆弱细节，强调“我不太习惯麻烦别人”，语气克制，关注一般性策略而非个人脆弱经历。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有少数朋友但不愿讨论与业务相关的自我怀疑，选择独自承受",
+            "因担忧与羞耻而减少社会支持的使用，主观感到孤立"
+          ],
+          "outcomes": [
+            "焦虑加重并反复反刍",
+            "睡眠受扰",
+            "工作动力与专注度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被评价而不向朋友倾诉与求助",
+            "将销量不佳全归咎于自己，过度自责并收紧与他人的接触"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "本可向朋友寻求情绪支持与建议，却转而独自承受与自我苛责",
+            "在需要外部反馈时，选择闷在心里并内化为自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "日常工作（市场营销岗位）表现总体稳定，具备相关专业背景",
+          "求助动机明确，愿意记录并觉察触发情境与自动思维",
+          "能够识别情绪与身体反应，愿意尝试重构与正向重评",
+          "拥有一定的社会网络（有少数密友），潜在支持资源可被激活"
+        ],
+        "negative_force": [
+          "自我怀疑显著，存在过度概括、心理过滤、预测未来与个人化等认知偏差",
+          "反刍增多，侵占行动时间，削弱问题解决与执行",
+          "睡眠受扰导致精力与专注下降，形成负性循环",
+          "不愿向朋友披露困扰，社会支持使用不足，主观孤立感增强"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍与担忧，导致工作动机下降与执行回避",
+          "antecedent": [
+            "早晨或当日开局没有客户/订单",
+            "生意整体处于清淡期"
+          ],
+          "core_reason": "将短期无客户灾难化并过度概括为长期失败，个人化归因强化自我怀疑",
+          "function": "短期逃避不确定性与失败感，获得暂时的自我安慰与控制感",
+          "consequence": "减少实际行动与尝试，经营效率与创造性下降，进一步验证“无能”的负性信念"
+        },
+        {
+          "behavior": "入睡困难与在床上反刍（睡眠受焦虑影响）",
+          "antecedent": [
+            "夜间回想当天无客户或担忧业务前景",
+            "临睡前关注负面业务数据或自我评估"
+          ],
+          "core_reason": "对业务前景的负性预测与自我贬抑激活焦虑，难以停止思维",
+          "function": "通过持续思考试图获得控制感或找到“完美解法”，短期缓解不确定感",
+          "consequence": "睡眠质量下降，次日精力与专注受损，白天工作效率降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 368
+}

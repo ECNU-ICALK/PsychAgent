@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "许安美",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位朋友可交谈，但尚未与其分享工作相关恐惧；在新单位与同事互动较少，主观上感到被孤立",
+      "medical_history": "无重大躯体疾病；无既往心理治疗/精神科就诊史",
+      "language_features": "表达清晰，逻辑性好，能自我反思与配合；情绪以焦虑为主，提及“想到上班胃就翻腾”的躯体化不适"
+    },
+    "main_problem": "我觉得新同事讨厌我，而且我很快会被解雇。",
+    "topic": "人际关系",
+    "core_demands": "这些孤立感和被解雇的恐惧正在影响我的心理健康和工作表现；我想在工作中感觉更有连接和更安全，也想对自己和工作感觉更好。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不被喜欢/不被接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "午餐时尝试加入同事谈话却被敷衍",
+          "conditional_assumptions": "如果我说话没有被热情回应，就说明我不被喜欢、不合群",
+          "compensatory_strategies": "主动寒暄、尝试制造话题以获得接纳",
+          "automatic_thoughts": "他们不喜欢我，我很无聊",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "提前完成项目却无人评论",
+          "conditional_assumptions": "如果没有得到他人的认可与赞美，说明我做得不够好/我没有价值",
+          "compensatory_strategies": "通过更努力表现与提高产出证明自己",
+          "automatic_thoughts": "我不可见、我还是不够好",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "团队会议中发言被打断或意见被忽视",
+          "conditional_assumptions": "如果我的观点不被采纳，就说明他们看不起我或不喜欢我",
+          "compensatory_strategies": "更用力地准备与发言以证明能力",
+          "automatic_thoughts": "我是个局外人，他们排斥我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "看到同事彼此聊天融洽，自己走进房间后气氛改变",
+          "conditional_assumptions": "如果他们不和我互动，说明他们在议论我/讨厌我，我会被边缘化甚至被解雇",
+          "compensatory_strategies": "尝试加入或通过工作表现来赢得好感",
+          "automatic_thoughts": "他们肯定不喜欢我，我可能会被开除",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被看见与认可，建立归属感",
+        "fear": "害怕被拒绝、被贬低与被抛弃，进一步担心被解雇与失去价值",
+        "defense_goal": [
+          "通过高度自我监控与放大负面线索来避免“被拒绝”的打击",
+          "以加倍努力与产出证明自身价值，以交换接纳与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够有趣、容易被忽视的局外人",
+          "object_representation": "冷漠、排斥或苛刻评价的同事群体",
+          "linking_affect": "孤独、羞耻、焦虑与无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回忆并权衡正负证据、关注正向反馈时",
+          "interpretation": "正向证据“分量不够/不算数”，保持“他们不喜欢我”的信念更安全",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "温和共情其受伤感，承认正向证据显得“微弱”的主观体验，同时以好奇语气共同细化证据与比例，不对抗、不过度劝说。"
+        },
+        {
+          "trigger_condition": "谈及进入房间后气氛变化、或同事相互交谈而未与其互动的情境",
+          "interpretation": "将他人的沉默与忙碌理解为对自己的负面看法（他们在议论/讨厌我）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "区分“事实与推断”，请其举证并探索其他可能解释；语气保持中性探询，避免评判。"
+        },
+        {
+          "trigger_condition": "当想到可能被解雇或工作表现未被注意时",
+          "interpretation": "把失望与不安转成对自己的苛责与不足归因（“我不够好/不该这样”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "先标定情绪与需求（被看见/被接纳），再温和外化问题、减少自责语言的使用强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "入职新环境后与同事互动有限，主观体验为“被孤立、是局外人”",
+            "看到同事彼此热聊而自己难以融入"
+          ],
+          "outcomes": [
+            "持续的焦虑与担忧被解雇",
+            "胃部不适等躯体化反应",
+            "工作表现受影响",
+            "对旅行与与猫互动等日常乐趣的兴趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将同事的沉默/忙碌解读为“他们讨厌我、在议论我”",
+            "进入房间后气氛变化即被理解为针对自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我不够有趣/不够好”，“无论做什么都不够”",
+            "在正向反馈出现时仍快速否定其价值（认为“不算数”）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在新工作环境中，许安美通常觉得同事讨厌自己、被排斥，因而感到强烈焦虑并担心被解雇，正向互动很少出现。",
+          "unique_outcome": "一次正式汇报中有同事称赞其演示/表达能力，这次获得了积极反馈，与以往被忽视的体验不同。",
+          "reason": "线索：在正式场景中其专业能力被清晰看见，反馈路径明确，因而更容易触发积极回应。"
+        },
+        {
+          "target_problem": "在日常协作与非正式交流情境下，她通常难以被邀请参与，进而感到自己是“局外人”。",
+          "unique_outcome": "几周前有同事在任务受阻时主动征求她的意见，互动顺畅，让她感到被需要与被认可。",
+          "reason": "线索：他人带着具体问题主动求助、角色与目标明确，使其专业价值更易被看见并得到肯定。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备扎实的专业能力与产出（能提前完成项目、演示获赞）",
+          "已出现的少量正向互动经验（被同事征求意见、收到称赞）",
+          "愿意尝试新方法并保持合作态度",
+          "有一定的社会支持基础（有几位朋友可联系）"
+        ],
+        "negative_force": [
+          "灾难化、读心术与预测未来等认知偏差显著",
+          "过度依赖外部评价来界定自我价值（外部验证）",
+          "自我苛责与负性选择性注意，易忽略积极证据",
+          "新环境中客观互动频次较低，强化了主观孤立体验",
+          "持续焦虑与躯体不适削弱工作与生活投入度"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作场景中的反复担忧与负性解读（“他们讨厌我/我会被解雇”），伴随焦虑与胃部不适",
+          "antecedent": [
+            "新入职后与同事互动较少",
+            "团队会议中发言被打断或被忽视",
+            "看到同事彼此交谈融洽而自己未被邀请参与"
+          ],
+          "core_reason": "对被接纳的高需求与外部验证依赖，伴随灾难化、读心术与预测未来等认知偏差维持警觉",
+          "function": "通过预警最坏结果以获得控制感、回避不确定性与潜在拒绝带来的情绪痛苦",
+          "consequence": "焦虑升高与躯体化不适；工作表现受影响并进一步削弱社交投入，生活乐趣下降"
+        },
+        {
+          "behavior": "否定或削弱正向反馈（将称赞与被征询意见视为“分量不够/不算数”）",
+          "antecedent": [
+            "被同事称赞演示能力",
+            "被同事主动征求意见"
+          ],
+          "core_reason": "“我不够好/不被喜欢”的核心信念与确认性偏差维持，避免与既有自我图式冲突",
+          "function": "维持认知一致性、降低期望以避免希望落空的痛苦",
+          "consequence": "自尊与归属感难以修复，持续的孤立感与焦虑得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 594
+}

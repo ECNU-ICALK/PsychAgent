@@ -1,0 +1,219 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "林静",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "单身",
+      "family_status": "父母来自日本；居住在加拿大多伦多",
+      "social_status": "有少数密友，但因工作压力与时间不足与亲友关系紧张；尚未向朋友充分分享自己的压力程度",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；以往工作压力可通过自我照护管理",
+      "language_features": "表达清晰、逻辑较为连贯，语气疲惫与消极；能配合咨询，但对干预持怀疑态度；倾向关注负面并自我批评"
+    },
+    "main_problem": "当老师让我感到压力很大，尽管我热爱学生；长时间工作让我失眠，难以在工作之外放松。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为工作压力显著影响我的日常生活和整体福祉。",
+    "growth_experiences": [
+      "自从教学职业生涯开始就持续出现并维持的工作相关压力：源于工作要求高与满足期望的压力；在过去可通过自我照护（放松与时间管理）勉强缓解，但近年来加重为每日在工作日更明显的持续性担忧与失眠；此前未接受心理咨询；无重大躯体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任教师工作",
+        "我会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "一节课进展不顺，学生没有理解教学内容",
+          "conditional_assumptions": "如果一节课没有达到预期效果，就说明我不适合当老师/不够好",
+          "compensatory_strategies": "加班备课、反复自我批评，减少休息与放松",
+          "automatic_thoughts": "我不够好，我在辜负学生，也许我不该当老师",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "工作日任务堆积、长时间加班导致睡眠不足",
+          "conditional_assumptions": "必须完成所有任务并满足所有期望，否则就是失败",
+          "compensatory_strategies": "强迫延长工作时间、压缩社交与自我照护",
+          "automatic_thoughts": "我永远做不完，会搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面临学校与家长的高期望压力",
+          "conditional_assumptions": "只有满足他人期望才能证明我有价值与胜任",
+          "compensatory_strategies": "把更多时间投入工作，减少与朋友相处以避免被评价",
+          "automatic_thoughts": "我做得不够，我会让他们失望",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在忙碌的工作日结束后回顾当天工作时",
+          "conditional_assumptions": "只要有错误就意味着整体不好，积极面不重要",
+          "compensatory_strategies": "反刍问题、列更多任务清单以试图修正",
+          "automatic_thoughts": "今天都是问题，我做得很差",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职且有价值的教师，并能照顾好学生",
+        "fear": "害怕失败、害怕让学生与他人失望、害怕被评判为不胜任",
+        "defense_goal": [
+          "通过加班与自我苛责来避免失败与被批评",
+          "减少社交以降低被评价的风险并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、疲惫的教师",
+          "object_representation": "苛刻且高要求的评判者（学校/家长/自我理想）",
+          "linking_affect": "焦虑、内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出现实检验或重构负性思维时",
+          "interpretation": "将咨询师的建议理解为对自己能力的质疑，认为“这些方法对我不起作用”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气犹疑、重复强调此前方法都不起作用，列举诸多客观理由说明无法改变，以维持既有看法。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其深入感受与表达情绪（如焦虑、内疚）时",
+          "interpretation": "将情绪表达视为会失控或影响工作，因此尽量将情绪与事件分离、回避情绪体验",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以事实与任务为主的平淡叙述，减少情感词汇与主观感受，迅速把话题转回工作细节与安排。"
+        },
+        {
+          "trigger_condition": "当咨询师肯定其努力或能力，或探询其优势时",
+          "interpretation": "将他人的肯定听成隐含的更高标准，随即自我批评“我还不够”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“我没有做够”“我让学生失望”），语气内疚，降低自我价值感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "由于工作压力与时间不足，与朋友和家人关系紧张",
+            "未向密友充分分享自己的压力程度",
+            "感觉教学正在“吞噬”个人生活"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "难以放松",
+            "睡眠受损"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被工作要求与满足期望的压力束缚，感觉教学占据了整个人生",
+            "难以选择休息与自我照顾，持续加班"
+          ],
+          "outcomes": [
+            "持续担忧与内疚",
+            "身心疲惫",
+            "生活质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责并认为自己“不够好”“会搞砸”",
+            "对失败高度担心、每日反复思虑",
+            "以高标准要求自身，谨慎而紧张地面对工作与人际"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将学校/家长的期望视为必须达成的个人标准",
+            "以满足他人期待来判断自我价值",
+            "为迎合期待而牺牲休息与社交"
+          ]
+        },
+        {
+          "mode": "融合",
+          "definition": "个体自我与他人或群体边界不清，倾向一致，消融个体意识，与“退缩”对应。",
+          "manifestations": [
+            "自我与工作边界不清，感觉工作“占据了整个人生”",
+            "难以说“不”，缺少自我照顾与个人时间"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱学生，对教学有投入",
+          "主动尝试多种放松与时间管理策略",
+          "拥有少数密友可作为潜在支持",
+          "愿意寻求咨询并探索思维模式"
+        ],
+        "negative_force": [
+          "过度自我苛责与高标准期待",
+          "长期担忧与认知偏差（心理过滤、否定积极、灾难化预测）",
+          "长期加班与睡眠不足导致身心耗竭",
+          "社交回避与关系紧张，支持利用不足",
+          "将自我价值过度建立在外部评价之上"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作相关的持续性焦虑与过度担忧",
+          "antecedent": [
+            "工作日任务堆积",
+            "当事情不按计划进行",
+            "面临满足外界期望的压力"
+          ],
+          "core_reason": "长期高要求的职业环境与对失败的灾难化预测、心理过滤与否定积极所致的认知偏差",
+          "function": "维持警觉以避免被认为不胜任（短期提供控制感）",
+          "consequence": "难以在工作外放松、睡眠受损、工作专注下降"
+        },
+        {
+          "behavior": "睡眠受损/失眠",
+          "antecedent": [
+            "长时间工作",
+            "持续性担忧与反刍"
+          ],
+          "core_reason": "对工作与失败的持续性担忧导致生理与认知激活，难以入睡",
+          "function": "由担忧维持的警觉带来短期的“准备就绪”感（无意功能）",
+          "consequence": "注意力下降、工作表现受影响、身心疲惫"
+        },
+        {
+          "behavior": "对亲友易怒与疏离",
+          "antecedent": [
+            "压力高、睡眠不足时",
+            "被询问或需要社交时"
+          ],
+          "core_reason": "高压下的情绪耗竭与内在自责导致将情绪发泄到亲友并回避互动",
+          "function": "逃避社交需求、节省时间与精力以应对工作",
+          "consequence": "亲友关系紧张、社会支持减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 133
+}

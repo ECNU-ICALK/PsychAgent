@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "林乔",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "高中毕业证",
+      "marital_status": "单身",
+      "family_status": "与父母同住，尚未向父母披露性取向",
+      "social_status": "有几位亲密朋友可交谈，但未向他们披露此具体问题；因经常误解他人意图，人际关系紧张，社交中感到孤立与被误解",
+      "medical_history": "无既往心理治疗或心理问题史；无重大躯体疾病",
+      "language_features": "表达清晰，能具体举例；配合度较好；语气中立，略显紧张"
+    },
+    "main_problem": "我难以理解他人的意图，常常过于字面化地解读，导致我难以准确读人。这一问题每日在与朋友和家人的对话中出现，使我常常误解他人的意图；近几个月愈发明显，可能与向父母隐瞒性取向的压力有关。",
+    "topic": "人际关系",
+    "core_demands": "我意识到难以理解他人意图与过度字面化正在影响我的关系并造成痛苦，促使我寻求咨询；希望通过练习理解他人的意图与社交线索，改善社交互动与关系。",
+    "growth_experiences": [
+      "该问题“从记事起就存在”，近几个月因向父母隐瞒性取向的压力而加重。在与朋友与家人的日常对话中，林乔频繁误读他人意图，出现尴尬场面（如把朋友的玩笑当真），导致关系紧张、感到孤立与被误解。虽有少数亲密朋友，但尚未向他们披露此具体问题。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定无法读懂他人",
+        "我在社交理解上有缺陷，容易把话当真"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友开玩笑时，其他人都在笑，我当真并因此陷入尴尬",
+          "conditional_assumptions": "如果我无法理解玩笑或隐含意图，就说明我不擅长社交，会被他人嘲笑或疏远",
+          "compensatory_strategies": "在类似场景中减少发言、保持谨慎，尝试通过线上资源和自助书籍学习社交技能",
+          "automatic_thoughts": "我不懂他们在说什么；他们会觉得我很笨",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "学校的群体对话中，难以跟上并理解细微差别",
+          "conditional_assumptions": "如果我不能迅速理解群体对话的笑点和细节，我就不该发言，否则一定出错",
+          "compensatory_strategies": "在群体对话中保持沉默、回避参与以避免说错话",
+          "automatic_thoughts": "我会说错话；我肯定听不懂他们的笑点",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与父母互动时，为避免暴露性取向而高度紧张和谨慎",
+          "conditional_assumptions": "如果我显露真实性取向，父母会失望或拒绝我，因此必须格外警惕对他们话语与意图的解读",
+          "compensatory_strategies": "避免谈及私人话题、减少自我暴露，刻意维护表面和谐",
+          "automatic_thoughts": "他们会发现并因此不再接纳我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与亲友的日常对话里频繁误解他人意图，关系因此紧张",
+          "conditional_assumptions": "如果我一次误解他人意图，说明我一直都不擅长读人，以后也不可能做好",
+          "compensatory_strategies": "降低社交频率、尽量按字面理解避免“误读”，以求减少错误",
+          "automatic_thoughts": "我永远不可能读懂别人",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，尤其希望父母与同伴接纳真实的自我",
+        "fear": "害怕因误解或暴露真实自我而被嘲笑、拒绝或失去重要关系",
+        "defense_goal": [
+          "通过保持谨慎与减少自我暴露来维持安全与关系稳定",
+          "以理性与技巧化的方式处理人际，降低情感风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、紧张的局外人",
+          "object_representation": "难以读懂、可能嘲笑或否定我的他人",
+          "linking_affect": "焦虑、尴尬、孤立"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要谈及亲密关系或表达真实自我（如性取向）的话题时",
+          "interpretation": "倾向将他人的沉默或玩笑理解为潜在的否定与嘲笑（移情：将过往被误解的体验投射到当前关系）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用客观、结构化的语言，强调步骤与策略，回避强烈情绪词；语气平稳、克制。"
+        },
+        {
+          "trigger_condition": "当置身群体对话并担心说错话时",
+          "interpretation": "将社交结果看成非黑即白：一旦说错就会被全体否定（移情：将对他人的评价放大为全局性的拒绝）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化词语（如“永远”“一定”“不可能”），坚持僵化判断；语气谨慎、回避展开。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "隐藏性取向，不敢与亲友分享真实自我",
+            "在群体对话中保持沉默或难以融入，感到被误解",
+            "日常社交中频繁误读他人意图，产生隔离感"
+          ],
+          "outcomes": [
+            "关系紧张",
+            "孤立与被误解感增强",
+            "社交回避与尴尬"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在家庭关系中因隐瞒性取向而压抑自我表达",
+            "对社交线索过度谨慎、害怕说错话"
+          ],
+          "outcomes": [
+            "压力升高",
+            "自我限制与自我监控增加",
+            "难以自发参与群体互动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "预设自己会说错话，减少在群体对话中的发言",
+            "在咨询中更偏好结构化技术与步骤，较少表达强烈情感",
+            "长期隐藏性取向并谨慎解读父母的言行"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转向自己。",
+          "manifestations": [
+            "不向朋友披露具体困扰，将压力内化自我消化",
+            "在群体互动中收敛表达以避免风险"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并尝试结构化的行为实验",
+          "有几位亲密朋友可提供一定的支持",
+          "能具体描述问题情境、配合度较好",
+          "学业/工作功能总体稳定，未显著受影响"
+        ],
+        "negative_force": [
+          "长期字面化解读与多种认知歪曲（黑白思维、过度概括、个人化、心理过滤、预测未来）",
+          "因隐瞒性取向承受压力，进一步削弱社交解读能力",
+          "日常误读他人意图，导致关系紧张与孤立感",
+          "对群体对话的预期失败与自我限制（自我监控）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交互动中过于字面化地解读他人并频繁误读意图，伴随回避发言与预期自己会说错话",
+          "antecedent": [
+            "朋友开玩笑或群体对话时",
+            "与家人交流需要解读隐含意图的情境",
+            "在隐藏性取向压力下参与社交场景"
+          ],
+          "core_reason": "长期的字面化倾向与对被嘲笑/被拒绝的担心，在隐瞒性取向的压力下被强化，并伴随多种认知歪曲",
+          "function": "逃避出错与被否定的风险，保护自尊与关系",
+          "consequence": "人际关系紧张、尴尬与孤立感增加，日常社交受到影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 195
+}

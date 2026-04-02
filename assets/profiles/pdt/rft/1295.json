@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "李维",
+      "gender": "女",
+      "occupation": "IT专员",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "父亲在Stifle工作，其他家庭成员未提及",
+      "social_status": "有少数朋友可交流，但未与他们讨论职业相关的不安全感；与同事关系因负面心态而紧张",
+      "medical_history": "未经历类似心理问题；未接受心理治疗；无重大躯体疾病",
+      "language_features": "语气消极，表达清晰并能配合；反复使用绝对化表述（如“总是”），自我怀疑明显"
+    },
+    "main_problem": "我相信自己会一直在升职中被更有资格的人排除，这一信念源于最近一次升职被拒；因此对职业前景和职业成长感到压力与焦虑，并且这些想法在看到同事升职时会规律出现。",
+    "topic": "职业发展",
+    "core_demands": "最近的升职事件及反复出现的关于职业前景的负面想法促使我寻求支持与指导。",
+    "growth_experiences": [
+      "最近在公司晋升中未被选中，引发“我不如同事、将来总会被淘汰”的信念与感受；此后工作表现受影响、与同事关系紧张、焦虑干扰作息与睡眠；尽管过去曾在工作中被认可，但在这次事件后倾向否定这些正面经历。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够资格/不如他人",
+        "我不够好，失败就代表我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "公司宣布晋升结果，别人获得升职而非李维",
+          "conditional_assumptions": "如果这次没有被升职，就说明我不够资格，未来也不会被选中",
+          "compensatory_strategies": "放弃或减少申请与尝试，以避免再次失败",
+          "automatic_thoughts": "我永远不会被选中，我不该再尝试",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到同事获得升职或表扬",
+          "conditional_assumptions": "如果他人更优秀，就等于我一无是处",
+          "compensatory_strategies": "与同事疏离，减少互动以避免比较",
+          "automatic_thoughts": "他们都比我好，我总会被淘汰",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到未来的职业前景与成长",
+          "conditional_assumptions": "如果我现在未被升职，未来职业发展将会变得糟糕",
+          "compensatory_strategies": "过度担忧和自我否定，降低投入以“自我保护”",
+          "automatic_thoughts": "我的职业前途可能完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回顾过去曾被认可的工作时刻",
+          "conditional_assumptions": "正面反馈不代表真实能力，失败才说明问题",
+          "compensatory_strategies": "否定正面证据，仅关注负面结果",
+          "automatic_thoughts": "那些认可不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与升职，证明自身价值与能力",
+        "fear": "害怕自己不够好、被否定与被排除",
+        "defense_goal": [
+          "通过自我否定与退缩来避免再次受挫和羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视且不够资格的失败者",
+          "object_representation": "他人/公司是冷静的评判者与更优秀的竞争者",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她检视以往成功或被认可的证据时",
+          "interpretation": "认为那些正面经历并不反映真实能力，失败才说明问题",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "淡化成功、强调负面事件的代表性；语气犹疑但坚持，用“可能”“不算数”等词解释正面证据。"
+        },
+        {
+          "trigger_condition": "当被建议设定小目标并尝试新的技能学习时",
+          "interpretation": "感觉改变不会有用，认为自己终将失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以消极语气表示怀疑，强调“没什么用”“不会改变”，避免承诺具体行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次晋升失败视为整体价值的否定",
+            "认为未来职业发展会持续糟糕",
+            "把自我价值强烈绑定于升职与资格"
+          ],
+          "outcomes": [
+            "焦虑与压力增加",
+            "工作表现下降",
+            "睡眠受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友但未谈及职业不安全感",
+            "与同事关系因负面心态而紧张"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "情绪难以消化与缓冲"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "使用“我不该再尝试”等绝对化句式",
+            "将升职与价值等同，僵化地以外界评判作为自我标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自我怀疑与苛责，认为同事都比自己好",
+            "不愿向朋友表达不安全感，过度谨慎地自我压抑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在工作中被认可，说明具备一定能力与潜力",
+          "拥有一定的社会支持（有几个朋友可交谈）",
+          "愿意尝试设定小目标并探索改进方案"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、个人化与非黑即白思维导致自我否定",
+          "过度依赖外部评价决定自我价值",
+          "回避申请与减少互动，社会支持利用不足",
+          "焦虑影响睡眠与日常节律，工作表现下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对职业前景与升职的过度焦虑与自我否定",
+          "antecedent": [
+            "公司宣布升职结果",
+            "看到同事获得升职或表扬",
+            "想到未来职业发展"
+          ],
+          "core_reason": "将一次升职失败认定为整体能力与价值的否定，形成灾难化与非黑即白的认知",
+          "function": "逃避潜在的再次失败与被否定，试图通过退缩来自我保护",
+          "consequence": "工作表现下降、与同事关系紧张、睡眠受影响、持续焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1295
+}

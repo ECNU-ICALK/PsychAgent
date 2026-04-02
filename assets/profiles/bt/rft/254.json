@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "制药行业员工",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一个姐妹",
+      "social_status": "与朋友和家人的关系紧张，因自责与羞耻而自我隔离",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；无类似问题史",
+      "language_features": "表达清晰、条理性较好；能具体描述事件与情绪；语气平稳但情绪低落；配合度较好；自我批评明显"
+    },
+    "main_problem": "因狗狗离家出走而体验到强烈的内疚与自责，认为自己是“世界上最差的宠物主人”。",
+    "topic": "情绪管理",
+    "core_demands": "因狗狗离家出走导致的压倒性的内疚与自责使我不堪重负，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是最差的宠物主人",
+        "都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "狗狗从家中跑出时我在看手机分心",
+          "conditional_assumptions": "如果我没有时刻保持注意力确保宠物安全，就说明我是一个不负责任、失败的主人",
+          "compensatory_strategies": "反复自责、回想事发细节并加大找寻力度（张贴海报、走访邻居、社交媒体发布）",
+          "automatic_thoughts": "如果我当时不看手机，Max就不会跑掉；都是我的错，我是最差的主人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次想到狗狗或看到其他宠物主人与宠物互动",
+          "conditional_assumptions": "如果我没有像其他主人那样时刻把控一切，就不配养宠物",
+          "compensatory_strategies": "与他人比较、回避社交以躲避羞耻感",
+          "automatic_thoughts": "我不配养宠物，我就是个糟糕的主人",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每天过去仍未找到狗狗",
+          "conditional_assumptions": "如果我没能迅速把他找回，就证明我在持续失败",
+          "compensatory_strategies": "加剧自我批评、沉浸在负性情绪中",
+          "automatic_thoughts": "我感觉越来越糟，这说明我真的失败透顶了",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "想到自己正在工作而没有投入全部时间去寻找狗狗",
+          "conditional_assumptions": "我必须不停地做更多，否则就不负责任",
+          "compensatory_strategies": "以“应该/必须”的标准苛责自己，牺牲休息与社交",
+          "automatic_thoughts": "我应该做得更多，如果没有做更多，我就是不负责任的主人",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望守护并维系与宠物的稳定依恋关系，被看见为负责任且值得被爱/信任的照顾者",
+        "fear": "害怕因自身疏忽而失去重要关系与自我价值，被他人或自己视为不称职",
+        "defense_goal": [
+          "通过强化自我责备来维持对事件的控制感与道德感",
+          "通过保持距离与自我隔离来避免羞耻与外界评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败、不称职的主人",
+          "object_representation": "被自己辜负的、脆弱需要被保护的宠物",
+          "linking_affect": "内疚、羞耻、焦虑"
+        },
+        {
+          "self_representation": "不配与他人互动、低价值的个体",
+          "object_representation": "更负责任、会评价自己的他人/宠物主人群体",
+          "linking_affect": "自卑、羞耻、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议联系家人/朋友寻求支持或讨论自我照护时",
+          "interpretation": "来访者担心一旦开口会暴露自己“不称职”的一面，认为他人会对其负面评价（移情：将自我批判投向他人视角）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责性的语言表达（如“都是我的错”），降低自我价值，拒绝或推迟求助，语气克制、避免深入他人支持。"
+        },
+        {
+          "trigger_condition": "当咨询师提出具体行动计划并评估利弊时",
+          "interpretation": "来访者将结果以非黑即白方式理解：若未完全找回宠物即视为彻底失败",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "用绝对化、全或无的措辞回应（如“要么找回Max，要么我就是最差的主人”），语气紧张，忽略中间可能性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "自我隔离，避免与朋友和家人接触",
+            "难以向亲友表达内心感受，害怕暴露“失败”的自我"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "支持系统弱化",
+            "负性情绪加重（内疚、羞耻）",
+            "睡眠受损、食欲下降",
+            "工作专注度降低"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“应该/必须做得更多”的内摄价值所束缚，体验到责任压力与自我苛责",
+            "难以容许不完美与有限性"
+          ],
+          "outcomes": [
+            "自我评价僵化与内在冲突",
+            "加剧焦虑与自责",
+            "生活节奏失衡、身心负荷增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”自我苛责的语言",
+            "以外在理想标准评判自我是否称职"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈自责与自我批评，认为自己不配开口求助",
+            "过度谨慎地与他人接触，担心暴露“失败”形象"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "本可向朋友家人寻求支持却转为自我苛责与内在折磨",
+            "在羞耻感下减少外向表达与求助行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对宠物有深厚的情感与责任感",
+          "在高压下仍主动采取行动（张贴海报、走访邻居、联系收容所）",
+          "具备一定的现实问题解决倾向（愿意评估方案与制定计划）",
+          "拥有潜在支持资源（有几个朋友与一位姐妹）"
+        ],
+        "negative_force": [
+          "强烈的内疚与自我责备倾向（个人化、绝对化）",
+          "自我隔离与回避求助，社交退缩",
+          "睡眠与饮食受影响，精力与工作专注度下降",
+          "僵化的“应该/必须”标准导致过度自我苛责"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续性的自责与内疚的反复思考（反刍）",
+          "antecedent": [
+            "想到狗狗Max",
+            "看到其他宠物主人与宠物互动",
+            "在工作中分心时联想到事件"
+          ],
+          "core_reason": "事件触发强烈的责任归因与个人化、非黑即白的认知模式（“都是我的错”“我是最差的主人”）",
+          "function": "通过自我批评维持控制感与道德感，避免面对外界评价与不确定性",
+          "consequence": "工作表现下降、失眠与食欲减退、人际关系紧张与自我隔离、情绪负担加重"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "感到羞耻时",
+            "预期他人可能询问或评价事件",
+            "想到向亲友表达内心时的不适"
+          ],
+          "core_reason": "害怕被他人视为不称职，内化高标准的“应该”，导致羞耻与不配感",
+          "function": "逃避羞耻与潜在的负面评价，短期减轻焦虑",
+          "consequence": "支持系统弱化、人际关系紧张、情绪困扰维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 254
+}

@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "林凯琳",
+      "gender": "女",
+      "occupation": "学校心理学家",
+      "educational_background": "心理学硕士学位",
+      "marital_status": "未婚",
+      "family_status": "四个孩子中最小的孩子",
+      "social_status": "有几位密友可倾诉，但因频繁自我怀疑与寻求安慰，人际关系有所紧张；工作表现未受影响；日常生活中自尊问题影响了参与地理寻宝等兴趣爱好。",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无重大躯体疾病。",
+      "language_features": "表达清晰、逻辑性较好，能自我反思，合作度高；报告焦虑与自卑，但愿意尝试记录与沟通的策略。"
+    },
+    "main_problem": "我觉得钢琴老师总是迟到，是因为她想减少和我相处的时间，因为我很差。这些念头让我感到缺乏动力、焦虑和不安，影响了我对学习钢琴的兴趣与投入。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些负面想法正在影响我学习钢琴的动力和对过程的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是糟糕的/不够有天赋的人",
+        "我不值得他人投入时间和精力"
+      ],
+      "special_situations": [
+        {
+          "event": "钢琴老师上课迟到（较为频繁）",
+          "conditional_assumptions": "如果别人对我迟到或不及时回应，就说明我不重要、我不够好。",
+          "compensatory_strategies": "通过加倍练习、提前到达、在心里自我苛责来“补偿”不足，同时回避直接与老师沟通以避免被否定。",
+          "automatic_thoughts": "她不愿意教我，因为我太差了。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在班级中与其他同学进行比较（进步/水平）",
+          "conditional_assumptions": "如果我不如同伴，就等于失败，说明我本质上很差。",
+          "compensatory_strategies": "进行苛刻的自我评估、延长练习时间以证明自己价值。",
+          "automatic_thoughts": "我不如他们，我很差，不值得老师投入。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "刚开始学习钢琴仅数月、面对新技能的压力与不确定性",
+          "conditional_assumptions": "如果我不能很快学会或表现完美，就证明我永远学不会、我就是不行。",
+          "compensatory_strategies": "把注意力集中在错误与不足上，试图通过更多练习来消除不安。",
+          "automatic_thoughts": "我学不会这件事，我一直都不行。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友安慰与肯定我的练琴表现",
+          "conditional_assumptions": "外界的正面反馈不可靠/不算数，只有完美表现才能证明我不差。",
+          "compensatory_strategies": "持续寻求安慰，但在获得安慰后又迅速否定其价值。",
+          "automatic_thoughts": "他们只是说好听的，这不代表我真的做得到。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被接纳并被认真对待（希望老师认可与投入）",
+        "fear": "害怕因为不够好而被贬低或拒绝，担心亲密接触会暴露自己的不足",
+        "defense_goal": [
+          "通过自我贬抑与将原因归咎于自身来获得对不确定性的控制感",
+          "保持间接与回避（不直接与老师沟通）以减少被明确拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生/不值得投入的人",
+          "object_representation": "冷淡或回避的权威者（不愿意投入精力的人）",
+          "linking_affect": "焦虑、自卑、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当重要他人（如老师）迟到或反馈不明确时",
+          "interpretation": "将对自身不足的恐惧投射为对方的负面意图（“她在回避我/不想教我”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气不确定、反复猜测对方意图，倾向用自责或揣测性的表述（如“是不是我太差了”），避免直接求证。"
+        },
+        {
+          "trigger_condition": "当被建议与老师直接沟通以澄清时",
+          "interpretation": "把提出需求等同于冒犯或会招致否定（担心被拒绝）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "最小化自身需求表达，使用含糊与转移的话语（如“算了，没关系”），语气轻、避免提出具体请求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在学习新技能的脆弱期将老师的迟到解读为对自我的否定，感到与他人隔离",
+            "与朋友的关系因频繁寻求安慰而紧张，但又未真正表达深层的不安全感"
+          ],
+          "outcomes": [
+            "焦虑与自卑增强",
+            "动机下降、对钢琴练习与兴趣活动（如地理寻宝）投入减少"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "负面自我贴标签与读心导致对练琴意义与价值感降低",
+            "正向反馈被否定，难以从进步中获得意义感"
+          ],
+          "outcomes": [
+            "学习动机与乐趣下降",
+            "回避直接沟通，维持消极循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不与老师直接沟通而把能量转向自我苛责与加练",
+            "在尴尬与害怕被拒绝时压下表达需求的冲动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将对自身“不够好”的恐惧归因为老师“想减少和我相处的时间”",
+            "在缺乏证据的情况下揣测他人负面意图"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我怀疑与自责，过度在意他人评价",
+            "关系中反复寻求安慰并认为正向反馈“并不算数”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一定的自我觉察与反思能力，愿意尝试记录与重构思维",
+          "存在基本的社会支持（有几位密友）",
+          "求助动机明确，愿意进行自我监测与与人沟通的尝试",
+          "职业与学业功能保持稳定"
+        ],
+        "negative_force": [
+          "自我怀疑显著，倾向外部验证（寻求安慰）",
+          "读心术、否定正向证据、过度比较等认知歪曲维持焦虑",
+          "回避直接沟通，个体化解释他人行为（个人化）",
+          "自我贴标签导致低自尊与动机下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在老师迟到时出现显著焦虑与自责，并进行读心与个人化解释",
+          "antecedent": [
+            "钢琴老师上课迟到",
+            "等待期间缺乏即时信息反馈"
+          ],
+          "core_reason": "将他人迟到归因为自身能力差的证据，伴随对被拒绝/不被重视的灾难化推断。",
+          "function": "通过自责与读心获得对不确定性的短暂控制感，避免直接求证可能带来的被拒绝风险。",
+          "consequence": "焦虑与自卑加重，学习动机下降，对钢琴练习兴趣降低。"
+        },
+        {
+          "behavior": "过度寻求他人安慰与肯定",
+          "antecedent": [
+            "出现自我怀疑或焦虑时",
+            "练琴后感觉表现不佳时"
+          ],
+          "core_reason": "内在评价脆弱，依赖外部认可来维持自我价值感。",
+          "function": "获得短期的情绪缓解与安全感。",
+          "consequence": "依赖增强，正向反馈被否定，人际关系紧张，长期无助感加重。"
+        },
+        {
+          "behavior": "回避与老师直接沟通以澄清迟到原因",
+          "antecedent": [
+            "想到要与老师讨论时间安排时产生尴尬/害怕被拒绝"
+          ],
+          "core_reason": "担心被否定或证实“自己不够好”，因此避免求证。",
+          "function": "逃避可能的负面评价或冲突，短期降低焦虑。",
+          "consequence": "误解与不确定性持续，维持负性自动化思维与情绪困扰。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 142
+}

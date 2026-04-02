@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈珊",
+      "gender": "女",
+      "occupation": "办公室工作",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友可以倾诉，但尚未与任何人讨论该具体问题",
+      "medical_history": "无重大躯体疾病；无既往心理治疗史；此前未出现类似问题",
+      "language_features": "表达清晰、配合度高、能自我反思，语气平和，态度积极"
+    },
+    "main_problem": "我在工作中经常因为想到游戏而分心，担心因此出错并被解雇。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为分心已经开始影响我的工作表现，我害怕因此失去工作。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任（容易搞砸工作）",
+        "工作出错会导致严重后果（被解雇）"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作任务很多、工作负荷增大时",
+          "conditional_assumptions": "如果在高压力下出现分心或错误，就会被解雇",
+          "compensatory_strategies": "通过制作待办清单、限制游戏时间来尝试控制分心",
+          "automatic_thoughts": "我可能会搞砸工作并被解雇",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到自己绩效下降、错过一些截止期",
+          "conditional_assumptions": "绩效一旦下降就意味着我不胜任",
+          "compensatory_strategies": "通过加班补救以避免更糟后果",
+          "automatic_thoughts": "这说明我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在进行重要项目的过程中被游戏相关想法吸引",
+          "conditional_assumptions": "如果不立即用游戏来放松，我就无法承受压力；但若分心，就会导致工作失败",
+          "compensatory_strategies": "用自我安慰（可以之后再补上）来允许短暂分心",
+          "automatic_thoughts": "我现在必须通过游戏放松，否则任务会做不完",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "尽管没有收到任何正式警告，仅被提醒要更专注",
+          "conditional_assumptions": "只要出现任何表现问题，迟早会被解雇",
+          "compensatory_strategies": "持续担忧、加强自我监控以试图避免错误",
+          "automatic_thoughts": "被解雇几乎是确定的",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过放松（游戏）来缓解工作压力并保持掌控感",
+        "fear": "害怕因分心与错误而被惩罚/被解雇，失去安全与稳定",
+        "defense_goal": [
+          "通过自我约束与补救（限制游戏、时间管理、加班）来维持安全与控制"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易分心、担心失败的员工",
+          "object_representation": "可能会惩罚/评判自己的主管与同事",
+          "linking_affect": "焦虑、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当工作任务骤增、感到压力时",
+          "interpretation": "将压力理解为“如果不马上缓解就会失败并被解雇”的信号",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以辩解的语气强调“游戏能让我放松、稍后可以补上”，弱化分心的影响。"
+        },
+        {
+          "trigger_condition": "当咨询师询问证据或最坏情况时",
+          "interpretation": "将对话视为需要用理性来证明自己可以掌控风险，弱化情绪",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观、分析性的语言罗列支持与反对证据，降低情绪表达。"
+        },
+        {
+          "trigger_condition": "当担心被经理评估或被提醒专注时",
+          "interpretation": "将主管视为潜在惩罚者，感觉自己随时可能失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "把注意力转移到游戏相关想象，暂时回避对工作压力的直接感受与表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在工作压力下渴望用游戏来放松与逃避，与职业责任之间出现选择冲突",
+            "担心失去工作带来的生活自由与安全"
+          ],
+          "outcomes": [
+            "焦虑",
+            "分心",
+            "工作绩效下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在工作任务进行中，以游戏相关想象来回避面对压力与专注的需求",
+            "谈及压力时先转向“如何放松”而非直接体验当下情绪"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁担心失误和被解雇",
+            "对自我专注和表现进行过度监控与苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作任务繁重时，来访者通常会因为想到游戏而分心，导致绩效下降并担心被解雇。",
+          "unique_outcome": "昨天在一个大项目中，尽管中途被游戏相关想法分心，来访者仍然通过加班完成工作，且未收到正式警告；主管只是提醒其需要更专注。",
+          "reason": "不同做法：使用待办清单并提醒自己需要专注；不同情境：通过延时加班完成任务；不同支持：尚未被正式警告，外部反馈相对中性。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助，态度积极",
+          "已尝试时间管理与设定游戏边界",
+          "能识别压力触发点（任务多时分心加强）",
+          "与同事和主管关系尚可（未收到正式警告）",
+          "有朋友可作为潜在支持"
+        ],
+        "negative_force": [
+          "灾难化与预测未来（担心被解雇）",
+          "在压力下通过游戏逃避导致分心",
+          "自我效能感下降、过度担忧",
+          "工作负荷较大导致注意资源受限"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作中因想到游戏而分心",
+          "antecedent": [
+            "工作任务多、工作负荷增大",
+            "进行重要项目或需要高度专注的任务",
+            "压力和焦虑上升时"
+          ],
+          "core_reason": "将游戏视为快速放松与逃避压力的途径；对“出错会被解雇”的灾难化认知强化了分心倾向",
+          "function": "短期逃避不适与压力，获得放松与愉悦",
+          "consequence": "工作表现下降、错过部分截止期、焦虑加重并担心被解雇、需要加班补救"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 456
+}

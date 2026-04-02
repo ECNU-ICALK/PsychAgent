@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "IT从业者",
+      "educitional_background": "计算机科学学士",
+      "marital_status": "未婚",
+      "family_status": "父亲曾在微软工作",
+      "social_status": "有少量工作外的朋友，担心被同事排斥，工作中的社交受影响",
+      "medical_history": "无类似心理问题史，无心理治疗史，无显著躯体疾病",
+      "language_features": "表达清晰、逻辑连贯，能描述焦虑及躯体感受（如胃部不适），配合度良好"
+    },
+    "main_problem": "我觉得同事在参加了我们一起去的Kings of Leon演唱会后，将不再愿意与我一起玩。我相信他们认为我强迫他们去参加一个他们并不感兴趣的演唱会。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些消极想法正在影响我的社交关系并造成显著痛苦，因此寻求咨询；我希望能在同事身边更自在，重新加入他们的午餐与社交。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不合群",
+        "我会被同事排斥"
+      ],
+      "special_situations": [
+        {
+          "event": "与同事一起参加Kings of Leon演唱会后（上周）",
+          "conditional_assumptions": "如果我让他们做了并不感兴趣的事情，他们就会觉得被我强迫，从而疏远我",
+          "compensatory_strategies": "在之后避免与同事一起参加社交活动或午餐",
+          "automatic_thoughts": "他们不会再愿意和我一起玩了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "演唱会过程中同事欢呼、鼓掌，事后有人反馈“这是一场很棒的演出”",
+          "conditional_assumptions": "如果别人给出正面反馈也可能只是出于礼貌，不代表真实感受",
+          "compensatory_strategies": "忽视或怀疑正面证据，持续自我怀疑",
+          "automatic_thoughts": "他们只是客气地称赞，实际上并不享受",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与同事在工作之外社交的场景",
+          "conditional_assumptions": "如果我们的兴趣不一致，我就无法融入他们的圈子",
+          "compensatory_strategies": "在社交场合保持退缩、减少参与以避免被拒绝",
+          "automatic_thoughts": "他们不想我在场",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到与同事兴趣不同或回忆演唱会细节时",
+          "conditional_assumptions": "如果没有确凿的证据证明他们喜欢与我相处，就意味着他们不喜欢我",
+          "compensatory_strategies": "反复琢磨负面可能、回避再接触以降低焦虑",
+          "automatic_thoughts": "他们的积极表现并不代表他们真的喜欢与我相处",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同事接纳与融入",
+        "fear": "害怕被拒绝、被排斥",
+        "defense_goal": [
+          "通过保持距离与回避社交来降低被拒绝的可能性并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不合群、可能被排斥的人",
+          "object_representation": "会敷衍或排斥的他者（同事）",
+          "linking_affect": "焦虑、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面临与同事的工作外社交邀约或想到与同事兴趣不一致时",
+          "interpretation": "来访者认为同事在敷衍自己并最终会拒绝自己（移情：将恐惧投射到同事的想法上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "使用共情且逐步探询的语气，邀请其具体化证据与情境，对“他们在想什么”的推测进行温和挑战，同时保持安全与接纳。"
+        },
+        {
+          "trigger_condition": "当出现来自同事的正面反馈（如称赞演出很好）时",
+          "interpretation": "来访者倾向于认为对方只是出于礼貌，否认其中的积极意义",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "引导其连结当下情绪与身体感受，区分事实与假设，减少过度解释，用具体细节核对对方的真实反馈。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心与同事兴趣不同导致无法融入",
+            "在工作外社交时预期被拒绝并感到焦虑",
+            "因恐惧而回避与同事的社交",
+            "被排斥的可能性在脑中反复盘旋"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "人际回避",
+            "工作中的友谊受影响",
+            "躯体不适（胃部不适）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在担心被拒绝时不表达真实想法与需求，将能量转为自我退缩",
+            "避免参加与同事的午餐或工作外社交活动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为同事被自己强迫、并不享受、不会再与自己来往",
+            "用“他们不想我在场”等推测替代事实证据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与同事于工作外社交时，来访者通常会预期被拒绝并感到焦虑，进而回避互动。",
+          "unique_outcome": "上周在Kings of Leon演唱会现场，来访者没有出现以往的强烈担心，与同事一起喝酒、互动，同事现场欢呼鼓掌并在事后表示“这是一场很棒的演出”，整体互动顺畅。",
+          "reason": "线索：情境不同（现场音乐与共同活动带来积极线索）；不同支持（同事的积极行为与正面反馈）；当晚注意到正向互动而非负面猜测。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "同事在演唱会的积极互动与正面反馈",
+          "来访者具备自我觉察，愿意识别并挑战消极思维",
+          "有少量工作外的朋友可提供一定支持",
+          "工作表现稳定，日常功能未受显著影响"
+        ],
+        "negative_force": [
+          "预测未来、读心术、心理过滤与否定正面等认知偏差显著",
+          "对“不合群”的担忧强化对外部接纳的依赖",
+          "因恐惧而回避社交，导致证据不足与孤立感加重"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作外回避与同事社交（不参加午餐与活动）",
+          "antecedent": [
+            "与同事在工作之外社交的情境",
+            "想到与同事兴趣不同",
+            "回忆演唱会后的担忧"
+          ],
+          "core_reason": "担心无法融入并被排斥，受读心术、预测未来、心理过滤与否定正面等认知偏差影响",
+          "function": "逃避可能的拒绝以降低即时焦虑",
+          "consequence": "工作中的友谊与连接受损，孤立感增加，持续焦虑与躯体不适"
+        },
+        {
+          "behavior": "社交情境下的焦虑与胃部不适",
+          "antecedent": [
+            "与同事在工作外社交或想到他们的看法",
+            "回忆演唱会并担心被排斥"
+          ],
+          "core_reason": "对被拒绝的恐惧以及负性自动化思维触发的生理反应",
+          "function": "警报与自我保护（通过促使回避来短期降低不适）",
+          "consequence": "耗竭与不适加重，进一步减少社交参与并强化回避模式"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1688
+}

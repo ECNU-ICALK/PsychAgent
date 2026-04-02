@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "孟婕",
+      "gender": "女性",
+      "occupation": "漫画家",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "与欣赏其作品的朋友关系积极，但自我怀疑影响其对反馈的看法",
+      "medical_history": "无重要躯体疾病史；既往未接受心理治疗或咨询；此前未出现类似心理问题",
+      "language_features": "态度中性；其他未提及"
+    },
+    "main_problem": "我正为对漫画创作的怀疑和悲观情绪所困扰。尽管朋友给予积极反馈，我仍觉得没有人会出版我的作品。",
+    "topic": "职业发展",
+    "core_demands": "这些负面想法正在阻碍我的创作过程，让我怀疑自己的能力。我希望能停止这种感觉，重新享受绘画，并更有信心提交作品以寻求出版。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的作品不会被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "当考虑向出版社投稿时",
+          "conditional_assumptions": "如果被拒绝，就说明我不够好、不值得被出版",
+          "compensatory_strategies": "减少或推迟投稿、试图忽视或分散注意力来回避不适",
+          "automatic_thoughts": "没有人会出版我的作品",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "完成一部新漫画并准备投稿时",
+          "conditional_assumptions": "一次拒绝就等同于整体失败，证明我根本不够资格被出版",
+          "compensatory_strategies": "降低创作动力、避免提交以防被否定",
+          "automatic_thoughts": "如果这次被拒绝，就说明我不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到朋友对作品的积极反馈时",
+          "conditional_assumptions": "他人的正面反馈不可靠，不能作为我有能力的证据",
+          "compensatory_strategies": "质疑并淡化正面评价，继续聚焦于可能的负面结果",
+          "automatic_thoughts": "他们只是出于礼貌在夸我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每当开始创作新的漫画作品",
+          "conditional_assumptions": "必须确保不会被拒绝，否则就不该继续创作",
+          "compensatory_strategies": "在创作过程中不断关注潜在拒绝信息、忽视中立或正面迹象",
+          "automatic_thoughts": "我只看得到被拒的可能",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作品被认可与出版，获得对自我价值与能力的肯定",
+        "fear": "害怕被出版社拒绝，并将拒绝视为对自身价值的否定",
+        "defense_goal": [
+          "通过回避投稿、忽视/分散负面念头来降低焦虑、保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易被否定的创作者",
+          "object_representation": "挑剔且可能拒绝自己的评判者/出版方",
+          "linking_affect": "焦虑、沮丧"
+        },
+        {
+          "self_representation": "对自我能力心存怀疑的创作者",
+          "object_representation": "出于礼貌的赞美者（其反馈不可信）",
+          "linking_affect": "怀疑、不信任"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请检视“如果被拒绝就说明我不够好”的想法或讨论投稿计划时",
+          "interpretation": "将检视负性信念体验为有威胁，担心暴露自身不足与被否定",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "倾向于用“我尽量不去想”之类的简短语句来淡化话题，回避详细描述感受；被继续追问时转向讨论技术性、程序性话题（如市场、投稿流程），降低情感浓度，语气谨慎。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "难以向支持自己的朋友敞开谈及对出版的自我怀疑"
+          ],
+          "outcomes": [
+            "自我怀疑持续",
+            "焦虑加重",
+            "创作动力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将潜在的拒绝视为对自我价值的全盘否定",
+            "在会谈中频繁强调自己“不够好”的担忧",
+            "犹豫投稿、过度在意他人评价并质疑朋友的正面反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对漫画有强烈热情（创作是其生活重心）",
+          "拥有支持性的朋友群体，常给予正面反馈",
+          "在其他领域（如求职）曾能更客观地看待拒绝，具备可迁移的应对资源"
+        ],
+        "negative_force": [
+          "灾难化预测未来：坚信“没有人会出版”",
+          "否定正面反馈、过度聚焦于可能的拒绝",
+          "过度概括与个人化：将一次拒绝等同整体失败并归因为自身不够好",
+          "难以向朋友敞开自我怀疑，支持网络难以被充分利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避投稿、创作动力下降，并伴随显著焦虑与自我怀疑",
+          "antecedent": [
+            "开始创作新的漫画",
+            "想到向出版社投稿",
+            "完成作品并准备提交时"
+          ],
+          "core_reason": "将潜在拒绝等同于个人不够好，灾难化预测“不会被出版”，并过滤掉正面反馈",
+          "function": "逃避可能的拒绝与自我价值受损，暂时降低焦虑",
+          "consequence": "推迟或不提交作品，创作受阻，整体心情低落、压力增大"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1661
+}

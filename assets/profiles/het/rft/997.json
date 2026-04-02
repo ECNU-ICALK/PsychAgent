@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "李晓莉",
+      "gender": "女",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚（有两个孩子）",
+      "family_status": "与丈夫及两名子女共同生活",
+      "social_status": "与丈夫的关系因自我内疚与自我评价产生紧张，但丈夫总体支持；对与丈夫讨论自己的不够好感到尴尬",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；无类似心理问题史",
+      "language_features": "负面自我标签（如“我是糟糕的房主/主妇”）、“应该”句式、频繁比较他人、情绪化推理；表达清晰、愿意尝试但对改变悲观"
+    },
+    "main_problem": "“我经常因为装饰摆放得晚而觉得自己是个糟糕的房主，这让我产生内疚和自我不足感。这些感受始于几个月前我错过了布置圣诞装饰的时间。我将原因归结为维护完美居家环境的压力。问题逐渐加重，如今我对未能完成其他家务也感到内疚。每当我察觉自己‘应该做的’与‘正在做的’存在差距时，这些感受就会出现。我尝试过提升组织能力和设置提醒，但内疚依旧存在。”",
+    "topic": "情绪管理",
+    "core_demands": "“我意识到这些内疚感正在影响我的情绪和与家人的关系，因此决定寻求咨询。”",
+    "growth_experiences": [
+      "几个月前错过按时布置圣诞装饰的节点，这是问题的起点；因圣诞在其家庭中一直是重要的传统，她将未及时布置视为“破坏节日”，由此引发显著的内疚与自我否定，并扩散到其他家务责任。",
+      "从小成长在重视圣诞节的家庭氛围（“圣诞在我的家里一直是件大事”），这一价值条件使她将节日布置与作为母亲/主妇的自我价值强关联，形成对“完美家居环境”的高期望。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个失败的主妇/房主",
+        "我不够好，不值得被肯定",
+        "如果我不完美，就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前未能按时布置圣诞装饰",
+          "conditional_assumptions": "如果我没能按时完成节日布置，我就是不称职，会“毁了家人的节日”",
+          "compensatory_strategies": "通过加强组织与时间管理（设置提醒、试图更有条理）来避免再次失误",
+          "automatic_thoughts": "我让家人失望了，我是个糟糕的房主/主妇",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在日常家务（如洗衣、做饭、打扫）上未能按时或做到“足够好”",
+          "conditional_assumptions": "家务必须按时且完美完成，否则我就是在各方面都失败",
+          "compensatory_strategies": "提高自我要求、不断自我批评以逼迫自己达标",
+          "automatic_thoughts": "我在一切事情上都失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "察觉“我应该做的”和“我正在做的”之间的差距",
+          "conditional_assumptions": "我必须始终满足我为自己设定的高标准，否则我就是不够好",
+          "compensatory_strategies": "用“应该/必须”自我要求，试图通过更严格自我约束来达成标准",
+          "automatic_thoughts": "我本该把这些都做完，现在没做到就是不称职",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在社交媒体上看到其他家庭的“完美”居家呈现",
+          "conditional_assumptions": "如果我的家不像别人那样完美，我就比他们差、我不如人",
+          "compensatory_strategies": "频繁比较、提升标准、回避与丈夫讨论自己的不够好以免“暴露不足”",
+          "automatic_thoughts": "为什么我不能像他们一样？我就是不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "丈夫表示不介意、孩子也未注意到装饰的迟缓",
+          "conditional_assumptions": "即使他们说不介意，他们内心还是会失望",
+          "compensatory_strategies": "继续自我苛责，以为通过自责能避免再次让家人失望",
+          "automatic_thoughts": "他们只是安慰我，我确实让他们失望了",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被家人认可的“完美”主妇/母亲，维持被接纳与价值感",
+        "fear": "害怕让家人失望、被评判为不称职，从而失去认可与亲密",
+        "defense_goal": [
+          "通过内化高标准与自我苛责来维持控制与避免失败",
+          "保持对不足的警觉以防止再次“让家人失望”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的、让人失望的主妇/母亲",
+          "object_representation": "容易对我不满或被我辜负的家人",
+          "linking_affect": "内疚、羞愧、焦虑"
+        },
+        {
+          "self_representation": "不如“其他完美母亲”的人",
+          "object_representation": "完美无缺、作为评判基准的他人与群体",
+          "linking_affect": "自卑、压力、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当浏览社交媒体、看到他人“完美家居/完美母亲”形象时",
+          "interpretation": "潜意识将自身的自我苛责与不足感投射为“他人在评判我、我不够好”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以自我怀疑与防御性的语气表达（如“他们一定觉得我不行”），强调他人目光，回避谈及自身实际证据。"
+        },
+        {
+          "trigger_condition": "当被邀请从不同视角看待事件、或被指出他人并未不满时",
+          "interpretation": "用抽象与理性化语言（如“理论上我知道”）与情感分离，避免直面内疚与羞耻",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用“理论上/按理说”等抽象措辞，降低情感色彩，保持克制与冷静的表述，避免触及核心情绪体验。"
+        },
+        {
+          "trigger_condition": "当意识到自己未满足自定的“应该”标准（如家务未及时完成）",
+          "interpretation": "将外界的完美期待未经消化地内化为绝对准则，以自责维持安全感与控制感",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "反复使用“我应该/必须”句式，语气严格、苛责自己，强调规则与标准而非现实情境的复杂性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将居家完美与自我价值强绑定，未达标准即感到“失败”与“无价值”",
+            "在重复的自责循环中难以体验满足，认为“我在一切事情上都失败了”"
+          ],
+          "outcomes": [
+            "持续的内疚与羞耻感",
+            "情绪低落与动机下降",
+            "与丈夫的关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持性的丈夫，但因羞于谈及“自我不足”而回避深入沟通",
+            "将他人可能的理解体验为评判或失望，感到与他人情感隔离"
+          ],
+          "outcomes": [
+            "关系疏离感增加",
+            "加重自我否定与比较心理"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”来要求自己",
+            "将“完美家居”视为必须达成的硬性标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责以企图维持控制与达标",
+            "因尴尬而回避与丈夫讨论真实感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在丈夫与孩子并未不满时，仍假定他们对自己失望",
+            "将自我批评体验为外界的评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "丈夫总体支持，愿意沟通",
+          "具备一定自我观察能力，能觉察负性思维模式（比较、‘应该’）",
+          "曾主动尝试提升组织能力与设置提醒以改进家务管理"
+        ],
+        "negative_force": [
+          "强烈的自我苛责与“应该”信念",
+          "频繁的社会比较导致自卑与失败感",
+          "将情绪当事实的情绪化推理与个人化倾向",
+          "对完美家居环境的内摄性标准与外部验证依赖"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在家务未达自定标准时出现强烈内疚与自我贬低",
+          "antecedent": [
+            "错过或延迟完成家务（如节日装饰、洗衣、做饭、打扫）",
+            "察觉“应该做的”和“正在做的”之间的差距"
+          ],
+          "core_reason": "将完美家居的外在期待内摄为绝对标准，伴随全或无思维、个人化与情绪化推理，导致自我价值与家务达成度过度绑定",
+          "function": "通过自我苛责维持控制并试图推动自己达标、获得外部认可",
+          "consequence": "情绪低落与动机下降；与丈夫关系紧张；持续的内疚和自我不足感"
+        },
+        {
+          "behavior": "频繁在社交媒体上进行社会比较并产生自卑与失败感",
+          "antecedent": [
+            "浏览社交媒体、看到“完美家居/完美母亲”的呈现"
+          ],
+          "core_reason": "依赖外部验证来评估自我价值，将他人的高光时刻作为评判基准",
+          "function": "以外部参照来确认自我定位与价值感（寻求外部验证）",
+          "consequence": "强化负性自我评价与内疚，进一步影响情绪与家庭互动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 997
+}

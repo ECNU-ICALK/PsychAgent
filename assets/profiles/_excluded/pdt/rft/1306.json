@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林沐晴",
+      "gender": "女",
+      "occupation": "艺术家",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；此前未接受过正式心理治疗或咨询",
+      "language_features": "略显紧张但抱有希望，表达清晰连贯；倾向自我否定并与他人比较；经常折扣正向反馈；在咨询中能尝试重构想法、配合度良好"
+    },
+    "main_problem": "在艺术能力上长期感到不足，常将自己与其他艺术家比较，近一年加重，导致难以创作新作品、动机降低；面对他人作品时尤为明显，寻求他人认可也难以缓解根本问题。",
+    "topic": "个人成长",
+    "core_demands": "自尊问题正在阻碍我的艺术表达并造成困扰，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "童年时期热爱绘画，但很少因为作品被赞美或被看见，由此逐渐形成“不够好”的自我感受；在与艺术相关的场合反复体验不足与自我怀疑，进而习得依赖外部认可的评价体系。此前未接受正式心理治疗或咨询。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "看到其他成功艺术家的作品",
+          "conditional_assumptions": "如果我的作品达不到他们的水平，就说明我不行/是失败者",
+          "compensatory_strategies": "回避创作或拖延以避免失败；通过向他人寻求认可来暂时缓解不安",
+          "automatic_thoughts": "我永远达不到他们那样的水平，没必要再尝试了。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "面对空白画布准备开始一幅新作品",
+          "conditional_assumptions": "如果不能保证作品足够好，就不应该开始；否则会被否定",
+          "compensatory_strategies": "不动笔、拖延开始以避免可能的失望和批评",
+          "automatic_thoughts": "这幅一定不会好，还是别开始了。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "收到他人对作品的正面反馈或称赞",
+          "conditional_assumptions": "他人的称赞不可靠/只是礼貌；如果他们真懂，就不会这么说",
+          "compensatory_strategies": "折扣积极反馈，继续寻求更多外部验证以获得确定感",
+          "automatic_thoughts": "他们只是说好听的，不是真的。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "观看《乱世佳人》并被触动",
+          "conditional_assumptions": "如果没有像这部电影一样打动我，那就不算好电影",
+          "compensatory_strategies": "坚持单一标准、拒绝尝试其他影片以维持确定感",
+          "automatic_thoughts": "除了《乱世佳人》，没有别的好电影值得看。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被肯定（尤其对作品的认可）",
+        "fear": "害怕被否定、被比较落败，从而证明自己“不够好”",
+        "defense_goal": [
+          "通过回避创作来保护脆弱的自尊，减少被否定的风险",
+          "通过寻求外部认可维持自我价值感的稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被看见、需要他人认可的“不足”者",
+          "object_representation": "苛刻的评判者或遥不可及的优秀他人",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        },
+        {
+          "self_representation": "对称赞保持怀疑的自我",
+          "object_representation": "表面友善但不真诚的他人",
+          "linking_affect": "不信任、质疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她寻找反证或肯定其过往作品亮点时",
+          "interpretation": "认为对方只是安慰或出于礼貌，赞美并不真诚",
+          "sring": "投射",
+          "defense_definition": "将自己难以接受的感受或信念归于他人（如将自我怀疑投射为他人的虚伪或敷衍）。",
+          "response_instruction": "以谨慎、保留的语气回应，反复使用“他们只是客气”“不算数”等表述，淡化积极信息。"
+        },
+        {
+          "trigger_condition": "当被引导进行认知重构、聚焦情绪体验时",
+          "interpretation": "感到情绪卷入不安全，于是以“道理上可行，但现实很难”的方式拉开距离",
+          "sring": "理智化",
+          "defense_definition": "以过度理性、抽象的方式处理问题，借此与痛苦情绪保持距离。",
+          "response_instruction": "使用概括化、条件式语言（例如“理论上”“也许”），减少情绪词汇，保持平稳语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自我比较与不足感，难以与其他艺术家建立关系",
+            "不愿与朋友谈论关于作品的不安全感，担心被误解为“索取称赞”"
+          ],
+          "outcomes": [
+            "社会支持稀薄，情感联结不足",
+            "自我怀疑得不到现实校正，进一步加重低自尊与回避"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "动机下降，面对空白画布难以下笔",
+            "将创作价值过度系于他人评价，个人意义感被削弱"
+          ],
+          "outcomes": [
+            "创作停滞与职业发展受阻",
+            "挫败与无望感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将他人赞美理解为“只是礼貌”或“不真诚”",
+            "质疑外界正向反馈的真实性"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "将原本想对他人表达或请求的能量转向自身克制或隐忍，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友表达艺术方面的不安全感",
+            "在需要支持时选择自我压抑与独自消化"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心表达不安全感会被看作“索取称赞”而选择沉默",
+            "在社交和创作中反复自我审查、否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾有作品得到他人喜欢，且自己偶尔也为作品感到自豪",
+          "具备持续投入艺术的兴趣与基础能力",
+          "愿意求助与探索改变（主动寻求咨询）",
+          "拥有少数可倾诉的朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "自我价值高度依赖外部认可，正向反馈易被折扣",
+          "频繁社会比较与“非黑即白”思维",
+          "过度概括与否定积极信息，强化无力与不足感",
+          "回避或拖延创作以减少被否定的风险，导致创作停滞"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避创作/面对空白画布难以下笔",
+          "antecedent": [
+            "面对空白画布准备开始新作品",
+            "在开始前想到他人更优秀的作品"
+          ],
+          "core_reason": "童年缺乏对作品的赞美内化为“我不够好”，担心创作结果被否定，从而灾难化预期失败。",
+          "function": "逃避可能的失败与负面评价，短期降低焦虑与羞耻感",
+          "consequence": "创作停滞、动机下降，艺术发展受阻并进一步强化自我否定"
+        },
+        {
+          "behavior": "持续性的消极自我比较与自我贬低言语（如“我永远比不上别人”）",
+          "antecedent": [
+            "看到其他成功艺术家的作品",
+            "处于与艺术相关的场合或社交情境"
+          ],
+          "core_reason": "核心信念“我不够好”与对外部认可的依赖，触发过度概括与非黑即白的评价。",
+          "function": "通过自我防御性贬低来避免投入与暴露自身脆弱，维持控制感",
+          "consequence": "自尊进一步下降，回避与艺术同侪建立关系，支持系统减弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1306
+}

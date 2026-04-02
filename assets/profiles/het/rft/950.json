@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "陈俊",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有几个亲密朋友可谈心，但尚未向他们讨论自己的不足感与自我批评",
+      "medical_history": "无重大躯体疾病；此前未接受相关心理治疗或咨询",
+      "language_features": "表达清晰，配合度良好，态度中性；能具体描述挫折情境与自动化思维"
+    },
+    "main_problem": "我在无法达到自己期望（如在冲浪时）的情境下，长期挣扎于自我不足与自我批评，这些感受最近更为明显，并影响我的自尊与对活动的享受。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为自我批评的想法正在影响我的自尊和整体幸福感，使我更难享受冲浪等活动。",
+    "growth_experiences": [
+      "过去在其他事情上未达到自我期望时也反复出现自我批评与不足感；这种模式已存在一段时间但近期更为突出；未曾接受过治疗；无重大躯体病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是无能的/无用的"
+      ],
+      "special_situations": [
+        {
+          "event": "今天去冲浪但无法起板",
+          "conditional_assumptions": "如果我没达到自己设定的表现标准，就说明我不够好、是个失败者",
+          "compensatory_strategies": "通过加倍练习并接受教练指导来证明自己可以做好",
+          "automatic_thoughts": "我是个无用的冲浪者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上周末在众人面前冲浪时摔倒",
+          "conditional_assumptions": "如果当众失败，别人就会看不起我、认为我是笑话",
+          "compensatory_strategies": "避免与朋友讨论感受，担心被认为在抱怨或夸张",
+          "automatic_thoughts": "每个人都觉得我是个笑话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "练习后回顾表现时，虽偶尔能更久地站在板上，但感觉这些成功被失败完全掩盖",
+          "conditional_assumptions": "只有持续且显著的进步才算数，零碎的小成功不值得被认可",
+          "compensatory_strategies": "继续专注于练习与技术改进，而较少主动记录或肯定小的进步",
+          "automatic_thoughts": "我只看到自己的失败",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "多次练习与接受教练指导后，仍觉得提升不明显",
+          "conditional_assumptions": "如果一段时间没达到预期，就意味着我以后也不会变好",
+          "compensatory_strategies": "产生放弃的念头或用自我批评来推动自己继续练习",
+          "automatic_thoughts": "我永远不会变好",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、在冲浪上有所成就并能享受其中",
+        "fear": "害怕失败被他人视为笑话、害怕被评价为“戏剧化”，从而暴露自己的不够好",
+        "defense_goal": [
+          "通过严苛的自我批评维持高标准以避免失败",
+          "避免向朋友袒露脆弱以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者/学徒",
+          "object_representation": "会评判自己、把自己看作笑话或夸张的旁人",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问是否与朋友讨论不足感及可能的反应时",
+          "interpretation": "来访者潜意识认为朋友会觉得他在抱怨或夸张（移情：将评价投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，强调“他们可能会觉得我很夸张”，回避深入讨论支持的可能性与具体计划。"
+        },
+        {
+          "trigger_condition": "当被探索冲浪失败与进步的具体情境时",
+          "interpretation": "将外部挫败感转向自我贬责，以自我批评来维持控制感和“动力”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我贬低的表述（如“我不够好”），语气低落，忽略正面细节与小幅进步。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与朋友讨论自己的不足感与自我批评",
+            "担心他人会觉得自己“戏剧化”或在抱怨"
+          ],
+          "outcomes": [
+            "社交支持利用不足",
+            "羞耻与焦虑加重",
+            "自尊受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "活动中的乐趣被自我批评与失败感吞噬",
+            "练习中的小成功被忽视"
+          ],
+          "outcomes": [
+            "难以享受冲浪",
+            "动机下降、挫败感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "“每个人都觉得我是个笑话”",
+            "“他们可能会觉得我很夸张”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（“我不够好”“我永远不会变好”）",
+            "在会谈中对分享感受与寻求支持显得谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在冲浪练习中遇到摔倒或无法起板时，来访者通常会陷入“我不够好”的自我批评，情绪低落并难以享受当日训练。",
+          "unique_outcome": "最近的几次练习中，曾有片刻能更长时间地站在板上并完成比以往更稳定的滑行。",
+          "reason": "不同做法：持续练习并接受教练指导，使技能逐步提升，从而出现更长时间站板的时刻。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对冲浪有投入与热情，能持续练习",
+          "已主动寻求咨询帮助",
+          "具备一定外部资源（教练指导与练习条件）",
+          "拥有几位可提供支持的亲密朋友"
+        ],
+        "negative_force": [
+          "自我批评强烈、常使用消极标签",
+          "心理过滤与读心术等负性认知模式突出",
+          "对他人评价的担忧导致回避寻求支持",
+          "进步标准过于严苛，轻视小成功"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在挫折后出现强烈的自我贬低与消极自我标签（如“我是无用的冲浪者”）",
+          "antecedent": [
+            "冲浪时无法起板",
+            "在众人面前摔倒",
+            "面对挑战性任务且短期进步不明显",
+            "未达到自我期望的表现"
+          ],
+          "core_reason": "长期存在的“我不够好”核心信念与对失败的非黑即白/过度概括解读在挑战情境中被激活。",
+          "function": "短期通过自我批评来维持控制感或自我驱动，同时回避向他人求助以减少被评判的焦虑。",
+          "consequence": "自尊下降、压力增大、难以享受冲浪与日常活动，持续削弱动力与幸福感。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 950
+}

@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "乔安娜",
+      "gender": "女",
+      "occupation": "法学研究生",
+      "educational_background": "攻读法学学位",
+      "marital_status": "未婚",
+      "family_status": "独居，养一只巴哥犬作为宠物",
+      "social_status": "有少数亲密朋友，但因体重问题自信下降、减少分享与社交",
+      "medical_history": "既往无类似体重问题；无严重躯体疾病；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较好、能觉察并描述情绪与想法、配合度高、态度积极"
+    },
+    "main_problem": "因深夜学习时频繁加餐导致体重增加，进而影响自尊与整体幸福感",
+    "topic": "学业压力",
+    "core_demands": "希望找到更健康的压力管理与应对机制，减轻夜间加餐导致的体重增加，并改善自尊与整体幸福感",
+    "growth_experiences": [
+      "几个月前课程负荷明显加重，开始更频繁地在夜间学习；几乎每晚完成作业或论文时都会因压力与疲劳而加餐（如薯片、饼干、披萨等），随后体重增加，自尊与与朋友的互动受影响；曾尝试更健康的零食与设置限制，但仍难以控制夜间进食。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够自律",
+        "我在管理生活方面是失败者",
+        "我不够有吸引力/不健康"
+      ],
+      "special_situations": [
+        {
+          "event": "深夜独自赶论文/学习时感到疲惫与压力，需要保持清醒与专注",
+          "conditional_assumptions": "如果我不在夜间持续学习、就无法完成任务；若不通过进食，我就不能保持清醒与效率",
+          "compensatory_strategies": "通过吃零食（高热量食物）来提神并强行延长学习时间",
+          "automatic_thoughts": "我必须吃点东西才能继续专注完成作业",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "与朋友相处或想到社交时，注意到体重增加后感到不自信",
+          "conditional_assumptions": "如果我不够有吸引力或体重增加，他们就会看轻我/我不值得被接纳",
+          "compensatory_strategies": "减少社交与分享，保留问题不向朋友求助",
+          "automatic_thoughts": "我看起来很糟糕，他们会觉得我不自律",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "夜间学习后发现自己吃了很多高热量零食并关注体重变化",
+          "conditional_assumptions": "如果我无法控制夜间饮食，就说明我缺乏自律，是个失败者",
+          "compensatory_strategies": "自我批评、制定更严格的进食限制（但难以坚持）",
+          "automatic_thoughts": "我不够自律，我在管理生活方面失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "评估夜间学习的利弊时，主要关注体重增加与负面影响而忽略效率提升与安静环境的好处",
+          "conditional_assumptions": "负面后果比正面收获更重要，正面因素不值得被考虑",
+          "compensatory_strategies": "以负面为核心进行判断与决策，进一步强化对自我的否定",
+          "automatic_thoughts": "夜间学习只会让我发胖，都是坏处",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，保持自尊与吸引力，同时维持学习效率与掌控感",
+        "fear": "害怕被看轻/被拒绝（因为体重增加与不自律），害怕失去对自我与学业的控制",
+        "defense_goal": [
+          "通过强调效率与必要性来合理化夜间加餐以降低羞耻与焦虑",
+          "避免向朋友暴露脆弱以维持表面自尊与安全感",
+          "以自我批评促进自我控制、试图弥补“失控”的进食行为"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不自信、容易羞耻、担心被评价的“失败者/不自律者”",
+          "object_representation": "可能会看轻自己、对外貌与自律有要求的他人/同伴",
+          "linking_affect": "羞耻、焦虑、自我否定"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面临紧迫的学业任务或截止日期，需要在深夜保持清醒与效率时",
+          "interpretation": "认为只有通过吃零食才能维持专注与完成任务，否则就会失败",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性辩解的语气为夜间加餐寻找“必要性”的理由，强调效率与必须性，弱化负面影响；若被质疑，使用“必须、不得不”这类词语。"
+        },
+        {
+          "trigger_condition": "当被询问是否向朋友/支持系统分享体重困扰或想到在社交中暴露脆弱时",
+          "interpretation": "认为一旦暴露问题就会被看轻、尴尬，最好独自承受以避免伤害",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气谨慎、含蓄，简短回应并快速转移话题至学习与任务，避免深入表达羞耻与脆弱感。"
+        },
+        {
+          "trigger_condition": "在回顾夜间进食后体重增加的证据与自我表现时",
+          "interpretation": "将自我价值与体重/自律直接挂钩，给自己贴上“失败者”的负性标签",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气低落、使用自责式表述（如“都是我不行”），强化自我批评，放大过失，弱化成功。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不向朋友分享体重与自尊困扰，倾向独自承受压力与夜间习惯",
+            "担心被评价而减少社交与求助"
+          ],
+          "outcomes": [
+            "社交退缩与疏离感增强",
+            "羞耻与焦虑加重，自尊进一步下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在夜间学习与健康习惯之间感到抉择困难，体验到自我约束与选择的压力",
+            "用“必须”类规则界定自己的行为边界"
+          ],
+          "outcomes": [
+            "自我苛责与内在冲突升级",
+            "体验容许度降低，行为选择僵化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "语言中常用“必须/应该”来描述夜间学习与进食的必要性",
+            "以外在效率标准界定自我价值，忽略身体与情感需要"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友寻求支持，将压力与焦虑转向自己处理",
+            "通过夜间加餐与自我批评来消化压力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评，将自我价值与体重、纪律捆绑",
+            "社交中因担心形象被评价而谨慎、克制表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "学习效率与专注在夜间环境中较好",
+          "态度积极且愿意尝试不同策略（记录想法、探索替代方案）",
+          "具有一定的自我觉察能力，能识别压力与进食之间的关系",
+          "拥有少数可信赖的朋友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "夜间学习与高压情境触发进食以提神的习惯性联结",
+          "自我苛责与负性标签（不自律、失败）导致自尊受损",
+          "过度关注负面、忽略正面信息（心理过滤/否定积极）",
+          "因羞耻减少社交与求助，形成闭环加重孤独与压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "深夜学习时的过度加餐（偏好高热量零食）",
+          "antecedent": [
+            "深夜独自学习或赶论文",
+            "疲劳与压力累积",
+            "对完成任务的焦虑",
+            "安静的夜间环境与可获得的零食"
+          ],
+          "core_reason": "将进食视为维持清醒与专注的主要策略，以缓解压力与疲劳并帮助完成学业任务",
+          "function": "短期自我安抚与提神，逃避疲劳与焦虑，维持任务执行感",
+          "consequence": "体重增加、自尊下降、与朋友关系受影响、日常自我照料与健康习惯被破坏"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 251
+}

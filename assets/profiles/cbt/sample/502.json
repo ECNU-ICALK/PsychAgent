@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "高中学生",
+      "educational_background": "在读高中",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与舞队有亲密朋友群体，但因对比赛的焦虑而疏离，减少与家人朋友交流",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗或咨询；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑尚可，语气消极与焦虑突出，坦诚但对自我暴露有所顾虑，配合度较好"
+    },
+    "main_problem": "我因为竞技舞队最近两次比赛失利而感到不堪重负和焦虑，尽管我们仍然总排名第一，这让我相信整个赛季都毁了。",
+    "topic": "情绪管理",
+    "core_demands": "这些焦虑和失望影响了我对舞蹈的享受和整体心理健康。我只想不再总觉得自己是失败者，能够重新享受跳舞并减少焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "舞蹈队在最近两场比赛中失利（但总排名仍第一）",
+          "conditional_assumptions": "如果不能保持连胜，就说明赛季失败、我也失败",
+          "compensatory_strategies": "试图专注积极面与练习正念来对抗负面情绪",
+          "automatic_thoughts": "整个赛季都毁了。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "临近或讨论即将到来的比赛",
+          "conditional_assumptions": "如果再输一次就证明我让大家失望、我是失败者",
+          "compensatory_strategies": "提前预设最坏结果、反复排演失败场景以“做好心理准备”",
+          "automatic_thoughts": "我们肯定还会输，我会再次让大家失望。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在练习时或他人提起比赛表现",
+          "conditional_assumptions": "只有完美发挥并取胜才说明我够好；不完美就等于失败",
+          "compensatory_strategies": "提高对自己的标准、加重自我批评，同时避免与他人深入谈论以免显得软弱",
+          "automatic_thoughts": "我不够好，我本该做得更多。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "意识到团队仍保持总排名第一但最近有失利",
+          "conditional_assumptions": "正面表现不重要，最近的失利才是真正的证明",
+          "compensatory_strategies": "只关注负面结果，忽略或否定积极反馈",
+          "automatic_thoughts": "这些好的成绩都不算数，失利才说明我们不行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被团队与他人认可，不让任何人失望",
+        "fear": "害怕被视为失败者或软弱、担心再次失利被他人评判",
+        "defense_goal": [
+          "通过维持极高标准来避免失败",
+          "通过回避自我暴露减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让我人失望的、不够好的失败者",
+          "object_representation": "对我抱有高期待并可能评判我的他人/团队",
+          "linking_affect": "焦虑、羞耻、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向朋友或家人谈论自己的焦虑与失望情绪时",
+          "interpretation": "来访者倾向于认为他人不会理解自己，并会把她看作软弱的人（移情：将自我否定投射到他人的评价上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用模糊、谨慎的语气，避免深入谈论感受，转而描述比赛结果或压力来源，减少自我暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因对比赛的焦虑而撤退社交，难以与队友、朋友和家人讨论失望与焦虑",
+            "担心被视为软弱而选择不分享内心感受"
+          ],
+          "outcomes": [
+            "社交疏离与孤立感增强",
+            "焦虑维持甚至加重",
+            "睡眠与注意力受损"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“赛季被毁”视为整体失败，难以看到既有的积极和价值",
+            "对舞蹈的乐趣显著下降"
+          ],
+          "outcomes": [
+            "动机与投入度下降",
+            "情绪低落与失望加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为他人会把自己看作软弱，因此避免表达脆弱",
+            "在谈及情绪时更关注他人可能的看法而非自身体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "对自身表现过度苛责，认为“不够好、该做得更多”",
+            "在关系中小心谨慎、降低自我暴露以避免被评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "仍保持总排名第一，客观上存在积极结果与能力基础",
+          "有一群关系亲近的队友可作为潜在支持",
+          "主动寻求咨询与帮助，具有改变意愿",
+          "曾尝试专注积极与练习正念，具备一定的自助尝试"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著",
+          "过度在意他人评价，担心被视为软弱",
+          "对未来比赛的预测性担忧（跳到结论）",
+          "社交回避与退缩，导致睡眠与学业受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "赛前及相关谈论中的过度焦虑与灾难化担忧",
+          "antecedent": [
+            "临近比赛时",
+            "练习时被提醒比赛表现",
+            "谈论或想到最近失利"
+          ],
+          "core_reason": "对维持连胜的压力与自我价值绑定（不赢=失败者），以及对再度失利的预测性担忧",
+          "function": "逃避失败与被评判的威胁，获得暂时的控制感与心理准备感",
+          "consequence": "睡眠与注意力受损、情绪低落，学业表现下降"
+        },
+        {
+          "behavior": "社交回避（避免与队友、朋友、家人谈论情绪与困扰）",
+          "antecedent": [
+            "想到他人可能认为自己软弱时",
+            "需要分享内心感受或寻求支持的情境"
+          ],
+          "core_reason": "担心被视为软弱或让他人失望，将自我否定投射到他人评价上",
+          "function": "避免被负面评价和羞耻感，维持自我保护的边界",
+          "consequence": "社交疏离与孤独感增强，焦虑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 502
+}

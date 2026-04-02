@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "林杰",
+      "gender": "男",
+      "occupation": "业余厨师",
+      "educational_background": "自学烹饪",
+      "marital_status": "单身",
+      "family_status": "独居（新城市）",
+      "social_status": "搬到新城市后社交互动有限，主要独处与玩电子游戏",
+      "medical_history": "此前未出现类似心理问题；无心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑较好、配合度高、语气平和，能具体描述感受与经历"
+    },
+    "main_problem": "我反复出现“因为我独居且把大部分空闲时间用在玩电子游戏，所以我是一个糟糕的人”的念头，这种信念导致自我怀疑与低自我价值感。",
+    "topic": "情绪管理",
+    "core_demands": "当这些负面想法开始影响我的情绪和日常活动、降低我对烹饪和弹吉他的享受时，我决定寻求咨询。",
+    "growth_experiences": [
+      "几个月前搬到新城市开始独居，最初因适应新环境与孤独感而产生中度压力；此后逐步发展为几乎每天在独处或玩电子游戏后冒出的负面念头（如“我在浪费生命”“我应该出去认识人”），并逐渐影响到烹饪与弹吉他的兴趣以及厨房里的表现。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的人",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "搬到新城市后独居，周末与空闲时间大多独自玩电子游戏",
+          "conditional_assumptions": "如果我不把时间用于更“有生产力”或更社交的事情，就说明我是不够好/糟糕的人",
+          "compensatory_strategies": "用烹饪、弹吉他或继续打游戏来分散注意力；避免把这些负面想法告诉朋友",
+          "automatic_thoughts": "我在浪费生命；我应该出去认识人",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "每次玩完电子游戏之后",
+          "conditional_assumptions": "如果我享受并花很多时间玩游戏，就意味着我缺乏自律、没有成就",
+          "compensatory_strategies": "尝试停止游戏或改做其他活动（烹饪、吉他），但缺乏系统计划",
+          "automatic_thoughts": "你在浪费你的人生；你只是个玩游戏的人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在新城市社交互动有限、一个人待在家时",
+          "conditional_assumptions": "如果我没有立即建立社交圈、经常一个人，就说明我有问题、不值得被喜欢",
+          "compensatory_strategies": "回避向朋友分享脆弱与负面想法，保持独处以避免被评判",
+          "automatic_thoughts": "我是个糟糕的人，因为我一个人住、没有社交",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "烹饪与弹吉他兴趣下降、厨房表现受影响时",
+          "conditional_assumptions": "如果我现在不享受烹饪或表现不佳，那就证明我不够好/是失败者",
+          "compensatory_strategies": "通过继续玩游戏或减少烹饪来回避挫败感",
+          "automatic_thoughts": "我不是一个好的厨师；我不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、拥有价值与归属感",
+        "fear": "害怕被评判为“不够好”或被拒绝",
+        "defense_goal": [
+          "通过自我苛责与遵循内化的“应该”规则来控制与避免被否定",
+          "保持一定的疏离以降低被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的孤独者、倾向自我贬低的个体",
+          "object_representation": "他人被体验为潜在的评判者与标准的执行者",
+          "linking_affect": "羞耻、内疚、焦虑与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请其肯定自己对游戏或独处的享受与价值时",
+          "interpretation": "会认为承认享受意味着自己不负责任、会被评判为“不够好”",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、规则不加批判地内化为自己的一部分，用以评判自身",
+          "response_instruction": "使用温和、支持的语气，帮助其辨认“应该”的来源，区分外在标准与自身需要；鼓励以具体证据检验信念并容许当下感受。"
+        },
+        {
+          "trigger_condition": "当被提议与朋友分享负面想法或扩大社交联系时",
+          "interpretation": "潜意识认为表达脆弱会导致被拒绝或被看轻",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件分离，理智地谈论而缺乏情感反应",
+          "response_instruction": "语气稳定，逐步引导其用具体感受词标注当下体验，保持短句与停顿，降低压力与防御强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬到新城市后独居",
+            "社交互动有限、常感到孤独",
+            "大部分空闲时间独自玩电子游戏"
+          ],
+          "outcomes": [
+            "自我怀疑与低自我价值感",
+            "情绪低落与内疚",
+            "对烹饪与吉他的兴趣减退",
+            "日常功能与厨房表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理",
+          "manifestations": [
+            "反复使用“我应该更有生产力”“我应该出去认识人”等语句",
+            "将玩游戏与“不值得/不够好”直接划等号"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "克制向外寻求他人支持的冲动，转而对自己做（如自责、自我消耗）",
+          "manifestations": [
+            "未向朋友分享负面想法与困扰",
+            "通过自责或分散注意力来“解决”问题而非直接求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "过多的自我限制与自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自我批评（“我不够好”“我在浪费生命”）",
+            "在尝试新活动时谨慎试探、担心被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对尝试新方法持开放态度（愿意进行行为实验并记录观察）",
+          "拥有烹饪与吉他等兴趣技能，可作为连接与愉悦的资源",
+          "有少量朋友可交流，具备潜在的社会支持",
+          "能够清晰表达并识别负性自动思维"
+        ],
+        "negative_force": [
+          "倾向以“应该”规则进行自我评价（内摄的价值条件）",
+          "过度自我批评，使用情绪化推理与过度概括等认知模式",
+          "独居且身处新城市导致社交圈有限、孤独感较强",
+          "将休闲行为与个人价值挂钩，易产生内疚与羞耻",
+          "回避与他人分享脆弱，维持孤立与负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我贬低与内疚的负性自语（如“我在浪费生命”“我不够好”）",
+          "antecedent": [
+            "搬到新城市后独居",
+            "长时间独处",
+            "玩完电子游戏后",
+            "意识到自己社交互动有限时"
+          ],
+          "core_reason": "内化的“应该”标准与外部价值条件，结合孤独体验的情绪化推理，将休闲与“糟糕的人/不够好”直接等同",
+          "function": "通过自我惩罚与自我监控，试图迫使自己更“有生产力”或更社交，并逃避面对被评判的恐惧",
+          "consequence": "情绪低落、自我价值感下降、对烹饪与吉他的兴趣减退、厨房表现受影响、进一步减少社交"
+        },
+        {
+          "behavior": "回避与朋友或他人分享负面想法、减少社交接触",
+          "antecedent": [
+            "出现负性自动思维时",
+            "感到孤独或罪疚时",
+            "考虑外出社交或表达脆弱时"
+          ],
+          "core_reason": "害怕被拒绝或被评价为“不够好”，以情感隔离与回摄来降低焦虑",
+          "function": "逃避可能的负面评价与亲密风险，维持主观的安全与控制感",
+          "consequence": "孤独与问题循环持续，缺乏外界支持，负性情绪加重、兴趣与功能进一步下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 320
+}

@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "周薇",
+      "gender": "女",
+      "occupation": "果汁吧老板",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友和家人可倾诉，但尚未与他人讨论此问题；与冲浪搭档关系因自身的负面解释而变得紧张",
+      "medical_history": "未有类似问题经历；既往未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、能具体描述时间和事件；情绪基调偏消极；存在“读心术”“跳结论”的认知倾向；与咨询师配合度较好，愿意尝试行为实验；自我监控与自我苛责明显"
+    },
+    "main_problem": "我觉得我的冲浪搭档不再和我一起冲浪，是因为他们认为我冲浪不够好，这让我很痛苦并产生自我不足感。",
+    "topic": "人际关系",
+    "core_demands": "这些自我不足感和自我怀疑正在影响我对冲浪的享受，我因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好（能力不足）",
+        "我的价值取决于他人对我能力的看法"
+      ],
+      "special_situations": [
+        {
+          "event": "大约一个月前，冲浪搭档停止与我一起进行冲浪活动",
+          "conditional_assumptions": "如果别人不愿与我一起冲浪，就说明我技术不够好",
+          "compensatory_strategies": "主动与搭档沟通以获得解释与安慰",
+          "automatic_thoughts": "他们停止和我一起就是因为我不够好",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "独自下海冲浪，每次独自冲浪都会涌现负面想法",
+          "conditional_assumptions": "如果没有人愿意和我一起冲浪，说明我让人尴尬、没人愿意接近我",
+          "compensatory_strategies": "回避与他人谈论此事以避免被评价",
+          "automatic_thoughts": "我一定让人尴尬去一起冲浪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "上周末在浪上摔落（wipe out），当时周围并没有人看到",
+          "conditional_assumptions": "如果我在浪上失误，就证明我整体水平不合格",
+          "compensatory_strategies": "事后强化自我批评，试图通过自责来“改进”表现",
+          "automatic_thoughts": "这就是他们不想和我一起的原因，我不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "搭档解释不同行是因为日程忙碌而非我的技术问题",
+          "conditional_assumptions": "如果他人的解释与我的担忧相矛盾，那只是礼貌性的借口，不能说明问题",
+          "compensatory_strategies": "坚持使用私下推测他人想法而非搜集更多证据",
+          "automatic_thoughts": "他们只是找借口，不好意思说我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，尤其希望在重要活动（冲浪）中被同伴视为合格",
+        "fear": "害怕被拒绝与被评判为不够好，担心暴露不足后遭到贬低",
+        "defense_goal": [
+          "通过先行自我否定与谨慎推测他人评价来减少被直接否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被拒绝的个体",
+          "object_representation": "挑剔且可能否定自己的他者（如搭档）",
+          "linking_affect": "自卑、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议更直接地向搭档核实原因并设计行为实验时",
+          "interpretation": "来访者担心这样会让关系更糟、对方会证实自己“不够好”（将他人潜在反馈视为威胁）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以犹豫、担心的语气表达顾虑，使用“如果/可能/会不会”等词，回避立即承诺并请求脚本或准备问题以获得掌控感。"
+        },
+        {
+          "trigger_condition": "当咨询师强调缺乏证据、鼓励检视事实（如搭档确实因忙碌）",
+          "interpretation": "来访者将自身“不被接纳”的感受归因于他人对自己的负面看法（认为对方只是找借口）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "强调“他们只是礼貌说忙”，坚持自己的解释，语气坚定但带不安，减少在事实证据上的深入讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搭档不再同行带来的被拒体验",
+            "独自下海冲浪时感到孤独与自我怀疑",
+            "将技术失误（摔落）与被他人否定联系在一起"
+          ],
+          "outcomes": [
+            "孤独感加剧",
+            "自我怀疑与自我价值感受损",
+            "对冲浪的享受显著下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为搭档看不起自己、只是找借口不与自己冲浪",
+            "把内心的不被接纳感解释为他人的真实想法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在海上反复自我苛责与自我否定",
+            "担心与搭档沟通会“弄糟”，希望有脚本与问题清单来降低风险"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在搭档缺席的情况下，来访者通常会进行读心式臆测并自我怀疑，导致冲浪体验下降与关系紧张",
+          "unique_outcome": "曾主动与搭档沟通此事，得到对方说明是因行程忙碌、并非对其技术否定；获得了与自身假设不同的信息",
+          "reason": "不同做法：主动沟通核实原因；不同支持：对方明确给出现实解释（忙碌安排）"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并接受咨询，配合度较好",
+          "愿意尝试行为实验与脚本准备，具备行动意愿",
+          "能够识别自身负性自动思维（如“也许我不够好”）",
+          "存在一定社会支持（朋友与家人）"
+        ],
+        "negative_force": [
+          "读心术与跳结论倾向显著",
+          "否定正面信息，强化自我不足的信念",
+          "过度依赖外部评价界定自我价值",
+          "自我监控与自我苛责导致体验收缩、避免直接接触"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在冲浪时反复进行自我贬低与读心式臆测（如“我不够好、他们不想和我一起”），伴随孤独与自我怀疑",
+          "antecedent": [
+            "一个月前搭档停止同行",
+            "独自下海冲浪",
+            "在浪上摔落",
+            "回想搭档表示忙碌的解释"
+          ],
+          "core_reason": "对被拒绝高度敏感与“读心术/跳结论”的认知偏差，且过度依赖他人评价来界定能力与自我价值",
+          "function": "自我保护与逃避不确定性：通过先行自我否定来避免面对可能的拒绝与尴尬",
+          "consequence": "冲浪乐趣下降、孤独感增强、与搭档关系紧张、持续自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2011
+}

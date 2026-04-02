@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "顾睿",
+      "gender": "男",
+      "occupation": "立志成为时装设计师",
+      "educational_background": "在纽约一所知名设计学院就读",
+      "marital_status": "单身",
+      "family_status": "独自在纽约生活",
+      "social_status": "在纽约缺乏强有力的社会支持；与设计学院同伴关系因自我怀疑而变得紧张",
+      "medical_history": "无类似问题既往史；无过往心理治疗；无重大躯体疾病",
+      "language_features": "思路清晰，表达合作，能识别并描述情绪与想法；倾向自我苛责并频繁使用“应该”表述；情绪基调为焦虑与希望并存"
+    },
+    "main_problem": "自从未被心仪的知名设计学院录取后，一直在与自卑与自我怀疑作斗争。",
+    "topic": "情绪管理",
+    "core_demands": "被拒录带来的持续自卑感显著影响了对时装设计的热情，期望通过咨询来处理这些问题。",
+    "growth_experiences": [
+      "六个月前，来访者申请一所声望很高的设计学院未被录取。收到拒信时压力很大，并产生“我应该更努力、我现在应该更有天赋”的想法。此后出现持续的自卑与自我怀疑：动力下降、在进行设计创作或走访时尚店获取灵感时触发负性情绪与否定；常将自己与Alexander McQueen与Coco Chanel等大师比较；尝试通过更努力和设定不切实际的高标准来对抗自我怀疑但效果欠佳。该事件导致其学业表现受影响、与同学关系紧张、睡眠紊乱与自我照料下降；且在纽约缺乏近亲友的支持。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我缺乏天赋",
+        "我的价值取决于是否被名校/权威认可"
+      ],
+      "special_situations": [
+        {
+          "event": "收到知名设计学院的拒信",
+          "conditional_assumptions": "如果我没有被名校录取，就证明我不够努力/不够有天赋，不配从事时装设计",
+          "compensatory_strategies": "立刻逼迫自己“更努力”，设定不切实际的目标并反复反刍失败原因",
+          "automatic_thoughts": "我应该更努力、我应该更有天赋；也许我永远成不了设计师",
+          "cognitive_pattern": "Should"
+        },
+        {
+          "event": "在进行设计创作、打磨作品时",
+          "conditional_assumptions": "如果作品不是完美的，就说明我是失败者",
+          "compensatory_strategies": "过度打磨与推迟提交、反复否定自己的草稿以回避被评价",
+          "automatic_thoughts": "这稿子不够好，如果不完美就会被否定",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "走访时尚店获取灵感或看到优秀作品/大师作品",
+          "conditional_assumptions": "如果别人作品比我好，就证明我没有天赋也不配成功",
+          "compensatory_strategies": "不断与顶尖设计师比较并贬低自己的长处",
+          "automatic_thoughts": "他们都比我强，我不配成为设计师",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与设计学院的同学/同行交流或接受同伴反馈",
+          "conditional_assumptions": "如果我表现不佳，别人会看不起我、关系会变差",
+          "compensatory_strategies": "回避深入交流或过度解释以自我防御",
+          "automatic_thoughts": "他们会觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被权威与同行认可、被看见自己的才华与独特风格",
+        "fear": "害怕被拒绝和被否定，体验强烈羞耻与失败感",
+        "defense_goal": [
+          "以极高标准与自我苛责来避免再次失败与羞耻",
+          "通过回避创作/交流降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者/需要证明自己的学生",
+          "object_representation": "苛刻的评审与难以满足的权威（名校、业内）",
+          "linking_affect": "羞耻、焦虑、挫败"
+        },
+        {
+          "self_representation": "仰望与渴望被看见的学习者",
+          "object_representation": "完美且遥不可及的成功典范（顶尖设计师）",
+          "linking_affect": "自卑、仰慕、无力感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在纽约缺乏强社会支持，家人和密友不在身边",
+            "与设计同伴关系因自我怀疑而紧张"
+          ],
+          "outcomes": [
+            "自我怀疑与不安全感加剧",
+            "动机与精力下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "被拒录后对时装设计的热情受损",
+            "创作动力减弱、回避灵感搜集"
+          ],
+          "outcomes": [
+            "睡眠紊乱与自我照料下降",
+            "对职业道路的迷茫与失落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁以“我应该更努力/更有天赋”评判自我",
+            "以名校录取作为自我价值的唯一或主要标准",
+            "用顶尖大师的标准要求自己、忽略自身阶段性进步"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在进行设计创作或走访时尚店获取灵感时，来访者通常会产生强烈的自卑与自我怀疑，从而降低投入并想要放弃。",
+          "unique_outcome": "在几次本地设计比赛中获奖，并多次获得教授的积极反馈；这些时刻他感到自豪与自信，能认可自己的独特风格，与平时的自我否定不同。",
+          "reason": "线索：不同支持与评价（评委与教授的正向反馈）；不同情境（作品契合其独特风格）；不同做法（更专注于作品本身而非与大师比较），因此这次自我怀疑明显减轻并获得积极结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在本地设计比赛中获奖，具备可被认可的能力与作品",
+          "教授给予持续的正向反馈",
+          "拥有被认可的独特设计风格",
+          "能够主动寻求帮助（选择进入咨询）"
+        ],
+        "negative_force": [
+          "灾难化、全或无、读心术与“应该”句式等认知偏差明显",
+          "将自我价值过度绑定于名校/权威认可与与大师级人物的比较",
+          "设定不切实际的标准，过度用力后挫败与耗竭",
+          "社交支持系统薄弱，缺乏情感缓冲",
+          "睡眠紊乱与自我照料下降，进一步削弱动机与执行力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的自我否定与与顶尖设计师比较",
+          "antecedent": [
+            "进行设计创作时",
+            "走访时尚店获取灵感、看到优秀作品时",
+            "回想被拒录经历时"
+          ],
+          "core_reason": "被拒录事件激活“我不够好/缺乏天赋”的核心信念，伴随灾难化与全或无思维",
+          "function": "通过贬低自我与提高门槛来试图避免再次失败与羞耻（短期情绪控制）",
+          "consequence": "动机下降、作品投入减少、人际关系紧张与情绪低落"
+        },
+        {
+          "behavior": "回避创作与灵感搜集（动力不足、拖延与推迟提交）",
+          "antecedent": [
+            "面对需要产出的创作任务",
+            "预期会被严格评价或比较的场景"
+          ],
+          "core_reason": "将不完美等同失败的非黑即白思维与对负面评价的恐惧",
+          "function": "逃避焦虑与避免被评价带来的羞耻",
+          "consequence": "学业与职业表现受损、进一步加深自我怀疑"
+        },
+        {
+          "behavior": "睡眠紊乱与自我照料忽视",
+          "antecedent": [
+            "夜间反刍被拒经历与自我苛责",
+            "白天长期压力与负面自我评价"
+          ],
+          "core_reason": "内化的“应该”规则与持续的负性反刍维持生理激活",
+          "function": "以自我消耗/惩罚方式缓解内疚（短期错觉的控制感）",
+          "consequence": "身心能量下降，影响情绪调节与学习/创作效率"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1268
+}

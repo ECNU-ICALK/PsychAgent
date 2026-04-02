@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "李卓",
+      "gender": "男",
+      "occupation": "大学一年级学生",
+      "educational_background": "攻读学士学位",
+      "marital_status": "单身",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "有支持性的朋友与家人，但尚未与他们讨论负面想法；与同学互动易受负面自我对话影响",
+      "medical_history": "无显著躯体疾病；无类似问题既往史；未接受过心理治疗或咨询",
+      "language_features": "态度积极、配合度高；能具体描述自动化思维与触发情境；逻辑清晰；主观感受中等焦虑"
+    },
+    "main_problem": "存在负性自我对话的模式，并经常因为简单原因贬低自己，觉得自己是“失败者”。这些想法在大学开始时出现，随后愈发频繁与强烈，尤其在出现小错误、面对挑战、与同学互动或收到作业反馈后。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询是因为这些负面想法开始影响自尊和学业表现；希望改变心态，让自己感觉更好。",
+    "growth_experiences": [
+      "大学开始时的过渡压力（中等强度）触发并逐渐强化了负性自我对话的模式：在与同学互动、收到作业反馈、面对小错误或挑战后，几乎每天都会出现“我是失败者”“我不够聪明”“我不会成功”等自动化思维；曾尝试聚焦积极面与挑战消极想法，但效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够聪明",
+        "我不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "收到作业反馈中的小批评",
+          "conditional_assumptions": "如果被批评，就说明我不够好、别人认为我不行",
+          "compensatory_strategies": "回避与亲友讨论负面想法；尝试提醒自己优点和过去成功来对抗负面思维",
+          "automatic_thoughts": "他们觉得我很差/我是失败者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与同学互动后发现他人理解更快",
+          "conditional_assumptions": "如果我理解得不如同学快，就意味着我在落后，说明我不够聪明",
+          "compensatory_strategies": "试图专注于积极证据（如“人人都会犯错”），但在当下难以奏效",
+          "automatic_thoughts": "我不如他们/我不够聪明",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "得到不够完美的成绩（less-than-perfect grade）",
+          "conditional_assumptions": "如果成绩不完美，就等于失败、说明我不够聪明",
+          "compensatory_strategies": "尝试进行认知重评与自我安慰，但负面想法更强",
+          "automatic_thoughts": "我不够聪明",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在学业上犯小错误或遇到挑战",
+          "conditional_assumptions": "如果我犯错或遇到挑战，说明整体能力不足，未来也会失败",
+          "compensatory_strategies": "尝试挑战这些想法、聚焦积极，但难以维持",
+          "automatic_thoughts": "我永远不会成功",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同伴与教师认可、被视为聪明且有能力",
+        "fear": "害怕被批评或被看作失败者，从而被排斥与贬低自我",
+        "defense_goal": [
+          "避免暴露脆弱（不与亲友讨论负面想法）以减少被否定的风险",
+          "通过自我贬低与降低期望来预先缓冲失望与羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、容易失败的学生",
+          "object_representation": "挑剔的批评者（如老师或同学）",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当收到作业反馈的批评或拿到不够完美的成绩时",
+          "interpretation": "倾向将他人视为挑剔的评判者，认为他们把自己当作失败者（移情：将外界评价放大为否定）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与贬低自我的语气，强调自身不足；避免谈及外部因素与他人责任，降低自身期望以缓冲挫败感。"
+        },
+        {
+          "trigger_condition": "当被询问负面想法的依据与证据、需要面对情绪时",
+          "interpretation": "倾向以成绩与比较数据来说明问题，从而与羞耻与焦虑保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、客观的分析语气回应，列举成绩与同伴差异，尽量减少情绪词与主观感受的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在困境中主观感到“好像只有我赶不上”，体验到与他人割裂",
+            "未与支持性的家人和朋友讨论负面想法，倾向于独自承受",
+            "负性自我对话在社交互动后显著加重"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "焦虑加重",
+            "睡眠与饮食节律受扰",
+            "学业表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "虽有支持系统但不向其表达与求助，选择独自承受负面自我对话",
+            "以自我批评取代对外表达需求与寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁的自我贬低（“我不够聪明”“我不会成功”）",
+            "在与同学比较时加剧自我批评，降低自我价值感"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“完美成绩=有能力、非完美=失败”作为自我价值判断的硬性标准",
+            "将同伴理解速度内摄为衡量自身能力的绝对标尺"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家人与朋友（社会支持可被动员）",
+          "态度积极，愿意改变心态并参与练习",
+          "能识别并描述自身的自动化思维与认知模式"
+        ],
+        "negative_force": [
+          "负性自我标签与灾难化预测频繁且强烈",
+          "与他人比较、将不完美等同失败的认知规则固化",
+          "不向支持系统表达需求，独自承受导致孤独与自责加剧",
+          "自尊受损并伴随睡眠与饮食紊乱，进一步削弱功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "负性自我对话与自我贬低（如“我是失败者”“我不够聪明”“我不会成功”）",
+          "antecedent": [
+            "与同学互动后",
+            "收到作业反馈或批评",
+            "取得不够完美的成绩",
+            "在学业中出现小错误或面对挑战"
+          ],
+          "core_reason": "大学过渡期带来的压力；与同伴比较引发的自卑；将“不完美=失败”的认知偏差；对他人评价高度敏感",
+          "function": "通过自我贬低来预先降低期望、缓冲潜在的批评与失望，短期逃避羞耻与焦虑感",
+          "consequence": "自尊进一步下降；学业表现受影响；与同学互动受损；睡眠与饮食节律紊乱；焦虑加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 311
+}

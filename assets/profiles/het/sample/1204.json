@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "张薇",
+      "gender": "女性",
+      "occupation": "正在求职/待业",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与一只狗同住",
+      "social_status": "回避社交与求职面试，缺乏可以讨论不安全感的亲友支持",
+      "medical_history": "青少年时期即存在与身高相关的不安全感；未接受过心理咨询或心理治疗；无重大躯体疾病",
+      "language_features": "略显紧张（自述紧张）；表达清晰、能自我反思；合作度较好，愿意尝试记录与积极自我对话"
+    },
+    "main_problem": "长期对自身身高感到不安全，认为总会因身高被他人评判、而得不到机会，这在求职面试与社交场合尤为突出，导致回避与自尊受损。",
+    "topic": "职业发展",
+    "core_demands": "希望获得心理支持，减轻因身高引发的不安全感与被评价的恐惧，提升求职面试中的自信与表现。",
+    "growth_experiences": [
+      "青少年时期在学校因身高被同伴取笑与忽视，由此形成并延续至今的自我不安全感；成年后在面试与社交场景中持续触发该不安全感，导致回避行为与自尊受影响；此前未寻求过心理咨询与治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的身高决定了他人对我的评价与机会",
+        "无论我做什么都不够好（身高会让他人否定我）"
+      ],
+      "special_situations": [
+        {
+          "event": "进入或即将进入求职面试现场",
+          "conditional_assumptions": "如果面试官第一眼看到我的身高，就会认定我不合适，拒绝我",
+          "compensatory_strategies": "回避面试或以紧张、自我怀疑的状态参加；尝试用积极自我对话短暂提升信心但难以维持",
+          "automatic_thoughts": "他们会一眼把我否定，不管我怎么准备都会被拒绝",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在面试准备阶段或现场需要强调资历与能力时",
+          "conditional_assumptions": "只要我的身高不占优势，我的表现再好也无济于事",
+          "compensatory_strategies": "难以专注于展示资历与能力，陷入自我怀疑；用自我否定抵消焦虑",
+          "automatic_thoughts": "不管我做什么都不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "参加社交或职场网络活动时与陌生人初次接触",
+          "conditional_assumptions": "别人会把我的身高与能力直接挂钩，认为我不专业",
+          "compensatory_strategies": "减少参与社交和网络活动，以回避被评判；靠与狗相处获得安慰",
+          "automatic_thoughts": "他们肯定觉得我不够专业、能力不行",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面试结束后未被录用的结果出现或被回忆时",
+          "conditional_assumptions": "如果我没有拿到工作，一定是因为我的身高",
+          "compensatory_strategies": "将失败单一归因于身高，忽视其他可能解释，从而加剧回避与自我否定",
+          "automatic_thoughts": "没拿到工作就是身高害的",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被公平评价与接纳，并凭能力获得机会",
+        "fear": "害怕因身高被羞辱与拒绝，担心自我价值被否定",
+        "defense_goal": [
+          "通过回避社交与面试来降低被评判的风险、保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判、易被否定的弱势求职者",
+          "object_representation": "苛刻、挑剔、带有偏见的面试官/他人",
+          "linking_affect": "羞耻、焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探问未被录用的原因或邀请其考虑其他可能解释时",
+          "interpretation": "倾向将招聘决定理解为对自己身高的否定（把他人决定视为针对自己身体特征的评判）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气偏坚定，反复强调“主要是身高的原因”，弱化其他因素；使用绝对化表述，少举具体证据。"
+        },
+        {
+          "trigger_condition": "当咨询师关注其在社交场合中的感受与他人看法时",
+          "interpretation": "认为他人会看不起自己、觉得自己不专业（将内在的不安全感归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用确定性语言描述他人想法，如“他们肯定觉得我不行”；语气紧张、回避讨论反证。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "缺乏亲友支持，主要依赖宠物获得情感支持",
+            "回避社交与职场网络活动，难以建立有意义的人际连接"
+          ],
+          "outcomes": [
+            "人际关系紧张与疏离",
+            "求职渠道与机会受限",
+            "自尊与自我价值感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：如“他在看不起我”“他们想排挤我”等。",
+          "manifestations": [
+            "在面试与社交场合中预设他人看不起自己、认为自己不专业",
+            "对他人评价的负面解读先行，忽视事实与证据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑，强调“我不够好”",
+            "在面试前后过度在意他人可能的评价，影响表现与行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "自我描述为勤奋与有责任心，愿意把任务做好（内在工作伦理与坚持）",
+          "愿意尝试记录与积极自我对话（对改变持开放态度）",
+          "能够考虑到招聘决定的其他可能因素（具备一定的认知灵活性）",
+          "与宠物的情感连接可短暂缓冲压力与孤独感"
+        ],
+        "negative_force": [
+          "过度在意他人评价并倾向负面解读（读心、预测未来）",
+          "过度概括与灾难化的认知模式，弱化自我能力证据",
+          "回避社交与面试，减少真实表现与获取机会的可能",
+          "社会支持稀缺，缺乏可讨论不安全感的亲友网络",
+          "长期的被取笑经历固化了自我否定与羞耻感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交与求职面试",
+          "antecedent": [
+            "求职面试到来或进入面试现场",
+            "参加职场网络活动或陌生社交场合"
+          ],
+          "core_reason": "青少年时期的身高被取笑经历强化了对他人评价的恐惧，形成对拒绝与羞辱的灾难化预期与读心倾向",
+          "function": "逃避可能的负面评价与拒绝，以保护自尊与降低焦虑",
+          "consequence": "求职机会减少、社交联系受限、人际关系紧张，自尊与自我效能感进一步下降"
+        },
+        {
+          "behavior": "在面试中因自我意识过强而难以聚焦展示资历与能力",
+          "antecedent": [
+            "面试官开始评估与提问",
+            "需要突出自身经验与优势的环节"
+          ],
+          "core_reason": "将他人注意力过度归因于身高，产生“无论怎么准备都不够好”的过度概括性信念",
+          "function": "通过自我贬低与防御性关注来试图降低被否定时的心理落差",
+          "consequence": "现场表现受损，难以有效呈现资历与优势，增加未录用的可能性并加深负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1204
+}

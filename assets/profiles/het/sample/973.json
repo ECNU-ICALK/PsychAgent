@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "周珊",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与祖父母同住，养一只猫",
+      "social_status": "与祖父母关系支持性，但因披萨事件与奶奶的关系受到影响，且对表达感受犹豫",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗；未有类似心理问题经历",
+      "language_features": "态度中性，能清晰表达焦虑与内疚；其他未提及"
+    },
+    "main_problem": "我在与奶奶一起做披萨时把披萨烤糊后，出现内疚与自我不足感，担心她不再愿意与我一起做饭，这让我很痛苦。",
+    "topic": "家庭关系",
+    "core_demands": "希望缓解内疚与被拒绝的恐惧，这些已影响情绪与日常生活，并避免事态进一步恶化。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我会被拒绝"
+      ],
+      "special_situations": [
+        {
+          "event": "与奶奶一起做披萨时把披萨烤糊了",
+          "conditional_assumptions": "如果我犯错，家人会失望并不再愿意与我合作或相处；犯错意味着我不够好",
+          "compensatory_strategies": "回避在厨房活动，暂不与奶奶一起做饭",
+          "automatic_thoughts": "她再也不会和我一起做饭了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次想到与奶奶一起做饭",
+          "conditional_assumptions": "如果再次下厨，必定还会失败，这说明我不够好",
+          "compensatory_strategies": "避免进入厨房或参与烹饪情境",
+          "automatic_thoughts": "我会再次搞砸",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要与奶奶谈论自己的感受",
+          "conditional_assumptions": "如果表达真实感受，她会确认对我失望并拒绝我",
+          "compensatory_strategies": "保持沉默，回避与奶奶沟通",
+          "automatic_thoughts": "她会说她对我失望",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想过去几次做饭失误时奶奶曾经很理解",
+          "conditional_assumptions": "积极证据不算数，这次不同",
+          "compensatory_strategies": "忽视以往的理解与支持，只关注负面可能",
+          "automatic_thoughts": "这次她一定会生气",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被奶奶接纳，并在亲密的家庭互动（一起做饭）中被看见与认可",
+        "fear": "害怕被拒绝、让家人失望",
+        "defense_goal": [
+          "通过回避厨房与沟通来保持距离，以避免遭遇否定与拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、容易犯错的、不够好的孙辈",
+          "object_representation": "可能失望并会拒绝我的奶奶",
+          "linking_affect": "内疚、焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及是否与奶奶谈论这次事件和自己的感受时",
+          "interpretation": "来访者认为开口沟通会让奶奶确认自己让她失望，从而拒绝自己",
+          "defense_mechanism": "回摄",
+          "defense_definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做",
+          "response_instruction": "使用温和、验证情感的语气，减少对抗与质疑；以开放式问题邀请其逐步表达具体感受与需要，允许停顿并给出安全边界。"
+        },
+        {
+          "trigger_condition": "当被邀请再次与奶奶一起下厨、进行行为实验时",
+          "interpretation": "来访者认为再次下厨必然失败，并会让奶奶更加失望",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先共情其紧张与担忧，再引导其区分“假设”与“证据”；采用小步推进与具体化任务，鼓励记录实际反应以修正预期。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被奶奶拒绝而不再一起做饭",
+            "犹豫表达感受、保持距离",
+            "因一次失误而自我价值动摇，体验“不够好”与内疚"
+          ],
+          "outcomes": [
+            "焦虑与压力增加",
+            "回避家庭互动",
+            "关系疏离感上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不敢与奶奶谈论自己的内疚与担忧",
+            "回避在厨房和参与做饭"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将自身的自我否定与恐惧归因于奶奶“会失望/会拒绝我”",
+            "读心式假设奶奶持有负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到与奶奶一起做饭的情境时，来访者通常会产生强烈的焦虑与内疚，预测被拒绝，并选择回避。",
+          "unique_outcome": "以往几次做饭出现失误时，奶奶表现出理解与包容，没有责备或拒绝，互动保持温和。",
+          "reason": "不同支持：奶奶一贯的理解与支持；不同证据：过往失误并未导致拒绝，为当前担忧提供反例。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与祖父母关系支持性",
+          "奶奶在以往失误时表现出理解与包容",
+          "愿意尝试行为实验并寻求咨询帮助",
+          "能够觉察并描述自己的自动化思维"
+        ],
+        "negative_force": [
+          "读心术与预测未来的思维模式",
+          "过度概括导致自我否定",
+          "回避沟通与烹饪情境",
+          "对被拒绝的强烈恐惧与外部验证依赖"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避进入厨房及与奶奶一起做饭",
+          "antecedent": [
+            "想到与奶奶一起做饭",
+            "身处厨房环境",
+            "被邀请或计划与奶奶再下厨"
+          ],
+          "core_reason": "因一次失誤引发的被拒绝恐惧，将事件过度概括为“自己不够好”的证据，并以读心与预测未来的方式放大负面结果。",
+          "function": "逃避潜在的否定与拒绝，短时降低焦虑与压力",
+          "consequence": "家庭互动减少、关系紧张与疏离；持续焦虑与内疚，影响日常活动"
+        },
+        {
+          "behavior": "犹豫/回避与奶奶沟通自己的感受",
+          "antecedent": [
+            "被问及或想到要与奶奶讨论披萨事件与自身感受"
+          ],
+          "core_reason": "担心沟通会确认对方失望（读心术），由此加剧被拒绝的恐惧",
+          "function": "避免面对可能的负面反馈以降低当下不适",
+          "consequence": "情绪无法缓解，误解与疏离加深"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 973
+}

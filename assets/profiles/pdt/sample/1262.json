@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "王馨怡",
+      "gender": "女",
+      "occupation": "高中生",
+      "educational_background": "目前在读高中",
+      "marital_status": "未婚",
+      "family_status": "与父母及一名年幼的兄弟姐妹同住",
+      "social_status": "与父母关系因学业压力而紧张；有朋友与家人支持，但学业担忧不易对他人表达",
+      "medical_history": "无重大躯体疾病；既往无心理咨询或治疗史；此前无类似心理问题",
+      "language_features": "表达清晰，能识别并描述焦虑与需求，配合度较高；语气中性"
+    },
+    "main_problem": "因最近一次数学测验成绩不佳，持续担心无法从高中毕业，感到不堪重负与焦虑。",
+    "topic": "学业压力",
+    "core_demands": "希望更好地理解数学内容并提升成绩，同时显著减轻持续性的焦虑感；愿意与数学老师沟通并探索寻求家教支持。",
+    "growth_experiences": [
+      "初中阶段曾一度以为英语要不及格，但通过与家教系统复习与练习，最终获得了 B，带来可通过求助与努力改善学业的经验；但目前主观感受认为与当下情境不同。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于学业成绩与满足他人（父母）的期望",
+        "如果在关键考试中失败，就说明我不够胜任/不够聪明"
+      ],
+      "special_situations": [
+        {
+          "event": "上周收到数学测验成绩不理想",
+          "conditional_assumptions": "如果一次重要考试没考好，就意味着我之后也会失败，最终无法毕业并让父母失望",
+          "compensatory_strategies": "加倍用功、向同学求助以弥补，但内心仍反复焦虑并回避与父母深入讨论",
+          "automatic_thoughts": "我可能永远毕不了业，我会让父母失望。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "独自学习数学或准备下一次考试时",
+          "conditional_assumptions": "如果这次没学懂，下次考试一定会更糟",
+          "compensatory_strategies": "反复刷题、长时间学习但效率低，迟疑是否要找老师/家教帮助",
+          "automatic_thoughts": "我下次肯定还会考砸。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与父母谈论成绩和毕业要求时",
+          "conditional_assumptions": "如果我没有达到他们的期待，他们就会认为我不行",
+          "compensatory_strategies": "减少与父母沟通学业细节，尽力独自承担压力以避免被评判",
+          "automatic_thoughts": "他们一定会很失望，觉得我不够好。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾整体学业状况、想到数学是毕业要求的关键科目时",
+          "conditional_assumptions": "若有一门课表现不佳，整体就等于失败",
+          "compensatory_strategies": "只关注失败证据，忽略其他科目或过往正面经验",
+          "automatic_thoughts": "我整体上就是不行，这次考差说明我会一直失败。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过学业被父母与重要他人认可、被接纳并被看作有能力的人",
+        "fear": "害怕因达不到学业标准而被失望、被否定，进而体验羞耻与被拒绝",
+        "defense_goal": [
+          "通过自我高要求与保留求助来维持自尊与控制感",
+          "避免暴露“无能”，以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要通过成绩证明价值的学生/可能失败者",
+          "object_representation": "带着高期待、可能失望的评判者（父母）",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        },
+        {
+          "self_representation": "一旦求助就显得无能的学生",
+          "object_representation": "拥有评判与决定权的权威者（教师）",
+          "linking_affect": "紧张、犹豫、压迫感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议其寻求老师/家教帮助时",
+          "interpretation": "将求助等同于暴露无能，担心被权威看低或被否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用共情且探询式语气，先肯定其对独立的重视，再温和追问：除了“材料更难”，还有哪些顾虑？邀请其辨别事实与担忧，使用具体化与澄清问题的开放式问题。"
+        },
+        {
+          "trigger_condition": "当谈及父母的期待与可能的失望时",
+          "interpretation": "将紧张与害怕转向自责，认为一切后果由自己承担",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "温和反映其自责负担，邀请识别情绪（焦虑/羞耻）与界限；使用支持性、低对抗语气，鼓励以第一人称陈述感受并区分事实与评价。"
+        },
+        {
+          "trigger_condition": "当被邀请回忆并整合过往的积极经验（如初中家教提升）时",
+          "interpretation": "倾向以“这次不同”为由否定可借鉴性，减少希望感",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以接纳姿态回放其“这次不同”的理由，邀请列举相同与不同点；使用温和的苏格拉底式提问，帮助其发现可迁移的资源。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "明知家人和朋友支持，却难以向他们表达学业恐惧，倾向独自承受压力",
+            "在求助问题上感到为难与羞耻，减少与父母深入沟通"
+          ],
+          "outcomes": [
+            "焦虑升级并持续化",
+            "与父母关系紧张",
+            "睡眠与食欲受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对毕业与学业选择/责任的压力感增强，将后果全盘内化为个人责任",
+            "把“求助”理解为削弱自主与能力"
+          ],
+          "outcomes": [
+            "加重自我苛责与焦虑",
+            "回避求助导致学业困难维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“求助=不够能力”的规则内化为硬性标准",
+            "对自己的学业表现使用“必须/应该”式评价，认为一考差即等于失败"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心寻求帮助会暴露无能，过度自我审视而迟疑不前",
+            "在与父母或老师交流学业问题时小心翼翼、回避深入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收到考试不理想成绩时，通常会灾难化地预测持续失败，感到强烈焦虑并影响睡眠与学习，且犹豫是否寻求外部帮助。",
+          "unique_outcome": "在初中某次以为英语要不及格时，并未一味陷入焦虑，而是与家教系统学习，结果获得了 B，掌握感与成绩明显改善。",
+          "reason": "不同做法：主动寻求家教支持并坚持练习；不同理解：将问题拆解、聚焦技能提升；不同支持：家教提供针对性反馈与鼓励。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾通过家教显著提升学业的成功经验",
+          "有朋友与家庭的潜在支持资源",
+          "愿意尝试与老师沟通并探索外部帮助",
+          "能自我觉察负性思维与焦虑影响"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白与过度概括等认知偏差显著",
+          "自我价值过度依附于学业成绩与父母期待",
+          "对求助的羞耻/无能联想导致回避",
+          "睡眠与食欲受影响，进一步放大焦虑与注意力困难"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学习数学或谈论成绩/毕业时出现强烈焦虑（伴随失眠与食欲下降）",
+          "antecedent": [
+            "看到或处理数学作业/试题",
+            "想到即将到来的考试与毕业要求",
+            "与父母讨论成绩"
+          ],
+          "core_reason": "灾难化与非黑即白等认知偏差叠加对父母失望的恐惧，放大失败后果并将价值等同于成绩",
+          "function": "短期逃避被评估与失败感，避免羞耻与被否定情景",
+          "consequence": "学习效率下降、学业表现进一步下滑、与父母关系紧张，焦虑维持并加剧"
+        },
+        {
+          "behavior": "回避求助（迟疑或不愿向老师/家教寻求帮助）",
+          "antecedent": [
+            "想到向老师/家教求助时联想到“求助=不够能力”",
+            "在成绩不佳后感到羞耻与被评判风险"
+          ],
+          "core_reason": "内化的规则“求助意味着无能”，为保护自尊而避免暴露不足",
+          "function": "维护自尊与控制感，短期减少羞耻与被评判的不适",
+          "consequence": "难点无法被有效解决，负性循环维持，焦虑持续存在"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1262
+}

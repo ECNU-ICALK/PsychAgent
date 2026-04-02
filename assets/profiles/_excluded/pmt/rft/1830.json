@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "李成",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲在其2岁时去世；其余未提及",
+      "social_status": "有几位一起钓鱼的朋友，近期注意到其在钓鱼行程中的挫败与缺乏享受；但李成未与他们深入分享具体困扰",
+      "medical_history": "无重大躯体疾病；无既往心理治疗经历；未有类似心理问题史",
+      "language_features": "思路清晰、表达具体，能回顾时间线与情境；合作度较高，情绪基调为挫败与自我怀疑；能进行自我反思，并愿意尝试小步骤的改变"
+    },
+    "main_problem": "我一直相信自己怎么都钓不到鱼，尽管我很喜欢钓鱼。这种信念让我感到挫败和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "持续的失败感和挫折感已经显著影响了我对生活的享受，因此我来寻求咨询；我想改善这种状况。",
+    "growth_experiences": [
+      "2岁时父亲去世，成长过程中缺乏父亲角色的陪伴与指导（其余家庭细节未提及）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "每次外出钓鱼后都空手而归",
+          "conditional_assumptions": "只有钓到鱼才算成功，否则就是失败",
+          "compensatory_strategies": "加倍更换饵料与技巧、向有经验的钓友请教以证明自己可以做到",
+          "automatic_thoughts": "我不行/我永远钓不到鱼",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在钓鱼过程中也有享受自然与过程的时刻",
+          "conditional_assumptions": "只有结果（钓到鱼）才有价值，过程中的愉悦不算数",
+          "compensatory_strategies": "忽视过程中的积极体验，把注意力全部放在是否上鱼",
+          "automatic_thoughts": "没有鱼就一无是处",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与钓友一起出行或谈论钓鱼表现时，朋友注意到他越来越不开心",
+          "conditional_assumptions": "如果让别人知道我钓不到鱼，他们会看低我/觉得我小题大做",
+          "compensatory_strategies": "减少与朋友深入分享，回避谈及自己的挫败感",
+          "automatic_thoughts": "他们会觉得我在夸大或笑话我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "多次尝试不同技巧并寻求建议后仍未上鱼",
+          "conditional_assumptions": "如果用尽方法仍然不行，就说明我天生不行，而且以后也不会好",
+          "compensatory_strategies": "降低外出频率、产生退缩与自我否定以避免再次失败",
+          "automatic_thoughts": "我注定不行，今后也不会好",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过爱好获得胜任感与被认可，恢复对生活与自我的积极感受",
+        "fear": "害怕被评价为无能、被嘲笑或遭遇羞耻",
+        "defense_goal": [
+          "通过理性分析与技术细节控制不确定性，尽量避免暴露脆弱",
+          "减少向朋友袒露感受以避免被评判与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且被评判的业余爱好者",
+          "object_representation": "挑剔/可能嘲笑或贬低自己的他人（如更能干的钓友）",
+          "linking_affect": "羞耻、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾积极体验或挑战“我从未能钓到鱼”的信念时",
+          "interpretation": "倾向把咨询师的探索理解为在淡化他的困境，需要他用证据证明自己",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用技术性、客观化语言回应（列举饵料、方法、时段等），语气克制，减少情绪表达。"
+        },
+        {
+          "trigger_condition": "当咨询师建议其尝试向朋友更开放地分享挫败感时",
+          "interpretation": "认为一旦分享就等于承认无能，朋友会觉得他小题大做或嘲笑他",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以“他们会怎么看我”为由推迟行动，语气犹疑，强调潜在负面反应以回避尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "最爱的爱好因长期空手而归而丧失乐趣，感觉生活享受度下降",
+            "在“只有钓到鱼才算成功”的价值条件下，过程体验被忽略"
+          ],
+          "outcomes": [
+            "动机下降、情绪低落与挫败",
+            "对生活其他活动的兴趣与愉悦感受被连带削弱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有钓友但不愿深入分享内心挫败，担心被评判",
+            "在重要关系情境中保持保留与自我保护"
+          ],
+          "outcomes": [
+            "支持资源未被有效利用，主观孤立感增加",
+            "负性情绪循环维持、问题持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把“只有钓到鱼才算成功”当作绝对标准来评价自我",
+            "否定过程中的享受与进步"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设朋友会觉得自己小题大做或嘲笑自己",
+            "因此回避更开放的表达与求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我贴标签“我不行/我失败”",
+            "在分享前过度担心他人评价，小心翼翼地压抑表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对钓鱼有持续的热爱与投入意愿",
+          "能主动尝试多种策略并向他人请教",
+          "具备一定社会支持（有几位钓友可交流）",
+          "愿意尝试开放表达与进行现实检验（在咨询中表示愿意尝试）",
+          "身体健康、无重大躯体疾病"
+        ],
+        "negative_force": [
+          "过度概括、否定积极、读心术与预测未来等认知偏差",
+          "以结果为唯一标准的僵化成败观",
+          "自我怀疑与羞耻，回避向他人求助或表达",
+          "对外部验证依赖较强，易受他人评价影响",
+          "挫败后动机迅速下降，形成回避与减少参与的循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在钓鱼未上鱼后出现强烈自我否定与挫败，进而减少外出或丧失兴趣",
+          "antecedent": [
+            "钓鱼行程结束时空手而归",
+            "在任何地点或时段钓鱼但未见上鱼",
+            "与他人谈及钓鱼成绩时被比较或被关注"
+          ],
+          "core_reason": "以结果为中心的僵化信念（只有钓到鱼才算成功）与过度概括、预测未来等认知偏差导致自我价值与单次结果过度绑定",
+          "function": "短期逃避失败与羞耻感，试图通过退缩维持自尊与控制感",
+          "consequence": "情绪低落、易怒与动机下降，爱好乐趣减少并波及日常生活与社交"
+        },
+        {
+          "behavior": "回避向朋友表达真实困扰与情绪",
+          "antecedent": [
+            "想到或面对与钓友讨论钓鱼表现的场合",
+            "被问及最近钓鱼感受与收获时"
+          ],
+          "core_reason": "害怕被评价为“无能”与羞耻，将内在担忧投射为他人会负面评价",
+          "function": "逃避潜在负面评价与羞耻体验，维持短期心理安全感",
+          "consequence": "支持资源未被激活，主观孤立与挫败感加重，问题循环被维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1830
+}

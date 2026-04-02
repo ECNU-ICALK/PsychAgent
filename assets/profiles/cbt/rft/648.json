@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "韩思凯",
+      "gender": "男",
+      "occupation": "面包师",
+      "educational_background": "高中学历",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "社交圈较小，较难向朋友敞开谈及不安全感",
+      "medical_history": "无类似问题史；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑连贯；语气谨慎、怀疑但愿意配合；多使用消极预测与自我贬低表述；能在引导下提出小目标（如从穿针开始）"
+    },
+    "main_problem": "对缝纫技能产生自我不足与自我怀疑，认为无论怎么练习也不会变好；最初由与他人比较引发，现已发展到回避缝纫并感到沮丧。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些自我怀疑的感受正在影响我对缝纫的享受并造成痛苦，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是“不够好/不够有能力”的人",
+        "无论如何练习也不会变好"
+      ],
+      "special_situations": [
+        {
+          "event": "观看线上缝纫教程并看到他人的高质量作品",
+          "conditional_assumptions": "如果我不能很快达到教程呈现的水平，就说明我没有天赋、我是不行的",
+          "compensatory_strategies": "反复刷教程与对比、寻求他人认可但减少实际练习以避免再次受挫",
+          "automatic_thoughts": "不管练多久我也达不到他们的水平",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "尝试制作一个“看起来很简单”的托特包但成品不理想",
+          "conditional_assumptions": "如果连简单项目都做不好，就证明我永远不会做好",
+          "compensatory_strategies": "停止使用缝纫机，完全回避缝纫",
+          "automatic_thoughts": "连这么简单的都做不好，我就是不行，我永远学不会",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到他人的缝纫项目或成品（线上/线下）",
+          "conditional_assumptions": "只有做到和别人一样好甚至更好，才算“够好/合格”",
+          "compensatory_strategies": "把注意力放在他人的优势与自己的不足上，降低开口求助与交流的意愿",
+          "automatic_thoughts": "其他人都比我强太多，我远远不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "仅仅想到要重新开始缝纫或准备动手练习",
+          "conditional_assumptions": "如果再失败一次，就会再次证明我一无是处",
+          "compensatory_strategies": "通过预先否定与退缩来避免启动任务",
+          "automatic_thoughts": "一旦开始就会很糟糕，我又会失败",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望胜任与被认可（希望通过缝纫展现能力并获得肯定）",
+        "fear": "害怕失败与被比较后被否定，伴随羞耻与自卑",
+        "defense_goal": [
+          "通过回避缝纫来减轻失败感与羞耻",
+          "以自我贬低的方式先行防御外界评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的学习者/实践者",
+          "object_representation": "他人/教程是苛刻的评判者与遥不可及的高手",
+          "linking_affect": "羞耻、沮丧、自卑与焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出建立分级任务与逐步暴露练习时",
+          "interpretation": "认为这对自己无效、最终仍会失败（将咨询师的建议体验为“无法帮助我”的外界标准/要求）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但消极的语气表达怀疑（如“这可能没用”“过程太长不一定有效”），减少承诺，强调困难与不确定性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、社交圈有限",
+            "难以向朋友敞开谈及不安全感与自我怀疑",
+            "感觉他人“不理解为什么缝纫会困扰我”"
+          ],
+          "outcomes": [
+            "情绪低落与无助感增强",
+            "减少与他人关于兴趣/困扰的连接",
+            "进一步回避缝纫与表达需求"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本作为兴趣的缝纫失去乐趣，体验被自我怀疑侵蚀"
+          ],
+          "outcomes": [
+            "兴趣退缩，成就感缺失",
+            "对自我价值的怀疑增强，日常情绪受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（“我不行”“我永远学不会”）",
+            "难以向朋友表达不安，担心被不理解",
+            "面对练习任务时过度审查自己的不足而不启动行动"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "以怀疑与否定（“这也许没用”）来回避直接投入练习",
+            "遇到失败经历后不再触碰缝纫机",
+            "把注意力转向比较与预测而非当下体验与练习"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "将练习的冲动压回并自我苛责（停止缝纫、内心批评加重）",
+            "较少主动寻求有效指导或分解任务，而是对自己“忍着”与退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定工作与基本执行力，日常功能未受影响",
+          "愿意在咨询中尝试分级任务与逐步暴露（从穿针等低难度开始）",
+          "能识别触发因素（观看教程、与他人比较、想到要开始做）",
+          "具备一定外部支持（有少数朋友可交流）"
+        ],
+        "negative_force": [
+          "习惯性比较与自我否定，依赖外部验证",
+          "灾难化与过度概括、全或无思维导致启动困难",
+          "回避缝纫以逃避失败与羞耻，强化问题循环",
+          "社交圈有限、表达不安困难，支持动员受限"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避缝纫与相关练习",
+          "antecedent": [
+            "尝试缝纫或仅仅想到要开始",
+            "观看线上教程、看到他人高质量作品",
+            "与他人作品进行比较"
+          ],
+          "core_reason": "相信“无论如何练习都不会变好”，用回避来减轻失败与羞耻感",
+          "function": "逃避不受欢迎的情绪（失败感、羞耻与焦虑）",
+          "consequence": "兴趣与乐趣丧失、情绪低落与挫败感增加，日常主观幸福感下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 648
+}

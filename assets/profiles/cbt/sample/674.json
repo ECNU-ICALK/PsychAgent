@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "李瑶",
+      "gender": "女",
+      "occupation": "急救医务人员（Paramedic）",
+      "educational_background": "急救医疗认证（Certification in Paramedicine）",
+      "marital_status": "单身",
+      "family_status": "与母亲经常联系（每天通话），未提及其他直系亲属",
+      "social_status": "未提及",
+      "medical_history": "无显著身体疾病；无既往心理问题或治疗史",
+      "language_features": "表达清晰、逻辑连贯；态度偏消极与怀疑；自我批评明显；在叙述中常出现非黑即白、个人化、心理过滤与“否定积极”的认知；能配合探索但倾向淡化积极证据"
+    },
+    "main_problem": "我觉得自己是个坏儿子，尽管每天都和母亲通话，这让我产生内疚和自我批评。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到这些内疚感影响了我的心理健康，想与专业人士一起处理。",
+    "growth_experiences": [
+      "大约一年前与母亲发生一次看似琐碎但影响深远的争执，争执后内疚感显著上升并持续至今；在与母亲的日常互动后或回忆该争执时，常陷入“无论我做什么都不够”的自我批评；倾向只关注关系中的负面片段、过滤掉积极面（如母亲在通话中表现的愉悦与感谢）；因此与母亲的关系感到紧张，自己也不愿与母亲直接讨论内疚感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个坏儿子",
+        "无论我做什么都不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "与母亲的每日通话结束后",
+          "conditional_assumptions": "只有彻底弥补那次争执或做到“完美”，才算是好子女；若不完美，便是坏儿子",
+          "compensatory_strategies": "坚持每日联系、记录积极片段但随即贬低其价值，试图以高标准补偿",
+          "automatic_thoughts": "这些积极不算数，我还是个坏儿子",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回忆一年前与母亲的争执",
+          "conditional_assumptions": "一次错误就能定义我的整体品格与关系质量",
+          "compensatory_strategies": "反复自我反省并自责，试图以更高的要求来避免再次犯错",
+          "automatic_thoughts": "那次争执证明我就是个坏儿子",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在通话中母亲表现愉悦并感谢来电",
+          "conditional_assumptions": "若曾经有过争执，之后的积极互动不足以证明我是好子女",
+          "compensatory_strategies": "淡化或忽略积极反馈，继续关注负面证据",
+          "automatic_thoughts": "这些都比不上那次争执的伤害",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "母亲提到自己有时会感到孤独",
+          "conditional_assumptions": "如果母亲感到孤独，说明我没有尽到责任，让她失望了",
+          "compensatory_strategies": "通过更频繁联系来弥补，但回避与母亲直接讨论内疚感",
+          "automatic_thoughts": "她孤独是因为我做得不够",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被母亲认可与需要的“好子女”，维持亲密与和谐的关系",
+        "fear": "害怕让母亲失望、被贴上“坏/不孝”的标签，从而被拒绝或关系破裂",
+        "defense_goal": [
+          "通过频繁联系与自我苛责来维持关系与安全感",
+          "避免与母亲直接讨论内疚与需求以减少被评判的风险",
+          "以高标准约束自我、通过自我批评防止再次犯错"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有亏欠感、需要不断弥补的子女",
+          "object_representation": "容易失望或评判性的母亲",
+          "linking_affect": "内疚、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调关系中的积极证据或邀请从不同视角重构“坏儿子”的自我标签时",
+          "interpretation": "来访者倾向认为积极反馈“不足以证明”，并将咨询师的重构视为“不适用/没用”，继续坚持负性自我认知",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以简短否定句回应，语气消极与保留；反复强调那次争执“说明了一切”，对积极证据以“这不够/这没用”为由加以否定，回避更深入的情感探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以刚性“应该成为更好的子女”为自我要求",
+            "将一次争执当作关系与自我价值的唯一标准",
+            "不敢与母亲讨论真实的内疚与需要，限制自我表达"
+          ],
+          "outcomes": [
+            "持续的内疚与自我批评",
+            "情绪低落、怀疑与自我攻击",
+            "与母亲关系紧张、互动受限"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "积极互动被否定或忽视，难以从关系中获得意义感",
+            "自我价值被单一负性事件吞没，难以整合复杂经验"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "对关系的希望感与意义感减弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "反复出现“我应该是更好的儿子”",
+            "用外在道德标准硬性评判自我，难以消化并转化为自身需要"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "不与母亲直接讨论内疚与真实感受，将沟通的冲动转化为自责与自我批评",
+            "在通话后把注意力转向自我攻击而非相互理解"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与母亲保持每日联系，具备稳定的关系投入",
+          "工作表现稳定（急救工作未受影响），说明具备压力下的功能维持能力",
+          "能进行自我反思并愿意尝试记录积极片段",
+          "有一定社会支持（曾与朋友交流）"
+        ],
+        "negative_force": [
+          "僵化的自我标签与非黑即白思维",
+          "心理过滤与否定积极导致难以整合正面经验",
+          "个人化倾向，将母亲的孤独归因于自身不足",
+          "回避与母亲讨论内疚，强化误解与紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的内疚与自我批评",
+          "antecedent": [
+            "与母亲通话后",
+            "回忆一年前的争执",
+            "在看到关系中的积极迹象时仍联想到负面评价"
+          ],
+          "core_reason": "将一次争执过度概括为自我评价基准，并内摄“应该成为更好子女”的刚性标准；伴随个人化与心理过滤，使积极证据被贬低",
+          "function": "自我惩罚以维持道德标准并试图避免再次犯错或被母亲失望",
+          "consequence": "情绪低落与负性情绪加重、关系紧张、难以接纳积极互动导致问题延续"
+        },
+        {
+          "behavior": "回避与母亲讨论内疚与真实感受",
+          "antecedent": [
+            "通话中或通话后意识到内疚与自我批评",
+            "想到母亲表达孤独或感谢时引发自责"
+          ],
+          "core_reason": "担心被评判或引发冲突，将沟通能量转为自我责备（回摄）",
+          "function": "逃避可能的负面评价与关系冲突，短期维持安全感",
+          "consequence": "误解与紧张持续，积极信息难以被整合，问题维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 674
+}

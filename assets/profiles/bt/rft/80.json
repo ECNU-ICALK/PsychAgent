@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "娜塔莉",
+      "gender": "女",
+      "occupation": "加油站收银员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居；母亲曾是伦敦的知名芭蕾舞演员",
+      "social_status": "有少数朋友，但未与其讨论不安；搬到新城市后社交受影响，难以建立有意义的连接",
+      "medical_history": "无显著躯体疾病；未接受心理治疗；无类似问题史",
+      "language_features": "未提及"
+    },
+    "main_problem": "我觉得由于自己在加油站当收银员，别人都把我看成懒惰的人，这让我产生不安全感和自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些不安全感正在影响我的社交互动和整体幸福感。",
+    "growth_experiences": [
+      "母亲曾是伦敦的著名芭蕾舞演员；来访者在成长与成人后期将母亲的成功职业作为比较参照，报告中明确指出：当她把自己的工作与母亲的成功职业进行比较时，压力水平上升，触发自卑与不安全感。",
+      "约一年前搬到新城市并开始在加油站担任收银员；自此出现并加重了被他人评判与自我怀疑的感受，主要在社交场景或结识新朋友时每周出现几次；虽然尝试通过更努力工作与增加社交活动来证明自己的价值，这些感受仍持续存在。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于工作是否体面与职业地位",
+        "我不如母亲那样成功"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合或结识新朋友时谈到自己的工作是加油站收银员",
+          "conditional_assumptions": "如果我的工作不体面，别人就会认为我懒惰、缺乏抱负",
+          "compensatory_strategies": "在工作中更加努力并增加社交活动以证明自己",
+          "automatic_thoughts": "他们一定觉得我很懒、不上进",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "将自己的工作与母亲作为著名芭蕾舞演员的成功事业进行比较",
+          "conditional_assumptions": "如果我达不到母亲的成就，就说明我失败、不够好",
+          "compensatory_strategies": "为自己设定僵化规则：“我不应该在加油站工作”",
+          "automatic_thoughts": "我不如母亲，我显得很失败",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "搬到新城市后在新环境中开始加油站收银工作",
+          "conditional_assumptions": "在这个城市里人们会以职业来界定一个人的价值",
+          "compensatory_strategies": "在岗位上更加用力工作以换取他人认可",
+          "automatic_thoughts": "在这里大家都会看不起我",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人接纳与认可，不因职业而被贬低",
+        "fear": "害怕被评判为懒惰或失败，进而被拒绝、失去联系与尊重",
+        "defense_goal": [
+          "通过社交退缩减少被否定的风险",
+          "通过过度努力工作来弥补被看低的恐惧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如母亲的子女、带有自卑的自我",
+          "object_representation": "理想化、成功且高标准的母亲形象",
+          "linking_affect": "羞愧、压力、自卑"
+        },
+        {
+          "self_representation": "容易被评判、需要小心自我保护的人",
+          "object_representation": "他人是苛刻的评判者",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询她对他人如何看待自己的信念、或谈及母亲成功与“必须不在加油站工作”等规则时",
+          "interpretation": "倾向将他人的关心或探问理解为对自己不够体面的评判（移情：将他人视作评判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用平和、客观的语气，强调事实与功能（如“它能让我付账、提供稳定”），减少情感词汇与自我暴露；若被追问感受，转向谈论实际细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "难以建立有意义的连接",
+            "在结识新朋友时担心他人评价而“不做自己”"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "低自尊与不安全感",
+            "情绪与心情受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以母亲的成功为硬性标准衡量自我",
+            "形成“我不应该在加油站工作”的僵化规则",
+            "用他人眼光界定自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交中高度担心他人看法而变得拘谨与退缩",
+            "自我怀疑、难以自然表达",
+            "未向朋友表达自己的不安与感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作表现稳定",
+          "有几位朋友可作为潜在支持",
+          "对咨询持开放态度，愿意尝试行为实验",
+          "能够进行认知重评（看到工作为当前需求提供稳定与经济支持）"
+        ],
+        "negative_force": [
+          "持续的与母亲成功的比较带来压力与自卑",
+          "读心术与过度概括等认知扭曲",
+          "将外部评价与职业体面度作为自我价值的僵化规则",
+          "低自尊与不安全感导致社交退缩",
+          "不愿与朋友讨论不安，支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合因害怕被评价为懒惰而退缩与紧张",
+          "antecedent": [
+            "在社交场合或结识新朋友时",
+            "当被问及或主动谈到自己的工作是加油站收银员时"
+          ],
+          "core_reason": "与母亲成功职业的长期比较及认知扭曲（读心术、过度概括）使其将职业体面与自我价值强绑定，产生被评判的预期与焦虑",
+          "function": "逃避与减少被负面评价的风险，短期维持自尊的安全感",
+          "consequence": "难以建立有意义的关系，低自尊与不安全感持续，日常情绪与心情受到影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 80
+}

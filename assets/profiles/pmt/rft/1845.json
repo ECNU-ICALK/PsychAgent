@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "陈梅",
+      "gender": "女",
+      "occupation": "制药行业",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有支持性的朋友群体，但因经常取消与朋友的计划以腾出时间照顾狗，关系受到一定影响",
+      "medical_history": "未曾出现类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "配合度高、态度积极；表达清晰、能自我反思；报告持续的焦虑与内疚；语速未提及"
+    },
+    "main_problem": "我经常因为像某天没能给狗洗澡这样的琐事而给自己贴上“疏忽的狗主人”的标签，这让我感到内疚和焦虑，并进行自我批评。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到内疚和自我批评影响了我的心理健康以及与狗相处的愉悦，于是寻求咨询；希望通过识别并检验负性信念，重构为更平衡、现实的看法，从而减轻内疚与焦虑。",
+    "growth_experiences": [
+      "在一段特别忙碌的工作周内，因时间紧张减少与狗相处并错过一次洗澡，由此开始反复体验“疏忽”的内疚与焦虑，进而影响工作表现、人际关系、睡眠与日常作息。",
+      "长期为宠物护理设定严格的例行与高标准（步行、喂食、梳洗等），将“全部达标”视为合格；当个别环节未完成时倾向于自我指责与过度概括。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不负责任/疏忽的狗主人",
+        "只有完全达到高标准我才是合格的主人，否则就是失败"
+      ],
+      "special_situations": [
+        {
+          "event": "工作特别忙的一周导致没能按计划给狗洗澡",
+          "conditional_assumptions": "如果我漏掉一次护理项目，就说明我是疏忽、失败的主人",
+          "compensatory_strategies": "进行自我批评、加倍严格执行护理例行、牺牲其他安排来补偿",
+          "automatic_thoughts": "我是个疏忽的狗主人",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到朋友或他人知道我未按标准完成护理",
+          "conditional_assumptions": "如果别人知道我未达标，他们就会评价我不负责任",
+          "compensatory_strategies": "回避社交、取消与朋友的计划以投入更多时间照顾狗",
+          "automatic_thoughts": "他们会觉得我不负责任",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾当天的宠物护理时只关注未完成的部分",
+          "conditional_assumptions": "只有全部项目都完成才算合格，任何遗漏都会抵消其他努力",
+          "compensatory_strategies": "通过不断挑错与反思来“督促”自己，忽略已完成的积极行为",
+          "automatic_thoughts": "我做得不够，哪怕少做一点也证明我不够好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当社交安排与宠物护理计划发生冲突",
+          "conditional_assumptions": "如果我不能始终把宠物护理放在第一位，就证明我不负责任",
+          "compensatory_strategies": "取消与朋友的计划以确保护理按标准完成",
+          "automatic_thoughts": "一次没做到就说明我不是称职的主人",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为尽责、被认可的照顾者，维持“合格主人”的形象",
+        "fear": "害怕被他人评判为不负责任、被贴上“疏忽”的标签",
+        "defense_goal": [
+          "通过设定严格标准与自我批评来维持控制与安全感",
+          "通过减少社交、投入更多时间照顾宠物以避免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、必须完美的照顾者",
+          "object_representation": "潜在的挑剔评判者（他人/社会）",
+          "linking_affect": "羞愧、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对宠物有稳定的关爱与责任心（即使忙碌也完成喂食与两次遛狗）",
+          "具备自我反思能力，愿意尝试记录与行为实验",
+          "拥有支持性的朋友群体可倾诉"
+        ],
+        "negative_force": [
+          "自我贴标签与过度自我批评",
+          "过度依赖他人评价与害怕被评判",
+          "心理过滤与过度概括，忽视已完成的积极行为",
+          "将宠物护理置于绝对优先导致社交受损与压力增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贴标签与自我批评（将自己称为“疏忽的狗主人”）",
+          "antecedent": [
+            "未能完成计划中的护理项目（如未给狗洗澡）",
+            "工作繁忙导致减少与狗相处时间"
+          ],
+          "core_reason": "对宠物护理设定过高且僵化的标准，并担心他人负面评价；将一次遗漏过度概括为整体不负责任",
+          "function": "通过自我惩罚与内在批评来驱动自己更严格执行护理、获得控制感与潜在外部认可",
+          "consequence": "持续的内疚与焦虑、睡眠与日常作息受影响、工作表现下滑"
+        },
+        {
+          "behavior": "取消与朋友的计划以投入更多时间照顾狗",
+          "antecedent": [
+            "当社交安排与宠物护理计划发生冲突",
+            "担心他人知道自己未达标而评价负面"
+          ],
+          "core_reason": "为避免被评判及缓解内疚，将宠物护理置于绝对优先以维持“合格主人”形象",
+          "function": "逃避可能的批评与内疚，获得短期安全感与控制感",
+          "consequence": "人际关系紧张、社交减少、压力增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1845
+}

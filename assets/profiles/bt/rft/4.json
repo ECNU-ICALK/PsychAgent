@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "刘若晴",
+      "gender": "女",
+      "occupation": "滑板运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，与家人联系很少",
+      "social_status": "社会支持系统薄弱，常感到孤立",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；长期存在自卑与无价值感体验",
+      "language_features": "表达清晰、逻辑连贯，配合度高；情绪紧张但抱有希望，能进行自我反思与重构尝试"
+    },
+    "main_problem": "我常常觉得全世界的人都认为我是个失败者，并且我永远一事无成。这些想法导致我产生无价值感和低动机。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些负面想法一直在影响我的日常生活、人际关系和整体幸福感。",
+    "growth_experiences": [
+      "青少年时期因外表和兴趣常被同龄人称为“懒散的人”和“怪人”，由此开始出现长期的无价值感与自卑，这些体验持续到成年。",
+      "成年后在亲密关系中屡遭拒绝、就业不稳定，这些挫败经历进一步强化了“我是一无是处”的负性自我评价。",
+      "长期社会支持不足，独自生活且与家人联系很少，使得孤立感与消极信念难以被修正。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我没有价值",
+        "他人都会看不起我"
+      ],
+      "special_situations": [
+        {
+          "event": "在滑板活动中因年龄偏大、技巧不如他人而处于他人注视的社交情境",
+          "conditional_assumptions": "如果我不够出色或不符合他人的期待，就会被评判和排斥",
+          "compensatory_strategies": "减少自我暴露、回避与他人互动，用积极自我肯定试图压制负面想法",
+          "automatic_thoughts": "他们都在看不起我，我根本不属于这里",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在亲密关系中遭遇拒绝或情感不顺",
+          "conditional_assumptions": "如果被拒绝，就说明我本质上不够好、不可爱",
+          "compensatory_strategies": "降低投入、回避进一步的亲密接触以避免再次受伤",
+          "automatic_thoughts": "被拒绝就是我不配，这证明我是个失败者",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "面对新的挑战或在任务中出现失败",
+          "conditional_assumptions": "如果我不能立刻成功，就意味着我永远不会成功",
+          "compensatory_strategies": "减少尝试与投入，拖延或退缩以避免失败带来的羞耻感",
+          "automatic_thoughts": "这次又会搞砸，我永远都成不了什么",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "工作经历不稳定、表现受低动机影响",
+          "conditional_assumptions": "如果我没有稳定工作或持续的好表现，就证明我根本没能力",
+          "compensatory_strategies": "降低期望、避免承担更高要求的任务以减少被评估的机会",
+          "automatic_thoughts": "我工作老是不稳定，所以我就是无能的人",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被肯定并拥有归属感",
+        "fear": "害怕被拒绝、被羞辱与被负面评价为失败者",
+        "defense_goal": [
+          "通过保持距离与回避高评估情境来降低被拒绝与羞辱的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被贬低和不被需要的局外人/失败者",
+          "object_representation": "挑剔、评判与拒绝的他人/群体",
+          "linking_affect": "羞耻、恐惧、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交或被他人关注与评估的场景（如滑板活动、与新朋友接触）",
+          "interpretation": "他人会像过去的人那样贬低与排斥自己，认为所有人都在评判我（移情：将内在自我贬低体验投向外界）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎且自我保护，反复强调“他们都觉得我不行”，回避提供具体证据，倾向寻求确认与安抚；当被深入追问时轻微退缩或转移话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、与家人联系很少",
+            "社会支持系统薄弱，社交场合常感到被排斥"
+          ],
+          "outcomes": [
+            "持续的无价值感与自我否定",
+            "回避亲密与社交、动机降低"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "频繁出现“我永远一事无成”的想法",
+            "工作不稳定与成就感稀少时对自我价值的怀疑"
+          ],
+          "outcomes": [
+            "低动机与行为退缩",
+            "情绪低落、自我效能感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在活动或社交中认为“所有人都在看不起我”",
+            "将内在的羞耻与自我贬低体验归因为他人的负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（如“我是失败者”“我永远不够好”）",
+            "在新挑战和竞争环境中过度谨慎、降低自我暴露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在滑板活动等社交情境中，来访者通常会认为他人都在评判自己、感到自己是失败者，从而退缩并难以投入。",
+          "unique_outcome": "在一次滑板活动中成功完成高难度动作，且在活动中帮助了他人；当时感到有成就、被需要，负面自我评价明显减弱。",
+          "reason": "线索：当出现可观察的成功（完成高难度动作）或 prosocial 行为（帮助他人）并获得正向反馈时，提供了与“我是失败者”相矛盾的证据，短时提升了自我效能与归属感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对咨询持积极态度并愿意配合练习（如记录与重构想法）",
+          "在成功完成动作或帮助他人时能体验到成就与价值感",
+          "能识别并命名自动化负面想法，具备一定自我反思能力"
+        ],
+        "negative_force": [
+          "过度概括、读心术、灾难化与个人化等认知偏差巩固负性自我图式",
+          "低动机与行为退缩，减少了矫正性经验的机会",
+          "社会支持薄弱与长期孤立维持消极信念",
+          "亲密关系受挫与就业不稳作为反复负性证据源"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "消极自动思维与自我贬低言语（如“我是失败者”“我永远不会有成就”）",
+          "antecedent": [
+            "处于社交情境或与陌生人互动",
+            "在竞争/评估性环境中（如滑板活动）",
+            "面对新挑战或任务失败、遭遇拒绝"
+          ],
+          "core_reason": "青少年时期被贴上“懒散、怪人”的负面标签，成年后在亲密关系受挫与就业不稳的反复经历强化了“无价值/失败者”的核心信念",
+          "function": "情绪性逃避（降低被拒绝与羞耻的即时痛苦）与维持认知一致性",
+          "consequence": "动机下降、情绪低落与回避行为增加，进一步损害工作表现与人际关系"
+        },
+        {
+          "behavior": "社交回避与退缩",
+          "antecedent": [
+            "新人场合、被他人注视或需要展示能力的情境",
+            "预期可能出现的拒绝或负面评价"
+          ],
+          "core_reason": "害怕被评判与羞辱，将拒绝等同于自我整体价值低下",
+          "function": "回避不适情绪（焦虑、羞耻），降低被拒绝的风险",
+          "consequence": "孤立与支持匮乏持续，缺乏矫正性体验，负性信念被进一步强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 4
+}

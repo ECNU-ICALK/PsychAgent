@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "66",
+      "name": "陈欣雅",
+      "gender": "女性",
+      "occupation": "护士",
+      "educational_background": "护理学学位",
+      "marital_status": "单身",
+      "family_status": "成长于军人家庭，未提及父母情况",
+      "social_status": "拥有支持性的朋友群体，但尚未与其讨论冲浪相关困扰；朋友注意到其情绪与行为变化",
+      "medical_history": "此前未出现类似心理问题，未接受心理咨询或治疗；无重大躯体疾病史",
+      "language_features": "配合度良好、态度积极；能进行自我反思与认知重构；表达清晰、逻辑性较好；语速未提及"
+    },
+    "main_problem": "在大海上冲浪时被大浪冲翻后，持续感到失败与失望，并由此产生“我永远不可能成为精英冲浪者”的想法；事件当下伴随高度压力与羞耻感，并出现否定过去积极冲浪体验、以一次事件过度概括自身能力的倾向。",
+    "topic": "情绪管理",
+    "core_demands": "负性想法与失败感影响了自尊与对冲浪的享受，故寻求咨询以帮助挑战并重构这些负性思维、恢复更平衡与现实的自我看法。",
+    "growth_experiences": [
+      "成长于军人家庭（未提及父母具体情况与养育方式）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在海边大浪冲浪时被大浪冲翻，且自觉被许多人看到与评价",
+          "conditional_assumptions": "如果我在公众面前出现明显失误，就证明我不够好/是失败者",
+          "compensatory_strategies": "回避与朋友谈论该事件以避免被评价与不被理解",
+          "automatic_thoughts": "我永远不可能成为精英冲浪者",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每当经历高难度的冲浪训练或挑战性海况后",
+          "conditional_assumptions": "一次失败就能定义我的整体能力与未来表现",
+          "compensatory_strategies": "反复回放失败画面、沉浸于自我怀疑以试图“防止再次失败”",
+          "automatic_thoughts": "这次失败说明我冲浪很差",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆以往成功冲浪经历或收到他人称赞时",
+          "conditional_assumptions": "只有稳定且完美的成功才算数，偶发的成功不具有价值",
+          "compensatory_strategies": "将积极表现归因为“只是运气”，以维持一致的负面自我评价",
+          "automatic_thoughts": "那只是运气，这些成功不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在公开场合经历过失或想起被他人注视的场景",
+          "conditional_assumptions": "如果他人在场，就会观看并负面评价我的表现",
+          "compensatory_strategies": "自我保护性地减少外界反馈接触（如不与朋友讨论冲浪困扰）",
+          "automatic_thoughts": "他们都在看我、并且觉得我很糟糕",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与证明自己足够优秀（在重要领域如冲浪中表现出色）",
+        "fear": "害怕在公众面前失败被羞辱、被他人评判，从而定义自我为“失败者”",
+        "defense_goal": [
+          "保持疏离与沉默（不向朋友透露冲浪困扰）以减少被评判的风险",
+          "通过将积极经历归因为“运气”来否定正面证据，降低期待以减少失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被羞辱的失败者、不够好的自己",
+          "object_representation": "挑剔、带评判的旁观者/他人",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "可能被误解而感到犹疑的求助者",
+          "object_representation": "或许不理解、可能认为自己反应过度的他人（尽管现实中朋友总体支持）",
+          "linking_affect": "犹疑、担心、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被咨询师或他人提醒过去的成功、或邀请其从积极视角看待当前挫折时",
+          "interpretation": "认为那些成功不真实或不重要（移情：将自身不配与羞耻体验投射到外界反馈上）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "淡化积极证据，强调“只是运气”；语气平静但略显自我批评，以事实性解释取代情感表达。"
+        },
+        {
+          "trigger_condition": "当回忆公开场合的冲浪失误、或感觉被他人注视与评判时",
+          "interpretation": "倾向把内在的羞耻与不配感归因于他人的负面看法（“他们觉得我很差”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用猜测他人想法的表述（如“他们一定在看不起我”），语气紧张、带防御性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到在公众面前失败被观看与评判，产生羞耻与退缩",
+            "没有向支持性朋友群体谈论具体冲浪困扰，内在体验相对孤立"
+          ],
+          "outcomes": [
+            "自尊受损与自我贬损标签化",
+            "睡眠受扰",
+            "对其他兴趣（如烘焙）缺乏动力",
+            "工作表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "以“我是失败者”“我不够好”等自我标签进行苛责",
+            "担心朋友不理解或认为自己反应过度而不敢求助",
+            "在对话中迅速将积极经历解释为“只是运气”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "感觉所有人都在注视并评判她",
+            "将羞耻与不配感归因于他人的负面评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或环境采取的行为冲动，转而对自己做，或把能量向内收回。",
+          "manifestations": [
+            "没有向支持性朋友讨论冲浪相关困扰",
+            "将压力内化，出现睡眠干扰与情绪低落"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在经历挑战性冲浪训练后，来访者通常会过度概括一次失误为整体能力不足，并陷入失望与自我怀疑。",
+          "unique_outcome": "在过去的困难冲浪训练中，来访者曾从挫折中学习并逐步提升表现，而非被失败完全定义。",
+          "reason": "不同理解：将艰难情境视为学习机会（“每个人都会有失误的日子”），从而保留改进空间并形成积累。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友群体",
+          "过去在困难冲浪中能学习与改进的经验",
+          "职业功能总体良好（护理工作能力稳定）"
+        ],
+        "negative_force": [
+          "过度概括与灾难化倾向",
+          "否定积极证据（把成功归因于“只是运气”）",
+          "自我标签化与自我贬低",
+          "对未来冲浪的负性预测导致焦虑与睡眠受扰"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在冲浪失误后进行消极反刍（灾难化、过度概括、否定积极证据）并以“失败者”自我贴标签",
+          "antecedent": [
+            "在海上被大浪冲翻等公开失误情境",
+            "回忆被他人注视与评判的场景",
+            "预想到未来的挑战性冲浪训练"
+          ],
+          "core_reason": "自尊与自我价值对表现高度敏感，伴随对他人评价的高度担忧与羞耻感",
+          "function": "逃避失败与羞耻的情绪，试图通过自我批评获得控制感或避免再次受挫",
+          "consequence": "自尊下降、睡眠受扰、兴趣减退（如烘焙）、工作注意力与表现下降"
+        },
+        {
+          "behavior": "社交回避（不与支持性朋友讨论冲浪困扰）",
+          "antecedent": [
+            "感觉被观看与评判后的羞耻体验",
+            "担心朋友不理解或认为自己反应过度"
+          ],
+          "core_reason": "害怕负面评价与被误解，借由保持沉默来维持安全感",
+          "function": "逃避潜在的否定反馈与尴尬情绪",
+          "consequence": "支持资源未被使用，负性情绪与认知持续、恢复速度变慢"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 920
+}

@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈婉宁",
+      "gender": "女",
+      "occupation": "",
+      "educational_background": "立志成为兽医，目前不在学校",
+      "marital_status": "",
+      "family_status": "有支持性的家人和朋友，但她对与他们讨论困难感到尴尬",
+      "social_status": "",
+      "medical_history": "无显著躯体疾病史；此前未接受过心理治疗或咨询",
+      "language_features": "紧张但配合，表达清晰，能反思；在被赞美时倾向淡化与转移话题，对他人反应较为敏感"
+    },
+    "main_problem": "因在减肥期间“作弊”而产生强烈的内疚与无望感，害怕无法实现减重目标。",
+    "topic": "情绪管理",
+    "core_demands": "内疚与恐惧已令人难以承受，希望通过咨询来处理这些问题；同时希望在被认可时能更舒适自信地接受赞美，不再推开他人或感到需要隐藏。",
+    "growth_experiences": [
+      "童年时期常被夸“聪明”，因而感到与众不同并需达成“不可实现的标准”，长期承受高期待带来的压力；这促成了她在被赞美时的不适与回避、对完美的追求以及自我评价的苛刻。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美表现才有价值",
+        "不完美就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次减肥期间违背了饮食计划（“作弊”）",
+          "conditional_assumptions": "如果我一次偏离饮食计划，就说明我缺乏自控，今后也无法成功减重",
+          "compensatory_strategies": "采取极端节食并惩罚自己，以恢复控制感",
+          "automatic_thoughts": "我会一直超重，永远也达不到减重目标",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每当我偏离饮食计划时",
+          "conditional_assumptions": "一次失误代表我在整个减肥旅程中失败",
+          "compensatory_strategies": "加倍严格控制饮食，否定任何正向进展",
+          "automatic_thoughts": "这次失败证明我永远做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在公共场合被他人称赞或认可我的成就",
+          "conditional_assumptions": "如果接受赞美就会成为注意中心并引发他人的苛责或期望，我必须避免",
+          "compensatory_strategies": "淡化成就、转移话题或把功劳归于他人",
+          "automatic_thoughts": "他们会觉得我骄傲或不配这些赞美",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到要向支持性的家人或朋友求助时",
+          "conditional_assumptions": "如果暴露困难，别人会看不起我或感到失望",
+          "compensatory_strategies": "回避与亲友谈论自己的问题，以减少被评价的风险",
+          "automatic_thoughts": "他们会因为我不够坚强而失望",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并保持自我价值，同时在减重上获得掌控与成功",
+        "fear": "害怕被关注后必须持续完美、害怕他人失望与评判；担心一次失误意味着彻底失败",
+        "defense_goal": [
+          "通过淡化赞美、回避暴露脆弱与自我惩罚来降低焦虑与压力"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要隐藏自己、害怕被期待的被注视者",
+          "object_representation": "他人被体验为苛刻的评判者或容易失望的观察者",
+          "linking_affect": "焦虑、内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询开始、需要与不熟悉的咨询师谈论自己的感受与问题时",
+          "interpretation": "将咨询师体验为可能评判自己的人，公开谈论等于暴露缺点并成为注意中心",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用轻描淡写的语气，以“这不算什么”“任何人都能做到”等话语淡化自我表现，迅速转移话题并减少细节披露"
+        },
+        {
+          "trigger_condition": "在公共场合被他人称赞时",
+          "interpretation": "认为他人会因此对自己有更高期待或觉得自己骄傲（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "回以自贬或把功劳归于他人，语气谦卑甚至否认成就，以避免被关注"
+        },
+        {
+          "trigger_condition": "在减肥过程中出现一次饮食偏离后",
+          "interpretation": "将一次失误视为整体失败，也担心他人会因此失望（全好全坏的评价）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "用绝对化词语描述自己（如“我彻底失败了”），并采取极端节食或自我惩罚的行为"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被赞美带来“必须达成不可能标准”的压力，难以按自身意愿自然表达和接纳赞美"
+          ],
+          "outcomes": [
+            "回避关注与自我呈现",
+            "焦虑与内疚加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持性家人和朋友，却因尴尬而难以向其倾诉困难"
+          ],
+          "outcomes": [
+            "减少求助与连接",
+            "情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触",
+          "manifestations": [
+            "被称赞时淡化成就、转移话题",
+            "用玩笑或泛化的表述规避直接回应"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "过度担心他人如何看待自己的反应",
+            "事后反复自责与揣测他人是否不满"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理",
+          "manifestations": [
+            "将“必须完美”视为内在标准",
+            "难以接纳不完美与偶尔失误"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在被赞美时，来访者通常会立即淡化或转移话题，并随后感到焦虑和内疚",
+          "unique_outcome": "有几次在私下、由熟悉的人称赞时，她能够微笑并说“谢谢”，未立即否认或贬低，之后的不适较轻",
+          "reason": "不同情境与支持：称赞者为关系亲近者且不在公共场合，安全感更高，因此这次能够尝试直接接纳赞美"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的家人与朋友",
+          "在特定私密与信任的情境下能够接纳赞美",
+          "具备自我反思与改变的意愿"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与仓促下结论（读心术、预测未来）的认知模式",
+          "在饮食偏离后进行极端节食与自我惩罚",
+          "对他人评价高度敏感，倾向寻求外部验证并回避关注",
+          "从童年内摄的高标准与完美主义压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在偏离饮食后进行极端节食与自我惩罚",
+          "antecedent": [
+            "偏离饮食计划"
+          ],
+          "core_reason": "将一次失误视为整体失败，试图通过更严格控制来恢复安全与掌控",
+          "function": "逃避内疚与焦虑、获得控制感",
+          "consequence": "与食物的关系恶化，焦虑与内疚加重，减重过程更难维持"
+        },
+        {
+          "behavior": "在被称赞时回避并淡化赞美（转移话题、否认成就）",
+          "antecedent": [
+            "在公共场合或被他人称赞与认可时"
+          ],
+          "core_reason": "害怕成为注意中心并被评判，内摄“必须完美”的标准",
+          "function": "逃避被关注与他人期待，降低压力",
+          "consequence": "人际互动出现尴尬，事后自责与焦虑，影响关系质量"
+        },
+        {
+          "behavior": "在偏离饮食计划后出现强烈的灾难化自动思维与情绪反应（内疚、绝望）",
+          "antecedent": [
+            "偏离饮食计划"
+          ],
+          "core_reason": "预测最坏结果并过度概括，认为一次失误意味着永远失败",
+          "function": "以高压情绪自我警戒以维持控制（不适应的策略）",
+          "consequence": "产生无望感与压力增大，影响心理健康与减重目标推进"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 261
+}

@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林娜",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "有朋友可交谈，但尚未与他们讨论此负性信念；因回避电影邀请或对新片表达消极，朋友关系受到一定影响",
+      "medical_history": "无类似心理问题经历；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "语气平稳、思路清晰，能自我反思，合作度较好"
+    },
+    "main_problem": "长期热爱看电影，但近来形成“所有未来的电影都会很糟”的信念，导致在谈及新片或计划观影时出现焦虑与回避，影响了社交与观影乐趣。",
+    "topic": "情绪管理",
+    "core_demands": "关于未来电影的负性信念开始影响社交生活和曾经喜欢的活动，因此寻求咨询以解决该问题并恢复观影的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "未来的体验往往会令人失望",
+        "积极的期待不可靠，最好预期最坏以免失望"
+      ],
+      "special_situations": [
+        {
+          "event": "当出现关于即将上映电影的讨论",
+          "conditional_assumptions": "如果我对新片抱有期待，就更可能失望并浪费时间",
+          "compensatory_strategies": "在讨论中强调负面可能、降低期待以自我保护",
+          "automatic_thoughts": "它们都会很糟，我一定会失望。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与朋友计划电影之夜",
+          "conditional_assumptions": "如果电影不好，我会扫大家的兴致，显得我很无趣",
+          "compensatory_strategies": "回避参与或提前表达消极看法以避免被责怪",
+          "automatic_thoughts": "我会拖累大家的心情，晚上会很糟。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "收到朋友的观影邀请",
+          "conditional_assumptions": "如果一两部电影不好，就说明以后电影基本都会不好",
+          "compensatory_strategies": "拒绝邀请、减少与电影相关的活动",
+          "automatic_thoughts": "还是别去了，反正都会很差，去也是浪费时间。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在社交场合谈论新片和即将上映的电影",
+          "conditional_assumptions": "如果我不去设想最坏，就会在现实中承受更大的失望",
+          "compensatory_strategies": "专注于列举电影可能出错的方面，避免正面信息",
+          "automatic_thoughts": "一想到各种可能出错的地方，我就觉得一定会很糟。",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望重新享受观影并与朋友轻松相处、被接纳",
+        "fear": "害怕经历失望、担心影响他人情绪被视为扫兴",
+        "defense_goal": [
+          "通过预期最坏与回避观影来降低失望和尴尬的可能性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "担心扫兴、容易令人失望的人",
+          "object_representation": "对方是容易被我负面情绪影响、期待我配合氛围的人",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友谈论新片或发出观影邀请时",
+          "interpretation": "认为自己若参与会让大家失望，或电影必定很差（将负面结果视为确定）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以冷静、客观化的语气陈述“现在的片子质量都不行”“去也多半浪费时间”，减少情感表述，委婉拒绝邀请。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "曾经热爱的观影活动变得缺乏 compose 意义与乐趣",
+            "对未来电影形成一概而论的负面期待，削弱了兴趣与投入"
+          ],
+          "outcomes": [
+            "对兴趣的疏离与空心感加重",
+            "对观影相关情境的焦虑与回避"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "回避与朋友的电影活动",
+            "在朋友谈论新片时感到格格不入"
+          ],
+          "outcomes": [
+            "社交参与减少，关系疏离",
+            "自我评价下降并伴随焦虑"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与家人或朋友讨论、计划观影时，来访者通常会预期电影很糟、产生焦虑并选择回避或消极表达。",
+          "unique_outcome": "有一次与家人不情愿地一起看了一部电影，原以为会很差，但实际观影体验“挺好”，她感到惊喜并意识到自己的负面预期并非总是准确。",
+          "reason": "不同情境/支持：家人陪伴一起观看；做法不同：这次选择实际去看而非回避；因此出现与以往不同的正向结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "长期热爱观影，具备正向兴趣基础",
+          "有朋友与家人等社会支持可利用",
+          "能觉察并反思自身负性预期（承认被正向经验“打脸”）",
+          "愿意尝试现实检验、记录与渐进暴露等方法"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的认知偏差",
+          "为避免失望而形成的回避行为",
+          "在社交情境中过度担心“扫兴”，倾向自责",
+          "正向经验被忽视，注意力偏向负面信息，维持焦虑与回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与电影相关的活动并在谈及新片时表现出焦虑与消极言语",
+          "antecedent": [
+            "讨论即将上映的电影",
+            "计划与朋友的电影之夜",
+            "收到朋友的观影邀请"
+          ],
+          "core_reason": "受灾难化、过度概括与预测未来的思维影响，担心失望和浪费时间，并害怕影响他人情绪而被视为扫兴。",
+          "function": "短期内逃避预期的失望与社交尴尬，暂时降低当下焦虑",
+          "consequence": "减少了社交与休闲参与，观影乐趣显著下降，负性信念得到强化，焦虑与回避维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 871
+}

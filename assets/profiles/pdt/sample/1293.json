@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21岁",
+      "name": "李迪伦",
+      "gender": "男",
+      "occupation": "同时兼顾三份工作",
+      "educational_background": "未提及",
+      "marital_status": "已向交往三年的女友求婚（未婚）",
+      "family_status": "未提及",
+      "social_status": "有女友可倾诉，但尚未与其讨论自我批评与不足感",
+      "medical_history": "无重大躯体疾病；无心理治疗或精神卫生既往史；此前未出现类似问题",
+      "language_features": "表达清晰，能自我反思；自我批评强烈，常使用“应该/必须”句式；配合度较好"
+    },
+    "main_problem": "认为每天观看《南方公园》使自己成为“失败者”，引发不足感与自我批评；随着每日观看与自我批评，该问题不断升级，在看电视时每天都会出现，同时受三份工作压力与理想职业未实现影响。",
+    "topic": "情绪管理",
+    "core_demands": "意识到自我批评影响自尊与心理健康后，希望通过咨询减轻这些自我否定的想法。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于是否持续高效与生产力",
+        "放松/看电视等于懒惰与失败",
+        "我是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "坐下观看《南方公园》作为每日放松时段",
+          "conditional_assumptions": "如果我看电视或休息，就说明我懒惰、是失败者；只有持续高效才有价值",
+          "compensatory_strategies": "强迫自己减少电视时间、用工作分散注意、制定严格时间表以保持高效",
+          "automatic_thoughts": "我是个失败者，我应该去提升自己而不是浪费时间",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "兼顾三份工作但暂未进入理想职业（棒球播报员）",
+          "conditional_assumptions": "如果我不能持续努力并迅速进入理想职业，就证明我没用",
+          "compensatory_strategies": "加班工作、牺牲休息、用自我批评逼迫自己前进",
+          "automatic_thoughts": "如果我不一直努力，我永远达不到目标，会一直困在没有意义的工作里",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "尝试制定工作与放松的计划或练习自我同情时",
+          "conditional_assumptions": "如果我对自己温柔或允许休息，我会变得更懒、降低标准",
+          "compensatory_strategies": "拒绝自我同情，用苛责维持自控，继续回避放松",
+          "automatic_thoughts": "自我同情只会让我更懒",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到休息后工作表现更好但仍感到内疚并忽视积极信息",
+          "conditional_assumptions": "积极效果不算数，只有不停工作才有价值",
+          "compensatory_strategies": "否认休息的益处，继续批评自己并减少放松",
+          "automatic_thoughts": "休息的好处不重要，我仍然懒惰",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与证明自身价值，既能迈向理想职业又能安心休息而不被指责",
+        "fear": "害怕一旦放松就会失败、被视为懒惰并让重要他人失望",
+        "defense_goal": [
+          "通过维持高强度自我批评与生产力来避免失败与失望",
+          "以苛刻的内在规则约束自己以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "懒惰/失败的自我（需要不断自我鞭策的人）",
+          "object_representation": "苛刻的评判者/高期待的他人（包括社会标准与重要他人）",
+          "linking_affect": "内疚、羞耻、焦虑、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“允许休息/练习自我同情”的建议时",
+          "interpretation": "把咨询师的支持理解为纵容自己的懒惰，会降低标准、导致失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以冷静理性语气强调“担心会更懒”的理由，提出诸多顾虑，避免情绪表达与具体尝试"
+        },
+        {
+          "trigger_condition": "当谈到“应不应该放松”并且出现内疚时",
+          "interpretation": "认为只有持续高效才安全，把休息视为错误",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
+          "response_instruction": "使用“应该/必须”句式，强调社会标准，语气严肃，拒绝探索灰度"
+        },
+        {
+          "trigger_condition": "当被探问羞耻/无价值等情绪体验时",
+          "interpretation": "用抽象的效率原则来解释问题，避免直接触及情绪",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以理性分析与目标管理术语回应，减少情感词汇与主观感受描述"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "同时兼顾三份工作却觉得这些工作“没有意义”",
+            "将放松视为浪费时间，难以从休闲中获得意义感"
+          ],
+          "outcomes": [
+            "内疚与自我贬低",
+            "职业满意度下降",
+            "情绪耗竭"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被内摄的规则（必须持续高效）束缚，难以自由选择休息",
+            "将休息等同失败，无法给予自我许可"
+          ],
+          "outcomes": [
+            "焦虑与紧张",
+            "僵化的自我要求",
+            "生活乐趣减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我应该/必须……”的语言",
+            "把外界高效率标准当作自身价值的唯一依据",
+            "将休息等同失败并据此自我否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "持续自我批评以维持控制",
+            "担心自我同情会变懒而拒绝尝试",
+            "在计划与执行中对错误高度警惕、难以放松"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有责任心与执行力（同时兼顾三份工作）",
+          "主动寻求咨询，愿意尝试小步骤与制定计划",
+          "觉察到休息有助于提升工作表现",
+          "拥有伴侣支持资源（虽未使用）"
+        ],
+        "negative_force": [
+          "将生产力内摄为价值条件，强烈“应该/必须”的自我要求",
+          "过度自我批评与羞耻感，倾向情绪化推理",
+          "预测未来的担忧：害怕不持续努力就永远无法实现目标",
+          "否定积极证据与休息价值",
+          "高工作负荷导致疲惫与内疚循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "观看电视时出现强烈自我贬低与内疚（情绪化自我批评）",
+          "antecedent": [
+            "坐下观看《南方公园》或进入休闲时段",
+            "想到理想职业尚未实现",
+            "看到与效率或目标相关的线索"
+          ],
+          "core_reason": "将生产力等同自我价值的内摄信念，使其将休息/看电视解释为懒惰与失败",
+          "function": "通过自我批评驱动自己停止休息并返回工作，以逃避失败感与焦虑",
+          "consequence": "自尊受损、情绪耗竭、休闲体验下降，进一步影响工作满意度与与女友关系"
+        },
+        {
+          "behavior": "回避放松/休息（过度工作与自我苛责）",
+          "antecedent": [
+            "计划休息或被建议练习自我同情时",
+            "感到内疚或担心自己会变懒"
+          ],
+          "core_reason": "预测未来式担忧与“应该”规则驱动，担心放松会导致失败并让他人失望",
+          "function": "逃避内疚与被视为懒惰的风险，维持表面的控制感与安全感",
+          "consequence": "疲劳加剧、表现波动、生活乐趣减少、问题循环强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1293
+}

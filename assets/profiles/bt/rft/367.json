@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "李睿",
+      "gender": "男",
+      "occupation": "电子游戏设计师",
+      "educational_background": "未说明",
+      "marital_status": "已婚",
+      "family_status": "有妻子和儿子",
+      "social_status": "有支持性的妻子和几位可以倾诉的朋友，但尚未与他们详细讨论其负性思维模式",
+      "medical_history": "无显著躯体疾病；既往未有类似问题，未接受过心理治疗",
+      "language_features": "表达清晰、能具体举例并进行自我反思；在会谈中合作度高，但情绪负性体验明显（挫败、愤怒、失望）"
+    },
+    "main_problem": "我发现自己会灾难化地看待情境，例如当儿子足球队输球时，这会毁掉我整整一天。这种思维模式导致我愈发愤怒和失望。近几个月尤其在妻子被裁后（经济压力增大）更加频繁，几乎每天在事情不按计划发展时都会出现。",
+    "topic": "情绪管理",
+    "core_demands": "这些思维模式的加剧及其对我的情绪健康和家庭关系的影响，让我此时决定寻求咨询。我希望能真正取得一些进展，不再一直被困在这样的状态里。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的价值取决于结果是否完美、事情是否按计划进行",
+        "作为父亲，孩子的表现代表我的好坏"
+      ],
+      "special_situations": [
+        {
+          "event": "观看儿子足球比赛，球队输球",
+          "conditional_assumptions": "如果孩子输球，就说明我作为父亲不称职；一天中出现失败就等于整天都被毁",
+          "compensatory_strategies": "通过愤怒与指责发泄情绪，否定当天的积极部分",
+          "automatic_thoughts": "这是我的错；我是不称职的父亲；今天全毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "日常事务出现偏差或不按计划进行",
+          "conditional_assumptions": "只有完全按计划、零差错才算成功；任何差错都意味着彻底失败",
+          "compensatory_strategies": "过度控制与完美主义，严苛自我要求，难以容忍不确定性",
+          "automatic_thoughts": "出了一点差错，这一天就算失败；接下来都会变糟",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "妻子失业带来财务压力，同时尝试创业面临不确定性",
+          "conditional_assumptions": "如果经济不稳定，我的创业就必然失败，家庭会陷入危机",
+          "compensatory_strategies": "反复担忧并预演最坏结果，避免与他人深入讨论压力",
+          "automatic_thoughts": "我们会撑不住；我的公司一定会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "比赛或计划不顺后回到家庭情境，与家人互动受影响",
+          "conditional_assumptions": "如果家人对我失望，说明我这个人就是糟糕的；只有结果好才值得开心",
+          "compensatory_strategies": "忽略与否定当天积极经验，自责并与家人保持距离",
+          "automatic_thoughts": "我是个糟糕的丈夫/父亲；今天没有什么值得高兴的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可为“称职的父亲/成功的人”，并维持对生活的掌控与确定性",
+        "fear": "害怕失败与失控，被视为不称职，从而失去家人的尊重与联结",
+        "defense_goal": [
+          "通过设定严苛的完美标准来避免失败",
+          "将外部挫折转化为自责或愤怒以缓解无力感",
+          "借助理性分析保持表面上的掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能失败的父亲与丈夫",
+          "object_representation": "带有评判与失望的他人/环境（家人、旁人、结果导向的社会）",
+          "linking_affect": "羞耻、愤怒、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探问比赛结果还可能取决于哪些客观因素时",
+          "interpretation": "通过把注意力转向客观因素来与痛苦情绪保持距离，以获得可控感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气冷静、使用中性和分析性词汇（如“因素”“概率”），减少情感词与自我表露。"
+        },
+        {
+          "trigger_condition": "当讨论与妻子和儿子的关系受影响、情绪失控后的后果时",
+          "interpretation": "将外部不可控的挫折归结为自身缺陷，以自责维持一种可控的解释",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性表述（如“都是我的错”），语气低落，弱化外部多因素影响。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一天的价值完全交由比赛或结果定义，结果不佳即认为“整天被毁”",
+            "把自我价值与完美和成败绑定"
+          ],
+          "outcomes": [
+            "强烈的愤怒与失望",
+            "与家人疏离与争吵",
+            "难以享受当下活动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责（如“我是不称职的父亲/我失败了”）",
+            "担心把家人推远、过度在意自我是否‘做得足够好’",
+            "在会谈中担忧能否取得进展、语气谨慎"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“事情必须按计划且完美”作为内在标准",
+            "以外部成败作为自我价值评判依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的妻子与几位可倾诉的朋友",
+          "对问题有自我觉察，愿意求助并尝试策略（曾尝试放松与分散注意）",
+          "当前工作尚未受影响，基本功能完好",
+          "能在会谈中识别其他影响因素与当天的积极面"
+        ],
+        "negative_force": [
+          "显著的灾难化、非黑即白、过度概括、心理过滤与否定积极的认知偏差",
+          "将自我价值与外部结果绑定，个人化与自责明显",
+          "财务与创业压力叠加，对不确定性高度敏感",
+          "情绪外化为愤怒，导致与家人关系紧张",
+          "对未来工作受影响的担忧加剧负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在挫折情境下的灾难化思维与愤怒反应（认为“整天被毁”并将情绪外泄至家人）",
+          "antecedent": [
+            "儿子球队输球",
+            "日常事务不按计划进行",
+            "妻子失业带来的经济压力",
+            "创业推进出现小挫折或不确定性"
+          ],
+          "core_reason": "在压力下将自我价值与外部结果绑定，出现个人化并预测最坏结果以寻求确定感",
+          "function": "通过愤怒与控制获得短暂的主导与确定感，避免直面不确定与无力感；通过忽视积极信息维持现有信念的一致性",
+          "consequence": "整日情绪受损（愤怒、失望），与妻子和儿子关系紧张并疏离，难以享受活动，担心未来影响工作表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 367
+}

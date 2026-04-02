@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "陈海莉",
+      "gender": "女",
+      "occupation": "有志成为厨师",
+      "educational_background": "参加过烹饪课程与工作坊",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数亲密朋友支持与鼓励，但因对烹饪的自我怀疑而倾向自我隔离、减少与亲友交流",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；未有类似心理问题史",
+      "language_features": "表达清晰，能具体描述自动化思维与目标，配合度高；语速未提及"
+    },
+    "main_problem": "在烹饪节目试镜失败后，我开始相信没有人欣赏我的料理，甚至觉得人们不喜欢我这个人；这使我对自己的烹饪能力产生怀疑并感到被拒绝。",
+    "topic": "职业发展",
+    "core_demands": "持续的负面自我对话和对烹饪能力的怀疑影响了我的动力和自尊，希望获得支持，走出这些消极想法，重新对烹饪建立信心。",
+    "growth_experiences": [
+      "一次重要的烹饪节目试镜失败：评审反馈为“菜品缺乏灵感且不够平衡”，结果公布后开始出现“无人欣赏我的料理、他人不喜欢我”的信念。此后为他人烹饪或收到反馈时，会在脑中反复回想评审的声音（例如“你的料理不够好”“没人喜欢你的菜”），逐步导致动力下降、自我怀疑增强、与朋友家人关系疏远，并伴随情绪和饮食习惯变化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被喜欢",
+        "我的料理不够好、不值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "烹饪节目试镜失败并收到评审反馈（称“菜品缺乏灵感且不够平衡”）",
+          "conditional_assumptions": "如果一次重要试镜失败，就说明我没有天赋、整体不行",
+          "compensatory_strategies": "继续做饭并主动寻求反馈来证明与提升自己",
+          "automatic_thoughts": "没人欣赏我的料理；他们不喜欢我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "为他人烹饪或在用餐后收到反馈",
+          "conditional_assumptions": "只要有人指出不足，就等于他们不喜欢我这个人",
+          "compensatory_strategies": "减少与亲友联系、避免社交以躲开评价",
+          "automatic_thoughts": "他们讨厌我的烹饪，甚至不喜欢我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友对食物给予称赞",
+          "conditional_assumptions": "积极反馈不可信，别人只是客套",
+          "compensatory_strategies": "忽视正面评价，继续自我怀疑",
+          "automatic_thoughts": "他们只是客气，并不是真心喜欢",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "他人对菜品提出轻微批评或改进建议",
+          "conditional_assumptions": "出现任何负面意见就代表整体失败",
+          "compensatory_strategies": "反复在脑中重播评审的批评，降低烹饪动力",
+          "automatic_thoughts": "我的菜不够好；没有人会喜欢它",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被喜欢，希望作品被欣赏、价值被看见",
+        "fear": "害怕被否定与被拒绝，担心自己不值得被喜欢",
+        "defense_goal": [
+          "通过与他人保持距离来降低被否定的风险",
+          "通过不断寻求外部反馈来试图证明自身价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被否定、不被喜欢的厨师",
+          "object_representation": "挑剔、批判的他人（评审/受众）",
+          "linking_affect": "羞愧、被拒感、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人对其料理给予正面反馈或赞美时",
+          "interpretation": "倾向将赞美理解为不真诚的客套（移情：将外界的正面信号视为不可相信）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用解释性语句将赞美归为“客套/礼貌”，语气平淡，迅速转移话题，并强调对方“只是不好意思直说”。"
+        },
+        {
+          "trigger_condition": "当他人提出轻微批评或改进建议时",
+          "interpretation": "将部分批评等同为对自我整体的否定，认为“他们不喜欢我”（移情：投射）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我批评的语句（如“都是我不行”），语气低落，主动回避进一步交流，表达退出或减少社交的意愿。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在对烹饪能力产生自我怀疑后倾向自我隔离、减少与朋友家人沟通",
+            "难以与支持自己的朋友讨论自我怀疑"
+          ],
+          "outcomes": [
+            "人际关系疏远",
+            "情绪低落与被拒感加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "试镜失败后对作为厨师的价值与热情产生动摇",
+            "在烹饪时反复听到否定性的“评审声音”"
+          ],
+          "outcomes": [
+            "动力下降",
+            "自尊受损",
+            "对职业发展的犹疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应；语言表现为“他在看不起我”“他们想排挤我”等。",
+          "manifestations": [
+            "将他人的轻微批评解读为“他们不喜欢我”",
+            "在烹饪与受反馈情境中预设他人持否定态度"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将评审的负面评语（“缺乏灵感、不够平衡”）视为对自我和作品的最终定论",
+            "在烹饪时反复在脑中回放评审声音"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁的负面自我对话与自我怀疑",
+            "对每道菜反复第二次猜测（second-guess），难以接纳正面反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对烹饪有强烈热情与投入",
+          "拥有少数亲密朋友的支持与鼓励",
+          "愿意合作设定SMART目标并尝试行为实验",
+          "在挫折后仍持续烹饪并主动寻求反馈"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术与否定正面等认知模式",
+          "自我孤立、减少社交与支持获取",
+          "自尊受损与动力下降",
+          "对负面反馈高度敏感并倾向心理过滤"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到他人反馈或为他人烹饪时出现强烈的负性自动化思维与自我怀疑",
+          "antecedent": [
+            "烹饪节目试镜失败的记忆与评审否定性反馈",
+            "为他人烹饪",
+            "用餐后收到菜品反馈"
+          ],
+          "core_reason": "对负面反馈的灾难化与过度概括，内化为“我不被喜欢/我的料理不够好”的核心信念",
+          "function": "逃避被否定的痛苦、保护自尊",
+          "consequence": "动力下降、难以持续追求烹饪生涯、情绪低落与自尊受损"
+        },
+        {
+          "behavior": "社交回避/自我孤立",
+          "antecedent": [
+            "在对烹饪产生自我怀疑后与他人互动",
+            "预期会受到批评或评价的情境"
+          ],
+          "core_reason": "害怕被拒绝与被否定，并以读心术推断他人不喜欢自己",
+          "function": "逃避评价与不适情绪",
+          "consequence": "人际关系受损、获得的社会支持减少、孤独感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 658
+}

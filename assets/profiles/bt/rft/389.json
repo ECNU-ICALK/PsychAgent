@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "李婧",
+      "gender": "女",
+      "occupation": "IT专员",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "父亲在 Stifle 工作，无兄弟姐妹",
+      "social_status": "有几位密友但未分享感受，近期与朋友和家人疏离",
+      "medical_history": "无重大躯体疾病；无既往心理治疗经历；过去未出现类似问题",
+      "language_features": "表达清晰、配合度良好，能具体描述感受与事件，态度中性"
+    },
+    "main_problem": "因为四个犯罪谜题中的最后一个未能解决而感到不堪重负与挫败，这导致了失败感和沮丧。",
+    "topic": "情绪管理",
+    "core_demands": "我想停止把自己看作失败者，恢复到正常状态；这些感受已经显著影响了我的日常生活和工作表现，我希望得到缓解。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够聪明",
+        "我不够好/没有能力"
+      ],
+      "special_situations": [
+        {
+          "event": "在尝试解四个犯罪谜题时，最后一个未能解决（前三个已成功）",
+          "conditional_assumptions": "如果没能把所有题目都解出来，之前的成功就不算数，我就是失败者",
+          "compensatory_strategies": "通过听音乐、吸食大麻来分散注意以逃避失败感，暂时不再尝试该谜题",
+          "automatic_thoughts": "我不够聪明，我是失败者，所有努力都白费了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当反复想到那个未解决的谜题或参与类似的解谜活动时",
+          "conditional_assumptions": "如果再次遇到类似难题，我一定会失败；失败意味着我不行",
+          "compensatory_strategies": "回避或拖延参与类似挑战，以减少再次失败的可能",
+          "automatic_thoughts": "我肯定又会失败，我不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作中注意力难以集中、绩效下降",
+          "conditional_assumptions": "如果工作表现不好，就证明我整体能力不足、我一无是处",
+          "compensatory_strategies": "与朋友和家人疏离，减少他人评价与接触",
+          "automatic_thoughts": "我的工作也做不好，我一无是处",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面临与朋友或家人交流、分享困扰的机会",
+          "conditional_assumptions": "如果向朋友表达困扰，会给他们带来负担，他们可能看轻我",
+          "compensatory_strategies": "选择不分享、保持隔离以避免“麻烦”他人",
+          "automatic_thoughts": "我不该麻烦别人，他们会被我拖累",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、值得尊重；希望保持自我价值与自信",
+        "fear": "害怕失败后被看轻、被评判为无能，成为他人的负担",
+        "defense_goal": [
+          "通过疏离与回避来降低被评价的风险",
+          "用分散注意与自我否定来控制焦虑与羞耻",
+          "不向他人求助以保持表面安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "把自己视为失败者/负担者",
+          "object_representation": "把他人视为可能会看轻自己、被自己拖累的人",
+          "linking_affect": "羞耻、挫败、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议向亲友分享困扰或寻求支持时",
+          "interpretation": "潜意识认为亲友会被自己拖累、会看轻自己（投射性解读）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "委婉拒绝分享，强调“我不该麻烦别人”，语气平静但回避深入谈及他人支持"
+        },
+        {
+          "trigger_condition": "在谈及失败经历或被要求再次尝试挑战时",
+          "interpretation": "认为一次失败等于整体无能，必须远离以免再次受挫",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "使用自我贬低的措辞（如“我不够聪明”），语气低落，降低交流与参与度"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次未完成视为否定前三次成功，感觉“所有努力都白费”",
+            "难以从成就中获得意义与价值感"
+          ],
+          "outcomes": [
+            "失败感与挫败感加重",
+            "动机降低与工作表现下滑",
+            "睡眠与饮食紊乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "主动与朋友和家人疏离，不分享感受",
+            "担心会“麻烦”他人而不求助"
+          ],
+          "outcomes": [
+            "社会退缩与支持减少",
+            "情绪低落与无助感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对他人或环境表达或行动的冲动，转而对自己做，把能量向内收",
+          "manifestations": [
+            "有密友但选择不分享失败与沮丧",
+            "将本可向外寻求支持的需求压回自身，独自承受"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应",
+          "manifestations": [
+            "自我要求“我不该麻烦别人”，把不打扰他人当成硬性规则",
+            "以“必须全部完成才算成功”的标准评价自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对难度较高的谜题时，来访者通常会将一次失败灾难化、否定既往成功，并产生自我否定与回避",
+          "unique_outcome": "在同一系列的前三个谜题中，来访者成功解决并感到自豪与有能力，未出现自我否定",
+          "reason": "不同理解：当时的自我对话是“我有能力、我擅长这个”；不同情境：题目与其能力匹配，投入度较高"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在类似任务上有多次成功经验（前三个谜题）",
+          "愿意尝试不同的认知与行为方法（愿意进行行为实验）",
+          "有几位密友可作为潜在支持资源",
+          "能清晰表达内心体验并愿意寻求咨询"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括的思维模式",
+          "心理过滤：只关注一次失败而忽略成功",
+          "将自我价值与单次结果过度绑定，寻求外部验证",
+          "社交回避与自我隔离",
+          "使用无效的应对策略（音乐、吸食大麻）导致问题持续"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我标签与自我否定（如“我是失败者”“我不够聪明”）",
+          "antecedent": [
+            "想到未解决的谜题",
+            "参与类似的解谜或挑战活动"
+          ],
+          "core_reason": "将一次失败等同于整体能力不足，存在非黑即白、过度概括与心理过滤的认知",
+          "function": "短期维持自我解释框架、避免再次尝试以逃避失败感",
+          "consequence": "情绪低落、动力下降、工作表现受损"
+        },
+        {
+          "behavior": "社交回避与隔离（不与朋友家人分享困扰）",
+          "antecedent": [
+            "想到向朋友倾诉或接触社交场合",
+            "担心给他人带来负担"
+          ],
+          "core_reason": "担心被看轻或麻烦他人，对评价的恐惧与羞耻",
+          "function": "逃避他人评价与潜在负面反馈，维持表面安全感",
+          "consequence": "支持减少、孤独加重、情绪问题维持"
+        },
+        {
+          "behavior": "以物质与音乐分散注意（吸食大麻、听音乐）",
+          "antecedent": [
+            "感到失败、沮丧与无助时"
+          ],
+          "core_reason": "寻求快速缓解负性情绪与失败感的方式",
+          "function": "短期自我安抚与情绪缓解",
+          "consequence": "问题未被解决，可能进一步影响睡眠、专注与工作表现"
+        },
+        {
+          "behavior": "睡眠与饮食紊乱",
+          "antecedent": [
+            "持续反复思考失败与挫败感"
+          ],
+          "core_reason": "挫败与焦虑驱动的生理与作息失调",
+          "function": "无意图功能（负性反应）",
+          "consequence": "身体状态下降、注意力与工作表现进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 389
+}

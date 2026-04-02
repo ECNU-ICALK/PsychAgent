@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "林敏",
+      "gender": "女性",
+      "occupation": "教师",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "有一名双胞胎姐妹",
+      "social_status": "与同事关系受到影响（倾向为一切出错揽责）；有几位朋友，但不愿与其讨论这些具体问题",
+      "medical_history": "此前未出现类似心理问题；既往未接受心理治疗；无明显躯体疾病",
+      "language_features": "负性态度，倾向自责与完美主义；表达清晰、能具体描述自动化思维；对改变持怀疑但仍愿意尝试；担心被评判"
+    },
+    "main_problem": "我一直在经历健忘与自责的感受，尤其在犯错时。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些自责与健忘的感受正在影响我的日常生活并造成困扰。我想感觉好一些，不要对自己这么苛刻。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不可靠/不称职的人",
+        "我必须完美，任何失误都意味着失败",
+        "我不值得被信任（因为我健忘）"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前不小心把咖啡烧糊",
+          "conditional_assumptions": "如果连简单的事情都做不好，就说明我是不可靠、无能的人",
+          "compensatory_strategies": "尝试更正念、更有条理来避免再犯错",
+          "automatic_thoughts": "我很健忘、我不称职，不能被信任",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "忘记按时批改学生作业",
+          "conditional_assumptions": "我应该始终完美且准时，如果没做到就等于失败",
+          "compensatory_strategies": "强迫自己追求完美、过度自我监控并揽责",
+          "automatic_thoughts": "我应该做得更好，任何失误都不可接受",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "把钥匙落下后担心会忘记其他重要事情",
+          "conditional_assumptions": "如果我在小事上健忘，未来一定会在重要事情上出错",
+          "compensatory_strategies": "反复检查、提高警觉与组织化来预防错误",
+          "automatic_thoughts": "我又搞砸了，接下来肯定会忘更多事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "同事注意到我焦虑并尝试帮助",
+          "conditional_assumptions": "如果他们看到我的压力或错误，就会认为我无能并评判我",
+          "compensatory_strategies": "疏远或推开同事，避免被看见与被评价",
+          "automatic_thoughts": "他们会觉得我不称职、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为可靠、胜任并获得他人的认可与信任",
+        "fear": "害怕被看作无能、被评判或拒绝",
+        "defense_goal": [
+          "通过完美主义避免错误与被批评",
+          "主动揽责以维持控制感",
+          "与他人保持距离以避免评判与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、需要时刻警惕的“不称职者”",
+          "object_representation": "苛刻的评判者/随时准备挑错的他人",
+          "linking_affect": "焦虑、羞耻、内疚、低落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议探索改变、挑战自责与完美主义时",
+          "interpretation": "来访者担心一旦暴露不完美就会被评判为无能，认为“我这样太久了，可能改变不了”",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和支持，承认其怀疑与辛苦；使用开放式提问与小步尝试的邀请；避免评判与对抗，鼓励具体化例证与现实检验。"
+        },
+        {
+          "trigger_condition": "当同事注意到她的焦虑并主动提供帮助或表达关心时",
+          "interpretation": "来访者将内在的自责与担心被评判的感受归于他人，认为对方会觉得她不称职",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持轻柔澄清与验证，邀请其检验证据；使用非威胁性的反问与共情反映，区分事实与推测，鼓励尝试有限度的开放。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因为害怕被评判而推开同事",
+            "不愿与朋友讨论这些具体问题"
+          ],
+          "outcomes": [
+            "人际关系紧张与受损",
+            "焦虑加重",
+            "日常节奏被扰乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "错误遮蔽成就（不把每日授课与从未缺勤视为重要）",
+            "自我评价“几乎一无是处”的低价值感"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "自我价值感降低",
+            "工作动力受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“应该”标准（如“我应该完美、不能犯错”）",
+            "以外在高标准要求自我而忽略现实差异"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为同事会评判她无能、看不起她",
+            "将自身的自责与羞耻体验归因于他人的想法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度揽责、过分自我苛求",
+            "对错误过度关注并小心谨慎，担心被评判而回避支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在犯错或担心遗忘的情境下，来访者通常会陷入强烈自责与焦虑，打乱日常安排并影响工作与同事关系。",
+          "unique_outcome": "在每日授课的课堂情境中，来访者没有像往常那样因担心失误而停滞或回避，而是按时完成教学任务、从未缺勤，维持了稳定的工作表现。",
+          "reason": "线索：不同情境——固定的课堂结构与熟悉的教学流程提供明确框架；不同做法——持续的组织化与准时习惯支持了该偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "强责任感与稳定执行（每日授课、从未缺勤）",
+          "愿意尝试改变（开放但谨慎）",
+          "已尝试正念与更有条理的策略",
+          "有一定社会支持（有几位朋友）"
+        ],
+        "negative_force": [
+          "完美主义与“应该”规则主导",
+          "过度个人化与自我标签（将所有错误归己）",
+          "对未来遗忘的担心（预测未来）导致持续警觉与不安",
+          "害怕被评判而疏远他人、回避支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自责与自我贴标签（如“健忘/不称职”）",
+          "antecedent": [
+            "烧糊咖啡",
+            "忘记按时批改作业",
+            "把钥匙落下"
+          ],
+          "core_reason": "完美主义的价值条件与过度概括，将一次错误视为整体无能；担心被评判为不称职",
+          "function": "通过自我惩罚与高标准来试图避免外部批评并维持控制感",
+          "consequence": "情绪低落与焦虑增加，日常生活被扰乱，工作表现略受影响"
+        },
+        {
+          "behavior": "在人际互动中推开同事、回避他人支持",
+          "antecedent": [
+            "同事注意到其焦虑并尝试提供帮助",
+            "担心同事看到其压力或失误"
+          ],
+          "core_reason": "害怕被视为无能、被评判与羞耻",
+          "function": "逃避可能的负面评价与羞耻体验",
+          "consequence": "人际关系受损、孤立感增强、压力维持"
+        },
+        {
+          "behavior": "对未来可能遗忘的持续担忧与预期",
+          "antecedent": [
+            "在犯错或遗忘之后",
+            "想到需要完成的任务时"
+          ],
+          "core_reason": "预测未来的认知偏差与灾难化倾向，加剧对错误后果的担心",
+          "function": "试图通过提高警觉与反复检查来预防错误",
+          "consequence": "日常节奏被打乱、焦虑持续、效率下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1365
+}

@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "74",
+      "name": "林雅琴",
+      "gender": "女",
+      "occupation": "失业（正在节食，计划就读兽医专业）",
+      "educational_background": "高中毕业（已被兽医项目录取，计划学习成为兽医）",
+      "marital_status": "单身",
+      "family_status": "与三只宠物同住",
+      "social_status": "与朋友和家人的关系因自我怀疑而受影响；有可联络的亲友支持，但尚未向他们谈及负性信念",
+      "medical_history": "无显著躯体疾病；既往未有心理治疗或严重心理问题史",
+      "language_features": "表达清晰、逻辑性好、配合度高，能觉察并描述自己的自动化思维与情绪"
+    },
+    "main_problem": "尽管正在为成为兽医而学习，但持续出现“我无法真正帮助动物”的消极信念，引发显著痛苦与自我怀疑，并影响学习与生活。",
+    "topic": "职业发展",
+    "core_demands": "希望应对并挑战关于“无法真正帮助动物”的消极信念，恢复与提升追求成为兽医的动力。",
+    "growth_experiences": [
+      "长期饲养并照顾三只宠物，因与宠物的相处积累了较多动物照护经验，这成为她选择兽医学习路径的重要动机来源之一。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不胜任",
+        "我太老，学不会新的东西"
+      ],
+      "special_situations": [
+        {
+          "event": "备考时遇到难以理解的概念",
+          "conditional_assumptions": "如果连现在的知识点都掌握不了，将来就绝对无法真正帮助动物",
+          "compensatory_strategies": "用积极自我暗示或分散注意（看电视、与朋友聊天）来缓解情绪，但并未从根本上修正认知",
+          "automatic_thoughts": "如果这都学不会，我以后怎么能帮助动物？",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在学习期间做与节食相关的选择或受到节食压力时",
+          "conditional_assumptions": "如果我不能同时把学习和饮食管理都做得很好，就证明我不行",
+          "compensatory_strategies": "回避学习任务、用分心方式短期缓解挫败感",
+          "automatic_thoughts": "连饮食都管不好，我根本不可能学好、也帮不了动物。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "规划学业路径、思考未来兽医职业时",
+          "conditional_assumptions": "年纪大意味着学习能力差，新的知识学不会，努力也徒劳",
+          "compensatory_strategies": "用自我怀疑来降低期望，减少投入以避免失败带来的打击",
+          "automatic_thoughts": "我太老了，学不会新的东西。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "面对学习挫折后回想过往成就（如被项目录取、以往学习完成）",
+          "conditional_assumptions": "当下的困难更能说明问题，以前的成就不算数",
+          "compensatory_strategies": "忽视积极证据，把注意力集中在当前的不足上",
+          "automatic_thoughts": "这些成就不代表什么，我还是不行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过成为兽医而胜任、并能真实地帮助动物，从而获得自我价值与认可",
+        "fear": "害怕失败与无能被揭示，担心因此被否定、失去他人的认可和自我价值感",
+        "defense_goal": [
+          "通过自我怀疑与回避降低期待，避免失败带来的羞耻与关系受损",
+          "不向亲友披露脆弱以减少被评价与否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易自我怀疑、担心不胜任与不够聪明的学习者",
+          "object_representation": "潜在会失望或评价自己的他人（虽可提供支持但并未求助）",
+          "linking_affect": "焦虑、羞愧、无力感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在强烈自我怀疑时觉得坚持学习和节食“好像没有意义”",
+            "对未来作为兽医的价值与能力产生动摇"
+          ],
+          "outcomes": [
+            "学习动机下降与注意力受损",
+            "与亲友关系紧张",
+            "节食执行度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中频繁以“我不够聪明”“我太老了”自我评价",
+            "对自身能力持苛刻标准，忽略既有成就与证据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对学习难点或考试压力时，林雅琴通常会灾难化预测未来、产生强烈自我怀疑，并因此降低学习投入与效率。",
+          "unique_outcome": "此前成功完成高中学业，且已被兽医项目录取；与长期照顾宠物的经验一起，客观显示其具备学习基础与相关能力，与“我做不到”的主导故事形成对照。",
+          "reason": "线索：长期稳定的动物照护经验作为能力证据；被项目录取这一具体里程碑提供正向反馈；对动物的长期关怀兴趣提升了坚持与投入。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对动物的深厚关爱与长期照护经验",
+          "已被兽医项目录取，具备客观能力证据",
+          "愿意接受咨询与练习去灾难化，动机积极",
+          "拥有可用的社会支持网络（亲友）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与心理过滤等认知偏差",
+          "显著的自我怀疑与自我苛责（年龄相关的负性标签）",
+          "在压力下回避学习并依赖分散注意的短期策略",
+          "未主动向亲友求助或披露，从而减少外部支持的利用",
+          "同时管理节食与学习带来的情境性压力，放大无力感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "学习时出现强烈自我怀疑与灾难化思维，伴随注意力下降与学习回避",
+          "antecedent": [
+            "备考或遇到难以理解的学习内容",
+            "规划学业与思考职业前景",
+            "感到节食压力或需做饮食相关决策时"
+          ],
+          "core_reason": "对能力与前景的消极核心信念（“我不胜任/太老学不会”）触发灾难化与过度概括，造成失败预期与情绪困扰",
+          "function": "逃避失败感与焦虑（短期降低不适），暂时维持自尊",
+          "consequence": "学习效率与投入下降，学业受影响并加重自我怀疑，与亲友关系紧张"
+        },
+        {
+          "behavior": "节食计划执行受挫（在自我怀疑时更难坚持）",
+          "antecedent": [
+            "学习受挫或备考压力增大时",
+            "做饮食选择与权衡的情境"
+          ],
+          "core_reason": "将对学习的无力感与失败预期泛化到生活管理，形成“我做不到”的整体性判断",
+          "function": "通过放弃/松动计划来缓解即时压力与内疚",
+          "consequence": "节食依从性下降，进一步强化自我否定与无助感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 734
+}

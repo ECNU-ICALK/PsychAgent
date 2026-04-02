@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "周莉雅",
+      "gender": "女",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与室友同住",
+      "social_status": "与同事关系受影响，被认为不够严肃；有室友可谈但尚未沟通此问题",
+      "medical_history": "无显著躯体疾病，无既往心理治疗经历",
+      "language_features": "表达清晰，能自我反思，配合度高，态度积极；语速未提及"
+    },
+    "main_problem": "我不断感到自己无法认真对待生活中的任何事情，因而把幽默当作防御机制使用。",
+    "topic": "职业发展",
+    "core_demands": "我意识到自己无法认真、总用幽默当防御可能阻碍我实现目标，因此来寻求咨询。",
+    "growth_experiences": [
+      "自青少年时期开始，逐渐形成在严肃或压力情境中以幽默回避认真投入的模式，近几个月这一模式明显加重，演变为几乎总是讲笑话、难以进行严肃对话。",
+      "长期理想与现实之间存在落差（希望“改变世界”，而现实从事工厂工作），加之工作压力，带来挫败与紧张体验，强化了以幽默缓冲压力的习惯。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个无法认真对待事情的人",
+        "如果我认真投入，就会失败并让他人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "在工厂里，主管就截止日期进行严肃讲话",
+          "conditional_assumptions": "如果我严肃回应，别人会看到我的紧张与不足，认为我不可靠；用幽默可以化解尴尬与压力",
+          "compensatory_strategies": "在严肃场合立即讲笑话、缓和气氛、转移话题",
+          "automatic_thoughts": "只要我让他们笑，他们就不会看到我多紧张",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对工作或生活中的挑战与责任",
+          "conditional_assumptions": "如果我认真对待这些挑战，我可能会失败并让人失望",
+          "compensatory_strategies": "用幽默降低事件重要性，避免深入讨论与正面应对",
+          "automatic_thoughts": "我总是没法认真对待事情",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "打算更认真地投入目标与职责时",
+          "conditional_assumptions": "认真投入意味着更大风险：一旦失败就会让他人失望",
+          "compensatory_strategies": "减少投入、用玩笑自嘲来缓冲失败的可能",
+          "automatic_thoughts": "如果我认真起来，我会失败并让别人失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在被主管反馈“需要更认真”之后",
+          "conditional_assumptions": "他人的批评说明我这个人本质上就不够好、不够可靠",
+          "compensatory_strategies": "用幽默和自嘲掩饰尴尬与羞耻感，避免进一步严肃交流",
+          "automatic_thoughts": "这说明我就是一个不被认真对待的人",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被当作可靠且值得信赖的人，被认真对待并通过认真投入实现自我价值",
+        "fear": "害怕一旦认真就会失败、被评价、令他人失望，从而暴露自身不足",
+        "defense_goal": [
+          "通过幽默保持距离与掌控感，缓冲焦虑与羞耻，避免被负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "紧张、担心被看穿不足、需要用幽默掩饰的人",
+          "object_representation": "严肃而带有评判性的他人（如上级、同事），可能会失望和否定",
+          "linking_affect": "焦虑、羞耻、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当权威人物（如主管）进行严肃谈话或提出要求、反馈时",
+          "interpretation": "对方在评判我是否可靠，如果我认真就会暴露不足、被否定（移情：将过去被评判的恐惧投射到当前关系）",
+          "defense_mechanism": "幽默",
+          "defense_definition": "用诙谐的方式面对困境或化解尴尬，而不带伤害性。",
+          "response_instruction": "语气温和并具同理，点名幽默背后的紧张与害怕被评判，邀请停留在当下感受：例如“刚才你用一个笑话缓和了气氛，我也感受到你有点紧张，我们能否一起看看这份紧张想保护你什么？”"
+        },
+        {
+          "trigger_condition": "当需要就目标或责任进行更严肃的承诺与行动时",
+          "interpretation": "认真等于更大失败风险与让他人失望",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以稳定的语速、具体化提问，引导连接情绪：“当你想到要认真投入时，身体里出现了什么感觉？我们先不解决，只是一起留意那份害怕。”"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "希望‘改变世界’的理想与现实工厂工作的落差引发挫败",
+            "借幽默淡化严肃议题，难以投入有意义的对话与行动"
+          ],
+          "outcomes": [
+            "工作投入与绩效受损",
+            "难以进行有意义的交流与处理重要问题",
+            "被他人视为不够严肃"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在面对责任与选择时以幽默回避严肃投入",
+            "担心一旦认真选择就要承担失败责任"
+          ],
+          "outcomes": [
+            "行动受阻、目标推进停滞",
+            "自我评价下降并感到挫败与焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与‘接受’对应。",
+          "manifestations": [
+            "在严肃或有压力的话题与场合中以玩笑转移注意，避免直接接触问题与情绪",
+            "用幽默来缓和紧张，绕开被评判或失败的恐惧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "自我觉察较好，主动识别并描述了幽默作为防御的模式",
+          "有改变动机，明确希望被认真对待、实现目标",
+          "幽默在一定程度上有利于缓冲压力、建立连接",
+          "态度积极，愿意进行自我监测（如记日记）"
+        ],
+        "negative_force": [
+          "对失败与让他人失望的高度担忧",
+          "在严肃/压力情境中过度依赖幽默回避，形成固定反应",
+          "过度概括、读心、个人化等认知偏差",
+          "现实与理想（改变世界）之间落差带来的长期挫败感与工作压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在严肃或压力情境中以讲笑话/幽默方式回避严肃沟通与投入",
+          "antecedent": [
+            "主管进行严肃谈话或提出截止日期要求",
+            "面对工作或生活中的挑战与责任",
+            "与同事或他人进行需要认真交流的场合"
+          ],
+          "core_reason": "担心一旦认真投入就会失败并让他人失望，伴随显著紧张与焦虑，因而以幽默缓冲与掩饰",
+          "function": "逃避不受欢迎的情绪（紧张、羞耻、被评判），以及避免潜在的负面评价",
+          "consequence": "工作表现受影响、被同事与上级视为不够严肃；难以进行有意义的对话与处理重要问题"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 350
+}

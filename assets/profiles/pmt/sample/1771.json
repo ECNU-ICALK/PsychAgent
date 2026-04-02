@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "陈珊",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "友情与社交互动受到其感到被疏离的影响，日常社交减少",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；此前在此情境下无类似问题史",
+      "language_features": "语言清晰，逻辑性较好，配合度高，语气中性；能描述具体情境与感受，伴随焦虑与自我担忧；倾向理性化与淡化问题"
+    },
+    "main_problem": "我相信人们因为我热爱阅读《哈利·波特》而疏远我，认为这是因为该系列不再流行。这种信念导致我感到社会性孤立与被疏离，近几个月注意到一些熟人与我保持距离，因此我在社交中更为退缩并害怕被拒绝。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为我意识到自己关于被疏远的假设正在影响我的社交生活与整体幸福；我希望通过记录与行为实验来检验并修正这些想法，看见真实结果以减轻困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被他人接纳",
+        "我不胜任工作，犯错会带来严重后果"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会中谈到《哈利·波特》时，发现一些熟人与我保持距离",
+          "conditional_assumptions": "如果我的兴趣不符合大众偏好，我就会被排斥，不值得被喜欢",
+          "compensatory_strategies": "在社交场合回避谈论个人兴趣，减少社交互动以避免被评价",
+          "automatic_thoughts": "他们在躲我，因为我喜欢《哈利·波特》",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "近几个月注意到部分熟人减少与我的互动",
+          "conditional_assumptions": "如果别人疏远我，一定是因为我的兴趣过时或不被认可",
+          "compensatory_strategies": "在心里试图合理化与淡化，但现实中更为退缩、减少表达",
+          "automatic_thoughts": "大家不再喜欢和我在一起",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作任务繁重、需要提交重要报告的日子里出现游戏相关的侵入性思维",
+          "conditional_assumptions": "如果我分心或犯错，上司就会认为我不胜任并可能解雇我",
+          "compensatory_strategies": "加班补救、设定游戏时间边界、采用时间管理技巧",
+          "automatic_thoughts": "任何错误都可能让我被解雇",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "提交质量不佳的报告后，上司未给出负面反馈",
+          "conditional_assumptions": "如果工作成果不完美，就等同于不胜任并会被否定",
+          "compensatory_strategies": "持续自我施压，努力证明自己，回避谈论真实感受",
+          "automatic_thoughts": "老板会觉得我不行",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，同时能自由地表达与坚持个人兴趣",
+        "fear": "害怕被拒绝与负面评价，被视为不合群或不胜任，甚至失去工作",
+        "defense_goal": [
+          "通过退缩和减少暴露来避免拒绝与评判",
+          "通过过度努力与自我监控来维持安全感与控制",
+          "在社交中压抑自我表达以降低风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被疏离的旁观者、需要小心行事的人",
+          "object_representation": "他人是挑剔的评判者，可能因兴趣而疏远我",
+          "linking_affect": "孤独、焦虑"
+        },
+        {
+          "self_representation": "容易犯错、不被认可的员工",
+          "object_representation": "上司是严苛的审查者，随时可能否定我",
+          "linking_affect": "恐惧、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问“有什么证据支持你的担心”或对其假设提出挑战时",
+          "interpretation": "将他人（上司/同伴）的评判体验投射到咨询师身上，感觉自己正在被审视与否定",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用平静、理性的语气罗列原因与假设，强调客观分析，减少情感表达以降低不适。"
+        },
+        {
+          "trigger_condition": "当被邀请具体描述当下情绪或承认对被拒绝的恐惧时",
+          "interpretation": "担心直接表达感受会导致被评判或失控，因此倾向保持距离",
+          "defense_mechanism": "sring",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
+          "response_instruction": "以描述事实和计划为主，语气克制，快速从情绪层面转向任务与细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到被疏离与社会性孤立",
+            "在社交聚会中担心兴趣不被认可而主动退缩",
+            "虽有少数朋友可谈但不愿分享具体困扰"
+          ],
+          "outcomes": [
+            "社交回避与关系疏离",
+            "焦虑加剧",
+            "整体幸福感下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在“真实表达兴趣”与“寻求他人接纳”之间感到冲突",
+            "选择压抑自我以避免被拒绝"
+          ],
+          "outcomes": [
+            "自我不一致与内在张力",
+            "内疚与紧张感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复担心任何错误会导致被解雇",
+            "说话谨慎、害怕被评判",
+            "在会谈中强调要证明自己、维持控制"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "在社交场合不谈个人兴趣",
+            "将对他人疏远的失望转向自责与内疚"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "用理性分析与淡化来回避直接触及情绪",
+            "以话题转移或泛化方式避免深入感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "仍有几位朋友可成为支持资源",
+          "愿意尝试新方法并配合记录与行为实验",
+          "工作责任心强（在分心情况下仍加班完成报告）",
+          "具备自我觉察，能识别压力与逃避之间的关系"
+        ],
+        "negative_force": [
+          "过度在意他人看法与读心术",
+          "灾难化思维与对被解雇的恐惧",
+          "社交回避与自我压抑导致孤立",
+          "注意力易被游戏吸引以逃避压力",
+          "自我苛责、不断自我监控导致紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与压抑自我表达（尤其回避谈论个人兴趣）",
+          "antecedent": [
+            "在社交聚会或与不具备相同兴趣的人互动时",
+            "察觉熟人疏远或互动减少时"
+          ],
+          "core_reason": "担心兴趣不被认可而遭到拒绝，形成个人化与过度概括的认知",
+          "function": "逃避被评判或被拒绝，获取短期的安全感",
+          "consequence": "社交孤立加重，疏离与孤独感提升，整体幸福感下降"
+        },
+        {
+          "behavior": "工作中注意力分散与反复出现游戏相关的侵入性思维，并伴随显著焦虑",
+          "antecedent": [
+            "工作任务繁重、截止日期临近时",
+            "感到压力增大或需要高强度专注时"
+          ],
+          "core_reason": "将游戏作为压力的心理逃避途径；对错误后果的灾难化认知加剧焦虑和分心",
+          "function": "短期自我安抚与逃避工作压力",
+          "consequence": "工作效率下降、需要加班补救、对被解雇的恐惧上升"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1771
+}

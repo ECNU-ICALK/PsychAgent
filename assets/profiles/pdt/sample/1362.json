@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "74",
+      "name": "张伟",
+      "gender": "男",
+      "occupation": "银行职员",
+      "educational_background": "金融学学士",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数密友，但未与他们讨论与工作相关的恐惧；与同事关系因持续焦虑受影响",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高、逻辑性良好，能接受新观点，语气平和"
+    },
+    "main_problem": "我持续害怕因每周只工作40小时而被解雇。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这种对丢掉工作的恐惧已经开始影响我的整体心理健康与幸福感。",
+    "growth_experiences": [
+      "两年前入职银行后开始出现对被解雇的恐惧：初期压力中等，随着时间推移发展为几乎每天担心失业，尤其在周末不工作时更明显；尝试通过加班来缓解恐惧，但无效；该问题已影响工作表现、人际关系以及睡眠与饮食。",
+      "几年前学习驾驶时多次受挫：在驾驶课程中感到困难，形成“我太笨，理解不了交通规则”的想法，此后尽量回避驾驶；每次想到或需要开车都会强烈焦虑与自我否定，导致外出办事与独立出行变得不便，只能依赖家人或公共交通；家人态度支持但未完全理解其恐惧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨拙、不够聪明，做不好复杂的任务（如驾驶）",
+        "我的安全与价值取决于是否超额工作（超过40小时）"
+      ],
+      "special_situations": [
+        {
+          "event": "周末不上班时想到自己一周只工作40小时",
+          "conditional_assumptions": "如果我每周不至少工作50小时，就会被解雇，说明我不称职",
+          "compensatory_strategies": "通过加班、延长工时来证明自己并试图降低风险",
+          "automatic_thoughts": "迟早会被解雇，40小时远远不够",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "完成加班后回顾自己的工作量",
+          "conditional_assumptions": "只有不断加班才算安全；任何少于自定标准的努力都等于失败",
+          "compensatory_strategies": "否定已有投入与产出，继续增加工时",
+          "automatic_thoughts": "这些努力不算数，我依然很不安全",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "需要开车或仅仅想到驾驶",
+          "conditional_assumptions": "如果我不能迅速、完美地掌握驾驶规则，就证明我很笨，不该开车",
+          "compensatory_strategies": "回避驾驶，改用家人或公共交通以减少焦虑",
+          "automatic_thoughts": "我太笨了，永远学不会开车",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "意识到自己每周只工作约40小时",
+          "conditional_assumptions": "工作时间少就意味着风险更大，会带来严重后果",
+          "compensatory_strategies": "不断担忧、设想最坏结果以促使自己工作更多",
+          "automatic_thoughts": "如果继续这样，很快就会出大事（被解雇）",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "被认可为胜任与有价值，获得稳定与安全",
+        "fear": "害怕被评价为无能、被拒绝或被解雇",
+        "defense_goal": [
+          "通过过度努力（加班）维持安全感、避免被淘汰",
+          "通过回避驾驶来避免失败与羞耻的体验"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不安全、随时可能被淘汰的员工",
+          "object_representation": "苛刻、随时会开除人的上级/雇主",
+          "linking_affect": "恐惧、焦虑"
+        },
+        {
+          "self_representation": "笨拙、无能的学习者",
+          "object_representation": "难以掌控且会评判自己的规则/道路与教练",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "由于对驾驶的恐惧而回避开车，限制了自主出行与独立性",
+            "对工作安全高度依赖“加班”这一外在标准，感到被规则束缚"
+          ],
+          "outcomes": [
+            "持续焦虑",
+            "生活功能受损（睡眠与饮食紊乱、出行不便）",
+            "人际关系受影响（与同事互动受焦虑干扰）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在咨询中反复以“我太笨了”评价自己",
+            "对驾驶与工作表现设置苛刻标准，忽视已有投入与成绩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "自我评价中认可自己“勤奋、关心他人”的品质",
+          "家人支持、拥有少数密友可提供情感支持",
+          "愿意尝试以小步走的方式逐步练习（对改变持开放态度）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括与否定正面等认知偏差维持焦虑",
+          "消极的自我核心评价（“我很笨/不胜任”）",
+          "通过加班与持续担忧来寻求安全感，反而加重焦虑",
+          "对驾驶的回避行为维持恐惧，限制生活自主性",
+          "慢性焦虑造成睡眠与饮食紊乱、工作与人际功能受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对被解雇的持续性焦虑与灾难化担忧",
+          "antecedent": [
+            "周末不上班时",
+            "想到自己每周只工作约40小时"
+          ],
+          "core_reason": "灾难化与预测未来的认知（认为不加班就会被解雇），伴随对能力与价值的不安全感",
+          "function": "通过担忧与加班来降低不确定性、试图避免被解雇",
+          "consequence": "工作表现下降、与同事的关系受影响，睡眠和饮食模式被打乱，日常生活受损"
+        },
+        {
+          "behavior": "回避驾驶",
+          "antecedent": [
+            "需要开车时",
+            "想到驾驶或回忆学车失败的经历"
+          ],
+          "core_reason": "消极核心信念（“我很笨/不胜任”）与过度概括导致对失败的恐惧",
+          "function": "逃避焦虑与可能的失败/羞耻体验",
+          "consequence": "失去一定的独立性与便利，需依赖家人或公共交通"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1362
+}

@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "57",
+      "name": "韩莉",
+      "gender": "女",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母同住",
+      "social_status": "有几位关系良好的朋友，但在感觉自己是失败者时倾向自我隔离；对与朋友谈论失败与不足感感到不适",
+      "medical_history": "未经历类似问题；未接受过心理问题的治疗或咨询；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述情绪与想法；合作度良好；思维易陷入负性自动化（如“我是失败者”）；使用“应该”句式（如“我应该自己能处理”）；语气中性"
+    },
+    "main_problem": "我在最近输掉一场象棋比赛后，陷入失败感和自我不足的困扰。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些失败感显著影响了我的整体情绪和日常活动。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在最近的象棋比赛中失利",
+          "conditional_assumptions": "如果我没有赢，就说明我不够好/我是失败者",
+          "compensatory_strategies": "反复自我安慰“这只是一次失利”，并回避与朋友谈论这件事",
+          "automatic_thoughts": "我是失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当想到再次下象棋或做自己通常擅长的事情",
+          "conditional_assumptions": "如果这次不能表现完美，就证明我不行",
+          "compensatory_strategies": "回避参与或降低投入，减少面对可能的失败",
+          "automatic_thoughts": "我可能会再次失败，这会证明我不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在求职或想到找工作时",
+          "conditional_assumptions": "一次比赛的失利意味着我在其他领域也不会做好",
+          "compensatory_strategies": "推迟求职、避免挑战以减少失败的风险",
+          "automatic_thoughts": "如果连一局都赢不了，我在工作上也会失败",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到向朋友分享自己的失败与不足感时",
+          "conditional_assumptions": "我应该自己处理，不应该麻烦别人；表达脆弱会被看低",
+          "compensatory_strategies": "自我隔离，避免谈论相关话题",
+          "automatic_thoughts": "我不该把这事告诉别人，我应该自己能撑过去",
+          "cognitive_pattern": "Should Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过能力与胜利获得认可，维持稳定的自尊与价值感",
+        "fear": "害怕被看作失败、被他人否定；害怕暴露脆弱后被评判",
+        "defense_goal": [
+          "保持距离以避免羞耻与被评判",
+          "压抑脆弱与失败感以维持表面控制"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "我是不够好的失败者",
+          "object_representation": "他人可能会评判或看不起我",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请她谈论比赛失利与失败感，或尝试挑战其负性标签时",
+          "interpretation": "认为暴露脆弱会被看低，应该靠自己解决问题",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "语气含蓄保留，减少使用情绪词汇；尽量转向事实性描述并强调“我自己会处理”，对细节轻描淡写或回避"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在感到失败时倾向自我隔离",
+            "不愿与支持性朋友讨论失败与不足感"
+          ],
+          "outcomes": [
+            "压力水平升高",
+            "睡眠紊乱",
+            "注意力下降",
+            "自我怀疑扩散到其他生活领域"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "表达“我应该自己能处理”",
+            "以外在规则苛责自己并回避求助"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等。",
+          "manifestations": [
+            "感觉失败时转而自我隔离",
+            "减少向朋友或他人寻求支持的行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友可提供情感支持",
+          "在象棋方面具备稳定技能与以往的成就感（通常表现优秀）",
+          "能觉察并命名负性思维模式，愿意尝试重新框架",
+          "主动寻求咨询以改善情绪与日常功能"
+        ],
+        "negative_force": [
+          "将自我价值过度绑定于单次表现与胜负",
+          "存在过度概括、非黑即白、心理过滤与否定积极的认知偏差",
+          "羞耻与自我要求促使回避求助、社会隔离",
+          "睡眠节律紊乱与注意力下降，维持负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我隔离/回避社交支持",
+          "antecedent": [
+            "输掉象棋比赛后",
+            "想到再次下棋或进行擅长活动时",
+            "想要向朋友谈论失败感时"
+          ],
+          "core_reason": "害怕被评判、羞耻感强；“应该”式自我要求促使独自解决问题",
+          "function": "逃避不受欢迎的评价与羞耻情绪，维持表面控制感",
+          "consequence": "支持系统利用不足，孤独与负面情绪加重，求职与日常功能受损"
+        },
+        {
+          "behavior": "持续的自我否定自动思维（如“我是失败者”）",
+          "antecedent": [
+            "回想比赛失利",
+            "面对挑战或尝试擅长任务时",
+            "想到求职时"
+          ],
+          "core_reason": "过度概括、非黑即白、心理过滤与否定积极的认知偏差；将自我价值过度依赖于表现",
+          "function": "维持认知一致性与自我解释，短期避免面对复杂且不确定的自我评价",
+          "consequence": "压力升高、睡眠紊乱、注意力下降，自我怀疑泛化到其他领域"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 129
+}

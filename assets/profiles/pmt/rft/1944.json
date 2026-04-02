@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "",
+      "name": "陈瑛",
+      "gender": "",
+      "occupation": "在职母亲（育有两名高中儿子）",
+      "educational_background": "",
+      "marital_status": "已婚",
+      "family_status": "与丈夫及两名就读高中的儿子同住",
+      "social_status": "与丈夫相处尚可，但与朋友群体感到疏离并认为自己被评判",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题及治疗史",
+      "language_features": "表达清晰，合作但持怀疑态度；倾向消极自评（如“我在一切方面都失败”），存在读心与预测性假设，伴有过度概括"
+    },
+    "main_problem": "我感到迷失，与真正的自我疏离，尤其在作为母亲的角色上；这种感受在孩子上高中后加重，并在工作而无法陪伴孩子时尤为明显。",
+    "topic": "自我探索",
+    "core_demands": "我决定此时寻求咨询，因为我意识到这种疏离感正在影响我的心理健康和我与家人的关系；我也“只想在不被一直评判的情况下享受生活和家庭”。",
+    "growth_experiences": [
+      "几年前两个儿子进入高中后，孩子的需求与作息发生变化；自己在工作与母职之间的平衡变得更困难。此前曾感觉更有掌控感并与家人、朋友更有连接，但随后逐渐加剧的迷失与疏离感在日常，尤其工作时更为明显。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不称职/失败的母亲",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友聚会时，听到她们谈论各自的孩子并注意到她们的目光",
+          "conditional_assumptions": "如果朋友谈论孩子且我投入不如她们，就说明我作为母亲失败",
+          "compensatory_strategies": "减少与朋友接触；见面时保持防御，努力证明自己是称职的母亲",
+          "automatic_thoughts": "她们在看不起我，觉得我做得很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "工作忙碌、外出工作而没有陪伴孩子",
+          "conditional_assumptions": "如果我不在孩子身边，就是不称职的母亲、让孩子失望",
+          "compensatory_strategies": "反复自我反思（写日记）、自责，试图通过加倍表现来弥补",
+          "automatic_thoughts": "我又做错了，我不是一个好妈妈",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "想到与朋友核实自己的担心（直接沟通）",
+          "conditional_assumptions": "如果我表达感受，他们会否认或认为我太敏感",
+          "compensatory_strategies": "避免核实、保持沉默以避免尴尬或被否定",
+          "automatic_thoughts": "没意义，他们只会否认",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作与母职的角色冲突中出现失衡或小失误",
+          "conditional_assumptions": "如果我在某方面做得不好，就说明我在所有方面都失败",
+          "compensatory_strategies": "用全或无的标准苛责自己，减少社交接触",
+          "automatic_thoughts": "我在一切方面都失败了",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳与认可，作为母亲被看作足够好，并与“真实的自我”保持连接",
+        "fear": "害怕被评判为不称职、被群体排斥，从而失去自我价值与归属感",
+        "defense_goal": [
+          "通过与朋友保持距离、避免核实来降低被羞辱或被否定的风险",
+          "在互动中保持防御与自我证明以维护脆弱的自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、随时可能失败的母亲/局外人",
+          "object_representation": "挑剔且带有审判性的朋友群体",
+          "linking_affect": "羞耻、焦虑、防御"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与朋友核实假设、开展行为实验时",
+          "interpretation": "认为别人会否定或指责自己（将内在的自我批评与被评判感投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以谨慎而否定的语气回应，强调“他们会否认/我太敏感”，拒绝或拖延直接核实。"
+        },
+        {
+          "trigger_condition": "与朋友相处时捕捉到模糊的目光或言谈线索",
+          "interpretation": "将这些线索理解为对自己母职的否定与批评",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“我不行/我失败了”），回避表达对他人的失望或愤怒，降低自我价值。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友群体感到疏离，认为自己被评判",
+            "在互动中回避或保持防御，减少接触"
+          ],
+          "outcomes": [
+            "孤立感增强、焦虑上升",
+            "自我价值感下降，关系进一步疏远"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复感到与“真正的自我”疏离",
+            "在母亲与工作角色中迷失、难以定义自我"
+          ],
+          "outcomes": [
+            "失落与困惑感加重",
+            "动力下降、对生活满意度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在咨询中坚持认为朋友在评判自己，断定核实无意义",
+            "将内在自我批评体验为来自他人的否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责（如“我在一切方面都失败”）",
+            "在与人互动中谨慎、防御，难以自发表达真实需要"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不与朋友核实或表达困惑与不满，转而自我指责",
+            "通过自我反思与自责消化情绪，而非向外建立联系"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "重视家庭关系并具有求助动机",
+          "愿意在怀疑中尝试行为实验，愿意收集证据以修正看法",
+          "具备自我反思习惯（写日记）",
+          "与丈夫相处尚可，存在一定的亲密关系支持"
+        ],
+        "negative_force": [
+          "过度依赖外部评价（担心朋友如何看待自己）",
+          "读心术与预测未来导致误解与回避",
+          "全或无思维与过度概括，加重失败感",
+          "回避社交与不核实假设，强化负性信念",
+          "自我批评倾向，降低自尊与连接感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避朋友并在见面时表现防御、试图证明自己",
+          "antecedent": [
+            "与朋友线下见面或线上互动",
+            "听到朋友谈论各自的孩子、注意到对方目光或语气"
+          ],
+          "core_reason": "害怕被评判为不称职母亲，基于读心与对外部认可的依赖",
+          "function": "逃避被评判带来的焦虑，获得暂时的心理安全感",
+          "consequence": "关系进一步疏离，孤独感与被评判信念被强化"
+        },
+        {
+          "behavior": "消极自语与自我贬低（如“我在一切方面都失败”）",
+          "antecedent": [
+            "工作占用与孩子相处的时间",
+            "在角色冲突或小失误之后"
+          ],
+          "core_reason": "内化的“好母亲应时刻在场”的规则与非黑即白思维",
+          "function": "通过自我惩罚维持控制感、为焦虑寻找解释",
+          "consequence": "情绪负担加重，自信降低，进一步影响与家人和朋友的连接"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1944
+}

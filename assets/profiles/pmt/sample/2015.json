@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35",
+      "name": "张明",
+      "gender": "男",
+      "occupation": "全职家庭父亲",
+      "educational_background": "接受过部分大学教育",
+      "marital_status": "已婚",
+      "family_status": "已婚有子女，积极参与孩子的体育活动",
+      "social_status": "与参与体育活动的其他家长的关系受影响；有书友会与家长教师协会的朋友但未分享感受",
+      "medical_history": "无重大躯体疾病；无既往心理咨询/治疗；以往未出现类似问题",
+      "language_features": "表达清晰、逻辑连贯；对咨询持怀疑态度；自我否定明显；未提及语速等细节"
+    },
+    "main_problem": "我觉得每次开车送孩子去参加体育比赛时我总是迟到，这让我相信自己是无用的。",
+    "topic": "家庭关系",
+    "core_demands": "当自卑感开始影响自尊和整体幸福感、影响我享受日常活动的能力时，我决定寻求咨询，希望改善准时性并缓解“我没用”的感受。",
+    "growth_experiences": [
+      "两年前孩子开始参加更多体育活动，需要每周多次接送并同时管理多重日程；起初压力中等，随着迟到频繁，自认为“辜负孩子”的信念逐渐强化，影响了与其他家长的关系并增加了压力与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我不够好，不能胜任父亲角色"
+      ],
+      "special_situations": [
+        {
+          "event": "在频繁接送孩子参加体育活动时出现迟到",
+          "conditional_assumptions": "如果我不准时，就说明我是失败的父亲/无用的人",
+          "compensatory_strategies": "加紧日程管理、设置提醒、提前规划路线和时间",
+          "automatic_thoughts": "我又迟到了，我就是无用的，孩子会被我辜负",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在球场或训练现场看到其他家长都能准时、从容地安排孩子的活动",
+          "conditional_assumptions": "必须与其他家长一样表现良好，否则就证明我不够好",
+          "compensatory_strategies": "回避与其他家长交流，以避免被评判",
+          "automatic_thoughts": "我不如他们，他们一定觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对同时有多项日程需要协调（多个孩子、多场活动）",
+          "conditional_assumptions": "如果我不能完美处理所有安排，就完全不行",
+          "compensatory_strategies": "尝试把所有任务一次性安排得尽善尽美",
+          "automatic_thoughts": "我根本搞不定这些安排，我总是迟到",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "即使已投入大量努力进行计划，但仍出现迟到",
+          "conditional_assumptions": "如果努力没有立刻见效，就说明我本质上无能",
+          "compensatory_strategies": "否定自己的进步和投入，进一步自责",
+          "automatic_thoughts": "我做什么都没用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为称职、被认可的好父亲",
+        "fear": "害怕被其他家长或孩子视为无能、害怕让孩子失望并遭到羞辱",
+        "defense_goal": [
+          "通过回避社交与自我苛责来保护自尊，减少被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、失败的父亲",
+          "object_representation": "批判、看不起我的他人（其他家长）",
+          "linking_affect": "羞耻、自卑、焦虑"
+        },
+        {
+          "self_representation": "会让孩子失望的照顾者",
+          "object_representation": "需要被我好好照顾的孩子",
+          "linking_affect": "内疚、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在孩子的比赛或训练现场与其他家长接触或想到他们的看法时",
+          "interpretation": "来访者潜意识认为他人会像评判者一样看不起自己（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用支持性、非评判的语气；邀请其举证与澄清具体事实，避免贴标签；以温和提问引导其区分他人真实反馈与自己的推测。"
+        },
+        {
+          "trigger_condition": "当咨询师提出尝试认知重构或行为实验以改变信念时",
+          "interpretation": "来访者认为改变无效，自己注定“不行”（移情：否认）",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "保持稳定、接纳的语气；先共情其怀疑，再提出小步试验的建议；避免强迫说服，强调自主选择与节奏。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感觉日常生活从享受变成“忍受”，难以从活动中获得满足",
+            "自尊下降使生活失去活力"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "焦虑增加",
+            "兴趣减退/倦怠感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿向书友会或家长教师协会的朋友分享感受",
+            "在比赛现场回避与其他家长交流，感到尴尬与羞辱"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "支持网络利用不足",
+            "羞耻与自卑强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责、给自己贴上“我没用”的标签",
+            "在社交场合过度担心他人评价而退缩"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "认为其他家长“看不起我”“他们一定觉得我不称职”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "避免与其他家长交流，不向朋友求助",
+            "把外向表达需求转为自我苛责与内在消耗"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "积极投入于孩子的体育活动，愿意花大量时间接送",
+          "愿意寻求专业帮助（开始咨询）",
+          "尝试组织日程与设置提醒，具备一定的时间管理意识",
+          "拥有潜在的社会支持资源（书友会、家长教师协会的朋友）"
+        ],
+        "negative_force": [
+          "自我评价消极，长期给自己贴上“无用”的标签",
+          "与他人比较并读心，倾向个人化，导致回避社交",
+          "黑白思维与过度概括，将迟到等同于“彻底失败”",
+          "焦虑与压力增加，影响日常活动的享受与参与"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避（在孩子的比赛或训练现场避免与其他家长交流）",
+          "antecedent": [
+            "在比赛/训练现场看到其他家长",
+            "想到他人可能评判自己不称职"
+          ],
+          "core_reason": "读心术与个人化认知导致羞耻与自卑，回避以减少情境压力",
+          "function": "逃避不受欢迎的事物（他人评价、羞耻感）",
+          "consequence": "人际关系受损，社会支持减少，孤独与自卑加剧"
+        },
+        {
+          "behavior": "自我贬损的言语与反复自责（如“我没用”“我不够好”），伴随焦虑",
+          "antecedent": [
+            "出现迟到或预期可能迟到",
+            "尝试组织仍未完全按时"
+          ],
+          "core_reason": "黑白思维、过度概括与内摄的“必须准时”的规则",
+          "function": "短期释放内疚与焦虑的紧张感，但维持负性自我图式",
+          "consequence": "自尊下降、焦虑持续，进一步影响时间管理与家庭互动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2015
+}

@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "李德文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲住院，因医疗账单产生经济压力",
+      "social_status": "人际关系因压力与自我贴标签而紧张；有朋友可倾诉但犹豫，担心给对方添麻烦",
+      "medical_history": "未提及显著躯体疾病；既往无类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、合作度高、能进行自我反思；倾向使用“应该”句式与自我贬损标签（如“我是无用的儿子”）；情绪压倒时自责明显；语速与逻辑结构细节未提及"
+    },
+    "main_problem": "因母亲正在住院且医疗账单带来经济压力，我觉得自己是个无用的儿子，并被持续的压力与失败感困扰。",
+    "topic": "家庭关系",
+    "core_demands": "我想学会更好地管理这些负面想法，因为它们正在影响我。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的儿子",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "收到新的医疗账单（如邮件中的账单）",
+          "conditional_assumptions": "如果我不能完全掌控并解决账单，就说明我是无用的儿子",
+          "compensatory_strategies": "加班工作、与医院协商分期付款以证明自己有在努力",
+          "automatic_thoughts": "我没法处理这个，我是个无用的人",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在医院照看母亲、面对其病情与照护需求",
+          "conditional_assumptions": "如果我不能提供更好的照顾，就是不孝、无能",
+          "compensatory_strategies": "频繁探望并努力安慰母亲，试图维持“有用”的自我形象",
+          "automatic_thoughts": "我不够好，我让母亲失望",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "想到要向朋友寻求支持时",
+          "conditional_assumptions": "如果向朋友求助就是在麻烦别人，说明我不够独立、不够有能力",
+          "compensatory_strategies": "压抑情绪、减少求助，选择独自承受压力",
+          "automatic_thoughts": "我不该麻烦别人",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "意识到自己已做出努力（如探望、加班、部分付款与分期）却仍感到“永远不够”",
+          "conditional_assumptions": "只有做到完美、彻底解决才算有用；任何有限的进展都不算数",
+          "compensatory_strategies": "忽视正向证据、继续加倍努力而不认可自身成果",
+          "automatic_thoughts": "这些都不算数，我依然无用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、负责任的儿子，能有效照顾母亲并获得认可",
+        "fear": "害怕自己无法胜任、被视为无用与失败，从而感到羞耻与被关系疏远",
+        "defense_goal": [
+          "通过自我批判与高标准维持控制感与“有用”形象",
+          "避免被他人视为麻烦与无能，保持自我要求以减轻羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、不足的儿子",
+          "object_representation": "充满期待、需要被照料的母亲",
+          "linking_affect": "内疚、焦虑、羞耻"
+        },
+        {
+          "self_representation": "可能给他人添麻烦的人",
+          "object_representation": "会被我负担、可能评判我的朋友/他人",
+          "linking_affect": "顾虑、愧疚、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（包括咨询师）肯定其努力或邀请他看到自身的积极证据时",
+          "interpretation": "潜意识认为这些肯定不真实，自己仍是失败者；若松动自责会被视为不负责任",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "保持自我苛责，使用“应该/必须”语句否定积极证据；语气低沉克制，强调“不够好”。"
+        },
+        {
+          "trigger_condition": "收到账单或医院付款提醒，压力骤增时",
+          "interpretation": "将外部压力体验为对自我能力的否定，认为“我无能”“我失败”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "加强自我贬损与道歉式表达，压抑对外的愤怒与求助欲望，减少请求支持的语句。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友可谈但犹豫求助，担心给他人添麻烦",
+            "关系紧张，倾向独自承受压力"
+          ],
+          "outcomes": [
+            "主观压力与无助感增强",
+            "情绪困扰影响日常（如进食）"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "主观体验“局势失控”，账单堆积带来强烈无力感",
+            "以“应该更好”自我规约，感受被责任与压力束缚"
+          ],
+          "outcomes": [
+            "焦虑与压倒感增加",
+            "自我贬损与羞耻感强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "反复使用“我应该能更好地处理账单”“我必须做得更好”",
+            "将“完美解决”视为唯一达标标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "情绪压倒时不向朋友求助，转而自我承受与自我批评",
+            "减少表达需要与寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责，频繁自我标签为“无用/失败者”",
+            "在互动中小心谨慎，担心给他人添麻烦"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收到账单时，来访者通常会灾难化地认为“我没法处理”，随之感到强烈压力并倾向独自扛着。",
+          "unique_outcome": "上个月，他没有像往常那样陷在“我没法处理”里，而是与医院沟通，安排分期付款并完成部分支付，主观感到事务更可控。",
+          "reason": "不同做法：主动联系医院并了解支付方案；不同理解：将账单拆分为可管理的步骤。"
+        },
+        {
+          "target_problem": "在情绪压倒时，来访者通常会犹豫并避免向朋友求助，担心给对方添麻烦，导致持续的孤立与压力。",
+          "unique_outcome": "某次压力较大时，他主动联系朋友谈心并获得情感支持，没有像以往那样完全独自承担，情绪有所缓和。",
+          "reason": "不同支持：朋友的陪伴与倾听；不同做法：允许自己表达压力并寻求帮助。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对母亲有稳定的关心与付出（规律探望、努力安慰）",
+          "采取实际财务策略（分期付款、部分支付）",
+          "愿意寻求专业帮助，态度积极",
+          "能够识别并练习重构部分负性思维"
+        ],
+        "negative_force": [
+          "灾难化与个人化思维显著",
+          "自我贬损标签与“应该”规则强",
+          "对寻求朋友支持的顾虑导致社交隔离",
+          "主观体验失控与无力感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬损标签与灾难化思维（如“我是无用的儿子”“我没法处理”）",
+          "antecedent": [
+            "收到账单或付款提醒",
+            "想到母亲病情与照护需求",
+            "面对财务与照护任务时"
+          ],
+          "core_reason": "内摄的高标准与“必须/应该”规则、个人化归因与灾难化认知；缺乏对自身努力的接纳与自我同情。",
+          "function": "自我惩罚以维持控制的错觉，并逃避被他人评判的焦虑。",
+          "consequence": "压力与无助感加剧，羞耻与自责上升，影响进食等日常功能。"
+        },
+        {
+          "behavior": "回避向朋友求助与表达需要",
+          "antecedent": [
+            "在情绪压倒或需要支持时担心给他人添麻烦",
+            "想到他人可能对自己有负面看法时"
+          ],
+          "core_reason": "对外界评价的恐惧与“应该独立、不麻烦别人”的内摄规则。",
+          "function": "逃避潜在的拒绝或内疚感，维持自我形象的“独自承担”。",
+          "consequence": "社会支持减少，孤独与压力增加，问题负担加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 265
+}

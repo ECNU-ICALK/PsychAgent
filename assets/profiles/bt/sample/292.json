@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "苏菲",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母为律师；与父母沟通困难，不易向其表达自己的失败感与自我不足。",
+      "social_status": "人际关系受到自我怀疑与对失败的恐惧影响。",
+      "medical_history": "无显著躯体疾病；此前未接受过心理治疗或咨询。",
+      "language_features": "表达清晰、能回顾具体事件；倾向只关注负面（心理过滤）；态度积极、配合度好。"
+    },
+    "main_problem": "我经常觉得自己在生活中什么都做不好，尤其是在像网上订错衣服尺码这样的错误之后，这会导致失败感和自我不足。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询减少“失败感”对日常生活的影响与困扰；“我真的想不再一直觉得自己是个失败者。”",
+    "growth_experiences": [
+      "一次帮助朋友完成困难的作业，对方因此取得了好成绩；该经历让她感到自己能够提供帮助并具备良好的学科理解力（积极的过往事件）。",
+      "过往在面对挑战或犯错时常出现强烈的失败感与自我不足，这种模式长期存在并在近期加重（无既往心理治疗史）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在生活中什么都做不好",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "网上订购连衣裙时下错尺码，收到后尺寸与自身差距很大",
+          "conditional_assumptions": "如果我犯一次明显的错误，就证明我在生活中总体上都不行",
+          "compensatory_strategies": "回避可能出错的情境、向他人寻求再保证",
+          "automatic_thoughts": "我什么都做不好，我就是个失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在面对新的挑战或任务时",
+          "conditional_assumptions": "只要是具有难度的事情，我最终都会失败",
+          "compensatory_strategies": "事前回避尝试以减少失败风险",
+          "automatic_thoughts": "这次也会搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾以往经历时更容易注意到错误而忽视成功或正面反馈",
+          "conditional_assumptions": "负面的部分才重要，正面的经验不算数",
+          "compensatory_strategies": "贬低或忽略积极成果，持续强化负面自我评价",
+          "automatic_thoughts": "那些做得好的其实不值得一提",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与他人互动或需要展示自己能力的社交情境",
+          "conditional_assumptions": "如果被发现我有不足，别人就会看不起我",
+          "compensatory_strategies": "在社交中寻求他人认可和保证，尽量避免暴露错误",
+          "automatic_thoughts": "我需要得到别人的认可才能证明我不失败",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并证明自己是有能力和值得肯定的",
+        "fear": "害怕失败、被否定或被看不起，进而失去价值感",
+        "defense_goal": [
+          "通过回避挑战与寻求他人再保证来降低焦虑并维持自我价值感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易犯错的失败者",
+          "object_representation": "他人是挑剔的评价者，可能会否定或看不起我",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到他人可能评价自己或在社交场合需要展示能力时",
+          "interpretation": "他人会像挑剔的评判者一样看不起我（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受归于他人，与”拥有“对应",
+          "response_instruction": "以谨慎、回避的语气表达，减少自我暴露，并频繁寻求确认与保证。"
+        },
+        {
+          "trigger_condition": "当被引导关注或承认积极经历与能力时",
+          "interpretation": "积极的部分不重要，承认它会显得自我夸大或不真实",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "轻描淡写积极内容，转而强调负面细节，用保留和谨慎的措辞。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因害怕犯错而回避新的挑战与选择",
+            "在做决定时高度依赖他人保证"
+          ],
+          "outcomes": [
+            "行动受限、犹豫不决",
+            "焦虑与自我怀疑加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向父母敞开表达失败与不足的感受",
+            "关系支持的利用度低"
+          ],
+          "outcomes": [
+            "支持感不足",
+            "情绪困扰在关系中累积"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在错误后产生“我什么都做不好”的总体性评价"
+          ],
+          "outcomes": [
+            "自我价值感降低",
+            "挫败与失望"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "经常自我怀疑，认为自己‘什么都做不好’",
+            "做决定时过度谨慎、寻求他人保证"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "在社交情境中假设他人会看不起自己",
+            "把自我不足的感受归因为他人的评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在人际或学习情境中，来访者通常会因自我怀疑与对失败的担心而回避尝试，结果错失练习与表达能力的机会。",
+          "unique_outcome": "曾经帮助一位朋友完成困难的作业，那次她没有回避而是投入协助，朋友因此取得了好成绩，她也体验到‘我能帮助别人并且理解得很好’的积极感受。",
+          "reason": "不同做法：基于自己对该学科有较好的理解，明确了任务目标并专注于解决；不同支持：与朋友的合作带来即时正反馈，因此这次出现了更投入与有效的表现。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有求助动机并主动开始咨询，态度积极",
+          "具备一定的学科理解与帮助他人的经验（曾帮助朋友完成困难作业）",
+          "能够提出自助策略（记录积极事件的日记）",
+          "父母具备社会资源与潜在支持（均为律师）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的认知模式，常把一次错误扩展为全面失败",
+          "心理过滤与否定正面，难以整合积极证据",
+          "对失败的强烈恐惧导致回避挑战",
+          "过度寻求外部认可与再保证，内在自我评价薄弱",
+          "人际表达受自我怀疑影响，与父母沟通困难"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避可能犯错或具有难度的情境",
+          "antecedent": [
+            "面对新的挑战或任务",
+            "想到可能会犯错"
+          ],
+          "core_reason": "对失败的灾难化预测与过度概括，担心一次错误代表整体无能",
+          "function": "逃避可能的负面评价与焦虑，暂时维持安全感",
+          "consequence": "错失练习与成长机会，日常决策受限，失败感持续加重"
+        },
+        {
+          "behavior": "过度寻求他人再保证",
+          "antecedent": [
+            "在做决定或犯错之后",
+            "进入社交互动需要展示能力时"
+          ],
+          "core_reason": "内在自我评价薄弱，依赖外部认可以确认自我价值",
+          "function": "获得安慰与确认以降低不确定性与焦虑",
+          "consequence": "依赖性增强，自主性下降，长期无法建立稳定的自我效能感"
+        },
+        {
+          "behavior": "在犯错后进行负面反刍与自我否定",
+          "antecedent": [
+            "发生错误（如网购下错尺码）",
+            "回忆过去失败片段"
+          ],
+          "core_reason": "心理过滤与否定正面导致只关注错误并将其视为整体能力的证明",
+          "function": "试图通过自我批评来防止再次犯错（表面控制感）",
+          "consequence": "情绪低落、压抑与不堪重负；人际关系与日常功能受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 292
+}

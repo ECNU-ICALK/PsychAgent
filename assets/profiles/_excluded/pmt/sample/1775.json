@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "林以森",
+      "gender": "男",
+      "occupation": "餐厅服务员",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "与父母同住",
+      "social_status": "与父母关系因购房忧虑而紧张；有几位朋友可倾诉，但尚未与他们讨论该问题",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；过去未有类似心理问题",
+      "language_features": "态度中性，表达清晰，愿意合作讨论，能描述具体触发情境与影响"
+    },
+    "main_problem": "我认为自己永远无法买到属于自己的房子，因为我做的是餐厅服务员工作，并且还和父母住在一起。这一信念让我感到痛苦和绝望。",
+    "topic": "职业发展",
+    "core_demands": "持续的“买不起房”的念头开始影响我的心理健康与整体幸福感，因此希望通过咨询加以缓解与改善。",
+    "growth_experiences": [
+      "三年前开始做餐厅服务员后，逐渐出现“永远买不起房”的念头；这些念头在下班后和浏览房源信息时更为频繁。",
+      "看到同龄人或周围人实现购房，使其“买不起房”的信念逐步强化；期间曾尝试预算与存钱，但仍认为不足以改变现实。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远无法买到自己的房子"
+      ],
+      "special_situations": [
+        {
+          "event": "餐厅下班后",
+          "conditional_assumptions": "如果我的收入只是一名服务员的工资，我就永远无法攒够买房的钱",
+          "compensatory_strategies": "尝试做预算与存钱来对抗不安",
+          "automatic_thoughts": "我永远买不起房",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在线浏览房源与价格信息",
+          "conditional_assumptions": "如果房价持续上涨，我的努力也没有意义",
+          "compensatory_strategies": "继续严格预算与存钱，但在心理上否定其作用",
+          "automatic_thoughts": "房价越来越高，我注定买不起",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "看到同龄人购房或在社交媒体上分享购房消息",
+          "conditional_assumptions": "如果我没有像同龄人那样买房，就说明我失败",
+          "compensatory_strategies": "回避与朋友讨论此问题，独自承受焦虑",
+          "automatic_thoughts": "我不可能像他们一样买房",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回到与父母同住的家环境时被现实提醒",
+          "conditional_assumptions": "如果我还和父母住在一起，就表示我不够独立、买房对我来说是不可能的",
+          "compensatory_strategies": "通过加紧存钱与自我要求来“证明”自己在努力",
+          "automatic_thoughts": "我不够独立，买房对我来说不可能",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望经济独立并拥有属于自己的家",
+        "fear": "害怕永远无法实现目标、被现实与同龄人的成就证明自己失败",
+        "defense_goal": [
+          "以悲观预期与理性化解释来降低希望带来的失望与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "经济弱势、未独立的自己",
+          "object_representation": "评判性且更成功的“他者”（如同龄人、社会标准）",
+          "linking_affect": "羞愧、无望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其探索更灵活的可能性或提出可行的“小步行动”时",
+          "interpretation": "倾向把咨询师的探索理解为忽视现实困难，强化“现实就是收入有限、房价高”的信念",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平静、讲事实的语气重复市场与收入的客观限制，强调“现实如此”，减少情绪表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复产生“永远买不起房”的绝望感",
+            "认为目标不可能实现，感到“被困住”",
+            "难以专注于原本喜欢的活动（足球、阅读）"
+          ],
+          "outcomes": [
+            "情绪低落与无望",
+            "工作表现下降",
+            "家庭关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以绝对化语言表述：“永远买不起房”",
+            "将“房价高/服务员工资低”当作不可更改的真理",
+            "强调“现实就是如此”，难以接纳其他可能性"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不与朋友讨论此问题，选择独自消化焦虑",
+            "在家庭中因担忧而紧张，但较少表达具体需求或寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备理财与自我管理意识（曾尝试预算与存钱）",
+          "工作相对稳定（三年来一直从事餐厅服务员工作）",
+          "拥有一定社会支持（有几位朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化与“非黑即白”思维显著，以“永远/不可能”解释前景",
+          "心理过滤：过度关注房价上涨与收入有限，忽略潜在可能性",
+          "预测未来：在缺乏证据时断言无法购房，引发无望感",
+          "比较与绝望：与同龄人购房比较，强化自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕购房问题的持续性担忧与灾难化自动思维",
+          "antecedent": [
+            "餐厅下班后",
+            "浏览房地产房源/价格信息",
+            "看到同龄人购房的消息",
+            "回到与父母同住的家环境"
+          ],
+          "core_reason": "将服务员收入有限与房价上涨整合为“永远无法购房”的信念，形成灾难化与黑白式认知",
+          "function": "逃避不确定性与潜在失败，通过悲观预期来降低期望与失望感",
+          "consequence": "工作表现下降，难以专注于足球或阅读等休闲活动，与父母关系紧张，情绪低落与无望"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1775
+}

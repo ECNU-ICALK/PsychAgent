@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "59",
+      "name": "林嘉琳",
+      "gender": "女",
+      "occupation": "高中教师，教授日语与绘画课程",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "独居，养一只名为Wonwon的宠物犬",
+      "social_status": "与朋友的关系因其对恋爱持消极态度而紧张；有几位亲密朋友可交流，但未向他们充分披露自己的绝望感",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗；过往恋爱中未出现类似问题",
+      "language_features": "表达清晰但态度偏消极与怀疑；倾向将他人评论解读为轻视；对直接沟通与澄清他人意图感到尴尬并回避；配合度尚可"
+    },
+    "main_problem": "我一直对自己的恋爱生活感到气馁和绝望，尤其是在最近又经历了一次糟糕的约会之后。这种绝望感已持续几年，压力随着更多不成功的约会而增加，问题发展到我考虑彻底放弃约会；每次失败或被拒后都会频繁出现消极想法。",
+    "topic": "人际关系",
+    "core_demands": "由于负面恋爱经历的累积与持续的绝望感，寻求支持与指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远找不到可以在一起的人",
+        "我的约会总会以失败告终"
+      ],
+      "special_situations": [
+        {
+          "event": "昨晚又经历了一次糟糕的约会",
+          "conditional_assumptions": "如果一次约会很糟糕，就意味着未来的关系都会失败",
+          "compensatory_strategies": "考虑停止约会以避免进一步的失望",
+          "automatic_thoughts": "我不如别再约会了，我永远找不到可以在一起的人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在多次不成功的约会之后回想这些经历",
+          "conditional_assumptions": "坏的约会说明我不适合拥有稳定关系",
+          "compensatory_strategies": "使用约会应用并向朋友寻求建议尝试改善，但当结果不佳时更倾向放弃",
+          "automatic_thoughts": "这些失败证明我不会找到合适的伴侣",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在约会被拒绝之后",
+          "conditional_assumptions": "只要被拒绝，就等于彻底失败",
+          "compensatory_strategies": "降低对约会的投入与期待，甚至考虑彻底停止约会",
+          "automatic_thoughts": "我又失败了，这说明我不可能成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当朋友向她提供恋爱建议或谈论她的约会经历时",
+          "conditional_assumptions": "如果朋友没有明确肯定或建议未见效，就代表他们也不看好我",
+          "compensatory_strategies": "回避进一步求助，把感受埋在心里，不主动澄清或请求反馈",
+          "automatic_thoughts": "他们其实觉得我在恋爱上无可救药",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望建立亲密、被接纳的伴侣关系",
+        "fear": "害怕持续失败与被拒绝，最终陷入长期孤独与绝望",
+        "defense_goal": [
+          "通过退缩与考虑停止约会来降低受伤风险与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被看好、注定在恋爱中失败的人",
+          "object_representation": "轻视或不支持的评判者/可能拒绝自己的人",
+          "linking_affect": "挫败、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议直接向他人澄清意图或寻求反馈时",
+          "interpretation": "来访者认为别人会觉得她过于敏感并因此拒绝或疏远她（移情：将被轻视的担忧投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹疑、强调尴尬与被认为“太敏感”的担心；避免直接提问与澄清，使用委婉而不直接的表达。"
+        },
+        {
+          "trigger_condition": "当咨询师鼓励进行现实检验或行为实验以挑战灾难化预测时",
+          "interpretation": "来访者倾向认为这些方法“没有用”，结果不会改变（移情：对改变的悲观投射）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“也许/不过……”的句式提出多重理由不执行作业，语气保留、避免承诺具体行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "多次不成功的约会后产生“我永远找不到伴侣”的想法",
+            "考虑放弃约会，对未来关系失去希望"
+          ],
+          "outcomes": [
+            "绝望与动力下降",
+            "与朋友关系紧张",
+            "日常情绪受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转向自身。",
+          "manifestations": [
+            "把感受埋在心里，不向朋友充分披露绝望感",
+            "在被评论触发时选择沉默而非澄清对方意图"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "回避直接询问他人意图或寻求反馈",
+            "在社交互动中以玩笑或泛化话题来绕开核心不适"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友可交流与支持",
+          "愿意尝试现实检验与观察他人反应（虽持怀疑态度）",
+          "工作总体功能维持（恋爱问题未显著影响工作表现）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来倾向强",
+          "过度概括与非黑即白思维",
+          "否定正面与对失败的过度关注",
+          "倾向读心，将他人意图解读为轻视",
+          "回避直接沟通与澄清，能量内向化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "约会失败后出现灾难化与放弃约会的倾向",
+          "antecedent": [
+            "经历糟糕的约会",
+            "被约会对象拒绝"
+          ],
+          "core_reason": "在反复不成功的约会后形成“我永远找不到伴侣”的核心信念与认知歪曲（灾难化、过度概括、预测未来、非黑即白）",
+          "function": "逃避进一步失败与情绪痛苦，短期降低焦虑",
+          "consequence": "考虑停止约会，动机与情绪受损，与朋友关系紧张"
+        },
+        {
+          "behavior": "在社交互动中将他人评论解读为轻视并选择回避澄清",
+          "antecedent": [
+            "朋友讨论其约会经历或提出建议",
+            "他人对其投入的评价"
+          ],
+          "core_reason": "对被轻视与被拒绝的高度敏感，将担忧投射为他人的负面意图（读心）",
+          "function": "避免尴尬与被评价的风险，短期维持自我保护",
+          "consequence": "情绪困扰加重，减少寻求支持与反馈，关系进一步紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 886
+}

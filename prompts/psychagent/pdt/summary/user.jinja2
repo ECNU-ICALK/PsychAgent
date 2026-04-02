@@ -1,0 +1,123 @@
+
+【当前治疗阶段】
+{{session_stage}}
+
+【来访者背景信息】
+{% if client_info -%}
+{% set info = client_info.static_traits or {} -%}
+{% macro line(label, value) -%}
+- {{ label }}：{{ value | default('未知', true) }}
+{%- endmacro -%}
+一、基本信息
+{{ line('姓名', info.name) }}
+{{ line('年龄', info.age) }}
+{{ line('性别', info.gender) }}
+{{ line('职业', info.occupation) }}
+{{ line('教育背景', info.educational_background) }}
+{{ line('婚姻状况', info.marital_status) }}
+
+二、家庭与社会关系
+{{ line('家庭情况', info.family_status) }}
+{{ line('社会关系状态', info.social_status) }}
+
+三、身心状况
+{{ line('既往病史', info.medical_history) }}
+
+四、主诉与咨询目标
+{{ line('主诉', client_info.main_problem) }}
+{{ line('咨询主题', client_info.topic) }}
+{{ line('核心诉求', client_info.core_demands) }}
+
+五、成长经历
+{% if client_info.growth_experiences -%}
+{% for exp in client_info.growth_experiences -%}
+  - {{ loop.index }}. {{ exp }}
+{% endfor -%}
+{% else -%}
+- 未知
+{% endif %}
+六、核心冲突
+{%- if client_info.core_conflict -%}
+{% set s = client_info.core_conflict or {} %}
+  - 深层欲望：{{ s.wish | default('未知', true) }}
+  - 核心焦虑：{{ s.fear | default('未知', true) }}
+  - 防御目标：
+  {%- if s.defense_goal %}
+    {%- for a in s.defense_goal if a %}
+    - {{ a }}
+    {%- endfor %}
+  {%- else %}
+    暂无记录
+  {% endif %}
+{% else -%}
+- 冲突：未知
+{% endif %}
+七、客体关系
+{%- if client_info.object_relations -%}
+{%- for s in client_info.object_relations -%}
+  {% if s.self_representation is defined %}
+  - 关系 {{ loop.index }}：
+    - 自体表象：{{ s.self_representation | default('未知', true) }}
+    - 客体表象：{{ s.object_representation | default('未知', true) }}
+    - 连接情感：{{ s.linking_affect | default('未知', true) }}
+  {% else -%}
+  - 关系 {{ loop.index }}：{{ s }}
+  {% endif -%}
+{% endfor -%}
+{% else -%}
+- 关系：未知
+{% endif %}
+八、防御机制
+{%- if client_info.behavioral_response_patterns -%}
+{%- for s in client_info.behavioral_response_patterns -%}
+  {% if s.trigger_condition is defined %}
+  - 机制 {{ loop.index }}：
+    - 触发条件：{{ s.trigger_condition | default('未知', true) }}
+    - 移情投射：{{ s.interpretation | default('未知', true) }}
+    - 防御机制：{{ s.defense_mechanism | default('未知', true) }}
+    - 防御机制定义：{{ s.defense_definition | default('未知', true) }}
+    - 响应指令：{{ s.response_instruction | default('未知', true) }}
+  {% else -%}
+  - 机制 {{ loop.index }}：{{ s }}
+  {% endif -%}
+{% endfor -%}
+{% else -%}
+- 机制：未知
+{% endif -%}
+{% else %}
+(当前档案为空)
+{% endif %}
+---
+
+【本次会话聚焦目标】{% for focus in session_focus %}
+- {{focus}}{% endfor %}
+
+---
+
+【历史会话概览】
+{%- if history %}
+{%- for session in history %}
+
+【第{{ loop.index }}次会话】
+▶ 阶段：{{ session.session_stage }}
+▶ 对话摘要：{{ session.session_summary_abstract }}
+{%- if session.client_state_analysis %}
+
+▶ 来访者状态分析：
+- 情绪状态：{{ session.client_state_analysis.affective_state }}
+- 潜意识表现：{{ session.client_state_analysis.subconscious_manifestation }}
+- 行为模式：{{ session.client_state_analysis.behavioral_patterns }}
+- 治疗关系：{{ session.client_state_analysis.therapeutic_alliance }}
+- 未解决议题/张力：{{ session.client_state_analysis.unresolved_points_or_tensions }}
+{%- endif %}
+
+{%- endfor %}
+{%- else %}
+
+(暂无历史会话记录)
+{%- endif %}
+
+---
+
+【本次完整心理咨询对话】
+{{ current_session_dialogue }}

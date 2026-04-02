@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "卡车司机",
+      "educational_background": "高中毕业（High School Diploma）",
+      "marital_status": "已婚",
+      "family_status": "与配偶及三个孩子共同生活",
+      "social_status": "配偶理解并在其外出时照看孩子；与孩子的关系受其愧疚影响",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗或咨询；无类似问题史",
+      "language_features": "表达清晰、配合度高；语气自责，常用“应该/必须”等规则性表述；情绪焦虑但能接纳重构与作业"
+    },
+    "main_problem": "因为卡车司机的工作长期离家，我觉得自己是一个糟糕且缺席的父母，这导致强烈的愧疚与自责。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询，因为愧疚和自责影响了我的心理健康，并导致与孩子关系紧张。",
+    "growth_experiences": [
+      "开始从事卡车司机工作后，需要长时间离家，与家人分离；刚开始工作时压力很大，担心离开孩子；随着工作持续进行，不在场的愧疚感逐渐加重，每次出发或错过重要家庭活动（如孩子的学校活动、作业陪伴）都会触发强烈的自责；曾尝试在工作间隙与孩子进行高质量的相处，但愧疚仍然持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕且缺席的父母"
+      ],
+      "special_situations": [
+        {
+          "event": "每次需要外出工作、离开家庭",
+          "conditional_assumptions": "好父母必须时刻在场陪伴孩子，不能因为工作长期离家",
+          "compensatory_strategies": "在休息期间尽量安排高质量的亲子相处，以弥补不在场",
+          "automatic_thoughts": "我又要让孩子失望了，我是个糟糕的父母",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "错过孩子的重要家庭与学校活动（如学校活动、作业辅导）",
+          "conditional_assumptions": "如果我错过任何重要时刻，就等于不负责任/不爱孩子",
+          "compensatory_strategies": "回家后尽力帮孩子做作业并计划有趣活动",
+          "automatic_thoughts": "不在场就说明我是个坏父母",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "在外地工作时情绪低落、想起孩子与家庭",
+          "conditional_assumptions": "只要我感到愧疚，就证明我确实做得很差",
+          "compensatory_strategies": "持续自我批评以督促自己做得更好（效果有限）",
+          "automatic_thoughts": "我感觉很糟糕，所以我一定是个糟糕的父母",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "开始这份工作并长期在路上，与家人分离",
+          "conditional_assumptions": "作为母亲选择这份工作就是对家庭的伤害",
+          "compensatory_strategies": "通过提供经济支持与稳定工作表现来证明对家庭的付出",
+          "automatic_thoughts": "我选了错误的工作，正在伤害孩子",
+          "cognitive_pattern": "Blaming"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为母亲被孩子需要与亲密陪伴，成为在场且可靠的照顾者",
+        "fear": "害怕因缺席而让孩子失望、关系疏远，被视为不称职的母亲",
+        "defense_goal": [
+          "通过内化严格的母职标准并自我苛责来维持对“好母亲”的掌控感",
+          "通过加强补偿性陪伴与具体计划来缓解焦虑与愧疚"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、缺席的母亲",
+          "object_representation": "被自己辜负、需要被照顾的孩子",
+          "linking_affect": "愧疚、担忧"
+        },
+        {
+          "self_representation": "努力提供家庭支持的伴侣",
+          "object_representation": "理解且支持的配偶",
+          "linking_affect": "感激、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到错过孩子的重要时刻或即将外出工作时",
+          "interpretation": "将外界对“好母亲应当在场”的标准视为绝对，认为自己不在场就等于不称职",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
+          "response_instruction": "语气自责，频繁使用“应该”“必须”等词；即使被温和引导，也容易回到自我批评的主题。"
+        },
+        {
+          "trigger_condition": "当意识到自己错过家庭活动、想到孩子需要陪伴时",
+          "interpretation": "把对工作安排的无力与不满转为责备自己，认为一切都是自己的错",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用高度自责的语言，强调“都是我不好”，情感浓度高，忽略客观限制。"
+        },
+        {
+          "trigger_condition": "预想到再次离家在外、担心亲子连接减弱时",
+          "interpretation": "意识到无法完全掌控“在场”，尝试通过计划来降低焦虑",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "采用务实、计划性的表达（如安排视频通话、制定家庭活动），语气平稳、具体。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期在路上工作、与家人分离",
+            "担心与孩子的连接减弱",
+            "在离开时感到强烈的空缺与愧疚"
+          ],
+          "outcomes": [
+            "持续的愧疚与自责",
+            "与孩子关系紧张",
+            "情绪低落并影响工作专注"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "用“好父母必须时刻在场”的僵化标准评判自己",
+            "频繁使用“应该/必须”的表达",
+            "将社会对母职的期待未经消化地当作自己的规则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自责，强调“都是我不好”",
+            "在对话中忽略积极证据，聚焦缺点与失误",
+            "难以给予自己同情和宽容"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "配偶支持并承担照看孩子的职责，提供稳定的家庭支持",
+          "工作表现稳定，具有责任感与提供家庭经济支持的动机",
+          "主动在休息期安排高质量亲子互动，具备投入与计划能力",
+          "愿意接受咨询并练习自我同情与认知重构，态度积极"
+        ],
+        "negative_force": [
+          "内化的僵化母职规则（“应该时刻在场”）",
+          "个人化与自我标签化导致过度自责",
+          "长期与家人分离的客观情境增强孤独与愧疚",
+          "情绪化推理：因为感觉糟糕就认定自己是坏父母",
+          "愧疚影响专注与工作状态，进一步强化负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自责与持续的愧疚感（自我批评性言语与情绪）",
+          "antecedent": [
+            "每次外出工作离开家庭时",
+            "错过孩子的重要活动与作业陪伴时",
+            "在外地工作、想到孩子与家庭时"
+          ],
+          "core_reason": "内摄的“好父母必须时刻在场”的信念与个人化归因模式，使其将无法控制的客观限制归咎于自身",
+          "function": "自我惩罚以维持对“好父母”标准的控制感，试图通过内疚驱动补偿行为（安排高质量陪伴）",
+          "consequence": "情绪低落与焦虑、与孩子关系紧张、工作期间注意力受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1528
+}

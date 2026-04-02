@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "陈杰",
+      "gender": "男性",
+      "occupation": "朝九晚五的办公室职员",
+      "educational_background": "部分大学教育",
+      "marital_status": "单身",
+      "family_status": "有父母和兄弟姐妹",
+      "social_status": "有支持性的朋友与家人，但尚未与他们讨论与烹饪相关的困扰；因其对烹饪的消极态度，与家人的关系出现紧张。",
+      "medical_history": "无重大躯体疾病；此前未接受过心理咨询/治疗；在烹饪方面此前无类似问题",
+      "language_features": "表达清晰、思路连贯，能自我反思；情绪受挫但合作度高；能识别与讨论负性自动思维，态度积极愿意尝试改变。"
+    },
+    "main_problem": "我觉得今天的做饭事故会让我放弃做饭，尽管我很热爱它。这导致了失败感和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些失败感和自我怀疑正在影响我对烹饪的热情和整体幸福感。",
+    "growth_experiences": [
+      "过去曾多次成功烹饪并获得朋友称赞，由此形成对烹饪的热爱与投入。",
+      "最近在家独自为自己做一顿“特别的饭”时失败，菜品无法入口；该事件引发强烈的失败感、尴尬与自我怀疑，成为当前问题的起点。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是个失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在家独自为自己准备一顿“特别的饭”时发生严重失误，菜品无法入口",
+          "conditional_assumptions": "如果我在自己热爱的事情上失败，就说明我不适合继续做这件事",
+          "compensatory_strategies": "回避下厨，试图用理性化安慰自己或从朋友处寻求泛化的鼓励",
+          "automatic_thoughts": "这次是个灾难，我应该就此放弃烹饪",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次走进厨房或面对新的烹饪挑战时",
+          "conditional_assumptions": "要么做得完美，否则就是失败",
+          "compensatory_strategies": "回避烹饪或只选择最简单的菜以降低出错概率",
+          "automatic_thoughts": "如果不能做到完美，我就不该做",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回忆以往成功并得到朋友称赞的经历时",
+          "conditional_assumptions": "过去的成功不代表现在的能力，一次失败就能否定之前的一切",
+          "compensatory_strategies": "否定积极证据，只反复回放失败情节",
+          "automatic_thoughts": "那些成功不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想起那次失败时，即使当时无人旁观也感到羞耻",
+          "conditional_assumptions": "我感觉很尴尬，就说明我真的很糟糕",
+          "compensatory_strategies": "自我批评并回避再次尝试以避免再次羞耻",
+          "automatic_thoughts": "太丢脸了，我不该再试了",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在热爱的烹饪中被认可并证明自己足够好，保持胜任感与自尊",
+        "fear": "害怕失败与被否定，担心一次失败就定义自我价值并带来羞耻",
+        "defense_goal": [
+          "通过追求完美来避免失败与羞耻",
+          "回避下厨以短期降低焦虑",
+          "以理智化方式与情绪保持距离以维持控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败并该被否定的自己",
+          "object_representation": "苛刻的评判者/完美标准（内在化的高要求他者）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "让家人失望的人",
+          "object_representation": "不理解且对其烹饪消极态度感到不满的家人",
+          "linking_affect": "紧张、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于“失败意味着什么”或鼓励其面对情绪体验时",
+          "interpretation": "将情绪探索体验为失控与再次受挫的风险，需要以逻辑分析来保持安全与掌控",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、分析性语气回应，罗列事实与推理，减少情绪词汇与感受描述，将话题转向技术细节或证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "一次烹饪失败动摇了对热爱的认同，感觉过去的成功“都不算数”",
+            "烹饪的乐趣与投入显著下降，饮食习惯受影响"
+          ],
+          "outcomes": [
+            "自我怀疑与焦虑",
+            "回避烹饪",
+            "与家人关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用自我苛责语句如“我不够好”",
+            "以完美为标准的自我要求（“必须做到完美”）",
+            "犯错后将整体能力否定"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "有支持系统但未将烹饪困扰告诉他人，选择独自承受",
+            "将对失败的不满转向自责与回避下厨"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对烹饪有强烈热爱与多次成功经验",
+          "曾获得朋友的积极反馈与称赞",
+          "态度积极，愿意练习自我慈悲与小步尝试",
+          "能识别认知扭曲并愿意进行现实检验",
+          "工作表现未受影响，生活结构相对稳定"
+        ],
+        "negative_force": [
+          "完美主义与高期望",
+          "灾难化、否定积极、非黑即白等认知扭曲",
+          "回避烹饪以短期降低焦虑",
+          "工作压力与个人期望叠加，提升紧张与失败敏感性",
+          "未向支持系统表达困扰，导致独自承受与孤立感增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪/减少下厨",
+          "antecedent": [
+            "走进厨房",
+            "面对新的烹饪挑战",
+            "联想到上次烹饪失败的记忆"
+          ],
+          "core_reason": "完美主义规则与灾难化信念被激活（“若再次失败就该放弃”）",
+          "function": "逃避可能的失败与羞耻，短期降低焦虑",
+          "consequence": "对烹饪的热情下降、饮食习惯受影响、与家人关系紧张"
+        },
+        {
+          "behavior": "烹饪时出现强烈焦虑与自我否定的自动思维",
+          "antecedent": [
+            "烹饪过程中出现失误或遇到难点",
+            "回想“灾难性”失败场景"
+          ],
+          "core_reason": "核心信念“我不够好”与心理过滤被激活，只关注负面细节",
+          "function": "通过自我批评来寻求控制感与推动改进（但实则加重压力）",
+          "consequence": "紧张与痛苦增加，烹饪效率与乐趣下降，进一步强化回避模式"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1280
+}

@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "苏婷",
+      "gender": "女性",
+      "occupation": "市场营销经理",
+      "educational_background": "工商管理硕士",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有一位要好的朋友，但未与其讨论此恐惧；因害怕被评价而减少社交与需盛装的工作活动参与。",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题；未接受过心理治疗。",
+      "language_features": "表达清晰、逻辑性较好；合作度高、态度积极；情绪上显著焦虑与自我关注；倾向于跳到结论（读心术、预言未来）并否定正向反馈。"
+    },
+    "main_problem": "我害怕因为偏爱穿黑色而被人嘲笑。",
+    "topic": "人际关系",
+    "core_demands": "希望通过咨询解决并克服这些负面想法，重新找回自信，不再过度担心他人看法。",
+    "growth_experiences": [
+      "几个月前在公司，一位同事对我全黑的穿着做了评论；自此开始害怕他人对我外表的看法，逐渐回避需要盛装的社交与工作活动。我认为这种恐惧源于社会关于穿黑色的规范与刻板印象；在穿黑色时尤为强烈，并伴随焦虑与自我意识增强。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会因穿黑色而被他人嘲笑或负面评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在需要正式着装的工作或社交活动中",
+          "conditional_assumptions": "如果我穿黑色出席，就会显得像参加葬礼或不合群，别人会嘲笑我",
+          "compensatory_strategies": "回避参加活动，或改穿更鲜艳的衣服以融入",
+          "automatic_thoughts": "他们会笑我，觉得我很奇怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "几个月前，同事对我的全黑穿搭做出评论",
+          "conditional_assumptions": "一次负面评论说明大多数人都这样看待我穿黑色",
+          "compensatory_strategies": "从此提高警觉，外出前不断预期负面评价",
+          "automatic_thoughts": "穿黑色会被认为在参加葬礼或不合时宜",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "当我穿黑色外出或想到自己将穿黑色出门",
+          "conditional_assumptions": "如果我穿黑色出门，就一定会遭到他人的负面反应",
+          "compensatory_strategies": "在出门前进行最坏情况预演，改穿彩色以避免被评判",
+          "automatic_thoughts": "今天一定会有人因为我的黑色衣服嘲笑我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "有人对我的黑色穿搭给出正面评价",
+          "conditional_assumptions": "如果对方称赞，那也只是出于礼貌，不算数",
+          "compensatory_strategies": "否定正向反馈，继续坚持对负面评价的预期",
+          "automatic_thoughts": "他们只是敷衍，内心还是在看不起我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由地表达自我（偏爱穿黑色）并被他人接纳、不被评判",
+        "fear": "害怕被嘲笑、被拒斥，失去社交安全与职业机会",
+        "defense_goal": [
+          "通过改变穿着与回避场合来降低被他人负面评价的风险，维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被评判、脆弱且不被接纳的自我",
+          "object_representation": "挑剔、爱批评并可能嘲笑自己的他人/群体",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人指出他人对其穿着的正向反馈、或询问他人真实看法时",
+          "interpretation": "认为他人称赞只是出于礼貌，内心依然在贬低或嘲笑自己（移情：将内在的负面评价加诸于他人）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "语气焦虑而笃定，使用肯定句断言他人的负面意图（如“他们只是礼貌”）；对积极反馈予以解释性否定，避免讨论具体证据。"
+        },
+        {
+          "trigger_condition": "当被问及恐惧的原因或需要描述情绪体验时",
+          "interpretation": "用“社会规范与刻板印象”的抽象解释来替代对自身情绪与需求的直接感受（移情：与情感保持距离）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以客观、中性术语说明，减少情感用词；语气平稳偏疏离，强调概念性解释而非主观感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "偏爱穿黑色却担心违背社会规范与他人期待",
+            "尝试穿更鲜艳的衣服以融入而牺牲自我表达"
+          ],
+          "outcomes": [
+            "焦虑与自我不一致感",
+            "回避社交与工作活动"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕被评判而减少社交互动、与朋友和同事保持距离"
+          ],
+          "outcomes": [
+            "人际疏离",
+            "动力下降与日常生活受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "频繁以“他们会笑我/看不起我”来归因他人动机",
+            "在缺乏证据的情况下预设他人的负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对穿着与外界评价过度在意，自我设限避免出席活动",
+            "担心出错而选择回避"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“社会对黑色的刻板印象”视为不可违背的规则",
+            "为迎合他人而改变穿着风格"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在穿黑色参加社交或工作场合时，来访者通常会预设他人负面评价并产生焦虑，从而回避参与",
+          "unique_outcome": "有几次在穿黑色的情况下，别人对她的穿搭给予了称赞，与以往预期不同，并未出现嘲笑",
+          "reason": "线索：由于当时他人直接表达正向反馈，实际互动提供了支持性证据，因此这次未出现负面反应"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有一位可谈心的亲密朋友（潜在社会支持）",
+          "曾收到关于黑色穿搭的正向反馈（现实证据）",
+          "主动求助并愿意尝试记录与重评（改变动机强）"
+        ],
+        "negative_force": [
+          "过度跳到结论（读心术与预测未来）",
+          "否定正向反馈，强化负面预期",
+          "社交回避与自我设限",
+          "将社会规范未经消化地内摄，压抑自我表达"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避需要盛装的社交与工作活动（伴随显著焦虑与自我意识过强）",
+          "antecedent": [
+            "需要正式着装的活动邀请或安排",
+            "穿黑色外出或想到将穿黑色出门",
+            "回想同事曾对全黑穿搭的评论"
+          ],
+          "core_reason": "基于一次他人评论与对社会刻板印象的关注而形成的跳到结论与预测未来的认知偏差，担心被嘲笑与负面评价",
+          "function": "逃避潜在的羞耻与被评判的不适，维持短期安全感",
+          "consequence": "工作表现下降、与朋友疏远、日常焦虑增加与动机下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 448
+}

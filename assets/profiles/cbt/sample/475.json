@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "李骁",
+      "gender": "男",
+      "occupation": "脱口秀喜剧演员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居；与父母及兄弟姐妹关系亲密",
+      "social_status": "有支持性的喜剧圈朋友，但与部分同事关系紧张；不愿与朋友讨论自我怀疑",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无重要躯体疾病",
+      "language_features": "表达清晰、配合度高、能反思、逻辑性较好，语气平和、语速正常"
+    },
+    "main_problem": "因为尚未成名而持续怀疑自己作为脱口秀喜剧演员的成功潜力。",
+    "topic": "职业发展",
+    "core_demands": "持续的自我怀疑已损害我的心理健康，因而寻求咨询来解决这些问题。",
+    "growth_experiences": [
+      "职业初期曾严重舞台恐惧，但通过大量练习与向更资深喜剧演员寻求反馈，逐步提升舞台掌控力并建立起较稳定的自信，这是其早期面对困难并成功改善的经验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不会成功"
+      ],
+      "special_situations": [
+        {
+          "event": "在当地剧院的上一场表演后自我评价不佳",
+          "conditional_assumptions": "如果现在还没有出名，就说明我没有才华、注定不会成功",
+          "compensatory_strategies": "把“尽快成名”作为唯一成败标准，否认任何渐进式进步",
+          "automatic_thoughts": "如果我有才华，现在就该成名了；我不会成功",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到其他喜剧演员取得成功",
+          "conditional_assumptions": "如果别人成功，就意味着我失败或缺少他们拥有的关键能力",
+          "compensatory_strategies": "不断拿自己与成功者比较以评估自我价值",
+          "automatic_thoughts": "他们有我没有的东西；我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "每次演出或在看到成功的喜剧演员时出现负面预测",
+          "conditional_assumptions": "如果每次演出没有立刻获得广泛认可，那就意味着我永远不可能成功",
+          "compensatory_strategies": "提前预设失败以降低失望感，并回避与朋友讨论自我怀疑",
+          "automatic_thoughts": "我永远不会做大",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到观众或同行的正面反馈",
+          "conditional_assumptions": "如果赞美不是来自权威或不够具体，就不可信、不算数",
+          "compensatory_strategies": "否认或贬低正向评价，将其归为“客套”",
+          "automatic_thoughts": "他们只是客气，不是真的认可我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实认可与成功，得到赞赏与归属",
+        "fear": "害怕被否定和羞辱，担心暴露脆弱后被看轻",
+        "defense_goal": [
+          "以自我怀疑和苛刻标准保护自己免于失望",
+          "避免在同伴面前暴露脆弱以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被看见、容易失败的被忽视者",
+          "object_representation": "他人（同行/观众）是挑剔的评判者或不可信的赞美者",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当收到观众或同行的积极反馈时",
+          "interpretation": "对方只是出于礼貌并不真的认可我（将内在怀疑投射到他人动机）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以同理和好奇的语气，邀请其举出具体证据，温和区分事实与推测，避免对抗式质疑。"
+        },
+        {
+          "trigger_condition": "当需要向朋友/同行谈及自我怀疑或寻求支持时",
+          "interpretation": "他们会看不起我或觉得我不够好",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "采用低强度、支持性的语气，允许停顿并邀请其命名感受，鼓励选择一个安全、具体的小片段来分享。"
+        },
+        {
+          "trigger_condition": "当看到其他喜剧演员成功或自己演出不理想时",
+          "interpretation": "他人是全好而我是全坏；他们的成功意味着我的失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用温和的标尺提问，帮助其辨识灰度与多维标准，提供双重验证的例子，避免评判性语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“成名”视为成功的唯一标准，未获得名气时质疑职业意义",
+            "收到正面反馈时也不被其赋予意义，认为不算数"
+          ],
+          "outcomes": [
+            "持续自我怀疑",
+            "动机下降与睡眠受影响",
+            "职业投入与表现受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有支持性朋友却不愿谈及自我怀疑，保持情感疏离",
+            "与部分同事关系因自我怀疑而紧张"
+          ],
+          "outcomes": [
+            "难以获得同伴支持",
+            "加剧比较与否定，增加心理负担"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "“如果我有才华，现在就应该成名”",
+            "把成名当作唯一的成功标准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为他人的赞美只是客套、不真诚",
+            "推断他人并不真正认可自己的能力"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友讨论自我怀疑，将寻求支持的冲动压回自身",
+            "在关系中自我收缩、避免表达脆弱"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁与他人比较并自我苛责",
+            "过度寻求“证据”以证明自己好与否，难以接纳主观体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾成功克服舞台恐惧（通过练习与同辈反馈）",
+          "拥有支持性的喜剧圈朋友",
+          "与家人关系亲密，潜在支持丰富",
+          "有改善动机，积极寻求咨询"
+        ],
+        "negative_force": [
+          "将成名等同于成功的绝对化标准（非黑即白）",
+          "否定正面反馈、难以内部化他人赞赏",
+          "频繁比较并自我贬低，外部评价依赖高",
+          "回避向同伴表达脆弱，难以获得现实支持",
+          "自我怀疑影响睡眠、动机与工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "否定正面反馈并以成名作为唯一成功标准的自我评判",
+          "antecedent": [
+            "演出后自我评价不佳",
+            "收到观众或同行的积极反馈",
+            "看到其他喜剧演员的成功"
+          ],
+          "core_reason": "将外部名气和他人认可视为唯一有效的价值证明，缺乏对渐进进步与多维成功标准的整合",
+          "function": "逃避不确定性与被否定的风险，维持“自我一致”的负性信念以减少失望感",
+          "consequence": "工作表现受损、与同事关系紧张、睡眠和动机下降、加剧自我怀疑"
+        },
+        {
+          "behavior": "回避与朋友讨论自我怀疑",
+          "antecedent": [
+            "与喜剧朋友在一起时出现自我怀疑感受",
+            "需要寻求同伴支持的情境"
+          ],
+          "core_reason": "害怕暴露脆弱后被看轻或否定，担心获得负面评价",
+          "function": "短期减少焦虑与羞耻感，避免潜在的批评与尴尬",
+          "consequence": "无法获得现实支持与修正信息，增加孤立感，维持并加重自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 475
+}

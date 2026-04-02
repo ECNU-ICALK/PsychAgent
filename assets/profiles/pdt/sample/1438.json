@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "陈凯",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲在新奥尔良从事手相师工作",
+      "social_status": "与朋友关系因赌博习惯而紧张；虽有朋友可交流，但尚未向他们透露赌博问题",
+      "medical_history": "无类似问题史；无既往心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑较好、语速平稳、配合度较高；态度中性，能进行自我反思；对问题感到羞耻并谨慎透露"
+    },
+    "main_problem": "在赌场花费过多并相信若继续赌博最终会失去一切；该行为与思维模式在几个月前一次大赢后开始并逐步升级，周末更易发生，设定限额却难以坚持。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询以减少赌博行为对财务稳定和整体福祉的负面影响。",
+    "growth_experiences": [
+      "几个月前在赌场经历一次“大赢”，由此产生强烈的兴奋与期望，逐渐形成更频繁、更高额度的赌博行为；通常在周末更易发生且难以遵守自定限额。",
+      "原生家庭影响：母亲从事手相师工作，长期带有评判性评论（如认为他应更成功），来访者内化为被视为失败的感受；虽然母亲仍会邀请吃饭并关心近况，但来访者常感到被评判与羞耻。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个失败者",
+        "我无法控制自己"
+      ],
+      "special_situations": [
+        {
+          "event": "周末拥有更多空闲时间，接近或进入赌场环境",
+          "conditional_assumptions": "如果这次不去或不下注，就会错过可能的大赢",
+          "compensatory_strategies": "事先设定限额但进入后不断加注以尝试赢回亏损",
+          "automatic_thoughts": "这次会不一样，我能赢回损失。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作压力和人际关系紧张时",
+          "conditional_assumptions": "如果不通过赌博释放压力，我就无法承受当前的困境",
+          "compensatory_strategies": "将赌博作为逃避压力与获得短暂放松的方式",
+          "automatic_thoughts": "我需要去赌场放松，否则压力会压垮我。",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "查看财务状况或回想近期赌博亏损",
+          "conditional_assumptions": "如果继续赌博，我最终会输得一无所有",
+          "compensatory_strategies": "在灾难化担忧中试图通过继续赌博弥补亏损",
+          "automatic_thoughts": "我最终会失去一切。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与母亲互动或想到其过往关于“更成功”的评判性评论",
+          "conditional_assumptions": "如果达不到母亲的期望，就证明我是失败者",
+          "compensatory_strategies": "回避向朋友透露问题、减少求助以避免羞耻和被评判",
+          "automatic_thoughts": "她觉得我是个失败者。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，摆脱被视为失败的评价并重新获得自我掌控感",
+        "fear": "害怕被评判和羞辱、害怕失去一切（财务与自尊）、害怕关系进一步疏离",
+        "defense_goal": [
+          "通过保守与他人距离、隐瞒问题以降低羞耻与他人评判",
+          "通过将赌博合理化为减压或“赢回亏损”的途径来维持脆弱的自尊与希望感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判的失败者、难以自控的个体",
+          "object_representation": "批判性的母亲/他人，可能在意并失望的评判者",
+          "linking_affect": "羞耻、恐惧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于是否向朋友或他人寻求支持、公开赌博问题时",
+          "interpretation": "来访者将透露问题等同于暴露羞耻，会被像母亲一样严苛评判与失望（移情）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用看似理性的理由解释不寻求帮助（如“现在说了也帮不了我”），语气平静、避免具体承诺，快速转移到压力或预算等话题。"
+        },
+        {
+          "trigger_condition": "当被询问关于母亲是否视自己为失败、或要求举证与反证时",
+          "interpretation": "将内心的失败感与羞耻投射为“母亲认为我失败”，忽视相反证据（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受、欲望或冲动归于他人。",
+          "response_instruction": "用笃定的语气断言他人的负面看法，忽略或轻描淡写反证，以简短句子结束话题并将讨论拉回赌博造成的现实困境。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将赌博作为应对压力的选择与“逃避之道”",
+            "难以自我控制（“一旦开始就停不下来”）",
+            "自定限额难以坚持"
+          ],
+          "outcomes": [
+            "财务不稳定与焦虑加重",
+            "工作表现下降",
+            "羞耻与自责感增强"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不向朋友透露问题、独自承受羞耻与压力",
+            "人际关系因赌博而紧张",
+            "担心被他人评判而保持距离"
+          ],
+          "outcomes": [
+            "社会支持减少，问题循环强化",
+            "情绪困扰加重（焦虑、恐惧、羞耻）",
+            "应对资源受限"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该更成功”“我应该更好”的自我要求",
+            "将母亲的评判内化为自我标准，视未达成即为失败"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责为“失败者”，表达谨慎",
+            "因羞耻而不向朋友求助，避免暴露问题"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试改变并主动寻求咨询",
+          "具备一定的自我反思能力，能识别灾难化与预测未来的思维",
+          "意识到财务风险与整体福祉受损",
+          "拥有朋友资源可作为潜在支持"
+        ],
+        "negative_force": [
+          "周末空闲与赌场环境共同触发赌博行为",
+          "工作与人际关系压力使其将赌博作为逃避与放松方式",
+          "灾难化与预测未来等负性认知维持问题循环",
+          "羞耻与对评判的恐惧导致不求助、隐瞒问题",
+          "母亲的评判被内化为严格的自我标准，强化失败感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在赌场过度赌博与花费",
+          "antecedent": [
+            "周末有更多空闲时间",
+            "工作压力增大、人际关系紧张",
+            "几个月前的大赢带来的兴奋与期望",
+            "担心错过潜在的大赢（FOMO）"
+          ],
+          "core_reason": "将赌博作为逃避压力与获得短暂快感的手段；由“大赢”强化的错误期待与“赢回亏损”的信念；伴随灾难化与预测未来的认知维持行为循环",
+          "function": "短期逃避不适与压力、寻求刺激与希望、尝试通过赌博“弥补亏损”以恢复自尊",
+          "consequence": "财务不稳定、工作表现受损、与朋友关系紧张、焦虑与恐惧加重、整体健康生活方式受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1438
+}

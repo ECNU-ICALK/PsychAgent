@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "张诚",
+      "gender": "男",
+      "occupation": "业余厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几位亲密朋友，但难以与他们讨论对孤独的恐惧",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述情绪与想法；配合度较好，语气中性；常过度思考并自动跳到负面结论"
+    },
+    "main_problem": "我一直经历孤独的想法和感受，特别是担心会一个人变老并孤独去世，因为没有人愿意和我结婚。",
+    "topic": "婚姻关系",
+    "core_demands": "我决定寻求咨询，因为对独自变老的恐惧已难以忍受，影响我的心理健康和日常活动的享受。",
+    "growth_experiences": [
+      "过去一年经历几段恋情失败，这一系列事件显著加剧了对孤独与终身单身的恐惧。",
+      "在社交聚会上看到幸福情侣、以及安静夜晚独处时，常被触发出强烈的孤独感与焦虑，并伴随情绪低落、睡眠与食欲紊乱。",
+      "此前未有类似心理困扰与治疗经历；长期独居。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有人愿意和我结婚",
+        "我会孤独终老"
+      ],
+      "special_situations": [
+        {
+          "event": "安静的夜晚独自一人时",
+          "conditional_assumptions": "如果我现在是一个人，以后也会一直一个人，最终会孤独终老",
+          "compensatory_strategies": "通过打电子游戏、做饭、弹吉他来分散注意力",
+          "automatic_thoughts": "我会一个人变老并孤独死去",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交聚会上看到幸福的情侣",
+          "conditional_assumptions": "如果我此刻没有伴侣，就说明没有人会愿意与我长期在一起",
+          "compensatory_strategies": "情绪上“关闭”，减少与他人深入互动",
+          "automatic_thoughts": "我永远找不到那样的幸福",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "经历几段恋情以失败告终之后",
+          "conditional_assumptions": "如果一段关系失败，就意味着以后所有关系都会失败",
+          "compensatory_strategies": "回避向朋友谈及恐惧，独自消化情绪",
+          "automatic_thoughts": "我注定会一直单身",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到向朋友谈论自己的孤独恐惧时",
+          "conditional_assumptions": "如果我表达这些担忧，朋友会认为我很可悲",
+          "compensatory_strategies": "选择不谈或含糊其辞，避免暴露脆弱",
+          "automatic_thoughts": "他们会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣接纳与长期承诺，拥有稳定亲密关系",
+        "fear": "害怕被拒绝、被认为“可悲”，最终终身孤独",
+        "defense_goal": [
+          "避免暴露脆弱以避免被评价",
+          "通过分散注意力来压抑痛苦情绪",
+          "在强烈触发时情绪关闭以自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被选择的孤独者",
+          "object_representation": "伴侣/他人是会拒绝我、不愿与我长期在一起的人",
+          "linking_affect": "悲伤、惊慌"
+        },
+        {
+          "self_representation": "害怕被看不起的求助者",
+          "object_representation": "朋友会认为我很可悲、会看不起我",
+          "linking_affect": "羞耻、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合看到幸福情侣时",
+          "interpretation": "认为这证明自己不可能拥有这样的幸福（自我与他人的好坏分化倾向）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用简短、客观的描述，降低情绪词汇，避免深入讨论自身感受。"
+        },
+        {
+          "trigger_condition": "当想到向朋友谈及对孤独的恐惧时",
+          "interpretation": "相信朋友会觉得自己很可悲（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用假设性语言（如“他们可能会……”），避免直接表达需求或请求支持。"
+        },
+        {
+          "trigger_condition": "在独处的夜晚被焦虑淹没时",
+          "interpretation": "感到若不把注意力转移就会崩溃，需迅速压下不适情绪",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "迅速转换话题到日常活动（游戏、烹饪），弱化负面情绪的细节表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期独居",
+            "担心会一个人变老并孤独去世",
+            "在社交聚会上看到幸福情侣时孤独感与焦虑加剧",
+            "难以向朋友敞开心扉谈及恐惧"
+          ],
+          "outcomes": [
+            "显著焦虑与惊慌",
+            "睡眠与食欲紊乱",
+            "工作专注度与表现受影响",
+            "对兴趣的享受下降、情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心朋友会觉得自己“很可悲”，将自我评价投射为他人的看法",
+            "在社交场合预设他人会拒绝自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "迟疑是否向朋友表达真实恐惧，过度顾虑他人评价",
+            "在社交中谨慎而回避深入互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有稳定的兴趣与技能（烹饪、弹吉他、电子游戏），可短暂缓解情绪",
+          "愿意尝试小步骤并开放地探索不同视角",
+          "有几位可谈一般事务的朋友，具备基本社会支持"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来等负性认知模式显著",
+          "在社交场合进行比较并陷入绝望，易情绪关闭",
+          "害怕他人评价而回避表达脆弱",
+          "长期独居加剧孤独感并诱发焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交聚会看到幸福情侣时出现显著焦虑并情绪“关闭”",
+          "antecedent": [
+            "在社交聚会上看到幸福的情侣"
+          ],
+          "core_reason": "近期多段恋情失败后形成“没有人会愿意长期与我在一起”的信念，并伴随灾难化与过度概括的思维",
+          "function": "逃避孤独感与潜在被拒绝的体验，短期减少情绪痛苦",
+          "consequence": "社交体验恶化，难以建立与维持亲密关系，进一步强化孤独感"
+        },
+        {
+          "behavior": "独处的夜晚过度担忧未来，导致睡眠受扰与情绪低落",
+          "antecedent": [
+            "安静的夜晚独自一人",
+            "想到过去的关系失败"
+          ],
+          "core_reason": "对未来的负面预期（预测未来）与过度概括引发持续的焦虑性反刍",
+          "function": "通过担忧尝试获得控制感，并以分散注意力来短期缓解不适",
+          "consequence": "睡眠紊乱、食欲下降、工作专注度与表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1124
+}

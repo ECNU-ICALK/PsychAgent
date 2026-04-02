@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "时装设计专业学生",
+      "educational_background": "就读于纽约一所著名设计学院",
+      "marital_status": "未婚",
+      "family_status": "与家人分居，独立生活",
+      "social_status": "有密友支持，但因担心被评判未向朋友/同学详细倾诉",
+      "medical_history": "无重要躯体疾病；此前无类似心理问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、能自我反思，配合度较高，语气平和且略显焦虑"
+    },
+    "main_problem": "我对时尚充满热情并梦想成为成功的时装设计师，但我不断产生“我永远不会在时尚领域拥有事业”的念头，这些想法自搬到纽约学习后更加频繁，影响了我追求梦想的动力。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些持续的负性想法正在阻碍我在职业抱负上的进展和对时尚的热情。",
+    "growth_experiences": [
+      "搬到纽约独立生活并进入竞争激烈的名校学习后，压力显著增加（生活独立、环境竞争），消极预测性思维开始变得频繁与强烈。",
+      "尽管成功进入著名设计学院且曾获得教授对作品的肯定，但因与业界“更优秀的人”比较而持续自我怀疑，难以将积极反馈内化为自信。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不会在时尚行业成功",
+        "我不够优秀，无法在竞争中脱颖而出"
+      ],
+      "special_situations": [
+        {
+          "event": "在进行设计项目时",
+          "conditional_assumptions": "如果我的作品不能立刻展现高水平与潜力，就说明我不够好、无法在时尚行业立足",
+          "compensatory_strategies": "寻求朋友的安慰与积极自我对话来缓解不安",
+          "automatic_thoughts": "这没有意义，我永远不可能足够好去从事这份事业",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在逛时尚店铺、寻找设计灵感时",
+          "conditional_assumptions": "如果他人比我更有才华，我就没有机会成功",
+          "compensatory_strategies": "回避与朋友或同学深入讨论，降低自我暴露以避免被评判",
+          "automatic_thoughts": "这么多比我优秀的人，我不可能脱颖而出",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "搬到纽约后面对竞争与独立生活压力",
+          "conditional_assumptions": "如果我无法迅速适应并完全掌控节奏，就会失败",
+          "compensatory_strategies": "限制表达真实感受、用理性解释安抚自己以维持功能",
+          "automatic_thoughts": "环境太竞争，我坚持不住，终究不会成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "教授称赞自己的作品时",
+          "conditional_assumptions": "只有拿到明确的行业成就才算有能力，单次表扬不代表真实实力",
+          "compensatory_strategies": "否定或轻视积极反馈，继续维持自我怀疑以求“谨慎”",
+          "automatic_thoughts": "这些赞美只是客气，并不代表我能成功",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与成功，获得稳定的自我价值感",
+        "fear": "害怕失败与被评判，担心暴露脆弱后被否定",
+        "defense_goal": [
+          "通过谨慎与自我否定维持心理安全、减少被否定的风险",
+          "保持情感与表达的收敛，避免在他人面前显得“不够好”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被评判的新人",
+          "object_representation": "挑剔的、可能会否定自己的他人/同行",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要向朋友或同学分享自己的负面想法或不确定感时",
+          "interpretation": "他们会像行业评委一样评判我，认为我不够认真或不具备能力",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用谨慎、含糊的表述，减少细节与情感暴露；语气克制，优先谈客观情况而非主观脆弱。"
+        },
+        {
+          "trigger_condition": "在面对竞争压力或作品质量的不确定时被询问原因",
+          "interpretation": "若表达脆弱会显得不专业，因此以客观因素来解释更安全",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调外部竞争与行业难度，用理性解释取代情感表达；语气平稳，避免使用自我暴露性词语。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在设计项目中出现“这没有意义”的念头",
+            "难以将积极反馈内化成价值感，感到努力可能无效"
+          ],
+          "outcomes": [
+            "动力下降与行为迟缓",
+            "自我怀疑加重、学习与自我照护受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "独立在纽约生活，感到对选择与未来承担更大责任",
+            "面临竞争环境带来的自主压力"
+          ],
+          "outcomes": [
+            "焦虑增加",
+            "回避表达、缩小社交分享，形成负性循环"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被评判而不愿向朋友倾诉负面想法",
+            "在重要时刻缺少真实支持与共鸣的体验"
+          ],
+          "outcomes": [
+            "情感支持不足",
+            "负性思维强化，信心难以建立"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友/同学会评判自己，因此减少分享",
+            "将自我怀疑体验外归为他人的可能态度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "说话谨慎，避免暴露脆弱",
+            "倾向于以客观理由抑制主观情绪表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对时尚具有强烈热情与长期投入",
+          "成功进入著名设计学院，具备一定能力与资源",
+          "曾获教授肯定，存在可观的积极证据",
+          "愿意寻求帮助与开始记录成就（主动求助）",
+          "拥有密友支持网络（虽未充分使用）"
+        ],
+        "negative_force": [
+          "预测未来的消极思维（Fortune-Telling）频繁出现",
+          "过度与他人比较导致自我否定",
+          "害怕被评判，减少表达与求助",
+          "否定积极反馈（Disqualifying the Positive），难以内化自信",
+          "动力不足与行为迟缓，影响学习与日常自我照护"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在设计学习与寻求灵感情境中反复出现对职业前景的消极预测（如“我永远不会成功”），伴随动力下降与行为迟缓",
+          "antecedent": [
+            "进行设计项目时",
+            "参观时尚店铺或浏览行业信息时",
+            "想到纽约的竞争与独立生活压力时"
+          ],
+          "core_reason": "在竞争激烈环境中形成的自我怀疑与灾难化/预测性认知，担心被评判与失败导致强化负性自动思维",
+          "function": "逃避焦虑与不确定感（通过减少暴露与分享、寻求安慰来暂时缓解）",
+          "consequence": "学习动机与投入度下降，日常自我照护受影响，难以采取持续的职业发展行动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 695
+}

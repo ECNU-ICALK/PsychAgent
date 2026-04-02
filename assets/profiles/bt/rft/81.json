@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14岁",
+      "name": "海莉",
+      "gender": "女性",
+      "occupation": "未决定",
+      "educitional_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与两只乌龟同住，父母离异",
+      "social_status": "有几位亲密朋友，但因回避谈论职业志向而关系受影响；尚未向朋友充分分享焦虑程度",
+      "medical_history": "无显著生理疾病；无既往心理治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰、逻辑性良好；语气中性；能描述焦虑与回避经历；在比较他人时易自我否定"
+    },
+    "main_problem": "因不会编程而认为自己会在视频游戏设计职业道路上失败，产生怀疑与焦虑。",
+    "topic": "职业发展",
+    "core_demands": "意识到对失败的恐惧正在阻碍自己追求热爱，希望通过咨询来处理这些感受。",
+    "growth_experiences": [
+      "约两年前开始对视频游戏设计产生兴趣，同时因将自己与领域内他人的编码能力进行比较而出现怀疑与焦虑；随着时间推移，因害怕失败而回避与游戏设计相关的机会，并在想到从事该职业或看到他人成就时反复激发焦虑，影响学业专注、睡眠与食欲。",
+      "曾设计过一个关卡并让朋友试玩，朋友反馈该关卡“很有趣、视觉效果很好”，这次积极反馈让她短暂感到自信与满足。",
+      "绘画技能的学习经历：起初水平较差，但通过持续练习逐渐提升，体现出坚持能带来进步的经验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不具备成功的能力",
+        "我会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "每当想到要从事视频游戏设计这一职业时",
+          "conditional_assumptions": "如果我不能很好地编程，就一定会失败，最好不要尝试",
+          "compensatory_strategies": "回避与游戏设计相关的机会，向朋友寻求安慰以缓解焦虑",
+          "automatic_thoughts": "我肯定会失败，因为我不会编码",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到他人在该领域的成就或作品时",
+          "conditional_assumptions": "如果别人已经很优秀而我还不行，说明我永远追不上他们",
+          "compensatory_strategies": "不断与他人比较、减少交流与展示以避免被评价",
+          "automatic_thoughts": "我不如他们，我永远赶不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在在线教程或课程中遇到编码难点、卡住时",
+          "conditional_assumptions": "一旦我在编码上感到挫折，就证明我不适合这一领域",
+          "compensatory_strategies": "中断练习、选择放弃以暂时减轻焦虑",
+          "automatic_thoughts": "我不适合编码，这说明我做不了游戏设计",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "获得朋友对关卡设计的积极反馈后",
+          "conditional_assumptions": "如果我不能编码，再多的好设计也毫无意义",
+          "compensatory_strategies": "否定正面反馈、只关注不足之处",
+          "automatic_thoughts": "这不重要，因为我不会编码",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在视频游戏设计领域被认可并取得成功",
+        "fear": "害怕失败与被否定，担心自己无法胜任编码从而失去价值",
+        "defense_goal": [
+          "通过回避与自我否定来降低期待，维持安全感并避免进一步的挫败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后且不够能力的追赶者/失败者",
+          "object_representation": "他人（领域中的同龄人与优秀者）是严格的评判者和高标准的竞争者",
+          "linking_affect": "自卑、焦虑、压力"
+        },
+        {
+          "self_representation": "有创造力但不被自己认可的设计者",
+          "object_representation": "朋友是支持与正向反馈的给予者",
+          "linking_affect": "短暂的自豪与随后的不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如咨询师或朋友）强调她的设计优势或给予正向反馈时",
+          "interpretation": "潜意识里将赞美视为“并不算数”，认为缺乏编码能力会抵消一切优点",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "淡化或否认积极反馈，语气犹疑，重复强调自己“不会编码”，从而把话题拉回缺陷。"
+        },
+        {
+          "trigger_condition": "在编码练习中遇到困难或卡住时",
+          "interpretation": "将一次挫折理解为整体不适合，认为持续努力没有意义",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以“我天生不适合编码”“这样做不现实”为由解释中止练习，语气理性但带有放弃色彩。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将个人价值几乎完全系于编码能力之上，否定设计方面的长处",
+            "在获得积极反馈后仍认为“不会编码就一切无意义”"
+          ],
+          "outcomes": [
+            "持续焦虑与自我怀疑",
+            "回避职业相关机会",
+            "学业专注度下降",
+            "睡眠与食欲受扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度比较并自我否定（认为自己永远追不上他人）",
+            "以失败恐惧自我设限，减少挑战与展示",
+            "在正向反馈下仍强调自身不足"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "回避与朋友讨论职业志向",
+            "在编码焦虑升起时转向放弃或中止练习以避免不适"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在让朋友接触其作品或谈论职业时，来访者通常会回避或提前否定自己，担心因不会编码而被评判。",
+          "unique_outcome": "有一次她将自己设计的关卡给朋友试玩，朋友反馈“很有趣、视觉效果很好”，她当下感到被认可与满意。",
+          "reason": "不同做法：主动分享并让朋友实际试玩；不同支持：获得朋友的正向反馈；不同理解：短暂关注到自己的设计优势。"
+        },
+        {
+          "target_problem": "面对编码学习时，来访者通常会在遇到困难后焦虑升高并放弃，认为自己不适合学习新技能。",
+          "unique_outcome": "在绘画学习经历中，她从起初“很差”到通过练习逐渐提升，证明自己能够在困难技能上取得进步。",
+          "reason": "不同理解：以坚持练习为路径；不同做法：持续训练与逐步积累；该经验为后续技能习得提供了可复制的线索。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对游戏设计有稳定兴趣与创造力（角色与关卡设计）",
+          "具备坚持练习并取得进步的经验（绘画技能提升）",
+          "拥有一定的社会支持（几位亲密朋友与正向反馈）",
+          "曾主动尝试在线学习编码（教程/课程）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的思维导致失败预期",
+          "比较与绝望导致自我价值几乎完全系于他人成就",
+          "否定正向反馈、只关注不足（心理过滤）",
+          "回避与职业相关的机会，寻求外部安慰但难以缓解焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与视频游戏设计相关的机会",
+          "antecedent": [
+            "想到要从事视频游戏设计时",
+            "看到领域内他人的成就或作品时",
+            "在编码练习中遇到困难、卡住时"
+          ],
+          "core_reason": "对失败的灾难化预测与过度比较，使挫折被过度解释为“不适合”",
+          "function": "逃避潜在失败与随之而来的焦虑与自我否定",
+          "consequence": "技能发展与职业探索受阻，作品不被展示，人际互动受影响（回避谈论志向）"
+        },
+        {
+          "behavior": "焦虑导致学业专注困难",
+          "antecedent": [
+            "在学习时想到职业选择与编码能力",
+            "接触编码任务或相关内容"
+          ],
+          "core_reason": "情绪化推理（将焦虑感视为不适合的事实）与失败恐惧",
+          "function": "短时降低不适、回避困难任务",
+          "consequence": "学业功能下降，学习效率受影响"
+        },
+        {
+          "behavior": "睡眠与食欲受扰（生理层面的焦虑表现）",
+          "antecedent": [
+            "想到从事视频游戏设计或看到他人成就时引发持续焦虑"
+          ],
+          "core_reason": "持续的焦虑与担忧导致生理唤起与压力反应",
+          "function": "无明显外在获得功能，但延续对问题的关注并进一步削弱日常恢复",
+          "consequence": "身心能量下降，进一步影响学习与练习编码的能力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 81
+}

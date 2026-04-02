@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "魏安琳",
+      "gender": "女",
+      "occupation": "咖啡店咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "母亲是理发师；未提及其他家庭成员信息",
+      "social_status": "拥有支持性的朋友群体，但未向他们透露内心矛盾；因回避舞蹈活动与朋友关系受影响",
+      "medical_history": "未有类似心理问题经历；未接受过心理治疗；无重要躯体疾病",
+      "language_features": "表达清晰、能自我反思、配合度较好；情绪以挫败与内疚为主；态度中性，愿意尝试行为实验"
+    },
+    "main_problem": "我对自己对舞蹈的热爱感到矛盾，喜欢它却贬低其作为爱好的意义；这种冲突在我开始全职工作约六个月后出现，并在繁忙工作日程中尝试为舞蹈腾出时间时反复发生。",
+    "topic": "自我探索",
+    "core_demands": "希望解决这些相互冲突的想法，重新找回对舞蹈的热情。",
+    "growth_experiences": [
+      "六个月前开始全职工作后，压力增加与时间紧张使我难以平衡兴趣与工作，逐渐对舞蹈的享受减少；我试图通过更多专注工作、减少舞蹈时间来“理性化”这种矛盾，结果导致与朋友的舞蹈活动减少、人际关系受影响、日常自我照顾下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于工作产出与效率",
+        "兴趣爱好（如舞蹈）不够“有用”，不值得投入太多时间"
+      ],
+      "special_situations": [
+        {
+          "event": "在繁忙的工作日程中试图为舞蹈安排时间",
+          "conditional_assumptions": "如果把时间花在非职业相关的事情上，就是不负责任/浪费时间",
+          "compensatory_strategies": "更专注于工作、减少或回避舞蹈活动以缓解焦虑与内疚",
+          "automatic_thoughts": "跳舞不如工作有价值，我应该把时间用在更“有用”的事情上",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "回想过去与朋友一起跳舞的愉快经历或当前获得的正向反馈",
+          "conditional_assumptions": "正面感受不代表其有价值，价值应以生产力与实用性衡量",
+          "compensatory_strategies": "忽略积极体验，进一步强调工作投入来证实“有用”",
+          "automatic_thoughts": "尽管我喜欢跳舞，但这不算数/不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "计划参加舞蹈课前，对可能影响工作的结果进行预期",
+          "conditional_assumptions": "如果继续跳舞，未来会更难平衡工作，从而影响表现",
+          "compensatory_strategies": "延后或取消舞蹈计划以预防可能的负面后果",
+          "automatic_thoughts": "去上课可能会让工作出问题/让我失控",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作疲惫后权衡是否进行舞蹈练习",
+          "conditional_assumptions": "如果不能同时在工作和兴趣上做到完美，就等于失败",
+          "compensatory_strategies": "以全或无的标准选择完全不跳舞，以维持“负责”的自我形象",
+          "automatic_thoughts": "要么全力工作不跳舞，要么跳舞就是不负责任",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由地投入舞蹈，从中获得快乐与自我表达",
+        "fear": "害怕被视为不负责任与不够“有用”，从而失去对工作的掌控与稳定",
+        "defense_goal": [
+          "通过优先工作、为回避舞蹈找到合理理由来缓解内疚与焦虑",
+          "维持自我要求的“责任/生产力”形象以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚且自我要求严格的“负责任者”，倾向以生产力衡量自身价值",
+          "object_representation": "支持但不知情的朋友群体（与舞蹈关联）",
+          "linking_affect": "矛盾、内疚、失落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出参与舞蹈课程的建议或讨论如何平衡工作与爱好时",
+          "interpretation": "倾向把建议理解为需证明舞蹈“有用”，担心影响工作责任（移情：将焦点投向生产力标准）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以温和、理性的语气强调“工作优先”，列举效率/产出理由，减少情感表达，避免被进一步触及内疚。"
+        },
+        {
+          "trigger_condition": "当谈及舞蹈带来的快乐或收到正面反馈时",
+          "interpretation": "将正面体验与价值切割，认为“喜欢不代表有用”，以理性标准压抑情绪",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用概念化、客观化的词汇讨论效益/产出，淡化情绪词，语气克制、冷静。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将舞蹈视为“不够有用”，贬低其意义",
+            "享受感逐渐下降",
+            "以生产力/实用性作为价值衡量的唯一准则"
+          ],
+          "outcomes": [
+            "兴趣与愉悦感丧失",
+            "人际回避（减少与朋友的舞蹈活动）",
+            "自我照顾下降",
+            "挫败与内疚增加"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在自由选择兴趣与社会责任（工作）之间感到拉扯",
+            "被“应该/必须”规则束缚，难以体验内在选择"
+          ],
+          "outcomes": [
+            "犹豫与回避行为增加",
+            "体验容许度降低，难以自我一致",
+            "动机与活力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”来评价投入时间的价值",
+            "以“工作产出”作为唯一标准贬低舞蹈的意义"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "回避与朋友的舞蹈活动，压抑参与冲动",
+            "把能量转向加班或更专注工作以缓解内疚"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友群体",
+          "过去对舞蹈的热爱与经验基础",
+          "工作表现尚可，具备执行力与稳定性",
+          "愿意尝试行为实验，改变动机存在",
+          "能觉察并表达内在矛盾"
+        ],
+        "negative_force": [
+          "以内摄的生产力标准评价自我与兴趣",
+          "经常否定积极体验与反馈（Disqualifying the Positive）",
+          "心理过滤与负面预期倾向（Mental Filtering、Fortune Telling）",
+          "内疚与自我要求导致回避社交与舞蹈活动",
+          "工作压力与时间管理困难"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避参加舞蹈活动",
+          "antecedent": [
+            "开始全职工作后的时间紧张与疲惫",
+            "在繁忙日程中尝试为舞蹈腾出时间",
+            "朋友邀请一起跳舞"
+          ],
+          "core_reason": "将舞蹈视为“不够有用/不负责任”，为减轻内疚与焦虑而选择回避",
+          "function": "逃避内疚与被视为不负责任的担忧，维持“工作优先”的自我形象",
+          "consequence": "与朋友关系受影响，兴趣与愉悦感下降，生活满意度降低"
+        },
+        {
+          "behavior": "减少自我照顾与日常活动动力",
+          "antecedent": [
+            "出现关于舞蹈与工作的矛盾想法时",
+            "工作负荷增加、疲劳累积"
+          ],
+          "core_reason": "以“生产力”标准评估自我，内疚与挫败削弱自我照顾动机",
+          "function": "通过不投入自我照顾来“证明”自己在工作上的专注，暂时减轻责任焦虑",
+          "consequence": "日常作息被打乱，身心恢复不足，进一步降低兴趣与社交参与"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1602
+}

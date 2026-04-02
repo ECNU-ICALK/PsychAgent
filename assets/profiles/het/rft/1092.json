@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "刘可欣",
+      "gender": "女",
+      "occupation": "舞者",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母及兄弟姐妹同住",
+      "social_status": "与家人关系亲密，获得支持，但对讨论自我怀疑感到不安",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；既往无类似心理问题",
+      "language_features": "表达清晰，能具体描述经历与想法，配合度较好，语气中包含自我怀疑"
+    },
+    "main_problem": "我相信“成为一名出色的舞者”是我唯一擅长的事情，这种信念让我在尝试其他兴趣或技能时产生局限感与自我怀疑，并伤害我的自尊与探索新事物的信心。",
+    "topic": "个人成长",
+    "core_demands": "希望不再被这一限制性信念束缚，能够探索并发展舞蹈之外的兴趣与技能，改变心态、提升自信与动力。",
+    "growth_experiences": [
+      "在高中时期因拼写能力受到批评，在当时中等强度的压力下逐渐形成“除了跳舞外我一无所长”的自我信念；该信念自高中起持续存在，逐步影响自尊与信心，使她在探索舞蹈之外的才能或技能时感到受限并倾向于放弃。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "除了跳舞我一无所长",
+        "在其他领域我注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "高中时期因拼写能力受到批评",
+          "conditional_assumptions": "如果我在学业或语言能力上表现不佳，就说明我在舞蹈之外没有价值或能力",
+          "compensatory_strategies": "将自我价值过度绑定在舞蹈表现上，减少在其他领域的尝试",
+          "automatic_thoughts": "除了跳舞，我在其他方面都不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "去年参与绘画课程尝试新技能",
+          "conditional_assumptions": "如果我不能很快做到出色，就证明我不适合该领域",
+          "compensatory_strategies": "为避免失败或尴尬，快速放弃新活动",
+          "automatic_thoughts": "我永远也学不好绘画，继续下去只是浪费时间",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与家人讨论自我怀疑时，家人多以“你跳舞很厉害”来安慰",
+          "conditional_assumptions": "如果他人只认可我的舞蹈，就表示我在其他方面没有价值",
+          "compensatory_strategies": "回避与家人深入讨论自身局限，强化对舞蹈的单一认同",
+          "automatic_thoughts": "他们只会看到我会跳舞，其他事情我做不好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "尝试探索舞蹈之外的职业或技能",
+          "conditional_assumptions": "若达不到高标准就等同失败，证明我只适合跳舞",
+          "compensatory_strategies": "降低投入、提前退出，避免面对可能的失败",
+          "automatic_thoughts": "我只会跳舞，尝试其他事情没有意义",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与认可为一个多面而有能力的人，能够自由探索并被接纳",
+        "fear": "害怕失败与被批评，担心被视为“除了跳舞一无是处”而感到羞愧",
+        "defense_goal": [
+          "通过将自我价值绑定于舞蹈并回避新领域来降低被否定的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被限制在单一才能的自我、在非舞蹈领域容易失败的自我",
+          "object_representation": "好意但不理解的安慰者（家人）",
+          "linking_affect": "沮丧、被误解"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被鼓励尝试新活动或被提出探索舞蹈之外的行动计划时",
+          "interpretation": "潜意识将挑战视为必须立即“表现完美”，否则就是失败",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“这只是浪费时间”“我不适合”等理由婉拒或搪塞，语气理性、情感强度低，避免进一步讨论细节。"
+        },
+        {
+          "trigger_condition": "当想到与家人讨论自我怀疑或寻求理解时",
+          "interpretation": "认为家人会觉得自己“在胡思乱想/很傻”，只会强调舞蹈成绩而忽视真实困扰",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "预设负面反应而选择回避或转移话题，语气犹疑、减少自我披露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "用自我设限的信念将身份固定为“只有舞蹈才有价值”",
+            "回避尝试新事物，减少选择与可能性"
+          ],
+          "outcomes": [
+            "主观自由感降低",
+            "动力下降与犹疑",
+            "个人潜能无法展开"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在尝试新事物时感到“没有意义”“只是浪费时间”",
+            "难以对舞蹈之外的活动产生兴奋感"
+          ],
+          "outcomes": [
+            "兴趣与投入度下降",
+            "日常动力受损",
+            "自我怀疑与自尊受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将高中时期对拼写的批评未经消化地内化为全球性的自我评价",
+            "形成并维持“除了跳舞我一无所长”的信念"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在尝试新活动时频繁自我苛责（如“只是浪费时间”）",
+            "过度担心失败，过早放弃新活动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "家庭支持资源较好（家人关心与鼓励）",
+          "在舞蹈领域表现优异，体现坚持与训练能力",
+          "曾主动尝试新活动（如绘画），显示探索意愿",
+          "愿意求助并开始心理咨询"
+        ],
+        "negative_force": [
+          "核心限制性信念“除了跳舞外我都不行”",
+          "害怕失败与完美主义倾向导致提前放弃",
+          "心理过滤与否定正面倾向强，易自我否定",
+          "偏向外部认可，难以内在评价自身能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避或迅速放弃舞蹈之外的新活动",
+          "antecedent": [
+            "尝试新技能或探索其他职业时",
+            "想到与家人讨论自我怀疑时",
+            "回想高中时期因拼写受到批评的经历"
+          ],
+          "core_reason": "高中时期受批评后形成的过度概括性信念与对失败的恐惧，伴随对自身能力的低估",
+          "function": "逃避可能的失败与羞耻，维持自我一致与安全感",
+          "consequence": "自尊受损、动力下降、探索受限，职业发展受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1092
+}

@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "李美琳",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有支持的朋友，但未向任何人倾诉身体意象困扰；在社交情境中自我意识增强、担心外貌被评价",
+      "medical_history": "此前未出现类似心理问题；无显著躯体疾病；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、逻辑较好；能自我反思并进行现实检验；配合度高、态度积极"
+    },
+    "main_problem": "我一直在与负面身体意象问题做斗争，尤其与最近的海滩晒伤经历有关。这些感受在晒伤后开始出现并逐渐加重，导致我回避去海滩或穿显露身体的衣服，并持续担心未来自己没有“好身材”。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些负面身体意象想法正在影响我的自尊和整体幸福感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的身体必须完美才有价值",
+        "如果外表有缺陷，我就是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "去海滩后发生晒伤并看到皮肤灼伤的痕迹",
+          "conditional_assumptions": "如果皮肤出现瑕疵（如晒伤），就说明我永远不会拥有好身材",
+          "compensatory_strategies": "加强节食与锻炼以“修复”身体；避免再次去海滩",
+          "automatic_thoughts": "我会永远没有好身材",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "朋友再次邀请去海滩并需要穿泳装的社交场合",
+          "conditional_assumptions": "如果我没有完美身材，别人会注意到并评判我",
+          "compensatory_strategies": "找借口拒绝邀请，回避在公共场合穿泳装",
+          "automatic_thoughts": "他们会看不起我、会觉得我身材不好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在挑选或穿着暴露身体的衣服（如泳衣、露肤服饰）时",
+          "conditional_assumptions": "如果暴露皮肤，缺点会被放大，我会显得很糟糕",
+          "compensatory_strategies": "不穿暴露衣服，选择遮掩皮肤的衣物",
+          "automatic_thoughts": "我的皮肤看起来很糟，别人只会看到我的缺点",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想一次晒伤并联想到未来外貌与身材的长期影响",
+          "conditional_assumptions": "一次失误意味着以后都会失败；如果不能达到完美，我就永远不行",
+          "compensatory_strategies": "采用各种节食与锻炼方案以追求“完美”",
+          "automatic_thoughts": "无论我怎么做，未来也无法拥有好身材",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可，尤其希望外貌得到肯定",
+        "fear": "害怕被他人评判、羞辱与拒绝",
+        "defense_goal": [
+          "通过回避暴露身体与严格控制外貌来降低被评判的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有瑕疵、容易被他人挑剔的自我",
+          "object_representation": "挑剔的评判者/可能会批评的他人",
+          "linking_affect": "焦虑与羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友邀请参加需要穿泳装或露肤的海滩活动时",
+          "interpretation": "潜意识将他人体验为挑剔的评审，会盯着自己的缺点（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用支持性、共情的语气；先验证其担忧，再引导进行现实检验与证据搜寻；使用开放式提问与温和重构，避免批评或否定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有亲密朋友但未向任何人倾诉身体意象困扰",
+            "在社交情境中因自我意识增强而退避"
+          ],
+          "outcomes": [
+            "社交回避",
+            "自尊降低",
+            "焦虑加重"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "追求“完美身材”的外在标准限制了生活选择（不去海滩、不穿露肤衣物）"
+          ],
+          "outcomes": [
+            "生活选择受限",
+            "体验范围缩小",
+            "幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须/应该拥有完美身材”为自我要求",
+            "将外貌完美作为自我价值的条件进行评价"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心朋友会评判自己的身材，预设他人会关注自己的缺点",
+            "在海滩社交场合预先假定负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络",
+          "与咨询师合作度高，能进行理性反思与现实检验",
+          "曾尝试通过饮食与锻炼来改善外貌，显示出努力与坚持",
+          "能识别并命名自己的自动化思维与焦虑"
+        ],
+        "negative_force": [
+          "以外貌完美为价值条件的完美主义与外部验证倾向",
+          "灾难化、读心术、预测未来、非黑即白等认知偏差",
+          "回避行为（拒绝海滩、避免穿露肤衣物）",
+          "对轻微外观事件的负性过滤与过度概括"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避去海滩和穿着泳装/露肤衣物",
+          "antecedent": [
+            "朋友邀请去海滩或需要穿泳装的社交场合",
+            "想到可能再次晒伤",
+            "面对需露肤的穿衣情境"
+          ],
+          "core_reason": "对外貌完美的高标准与灾难化认知（一次晒伤被视为长期“身材不好”的证据），并害怕被他人评判",
+          "function": "逃避潜在晒伤风险与负面评价以降低焦虑",
+          "consequence": "社交参与减少，自尊降低，整体幸福感受损"
+        },
+        {
+          "behavior": "对身体外貌的持续性担忧与自我批评（焦虑加重）",
+          "antecedent": [
+            "经历轻微外貌事件如晒伤",
+            "照镜子或看到皮肤瑕疵",
+            "被邀请参加需要露肤的活动"
+          ],
+          "core_reason": "负性认知偏差（过度概括、负性过滤、预测未来）强化了“外貌不够好”的核心信念",
+          "function": "通过反复担忧试图获得控制感与预防风险",
+          "consequence": "焦虑增加、决策与行动受阻，进一步强化回避与负面自我评价"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 891
+}

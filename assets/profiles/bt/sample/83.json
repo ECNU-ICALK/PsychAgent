@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "林帕",
+      "gender": "男",
+      "occupation": "海军人员",
+      "educational_background": "社区学院传播学学位",
+      "marital_status": "未婚",
+      "family_status": "孤儿，曾在寄养系统中成长",
+      "social_status": "与少数海军同事保持联系但难以敞开，在新环境和结识新朋友时常感到孤立与不安全",
+      "medical_history": "无重大躯体疾病；无既往心理治疗/精神科治疗史",
+      "language_features": "表达清晰、配合度高、能自我反思，态度积极"
+    },
+    "main_problem": "我认为没有人会喜欢我，因为我是孤儿，这导致我感到孤立和不安全。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些孤立与不安全感正在影响我的人际关系和心理健康。",
+    "growth_experiences": [
+      "在寄养系统中长大，长期缺乏稳定的家庭关系。童年时期在学校或同伴群体中因孤儿身份被嘲笑、区别对待，感到与他人不同、难以归属，并逐渐内化“我不被喜欢/不值得被爱”的观念。",
+      "持续将“是否被喜欢”与“孤儿身份”绑定，认为社会对孤儿存在污名；这种看法自童年至今延续，影响其对自我价值与人际关系的总体评估。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不可被喜欢/不值得被爱",
+        "出身（孤儿身份）决定我的价值与他人对我的看法"
+      ],
+      "special_situations": [
+        {
+          "event": "在新的社交场合或结识陌生人时",
+          "conditional_assumptions": "如果别人知道我是孤儿，就一定不会喜欢我/会拒绝我",
+          "compensatory_strategies": "减少自我披露、与人保持距离；通过让自己忙碌来转移注意力",
+          "automatic_thoughts": "他们不会喜欢我，我在他们眼里有问题",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "当被问及家庭背景或需要分享个人经历时",
+          "conditional_assumptions": "如果透露真实身世，就会被视为“有缺陷”并被疏远",
+          "compensatory_strategies": "回避相关话题、筑起“墙”、少说话以自我保护",
+          "automatic_thoughts": "他们会把我看成不值得的人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在与同事互动时对方表现出支持与好意",
+          "conditional_assumptions": "即使现在被接纳，最终也会被抛弃；好感不可持续",
+          "compensatory_strategies": "不完全投入关系、保持距离以减少受伤风险",
+          "automatic_thoughts": "这只是暂时的，他们迟早会离开",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想童年被同伴嘲笑与区别对待的经历",
+          "conditional_assumptions": "过去证明我本质上不被喜欢，未来也会如此",
+          "compensatory_strategies": "预先否定自己、降低期待以避免再次受伤",
+          "automatic_thoughts": "过去如此，现在和将来也会如此",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被稳定接纳与无条件看见，建立亲密而安全的长期关系",
+        "fear": "害怕因身世被拒绝或被遗弃，再次受伤",
+        "defense_goal": [
+          "维持情感距离以避免被拒绝",
+          "减少自我披露以保护自己",
+          "通过先行自我否定来降低受伤的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被遗弃、不可被喜欢的局外人",
+          "object_representation": "他人是挑剔的评判者，了解真相后会离开",
+          "linking_affect": "羞耻、恐惧、不安全"
+        },
+        {
+          "self_representation": "谨慎而渴望连结的人",
+          "object_representation": "少数可靠且持续支持的同事",
+          "linking_affect": "希望与谨慎并存"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其分享更私密的童年或寄养经历时",
+          "interpretation": "更多自我暴露会导致像过去那样被评判与拒绝",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件或想法分离，以理智方式谈论并降低情绪体验",
+          "response_instruction": "语气温和、放慢节奏；先肯定其谨慎与自我保护的需要，允许停顿，用开放式而不逼迫的邀请关注“当下感受”。"
+        },
+        {
+          "trigger_condition": "当咨询师指出现实中存在持续支持的同事关系时",
+          "interpretation": "担心自己的痛苦被淡化，倾向认为他人的支持只是暂时",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为难以接受的情感或结果编造看似合理的解释以减轻内心冲突",
+          "response_instruction": "先共情其担忧与过往受伤经历，再以验证-探询方式温和对比证据与例外，保持不对抗的语气。"
+        },
+        {
+          "trigger_condition": "当咨询师关注其对他人想法的推测（如“他们会看不起我”）时",
+          "interpretation": "将内在自我否定与羞耻感归因为他人的负面看法",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不被接纳的欲望、情感或冲动归咎于他人",
+          "response_instruction": "保持中性稳定的姿态与语气，邀请举出具体证据并区分事实与推测，使用澄清与界限设定来降低防御强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期感到孤立与不安全",
+            "在新社交场合预期被拒绝而退缩",
+            "难以敞开与他人建立更深连接",
+            "将自我与他人之间筑起“墙”以自我保护"
+          ],
+          "outcomes": [
+            "社交回避与关系受损",
+            "持续的不安全感与自我价值感低落",
+            "对亲密关系的被遗弃预期"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在会谈中以“他们会觉得我不值得”推测他人评价",
+            "倾向把内在羞耻感理解为外界的负面看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体抑制对他人或外界的行动冲动，转而对自己做，或把能量收回自身，与“冲动”对应。",
+          "manifestations": [
+            "描述“我会筑起墙、不分享”，克制向外表达与接触的冲动",
+            "减少自我披露以避免受伤"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我限制/苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在谈及关系时多以自我否定语句开场（如“不值得”）",
+            "在会谈中谨慎试探，担心自我暴露带来负面后果"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在新社交场合时，来访者通常会预期被拒绝而退缩并减少自我披露，导致关系难以建立。",
+          "unique_outcome": "在与几位海军同事的日常工作与非正式交流中，来访者没有像往常那样完全封闭，而是维持了持续互动，这些同事长期保持支持与接纳。",
+          "reason": "线索：熟悉而相对安全的工作环境、同事态度一致且可靠；来访者采取循序渐进的互动与接触，因此这次关系得以维持并形成支持。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "稳定的工作角色与胜任感（海军工作表现稳定）",
+          "存在少数持续支持的同事关系",
+          "求助动机明确、态度积极，愿意尝试改变",
+          "能识别负性自动思维并愿意检验证据"
+        ],
+        "negative_force": [
+          "将自我价值与孤儿身份捆绑并内化污名",
+          "显著的灾难化、读心术与预测未来等认知偏差",
+          "社交情境中的回避与自我封闭，减少自我披露",
+          "对亲密关系持续的被遗弃预期"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交退缩与自我封闭（减少交流、回避自我披露）",
+          "antecedent": [
+            "认识新的人或进入新的社交场合",
+            "被问及家庭背景或需要分享个人信息时",
+            "在互动中想起童年被嘲笑的经历而感到紧张"
+          ],
+          "core_reason": "寄养经历与同伴嘲笑造成的羞耻与被弃图式，内化“我不被喜欢”的核心信念",
+          "function": "逃避潜在的拒绝与情绪性伤害，短期降低焦虑与不安全感",
+          "consequence": "难以建立与维持关系，社会支持减少，孤立与不安全感被强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 83
+}

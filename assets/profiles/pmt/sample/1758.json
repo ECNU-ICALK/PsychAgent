@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "林菲",
+      "gender": "女性",
+      "occupation": "未知",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与同事关系因工作压力受到影响；有几位朋友可倾诉，但他们不完全理解其在工作上的自我要求",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "略感紧张但表达清晰、条理性好；自我觉察度较高；配合度与意愿强，积极探索认知模式与新策略"
+    },
+    "main_problem": "在工作中常感到不堪重负，强烈追求任务的“完美”，导致长时间加班、对错误高度敏感与焦虑加剧；当事情出差错（如项目未按时提交）时，会认为自己不是一个好员工。",
+    "topic": "职业发展",
+    "core_demands": "因一次项目未能按时提交而意识到完美主义正造成不必要的压力并影响自己作为员工的自我形象，希望通过咨询学会更好地应对，不再被这些想法过度影响。",
+    "growth_experiences": [
+      "几个月前，林菲参与的一个项目未能按时提交（并非其直接职责）。该事件触发了她对自身能力的怀疑与强烈完美主义，随后她开始更早启动任务、延长工时、反复检查以确保“绝对完美”。这使她每天在重要项目或截止日期前感到高度焦虑与紧张，并逐步影响与同事的关系（更易烦躁与疏离），出现职业倦怠与想休假的需求。社会支持方面虽有几位朋友可倾诉，但对她在工作上的自我要求与压力并不完全理解。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是一个糟糕的员工"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前，一个她参与的项目未能按时提交，尽管并非她的直接职责",
+          "conditional_assumptions": "如果出现延期或错误，就说明我是不称职的员工",
+          "compensatory_strategies": "更早开始任务、加班加点、反复检查以追求完美",
+          "automatic_thoughts": "这都是我的错；我不是一个好员工",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "面对重要项目或临近截止日期",
+          "conditional_assumptions": "只有做到绝对完美才算合格，任何瑕疵都等于失败",
+          "compensatory_strategies": "提前启动、延长工时、对细节过度控制",
+          "automatic_thoughts": "如果不完美，我就会失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同事互动时感到他们不理解自己承受的工作压力",
+          "conditional_assumptions": "如果他人不能理解我的压力，就会否定我和我的工作价值",
+          "compensatory_strategies": "减少交流、与同事保持距离以避免被评价",
+          "automatic_thoughts": "他们觉得我不够好/会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在工作中出现小失误或对质量产生担忧",
+          "conditional_assumptions": "任何失误都会导致严重后果并证明我不称职",
+          "compensatory_strategies": "进一步加班、反复修改以消除不确定性",
+          "automatic_thoughts": "这会酿成大祸，我的职业形象会毁掉",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职、被理解与接纳",
+        "fear": "害怕被视为不称职、被批评与否定",
+        "defense_goal": [
+          "通过维持高标准与完美主义来避免失败与批评",
+          "与同事保持距离以减少被评价的风险",
+          "用更长工时与自我监控来维持控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要通过完美才能被接纳的员工",
+          "object_representation": "苛刻且不理解自己的评判者（同事/上级）",
+          "linking_affect": "焦虑、羞耻、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当临近重要截止日期或他人关注工作质量、提出反馈/质疑时",
+          "interpretation": "将他人的关注或沉默理解为对自己不称职的批评与否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "在对话中强调流程与标准、用冷静理性的语气讨论任务细节，弱化个人感受与脆弱需求。"
+        },
+        {
+          "trigger_condition": "当回想未按时提交的事件或当前出现小失误时",
+          "interpretation": "倾向将责任全部归于自己，并预期他人会因此否定自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "自我责备、使用苛刻的自我评价与道歉性语言，回避表达真实情绪与寻求同伴支持。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉同事不理解自己的压力而减少交流、变得疏离",
+            "在高压工作情境中自我封闭"
+          ],
+          "outcomes": [
+            "焦虑升级",
+            "关系紧张与支持减少",
+            "职业倦怠感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "内在“必须/应该绝对完美”的价值条件限制了选择与弹性",
+            "工作时间被完美主义占据，生活自主性下降"
+          ],
+          "outcomes": [
+            "压力与疲惫加重",
+            "工作-生活失衡",
+            "自我一致性受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用‘必须/应该’的内在规则，如‘我必须把任务做到绝对完美’",
+            "将完美等同于合格"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自称‘我常是自己最严苛的批评者’",
+            "在同事面前谨慎压抑感受，减少交流"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "推断同事‘不理解我承受的压力’，进而预设他们会否定自己",
+            "据此减少沟通与寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对工作认真负责、投入度高",
+          "愿意寻求帮助并保持积极态度",
+          "能够觉察并命名认知偏差（如黑白思维、个人化），愿意练习重构",
+          "有一定社会支持（有几位朋友可交流）"
+        ],
+        "negative_force": [
+          "强烈的完美主义与‘应该’规则",
+          "黑白思维、个人化、灾难化等认知偏差",
+          "过度加班与自我监控导致倦怠",
+          "对同事的读心式推断，导致疏离与支持减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作中强迫性追求完美并长期加班",
+          "antecedent": [
+            "面对重要项目或临近截止日期",
+            "担心任务质量不够好时"
+          ],
+          "core_reason": "将不完美等同于失败、害怕被否定；对潜在失误进行灾难化预测以维持控制感",
+          "function": "逃避被批评与失败、获得控制感与安全感",
+          "consequence": "焦虑加剧、职业倦怠、工作-生活失衡"
+        },
+        {
+          "behavior": "与同事疏离、减少交流",
+          "antecedent": [
+            "感觉同事不理解自己的压力时",
+            "处于高压力、逼近截止期的阶段"
+          ],
+          "core_reason": "害怕被评价与否定，将他人反应解读为潜在批评",
+          "function": "逃避不受欢迎的评价与潜在冲突，维持脆弱的自我价值",
+          "consequence": "孤独感增强、支持减少、人际关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1758
+}

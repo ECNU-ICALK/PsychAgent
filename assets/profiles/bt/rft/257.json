@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "王科迪",
+      "gender": "男",
+      "occupation": "在同一份工作已任职8年",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲曾从事护士工作；其他家庭成员与关系未提及",
+      "social_status": "未提及",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "略感紧张但配合度高；表达清晰、有条理，能具体回忆情境；态度中性，带有怀疑与好奇"
+    },
+    "main_problem": "我难以相信别人对我吉他演奏的赞美，总觉得他们只是出于礼貌而不是真诚。",
+    "topic": "自我探索",
+    "core_demands": "我意识到自我怀疑正在妨碍我享受弹吉他并可能影响我的进步，希望通过咨询改变这一点。",
+    "growth_experiences": [
+      "约3年前开始认真练习吉他，最初因缺乏经验而怀疑自己的能力；此后尽管技术进步、获得更多赞美，但对赞美的怀疑持续存在，常将他人的积极反馈归因于“只是礼貌”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "他人的赞美不值得相信"
+      ],
+      "special_situations": [
+        {
+          "event": "一次小型演出结束后，观众与同伴纷纷夸奖吉他演奏“很棒”。",
+          "conditional_assumptions": "如果赞美并非完全真诚，就说明我的表现并不好；真正好的演奏不该依赖礼貌性的评价。",
+          "compensatory_strategies": "将赞美解释为“出于礼貌”，否定其有效性，以避免自我期待上升或暴露不足。",
+          "automatic_thoughts": "他们只是客套，我其实不行，我像个骗子。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每当表演或练习后有人主动给予正面反馈与鼓励。",
+          "conditional_assumptions": "如果别人没有提供明确证据或专业评价，赞美就不可信。",
+          "compensatory_strategies": "把他人的积极评价归因于“同情”或“礼貌”，不与朋友讨论以免被认为“钓赞美”。",
+          "automatic_thoughts": "他们并不是真的这么想，他们只是可怜我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在获得多次一致的正面评价后，仍反复出现自我怀疑。",
+          "conditional_assumptions": "如果不能达到自己理想中的完美水平，就不值得被真诚赞美。",
+          "compensatory_strategies": "默认所有赞美都属于“客套”，用以维持对自我能力的谨慎预期。",
+          "automatic_thoughts": "即使他们说很好，也不算数，我还远远不够好。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "他人“特意”走过来夸赞演出时的某段技巧或整体表现。",
+          "conditional_assumptions": "如果别人刻意夸奖，背后多半有动机（礼貌/安慰），而非真实评价。",
+          "compensatory_strategies": "迅速下结论，将其归为社交礼仪，避免认真接收反馈。",
+          "automatic_thoughts": "他们只是想让我感觉好一些，并不是真心觉得我弹得好。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实看见与认可（希望赞美是发自内心的）",
+        "fear": "害怕被否定或被揭穿为“不够好”，担心赞美不真诚导致羞耻与失望",
+        "defense_goal": [
+          "通过否定赞美和保持怀疑来降低被否定的风险，维持心理安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被识破的“冒牌者”",
+          "object_representation": "礼貌但不真诚的评判者/施舍者",
+          "linking_affect": "不信任、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中谈及他人对吉他演奏的赞美，或被邀请开展行为实验以收集真实反馈时",
+          "interpretation": "潜意识担心真实反馈会揭示自己“不够好”，因此倾向以“礼貌/客套”的框架解释赞美以降低焦虑",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用分析性与假设性语句（如“他们可能只是出于礼貌”），减少情感词汇，语气平稳、保留，不直接认可赞美。"
+        },
+        {
+          "trigger_condition": "在回忆演出后他人主动夸奖的场景时",
+          "interpretation": "将内在的不安全感与羞耻感投射为他人的动机（认为他人“同情我”“只是礼貌”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以“他们”作为主语描述动机（例如“他们在可怜我”），使用肯定语气断言对方意图，弱化对自身感受的探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "由于不信任赞美，演奏后的成就感与愉悦感被削弱；对进步的意义产生怀疑"
+          ],
+          "outcomes": [
+            "享受感下降",
+            "持续自我怀疑",
+            "演出后易紧张/不安"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "明知有朋友可谈却不愿提及此问题，担心被误解为“钓赞美”"
+          ],
+          "outcomes": [
+            "减少社会支持的获取",
+            "维持并加重自我怀疑的循环"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友谈及自我怀疑问题，选择“自己忍着”以避免被误解为“钓赞美”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度顾虑他人如何看待自己（担心他人认为自己在“钓赞美”），对接触与寻求支持过于谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "吉他技术持续提升，能获得他人的积极反馈",
+          "愿意尝试行为实验，具备好奇心与开放态度",
+          "在同一份工作稳定任职8年，体现一定的稳定性与执行力",
+          "拥有可潜在求助的朋友资源"
+        ],
+        "negative_force": [
+          "习惯性否定积极反馈（“他们只是礼貌”）",
+          "读心式推断他人动机（同情/客套）",
+          "将赞美一概归为礼貌，难以接收正向信息",
+          "演出后频繁自我怀疑导致愉悦感下降",
+          "回避与朋友讨论以致支持不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到关于吉他演奏的赞美时，立即否定或贬低赞美，并产生强烈的自我怀疑",
+          "antecedent": [
+            "演出或练习结束后他人主动称赞",
+            "收到多次一致的正面评价"
+          ],
+          "core_reason": "最初因缺乏经验形成的自我怀疑在时间中固化，并被认知偏差（否定积极、读心、仓促下结论）维持；对赞美真诚性的高度不信任。",
+          "function": "逃避被否定或被“揭穿不够好”的风险，短期保护自尊与降低焦虑",
+          "consequence": "演奏的愉悦感下降、可能影响技术进步与动机；减少与朋友沟通，社会支持获取不足"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 257
+}

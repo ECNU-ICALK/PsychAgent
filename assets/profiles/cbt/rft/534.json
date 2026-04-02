@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12岁",
+      "name": "魏海莉",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "与家人关系支持性良好，但不想用负面情绪负担家人",
+      "social_status": "朋友较少，常在公共场合回避社交",
+      "medical_history": "数年前发生意外事故后需使用轮椅；除此之外无重大躯体疾病；此前未接受过心理治疗",
+      "language_features": "表达清晰，能描述自动化思维与情绪；逻辑性较好，配合度高；语气平和但伴随对评判的担忧与不安"
+    },
+    "main_problem": "我常觉得别人觉得我奇怪，因为我朋友不多且使用轮椅；在公共场所（如公园）尤其明显，往往认为他人在盯着我并评判我，由此产生脆弱与自卑，倾向于回避外出。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些想法开始影响我的自尊以及对日常活动（如去公园）的享受。",
+    "growth_experiences": [
+      "几年前因意外事故开始使用轮椅。在事故前未出现类似被评判的担忧。事故后在公共场合更易感到脆弱与自我关注，逐渐形成“他人会盯着我、觉得我奇怪”的想法，并在公园等人多环境中加重。家人总体支持，但她不愿用负面情绪负担家人。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是奇怪的/不被接纳的人",
+        "他人会因为我与众不同（使用轮椅）而评判我"
+      ],
+      "special_situations": [
+        {
+          "event": "在公园里被一名陌生男子注视",
+          "conditional_assumptions": "如果别人盯着我看，就说明他们觉得我奇怪并在评判我",
+          "compensatory_strategies": "戴帽子遮挡面部、尽快离开或减少逗留",
+          "automatic_thoughts": "他一定觉得我很奇怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在公园等人多的公共场合活动",
+          "conditional_assumptions": "如果我坐着轮椅出现在人群中，就会被大多数人当成异类",
+          "compensatory_strategies": "减少去公共场所、避开人多时段",
+          "automatic_thoughts": "大家都在看我、觉得我不正常",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "注意到自己朋友较少、社交圈有限",
+          "conditional_assumptions": "如果朋友少，就说明我这个人很奇怪，不值得被接纳",
+          "compensatory_strategies": "减少主动结交他人，避免可能的拒绝",
+          "automatic_thoughts": "我就是个奇怪的人",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "外出前预想到在公共场合会被注视",
+          "conditional_assumptions": "如果我外出，多半会被人盯着并被评判",
+          "compensatory_strategies": "干脆不外出或缩短外出时间以降低不适",
+          "automatic_thoughts": "今天出去肯定又会被盯着看、被评判",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同龄人平等、友善地接纳，能够自在地参与公共活动",
+        "fear": "害怕因与众不同（使用轮椅）而被嘲笑、羞辱或拒绝",
+        "defense_goal": [
+          "通过回避公共场合来降低被评判的风险",
+          "通过遮掩（如戴帽子）减少自我暴露和羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被注视与评判的脆弱、奇怪者",
+          "object_representation": "挑剔、带有评判目光的旁人/陌生人",
+          "linking_affect": "羞耻、焦虑、脆弱"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "事故后需使用轮椅，主观上感到与他人不同",
+            "在公共场合感到被注视与评判，减少外出",
+            "朋友较少，不愿让家人分担自己的负面情绪"
+          ],
+          "outcomes": [
+            "社交回避",
+            "焦虑与自尊受损",
+            "日常活动（如去公园）的乐趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在谈及公园情境时，自动假设路人认为她“奇怪”，将自身的羞耻与不安归因为他人的负面评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "本想外出社交，但转而对自己施加限制，减少出门、戴帽子遮掩以“忍着”不被看见"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭支持性强，具备可利用的情感支持资源",
+          "求助动机明确，愿意尝试新方法以改善困扰",
+          "具备基本的自我观察能力（能识别触发情境与自动化思维）"
+        ],
+        "negative_force": [
+          "读心术、过度概括与灾难化等消极认知倾向",
+          "回避与安全行为（减少外出、戴帽子遮掩）维持焦虑循环",
+          "自尊受损与对他人评判的高度敏感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在公共场合的回避与安全行为（减少外出、戴帽子遮掩），伴随明显的社交焦虑",
+          "antecedent": [
+            "在公园或人多的公共场所",
+            "注意到他人的注视或认为被盯视",
+            "外出前预期会被评判"
+          ],
+          "core_reason": "对他人注视和评价的灾难化与读心术式解释（相信“他们觉得我很奇怪”），由事故后自我脆弱与羞耻感强化",
+          "function": "逃避不受欢迎的事物（避免被评判、降低当下焦虑）",
+          "consequence": "自尊受损、社交与活动减少、去公园等日常活动的乐趣下降、结交朋友困难"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 534
+}

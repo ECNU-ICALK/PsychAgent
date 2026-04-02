@@ -1,0 +1,13 @@
+# 任务开始(Task Start):
+请处理以下输入：
+【治疗结构】：
+{{Treatment_Structure}}
+
+【会话目标】：
+{{Session_Goals}}
+
+【对话历史】：
+{{Dialogue_History}}
+
+【来访者最新发言】：
+{{Current_Client_Query}}

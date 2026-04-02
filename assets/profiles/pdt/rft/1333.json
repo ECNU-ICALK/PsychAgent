@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "马骁",
+      "gender": "男",
+      "occupation": "卡车司机",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "与妻子育有两个孩子，周末常一起露营",
+      "social_status": "有妻子与亲密朋友的支持，但难以向他们敞开谈自卑感；在社交场合对他人评价敏感、感到不安",
+      "medical_history": "无显著身体疾病；无既往心理问题或治疗经历",
+      "language_features": "表达清晰，能描述具体情境与想法；语气偏消极、对咨询持怀疑态度；配合度尚可（愿意尝试练习但不确定其效果）"
+    },
+    "main_problem": "因为自己的卡车司机职业而觉得他人对自己持负面看法，进而产生自卑与自我怀疑，几乎每天在社交场合或认识新朋友时感到被评判。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些自卑感已经开始影响我的人际关系和整体幸福感。",
+    "growth_experiences": [
+      "约一年前无意间听到有人评价卡车司机“总是离家太久”，该评论最初引发中度压力，随后逐步发展为在社交场合持续担心被他人看低的体验；尽管家人与朋友一直给予肯定与赞赏，但来访者仍难以消化正向反馈、持续自我怀疑，并影响睡眠与情绪。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不值得被尊重"
+      ],
+      "special_situations": [
+        {
+          "event": "约一年前听到有人说卡车司机“总是不在家”，对职业的负面评价触发了来访者的自卑与自我怀疑",
+          "conditional_assumptions": "如果我的职业让人觉得不体面或不重要，那么我这个人就没有价值",
+          "compensatory_strategies": "试图理性化并从家人那里寻求安慰与认可以缓解焦虑",
+          "automatic_thoughts": "大家都觉得我很糟、我的工作不被尊重",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在认识新朋友或参加社交聚会时",
+          "conditional_assumptions": "如果陌生人不认可我的职业，就说明我不如人",
+          "compensatory_strategies": "在社交中谨慎发言、减少谈论工作细节，提前心理防御以避免被评判",
+          "automatic_thoughts": "他们一定会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与家人相处时获得赞赏与支持后仍反复陷入自我怀疑",
+          "conditional_assumptions": "只有外界广泛认可才能证明我有价值；亲近人的赞赏不算数",
+          "compensatory_strategies": "不断向家人与朋友寻求保证，但很快忽视这些正面信息",
+          "automatic_thoughts": "他们只是安慰我而已，我还是不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与同事或社交对象互动、被提及工作话题时",
+          "conditional_assumptions": "别人对卡车司机的评价都在指向我本人",
+          "compensatory_strategies": "将注意力集中在可能的负面线索上，紧张与回避以减少被批评的风险",
+          "automatic_thoughts": "他们对卡车司机的看法就是在说我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被尊重与被认可，感到自身价值被看见",
+        "fear": "害怕被贬低、被拒绝，担心自己不重要、不体面",
+        "defense_goal": [
+          "通过理智化来降低焦虑",
+          "寻求外部保证以维持自尊",
+          "在社交中保持防御与回避以避免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被轻视、需要外界认可的自己",
+          "object_representation": "对陌生人/社会他人的内在表象为带有偏见、会看低我的评判者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其挑战负性思维、检视证据或进行行为实验时",
+          "interpretation": "将咨询师的探索理解为可能揭露自己的“不够好”，担心被评判，认为咨询可能无效",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气谨慎、保留，频繁使用“我不确定”“可能没用”等表达，优先讨论逻辑与证据以回避情绪层面。"
+        },
+        {
+          "trigger_condition": "在社交场景谈及工作或他人关注其职业时",
+          "interpretation": "将他人的中性关注理解为轻视或否定（把自己的羞耻与不安归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们看不起我”“他们一定觉得我不重要”等猜测性语句，保持距离并减少自我暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将职业的“体面/尊重度”与个人价值等同",
+            "认为他人看低自己的工作，从而怀疑自我意义",
+            "在社交场合持续担心被评判"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "睡眠受影响",
+            "情绪低落与紧张",
+            "人际互动受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "在社交场合臆测陌生人会看不起自己",
+            "将对工作的不安全感归因于他人的评价",
+            "对他人想法作负面推测（如“他们一定会看不起我”）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭与朋友给予积极肯定（赞赏其勤奋与工作价值）",
+          "职业表现未受影响（工作能力稳定）",
+          "愿意尝试挑战思维与进行练习",
+          "与家人有稳定的共同行动（周末露营），存在情感支持",
+          "能清晰描述自身想法与触发情境"
+        ],
+        "negative_force": [
+          "读心术、过度概括、个人化等认知偏差显著",
+          "过度依赖外部认可，倾向忽视正向反馈",
+          "在社交场合持续紧张与自我怀疑",
+          "睡眠与情绪受影响",
+          "难以向亲友敞开谈及不足与羞耻感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在人际与社交场合的被评判焦虑与自我怀疑",
+          "antecedent": [
+            "认识新朋友或参加社交聚会",
+            "谈及自己的工作",
+            "回想或听到关于卡车司机的负面评论"
+          ],
+          "core_reason": "将一次负面评论泛化为“多数人都看不起我”，并把职业的尊重度与个人价值等同，形成对外部认可的依赖",
+          "function": "逃避被羞辱的风险、保护自尊并寻求安慰与认可",
+          "consequence": "人际互动受影响，自信心下降，睡眠与情绪受损（整体幸福感降低）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1333
+}

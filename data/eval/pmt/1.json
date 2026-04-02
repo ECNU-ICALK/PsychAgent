@@ -1,0 +1,72 @@
+{
+  "theoretical": "pmt",
+  "client_info": {
+    "client_id": "pmt-1001",
+    "static_traits": {
+      "name": "高岑",
+      "age": "28",
+      "gender": "女",
+      "occupation": "用户运营",
+      "educational_background": "本科",
+      "marital_status": "未婚",
+      "family_status": "与家人异地",
+      "social_status": "有少量稳定朋友",
+      "medical_history": "无重大病史"
+    },
+    "main_problem": "社交挫败后容易快速放弃，并否定自身改变可能。",
+    "topic": "个人成长",
+    "core_demands": "增强行动感与可持续的自我效能。",
+    "growth_experiences": [
+      "曾在旧城市建立过稳定朋友圈",
+      "迁移后社交重建遇到挫折"
+    ],
+    "exception_events": [
+      {
+        "target_problem": "遇到冷场就退缩",
+        "unique_outcome": "上周在活动中继续停留并完成一次深入交流",
+        "reason": "先关注对方故事而不是评价自己"
+      }
+    ],
+    "force_field": {
+      "positive_force": [
+        "过去有成功建立关系的经验",
+        "愿意尝试新社交场景"
+      ],
+      "negative_force": [
+        "把单次受挫解释为长期失败",
+        "新环境支持网络较薄弱"
+      ]
+    }
+  },
+  "global_plan": {
+    "overall_goal": "放大例外经验并稳固个人行动主导感",
+    "milestones": [
+      "命名可复制的有效行动",
+      "扩大例外情境",
+      "持续追踪进展"
+    ]
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "user",
+          "text": "我每次社交不顺就会想，算了我可能就是不行。"
+        },
+        {
+          "role": "assistant",
+          "text": "有没有哪怕一次，你在类似情境里做出了不一样的选择？"
+        },
+        {
+          "role": "user",
+          "text": "上周有一次我本来想走，但后来留下来，结果聊得挺好。"
+        },
+        {
+          "role": "assistant",
+          "text": "这很关键，我们可以一起拆解你当时做对了什么。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "咖啡店咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "父母均为教师；姐姐在一支格兰基摇滚乐队",
+      "social_status": "因担忧父母的看法而避免家庭聚会，减少与父母互动；社交场合出现焦虑",
+      "medical_history": "未出现过类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，较为配合；语气偏消极，主观压力与焦虑明显；愿意尝试探索与重构思维"
+    },
+    "main_problem": "我觉得父母可能把我看作失败者，因为我在咖啡店做咖啡师，而他们都是教师。这些想法在最近一次家庭聚会讨论我的职业后加重，持续困扰我，影响自尊和日常互动。",
+    "topic": "家庭关系",
+    "core_demands": "当这些想法开始影响我的自尊并在社交场合引发焦虑时，我决定寻求咨询，希望通过质证与重构减轻担忧、改善自尊与社交。",
+    "growth_experiences": [
+      "在一次家庭聚会上家人讨论其职业选择后，来访者开始更强烈地感到自己或被父母视为“失败者”，随后几个月反复担忧父母看法，压力水平较高（一直试图达到父母期待），逐渐影响自尊与日常互动；其后开始避免家庭聚会与与父母互动，工作表现下降，饮食（时常跳餐）与睡眠（节律紊乱）出现变化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我的价值取决于父母对我职业的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "一次家庭聚会上家人讨论其职业选择",
+          "conditional_assumptions": "如果我的职业不被父母视为“体面”，就说明我是失败者并让他们失望",
+          "compensatory_strategies": "回避家庭聚会，减少与父母互动以避免被评价",
+          "automatic_thoughts": "他们一定觉得我很失败",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与父母见面或仅仅想到自己的职业时",
+          "conditional_assumptions": "只有达到父母的期望，我才算有价值",
+          "compensatory_strategies": "不断担忧并在社交中回避，以降低被负面评价的可能",
+          "automatic_thoughts": "我在让他们失望",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在工作中想到父母如何看待自己",
+          "conditional_assumptions": "如果我的工作不是“正经职业”，我就不值得被尊重",
+          "compensatory_strategies": "忽视工作中的积极表现与反馈，自我贬低",
+          "automatic_thoughts": "我只是“在做咖啡”，这不算成就",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "将自己的职业与父母的教师职业进行比较",
+          "conditional_assumptions": "如果我不如他们，我就是彻底失败",
+          "compensatory_strategies": "用职业标签对自我价值进行绝对化判断",
+          "automatic_thoughts": "不成为老师或体面的职业，我就是失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望得到父母的认可与尊重",
+        "fear": "害怕被评判为失败、被贬低与拒绝",
+        "defense_goal": [
+          "通过回避与父母的接触来降低被评价的风险并维持自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够体面、易被否定的孩子/失败者",
+          "object_representation": "苛求且评判性的父母/权威者",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及父母对其职业的看法或回忆家庭聚会被讨论职业的情境时",
+          "interpretation": "来访者倾向将自身的失败感投射为父母的负面评价，认为他们不可能认可自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以父母负面看法作为既定事实陈述，语气谨慎而偏消极；对证据式提问保持怀疑，回避直接确认。"
+        },
+        {
+          "trigger_condition": "当咨询师建议通过证据式提问与重构思维来改变认知时",
+          "interpretation": "将改变视为不太可能，倾向以理性怀疑弱化情感卷入",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以理性怀疑的语气提出“这是否有效”，减少情感表达，倾向讨论逻辑而非主观感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“咖啡师”视为不够体面的职业，质疑自我价值与工作意义",
+            "以父母的职业标准界定自身价值",
+            "工作中忽视积极反馈，强调“这不算成就”"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "社交焦虑加剧",
+            "回避家庭互动",
+            "睡眠与饮食节律紊乱",
+            "工作绩效下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免家庭聚会与与父母互动",
+            "虽然姐姐支持但未与其讨论真实感受"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "孤立感增加",
+            "焦虑维持与加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将自身的失败感归因为父母的负面看法，未经证实现推断“他们一定觉得我很失败”"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自述必须达到父母期望才算有价值",
+            "以他人标准界定自我价值与职业意义"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复担忧父母评价，在社交中谨慎回避",
+            "对咨询改变持怀疑，情感表达克制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试新的思维方式与咨询",
+          "与姐姐关系支持性（潜在社会支持）",
+          "能够觉察并描述自己的负性自动化思维及其影响"
+        ],
+        "negative_force": [
+          "倾向读心术与否定积极",
+          "过度依赖外部评价界定自我价值",
+          "回避家庭互动导致孤立",
+          "自尊受损与社交焦虑并存，睡眠与饮食紊乱",
+          "工作中被负性想法干扰，绩效下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避家庭聚会与与父母互动",
+          "antecedent": [
+            "在家庭聚会中被讨论职业选择时",
+            "与父母见面或被提及工作时"
+          ],
+          "core_reason": "担心被父母评判为失败，读心术与外部验证倾向加剧焦虑",
+          "function": "逃避可能的负面评价以降低即时焦虑",
+          "consequence": "家庭关系疏离，孤立感增强，自尊进一步下降"
+        },
+        {
+          "behavior": "在社交情境中的持续焦虑与过度担忧他人看法",
+          "antecedent": [
+            "与父母或家人谈及工作",
+            "想到自己的职业选择",
+            "在工作中联想到父母看法"
+          ],
+          "core_reason": "长期压力与价值条件触发的负性核心信念（“我是失败者”）及认知歪曲（读心术、否定积极）",
+          "function": "通过警觉与担忧试图预防他人负面评价与羞耻感",
+          "consequence": "工作绩效下降，睡眠和饮食紊乱，整体功能受损"
+        },
+        {
+          "behavior": "否定工作中的积极表现与反馈",
+          "antecedent": [
+            "工作中获得积极体验或他人正向反馈后联想到父母对职业的看法"
+          ],
+          "core_reason": "认知歪曲“否定正面思考”与“比较而绝望”维持失败自我图式",
+          "function": "维持自我一致的“失败者”认知以避免认知失调",
+          "consequence": "自尊受损，动力下降，焦虑持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1829
+}

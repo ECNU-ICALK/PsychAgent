@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "杨安",
+      "gender": "女",
+      "occupation": "农民",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "无子女",
+      "social_status": "有朋友与邻居等社会支持，但尚未向他们倾诉当前困扰；与配偶关系因自责与易怒出现紧张",
+      "medical_history": "无重大躯体疾病；无既往相似心理问题与心理治疗史",
+      "language_features": "表达清晰、合作度高，能反思自身思维模式；存在明显的“应该”句式与自我批评；初始紧张但态度积极，愿意尝试重构与练习"
+    },
+    "main_problem": "在最近一次瑜伽课因一个动作没做到而感到尴尬与不足，反复回想该情境并产生回避再次上课的念头；同时在农事上因玉米长势不如预期而自我贬低，频繁以“我应该更好/我不胜任”等念头评判自己，影响作息、情绪与人际。",
+    "topic": "情绪管理",
+    "core_demands": "希望处理瑜伽课后的尴尬与自我怀疑，不让这些感受左右生活方式与日常选择，并通过现实检验与重构思维获得更平衡的看法。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不胜任",
+        "只有表现完美才说明我有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "上一节瑜伽课中，一个动作做不到而其他人都能做到",
+          "conditional_assumptions": "如果我不能像别人一样做到动作，就说明我不行，会被看低与嘲笑",
+          "compensatory_strategies": "回避再次去瑜伽课以避免尴尬与他人评价",
+          "automatic_thoughts": "我再也不要去瑜伽课了；大家一定觉得我很糟糕",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每当想到要参加下一次瑜伽课或可能再次失败的相似场合",
+          "conditional_assumptions": "如果我再次失败，别人都会注意到并评判我",
+          "compensatory_strategies": "提前退缩与回避，减少暴露在可能失败的情境中",
+          "automatic_thoughts": "我肯定会再次出丑，去了也只会更难堪",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到邻居的庄稼收成良好而自己的玉米长势不佳",
+          "conditional_assumptions": "如果我的作物不如邻居，就证明我是个糟糕的农民",
+          "compensatory_strategies": "不断更换肥料、向他人请教但同时自我贴标签、苛责自己",
+          "automatic_thoughts": "我就是一个糟糕的农民",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "检查作物时发现生长不佳，联想到自己的责任与表现",
+          "conditional_assumptions": "我应该早就知道怎么做且不该犯错误，否则就是失败者",
+          "compensatory_strategies": "通过自我批评与提高标准来逼迫自己改进，同时忽视已有努力",
+          "automatic_thoughts": "我应该更好/我应该早就想到这个办法",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，证明自己是有能力和值得的人",
+        "fear": "害怕因不完美或失败而被羞辱、被否定、被比较后显得不如人",
+        "defense_goal": [
+          "通过回避可能暴露不足的情境以降低羞耻与被评判的风险",
+          "以自我批评和高标准来控制焦虑并维持对价值感的掌控"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败、让人失望的自己",
+          "object_representation": "挑剔的评判者/轻松成功的他人（同学、邻居）",
+          "linking_affect": "羞耻、焦虑、嫉妒、内疚"
+        },
+        {
+          "self_representation": "给伴侣带来负担的人",
+          "object_representation": "被自己情绪影响、可能失望的伴侣",
+          "linking_affect": "内疚、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中讨论向他人（朋友、邻居或配偶）表达自己的失败与感受时",
+          "interpretation": "担心他人会视自己为无能者或因此失望",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责性表述为主（如“都是我的错”），语气压低、减少情感外放，避免直接表达对他人的不满与失望。"
+        },
+        {
+          "trigger_condition": "想到再次去瑜伽课或面临可能失败的公开场合",
+          "interpretation": "认为他人会注意并嘲笑自己的不足（他人充满负面评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "含蓄表达对他人评判的担心，使用模糊化语言（如“大家都会觉得……”），降低自我暴露。"
+        },
+        {
+          "trigger_condition": "当觉察到大量“应该/必须”自我要求时",
+          "interpretation": "把外界标准未经消化地当作自我价值的唯一依据",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用规范化、绝对化的语句（如“我必须、我应该”），语气严苛克制，减少情感词汇。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以僵化的“应该/必须”标准约束自我，难以容许不完美与犯错",
+            "面对可能失败的情境选择回避（如不再去瑜伽课），以减少被评判风险"
+          ],
+          "outcomes": [
+            "内疚与焦虑增加，体验到自我压迫与失去选择的自由",
+            "睡眠受损、动力下降、生活范围缩小"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "明知有朋友与邻居的支持，却未向他们倾诉当前困扰",
+            "与配偶关系因自责与易怒而疏离"
+          ],
+          "outcomes": [
+            "社会支持未被激活，主观孤立感增强",
+            "情绪负担加重、负性自我评价持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁出现“我应该/必须更好”的自我要求",
+            "将完美表现视为自我价值的必要条件"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "面对不如意与比较时，将不满与挫败转为自责和自我攻击",
+            "不向他人求助与表达，而是压抑情绪、独自承受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对瑜伽等活动有真实兴趣与投入，曾长期享受课程",
+          "具备求助与尝试改进的倾向（更换肥料、向邻居请教）",
+          "对认知歪曲具有一定觉察，愿意进行现实检验与重构",
+          "存在可用的社会支持资源（朋友、邻居、配偶）",
+          "咨询态度积极，有希望感与行动计划（记录重构、感恩练习）"
+        ],
+        "negative_force": [
+          "完美主义与僵化的“应该”规则主导自我评价",
+          "过度概括、心理过滤、否定积极面的认知方式",
+          "社会比较敏感，依赖外部评价以确认自我价值",
+          "回避潜在失败情境（如不再去瑜伽课），导致体验与能力受限",
+          "自责与内疚加重情绪负担，影响睡眠与人际"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避参加瑜伽课程",
+          "antecedent": [
+            "想到要参加下一次瑜伽课",
+            "回想上一次在课堂上做不到动作、他人都能做到的情境"
+          ],
+          "core_reason": "在完美主义标准下对失败/尴尬的灾难化预期与对他人评判的恐惧",
+          "function": "逃避不受欢迎的事物（羞耻与被评判），暂时降低焦虑",
+          "consequence": "每周惯例被打乱，兴趣活动减少，负性情绪维持并强化自我怀疑"
+        },
+        {
+          "behavior": "过度自我批评与“应该”式自责（如“我应该更好/我应该早知道”）",
+          "antecedent": [
+            "检查作物时发现长势不佳",
+            "看到邻居的收成更好"
+          ],
+          "core_reason": "将外界标准内摄为自我价值评判基础，并在社会比较中将失利等同于“我不行”",
+          "function": "通过自我攻击以获得控制感与自我驱动，试图避免面对脆弱与求助需要",
+          "consequence": "自尊受损、与配偶关系紧张、睡眠困难、工作动力下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 510
+}

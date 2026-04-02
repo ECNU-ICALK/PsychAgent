@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "陈维",
+      "gender": "男",
+      "occupation": "医生",
+      "educational_background": "医学学位",
+      "marital_status": "已婚",
+      "family_status": "与配偶和子女住在宽敞的住所",
+      "social_status": "有支持性的配偶，可与其交流此问题",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无显著身体疾病",
+      "language_features": "思维清晰、表达具体、配合度高、态度积极，能够自我反思"
+    },
+    "main_problem": "我在划船爱好上持续感到挫败。我常常在有风的日子出航（我不喜欢有风），然后只关注那些经历的负面部分，这影响了我对划船的享受。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这种消极思维和持续的挫败感正在影响我对所热爱的活动的整体享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨拙的"
+      ],
+      "special_situations": [
+        {
+          "event": "在计划划船行程时遇到有风的天气预报或当天风力较大",
+          "conditional_assumptions": "如果天气有风，这一天就会被毁掉，整个体验都会很糟",
+          "compensatory_strategies": "更改出行日期和时间，尝试选择更平稳的天气",
+          "automatic_thoughts": "这一天会很糟糕，我的划船体验又要被风毁了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "出航过程中风力上升，操控变得困难",
+          "conditional_assumptions": "如果我不能在风天表现得很好，就说明我很笨拙/不行",
+          "compensatory_strategies": "用负面标签批评自己（如“我很笨拙”）",
+          "automatic_thoughts": "我就是个笨手笨脚的人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "返航后回想这次出航的经历",
+          "conditional_assumptions": "负面经历更重要，积极的部分不算数",
+          "compensatory_strategies": "只关注不顺的细节，忽略任何积极体验",
+          "automatic_thoughts": "这次一无是处，下一次计划也会很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到好天气相对较少，对未来出航产生担忧",
+          "conditional_assumptions": "好天气很稀少，我总会遇到风天",
+          "compensatory_strategies": "在计划阶段提前悲观评估整趟行程",
+          "automatic_thoughts": "我总是碰到风天，以后也会这样",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在计划或进行划船时遇到有风的情况，来访者通常会预测整天都会很糟，并沉溺于负面细节，导致挫败、享受下降，回家后仍持续烦躁",
+          "unique_outcome": "有几次出航中，风在一段时间后明显减弱，来访者没有像往常那样持续沉溺负面，体验转为愉快，整天感受“不错”",
+          "reason": "线索：当天后半程风力减弱（不同情境）；来访者具备多年划船经验与熟练技巧（支持性条件），在风减弱时能恢复掌控并享受活动"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱划船并每周坚持出航",
+          "具备多年经验与较高操控技能",
+          "有支持性的配偶可以交流和支持",
+          "愿意寻求专业帮助且态度积极",
+          "愿意查看天气预报并调整出行计划"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的倾向（见风就预判整天会很糟）",
+          "心理过滤/否定积极体验，专注负面细节",
+          "过度概括（把一次风天归纳为“我总会遇到风天”）",
+          "自我标签与苛责（把操作困难归因于“我很笨拙”）",
+          "反刍与挫败感外溢至家庭互动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "风天出航时出现灾难化思维与持续反刍负面，伴随强烈挫败感",
+          "antecedent": [
+            "计划出航时看到有风的天气预报",
+            "出航中风力增大、操控困难"
+          ],
+          "core_reason": "对风天的消极认知（预测整天会很糟、忽视正面）以及把一时困难过度概括为自身能力不足（“我很笨拙”）",
+          "function": "情绪性回避：通过提前悲观评估来降低期待与避免失望",
+          "consequence": "降低对划船的享受，出航前后情绪低落与易怒"
+        },
+        {
+          "behavior": "将挫败感外溢到家庭互动（易怒/与家人产生不良互动）",
+          "antecedent": [
+            "风天出航后回家仍在反刍负面经历"
+          ],
+          "core_reason": "未能有效调节情绪与停止反刍，负面情绪积累",
+          "function": "宣泄消极情绪以获得短暂缓解",
+          "consequence": "影响与配偶及家人的互动与氛围"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 907
+}

@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "少儿图书馆管理员",
+      "educational_background": "图书馆学学士学位",
+      "marital_status": "离异（最近离婚）",
+      "family_status": "无子女",
+      "social_status": "有少数亲密朋友但尚未向其倾诉孤独与无望；羞怯影响建立新关系",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题；未接受过心理治疗/咨询",
+      "language_features": "表达清晰、逻辑连贯、配合度良好；语速未提及"
+    },
+    "main_problem": "我相信在最近离婚后，我将再也找不到一个好的配偶，这让我感到绝望和孤独。",
+    "topic": "婚姻关系",
+    "core_demands": "意识到自己陷入了消极思维模式，这些模式影响了我对再次找到爱的信念，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定无法再拥有幸福的亲密关系",
+        "在我这个年龄、又离过婚，没有人会愿意选择我"
+      ],
+      "special_situations": [
+        {
+          "event": "六个月前离婚手续最终敲定",
+          "conditional_assumptions": "如果一段婚姻失败，就意味着我今后不可能再拥有幸福稳定的亲密关系",
+          "compensatory_strategies": "避免开始新的亲密关系，转而用工作与兴趣分散注意",
+          "automatic_thoughts": "这就证明我再也找不到好的伴侣了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在日常生活中看到幸福的情侣",
+          "conditional_assumptions": "如果别人都拥有幸福关系而我没有伴侣，就说明我失败并且注定会孤独",
+          "compensatory_strategies": "回避社交场景、减少与陌生异性交往",
+          "automatic_thoughts": "我永远都会这样孤单",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到重新开始约会或参加可能认识新人的活动",
+          "conditional_assumptions": "如果尝试约会，就一定会被拒绝或失望",
+          "compensatory_strategies": "干脆不去尝试，以避免再次受伤和失望",
+          "automatic_thoughts": "尝试也没用，最后只会更难受",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑向亲密朋友倾诉自己的孤独与无望",
+          "conditional_assumptions": "如果表达脆弱与痛苦，就会被他人评判或看低",
+          "compensatory_strategies": "保持沉默，不向朋友透露真实感受",
+          "automatic_thoughts": "她们会觉得我矫情、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被爱，重新建立稳定而亲密的伴侣关系",
+        "fear": "害怕被拒绝、再次受伤以及被评判",
+        "defense_goal": [
+          "通过回避约会与情感暴露来降低被拒绝的风险",
+          "以看似理性的理由维持控制感并自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤单、可能不被选择的人",
+          "object_representation": "他人（潜在伴侣/朋友）是容易评判与拒绝自己的人",
+          "linking_affect": "无望、羞怯、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师讨论尝试重新开始约会或参加书友会、社区活动时",
+          "interpretation": "认为“如果去尝试就会被拒绝”，把潜在的负面评价预先赋予他人",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用平静但犹疑的语气列举现实困难（年龄、离异经历、机会少），强调“现在不适合尝试”。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其考虑向朋友分享感受并寻求支持时",
+          "interpretation": "预设朋友会看低或责备自己，将内心的自我批评归于他人意图（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用谨慎、回避的措辞，如“她们大概会觉得我夸张”，减少细节，避免深入。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "离婚后持续感到孤独与无望",
+            "看到幸福的情侣时孤独感加剧",
+            "因羞怯与担心被评判而不向朋友表达真实感受"
+          ],
+          "outcomes": [
+            "睡眠紊乱",
+            "工作专注受损",
+            "回避开启新关系",
+            "情绪低落与无望感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次表达害怕被朋友评判、显得“矫情”，对自我暴露过度谨慎",
+            "谈及参加社交活动时显得犹豫并强调可能的负面后果"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在讨论向朋友求助时，反复假设“她们会看不起我/觉得我夸张”，将内心的担忧归因于他人的想法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在离婚后面对社交与关系拓展时，来访者通常会因无望与羞怯而回避开启新联系，结果持续感到孤独。",
+          "unique_outcome": "在离婚后的一段时间里，来访者与一位老朋友重新联系并进行了几次愉快且有意义的交谈，当时她没有像往常那样回避亲近感，体验到被连接的感觉。",
+          "reason": "不同情境/支持：对方为熟悉的老朋友、互动非浪漫关系、评价压力较低，因此更愿意投入交流。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位可提供支持的亲密朋友",
+          "能主动寻求专业帮助并愿意反思思维模式",
+          "愿意尝试通过书友会、社区活动扩大社交圈",
+          "曾与老友建立有意义的连接，显示具备建立关系的能力"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白与预测未来等负性认知模式",
+          "羞怯与对他人评价的过度担心，导致回避自我暴露",
+          "回避约会与社交尝试，虽短期减轻焦虑但维持问题",
+          "睡眠紊乱与注意力下降，削弱日常功能与自我效能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避开启新的亲密交往/约会",
+          "antecedent": [
+            "想到重新寻找伴侣或参加可能结识新人的活动",
+            "看到幸福的情侣后对自身前景产生悲观联想",
+            "担心被朋友或潜在伴侣评判"
+          ],
+          "core_reason": "对亲密关系的灾难化与预测未来的认知（认为尝试必然失败或被拒），伴随羞怯与被评判的担忧",
+          "function": "逃避潜在的拒绝与失望，短期降低焦虑",
+          "consequence": "社交圈受限、持续孤独与无望感，延续对关系的负性信念"
+        },
+        {
+          "behavior": "夜间反复担忧未来导致失眠",
+          "antecedent": [
+            "临睡前回想离婚与未来感情前景",
+            "白天看到情侣后夜间反刍"
+          ],
+          "core_reason": "情绪化推理与灾难化思考，缺乏有效的情绪调节与放松策略",
+          "function": "试图通过反复思考获得控制感或预防坏结果（内在负强化）",
+          "consequence": "睡眠质量下降、次日注意力与工作表现下降，情绪低落加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1000
+}

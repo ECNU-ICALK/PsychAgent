@@ -1,0 +1,129 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "孟瑶",
+      "gender": "女",
+      "occupation": "咖啡店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "母亲曾是理发师",
+      "social_status": "有一位可倾诉工作问题的朋友，但尚未分享自己自我怀疑与无能感的程度",
+      "medical_history": "未出现类似问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述感受与自动化思维，配合度较好；语速未提及"
+    },
+    "main_problem": "每当顾客不喜欢他们的饮品时，我就觉得自己是最差的员工，进而产生无能感与自我责备。这种感受在过去一年工作中一直存在，近期因负面反馈增多而加重，导致我不断怀疑自己的能力并害怕在工作中犯错。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些无能感开始影响我的自信和工作表现；我希望能更好地处理负面反馈，不再让它过度影响我。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是无能的",
+        "我是最差的员工"
+      ],
+      "special_situations": [
+        {
+          "event": "顾客对饮品表示不满或退回饮品",
+          "conditional_assumptions": "如果顾客不满意，就说明我能力不足、是个失败者",
+          "compensatory_strategies": "反复回想错误、过度自我检视，并加倍练习以避免再次出错",
+          "automatic_thoughts": "我是最差的员工",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "收到关于口味或温度的负面评价",
+          "conditional_assumptions": "任何负面反馈都证明我做得一无是处",
+          "compensatory_strategies": "努力寻求更多正面反馈来证明自己，但仍被负面评价主导",
+          "automatic_thoughts": "我什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中犯错或被顾客批评",
+          "conditional_assumptions": "一旦犯错，我就会被视为不称职，而且我永远不会进步",
+          "compensatory_strategies": "与顾客互动时变得紧张、小心翼翼以避免再出错",
+          "automatic_thoughts": "我永远不会变好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与不满意的顾客互动并听到负面评论",
+          "conditional_assumptions": "他们一定认为我很糟糕，问题都在我身上",
+          "compensatory_strategies": "在与顾客交流时回避、谨慎，试图降低被批评的风险",
+          "automatic_thoughts": "他们觉得我不行",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职、获得积极评价与接纳",
+        "fear": "害怕被批评和否定，害怕犯错后被视为不称职",
+        "defense_goal": [
+          "通过自我批评与完美追求来降低被否定的风险",
+          "在与顾客互动中保持谨慎与一定程度的回避以求安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易犯错的员工",
+          "object_representation": "挑剔的评判者（不满意的顾客）",
+          "linking_affect": "焦虑、自责、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次将负面反馈完全归因于自己（如“都是我的错”）",
+            "表达强烈的自我怀疑与自责",
+            "谈及与顾客互动时表现出过度紧张与回避"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并配合咨询（主动参与现实检验）",
+          "曾获得顾客的正面反馈与回头客",
+          "主动尝试提升技能与改进工作表现"
+        ],
+        "negative_force": [
+          "过度自我否定与标签化（“我是最差的员工”）",
+          "心理过滤与过度概括，忽视正面反馈",
+          "害怕犯错与被批评，导致紧张与回避沟通",
+          "对他人评价高度敏感，倾向读心与个人化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在顾客不满时出现强烈自责与焦虑，并回避与顾客沟通",
+          "antecedent": [
+            "顾客对饮品表示不满或退回饮品",
+            "收到关于口味或温度的负面评价"
+          ],
+          "core_reason": "将负面反馈个人化并以全或无标准评价自我，形成“我什么都做不好/我是最差的员工”等自动化思维",
+          "function": "逃避负面评价与潜在批评，试图降低犯错风险",
+          "consequence": "工作表现下降，自信受损，与顾客互动紧张，焦虑加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 736
+}

@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "林赛",
+      "gender": "女",
+      "occupation": "无人机技术员",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与同事关系受影响，在工作中倾向于自我孤立；有少数朋友可交流，但尚未与他们讨论相关感受。",
+      "medical_history": "既往未出现类似心理问题；无心理治疗史；无重大躯体疾病。",
+      "language_features": "表达清晰、语气中立；能具体描述触发情境与自动化思维；在比较他人时倾向否定积极信息；愿意尝试改变但存在犹疑。"
+    },
+    "main_problem": "我觉得自己从事的无人机制造工作不重要、不独特，因此感到被贬低与缺乏意义。",
+    "topic": "职业发展",
+    "core_demands": "我决定现在寻求咨询，因为这种被贬低的感受正在影响我的工作表现和整体幸福感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被认可",
+        "我的工作不重要/不独特"
+      ],
+      "special_situations": [
+        {
+          "event": "同事的无人机项目获得认可",
+          "conditional_assumptions": "如果别人被认可而我没有，就说明我的工作不重要、我没有价值",
+          "compensatory_strategies": "尝试将注意力转向自己的技能与成就来证明价值",
+          "automatic_thoughts": "我的工作不重要，谁都能做。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "团队会议或项目展示",
+          "conditional_assumptions": "如果我不能在会议中表现得与众不同，就证明我不够好、不值得被重视",
+          "compensatory_strategies": "在工作中与同事保持距离、减少参与以降低焦虑",
+          "automatic_thoughts": "我不如他们，大家会觉得我很平庸。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "看到别人成功而自己感到停滞",
+          "conditional_assumptions": "如果他人持续被认可而我没有，就意味着我以后也不会被看到和重视",
+          "compensatory_strategies": "不断与他人比较来评估自我价值",
+          "automatic_thoughts": "我永远不会像同事那样被认可或被重视。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "团队对我贡献的非正式赞赏",
+          "conditional_assumptions": "如果不是公开、显著的认可，正面反馈就不算数",
+          "compensatory_strategies": "否定或弱化积极反馈，继续关注自身的不足",
+          "automatic_thoughts": "这些赞赏不重要，我仍然不够好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见，拥有独特而有价值的工作与自我",
+        "fear": "害怕被忽视与贬低，担心自己被证明为“普通且不重要”",
+        "defense_goal": [
+          "通过自我疏离和否定积极反馈来降低被比较与被评判的伤害感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、价值平庸的工作者",
+          "object_representation": "他人是评判者/成功的竞争者",
+          "linking_affect": "自卑、焦虑、被贬低感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提示其关注正面证据或强调其独特技能、价值时",
+          "interpretation": "将他人的成功体验为对自身的否定；把咨询师的肯定理解为与现实不符，进一步强化“我不够好”的自我图式",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责的语气强调自己“不够好”，弱化或否定正面反馈；当被询问成功经验时，简短回应并迅速转回自身不足。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为自己的工作不独特、不重要",
+            "在同事被认可后持续感到被贬低与缺乏目的",
+            "在团队会议与展示时更明显地体验到无意义感"
+          ],
+          "outcomes": [
+            "工作动机下降与满意度降低",
+            "在工作中自我孤立",
+            "焦虑增加，日常作息与自我照料被扰乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在叙述中频繁自我否定与缩小化优点",
+            "对表达自我价值过于谨慎，优先关注他人成功",
+            "在工作场域选择自我孤立以避免被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备快速排查复杂问题的专业能力（同事曾欣赏其贡献）",
+          "能够识别并描述触发情境与自动化思维",
+          "愿意尝试替代视角并采取小步骤（如在会议前提醒自己的贡献）",
+          "有少数朋友可作为潜在支持资源"
+        ],
+        "negative_force": [
+          "持续的比较与绝望思维，依赖外部认可定义自我价值",
+          "否定正面思考与心理过滤，缩小化积极反馈",
+          "在工作中自我孤立，减少与同事的联系",
+          "工作意义感低导致动机与满意度下降，并伴随焦虑增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在团队会议/项目展示中出现焦虑、自我贬低并回避/疏离同事",
+          "antecedent": [
+            "团队会议或项目展示",
+            "同事获得表扬或成功的情境",
+            "将自己工作与他人进行比较的时刻"
+          ],
+          "core_reason": "将自我价值与外部认可紧密绑定；习惯性比较导致形成“我的工作不重要/不独特”的认知，并对积极反馈进行心理过滤与否定",
+          "function": "逃避被评价与比较带来的焦虑与羞耻，寻求短期的安全感与自我保护",
+          "consequence": "工作动机与满意度下降、绩效受损；与同事关系疏离；日常作息与自我照料被扰乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 269
+}

@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "芭蕾舞演员",
+      "educational_background": "芭蕾专业培训",
+      "marital_status": "未婚",
+      "family_status": "独居，无直系亲属",
+      "social_status": "在芭蕾圈有朋友，但未与其谈论具体感受",
+      "medical_history": "既往无类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "语气中性，表达清晰，能自我反思；倾向围绕负面细节展开叙述"
+    },
+    "main_problem": "在最近一次芭蕾演出因一次失误后，持续体验失望与失败感，反复沉溺于该错误并忽视表演中的成功部分，影响对芭蕾事业的整体看法与情绪状态；同时因一次理财失误产生强烈焦虑与自我否定。",
+    "topic": "情绪管理",
+    "core_demands": "希望缓解围绕演出失误与理财错误的失望与失败感，恢复对芭蕾的热情与整体心理健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我注定会失败",
+        "只有完美表现才算胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "上个月的芭蕾演出中出现一次滑倒失误",
+          "conditional_assumptions": "只要在表演中出现一次错误，整场演出就等于失败",
+          "compensatory_strategies": "尝试通过理性化并提醒自己演出的积极部分来缓解负面情绪",
+          "automatic_thoughts": "这次滑倒毁了整场演出；我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每当想到那场演出或为即将到来的演出进行练习时",
+          "conditional_assumptions": "只有紧盯错误、忽略成功，才能避免再次犯错",
+          "compensatory_strategies": "反复回想那次错误并忽视成功片段",
+          "automatic_thoughts": "那次错误说明我不够好，其他表现都不重要",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在总体表现良好的演出后进行自我评估",
+          "conditional_assumptions": "积极部分不算数，任何失误都能抵消所有成绩",
+          "compensatory_strategies": "否定并忽略积极反馈与成功片段，以保持对错误的警惕",
+          "automatic_thoughts": "那一次失误抵消了我所有的成就",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在一次股票亏损后面对新的理财决策",
+          "conditional_assumptions": "一次投资失败就说明我不适合理财，未来也会一直失败",
+          "compensatory_strategies": "反复查阅理财策略并在论坛寻求建议，对每个决定进行二次猜测与犹豫",
+          "automatic_thoughts": "我毁了我的财务未来；每个决定都将变成灾难",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过稳定、无差错的表现与稳健决策获得他人肯定与自我安全感",
+        "fear": "害怕犯错后被否定、关系疏离、职业前途与财务安全受损",
+        "defense_goal": [
+          "以严苛自我要求与过度反思来预防再次失败",
+          "以理智化与信息搜寻来降低焦虑与不确定感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够称职、容易犯错的表演者/决策者",
+          "object_representation": "他人（同伴、观众、评价者）可能因自己失误而失望与疏远的对象",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请回顾具体失误及其影响、并探索相关感受时",
+          "interpretation": "倾向把深入情绪体验视为不必要或令人不安，认为用理性分析即可解决问题",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平静、客观语气聚焦事实与数据，减少情绪词汇和主观感受的表达。"
+        },
+        {
+          "trigger_condition": "在谈及演出评价或理财决策时预期他人反应",
+          "interpretation": "假设他人会将一次错误等同于全面失败并予以否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我批评和内疚语气陈述，将问题责任全部归于自己，弱化外部因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与朋友讨论具体感受",
+            "与同伴关系因自我负面看法而紧张"
+          ],
+          "outcomes": [
+            "主观孤立感上升",
+            "情绪低落与焦虑",
+            "睡眠与饮食受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "演出失误后对芭蕾事业的整体看法变差",
+            "对未来演出与职业前景产生质疑"
+          ],
+          "outcomes": [
+            "动力降低与热情受损",
+            "职业表现受影响",
+            "持续自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在理财决策上反复犹豫与二次猜测",
+            "在演出评估中过度关注错误而忽视成功",
+            "频繁自我批评（如“我注定会失败”）"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“一次失误=彻底失败”的完美主义规则当作绝对标准",
+            "使用非黑即白的自我评价方式"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在其他生活领域保持胜任与自信（自述在工作与个人爱好中表现良好）",
+          "在芭蕾圈存在潜在社交支持（有朋友可谈）",
+          "主动寻求咨询与信息，具备改变动机",
+          "自我反思能力较好，愿意尝试认知重构与行为实验"
+        ],
+        "negative_force": [
+          "非黑即白思维、心理过滤与否定积极",
+          "对理财决策的灾难化/预测未来导致高焦虑与回避",
+          "自我否定与羞耻感强，将一次错误等同于整体失败",
+          "睡眠与饮食受影响，身心负担增加",
+          "社会支持未充分使用，独居且回避与朋友讨论具体感受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍演出失误并否定成功片段",
+          "antecedent": [
+            "想到那场演出",
+            "为即将到来的演出进行练习时"
+          ],
+          "core_reason": "内化的完美主义与“一次失误=失败”的认知偏差，伴随心理过滤与否定积极",
+          "function": "维持对错误的高度警惕以避免再次失败（逃避不确定与焦虑）",
+          "consequence": "自我价值感下降、情绪低落与焦虑加重，职业热情受损"
+        },
+        {
+          "behavior": "在财务决策上过度犹豫与回避（持续二次猜测）",
+          "antecedent": [
+            "面对新的投资或理财决定",
+            "回忆上次股票亏损"
+          ],
+          "core_reason": "一次亏损后产生灾难化与预测未来的负性认知（“我毁了财务未来”）",
+          "function": "逃避潜在风险与失败以暂时降低焦虑",
+          "consequence": "决策效率下降、压力增大、睡眠受扰"
+        },
+        {
+          "behavior": "否定积极反馈/成绩",
+          "antecedent": [
+            "在总体表现良好的演出后进行自我评估",
+            "他人或自我回顾演出优点的情境"
+          ],
+          "core_reason": "非黑即白思维与“积极不算数”的认知假设",
+          "function": "维持高标准与控制感，防止自满",
+          "consequence": "自我激励减少、职业动力与信心下降、与同伴关系进一步紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1412
+}

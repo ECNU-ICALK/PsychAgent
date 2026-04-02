@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "张宇",
+      "gender": "男",
+      "occupation": "兼职大学生",
+      "educational_background": "大学在读（非全日制）",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有朋友可倾诉，但因自己频繁表达失望使关系受到一定影响",
+      "medical_history": "无重大躯体疾病，无既往心理咨询/治疗史",
+      "language_features": "态度中性，表达清晰，配合度较高"
+    },
+    "main_problem": "我倾向于忽视一天中的积极面并专注于消极面，导致很容易感到气馁和失望。这种思维模式已存在一段时间，但在最近几个月更为突出。滑板公园的关闭会触发这些感受，我几乎每天都会出现这类负性想法，尤其在计划没有按预期进行时。",
+    "topic": "情绪管理",
+    "core_demands": "我想找到更好地管理这些消极想法的方法，这样它们就不会继续毁掉我的每一天。我希望能够重新享受生活和我的爱好。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "好事不可靠，坏事才是真实",
+        "事情要么完美，要么就是彻底失败"
+      ],
+      "special_situations": [
+        {
+          "event": "滑板公园关闭",
+          "conditional_assumptions": "如果计划被打乱，这一天就等于失败",
+          "compensatory_strategies": "向朋友抱怨、尝试用其他活动分散注意力",
+          "automatic_thoughts": "今天完了，我的一天被毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当天出现不按计划进行的事情",
+          "conditional_assumptions": "如果发生一次不顺利，就说明整天（甚至以后）都会很糟",
+          "compensatory_strategies": "沉浸在那件坏事上，忽略其他方面",
+          "automatic_thoughts": "没有任何事情会顺利了，何必再努力",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "一天中既有积极也有消极的事情同时存在",
+          "conditional_assumptions": "只要有一件坏事发生，好的都不算数",
+          "compensatory_strategies": "过滤掉积极经历，只反复关注负面",
+          "automatic_thoughts": "那些好的没意义，今天总体很糟",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友交流当天的经历",
+          "conditional_assumptions": "当心情不好时，其他方面不值得被注意",
+          "compensatory_strategies": "反复向朋友倾诉失望、选择性关注不快",
+          "automatic_thoughts": "今天真的很糟，没什么好说的",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在日常生活中保持掌控与愉悦，被他人理解与支持",
+        "fear": "害怕不确定性与失望，担心积极体验不可靠、随时会被打破",
+        "defense_goal": [
+          "通过非黑即白和否定积极的评估方式降低失望感，维持一种可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被一次挫折定义为“受挫的个体”",
+          "object_representation": "环境/他人是不可靠、易让人失望的存在",
+          "linking_affect": "失望、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "觉得“一旦出差错就没必要再努力”（如：为什么还要费心，如果这一天反正会很糟）",
+            "日常活动的乐趣下降，兴趣（如滑板）受影响",
+            "当计划被打乱就认为整天被毁"
+          ],
+          "outcomes": [
+            "情绪低落与气馁",
+            "动力下降与回避积极体验",
+            "学业表现受到影响",
+            "人际关系受损（频繁表达失望）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与‘接受’对应。",
+          "manifestations": [
+            "遇到负面情绪时倾向用分散注意来回避直接体验情绪",
+            "与朋友互动时以抱怨/吐槽代替对当下情绪与需求的直接觉察与表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定的兴趣爱好（滑板）",
+          "拥有可以倾诉的朋友（一定的社会支持）",
+          "对自身消极思维模式有初步觉察并主动寻求咨询"
+        ],
+        "negative_force": [
+          "存在非黑即白、过度概括、心理过滤、否定积极等认知偏差",
+          "对计划受挫高度敏感，外部事件强烈决定情绪",
+          "以分散注意与抱怨为主的应对难以缓解负性思维并可能维持问题",
+          "自我效能感与日常乐趣下降，进而削弱积极行动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在计划受挫时出现灾难化/非黑即白的自我陈述（如“我的一天被毁了”）并伴随明显沮丧",
+          "antecedent": [
+            "滑板公园关闭",
+            "任何当日不按计划进行的事情"
+          ],
+          "core_reason": "对挫折持灾难化解释，并存在心理过滤、否定积极、过度概括与非黑即白等认知偏差",
+          "function": "逃避与失望感直接接触并寻求短时缓解/他人关注（通过抱怨、分散注意）",
+          "consequence": "情绪低落与动力下降；学业、人际与兴趣受影响；负性思维被维持和强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1880
+}

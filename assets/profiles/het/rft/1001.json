@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "陈思远",
+      "gender": "男",
+      "occupation": "前孟山都公司员工",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一些朋友可交谈，但对分享自卑感犹豫",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；无类似问题史",
+      "language_features": "表达清晰、合作度高、态度积极；能自我反思，但存在自我贬损（如“我没用”）与非黑即白的表述"
+    },
+    "main_problem": "因为没能读完一本自己很喜欢的奇幻小说而感到自我不足和“没用”。",
+    "topic": "情绪管理",
+    "core_demands": "需要帮助来处理自己的高期待与自我批评。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没用的",
+        "只要没有达到期望，我就是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "未能读完自己喜欢的奇幻小说",
+          "conditional_assumptions": "如果我不能按计划完成读书，就说明我无能/没用",
+          "compensatory_strategies": "给自己设定更高的阅读目标、逼迫自己加速完成以证明自己",
+          "automatic_thoughts": "我没用。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在日常活动中遇到小挫折",
+          "conditional_assumptions": "任何一次挫折都意味着我整体不行",
+          "compensatory_strategies": "不断加压、强迫自己更努力以避免失败",
+          "automatic_thoughts": "连小事都做不好，我以后也做不好任何事。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到向朋友分享自身不足与情绪时",
+          "conditional_assumptions": "如果暴露不足，别人会看轻我",
+          "compensatory_strategies": "回避分享、隐藏情绪以保护形象",
+          "automatic_thoughts": "他们会觉得我很差。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "未完成一本书后联想到未来成就",
+          "conditional_assumptions": "一个领域的失败会预示未来各方面的失败",
+          "compensatory_strategies": "用自我批评来逼自己达标",
+          "automatic_thoughts": "我连书都看不完，怎么能成就任何事？",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为有能力且有价值的人",
+        "fear": "害怕被看轻与否定，害怕失败暴露无能",
+        "defense_goal": [
+          "维持高标准以避免失败与评价",
+          "减少暴露脆弱与不足来保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被否定的失败者/无能者",
+          "object_representation": "会评价并看轻我的他人（如朋友）",
+          "linking_affect": "羞耻、焦虑、犹豫"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当未能完成任务或被询问进展时",
+          "interpretation": "认为失败证明自己一无是处，并担心他人会因此看轻自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气温和与支持，正常化失败与挫折；鼓励将问题具体化与可操作化，避免评价；邀请其识别情绪与需求，并以开放式问题引导其区分事实与自我标签。"
+        },
+        {
+          "trigger_condition": "当想到向朋友分享自己的不足或情绪时",
+          "interpretation": "认为朋友会看不起自己（移情：将自我批评投射为他人评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持接纳的态度，邀请其检视证据，进行小步的行为实验验证假设；鼓励在安全情境中尝试表达真实感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对与朋友分享自我不足感到犹豫，担心被看轻",
+            "在挫折时倾向独自承受"
+          ],
+          "outcomes": [
+            "社交回避与支持系统利用不足",
+            "自我怀疑加剧"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "高期待与自我苛责限制了自发性与灵活选择",
+            "将未完成视为不可接受"
+          ],
+          "outcomes": [
+            "压力增加与自我批评",
+            "行为僵化、体验容许度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自责、用“我没用”为自己贴标签",
+            "面对小挫折过度审视自身表现"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心朋友会看不起自己而不敢分享",
+            "把对自己的负面评价预设为他人的看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把压力和不满转向自己，通过加压和自我批评强迫自己完成任务"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须完成任务”“不能失败”等规则视为绝对标准",
+            "以高期待作为自我价值的唯一衡量"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求心理咨询与帮助",
+          "对行为实验持开放态度并愿意记录数据",
+          "对阅读保持兴趣",
+          "有一定社会支持（有朋友可交流）"
+        ],
+        "negative_force": [
+          "自我期待过高、完美主义倾向",
+          "自我批评与负性标签化",
+          "非黑即白、过度概括与预测未来等认知扭曲",
+          "担心他人看轻而回避表达与求助",
+          "挫折后以加压方式应对导致压力累积"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "未完成任务时的自我贬损与灾难化思维",
+          "antecedent": [
+            "未能读完喜欢的奇幻小说",
+            "在日常活动中遭遇小挫折"
+          ],
+          "core_reason": "对自我抱有过高期待，产生非黑即白、过度概括与贴标签等认知扭曲",
+          "function": "通过自我批评试图激励自己并避免面对外部评价",
+          "consequence": "情绪低落、挫败感增强、日常生活受到干扰"
+        },
+        {
+          "behavior": "回避向朋友分享感受与需求",
+          "antecedent": [
+            "想到朋友可能会看轻自己",
+            "面临需要寻求支持的情境"
+          ],
+          "core_reason": "害怕被否定与羞耻感，读心术与外部评价依赖",
+          "function": "逃避潜在的批评或尴尬，短期维持自尊",
+          "consequence": "孤独感加重，社会支持难以发挥，问题持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1001
+}

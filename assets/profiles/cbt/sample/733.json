@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "周莉",
+      "gender": "女性",
+      "occupation": "失业的农场工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，所在州没有直系亲属",
+      "social_status": "有少数朋友可提供情感支持，但难以与他们讨论内疚与自责",
+      "medical_history": "无显著身体疾病；无既往心理治疗史；此前未有类似心理问题经历",
+      "language_features": "表达清晰，能具体描述经历与想法；态度偏消极，情绪低落；倾向自责与负性推断（灾难化、过度概括、个人化）；配合度尚可，愿意尝试不同视角"
+    },
+    "main_problem": "因所服务的农场被止赎倒闭而失业，持续体验高压与内疚，将农场倒闭归因于自己的努力与技能不足，并不断自责。",
+    "topic": "职业发展",
+    "core_demands": "农场倒闭与自我责备已影响心理健康与动力，希望通过咨询获得支持。",
+    "growth_experiences": [
+      "去年经历严重旱灾与市场价格低迷，农作物受损，经营受挫；一个月前农场被止赎关闭，来访者因此失业。此前未有类似心理困扰与治疗史；失业后出现睡眠紊乱、兴趣减退，并与亲友疏远。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "一切结果都取决于我的努力；只要我足够努力，就能避免坏事发生",
+        "如果我能力不足或不够努力，坏结果就是我的错",
+        "我不够好/不够有能力"
+      ],
+      "special_situations": [
+        {
+          "event": "农场在一个月前被止赎关闭",
+          "conditional_assumptions": "如果我没有更努力或缺乏更好的技能，就必须为农场倒闭负责",
+          "compensatory_strategies": "反复自我检讨并自责，减少与亲友联系以避免被评价",
+          "automatic_thoughts": "都是我的错；如果我更努力，农场就不会倒闭",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "观看与农场生活相关的真人秀节目",
+          "conditional_assumptions": "我应该做得更多、足够努力才能避免失败",
+          "compensatory_strategies": "通过反复观看相关内容沉浸过去、寻找自己“本应做得更好”的证据",
+          "automatic_thoughts": "我本可以做得更多，我应该更努力",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "在求职过程中收到拒绝",
+          "conditional_assumptions": "一次失败就意味着我一直都不够好",
+          "compensatory_strategies": "降低与外界互动、回避社交以减少羞愧感",
+          "automatic_thoughts": "每次被拒都证明我不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上一季遭遇严重旱灾与市场价格低迷",
+          "conditional_assumptions": "真正有能力的人总能靠努力克服外部因素",
+          "compensatory_strategies": "不断设想自己当时应该找到更好的应对方法",
+          "automatic_thoughts": "如果我当时更有本事，就能挽救农场",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过努力被认可为有能力，并保持对工作与生活的掌控感",
+        "fear": "害怕自己不够好并对失败负全部责任，担心被评判与失去经济安全",
+        "defense_goal": [
+          "通过把责难指向自己来维持一种“我还能控制”的感觉",
+          "与他人保持距离以减少羞愧和被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有罪疚的失败者、能力不足的自我",
+          "object_representation": "他人是难以启齿的倾诉对象，可能无法理解或会评价自己",
+          "linking_affect": "羞愧、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人提出外部因素（如市场与天气）也影响农场关闭时",
+          "interpretation": "来访者将承认外部因素视为在推卸责任，因此选择把全部责任归于自己以维持道德与掌控感",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "以自责的语气强调“我应该做得更多”，忽略外部证据，减少与咨询师的眼神接触，语速放缓"
+        },
+        {
+          "trigger_condition": "在求职遭遇拒绝或被询问其求职进展时",
+          "interpretation": "将一次拒绝解读为对自我能力的全面否定，认为未来都会失败",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "用看似理性但自责的语句解释失败（如“我不够好”），忽视其他可能因素，语气消沉"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "失业后与朋友家人保持距离",
+            "独居且所在州无直系亲属"
+          ],
+          "outcomes": [
+            "孤立感增强",
+            "情绪压力加重",
+            "睡眠紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "失业打乱日常结构与角色认同",
+            "对曾经喜欢的活动失去兴趣"
+          ],
+          "outcomes": [
+            "动力下降",
+            "兴趣丧失",
+            "自我否定加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“我应该做得更多”的语句",
+            "坚持“只要足够努力就能解决一切”的信念"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在失业与求助情境下减少与朋友家人联系",
+            "把求助冲动转为自我苛责和反复检讨"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "难以给自己任何肯定",
+            "将一次拒绝视为对自身全面否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "仍在主动投递工作并寻求经济援助，体现一定的坚持与行动力",
+          "具备承认外部因素的初步意愿（能提到天气与市场问题）",
+          "拥有少量朋友可提供情感支持",
+          "具有勤奋与责任感的价值观"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、个人化等认知模式导致自责加剧",
+          "将一次拒绝视为能力全面不足，降低自信与动机",
+          "与亲友疏远、减少社交导致支持系统弱化",
+          "睡眠紊乱、兴趣丧失，日常功能受损",
+          "过度使用“应该”的自我要求，否定正面努力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的自责与内疚",
+          "antecedent": [
+            "农场被止赎关闭",
+            "观看与农场相关的真人秀节目",
+            "在求职过程中收到拒绝"
+          ],
+          "core_reason": "灾难化与个人化的认知将外部因素（天气、市场）责任内化到自我",
+          "function": "维持一种对结果的控制感并试图避免被外界指责",
+          "consequence": "压力增高、动力下降、难以维持日常作息"
+        },
+        {
+          "behavior": "回避社交、与朋友家人保持距离",
+          "antecedent": [
+            "感到羞愧与自责时",
+            "被询问失业或求职进展时"
+          ],
+          "core_reason": "担心被评判与羞愧感驱动的回避",
+          "function": "逃避可能的负面评价与情绪不适",
+          "consequence": "社会支持减少、孤独感增强、情绪问题加重"
+        },
+        {
+          "behavior": "睡眠紊乱与对活动失去兴趣",
+          "antecedent": [
+            "失业后的经济与生活压力",
+            "反复自责与负性反刍"
+          ],
+          "core_reason": "持续应激与负性思维导致情绪低落与生理节律受扰",
+          "function": "被动的情绪调节（降低外界刺激）",
+          "consequence": "日常功能下降、求职效率降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 733
+}

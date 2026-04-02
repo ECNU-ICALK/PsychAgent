@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "张迪",
+      "gender": "男",
+      "occupation": "作家",
+      "educational_background": "文学学士",
+      "marital_status": "未婚",
+      "family_status": "无直系亲属，独自居住",
+      "social_status": "因自我怀疑而减少与朋友和同事的联系，社交退缩；虽有少数作家朋友，但羞于分享自我不足",
+      "medical_history": "否认以往相似心理问题与治疗史；无重大躯体疾病",
+      "language_features": "配合度高，表达清晰连贯，语速平稳；能进行自我反思并接受探讨；带有明显自责与羞耻，初始略紧张但逐渐开放"
+    },
+    "main_problem": "我一直觉得没有人想买我的书，这让我相信自己一定是个糟糕的作家。",
+    "topic": "职业发展",
+    "core_demands": "当这些负面想法开始影响我的写作动力和整体心理健康时，我决定寻求咨询。",
+    "growth_experiences": [
+      "大约一年前，最新一本书销量不及自己的预期，由此开始出现强烈的自我怀疑与不足感。",
+      "其后多次收到出版社的拒信，这些经历进一步加重了自我否定和低自我价值感。",
+      "近一年书籍销量下降，信心受挫，逐渐与朋友和同事疏离，日常写作动力与效率明显降低。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的作家",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "最新一本书的销量没有达到自己的预期",
+          "conditional_assumptions": "如果我的书卖不好，就说明我不够好/我是个糟糕的作家",
+          "compensatory_strategies": "加倍改进写作技巧和营销策略以证明自己价值",
+          "automatic_thoughts": "没人想买我的书，我就是写得不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "收到出版社的拒信",
+          "conditional_assumptions": "如果被出版社拒绝，就说明我没有价值，职业可能要完了",
+          "compensatory_strategies": "减少社交接触，回避进一步投稿或主动求助以避免再次被拒",
+          "automatic_thoughts": "他们拒绝我，说明我不行，我的写作生涯可能完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在写作或尝试推广作品的过程中反复冒出负面念头",
+          "conditional_assumptions": "如果无法立刻获得积极反馈，就证明我不够好",
+          "compensatory_strategies": "拖延或回避写作与推广任务，降低暴露在评价面前的机会",
+          "automatic_thoughts": "反正也不会有人买，写了也没用",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，盼望自己的作品被读者和出版社肯定",
+        "fear": "害怕被拒绝与被否定，担心失败意味着自我价值低下",
+        "defense_goal": [
+          "通过自我隔离与减少社交接触来降低被评价和受伤的可能性",
+          "以理智化方式归因为“市场/营销因素”以暂时缓解羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的创作者",
+          "object_representation": "挑剔的评判者/拒绝者（读者、出版社、同行）",
+          "linking_affect": "羞耻、焦虑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其为“销量不佳=我很差”的想法寻找其他解释或证据时",
+          "interpretation": "把注意力转向客观因素以避免直面被拒的羞耻（移情：将咨询师的探问体验为对自我价值的审视）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平稳、强调数据与多因素分析（市场竞争、营销力度），减少情感色彩与主观感受的表述。"
+        },
+        {
+          "trigger_condition": "当谈到拒信与销量下滑等失败经历时",
+          "interpretation": "将外界的拒绝等同为自我整体价值低劣（把他人的评价内向化成对自我的攻击）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自我贬低与自责的语句，降低自我评价，语气带羞耻与无力，避免寻求支持。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "无直系亲属，独自居住",
+            "因自我怀疑与羞耻而与朋友、同事疏离，减少交流"
+          ],
+          "outcomes": [
+            "社会支持减少与主观孤立感增强",
+            "焦虑与低落情绪累积，进一步削弱写作动力"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "主观体验为“写作事业走不下去”",
+            "销量下滑与拒信被解释为自我无价值的证据"
+          ],
+          "outcomes": [
+            "写作动机下降与日常生产力受损",
+            "自我价值感受损，增强无望感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "初始表达紧张且带羞耻，谨慎陈述自我不足，担心被评判",
+            "倾向先自责、降低自我价值后再寻求反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动求助且态度积极，愿意尝试行为实验与外部反馈",
+          "具备文学本科背景与持续写作经验",
+          "拥有少数可联系的作家朋友，具备潜在社会支持资源"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与个人化的思维模式强化自我否定",
+          "社交退缩与羞耻感导致回避外界评价与支持",
+          "销量下滑与拒信经历反复触发失败图式，进一步削弱自信与动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "写作动机显著下降，出现拖延与回避",
+          "antecedent": [
+            "坐下来写作或准备推广作品时",
+            "想起最新一本书销量不佳",
+            "收到或回想起出版社的拒信"
+          ],
+          "core_reason": "将销售表现与自我价值直接等同的灾难化与过度概括认知，强烈害怕失败与被否定",
+          "function": "逃避潜在的失败与羞耻，短期降低焦虑",
+          "consequence": "生产力下降、日常作息被打乱，职业发展受阻"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "需要向朋友或同行分享写作近况时",
+            "需要寻求他人反馈或推广作品时"
+          ],
+          "core_reason": "将外部拒绝个人化为“我不行/不够好”，担心暴露缺陷",
+          "function": "逃避被评判与再次受挫",
+          "consequence": "支持系统削弱，孤独感增强，自尊进一步下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 92
+}

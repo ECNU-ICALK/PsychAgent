@@ -1,0 +1,230 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "保拉",
+      "gender": "女",
+      "occupation": "学生（学习写作）",
+      "educational_background": "攻读写作学位",
+      "marital_status": "单身",
+      "family_status": "母亲是图书管理员",
+      "social_status": "有少数密友与母亲可提供支持，但因羞于讨论失望情绪而与他们关系有所紧张",
+      "medical_history": "无重大躯体疾病；此前无类似心理问题；既往未接受心理治疗",
+      "language_features": "思维清晰、表达有条理；倾向使用绝对化与否定积极的表述；聚焦负面结果；配合度尚可但对改变持怀疑"
+    },
+    "main_problem": "在申请新闻学位的10所大学中有一所拒绝了我后，我一直感到不堪重负和失望，并且只关注那封拒信、忽视其他九所的录取。",
+    "topic": "学业压力",
+    "core_demands": "这次被拒的经历以及我无法走出来，已经负面影响了我的动力和心理健康，因此我寻求咨询支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有被顶尖/梦校接纳我才有价值与成功"
+      ],
+      "special_situations": [
+        {
+          "event": "上个月收到心仪新闻学项目的拒信",
+          "conditional_assumptions": "如果没进入这所梦校，就无法在新闻事业中取得成功",
+          "compensatory_strategies": "埋头阅读和写作以分散注意力，试图压下失望",
+          "automatic_thoughts": "这次被拒说明我的职业已经结束",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回想整段大学申请经历并查看录取与拒信",
+          "conditional_assumptions": "只有进入最想要的学校才算成功，其他录取不具价值",
+          "compensatory_strategies": "忽视其他九封录取的积极信息，只盯着那封拒信",
+          "automatic_thoughts": "其他录取都不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "思考未来新闻职业发展并比较各录取院校",
+          "conditional_assumptions": "如果没进梦校，我在新闻领域就不会成功",
+          "compensatory_strategies": "沉溺于“要是……就好了”的反事实思考，推迟选择与行动",
+          "automatic_thoughts": "我不可能在其他学校真正成功",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑是否向朋友或母亲表达失望并寻求支持",
+          "conditional_assumptions": "表达脆弱会被认为可笑或不配",
+          "compensatory_strategies": "社交回避、选择自我隔离来“自己消化”情绪",
+          "automatic_thoughts": "他们会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被理想学校接纳并在新闻事业中获得成功",
+        "fear": "害怕失败与被拒，担心被他人看不起或视为不够好",
+        "defense_goal": [
+          "通过疏离与压抑情绪来避免暴露脆弱和羞耻，借理智化维持控制感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被拒绝的失败者",
+          "object_representation": "理想学校/他人是严苛的评判者，只有他们的认可才算成功",
+          "linking_affect": "羞耻、失望、无助"
+        },
+        {
+          "self_representation": "害怕被嘲笑的求助者",
+          "object_representation": "朋友和母亲是可能看不起自己的评价者",
+          "linking_affect": "尴尬、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师鼓励其关注积极面或考虑已获得的录取机会时",
+          "interpretation": "潜意识认为咨询师在要求她忽视自己的痛苦、否认失败（移情：将支持体验为否定）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用“理论上……”等理性语言，语气平淡，降低情感表达，强调“我不确定能做到”。"
+        },
+        {
+          "trigger_condition": "当被问及是否愿意与亲友分享感受或寻求支持时",
+          "interpretation": "认为暴露脆弱会被嘲笑或看不起（移情：将他人视为潜在批评者）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回答、转移话题，强调“我自己处理”，语气克制，减少情感词汇。"
+        },
+        {
+          "trigger_condition": "当谈及九所录取与既有成就时",
+          "interpretation": "这些成就与自己无关或“没有意义”（移情：贬低积极的客体）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以平淡语气陈述事实，避免表达喜悦或自豪，快速转回到拒信话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将一次拒信视为“毁掉整个申请经历”和“职业已结束”",
+            "对九所录取难以产生意义感或情绪回应"
+          ],
+          "outcomes": [
+            "动力下降",
+            "专注力降低与写作受影响",
+            "睡眠模式紊乱",
+            "整体前景体验黯淡"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因羞耻而回避向母亲与密友倾诉",
+            "自我隔离，试图独自消化情绪"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "可用支持减少",
+            "负性情绪持续与加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "以“理论上……”的理性表述回避直接感受与积极面",
+            "谈到九所录取时迅速转回拒信"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "担心亲友会看不起自己或觉得自己可笑",
+            "推测他人会否定自己的情绪"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与自我限制，过度自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "将一次拒信视为自我价值不足",
+            "过度在意外部认可与“梦校”的评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界做出的行为冲动，转而对自己做。",
+          "manifestations": [
+            "选择自我隔离、独自处理情绪而不寻求支持",
+            "通过埋头阅读与写作来对自己施加控制而非对外联结"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "被九所大学录取，显示学术与写作能力与潜力",
+          "拥有母亲与几位密友的潜在支持网络",
+          "愿意寻求咨询并尝试认知重建与练习",
+          "保持阅读与写作的习惯，具备持续投入的基础"
+        ],
+        "negative_force": [
+          "消极认知偏差（否定积极、心理过滤、全或无思维）",
+          "对外部认可高度依赖，将自我价值与梦校绑定",
+          "羞耻与害怕被评价导致社交回避与孤立",
+          "反刍思维引发睡眠紊乱与注意力下降",
+          "高期望带来的压力与失望难以调节"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复沉思并执着于那封拒信",
+          "antecedent": [
+            "回想申请过程",
+            "看到或想到录取/拒信",
+            "被他人提及申请与未来规划"
+          ],
+          "core_reason": "心理过滤与否定积极，将自我价值与梦校绑定，灾难化地解读一次拒信",
+          "function": "逃避面对其他选择与不确定性，试图通过反复思考获得控制感",
+          "consequence": "加重失望与焦虑，认为前途黯淡，行动与决策受阻"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "当想到要与朋友或母亲谈论感受",
+            "被问及申请进展或未来计划"
+          ],
+          "core_reason": "羞耻与对负面评价的担忧（读心术），将失败与个人价值捆绑",
+          "function": "逃避被评价与羞耻感，维持脆弱的自尊边界",
+          "consequence": "人际关系紧张、支持减少，负性情绪持续并难以缓解"
+        },
+        {
+          "behavior": "学习与写作动机下降、注意力不集中",
+          "antecedent": [
+            "准备学习或写作时联想到拒信",
+            "在学业任务中自我比较梦校与其他学校"
+          ],
+          "core_reason": "全或无思维与灾难化导致自我效能感降低",
+          "function": "逃避失败感与无力感，短期避免任务带来的压力",
+          "consequence": "学业表现受影响，日常功能下降，职业发展延缓"
+        },
+        {
+          "behavior": "睡眠模式紊乱",
+          "antecedent": [
+            "夜间反复思考申请与未来职业",
+            "临睡前自我批评与担忧"
+          ],
+          "core_reason": "持续反刍与焦虑维持高唤醒水平",
+          "function": "避免直接体验失望情绪的放松与交付，短期维持警觉",
+          "consequence": "休息不足、白天疲惫，进一步降低专注与学习/写作效率"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 889
+}

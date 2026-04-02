@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "林瑶",
+      "gender": "女",
+      "occupation": "托儿所工作人员；在读大学生",
+      "educational_background": "攻读工商管理学位",
+      "marital_status": "恋爱中",
+      "family_status": "父亲是牙医，母亲是教师",
+      "social_status": "有支持性的伴侣，与家人关系密切；但在工作中因自我批评而与同事保持距离",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗；此前未出现类似问题",
+      "language_features": "表达清晰、逻辑连贯、配合度良好，明显自我苛责；情绪低落但能具体描述自身经历"
+    },
+    "main_problem": "我在托儿所工作时一直觉得自己是最差的指导老师，这种感觉始于我忘记带给孩子们的电影，导致他们很不高兴。",
+    "topic": "职业发展",
+    "core_demands": "工作中的事件让我意识到自己过度自我批评，因此寻求咨询以处理这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/是最差的指导老师",
+        "我会让他人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "在托儿所忘记带给孩子们的电影，孩子们因此感到不高兴",
+          "conditional_assumptions": "如果我在工作中出现错误，就说明我不胜任，不应该当指导老师",
+          "compensatory_strategies": "通过安排其他活动来补救以减少失望",
+          "automatic_thoughts": "我是最差的指导老师，我让大家失望了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作中出现任何小错误",
+          "conditional_assumptions": "如果我犯了小错，就意味着我在工作上什么都做不好",
+          "compensatory_strategies": "不断自我检视和苛责以避免再犯错",
+          "automatic_thoughts": "我太糟糕了，根本不该做这份工作",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同事相处或需要合作时",
+          "conditional_assumptions": "如果同事看到我的失误，他们就会认为我无能并看不起我",
+          "compensatory_strategies": "与同事保持距离、减少交流以避免暴露不称职",
+          "automatic_thoughts": "他们会看出我很不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "组织成功的活动后回顾工作表现",
+          "conditional_assumptions": "只有完全没有错误才算合格，好的表现不算数",
+          "compensatory_strategies": "忽视积极反馈，只关注错误",
+          "automatic_thoughts": "那些好的时刻也不能改变我不够好的事实",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任、被孩子与同事接纳",
+        "fear": "害怕被视为不称职、让他人失望并遭到评价或疏离",
+        "defense_goal": [
+          "通过严格自我要求与自我批评来预防失败与外界指责",
+          "保持与同事的距离以降低被看穿与被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让人失望的、不称职的自己",
+          "object_representation": "挑剔的评判者（同事、旁人）",
+          "linking_affect": "羞愧、焦虑"
+        },
+        {
+          "self_representation": "会伤害他人的失误制造者",
+          "object_representation": "容易被我失误伤害并失望的孩子",
+          "linking_affect": "内疚、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈及与同事的互动或被邀请检视他人真实看法时",
+          "interpretation": "潜意识将他人的反应理解为对自己不称职的评判（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受或冲动归咎于他人，认为他人持有这些负面看法",
+          "response_instruction": "以温和、探询的语气，邀请举例与证据区分猜测与事实；避免评判，逐步验证他人实际反馈。"
+        },
+        {
+          "trigger_condition": "当讨论自身错误或被指出积极表现时",
+          "interpretation": "将负面情绪与外界期待内化为对自我的猛烈指责，认为‘我让所有人失望’",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将原本指向外界的愤怒或批评转向自己，表现为自我否定与自我惩罚",
+          "response_instruction": "共情其内疚与羞愧，用支持性语言标注情绪；引导区分行为与价值，鼓励具体化错误与修正方案，减少全盘自责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在工作中与同事保持距离，担心被看出不称职",
+            "面对伴侣与家人时因尴尬而不愿分享困扰，害怕给他人带来负担"
+          ],
+          "outcomes": [
+            "社交支持减少与孤立感增强",
+            "工作压力与情绪低落加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与‘拥有’对应",
+          "manifestations": [
+            "认为同事会看出并评判自己的不称职",
+            "担心他人会因此看不起自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在过度的自我反省与自我限制，过于小心谨慎，与‘自主性’对应",
+          "manifestations": [
+            "频繁自我贴标签与苛责，难以接纳普通失误",
+            "在社交中退缩以避免暴露不足"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中发生失误或回想失误时，来访者通常会贴上‘我是最差的指导老师’的标签，忽视积极表现，并与同事疏离。",
+          "unique_outcome": "在某次成功组织了有趣的活动时，孩子们玩得很开心并给予正向反馈；当时她没有陷入‘最糟结论’，而是专注于活动执行与孩子反馈，体验到胜任感。",
+          "reason": "线索：不同做法——提前准备并细化活动流程；不同理解——将小小疏忽视为普通人性的失误而非能力的全盘否定；不同支持——实时看到孩子们的积极反应，形成正向证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的伴侣与家人关系良好",
+          "具备组织有趣活动的能力并曾获得孩子们的正向反馈",
+          "愿意求助并开始进行现实检验与记录成就的尝试",
+          "持续学习（在读工商管理学位），具备成长动机"
+        ],
+        "negative_force": [
+          "标签化、过度概括、个人化等认知偏差显著，易灾难化并否定正向证据",
+          "过度自我批评，自我价值依赖错误与他人评价",
+          "与同事保持距离、减少社会支持",
+          "羞愧与内疚感强，难以向伴侣和家人表达困扰"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作中自我贴标签与全盘否定（‘我是最差的指导老师’）",
+          "antecedent": [
+            "在托儿所工作时发生失误（如忘记带电影）",
+            "回顾并想到自己的小错误"
+          ],
+          "core_reason": "将单次失误过度概括为能力不足，强烈的责任心与害怕让他人失望推动自我否定",
+          "function": "通过自我批评来‘预防’再次失误并获得控制感，同时逃避被他人评价的焦虑",
+          "consequence": "工作表现与自信受损，情绪低落，日常生活受影响"
+        },
+        {
+          "behavior": "与同事的社交回避与保持距离",
+          "antecedent": [
+            "需要与同事合作或交流时",
+            "担心同事会看到自己的错误"
+          ],
+          "core_reason": "担心被评判为不称职，将他人可能的看法内化为威胁",
+          "function": "逃避被评判与尴尬，短期降低焦虑",
+          "consequence": "同事关系疏离，社会支持减少，压力上升"
+        },
+        {
+          "behavior": "忽视或贬低积极表现",
+          "antecedent": [
+            "在成功完成任务或获得正向反馈后回顾工作表现"
+          ],
+          "core_reason": "僵化的‘必须无错才算合格’的标准与自我监控过度",
+          "function": "维持自我要求的高标准以避免被指责",
+          "consequence": "自我效能感下降，正向体验被削弱，情绪低落加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1629
+}

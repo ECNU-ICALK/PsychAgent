@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "李博文",
+      "gender": "男性",
+      "occupation": "运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母及一名年幼的兄弟姐妹同住",
+      "social_status": "与队友关系因自我怀疑而紧张；有朋友与父母的支持资源，但尚未充分分享自己的自我怀疑与无能感",
+      "medical_history": "未曾出现类似心理问题；无既往心理治疗或咨询经历；无重大身体疾病",
+      "language_features": "表达清晰、能自我反思，配合度高；情绪紧张但保持希望与合作态度"
+    },
+    "main_problem": "在今天的接力赛失利后，我觉得自己是一个糟糕的跑者，进而产生无能感与自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "这些无能感正在影响我继续跑步的动机并影响我的整体身心健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的跑者",
+        "我不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "今天的接力赛失利",
+          "conditional_assumptions": "如果一场比赛输了，就说明我整体能力很差",
+          "compensatory_strategies": "加倍训练、在练习中逼迫自己更努力以证明自己",
+          "automatic_thoughts": "我是一个糟糕的跑者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在比赛表现不如自己预期之后的时刻",
+          "conditional_assumptions": "如果没有达到我设定的成绩，就意味着我失败了",
+          "compensatory_strategies": "在练习中把自己推得更狠来弥补不足",
+          "automatic_thoughts": "如果我又搞砸怎么办？",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与队友互动时想到自己拖累了团队",
+          "conditional_assumptions": "如果我表现不好，就会让队友失望并拖累团队",
+          "compensatory_strategies": "变得更为退缩、减少与队友交流以避免被评价",
+          "automatic_thoughts": "我让他们失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "投入大量训练但仍未获得理想结果的情境",
+          "conditional_assumptions": "如果努力了仍失败，说明我根本不够胜任",
+          "compensatory_strategies": "继续加倍训练来证明自己，同时忽视或贬低以往的成功",
+          "automatic_thoughts": "努力也没用，我就是不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的跑者，赢得队友与自我肯定",
+        "fear": "害怕失败、让队友失望并被他人负面评价",
+        "defense_goal": [
+          "通过自我撤回来减少被评判与失望的可能",
+          "通过更刻苦训练来控制焦虑并证明自己"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让队友失望的失败者",
+          "object_representation": "被我拖累、会对我失望的队友",
+          "linking_affect": "内疚、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到比赛失利或团队表现，或感到他人关注自己的表现时",
+          "interpretation": "倾向于认为他人会对自己失望、负面评价（将自我批判投射到他人身上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹疑、防御性增强，重复自我否定的判断，难以讨论具体证据，倾向于简短回答以回避深入探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "投入大量练习却失败，体验为“所有努力都不重要”",
+            "开始失去跑步的乐趣与意义感"
+          ],
+          "outcomes": [
+            "动机下降",
+            "兴趣减退",
+            "日常训练受扰"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自我怀疑变得更为退缩",
+            "与队友的互动减少、关系紧张"
+          ],
+          "outcomes": [
+            "团队关系受损",
+            "孤立感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责，给自己贴上“糟糕的跑者”的标签",
+            "难以接纳队友的正向反馈与安慰"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "变得更为退缩，减少与队友交流",
+            "将失望与压力转向自责与加倍训练"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾赢得比赛并取得个人最佳，具备真实能力与正向证据",
+          "拥有父母与朋友的社会支持资源",
+          "愿意寻求咨询并进行记录与重构思维，态度积极",
+          "训练投入度高、纪律性较好"
+        ],
+        "negative_force": [
+          "过度概括与非黑即白思维导致全盘否定自我",
+          "个人化倾向，将团队结果与他人感受归咎于自身",
+          "关注失败、忽视正面证据，强化自我怀疑",
+          "赛后自我撤回，减少与队友的互动与支持",
+          "对未来失败的预测加剧焦虑与动机下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "比赛后出现强烈的自我否定与退缩",
+          "antecedent": [
+            "比赛表现不如预期",
+            "反复回想比赛失误",
+            "想到“如果我又搞砸怎么办”"
+          ],
+          "core_reason": "接力赛失利后形成的过度概括、个人化与非黑即白的认知，将一次失败解释为整体无能",
+          "function": "逃避被评判与再次失败的风险，暂时保护自尊心",
+          "consequence": "训练动力下降、日常作息与锻炼计划被打乱；与队友关系紧张、团队配合受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 679
+}

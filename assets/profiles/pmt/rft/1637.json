@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "陈宇",
+      "gender": "男",
+      "occupation": "IT专业人员",
+      "educational_background": "信息技术学位",
+      "marital_status": "与男友同居5年",
+      "family_status": "原籍伦敦，现居奥地利维也纳",
+      "social_status": "有一位最好的朋友可倾诉关系问题",
+      "medical_history": "此前无类似心理问题与治疗经历；无显著身体疾病",
+      "language_features": "表达清晰、逻辑性较好、配合度高，能进行自我反思与证据检视；语气平和"
+    },
+    "main_problem": "我持续害怕我的男友不再爱我，虽然我们已经在一起5年。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这份恐惧正在影响我的心理健康和我们的关系，因此寻求咨询以解决这种恐惧。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被爱",
+        "我会被伴侣抛弃"
+      ],
+      "special_situations": [
+        {
+          "event": "晚上本应一起相处时，男友仍专注于工作",
+          "conditional_assumptions": "如果他在我们相处的时间选择工作，说明他不爱我、关系在恶化",
+          "compensatory_strategies": "强烈关注他是否给予陪伴，反复与其沟通并请求更多言语表达来获得确认",
+          "automatic_thoughts": "他不爱我了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "男友表示想一个人待着、需要独处",
+          "conditional_assumptions": "如果他选择独处，就是在疏远我、准备离开我",
+          "compensatory_strategies": "再次与他谈话表达自己的担忧与需求，寻求保证以缓解不安",
+          "automatic_thoughts": "他要离开我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "男友说“我爱你”的频率明显下降",
+          "conditional_assumptions": "爱必须通过频繁的言语肯定来证明；如果他不常说，就表示不再爱我",
+          "compensatory_strategies": "直接要求更多口头肯定，反复确认他是否爱我",
+          "automatic_thoughts": "他不再爱我了",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "男友有时选择工作而不是与我共度时光",
+          "conditional_assumptions": "如果他不优先选择我，就说明我对他不重要、他不爱我",
+          "compensatory_strategies": "忽视他以其他方式表达关心的证据，继续聚焦负面线索以寻求确定性",
+          "automatic_thoughts": "我对他而言不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被稳定而明确地爱与肯定（尤其是言语上的“我爱你”）",
+        "fear": "害怕被拒绝与被抛弃，担心亲密关系突然失去",
+        "defense_goal": [
+          "通过不断寻求言语确认与陪伴来维持关系安全、降低被抛弃的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "在关系中感到不被爱的、不安全的伴侣",
+          "object_representation": "冷淡/疏离、被工作占据、较少言语表达的伴侣",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问其证据并挑战“他不爱我/会离开我”的想法，或讨论男友忙碌、减少说“我爱你”时",
+          "interpretation": "来访者倾向将对方的沉默与忙碌理解为拒绝与疏离（移情：将内在不安投向对方意图）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以焦虑而求证的语气反复强调“他不爱我”，请求确认与安慰；在被挑战时给出表面合理化解释，但仍回到担忧的主题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在亲密关系中强烈依赖对方的言语肯定以对抗孤独与不安全感",
+            "当男友忙于工作或选择独处时显著触发孤独感与被忽视的体验"
+          ],
+          "outcomes": [
+            "关系焦虑与不安全感增加",
+            "关系紧张与沟通压力上升",
+            "注意力下降、工作表现受影响",
+            "晚间焦虑加重、日常生活受干扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“爱需要频繁口头肯定”视为关系的硬性标准",
+            "倾向以“他应该更常说‘我爱你’”来衡量亲密与安全"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复担心关系、谨慎求证，但仍难以放下焦虑",
+            "担心沟通后也不会改变，从而持续监控对方表达与行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "伴侣在非言语层面依然体贴与周到（关注与照顾仍存在）",
+          "有一位最好的朋友可提供情感支持与倾诉渠道",
+          "愿意主动寻求专业帮助并配合记录、证据检视等练习",
+          "能识别自动化思维并考虑替代解释（认知灵活性一定程度存在）"
+        ],
+        "negative_force": [
+          "过度依赖外部言语肯定（External Validation）作为爱的唯一证明",
+          "认知扭曲：Jumping to Conclusions/Mind Reading",
+          "对不确定性的耐受度低，晚间焦虑显著",
+          "持续担忧导致注意力受损、工作表现下降并加剧关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关系焦虑与反复担心“伴侣不爱我/将离开我”",
+          "antecedent": [
+            "晚上与伴侣相处时更易被触发",
+            "伴侣忙于工作、减少陪伴",
+            "伴侣选择独处",
+            "伴侣减少说“我爱你”的频率"
+          ],
+          "core_reason": "将言语肯定视为爱与关系安全的核心标准，依赖外部验证；存在“Jumping to Conclusions/Mind Reading”的认知偏差",
+          "function": "寻求安慰与确认，以获得安全感并维持亲密；逃避不确定性与孤独感",
+          "consequence": "工作表现下降、关系紧张、注意力受损，日常生活受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1637
+}

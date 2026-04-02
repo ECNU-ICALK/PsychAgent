@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "王月",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无心理咨询或治疗史；无重大躯体疾病史；此前未出现类似问题",
+      "language_features": "表达清晰，能描述焦虑与饮食担忧；思维存在灾难化、非黑即白与过度概括；在咨询中配合度较高，能进行认知重构；语气紧张，常陷入反复担忧。"
+    },
+    "main_problem": "我一直在经历与饮食习惯和体重增加相关的强烈焦虑。这种焦虑始于大约一周前，当时我连续多天吃了快餐。我确信这种饮食模式会让我在临近冬季时变得肥胖，并且吃快餐一定会不健康。",
+    "topic": "情绪管理",
+    "core_demands": "不断升级的焦虑与对体重增加的执念促使我寻求咨询，以处理这些认知歪曲及其对我日常生活的影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有严格、完美的饮食才能保证健康与不增重",
+        "短期的不良饮食必然导致严重后果（肥胖与不健康）"
+      ],
+      "special_situations": [
+        {
+          "event": "连续数天食用快餐后反复回想这段饮食",
+          "conditional_assumptions": "如果我在一周内吃了多次快餐，就必然会增重并变得不健康",
+          "compensatory_strategies": "考虑采取极端节食或过度锻炼来“抵消”快餐影响",
+          "automatic_thoughts": "我一定会变成肥胖而且不健康",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "临近冬季的时节到来",
+          "conditional_assumptions": "冬季更容易长胖；如果现在不立刻严格控制饮食，到了冬天我必然会变得肥胖",
+          "compensatory_strategies": "制定过于严苛的饮食规则，试图完全避免快餐",
+          "automatic_thoughts": "冬天一到我一定会更胖",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在做食物选择时（决定吃什么）",
+          "conditional_assumptions": "一次“错误”的选择会彻底破坏我的健康与体重管理",
+          "compensatory_strategies": "追求完美饮食、过度监控与自我苛责，避免一切“不健康”的食物",
+          "automatic_thoughts": "如果我再选错一次，就彻底完蛋了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "把注意力只集中在最近吃的快餐，忽略其他饮食与证据",
+          "conditional_assumptions": "负面证据比正面更重要；只要最近吃得差就说明整体很糟",
+          "compensatory_strategies": "反复核查并纠结于快餐摄入，否定任何积极或缓冲因素",
+          "automatic_thoughts": "我最近一直吃得很差，这说明我已经走向肥胖",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过可控、完美的饮食来获得健康与安全感",
+        "fear": "害怕失去控制导致肥胖、被自己否定、生活变得不健康",
+        "defense_goal": [
+          "通过制定僵化规则、严密自我监控来降低焦虑并避免“错误”选择"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不愿暴露脆弱、倾向独自承受焦虑者",
+          "object_representation": "可能不理解或会评判自己的他人（朋友/家人）",
+          "linking_affect": "焦虑、羞耻、回避"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以僵化的饮食规则约束自我，将“吃快餐一定不健康”视为绝对真理",
+            "对一次选择的失误无法容忍，用“必须/一定”式规则自我要求"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "对秋冬季节的享受下降与生活质量受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在选择食物时过度谨慎，担心做错选择后会“彻底失败”",
+            "以严格规则评判自己，倾向于过度监控与自我苛责",
+            "不愿与朋友或家人谈论焦虑，独自承受压力"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“吃快餐就必然不健康”的规则视为绝对真理",
+            "使用“必须/一定”式语言与信念来约束自我选择"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "能意识到“逻辑上”一周快餐不一定产生灾难性后果",
+          "愿意寻求咨询以处理认知歪曲并尝试认知重构",
+          "愿意设定现实可行的饮食与健康目标",
+          "具备实施具体计划的意愿（例如规划均衡餐食）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括、心理过滤等认知歪曲显著",
+          "对冬季体重的预测性担忧与不确定性难以承受",
+          "过度自我监控与自我苛责，使用僵化规则约束自我",
+          "社交支持利用度低（目前不愿与亲友谈论焦虑）",
+          "注意力过度聚焦近期快餐经历，忽视积极或中性证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对体重增加与健康的过度焦虑及灾难化思维",
+          "antecedent": [
+            "连续数天食用快餐后反复回想该经历",
+            "临近冬季",
+            "在决定吃什么时"
+          ],
+          "core_reason": "将短期不良饮食过度概括为必然导致肥胖与不健康的结果，并以非黑即白的规则评价自我",
+          "function": "通过担忧与严苛自我监控来避免感知到的健康风险与后果，获得短暂的控制感",
+          "consequence": "持续高焦虑，降低对日常生活与秋冬季节的享受，诱发极端饮食或过度锻炼的念头"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1298
+}

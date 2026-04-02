@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "李佩琪",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "未接受过心理咨询，无重大躯体疾病",
+      "language_features": "表达清晰，能配合并进行自我反思；语气中性偏焦虑，倾向反复回想负面事件并以绝对化语言自我评价"
+    },
+    "main_problem": "在上次古董展错过了想买的娃娃后，我感到极度失望和难过，并把整次经历视为糟糕；这种失望与灾难化思维持续反复，影响了我的日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "希望识别并挑战自己的灾难化与极端化思维，探索证据与重构认知，练习更现实平衡的看法，从而改善心理健康与日常功能。",
+    "growth_experiences": [
+      "童年时期对娃娃有情感依恋并保留了一些收藏；此次古董展上的娃娃唤起了童年的情感联系，使得错过该娃娃被主观体验为“个人失败”。",
+      "既往未经历过类似程度的强烈失望与负性思维，此次古董展事件成为显著触发点。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我做什么都做不好",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在古董展上心仪的娃娃被他人买走",
+          "conditional_assumptions": "如果没有达成自己设定的目标（一定要买到那个娃娃），就等于我失败了",
+          "compensatory_strategies": "以全或无的标准评判经历，将当日目标绝对化以证明自己有能力",
+          "automatic_thoughts": "我搞砸了，连这么简单的事情都做不好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "古董展结束后的几周里，每次想到该事件就反复回放细节",
+          "conditional_assumptions": "如果出现一个关键失误，整个经历就没有价值",
+          "compensatory_strategies": "通过反复回想并挑选负面细节来试图获得解释与控制感，同时回避与朋友深入讨论感受",
+          "automatic_thoughts": "那天完全是一场失败，没什么值得记住的",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "近期一次小失误（把晚餐烧糊）",
+          "conditional_assumptions": "如果我做错一点点，后面的整个时间都会被毁掉",
+          "compensatory_strategies": "以灾难化方式评价结果并自责，强化“避免犯错”的严苛内在规则",
+          "automatic_thoughts": "整个晚上都毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在生活中遇到小挫折或不如意时",
+          "conditional_assumptions": "一次失败说明我总是会失败，证明我能力不足",
+          "compensatory_strategies": "将注意力集中在失败证据上以证实自我判断，忽略积极面",
+          "automatic_thoughts": "我什么都做不好，事情总是出错",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过达成重要目标来确认自我价值与能力，被看到并认可",
+        "fear": "害怕失败与不被认可，担心被视为不够好",
+        "defense_goal": [
+          "通过自责与绝对化标准维持控制感，避免暴露脆弱与失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "做不好的失败者",
+          "object_representation": "更快且更能干、会夺走机会的他者",
+          "linking_affect": "失落、挫败、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请李佩琪回顾错过娃娃或近期小失误，并探询其责任归因时",
+          "interpretation": "倾向将偶发的外部事件解读为自己能力不足，应由自己承担全部责任（移情：将失败归咎于自身）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语言以自责为主，使用绝对化表述（如“都是我搞砸了”）；语气低落，少讨论外部因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中多次以绝对化语言自我评价（如“我什么都做不好”）",
+            "更容易先关注负面证据，难以自发认可积极面",
+            "在日常生活中未与朋友深入讨论自己的情绪与失望"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在遇到不如意事件后，李佩琪通常会灾难化并将整段经历视为失败，从而情绪低落并持续反刍。",
+          "unique_outcome": "在古董展当天，虽然错过了心仪的娃娃，但她仍享受了观赏其他古董、与人交流的过程，并找到并购买了几件自己喜欢的小物件；这与“整天都是失败”的旧反应不同。",
+          "reason": "不同情境与线索：当日存在愉快的互动与其他收获（看见心仪的其他古董、遇见有趣的人、找到小物件），这些积极体验为非灾难化叙事提供了证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能在回顾中识别并陈述当日的积极面（找到小物件、结识有趣的人）",
+          "愿意练习更平衡的视角与现实检验",
+          "具备一定的社会支持（有几位朋友可谈）"
+        ],
+        "negative_force": [
+          "灾难化倾向与全或无思维模式",
+          "心理过滤与否定积极面的习惯",
+          "反复回放事件的反刍模式",
+          "自我否定与把失败完全归因于自身"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化评价与反刍思维（反复回放负面事件，并以全或无方式自我否定）",
+          "antecedent": [
+            "在古董展上错过心仪娃娃",
+            "日常小失误（如把晚餐烧糊）",
+            "事后回想并聚焦负面细节"
+          ],
+          "core_reason": "将未达成目标解释为“个人失败”，受全或无思维、心理过滤与过度概括等认知偏差驱动，以自责维持对结果的“控制感”。",
+          "function": "逃避直面失望与不确定感，通过自责与灾难化获得暂时的解释与掌控感；同时试图以严苛标准预防未来失误。",
+          "consequence": "情绪低落与焦虑增加，难以看到积极面，影响日常生活与幸福感。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1143
+}

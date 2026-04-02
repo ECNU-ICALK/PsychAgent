@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "61",
+      "name": "韩力",
+      "gender": "男",
+      "occupation": "小学教师",
+      "educational_background": "美国文学与教育专业",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与朋友的关系因持续关注负面结果而紧张；有少数朋友可谈一般问题，但未谈论具体负面想法",
+      "medical_history": "无显著躯体疾病；既往无心理治疗或精神科治疗史；过去未出现类似问题",
+      "language_features": "表达清晰，能具体描述周末体验与想法；倾向否定积极、只关注负面；对建议持怀疑态度；配合度一般"
+    },
+    "main_problem": "我经常否定生活中的积极方面，专注于负面结果，例如认为自己永远无法在阿巴拉契亚徒步，这使我产生不满与绝望感。",
+    "topic": "情绪管理",
+    "core_demands": "持续的负面思维与对当前处境的不满促使我寻求咨询，以改善心理健康。",
+    "growth_experiences": [
+      "几年前搬到大城市后无法继续以往习惯的徒步活动，周末常感到与自然脱节、空虚与失落；在搬家前，徒步为我带来自由与快乐。随时间推移，这种失落持续存在，影响了周末的享受并造成与朋友关系的紧张（因我持续关注负面结果）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "生活没有意义",
+        "我不可能实现自己真正想要的事情（如在阿巴拉契亚徒步）"
+      ],
+      "special_situations": [
+        {
+          "event": "周末计划去附近的公园，但想到与阿巴拉契亚徒步相比“毫不相同”，于是取消外出",
+          "conditional_assumptions": "如果活动达不到理想标准（阿巴拉契亚徒步），做了也没有意义",
+          "compensatory_strategies": "回避外出、待在家以避免失望感",
+          "automatic_thoughts": "去附近公园没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在城市周边的小径徒步时，持续与阿巴拉契亚进行比较，体验被负面想法掩盖",
+          "conditional_assumptions": "只有在阿巴拉契亚徒步才算真正的快乐，其他替代活动都不值得",
+          "compensatory_strategies": "在活动中进行负面比较并贬低体验",
+          "automatic_thoughts": "这些小径不值得走，我只会更失望",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到未来旅行计划时，预言自己永远不能去阿巴拉契亚徒步",
+          "conditional_assumptions": "既然现在住在大城市、条件有限，未来也必然无法实现理想",
+          "compensatory_strategies": "不制定可行计划、陷入消极预言以避免希望被打破",
+          "automatic_thoughts": "我永远去不了阿巴拉契亚",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "反思当前生活的积极面（稳定工作、朋友）时立刻觉得这些“微不足道”",
+          "conditional_assumptions": "除徒步外的积极因素都不重要、无法带来真正满足",
+          "compensatory_strategies": "否定积极、只关注失去的部分",
+          "automatic_thoughts": "这些积极面都不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由并与自然深度连接（在徒步中获得的自由与快乐）",
+        "fear": "害怕失去这种连接而使生活变得空虚与无意义",
+        "defense_goal": [
+          "通过贬低替代活动与积极面来避免再次感到失望",
+          "保持疏离与回避以降低焦虑与挫败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被剥夺自由的失落者",
+          "object_representation": "城市/环境是限制和阻隔自由的力量",
+          "linking_affect": "失落、挫败、空虚"
+        },
+        {
+          "self_representation": "消极、难以被理解的人",
+          "object_representation": "朋友是无法理解自己、与自己疏远的他者",
+          "linking_affect": "疏离、不满"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其识别并承认当前生活的积极面或提出替代活动（如参观艺术展）时",
+          "interpretation": "认为这些积极面“微不足道/不真诚”，替代活动“没有意义”，难以相信会带来改变（移情：对他人建议持不信任与贬低）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以谨慎、怀疑的语气回应，强调“这不一样/没意义”，用理由解释为何积极面不重要，避免深入情感层面"
+        },
+        {
+          "trigger_condition": "当咨询师提出进行行为实验或尝试以开放心态参与新活动时",
+          "interpretation": "将尝试等同于“不会改变什么”，提前断定结果无效（移情：将期待转化为失望的预设）",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "用简短、否定性的表述（如“没用”“不会有变化”），保持保留态度，减少对新体验的投入"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "周末感到空虚与“没有意义”",
+            "认为替代活动都不值得做",
+            "贬低当前生活的积极面"
+          ],
+          "outcomes": [
+            "不满与绝望感",
+            "回避周末活动",
+            "关系疏远"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在徒步中感到自由与快乐；搬到大城市后感到被困",
+            "与自然的连接中断，体验受限"
+          ],
+          "outcomes": [
+            "挫败与失落",
+            "对替代活动的回避",
+            "生活满足感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与接受对应。",
+          "manifestations": [
+            "在咨询中避免直接接触积极面，迅速转回“这不一样/没有意义”的比较",
+            "当被邀请尝试新活动时，以怀疑语气淡化其可能的价值"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以僵化标准看待体验：只有阿巴拉契亚徒步才算“真正快乐”",
+            "对其他活动一概以“达不到理想标准”为由否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有稳定的工作与基本社会支持（有少数朋友）",
+          "对自然与徒步有明确的兴趣与价值感",
+          "愿意尝试以开放但谨慎的态度参与新活动（如艺术展）",
+          "问题未显著影响工作表现，功能保留"
+        ],
+        "negative_force": [
+          "否定积极与全或无思维导致体验收窄",
+          "预测未来、预设失败（“永远去不了阿巴拉契亚”）",
+          "与自然脱节带来的持续失落与空虚",
+          "回避替代活动，周末活动减少",
+          "人际关系因持续关注负面而紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "周末回避外出与替代户外活动（如附近公园、城市小径）",
+          "antecedent": [
+            "周末有空闲时间",
+            "想到与阿巴拉契亚徒步的差距",
+            "计划外出前的负面比较"
+          ],
+          "core_reason": "迁居大城市后与自然脱节，伴随全或无思维与否定积极的认知偏差，使其将替代活动视为“没有意义”，以避免失望",
+          "function": "逃避失望与不满足的情绪，维持短期情绪控制",
+          "consequence": "周末活动减少、空虚感加重，强化负性认知循环"
+        },
+        {
+          "behavior": "在人际互动中持续强调负面结果、贬低积极，导致关系疏远",
+          "antecedent": [
+            "与朋友交流近况或活动计划",
+            "他人提出积极建议或替代安排"
+          ],
+          "core_reason": "长期的负性过滤与“否定积极”认知方式，试图通过预设失败降低期望以自我保护",
+          "function": "获得自我一致的认知确认、避免被他人期望“拉高”带来的焦虑",
+          "consequence": "人际关系紧张与疏远，减少社会支持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 268
+}

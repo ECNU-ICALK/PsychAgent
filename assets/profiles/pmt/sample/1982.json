@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "陈涛",
+      "gender": "男",
+      "occupation": "学生（未来的护士）",
+      "educational_background": "正在攻读护理学位",
+      "marital_status": "单身",
+      "family_status": "居住在城市",
+      "social_status": "有一群支持性的朋友，但他觉得他们并不完全理解自己对城市生活的困扰",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著身体疾病",
+      "language_features": "表达清晰、逻辑性尚可；配合度高、态度积极；情绪以挫败与绝望为主；存在灾难化与非黑即白思维倾向"
+    },
+    "main_problem": "因居住在城市感到被困，认为自己永远无法搬到郊区，持续产生挫败与绝望感，影响学业、人际与日常动力。",
+    "topic": "情绪管理",
+    "core_demands": "“这些挫败感影响了我的整体幸福感和动力，促使我寻求咨询。”；“我需要一些关于如何推进的指导。”",
+    "growth_experiences": [
+      "为上大学搬到城市，原本以为只是暂时；随着时间推移，感到愈发被困与无力，认为缺乏机会与经济条件无法搬去郊区；看到朋友计划搬到其他地区时，这种被困感加重；虽有支持性朋友，但自觉他们无法充分理解自己的感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法改变自己的处境",
+        "未来对我不利，我实现心愿（搬到郊区）是不可能的"
+      ],
+      "special_situations": [
+        {
+          "event": "看到朋友计划搬到不同地区或更理想的居住地",
+          "conditional_assumptions": "如果我不能像朋友那样搬走，就说明我失败、会被落下，并且会一直被困在这里",
+          "compensatory_strategies": "频繁向朋友表达对城市的不满以宣泄情绪，同时减少对实际搬迁规划的投入",
+          "automatic_thoughts": "我不如他们，我会一直被困在这里",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "关注搬家费用与当前收入不足（如查看租房价格、预算）",
+          "conditional_assumptions": "如果现在没有足够的钱，就永远无法搬到郊区",
+          "compensatory_strategies": "不制定具体行动计划，陷入反复担忧与回避",
+          "automatic_thoughts": "我根本不可能负担得起搬家",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在嘈杂拥挤的城市环境中通勤或日常生活",
+          "conditional_assumptions": "只有住在郊区才算过上更好的生活；在城市就注定痛苦",
+          "compensatory_strategies": "理想化郊区生活、忽视当前环境中的任何积极面或可行选择",
+          "automatic_thoughts": "我在这里永远不会快乐",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "被提醒或想到需要采取具体步骤（如搜寻房源、制定储蓄计划）",
+          "conditional_assumptions": "如果尝试后失败，就证明我无能并更绝望，因此最好不要轻易尝试",
+          "compensatory_strategies": "拖延、避免行动以降低失败与失望的风险",
+          "automatic_thoughts": "做了也没用，我对处境没有控制力",
+          "cognitive_pattern": "Control Fallacy"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由与自我选择的权利（能搬到更宁静的郊区生活）",
+        "fear": "害怕尝试失败、被现实拒绝与继续被困，失去掌控感",
+        "defense_goal": [
+          "通过强调客观障碍并不采取行动来降低失败和失望的风险",
+          "保持现状以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无力、被困的个体",
+          "object_representation": "城市/环境是限制与拒绝的力量",
+          "linking_affect": "挫败、绝望"
+        },
+        {
+          "self_representation": "被误解的倾诉者",
+          "object_representation": "朋友是无法理解的旁观者",
+          "linking_affect": "孤独、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出具体行动建议或询问可行性计划（如研究房源、制定储蓄方案）时",
+          "interpretation": "感到对方在推动自己面对可能的失败，认为外部障碍决定一切，自己难以掌控",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用冷静理性的语气强调经济与机会的限制，弱化情绪表达，提出诸多“现实原因”以暂缓行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "长期感到被城市生活困住、无法自主选择居住地",
+            "预测自己永远无法搬到郊区",
+            "将郊区生活视为通往“更好生活”的唯一途径"
+          ],
+          "outcomes": [
+            "挫败与绝望情绪",
+            "动机下降与学业受影响",
+            "与朋友关系紧张、社交体验变差"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本欲对外采取的行为冲动，转而将能量对向自身，往往表现为自我压抑、反刍或自我伤害。",
+          "manifestations": [
+            "长期反刍“无法搬家”的想法而不采取外向行动",
+            "把对城市的不满转化为自我停滞（不进行信息搜集或尝试）"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "把“必须有足够钱才可搬家”视为不可动摇的绝对规则",
+            "将“在城市就不可能过上更好生活”当作铁律，忽视可能的中间选项"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友群体（可作为情感与信息支持潜力）",
+          "有清晰的居住目标与偏好（向郊区搬迁）",
+          "正在攻读护理学位，具备一定的长期规划与自律基础",
+          "能主动寻求帮助与咨询，愿意尝试小步行动"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知偏差显著",
+          "过度反刍与回避行动，维持停滞",
+          "自我效能感低，倾向外控归因（认为“一切都在与我作对”）",
+          "与他人比较导致自卑与绝望（Comparing and Despairing）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕“无法搬到郊区”的反复反刍与持续性绝望情绪",
+          "antecedent": [
+            "看到朋友计划搬家或谈论居住选择",
+            "查看房租、预算等经济信息时",
+            "在嘈杂拥挤的城市环境中通勤或居住时"
+          ],
+          "core_reason": "灾难化与预测未来的认知导致自我效能感低，认为自己无法改变处境",
+          "function": "逃避不确定性与行动压力，短期缓解焦虑",
+          "consequence": "学业表现受损、人际关系紧张、日常动力与享乐感下降"
+        },
+        {
+          "behavior": "回避与不行动（不进行信息搜集、预算规划或实地考察）",
+          "antecedent": [
+            "当想到需要制定具体搬迁步骤或面临实际操作时",
+            "被提醒或自觉应采取行动时"
+          ],
+          "core_reason": "害怕失败与被现实拒绝，借助合理化外部障碍来降低焦虑",
+          "function": "即时减少失败与失望的风险感，维持心理安全感",
+          "consequence": "问题维持与停滞，绝望感加重，生活质量持续下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1982
+}

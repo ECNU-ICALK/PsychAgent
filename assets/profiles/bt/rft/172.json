@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "李曼",
+      "gender": "女",
+      "occupation": "医学院二年级学生",
+      "educational_background": "攻读医学学位",
+      "marital_status": "离异",
+      "family_status": "有两个孩子，居住在路易斯安那州，信仰印度教；母亲擅长烘焙",
+      "social_status": "拥有支持性的母亲和一些朋友，但对表达内疚与自责有所犹豫",
+      "medical_history": "无重大躯体疾病史；既往未接受心理治疗或心理问题相关处理",
+      "language_features": "表达清晰、逻辑性尚可；语气消极，常以自责与失败标签描述自我；能识别自动化思维并尝试更平衡的表述；配合度较好"
+    },
+    "main_problem": "我觉得自己是个糟糕的妻子，因为我有两个孩子却离婚了，这种思维导致内疚与自责。",
+    "topic": "婚姻关系",
+    "core_demands": "我决定寻求咨询，因为这些内疚与自责开始影响我的学业表现和日常功能。",
+    "growth_experiences": [
+      "两年前经历离婚，婚姻与家庭的破裂带来高压与强烈情绪；自此长期被内疚与自责困扰，持续认为自己在婚姻上失败，影响自尊与总体情绪，进而干扰学业表现与日常任务与自我照料，并导致在建立新的人际/亲密关系上出现困难。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不是称职的伴侣/母亲"
+      ],
+      "special_situations": [
+        {
+          "event": "回想离婚与过去的婚姻经历",
+          "conditional_assumptions": "如果我没能维持婚姻，就证明我作为伴侣是失败的",
+          "compensatory_strategies": "将精力埋在学业中、用自我批评来“监督”自己以弥补失败",
+          "automatic_thoughts": "我就是个糟糕的妻子/我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "尝试建立新关系或向他人谈及离婚",
+          "conditional_assumptions": "如果他人知道我离过婚，他们会看不起我或拒绝我",
+          "compensatory_strategies": "回避社交与自我暴露，减少与亲友深入交流",
+          "automatic_thoughts": "他们会觉得我不配、不值得信任",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面临学业压力或注意到成绩受影响时",
+          "conditional_assumptions": "如果我的学业不够完美，就说明我一无是处",
+          "compensatory_strategies": "加倍学习、埋头做任务以控制焦虑",
+          "automatic_thoughts": "我的生活正在走下坡路，我会一直失败下去",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与孩子相处时想到家庭破裂",
+          "conditional_assumptions": "如果孩子因为离婚受到影响，那都是我个人的过错",
+          "compensatory_strategies": "过度自责，并通过更多陪伴来弥补感到的亏欠",
+          "automatic_thoughts": "我让孩子受苦，这是我的责任",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为称职且被接纳的伴侣与母亲，拥有稳定的亲密关系与自我价值感",
+        "fear": "害怕再次被评判为失败、被拒绝，担心伤害孩子或重演关系破裂",
+        "defense_goal": [
+          "通过回避新关系与压抑表达来降低被评判与被拒绝的风险",
+          "以自我批评维持控制感与补偿失败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的妻子/不称职的母亲",
+          "object_representation": "他人（潜在伴侣、亲友）是批判者/评判者",
+          "linking_affect": "羞耻、内疚、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当考虑建立新关系或向他人倾诉离婚经历时",
+          "interpretation": "认为对方会像社会或前任那样评判自己（移情：将自我羞耻投射到他人）",
+          "defense_mechanism": "sring",
+          "defense_definition": "投射：将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用含糊与保留的语气，降低自我披露，避免深入探讨感受，转向中性话题或结束对话。"
+        },
+        {
+          "trigger_condition": "当被邀请权衡正负证据、尝试更平衡的自我表述时",
+          "interpretation": "将重构视为“在为自己找借口”，担心这会使自己变得不负责任",
+          "defense_mechanism": "sring",
+          "defense_definition": "合理化：为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调离婚是决定性证据，使用“应该/必须”的僵化句式否定积极例证；语气严苛、坚持自我指责立场。"
+        },
+        {
+          "trigger_condition": "当谈及离婚与孩子而情绪涌现时",
+          "interpretation": "认为表达情绪会给他人带来负担或让自己失控，因此将情绪和攻击性转回到自我身上",
+          "defense_mechanism": "sring",
+          "defense_definition": "转向自身：将对外的愤怒或攻击性转向自己，导致自我批评或抑郁。",
+          "response_instruction": "以自我贬损、道歉式语言表达；避免指认外部因素与现实限制，强化自责并结束话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "离婚后长期感到羞耻与失败，犹豫向支持系统（母亲与朋友）表达情绪",
+            "难以建立新的关系，担心被评判与拒绝"
+          ],
+          "outcomes": [
+            "自尊受损与内疚自责",
+            "情绪低落与反刍",
+            "学业与日常功能下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制与苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁以“失败者/糟糕的妻子”给自己贴标签",
+            "过分在意他人可能的评价，降低自我披露与求助"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本欲向外发出的能量转向自己，克制表达或寻求他人帮助。",
+          "manifestations": [
+            "感到羞耻而不与母亲和朋友谈及内疚与自责",
+            "通过加倍投入学业来压抑情绪、独自承担"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为他人会看不起自己（离过婚、有两个孩子）",
+            "担心在新关系中被拒绝或评判而回避接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在反思离婚与过往关系时，来访者通常会陷入“我是失败者/糟糕的妻子”的反刍，情绪低落并难以专注学习。",
+          "unique_outcome": "在与孩子相处的某些时刻，来访者未陷入自责，能够体验到“我是个好妈妈”的感受，并与孩子产生更投入的连接。",
+          "reason": "线索：不同情境与关注点——将注意力放在孩子的即时需求与互动上，出现正向体验与价值感，从而短时偏离失败叙事。"
+        },
+        {
+          "target_problem": "在学业压力情境下，来访者通常因负性自我评价而注意力涣散、表现下降。",
+          "unique_outcome": "来访者在部分课程中表现良好并获得积极反馈，体验到成就感。",
+          "reason": "线索：不同做法——投入于具体任务、获得正向反馈；尽管情绪困扰存在，但任务清晰与投入度提升促成了更好结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的母亲与朋友（潜在支持网络）",
+          "在部分课程中已有良好表现，具备学习投入与获得反馈的能力",
+          "与孩子的亲密互动中能体验到“好妈妈”的时刻与价值感",
+          "愿意尝试更平衡的自我表述与认知重构（如“我尽力了，但没有成功”）"
+        ],
+        "negative_force": [
+          "僵化的自我标签与过度概括（将离婚等同为彻底失败）",
+          "内疚与自责维持反刍，否定积极证据与体验",
+          "对他人评价的读心与负性预测，导致回避新关系与求助",
+          "自尊受损与羞耻感强，降低自我接纳与表达",
+          "在学业压力下灾难化与负性预期，注意力与功能受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我标签化与内疚自责的反刍（“我是失败者/糟糕的妻子”）",
+          "antecedent": [
+            "回想离婚与过往关系",
+            "面临学业压力或注意到成绩受影响",
+            "尝试建立新关系或与他人谈及离婚",
+            "与孩子相处时想到家庭破裂与亏欠"
+          ],
+          "core_reason": "将离婚视为对自我价值的全盘否定，伴随灾难化、过度概括、读心与否定积极等认知偏差维持失败叙事。",
+          "function": "逃避不确定与外界评判，获得短期的控制感与自我惩罚式的“补偿”，同时避免再度受伤。",
+          "consequence": "自尊受损与情绪低落；学业与日常任务执行受阻；人际回避、难以建立新关系。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 172
+}

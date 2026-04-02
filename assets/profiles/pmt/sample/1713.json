@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "李明",
+      "gender": "女性",
+      "occupation": "医学院二年级学生",
+      "educational_background": "攻读医学学位",
+      "marital_status": "离异",
+      "family_status": "有两个孩子",
+      "social_status": "有几位亲密朋友和同学提供情感支持，但难以与他们讨论离婚及其对教养的影响",
+      "medical_history": "无类似心理问题经验，未接受心理治疗，无重大躯体疾病",
+      "language_features": "表达清晰，逻辑较好，配合度高，能自我反思，态度积极，愿意尝试行为实验"
+    },
+    "main_problem": "我一直在为“我的孩子可能因为离婚而把我看作糟糕的爸爸”这一想法而苦恼，这给我带来了明显的痛苦。",
+    "topic": "家庭关系",
+    "core_demands": "这些想法正在影响我的心理健康和与孩子的关系。我想处理这些感受，并改善与孩子的沟通。",
+    "growth_experiences": [
+      "约一年前与配偶离婚后，压力显著升高，睡眠与自我照料受影响；与孩子的关系变得紧张，经常体验到内疚与悲伤；学业表现略有下降；虽有少数朋友与同学的情感支持，但难以主动谈论离婚及其对教养的影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的父亲",
+        "离婚说明我失败了，孩子的痛苦是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "上周末与孩子在公园玩耍",
+          "conditional_assumptions": "如果孩子心里责怪我或不开心，就说明我是失败的父亲",
+          "compensatory_strategies": "在互动中格外谨慎，压抑情绪并减少玩耍以避免“出错”",
+          "automatic_thoughts": "他们一定在责怪我让家庭不再完整，他们觉得我是个坏爸爸",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "孩子询问“为什么爸爸妈妈不能在一起”",
+          "conditional_assumptions": "如果孩子提出离婚的问题，就意味着他们认为是我的错",
+          "compensatory_strategies": "立即进行解释，并反复安抚与保证“我们依然爱你们”",
+          "automatic_thoughts": "他们把离婚归咎于我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在与孩子计划活动或相处前后",
+          "conditional_assumptions": "如果每次相处不够完美，就会证明我是坏爸爸",
+          "compensatory_strategies": "过度计划、投入更多时间与关注来弥补与证明自己",
+          "automatic_thoughts": "这次如果不够好，他们会更讨厌我、将来会疏远我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "离婚后独处反思父职与家庭破裂",
+          "conditional_assumptions": "只有维持完整的家庭才算好父亲，否则就是失败者",
+          "compensatory_strategies": "通过加倍陪伴与照料孩子来证明自己是好父亲",
+          "automatic_thoughts": "离婚就等于我是一个坏爸爸",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被孩子认可、保持亲密连接并被视为“好父亲”",
+        "fear": "害怕被孩子责怪或拒绝，害怕被定义为“坏父亲”",
+        "defense_goal": [
+          "通过过度照顾与解释来维持安全感与认可",
+          "在互动中保持克制以避免引发不满或责怪"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚的、可能被责怪的失败父亲",
+          "object_representation": "会审判或责怪自己的孩子",
+          "linking_affect": "内疚、悲伤、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当孩子询问为什么爸爸妈妈不能在一起时",
+          "interpretation": "将孩子的理解性提问视为对自己的责怪与否定（移情：把孩子看作审判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以平静、理性、解释性的语气回应，强调事实与保证，尽量减少情感性自我暴露，避免谈及自责感受。"
+        },
+        {
+          "trigger_condition": "与孩子玩耍时突然涌起内疚与悲伤的情绪",
+          "interpretation": "把孩子的普通表现误读为不满或拒绝（移情：自我贬低地解读他人立场）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "降低互动热情，保持表面正常的交流，语气轻淡、简短，回避表达内心情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "离婚导致家庭结构变化，亲密关系的距离感增加",
+            "难以与朋友和同学讨论离婚与教养的感受"
+          ],
+          "outcomes": [
+            "内疚与悲伤加重",
+            "与孩子的互动受影响，出现疏离",
+            "睡眠与自我照料下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值过度绑定于“是否是好父亲”的评价",
+            "把离婚简化为对自身整体价值的否定"
+          ],
+          "outcomes": [
+            "自我标签化与自我否定",
+            "学业专注下降，生活质量受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意孩子对自己的看法与评价",
+            "频繁自责为“坏爸爸”，在互动中过于谨慎小心"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在公园因内疚而变得疏离、减少玩耍",
+            "将亲近和玩耍的冲动转化为自我压抑与退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与孩子相处或计划活动的情境下，来访者通常会陷入“孩子责怪我”的念头，产生内疚与悲伤，并在互动中变得疏离。",
+          "unique_outcome": "上周末在公园，孩子们专注玩耍、看起来很开心，没有表现出不满或责怪的迹象；来访者注意到了这些积极反应。",
+          "reason": "不同情境：户外游戏、孩子自然的积极反馈；做法不同：来访者投入陪伴并尝试观察记录；支持线索：孩子当下的愉悦与投入为现实证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "强烈的父职动机与持续陪伴孩子的行动（主动安排活动、投入时间）",
+          "愿意寻求咨询并参与行为实验，具备自我反思能力",
+          "能够以温和方式解释离婚并给予孩子稳定的情感安抚"
+        ],
+        "negative_force": [
+          "读心术与预测未来倾向，过度将孩子的反应解读为责怪",
+          "非黑即白式自我标签（把离婚等同于“坏爸爸”）",
+          "内疚与悲伤导致睡眠与自我照料下降",
+          "难以与朋友同学谈及离婚与教养困扰，社会支持的使用受限"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与孩子相处时出现疏离与减少玩耍（互动热情下降）",
+          "antecedent": [
+            "与孩子一起活动（如在公园）",
+            "孩子询问离婚原因",
+            "在计划与孩子的活动之前或期间"
+          ],
+          "core_reason": "将孩子的提问与普通行为解读为责怪自己，触发内疚与焦虑，从而降低互动投入",
+          "function": "逃避被责备的情绪与减少焦虑（消极强化）",
+          "consequence": "亲子互动质量下降，关系更紧张，进一步强化负性信念"
+        },
+        {
+          "behavior": "睡眠受损与注意力下降（情绪性生理与行为反应）",
+          "antecedent": [
+            "反复思考离婚与孩子对自己的看法",
+            "与孩子相处后持续反刍负性念头"
+          ],
+          "core_reason": "灾难化与读心术导致持续性负性反刍与唤醒水平升高",
+          "function": "试图通过担忧来预防负面评价的发生（不适应性自我监控）",
+          "consequence": "学业表现略下降、日常自我照料受影响、疲劳加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1713
+}

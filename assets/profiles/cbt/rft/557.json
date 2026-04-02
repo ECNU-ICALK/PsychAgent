@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "张敏",
+      "gender": "女",
+      "occupation": "杂货店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与同事关系紧张；有几位朋友可交流，但尚未分享与工作相关的担忧",
+      "medical_history": "无显著躯体疾病；既往未经历类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰，能配合探索，但持怀疑态度并伴随明显自我否定"
+    },
+    "main_problem": "在工作中感到不够胜任，并反复出现“我永远不会被晋升”的想法；这一切始于约六个月前一次因疏忽导致蔬菜报损的失误。",
+    "topic": "职业发展",
+    "core_demands": "我决定现在寻求咨询，是因为这些想法正在影响我的自尊和工作满意度。",
+    "growth_experiences": [
+      "约六个月前，来访者在杂货店工作时因疏忽让一批蔬菜报损。虽然雇主并未当场责备或明确表达负面评价，但该事件在她心中挥之不去。自此，她持续反复回想这次失误，并相信它严重阻碍了自己的晋升机会；每当出现晋升机会的消息或讨论，她都会自动联想到这次失误并认为“他们不会考虑我”。在此影响下，她开始加倍工作、格外勤勉以“弥补”错误，同时与同事的关系因她的焦虑和自我怀疑而趋于紧张，逐渐减少与同事交流。她也未将这些担忧与朋友分享，生活中对原本喜欢的活动失去兴趣，自尊与工作满意度明显下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任（不够好）"
+      ],
+      "special_situations": [
+        {
+          "event": "六个月前在工作中因疏忽导致一批蔬菜报损",
+          "conditional_assumptions": "如果我犯一次明显的错误，就会永久性地破坏我的晋升机会",
+          "compensatory_strategies": "加班加点、更加勤勉来“弥补”错误",
+          "automatic_thoughts": "我把晋升机会都毁了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "公司出现晋升机会的公告或讨论",
+          "conditional_assumptions": "如果我不是完美无错，就不可能被晋升",
+          "compensatory_strategies": "在晋升临近时对自己加压、过度工作以求“完美表现”",
+          "automatic_thoughts": "我永远不会被晋升",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "雇主当时未对失误进行明确责备或说明",
+          "conditional_assumptions": "如果没有明确的赞许或说明，就代表他们对我失去信任",
+          "compensatory_strategies": "减少与管理层的沟通以避免被注意或评价",
+          "automatic_thoughts": "他们已经对我失去信心了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与同事的日常互动与协作",
+          "conditional_assumptions": "如果同事觉得我有问题，说明我确实不合格",
+          "compensatory_strategies": "回避与同事交谈，减少社交接触",
+          "automatic_thoughts": "他们可能认为我有问题",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被晋升，获得他人的信任与肯定",
+        "fear": "害怕被否定、被视为无能，担心一次错误导致持续的羞耻与被拒绝",
+        "defense_goal": [
+          "通过过度勤勉与自我苛责来维持价值感并避免外界负面评价",
+          "保持疏离与减少沟通以降低被批评或再次暴露不足的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、容易犯错并需要不断补偿的员工",
+          "object_representation": "冷静但潜在严苛、随时可能否定自己的评判者（上级/同事）",
+          "linking_affect": "羞愧、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验以检验其关于晋升的信念时",
+          "interpretation": "潜意识将“损害已不可逆”视为合理前提，认为咨询难以改变现实（类似对改变的悲观预设）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以礼貌但怀疑的语气表达担忧（如“我不确定这能改变什么”），语速平稳、保持基本合作，但强调自身顾虑。"
+        },
+        {
+          "trigger_condition": "当咨询师追问其关于“他人失去信任”的具体证据并进行事实核对时",
+          "interpretation": "将内在的自我否定与不被认可的担忧归因于他人，相信他人已对自己失望（移情：将内在不安投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "坚持对他人负面看法的主观判断，使用含糊的措辞（如“他们一定记着我的错误”），回避细节证据，同时保持基本交流。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未向朋友分享工作相关担忧",
+            "减少与同事的交流，关系趋于紧张"
+          ],
+          "outcomes": [
+            "社交支持减弱",
+            "焦虑增加",
+            "自我怀疑加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "工作满意度下降",
+            "对以往喜欢的活动失去兴趣"
+          ],
+          "outcomes": [
+            "动机降低",
+            "情绪低落",
+            "职业投入感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我不够好”",
+            "在晋升机会出现时过度自我审视与施压",
+            "担心他人的评价而缩减交流"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为上级已对自己失去信任，尽管缺乏明确证据",
+            "觉得同事“可能认为我有问题”并由此减少接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试行为实验，具备一定的合作意愿",
+          "在工作中持续努力、勤勉以提升表现",
+          "具备一定社会支持（有几位朋友可交流）"
+        ],
+        "negative_force": [
+          "过度概括与预测未来等认知偏差强化自我否定",
+          "自我价值过度依赖外部评价（如晋升）",
+          "与同事互动回避导致支持减少与关系紧张",
+          "自尊受损、兴趣下降影响职业投入"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与同事交流（减少社交互动）",
+          "antecedent": [
+            "在工作中想起六个月前的失误",
+            "公司发布或讨论晋升机会时",
+            "感到他人可能在评价自己"
+          ],
+          "core_reason": "将一次失误视为对自身能力的全面否定，并将内在的自我怀疑投射为他人“不信任/认为我有问题”的看法以致回避交流",
+          "function": "逃避被负面评价与可能的羞耻感，短期缓解焦虑",
+          "consequence": "与同事关系紧张、社交支持减弱，进一步加剧孤立与焦虑"
+        },
+        {
+          "behavior": "过度勤勉与自我施压（加班加点以“弥补”错误）",
+          "antecedent": [
+            "出现晋升机会或绩效评估时",
+            "回想起蔬菜报损事件"
+          ],
+          "core_reason": "以“必须完美无错才能被认可”的条件假设来抵消“我不够胜任”的核心信念，从而通过过度努力寻求安全感与价值感",
+          "function": "试图获得认可并降低被否定的风险",
+          "consequence": "持续压力与疲惫，工作满意度下降，可能进一步强化自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 557
+}

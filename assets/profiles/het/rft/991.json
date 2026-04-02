@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "79",
+      "name": "陈秀珍",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "因不愿与朋友外出相处，关系出现一定紧张",
+      "medical_history": "无显著躯体疾病；既往未有类似心理问题与治疗史",
+      "language_features": "表达清晰，逻辑性尚可，倾向过度分析与自我批评；情绪消极并伴随内疚；对咨询持怀疑态度但愿意尝试。"
+    },
+    "main_problem": "因为不喜欢被迫与他人外出相处，我一直觉得自己是个没用的朋友。",
+    "topic": "人际关系",
+    "core_demands": "这些感受对我的自尊和与朋友的关系产生了负面影响，因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个没用/糟糕的朋友",
+        "只有满足他人的期待才证明我有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友邀请她参加小型聚会，而她当时并不想去",
+          "conditional_assumptions": "如果我拒绝他人的邀请，就等于不在乎对方，是不合格的朋友",
+          "compensatory_strategies": "勉强答应邀请，或在拒绝后反复自责与过度反思以求“补偿”",
+          "automatic_thoughts": "我让大家失望了，我是个坏/没用的朋友。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在拒绝邀请之后",
+          "conditional_assumptions": "如果我不出现，朋友一定会认为我不可靠",
+          "compensatory_strategies": "避免向朋友求证真实看法，以回避可能的否定评价",
+          "automatic_thoughts": "他们肯定觉得我不可靠、不在乎他们。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友在半夜来电求助，她陪伴数小时后对方多次表示感谢",
+          "conditional_assumptions": "除非我做得完美，否则就不算真正的支持",
+          "compensatory_strategies": "事后挑剔自己的表达、否定正向反馈",
+          "automatic_thoughts": "我可能说错了话，做得还不够。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当她意识到自己最近没有像设想那样与朋友保持联系时",
+          "conditional_assumptions": "我应该更频繁地和朋友联系并参加活动，否则就是失败",
+          "compensatory_strategies": "给自己设定过高的社交标准，强行迎合或因此产生强烈内疚",
+          "automatic_thoughts": "我做得不够，我就是个失败的朋友。",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳与看重，同时保有自主与边界（不被义务所束缚）",
+        "fear": "害怕被视为不可靠而被拒绝、失去关系",
+        "defense_goal": [
+          "通过自我苛责与提高标准来维系关系与自我价值",
+          "避免直接求证他人反馈以降低被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、随时会让人失望的“坏朋友”",
+          "object_representation": "苛求、易评判、可能否定她的他人/朋友",
+          "linking_affect": "内疚、焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调她对朋友的实际支持并邀请她看见正向证据时",
+          "interpretation": "潜意识里认为这些正向证据不足以证明价值，若承认就会放松对自己的要求而被视为不可靠",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "淡化积极证据，强调可能的不足之处，以谨慎、保留的语气回应（如“我可能还是说错了”）。"
+        },
+        {
+          "trigger_condition": "当被邀请去直接向朋友求证他们的真实看法或反馈时",
+          "interpretation": "预期对方会证实她“不可靠/不够好”（将自我贬低感投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "回避求证或改变话题，以犹豫且自我怀疑的语气表达担忧（如“他们大概会那样想”）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "不喜欢被“必须要去”的社交义务感",
+            "在说“否”与害怕失去关系之间摇摆"
+          ],
+          "outcomes": [
+            "内疚与自我否定",
+            "回避或勉强参与社交，感到耗竭"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因多次拒绝邀请导致关系出现张力",
+            "担心他人将其视为不可靠而不敢求证"
+          ],
+          "outcomes": [
+            "关系疏离感增强",
+            "情绪低落、动机下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁以“我应该更常和朋友联系/参加活动”评价自己",
+            "以僵化标准定义“好朋友”并据此自责"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "对自身社交表现过度挑剔，担心“永远不够好”",
+            "在咨询中下调积极证据、放大不足"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在朋友提出社交邀请时，来访者通常会陷入内疚、将自己贴上“坏朋友”标签，并在拒绝后反复过度分析。",
+          "unique_outcome": "几个月前的一次深夜，朋友情绪低落来电求助，来访者通话数小时陪伴，朋友多次表达感谢；与以往不同，她当时没有回避，而是稳定地提供支持。",
+          "reason": "线索：不同情境——朋友主动求助且需求清晰；不同做法——专注倾听与陪伴；不同支持——对方的实时感谢提供了正向线索。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有至少一位可以联系的密友",
+          "具备同理心与陪伴能力（曾在深夜长时间支持朋友）",
+          "愿意尝试咨询与现实检验",
+          "能识别并命名自己的消极想法"
+        ],
+        "negative_force": [
+          "僵化的“应该”标准与过高自我要求",
+          "个人化、读心术、非黑即白等认知偏差",
+          "过度分析与持续内疚",
+          "回避直接求证他人真实反馈，强化负性假设"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交邀请触发的强烈内疚与自我贴标签（“我是坏/没用的朋友”）",
+          "antecedent": [
+            "收到朋友的聚会/活动邀请",
+            "意识到近期未与朋友联系"
+          ],
+          "core_reason": "害怕被视为不可靠并失去关系，内化“必须答应/经常联系才算好朋友”的规则",
+          "function": "逃避被拒与内疚感，通过自责与高标准约束自身或勉强答应",
+          "consequence": "关系紧张、情绪低落、动机下降"
+        },
+        {
+          "behavior": "过度分析社交情境（反复回想、挑剔自己的表达）",
+          "antecedent": [
+            "拒绝邀请之后",
+            "在支持朋友之后仍回顾细节"
+          ],
+          "core_reason": "对自我价值的不安全感与完美化标准导致对错误的容忍度极低",
+          "function": "试图通过反刍获得控制感并避免未来错误",
+          "consequence": "焦虑与内疚加剧，消耗精力，进一步回避社交"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 991
+}

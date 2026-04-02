@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "林曼",
+      "gender": "女",
+      "occupation": "待业中，正在求职",
+      "educational_background": "多语能力：英语、法语和西班牙语流利",
+      "marital_status": "两孩母亲（婚姻状况未提及）",
+      "family_status": "与两个孩子同住；家庭成员总体支持",
+      "social_status": "家庭支持，但她避免与家人讨论求职焦虑；其他人际情况未提及",
+      "medical_history": "无既往类似心理问题与治疗史；无显著躯体疾病",
+      "language_features": "表达清晰，能描述自动化思维；配合度高，但整体语气消极、悲观"
+    },
+    "main_problem": "在最近一次面试未获得录用后，我觉得自己再也无法说服雇主雇用我，这让我感到气馁与自我怀疑。随着多次面试失败，这种感受加重，并在每次申请或面试时出现。",
+    "topic": "职业发展",
+    "core_demands": "近期的求职拒绝已影响到我的心理健康，我需要专业帮助来处理这些消极思维模式。",
+    "growth_experiences": [
+      "在最近一次面试未获得录用后开始出现强烈的自我怀疑；随后多次面试未被录用使问题加重。她在每次求职申请或面试时都会出现消极预测与自我否定，尝试过自我肯定与拓展人脉但未能明显缓解。家庭总体支持，但她选择不与家人讨论求职焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好，不值得被录用",
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "最近一次面试后未获得录用",
+          "conditional_assumptions": "如果一次面试失败，就说明我不够好，也预示未来都会失败",
+          "compensatory_strategies": "通过自我肯定和拓展人脉来试图提升自信，但内心仍倾向聚焦负面结果",
+          "automatic_thoughts": "我永远无法说服雇主雇用我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次投递简历或参加面试的时刻",
+          "conditional_assumptions": "如果我没有立刻看到正向信号，就等同于会被拒绝",
+          "compensatory_strategies": "在面试前进行负面预演、降低期望以自我保护",
+          "automatic_thoughts": "我这次肯定又要被拒绝",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面试过程中出现紧张、回答磕绊",
+          "conditional_assumptions": "如果我表现不完美，就说明我不专业、不会被录用",
+          "compensatory_strategies": "反复自责、回放面试细节，不主动寻求家人情感支持",
+          "automatic_thoughts": "我把这次搞砸了，没人会要我",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面试结束后未收到明确反馈，仅被告知“会回复”",
+          "conditional_assumptions": "如果对方沉默或延迟反馈，就意味着否定且是我的问题",
+          "compensatory_strategies": "回避与家人讨论、持续沉浸于负面推测",
+          "automatic_thoughts": "没有消息就是被拒绝，因为我不够好",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被雇主认可与接纳、获得稳定工作以照顾家人",
+        "fear": "害怕被拒绝与被否定，担心无法养家从而被视为没有价值",
+        "defense_goal": [
+          "通过预期最坏来降低被拒绝时的痛苦",
+          "避免与家人讨论求职焦虑以保护自我、避免暴露脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的求职者",
+          "object_representation": "挑剔、具有否定权的评判者（雇主/面试官）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其列举优势或挑战“我不够好”的预测时",
+          "interpretation": "觉得必须拿出充分证据才能证明自己，否则最终仍会被否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平淡、强调外部条件或“也没什么用”的结论，如“会说三种语言也没帮上忙”。"
+        },
+        {
+          "trigger_condition": "谈到面试受挫或未获录用时",
+          "interpretation": "将复杂原因归结为自身缺陷，潜意识将失望和挫败转向自身",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低自我价值，如“是我不够好”，回避表达对外部情境的合理不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "尽管家庭支持，但不向家人分享求职焦虑与被拒后的感受",
+            "在面临职业不确定性时选择独自承受压力"
+          ],
+          "outcomes": [
+            "自我怀疑加重与动力下降",
+            "注意力与日常功能受影响，情绪沮丧"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "多次求职被拒后对自身能力与努力价值产生怀疑",
+            "将单次或数次失败视为对自我价值的全面否定"
+          ],
+          "outcomes": [
+            "悲观与气馁增加",
+            "更易陷入灾难化与“永远不会被录用”的信念"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以绝对化语言贬低自我（如“我不够好”“我永远找不到工作”）",
+            "在确认自身优势时立即否定其价值（如“会三种语言也没用”）",
+            "在会谈中保持谨慎与低期待，难以让积极信息进入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多语能力（英语、法语、西班牙语流利），具有可迁移的职业优势",
+          "家庭整体支持，愿意在困难时期提供鼓励与帮助",
+          "主动寻求专业帮助，愿意尝试识别与挑战负性思维",
+          "能列举自身优势并配合练习（如现实检验、优势清单）",
+          "持续进行求职面试与人脉拓展，具备一定行动力"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、跳到结论等认知偏差显著",
+          "自我否定与标签化（“我是失败者”“我不够好”）",
+          "负面心理过滤：倾向聚焦拒绝等负性结果，忽视自身优势",
+          "回避向家人表达焦虑与寻求支持，导致支持系统未被充分利用",
+          "面试中因紧张而影响表现，将延迟反馈等同拒绝并归咎自我"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在求职相关情境中出现灾难化与自我否定的自动化思维与言语（如“我永远找不到工作”），伴随情绪低落与动力下降",
+          "antecedent": [
+            "投递简历或准备面试",
+            "面试进行中出现紧张与磕绊",
+            "面试后未收到明确反馈"
+          ],
+          "core_reason": "多次被拒经历叠加、高度关注负面结果与对家庭经济责任的压力，形成对失败的灾难化预测与自我标签化",
+          "function": "逃避被拒带来的失望与羞耻，获得对不确定未来的表面控制感（通过预期最坏以自我保护）",
+          "consequence": "焦虑与沮丧加重、面试表现进一步受损、日常专注力与动机下降"
+        },
+        {
+          "behavior": "回避向家人表达求职焦虑与寻求情感支持",
+          "antecedent": [
+            "受到拒绝或未获回复后的沮丧时刻",
+            "在讨论自身短板或面试失误时感到羞耻"
+          ],
+          "core_reason": "担心增加他人负担与暴露脆弱，倾向将压力内化",
+          "function": "逃避潜在评价或被否定的感受，暂时维持脆弱感的隐蔽与自我保护",
+          "consequence": "社会支持未被充分利用，孤独感与负性思维加重，情绪恢复变慢"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1890
+}

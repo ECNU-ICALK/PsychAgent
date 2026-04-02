@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "书店店员",
+      "educational_background": "高中辍学",
+      "marital_status": "单身",
+      "family_status": "独居，其他未提供",
+      "social_status": "与同事关系受影响，在工作中感到孤独",
+      "medical_history": "未接受过心理治疗或精神科治疗；无重大躯体疾病；无类似既往问题",
+      "language_features": "表达清晰、合作度高、语气平稳；能在引导下区分“担忧”与“事实”并尝试重构；自我评价偏苛刻"
+    },
+    "main_problem": "我持续感到被阅读压力淹没，害怕永远无法追上自己的阅读，问题发展到回避阅读；每当看到新书或落后于阅读计划时加重。",
+    "topic": "职业发展",
+    "core_demands": "希望减轻被阅读压垮的感受与阅读压力，重新享受工作，不再感觉被淹没。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我是失败者",
+        "只有读完足够多的新书、时刻跟上节奏，我才算称职、有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "书店新到一批新书",
+          "conditional_assumptions": "如果我不能尽快把这些新书都读完，就说明我不称职，会被落下",
+          "compensatory_strategies": "设定更高/更多的阅读目标，强迫自己加快进度以证明自己",
+          "automatic_thoughts": "我根本不可能读完，我会被淹没",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "发现自己落后于既定的阅读计划",
+          "conditional_assumptions": "只要落后就等于失败，说明我不适合这份工作",
+          "compensatory_strategies": "把计划拆得更细并自我苛责，或干脆回避阅读以短期减压",
+          "automatic_thoughts": "我失败了，我不称职",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与同事进行与书相关的讨论",
+          "conditional_assumptions": "如果我没读过他们提到的书，别人就会评判我不专业",
+          "compensatory_strategies": "减少与同事交流，回避讨论以避免被评价",
+          "automatic_thoughts": "他们一定在觉得我不专业",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "偶尔忘记读一本书或漏读某些内容",
+          "conditional_assumptions": "一旦出现疏漏，我就永远追不回来了",
+          "compensatory_strategies": "尝试加班补读或完全逃避阅读以缓解焦虑",
+          "automatic_thoughts": "我永远追不上了",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职、被同事接纳并有归属感",
+        "fear": "害怕被评判为不够好、被排斥和丢脸",
+        "defense_goal": [
+          "通过设定高标准来获取控制与认可",
+          "在感到无能与羞耻时回避阅读和社交以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时会被揭穿的员工",
+          "object_representation": "挑剔、评判性的同事/他人",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问“有什么证据表明他人在评判你？”或谈及同事观点时",
+          "interpretation": "感觉自己正被审视与评判，他人（或咨询师）会发现自己不行",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹豫、使用模糊化表达（如“他们大概……”），回避表达主观感受，转而强调外界压力与他人看法。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在工作中疏远同事、回避阅读讨论，感到孤立无援"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠受损",
+            "工作表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "内在规则为“必须读完所有新书才算称职”",
+            "将“合格员工=读完一切”当作绝对标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "自评“我失败了/我不够好”",
+            "担心被评判而谨小慎微，减少与同事交流",
+            "在叙述中容易把担忧当成事实"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有求助动机并愿意尝试认知重构与行为实验",
+          "具备一定的自我观察能力，能意识到“担忧可能不是事实”",
+          "拥有少量可倾诉的朋友",
+          "对工作有热情，愿意提升专业能力"
+        ],
+        "negative_force": [
+          "设定不切实际的阅读目标与完美化标准",
+          "灾难化、读心术、非黑即白等认知偏差显著",
+          "通过回避阅读与社交来短期缓解焦虑，维持问题循环",
+          "将自我价值过度绑定于工作与阅读产出",
+          "睡眠受影响，身心资源下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避阅读",
+          "antecedent": [
+            "看到新到的书",
+            "意识到落后于阅读计划",
+            "下班后想到需要补读"
+          ],
+          "core_reason": "对“落后=失败”的僵化信念与灾难化预测，以及被同事评判的担忧引发强烈焦虑",
+          "function": "逃避焦虑与潜在负面评价，获得短期情绪缓解",
+          "consequence": "工作表现下降、焦虑持续并加重、睡眠受影响"
+        },
+        {
+          "behavior": "在工作中回避与同事的阅读讨论（社交退缩）",
+          "antecedent": [
+            "同事发起与书相关的讨论",
+            "团队分享对新书的看法"
+          ],
+          "core_reason": "将自我批评投射为他人评判，害怕暴露“我不够好”",
+          "function": "逃避可能的羞耻与负面评价",
+          "consequence": "人际关系受损、孤独感增加、职业学习机会减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 8
+}

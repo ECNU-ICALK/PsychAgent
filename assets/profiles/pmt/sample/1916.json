@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "72",
+      "name": "凯瑟琳",
+      "gender": "女性",
+      "occupation": "举重运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与三只大丹犬同住",
+      "social_status": "未提及",
+      "medical_history": "无显著身体疾病；未曾接受心理治疗；无类似问题史",
+      "language_features": "表达清晰、逻辑性较强、配合度高、态度积极，能进行理性讨论并愿意尝试练习；语速未提及"
+    },
+    "main_problem": "我持续害怕尽管自己非常活跃并从事举重和马拉松，我最终会受伤而无法再运动。这种恐惧已持续数月，带来明显焦虑与痛苦。",
+    "topic": "情绪管理",
+    "core_demands": "对受伤的恐惧已开始影响我参与体育活动的动机，因此寻求专业支持与指导。",
+    "growth_experiences": [
+      "长期从事举重和马拉松，多年未发生严重伤害；近几个月因一次举重训练中的轻度肌肉拉伤后，恐惧明显加重。",
+      "听闻多起运动员受伤后不得不停止运动的故事，这些外部叙事强化了她对未来不可控伤害的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我最终会受伤并失去运动能力",
+        "受伤风险不可控"
+      ],
+      "special_situations": [
+        {
+          "event": "一次举重训练中发生轻度肌肉拉伤之后",
+          "conditional_assumptions": "如果出现任何伤痛，必然预示更严重的伤害，最终将无法继续运动",
+          "compensatory_strategies": "加强对动作规范与热身的关注，持续监测身体感受并降低活动强度以求安全",
+          "automatic_thoughts": "这次拉伤说明我快要发生严重伤害，可能再也不能运动了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "听到运动员受伤而不得不停止运动的故事",
+          "conditional_assumptions": "如果别人会遭遇严重伤害，我的运气也会耗尽，我迟早会一样受伤停下",
+          "compensatory_strategies": "在训练中频繁表达担忧、向同伴寻求安慰与确认安全性",
+          "automatic_thoughts": "我的运气总有一天会用完，我也会受伤并被迫停止",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次进行体力活动（举重或跑步）时",
+          "conditional_assumptions": "只要进行高强度活动，受伤几乎不可避免，任何不适都是受伤的征兆",
+          "compensatory_strategies": "保持高度谨慎，随时调整或减少负重与强度以避免潜在伤害",
+          "automatic_thoughts": "我现在可能就在伤到自己，一旦受伤就不能再运动",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "回顾自己的多年训练经历时，尤其关注那次轻度拉伤而忽略大量未受伤的记录",
+          "conditional_assumptions": "负面事件比正面经验更能说明真实风险，安全经历“不算数”",
+          "compensatory_strategies": "反复回想负面经历，弱化或忽略自己恢复与安全的证据",
+          "automatic_thoughts": "尽管多年没受重伤，这次拉伤才是关键，说明我并不安全",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持身体的活力与安全，持续自由地参与运动",
+        "fear": "害怕失去运动能力与独立性，被不可控的伤害夺走生活重心",
+        "defense_goal": [
+          "通过理性分析与严格自我监控来维持安全感、降低不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易受伤、需要持续警惕的运动者",
+          "object_representation": "可能忽视风险或不理解自己担忧的训练同伴/他人",
+          "linking_affect": "焦虑、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其进行现实检验或讨论证据时",
+          "interpretation": "将咨询情境理解为必须用理性规则来控制风险，否则会发生灾难（对他人建议带有控制与安全审查的意味）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、理性且条理清晰的语气强调技术细节与数据，弱化情绪表达；在被触及恐惧时，将谈话转向动作规范、预防措施。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "担心受伤后无法继续运动，觉得“迟早会失去运动自由”",
+            "在每次活动中预演最坏结果，强化对身体限制的恐惧"
+          ],
+          "outcomes": [
+            "持续焦虑与不安",
+            "运动动机下降",
+            "睡眠受影响",
+            "与朋友锻炼时关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询与训练中不断强调正确姿势、热身与“听从身体”，对活动保持高度谨慎",
+            "频繁自我检查与寻求安全确认"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在进行高强度训练或跑步时，来访者通常会被对于受伤的恐惧困住，出现强烈焦虑并降低参与动力。",
+          "unique_outcome": "在那次轻度肌肉拉伤后，她没有完全停止活动或陷入恐慌，而是选择休息、遵循恢复计划，最终顺利恢复到正常状态。",
+          "reason": "线索：采取了不同做法（遵循恢复方案、放慢节奏、倾听身体反馈），因此这次没有被恐惧完全困住并实现了恢复。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多年持续的运动经验与体能基础（举重与马拉松长期无严重受伤）",
+          "具备安全策略：重视正确动作、热身与倾听身体",
+          "态度积极、愿意配合现实检验与认知重构",
+          "拥有支持和理解的朋友"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括与心理过滤等认知扭曲",
+          "对受伤的持续担忧导致睡眠受影响与动力下降",
+          "过度警惕与自我监控，强化不安全感",
+          "受他人受伤故事的影响，外部信息加剧恐惧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在运动相关情境下出现的高度焦虑与预期性担忧",
+          "antecedent": [
+            "进行举重训练或跑步时",
+            "回想或听到运动员受伤的故事",
+            "经历轻度肌肉拉伤之后",
+            "入睡前对受伤的担忧"
+          ],
+          "core_reason": "他人受伤故事与近期拉伤经历触发灾难化和预测未来的认知，担忧失去运动能力",
+          "function": "逃避潜在危险、寻求安全感与控制感",
+          "consequence": "运动动机下降、与朋友关系紧张、睡眠受影响与整体幸福感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1916
+}

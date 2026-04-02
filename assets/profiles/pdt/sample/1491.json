@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "林赛",
+      "gender": "女",
+      "occupation": "未知（有被动收入）",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数朋友可谈一般话题，但对讨论其对他人反馈的怀疑感到困难；怀疑影响人际互动与日常信任。",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗或咨询；无类似心理问题史。",
+      "language_features": "表达清晰，能具体描述经历；逻辑性较强但倾向过度分析；语气偏消极与怀疑；配合度尚可，愿意尝试记录与反思。"
+    },
+    "main_problem": "感觉他人在听她讲述离奇梦境时表达的“喜欢”并不真诚，由此产生怀疑与不信任，并开始反复质疑所有关于梦境的正面反馈。",
+    "topic": "人际关系",
+    "core_demands": "意识到对他人反馈的怀疑正在阻碍潜在的真实连接并带来痛苦，因此希望通过咨询缓解怀疑、增进对他人真诚反馈的信任。",
+    "growth_experiences": [
+      "过去在人际互动中常感到未被真正支持或理解，这种经历使林赛难以相信他人的正面评价与赞美，为当前的人际怀疑与不信任奠定了基础。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "他人对我的正面反馈不是真诚的",
+        "我无法信任他人的赞美"
+      ],
+      "special_situations": [
+        {
+          "event": "在分享一次特别生动、离奇的梦后，朋友给予了高度赞赏",
+          "conditional_assumptions": "如果别人夸赞我的故事，往往只是出于礼貌而非真心；轻信赞美会让我被愚弄或受伤",
+          "compensatory_strategies": "立即分析赞美背后的动机，寻找不真诚的证据，并与对方保持距离",
+          "automatic_thoughts": "他们只是客气，并不是真的喜欢我的故事",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每当我分享梦境时，听者表示“很喜欢听”或给予积极反馈",
+          "conditional_assumptions": "如果他人表现出兴趣，通常是在敷衍或者想维持表面友好",
+          "compensatory_strategies": "否定积极线索、只关注可能的虚假迹象，减少分享私人内容",
+          "automatic_thoughts": "他们不是真的感兴趣，只是在敷衍我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "朋友在听故事时提出追问或在有趣片段处发笑",
+          "conditional_assumptions": "即使出现看似真诚的行为，也可能只是为了配合我、避免尴尬",
+          "compensatory_strategies": "将这些行为解释为表面礼貌，继续保持怀疑与距离",
+          "automatic_thoughts": "这些追问和笑声只是装出来的",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "在收到任何形式的夸奖或积极反馈时",
+          "conditional_assumptions": "接受赞美意味着我天真、容易受骗；不去相信才能保护自己不受伤",
+          "compensatory_strategies": "习惯性怀疑、减少分享亲密内容，维持人际距离",
+          "automatic_thoughts": "我不能相信别人的赞美",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真诚地理解与认可（希望他人真心享受并肯定她的讲述）",
+        "fear": "害怕被敷衍、被欺骗或再次感到不被理解",
+        "defense_goal": [
+          "通过保持距离与怀疑来避免受伤",
+          "以理性分析与否定正向线索来维持控制与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被忽视与不被理解的讲述者",
+          "object_representation": "表面礼貌、内心不真诚的他者",
+          "linking_affect": "怀疑、不信任、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人对林赛的分享给予肯定，并邀请她考虑他人可能是真诚时",
+          "interpretation": "对方只是出于礼貌或在敷衍我；如果我相信就会被愚弄（移情：将不信任投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以怀疑的语气回应，强调“他们只是客气”，避免深入探讨他人的真诚动机，维持安全距离。"
+        },
+        {
+          "trigger_condition": "当被邀请进行现实检验、记录并回顾他人反应中的积极线索时",
+          "interpretation": "如果我放下怀疑去观察，就等于轻信他人，会失去控制与安全感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用分析性语言给出诸多可能性与反例，语气平静但疏离，淡化情感表达与自我感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因不信任他人反馈而减少分享个人或有意义的内容",
+            "与他人保持距离，难以接受正向连接",
+            "日常交往中整体信任感下降"
+          ],
+          "outcomes": [
+            "孤独感加重",
+            "人际互动受损",
+            "持续的怀疑与不安"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在想分享梦境时刻意压抑冲动，转为自我分析与怀疑",
+            "减少谈论个人与有意义的话题，保持人际距离"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将自身的不安全感与怀疑归因于他人的不真诚，如“他们只是客气”",
+            "把他人的追问与笑声解读为表面行为而非真诚兴趣"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有少数稳定的朋友资源，可进行一般交流",
+          "自我觉察较好，意识到怀疑阻碍真实连接并主动寻求咨询",
+          "故事叙述具有吸引力（他人常表示喜欢并给予反馈）",
+          "具备理性反思能力（曾尝试理性化思考）"
+        ],
+        "negative_force": [
+          "否定正面与心理过滤的认知偏差",
+          "读心术与仓促下结论，倾向将他人的反应解读为不真诚",
+          "不信任他人，采取保持距离与减少分享的策略",
+          "过去“未被真正支持或理解”的经验增强了对关系的怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "将赞美与积极反馈视为不真诚并进行过度分析",
+          "antecedent": [
+            "分享离奇生动的梦境并获得称赞",
+            "在任何场合收到他人的积极反馈或夸奖"
+          ],
+          "core_reason": "过往“未被真正支持或理解”的经历强化了对他人真诚度的怀疑，形成否定正面与读心术等认知偏差",
+          "function": "逃避被敷衍或受伤的风险，维持心理安全感与控制感",
+          "consequence": "难以信任他人，产生怀疑与不安，进一步影响人际互动与日常生活"
+        },
+        {
+          "behavior": "回避分享个人或有意义的内容，保持人际距离",
+          "antecedent": [
+            "与朋友或他人交流、准备谈及个人经历或梦境时",
+            "察觉到他人对其故事表现出兴趣或赞赏时"
+          ],
+          "core_reason": "担心真诚连接不可得、害怕被敷衍或欺骗，因而采取自我保护性的社交回避",
+          "function": "逃避潜在的尴尬与受伤，降低不确定性与焦虑",
+          "consequence": "感到孤独，减少真实连接，社交质量下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1491
+}

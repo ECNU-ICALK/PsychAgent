@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "刘凯",
+      "gender": "男",
+      "occupation": "本地餐馆的快餐厨师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有少数朋友可交谈，但难以向其敞开心扉",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；既往未出现同类写作相关问题",
+      "language_features": "表达清晰、配合度尚可、语气中性；倾向聚焦负面反馈，伴随自我怀疑与灾难化倾向"
+    },
+    "main_problem": "因出版社倒闭而感到焦虑与自卑，并认为是因为自己写的书不受欢迎所致，随之不断怀疑写作能力、感觉自己是失败者。",
+    "topic": "职业发展",
+    "core_demands": "意识到负面想法与自我怀疑正在影响心理健康并阻碍写作事业，因而寻求咨询以减轻这些影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不适合成为作家",
+        "我的书没有人愿意买"
+      ],
+      "special_situations": [
+        {
+          "event": "得知出版社即将倒闭",
+          "conditional_assumptions": "如果我的写作足够好、能卖得动，出版社就不会倒闭；出版方的经营结果与我的作品质量直接相关",
+          "compensatory_strategies": "加大自我施压，尝试提升写作技能并寻求内测读者（beta读者）反馈以证明自己",
+          "automatic_thoughts": "都是我的错；我的书不够好",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "收到混合反馈，其中负面反馈更让他在意",
+          "conditional_assumptions": "如果有人提出负面意见，就说明我不适合写作；负面反馈比正面反馈更“真实”",
+          "compensatory_strategies": "持续聚焦并放大负面评价，忽略正向反馈，试图不断修改以迎合批评",
+          "automatic_thoughts": "他们说得对，我不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在写作遇到挫折或职业受阻时",
+          "conditional_assumptions": "如果这次失败，就意味着我永远不会成功；一次失败等同于彻底失败",
+          "compensatory_strategies": "减少或停止写作，陷入自我怀疑与回避",
+          "automatic_thoughts": "我永远也不会成为作家",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "考虑向朋友分享写作困境时",
+          "conditional_assumptions": "如果我把困境告诉朋友，他们会不理解、让我“赶紧振作”或“写点别的”",
+          "compensatory_strategies": "回避与朋友谈论不安全话题，保持沉默以避免被评价",
+          "automatic_thoughts": "他们会觉得我在矫情，不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作为作家被认可与理解，作品被读者喜爱并获得支持",
+        "fear": "害怕失败与被否定，担心无人愿意阅读作品、被视为“不够好”",
+        "defense_goal": [
+          "通过自我批评与将责任归咎自身来获得控制感、降低不确定性",
+          "保持与他人情感距离，避免分享以减少被拒绝或不被理解的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、易被否定的作者",
+          "object_representation": "他人/出版方是批判性、可能不理解自己的评判者",
+          "linking_affect": "焦虑、自卑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论出版社倒闭或收到负面反馈的话题时",
+          "interpretation": "来访者将外部经营失败内化为自身能力不足，并将探询视为对其能力的否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与绝对化表述（如“都是我的错”），语气压低，少谈外部因素；强调自身不够好。"
+        },
+        {
+          "trigger_condition": "当被邀请考虑向朋友分享感受或寻求支持时",
+          "interpretation": "潜意识认为他人会像评审一样拒绝或责备自己（不被理解/被要求“赶紧振作”）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以假设性语言描述他人负面意图（如“他们会让我赶紧振作”），语气犹疑，避免具体求助请求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "坐下来写作时觉得“这很没意义”，认为没有人会想读自己的作品"
+          ],
+          "outcomes": [
+            "写作动力下降与生产力降低",
+            "主观无价值感增强",
+            "焦虑与自卑加剧"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得朋友不会理解自己的写作困境，难以开口求助"
+          ],
+          "outcomes": [
+            "社交退缩与孤立感增强",
+            "支持系统动员不足，负面思维循环维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假设朋友会让自己“赶紧振作/写点别的”，因此回避分享",
+            "在未验证的情况下推断他人不会理解自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自我否定（如“我不够好”“我不适合写作”）",
+            "过度限制自我表达，担心被评价而减少求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对写作具有热爱，偶尔写出内容时能体验到自豪感",
+          "愿意尝试提升写作并寻求beta读者反馈",
+          "工作表现稳定，生活基本功能未受影响",
+          "有意愿尝试设定较小、可实现的写作目标",
+          "拥有少数朋友，存在潜在支持资源"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、个人化、否定正向反馈等认知偏差突出",
+          "强烈的自我怀疑与自我批评",
+          "回避向朋友分享困境，支持系统动员不足",
+          "高压力与自我施压，失败即全盘否定的信念模式",
+          "写作时情绪化推理（感觉糟糕就断定事情糟糕）导致回避与停滞"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "写作回避与低生产力（坐下写作时难以开始或持续）",
+          "antecedent": [
+            "得知出版社倒闭",
+            "收到负面或混合反馈",
+            "在写作中遇到挫折",
+            "坐下来准备写作的时刻"
+          ],
+          "core_reason": "将外部事件个人化并灾难化，内化为“我不够好”的核心信念，产生焦虑与无意义感从而回避写作",
+          "function": "逃避潜在失败与被否定，获得短期的情绪缓解",
+          "consequence": "写作生产力下降、职业发展受阻、无意义感与自卑加重"
+        },
+        {
+          "behavior": "社交回避（不向朋友分享写作困境）",
+          "antecedent": [
+            "想到要向朋友谈及写作困难时",
+            "面对建议寻求支持的情境"
+          ],
+          "core_reason": "读心术式假设他人不会理解并会责备自己，害怕被否定与羞耻",
+          "function": "逃避潜在的拒绝与尴尬，维持短期安全感",
+          "consequence": "错失社会支持，孤立感增强，负面思维与自我怀疑循环持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1647
+}

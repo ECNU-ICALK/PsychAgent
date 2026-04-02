@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "陈峰",
+      "gender": "男",
+      "occupation": "咖啡店咖啡师（Barista）",
+      "educational_background": "高中学历（High School Diploma）",
+      "marital_status": "未婚",
+      "family_status": "父母均为教师；妹妹是一支Grunge乐队的成员",
+      "social_status": "有支持性的朋友与同事，但尚未与他们分享自己的财务不安；为避免涉及财务/房产话题的社交而有所回避",
+      "medical_history": "无重大躯体疾病；无既往心理治疗；此前未出现类似的财务不安全感",
+      "language_features": "表达清晰、逻辑性较好，能描述具体情境与证据；思维偏负向且带有绝对化用语（如“永远”“不可能”）；情绪以焦虑与无望为主；配合度良好，语气中性偏低落"
+    },
+    "main_problem": "因担心在咖啡店工作永远无法买房而感到不堪重负；近几个月对财务不安全的担忧在房价上涨与成本上升的背景下加重，领取工资或想到未来财务稳定时尤为明显。",
+    "topic": "职业发展",
+    "core_demands": "持续担忧财务稳定与无法买房已影响心理健康与日常功能，期望通过咨询缓解焦虑、改善功能，并逐步形成更平衡的看法与可行的小步行动。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有能力赚到足够的钱",
+        "我的处境是死胡同，无法改变"
+      ],
+      "special_situations": [
+        {
+          "event": "每次领取工资时",
+          "conditional_assumptions": "如果现在的收入不能覆盖高房价，未来也不会有改变，我这辈子都买不起房",
+          "compensatory_strategies": "通过严格预算、反复核算支出来获得控制感",
+          "automatic_thoughts": "这点工资让我这辈子都买不起房",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到朋友或同事在规划买房/投资房产",
+          "conditional_assumptions": "如果我没有达到同龄人的财务里程碑，就说明我不如人、是失败者",
+          "compensatory_strategies": "回避涉及财务与房产话题的社交，减少与朋友的接触以避免比较",
+          "automatic_thoughts": "我永远追不上他们，我就是不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "注意到所在城市房价与生活成本持续上涨",
+          "conditional_assumptions": "如果外部环境越来越糟，我再努力也无济于事",
+          "compensatory_strategies": "频繁关注房价信息，陷入担忧并降低长远规划",
+          "automatic_thoughts": "房价会一直涨下去，我更不可能买得起",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "求职或面试未获得录用",
+          "conditional_assumptions": "几次失败就证明我不够好、以后也不会成功",
+          "compensatory_strategies": "自我否定，回到原岗位维持现状，降低期望",
+          "automatic_thoughts": "我不够资格，永远也找不到更好的工作",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得经济安全与体面生活（包括稳定收入与买房）以及被认可的成就感",
+        "fear": "害怕失败与被同龄人比较后显得不如人，担心失去对未来的掌控",
+        "defense_goal": [
+          "保持自我保护以避免羞耻与被评判（回避涉财话题、减少社交）",
+          "通过理性化与自我否定来降低期望，减少再次受挫的痛苦"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被困住、能力不足、落后于同龄人的人",
+          "object_representation": "他人（朋友/同事）是成功者与潜在的评判者",
+          "linking_affect": "羞耻、焦虑、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其考虑更平衡的证据、提出替代观点或正向肯定时",
+          "interpretation": "将乐观视为不切实际，认为忽视严苛的现实会导致更大失望",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、分析性的语气强调房价与收入差距等客观数据，减少情绪用词与主观感受的表达。"
+        },
+        {
+          "trigger_condition": "讨论求职受挫或面试被拒等经历时",
+          "interpretation": "将失败完全内归因为“我不够好”，忽略情境与竞争等外部因素",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责式句式（如“都是我不够好”），语气压低、回避提出外部支持或缓冲因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被困于“死胡同”工作，认为选择受限",
+            "对未来财务稳定缺乏掌控感",
+            "在涉及财务/房产话题的社交中退缩",
+            "以他人进展为参照，削弱自身选择与道路的价值"
+          ],
+          "outcomes": [
+            "持续焦虑与无望感",
+            "睡眠受损",
+            "工作表现下降",
+            "社交回避与孤立感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中频繁使用“永远/不可能”等绝对化自评",
+            "设定行动时反复担心“可能仍然不够”",
+            "更关注自身不足而忽略既有优势与资源"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不向朋友/同事表达财务不安，独自承受焦虑",
+            "为避免被比较而回避涉财社交场合"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备良好的人际与客户服务技能，曾获得多次面试机会",
+          "愿意主动求变（尝试预算、申请更高薪工作）",
+          "拥有支持性的朋友与同事网络",
+          "愿意寻求心理咨询并能设定小步行动目标"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与比较型思维显著，低自我效能感",
+          "对未来进行消极预测（Fortune Telling），强化无助感",
+          "回避与财务相关的社交交流，减少外部支持",
+          "外部压力：所在城市房价与成本上涨加剧焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关于财务与买房的持续性焦虑与灾难化思维",
+          "antecedent": [
+            "领取工资",
+            "注意到房价/生活成本上涨",
+            "想到未来的财务稳定",
+            "看到朋友或同事在买房或投资房产"
+          ],
+          "core_reason": "受“我不够有能力赚到足够的钱”“处境无法改变”等核心信念及灾难化、预测未来、过度概括等认知偏差驱动",
+          "function": "在短期内通过担忧与反复评估获得一种控制感，避免面对不确定性与失败的恐惧",
+          "consequence": "睡眠受损、工作表现下降、焦虑与无望感加剧"
+        },
+        {
+          "behavior": "回避涉及财务/房产话题的社交活动",
+          "antecedent": [
+            "聚会/谈话主题涉及薪资、买房或投资",
+            "与同龄人对比的情境"
+          ],
+          "core_reason": "担心被比较与被评判，伴随羞耻感与“我不如人”的自我概念",
+          "function": "逃避被评价与由比较引发的焦虑与羞耻",
+          "consequence": "社交支持减少、孤立感增加，负性信念得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 905
+}

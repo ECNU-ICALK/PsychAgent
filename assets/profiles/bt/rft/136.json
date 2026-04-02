@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "59",
+      "name": "温大卫",
+      "gender": "男性",
+      "occupation": "兽医",
+      "educational_background": "兽医学博士（DVM）",
+      "marital_status": "单身",
+      "family_status": "独居，养有多只宠物",
+      "social_status": "有少数理解其爱动物的朋友，但觉得与人不如与动物容易连接，且难以向朋友谈论自己的不够感",
+      "medical_history": "未经历类似心理问题；无心理治疗史；无明显躯体疾病",
+      "language_features": "表达清晰、思维连贯、配合度较高；倾向于关注未完成与不足，难以内化正向反馈（否定正面、心理过滤）"
+    },
+    "main_problem": "我经常探访动物收容所并与动物密切工作，但我持续觉得自己对当地社区做得不够。这些感觉在过去几个月一直存在，已影响我的日常活动与思考。",
+    "topic": "自我探索",
+    "core_demands": "这次促使我寻求咨询的是‘做得不够’的压倒性感受，已开始影响我的日常生活和心理健康。",
+    "growth_experiences": [
+      "曾与团队救助一只生病的小狗，经过数月护理后最终被有爱的家庭收养；当时被视为“好的一天”，但仍被来访者评价为“只是一个小胜利”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的贡献不够／我不够有价值",
+        "只有在整体局势出现显著改变时，我的努力才算数"
+      ],
+      "special_situations": [
+        {
+          "event": "每次探访动物收容所，看到仍有大量动物需要救助",
+          "conditional_assumptions": "如果我不能显著减少苦难或解决大问题，就说明我做得不够",
+          "compensatory_strategies": "增加志愿服务时间、捐赠物资以弥补不足感",
+          "automatic_thoughts": "我做得还不够／我的努力只是沧海一粟",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "收容所工作人员对我的帮助表示感谢并认可我的工作",
+          "conditional_assumptions": "除非看到整体状况的巨大改观，否则正面反馈不算数",
+          "compensatory_strategies": "忽视肯定，继续提高对自己的要求",
+          "automatic_thoughts": "这些感谢只是空话，我仍然没做够",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想那些未能救助或未能改善状况的动物",
+          "conditional_assumptions": "只要还有个体未被救助，就等于我的努力失败",
+          "compensatory_strategies": "反复反刍并计划投入更多时间与精力",
+          "automatic_thoughts": "我还是没能帮助他们，我在失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "思考社区层面的广泛问题与未满足需求",
+          "conditional_assumptions": "我应为社区的苦难承担个人责任",
+          "compensatory_strategies": "将压力和责任揽到自己身上，通过更多付出来弥补",
+          "automatic_thoughts": "如果我不解决这些问题，我就是让社区失望",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望做出有意义的贡献并被认可，获得内在的价值感与满足",
+        "fear": "害怕自己不够好、无价值，无法阻止持续的苦难",
+        "defense_goal": [
+          "维持高标准与自我苛责以减轻“无价值”的焦虑",
+          "通过加倍投入来保有控制感并缓解负罪感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "尽责但永远不够的救助者",
+          "object_representation": "社区／他人是永不停歇的需求与苦难的来源",
+          "linking_affect": "负罪感、无力感、压力"
+        },
+        {
+          "self_representation": "与人连接相对困难的照料者",
+          "object_representation": "他人难以理解自己的感受，正向反馈显得空洞",
+          "linking_affect": "疏离、怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或收容所工作人员给予积极反馈、认可贡献时",
+          "interpretation": "将正面反馈理解为不真实的“空话”，不足以证明自己有价值",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "坚持淡化赞美，重复“还不够”，语气平淡但坚定，避免展开情感体验。"
+        },
+        {
+          "trigger_condition": "当咨询师提出“换个视角／平衡看待”的建议，邀请其关注已取得的成果时",
+          "interpretation": "认为这是在让自己忽视真实问题，感觉不真诚，从而保持距离",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用“大局”“理论上”等抽象表述进行反驳，保持客观疏离的语气与逻辑化说明。"
+        },
+        {
+          "trigger_condition": "当想到未被救助的动物或未满足的社区需求时",
+          "interpretation": "将无法控制的外部结果转向自责，视为自身不够与失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我批评的口吻强调个人不足，减少寻求支持或外部表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "持续觉得对社区做得不够",
+            "难以内化他人的正向反馈",
+            "关注未完成与苦难而忽视小胜利",
+            "反复思考还能做什么更多"
+          ],
+          "outcomes": [
+            "中度压力",
+            "持续自我怀疑",
+            "注意力与日常活动受影响",
+            "在收容所与动物互动时难以专注当下、获得满足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁以“应该／必须做更多”为内在要求",
+            "将宏观改变才算贡献的外界标准当成自我价值条件"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "难以向朋友谈论自己的不够感，将压力与自责转向自身",
+            "在收容所时把紧张和自我批评压在自己身上，减少与人的直接表达"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复评估自己是否做够、持续自我怀疑",
+            "谨慎表达需求与情感，难以接收正向反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在收容所救助动物或与宠物互动的情境下，来访者通常会陷入“我做得不够”的反刍与自我怀疑，难以体验成就感并影响专注与日常活动。",
+          "unique_outcome": "某次救助病弱幼犬，经过数月护理后被有爱的家庭收养；那一天被来访者视为“好的一天”，看到了具体改变与成果。",
+          "reason": "线索：长期投入的护理产生可见结果；收养家庭与收容所团队的正向反馈与支持；具体个案的成功使其短暂地关注到已完成的贡献。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "稳定的职业技能与专业身份（兽医学博士）",
+          "持续的志愿服务与物资捐赠，具备责任感与利他动机",
+          "与动物建立连接并投入长期护理的能力",
+          "收容所工作人员给予的正向反馈与认可",
+          "曾有成功救助并见到具体改变的经历（幼犬被收养）"
+        ],
+        "negative_force": [
+          "心理过滤与否定正面，难以内化肯定",
+          "个人化社区问题，把宏观苦难归因于自我责任",
+          "高压力的价值条件：只有“巨大改观”才算贡献",
+          "与人连接相对困难、难以表达不足感，社会支持动员受限",
+          "持续反刍与自我苛责，影响注意力与日常活动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与动物接触或探访收容所时持续性的自我否定与反刍（“我做得不够”）",
+          "antecedent": [
+            "每次探访动物收容所",
+            "与自己的宠物互动",
+            "收到工作人员的感谢与正向反馈",
+            "思考社区层面未满足的需求与苦难"
+          ],
+          "core_reason": "内摄的高标准与认知偏差（心理过滤、否定正面、个人化）使其将价值感建立在宏观改变上，视未满足为个人失败。",
+          "function": "通过自我施压来维持责任感并驱动更多投入，同时回避满足与欣慰以减少负罪与不配感。",
+          "consequence": "中度压力与自我怀疑，难以专注当下，日常活动与思考受影响；工作虽未显著受损，但主观体验质量下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 136
+}

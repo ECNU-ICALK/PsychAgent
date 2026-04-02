@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "温迪",
+      "gender": "女",
+      "occupation": "商科学生",
+      "educational_background": "正在攻读商业学位",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "有朋友和同学可交流，但因压力与负性思维关系有所疏远",
+      "medical_history": "无重大躯体疾病；无以往心理咨询/治疗经历",
+      "language_features": "表达清晰，能描述内心想法；情绪低落，倾向自我否定与聚焦负面；配合度较好"
+    },
+    "main_problem": "在一门课程拿到B后，我一直在与低自我价值感和对不成功的恐惧作斗争。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为我注意到这些消极想法正在影响我的整体身心健康和自信心，进而影响我的学业表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我注定不会成功",
+        "我的价值取决于成绩"
+      ],
+      "special_situations": [
+        {
+          "event": "在一门课程中收到B的成绩",
+          "conditional_assumptions": "如果我不能在每一门课都拿到A，就说明我失败了/不够好",
+          "compensatory_strategies": "设定新目标并更加用功逼迫自己，以证明自己有能力",
+          "automatic_thoughts": "我拿了B，就说明我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在思考未来职业前景时联想到这次B",
+          "conditional_assumptions": "如果学业不能完美，我在竞争激烈的行业里就一定会失败",
+          "compensatory_strategies": "不断自我鞭策、增加投入以避免未来失败",
+          "automatic_thoughts": "我注定会失败，既然现在一门课都拿不好，将来更不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "学习或做其他作业时，这个B成绩反复浮现",
+          "conditional_assumptions": "一次失误会否定我之前所有的成绩",
+          "compensatory_strategies": "回避与他人讨论、减少社交以避免被评价，并持续盯住错误提醒自己不要松懈",
+          "automatic_thoughts": "这一个B说明我不够好，其他成绩都不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友/同学互动时担心被问及这次成绩与感受",
+          "conditional_assumptions": "如果表达脆弱或谈及挫折，别人会看轻我、认为我软弱",
+          "compensatory_strategies": "疏远朋友，避免谈论感受来防止被评价",
+          "automatic_thoughts": "他们会觉得我很弱、看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学业与职业上被认可、被看见自己的价值",
+        "fear": "害怕失败后被否定、被视为软弱，从而失去价值与机会",
+        "defense_goal": [
+          "通过维持苛刻标准与自我批评来避免再次失败与羞耻",
+          "与他人保持一定距离以避免被评价为弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的学生",
+          "object_representation": "苛刻的评判者/会看不起我的他人（朋友、同学、未来雇主）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议将B视为学习机会，或提示看到正面证据时",
+          "interpretation": "这是在为失败找借口，会让我变得松懈",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气坚决但平静，反复使用“但是”否定积极证据，强调“这只是找借口”，减少情感表达。"
+        },
+        {
+          "trigger_condition": "当想到向朋友/同学表达自己的挫败感或寻求支持时",
+          "interpretation": "他们会觉得我软弱并看不起我",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以迟疑、担忧的语气提出他人负面看法的假设，然后迅速闭口或转移话题，减少细节披露。"
+        },
+        {
+          "trigger_condition": "当被B成绩激发出羞耻和焦虑时",
+          "interpretation": "只有严厉批评自己才不会再次失败",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用苛刻的自我评价，如“我不够好/我就是失败者”，语气短促、强硬，回避探索更柔和的感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在拿到B后产生“那还有什么意义/何必再努力”的想法",
+            "将自我价值强烈捆绑于成绩与成就",
+            "对未来职业前景产生宿命式的失败预期"
+          ],
+          "outcomes": [
+            "自我价值感下降、焦虑与压力上升",
+            "睡眠与饮食紊乱",
+            "与朋友疏远、回避表达脆弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“每门课都要拿A”当作硬性自我评价标准",
+            "反复强调“如果我不逼自己，我就永远不会成功”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "担心朋友会认为自己软弱，从而回避与其交流",
+            "在社交场合预设他人的负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对自我表达高度谨慎，反复自责与自我否定",
+            "难以接纳正面证据，担心“宽容自己会变差”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在其他课程中取得良好成绩（具备真实的学业能力证据）",
+          "拥有可联络的朋友与同学等社会支持资源",
+          "能主动设定目标并努力投入（自我驱动力）",
+          "愿意寻求咨询与尝试新方法（求助动机与改变意愿）"
+        ],
+        "negative_force": [
+          "非黑即白思维与灾难化预期，过度概括单一失败",
+          "否定积极证据与负面过滤，强化自我否定",
+          "将自我价值与成绩高度绑定，依赖外部评价",
+          "对被视为软弱的恐惧导致社交回避，削弱支持",
+          "反刍思维加重压力，导致睡眠与饮食紊乱"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕B成绩的反复反刍与对未来的灾难化思考",
+          "antecedent": [
+            "想起B成绩",
+            "在学习或做其他作业时",
+            "思考未来职业前景时"
+          ],
+          "core_reason": "将自我价值与成绩绑定，害怕失败并倾向以灾难化方式预测未来",
+          "function": "通过自我警惕与自责试图避免再次失败（逃避被指责与失控）",
+          "consequence": "压力升高、学习效率下降，睡眠与饮食紊乱持续"
+        },
+        {
+          "behavior": "回避与朋友交流、疏远社交",
+          "antecedent": [
+            "被朋友/同学关心或想到谈及成绩与感受时",
+            "预期他人会评价自己"
+          ],
+          "core_reason": "担心被视为软弱、被看不起（个人化与读心术）",
+          "function": "逃避可能的羞耻与负面评价",
+          "consequence": "人际关系紧张、社会支持减少，负性情绪维持或加重"
+        },
+        {
+          "behavior": "睡眠困难与食欲下降（压力相关生理反应）",
+          "antecedent": [
+            "临睡前反复担心学业与未来",
+            "白天高压学习之后仍处于高唤醒状态"
+          ],
+          "core_reason": "焦虑与反刍维持高唤醒，难以下调生理激活",
+          "function": "保持警觉以应对感知的威胁（对“失败”的过度准备）",
+          "consequence": "身心疲惫、注意力与执行力下降，进一步影响学业与情绪"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 856
+}

@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "李明凯",
+      "gender": "男",
+      "occupation": "技术专员（信息技术）",
+      "educational_background": "信息技术硕士",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有几位要好的朋友，但尚未与他们讨论自己对单身的困扰；负性思维影响了与朋友的互动",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题就诊史或心理治疗史",
+      "language_features": "表达清晰、逻辑性尚可；整体语气消极、悲观；对改变持怀疑态度但愿意尝试，配合度一般；能描述触发情境并自我反思"
+    },
+    "main_problem": "我觉得单身是结婚和拥有一段充实关系的障碍。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些关于单身的负面想法正在影响我的心理健康和整体幸福，促使我寻求咨询。",
+    "growth_experiences": [
+      "过去的恋爱关系以失败告终（未提供具体细节），加深了对亲密关系前景的悲观预期，使其倾向以过往失败定义未来结果。",
+      "长期受到社会与家庭关于“成双成对、尽快成家”的社会性压力和比较（社交媒体、家庭聚会），在不断对照中形成自我不足的感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会孤独。",
+        "我不可能拥有稳定而亲密的关系。"
+      ],
+      "special_situations": [
+        {
+          "event": "在公共场合看到幸福的情侣",
+          "conditional_assumptions": "如果别人都有伴侣而我没有，就说明我不受欢迎、将继续单身。",
+          "compensatory_strategies": "回避社交，将注意力转向工作和兴趣以分散注意。",
+          "automatic_thoughts": "我可能永远找不到伴侣，大家都在前进，只有我落后。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "参加家庭聚会时被触及婚恋/结婚话题",
+          "conditional_assumptions": "如果达不到家人的期望，就说明我失败，也会让他们失望。",
+          "compensatory_strategies": "减少谈论亲密关系话题，保持沉默或转移话题以避免被评价。",
+          "automatic_thoughts": "他们会觉得我很失败、很尴尬。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交媒体上看到关于情侣、结婚与“安定”的内容",
+          "conditional_assumptions": "在这个年龄应该已经成家，否则就不正常、说明我不行。",
+          "compensatory_strategies": "减少在社交媒体上关注相关内容，继续投入工作来压制不适感。",
+          "automatic_thoughts": "大家都在进入关系、结婚，只有我落后，没有希望了。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想过去的恋爱失败经历",
+          "conditional_assumptions": "一次（或几次）失败意味着未来也会失败。",
+          "compensatory_strategies": "降低对亲密关系的期待，避免开启新关系以防再次受挫。",
+          "automatic_thoughts": "恋爱对我来说只会重演失败，我注定不适合亲密关系。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有被接纳、被珍视的亲密与婚姻关系",
+        "fear": "害怕被拒绝与再次失败、被评判为不够好，最终被孤立",
+        "defense_goal": [
+          "通过悲观与降低期待来避免失望与被拒的痛苦",
+          "保持情感保留与回避披露以减少羞耻与评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无价值、被落下的单身者",
+          "object_representation": "挑剔、带有要求与评判的他者（家庭/社会）",
+          "linking_affect": "羞耻、焦虑、孤独"
+        },
+        {
+          "self_representation": "注定被拒绝的人",
+          "object_representation": "容易否定与拒绝自己的潜在亲密对象",
+          "linking_affect": "恐惧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出探索替代性结果、挑战灾难化预测或建议进行行为实验时",
+          "interpretation": "认为改变很难且可能无效（“投入很多也未必有用”），以理性理由弱化尝试的意义",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以犹疑与保留的语气回应，使用“可能”“不一定”“但很难”等限定词，提出多重顾虑以降低承诺。"
+        },
+        {
+          "trigger_condition": "当被邀请将真实困扰与朋友分享，或谈到他人可能的看法时",
+          "interpretation": "假设他人会认为自己“戏多/绝望”，因此不值得去表达",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以顾虑他人评价为由回避披露，强调“他们可能会觉得……”等表述，保持简短、含糊其辞。"
+        },
+        {
+          "trigger_condition": "在讨论亲密关系相关情绪体验（如孤独、被拒的痛苦）时",
+          "interpretation": "转向抽象分析、对比工作领域等理性解释以回避情绪",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用分析性语言，聚焦概念与逻辑而非情感体验，语气平稳、情感色彩较弱。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期单身，看到幸福情侣或在家庭聚会时强烈触发孤独感",
+            "担心被视为“戏多/绝望”，回避向朋友表达真实感受，导致联结受阻"
+          ],
+          "outcomes": [
+            "持续的悲观与负性自动思维",
+            "睡眠质量下降与动机低落",
+            "人际联结减少、主观孤独感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心朋友会认为自己“戏多/绝望”，因此不表达真实困扰",
+            "在咨询中频繁使用“可能没用”“不一定能改变”等自我限制言语"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不向朋友寻求支持，将能量转向自我压抑与忍耐",
+            "通过投入工作与兴趣来分散痛苦情绪，而非直接表达或寻求联结"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对未来结果不确定的情境（尤其涉及亲密关系）时，李明凯通常会做出最坏预测并深信不疑，从而感到沮丧与回避。",
+          "unique_outcome": "在某些工作项目中，他原以为会“很糟”的结果最终却“还可以/进展顺利”，与以往灾难化预测不同，事实并未如担心般恶化。",
+          "reason": "不同理解与线索：在工作领域能获得更具体的反馈与可控步骤，帮助他修正预测；他注意到“我的负面预测并不总会成真”。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作表现稳定，具备解决问题与执行计划的能力",
+          "有几位可提供一般性支持的朋友，具备潜在的社会支持资源",
+          "能觉察到思维模式（如灾难化）并愿意尝试改变",
+          "在工作中有过“负面预测未成真”的体验，具备修正预测的证据"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术与心理过滤等认知偏差强化悲观信念",
+          "来自家庭与社会的婚恋压力加剧自我比较与羞耻感",
+          "回避披露与寻求支持，导致联结减少、孤独感加重",
+          "睡眠受损与动力低落形成负性循环，降低改变的能量"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对亲密关系前景的灾难化负性预测与反复思考",
+          "antecedent": [
+            "看到或接近幸福情侣",
+            "参加家庭聚会谈及婚恋",
+            "在社交媒体上接触关于恋爱与结婚的内容",
+            "回想过去的恋爱失败"
+          ],
+          "core_reason": "受过去恋爱失败与社会/家庭压力影响，形成“失败会反复出现”的过度概括与“最坏将成真”的预测倾向。",
+          "function": "通过预设最坏以逃避不确定感和潜在失望，暂时获得控制感。",
+          "consequence": "持续焦虑与低落情绪、睡眠质量下降与动机减退，进一步回避建立新关系。"
+        },
+        {
+          "behavior": "回避与朋友/家人讨论关于单身的真实感受与需求",
+          "antecedent": [
+            "想到他人可能的评价（被看作戏多/绝望）",
+            "面对被直接询问感情现状或婚恋计划"
+          ],
+          "core_reason": "害怕被拒绝与被评判，内化的羞耻感驱动回避表达与求助。",
+          "function": "逃避潜在的羞耻与负面评价，短期减少焦虑与暴露脆弱感。",
+          "consequence": "社会支持进一步减少，孤独与负性信念被强化。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1464
+}

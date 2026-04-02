@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "陈悦",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父亲从事石膏板施工，母亲为注册护士（RN）",
+      "social_status": "有人际支持（有几位朋友可倾诉），但因难以敞开心扉而与部分关系紧张",
+      "medical_history": "无重要躯体疾病；既往在重要事件前反复出现焦虑与负性预测；未接受过类似问题的治疗或咨询",
+      "language_features": "表达清晰、配合度高，能进行自我反思；情绪焦虑明显，倾向自我苛责与高标准要求；叙述连贯但负性自动想法反复出现"
+    },
+    "main_problem": "我相信我的垒球队会在明天的冠军赛中输掉，这种想法带来了焦虑和悲观情绪。",
+    "topic": "情绪管理",
+    "core_demands": "持续的负性想法和与重要事件相关的焦虑开始影响我的表现和对活动的享受，因此希望获得咨询支持。",
+    "growth_experiences": [
+      "以往在重要事件（如考试或比赛）前反复出现类似的负性预测与焦虑，常导致注意力下降与发挥变差；当时未寻求专业帮助或治疗，逐渐形成“重要时刻会发挥失常”的经验模式。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "如果我表现不佳，别人会失望并认为我不够好",
+        "必须达到很高的标准，否则就是失败"
+      ],
+      "special_situations": [
+        {
+          "event": "冠军赛前夕，想到比赛结果",
+          "conditional_assumptions": "如果球队输了，就说明我不够好，并且我让大家失望",
+          "compensatory_strategies": "尝试分散注意力并强行专注于正面结果以对抗负性想法",
+          "automatic_thoughts": "明天我们会输",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "重要考试或比赛临近的几天",
+          "conditional_assumptions": "只有完美表现才算成功，否则就是失败",
+          "compensatory_strategies": "不断自我要求、试图用积极思考压制负性想法",
+          "automatic_thoughts": "如果发挥不完美，就证明我很糟糕",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面对团队竞争压力并担心个人可能失误",
+          "conditional_assumptions": "如果我犯错或球队没赢，主要责任在我",
+          "compensatory_strategies": "将压力内化、减少向朋友倾诉与寻求支持",
+          "automatic_thoughts": "如果我们输了，都会怪我，我让大家失望",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "距离冠军赛越来越近，外界关注度与自我施压上升",
+          "conditional_assumptions": "一旦出现失误，后果会非常严重且不可承受",
+          "compensatory_strategies": "在脑中不断演练最坏情景，试图提前做好心理准备",
+          "automatic_thoughts": "只要出一点错，比赛就会彻底崩盘",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过良好表现获得他人的认可，并不让团队失望",
+        "fear": "害怕失败被责怪、被他人失望与关系受损",
+        "defense_goal": [
+          "将责任内化并对自己提出更高标准以避免被指责",
+          "通过提前预期最坏结果来降低不确定感与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要完美表现、否则会让他人失望的责任承担者",
+          "object_representation": "他人/团队是严苛的评价者，容易失望并归咎于我",
+          "linking_affect": "焦虑、内疚、害怕"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当临近重要比赛/考试或被询问“如果失败会怎样”时",
+          "interpretation": "他人会把失败归咎于我，我会让大家失望",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责、内疚的语气回应，强调“都是我的错”，语速略快、情绪紧张。"
+        },
+        {
+          "trigger_condition": "当咨询师用证据检视和逻辑挑战其负性预测时",
+          "interpretation": "尝试以理性分析压过情绪体验，避免触及焦虑与脆弱",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观、冷静的语气，强调“团队是整体责任”的事实描述，但淡化个体情绪与需要。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "面对重要事件时难以向朋友敞开，倾向独自承受焦虑",
+            "担忧让他人失望，从而在关系中自我约束与回避表达需求"
+          ],
+          "outcomes": [
+            "焦虑加重与持续",
+            "睡眠与饮食受影响",
+            "人际关系出现紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "明知有朋友可支持，但仍难以开口求助，将压力与焦虑转向自身消化",
+            "在强烈担忧时把本应对外表达的需求与感受压回自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我苛责，认为失败会是“我的错”",
+            "为避免让他人失望而过度自我要求，谨小慎微"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“必须表现完美才算可以”的标准当作自我评价依据",
+            "把比赛结果看得极为重要，并以此严格要求自我"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在重要考试前，来访者通常会预言失败并高度焦虑，导致注意力下降与发挥变差。",
+          "unique_outcome": "在某次考试中，她原以为会不及格，但最终考得不错，结果并未如担心的那样糟糕，她感到如释重负与惊喜。",
+          "reason": "线索：虽然焦虑，但仍坚持参加并完成考试；实际结果提供了对灾难化预测的反证，成为后续自我调整与建构信心的素材。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我反思能力，能识别并描述自动化思维与模式",
+          "存在成功的例外经验（曾在预期失败的考试中取得较好成绩）",
+          "有一定的社会支持（有几位朋友可倾诉）",
+          "愿意尝试认知行为策略（去灾难化、重构思维）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知偏差显著",
+          "个人化与自我归责倾向强",
+          "全或无思维与过高自我标准",
+          "在压力下难以向他人求助，倾向把压力内化",
+          "焦虑导致睡眠与饮食受损，进一步削弱表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在重要事件（比赛/考试）前出现灾难化预测与显著焦虑",
+          "antecedent": [
+            "临近重要比赛或考试",
+            "想到比赛/考试的结果与可能失误",
+            "外界对结果的关注与自我赋予的高重要性"
+          ],
+          "core_reason": "担心让他人失望并被归咎，将高标准内摄为自我评价标准，伴随灾难化与预测未来的思维模式",
+          "function": "试图通过提前预估最坏结果来获得控制感、降低不确定性与被指责的风险",
+          "consequence": "注意力受损、睡眠与进食困难、表现下降、人际关系紧张，并进一步强化负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 228
+}

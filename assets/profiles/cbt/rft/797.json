@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "林宇成",
+      "gender": "男",
+      "occupation": "快餐厨师（短单厨师）",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有一位支持性的朋友，但不愿与其讨论职业不满；情绪变化与热情下降影响与朋友的互动",
+      "medical_history": "无重大躯体疾病；无类似心理问题既往史；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性好、配合度高，能识别并描述自身思维模式与情绪影响；态度积极，愿意尝试重构与练习"
+    },
+    "main_problem": "我经常觉得自己在职业上应该做得更多，尤其是考虑到我以笔名写言情小说以及曾徒步阿巴拉契亚步道的经历。这种思维模式导致不满意感和自我不足感。",
+    "topic": "职业发展",
+    "core_demands": "这些不满感影响了我的情绪和动力，使我难以享受自己的兴趣与工作，因此寻求咨询以改变看法、缓解不满意感并提升动力。",
+    "growth_experiences": [
+      "长期以笔名创作言情小说，将写作作为重要兴趣与投入，增强了对以写作为潜在职业方向的期待。",
+      "曾完成阿巴拉契亚步道徒步，这一成就体验强化了对“更具冒险精神的生活方式”的向往，与当前工作形成对比。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于职业上的成功与成就"
+      ],
+      "special_situations": [
+        {
+          "event": "在经历了一整天繁重的工作、身心疲惫的下班时刻",
+          "conditional_assumptions": "如果我现在还不是成功的作家或过上更冒险的生活，就说明我失败了、在浪费时间",
+          "compensatory_strategies": "通过设定更激进的职业目标与主动拓展人脉来“证明自己”",
+          "automatic_thoughts": "我永远也成不了作家/我不该把时间浪费在这份工作上",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "看到或想到同龄人/他人在写作事业上成功或拥有更冒险的生活方式时",
+          "conditional_assumptions": "如果我不及他人，就说明我不够好、价值更低",
+          "compensatory_strategies": "频繁社会比较，强化自我要求以缩小差距",
+          "automatic_thoughts": "我不如他们，我落伍了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "意识到当前工作与写作/徒步等热情不匹配时",
+          "conditional_assumptions": "如果工作与热情不一致，那么这份工作就没有意义、毫无价值",
+          "compensatory_strategies": "否定当前工作的积极面，催促自己尽快转型",
+          "automatic_thoughts": "这份工作没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "为转型尝试设定目标和拓展人脉后一段时间仍未见明显进展",
+          "conditional_assumptions": "如果短期看不到成果，就意味着我做不到、未来也不会改变",
+          "compensatory_strategies": "进一步加重自我苛责与“应该”自我要求，增加压力以逼迫改变",
+          "automatic_thoughts": "似乎什么都不会改变，我会一直被困在这里",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望过与内在热情一致且被认可的生活（成为更成功的创作者/更具冒险意义的人）",
+        "fear": "害怕失败与被比较中显得不如人，从而被评判为不够好、虚度人生",
+        "defense_goal": [
+          "用严格的“应该”与社会比较来维持控制感与动力，以回避直面失败与不值得感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、落后于他人的追赶者",
+          "object_representation": "评价标准严苛、随时在比较与审视的他者/社会",
+          "linking_affect": "自卑、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请更深入地聚焦内在情绪与自我价值感（而非目标或技巧）时",
+          "interpretation": "倾向将问题理解为需要更多计划与行动的“任务”，而非情感与价值冲突（将情绪困扰转化为理性任务）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、分析性的语气讨论计划与步骤，减少感受词的使用，强调目标与效率，淡化脆弱与不安。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在下班后强烈感到当前工作与内在热情不一致，认为“这份工作没有意义”",
+            "与他人成功与冒险生活比较时加重价值感空心"
+          ],
+          "outcomes": [
+            "不满意感与自我不足感",
+            "动力下降，难以享受写作与徒步",
+            "情绪低落与压力升高"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "虽有支持性朋友但不愿谈及职业不满，减少了连接与支持的获取"
+          ],
+          "outcomes": [
+            "情绪支持不足，易在压力时陷入自我苛责",
+            "人际活力下降、热情减退"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“应该”句式要求自己在职业上做得更多",
+            "以社会/他人的成功作为内在评判标准，忽视自身节奏与处境"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "将注意力集中在自我不足与落后上，强化自我苛责",
+            "对朋友保留职业不满的情绪，不愿表达需求，减少获得支持的机会"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，主动寻求咨询与改变",
+          "具备明确兴趣与过往成就（写作、徒步）可作为资源",
+          "能识别并重构消极思维，愿意练习肯定句与可视化",
+          "工作表现良好，具备稳定性与基本效能感",
+          "有一位支持性的朋友可潜在提供情感与实践支持"
+        ],
+        "negative_force": [
+          "过度使用“应该”与过度概括，形成自我苛责循环",
+          "频繁社会比较，忽视自身进展与情境，强化自卑",
+          "对当前工作的积极面与过渡价值进行否定（否定正向）",
+          "不愿与朋友讨论困扰，支持系统利用不足",
+          "下班后情绪与体力耗竭，触发负性自动思维"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "职业相关的自我苛责与消极自动思维（“应该”语句、过度概括与比较）",
+          "antecedent": [
+            "下班后身心疲惫",
+            "看到或想到他人在写作或冒险生活上的成功",
+            "意识到工作与热情不匹配",
+            "设定目标与拓展人脉后短期内未见成效"
+          ],
+          "core_reason": "核心信念“我不够好”、将自我价值与成就强绑定，并内摄社会标准形成刚性“应该”规则",
+          "function": "通过自我鞭策以获得控制感与推进改变，同时回避直面失败与无价值感的脆弱",
+          "consequence": "不满意与压力增加、动力下降，难以享受写作与徒步；人际关系受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 797
+}

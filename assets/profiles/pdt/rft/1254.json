@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "梁峰",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有较多朋友，社交支持良好（自述）",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；此前未出现类似心理问题（自述）",
+      "language_features": "能清晰表达孤独与被拒经历，思路清晰，配合度较高；存在灾难化、非黑即白、过度概括、心理过滤与否定积极等消极自动思维；语速与情绪表现强度未提及"
+    },
+    "main_problem": "I have a persistent belief that I will be alone forever, despite having a lot of friends. This belief is causing feelings of loneliness and inadequacy. The problem started around a year ago when I faced several rejections in the dating scene.",
+    "topic": "人际关系",
+    "core_demands": "I decided to seek counseling because these negative thoughts are impacting my emotional well-being and self-esteem.",
+    "growth_experiences": [
+      "约一年前在相亲/约会中连续遭遇多次拒绝，被描述为“一连串的失败”，此后在独处或看到情侣时反复触发“我会一直单身”的念头；尽管拥有支持性的朋友圈，但因害怕被评判而未向朋友倾诉，这些经历逐步强化了孤独与自卑感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会孤独/没有人会选择我",
+        "我有问题/不够好，不值得被爱"
+      ],
+      "special_situations": [
+        {
+          "event": "夜晚独处、思考自己的浪漫未来时",
+          "conditional_assumptions": "如果长时间没有人愿意和我约会，就意味着我永远找不到伴侣",
+          "compensatory_strategies": "通过预先假定最坏结果来降低期待（“注定如此”），以减少再次被拒的痛苦",
+          "automatic_thoughts": "我会一直单身，这已经不可改变了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在公共场合看到情侣在一起",
+          "conditional_assumptions": "如果别人都有伴侣而我没有，那就说明我不如他们/我不被需要",
+          "compensatory_strategies": "与他人进行比较并自我贬低，回避主动接触以避免再度受挫",
+          "automatic_thoughts": "别人都能拥有亲密关系，只有我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "经历约会/表白被拒之后",
+          "conditional_assumptions": "如果这次失败了，未来也会一直失败；一次拒绝就证明我不值得被爱",
+          "compensatory_strategies": "将精力转向证实“注定失败”的想法，减少尝试以避免再次受挫",
+          "automatic_thoughts": "又被拒了，我永远都找不到人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要向朋友倾诉孤独感与受挫经历时",
+          "conditional_assumptions": "如果我暴露脆弱，他们就会看不起我、觉得我是失败者",
+          "compensatory_strategies": "回避向朋友表达、把感受压在心里以避免可能的评判",
+          "automatic_thoughts": "他们会觉得我很失败，会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与建立稳定的亲密关系，获得爱与理解",
+        "fear": "害怕被拒绝、被评判为失败者，暴露脆弱后遭到羞辱或否定",
+        "defense_goal": [
+          "通过自我贬低与预设“注定失败”来降低期待，避免被拒的痛苦",
+          "保持情感防御与不披露，减少外界评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被拒的失败者/不被选择的人",
+          "object_representation": "他人（潜在伴侣/朋友）是挑剔的评判者与拒绝者",
+          "linking_affect": "羞耻、恐惧与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询其是否可与朋友分享孤独与受挫感时",
+          "interpretation": "认为一旦表达脆弱，朋友就会看不起自己（像外界评判者一样）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹豫、担忧被评判的语气表达顾虑，强调“他们会看不起我”，回避进一步开放性的自我披露。"
+        },
+        {
+          "trigger_condition": "当谈及多次被拒的经历与未来可能性时",
+          "interpretation": "用“命中注定”来解释失败，以减轻内在冲突与无力感",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用概括性、宿命论的表述（如“可能就是命中注定”），语气带无力感，以此弱化进一步探索具体细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "持续相信“自己会一直单身”",
+            "看到情侣或在夜晚独处时孤独感和绝望感明显增强",
+            "害怕被评判而不向支持性的朋友求助，导致与他人保持情感距离"
+          ],
+          "outcomes": [
+            "孤独与无望感加重",
+            "自尊受损与情绪低落",
+            "回避表达需要，进一步削弱连接与支持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心被朋友评判为“失败者”，不愿表达孤独与求助",
+            "在关系中对自我暴露高度谨慎，倾向压抑需求"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设朋友会看不起自己、对自己失望，从而避免接触与表达",
+            "将内在的羞耻与自贬感投射为他人会否定自己"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，转而对自己做，将能量向内收回。",
+          "manifestations": [
+            "有支持性朋友却不寻求支持，把痛苦自我消化",
+            "在需要外部帮助时选择忍耐与自我压抑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友圈，具备维持友谊的能力",
+          "愿意参与咨询并尝试现实检验与认知重构",
+          "能够自我反思，识别恐惧被拒在关系中的作用"
+        ],
+        "negative_force": [
+          "灾难化与预测未来（“我会一直单身”）",
+          "过度概括与非黑即白思维（一次被拒即等于永远失败）",
+          "心理过滤与否定积极，忽视已有的人际连接优势",
+          "害怕被评判而回避向朋友表达需求，减少可用支持",
+          "自我贬低与宿命论增加无力感与回避行为"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕恋爱前景的灾难化/非黑即白的自动思维（反复自陈“我会一直单身”）",
+          "antecedent": [
+            "夜晚独处时思考未来",
+            "在公共场合看到情侣",
+            "经历约会被拒之后"
+          ],
+          "core_reason": "过去一年连续被拒经历强化了过度概括与灾难化的认知加工，形成对未来关系的否定性核心假设",
+          "function": "通过预设最坏结果来避免不确定性与再次被拒的痛苦（情绪负强化）",
+          "consequence": "孤独与无望感加重，自尊受损，减少尝试与自我暴露，维持问题循环"
+        },
+        {
+          "behavior": "回避向朋友表达孤独与寻求支持",
+          "antecedent": [
+            "想到要与朋友谈及自己的受挫与孤独",
+            "面临强烈被拒或被评判的担心"
+          ],
+          "core_reason": "害怕被评判与羞耻感，伴随读心术式假设“他们会看不起我”",
+          "function": "逃避可能的否定性评价与关系受损的担忧（逃避不受欢迎的事物）",
+          "consequence": "无法获得外部支持与安慰，维持并加重孤独与负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1254
+}

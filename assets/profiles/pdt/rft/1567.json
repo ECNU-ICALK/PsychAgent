@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "刘美嘉",
+      "gender": "女",
+      "occupation": "音乐人",
+      "educational_background": "自5岁起接受正规的音乐课程",
+      "marital_status": "单身",
+      "family_status": "独居；有一位在乐队里的最好的朋友",
+      "social_status": "与乐队中最好的朋友关系紧张，已从合作项目中撤退；有一定社交支持但难以向对方敞露不足感",
+      "medical_history": "无重大躯体疾病；此前未出现类似心理问题；未接受过心理治疗",
+      "language_features": "能够清晰描述自己的负性思维与经历；配合度良好；语速与逻辑未提及"
+    },
+    "main_problem": "我对音乐事业感到沮丧，因为我的新歌没有被广泛接受，这让我怀疑自己作为音乐人的能力。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些不足感正在影响我对音乐的热情与创造力，我想要处理这些负面想法。",
+    "growth_experiences": [
+      "自5岁开始系统学习音乐并进行正规训练，音乐教育贯穿成长过程，形成以音乐为核心的职业路径与自我认同。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我永远不会成为优秀的音乐人",
+        "我的价值取决于他人对我作品的接受"
+      ],
+      "special_situations": [
+        {
+          "event": "新歌发布后反响不佳",
+          "conditional_assumptions": "如果作品没有被广泛接受，就证明我不够好、不会成功",
+          "compensatory_strategies": "向朋友和粉丝寻求认可与安慰（外部验证）",
+          "automatic_thoughts": "我永远不会成为优秀的音乐人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在创作新音乐或演出时反复想起负面反馈",
+          "conditional_assumptions": "如果不能达到完美表现或与同行同等名气，就等于失败",
+          "compensatory_strategies": "停止创作、回避演出或合作",
+          "automatic_thoughts": "这次也会失败，我做不到",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "持续将自己与成功音乐人进行比较",
+          "conditional_assumptions": "如果达不到他们的名气和水平，我就是失败者",
+          "compensatory_strategies": "强迫性比较、更加寻求外部认可",
+          "automatic_thoughts": "我永远达不到他们的水平",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "看到或想到对新歌的平淡/负面反馈",
+          "conditional_assumptions": "如果别人不喜欢我的歌，就说明他们认为我不够好",
+          "compensatory_strategies": "回避向他人敞露真实感受，减少互动",
+          "automatic_thoughts": "他们觉得我很糟",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与欣赏，成为有价值的音乐人",
+        "fear": "害怕失败与被否定，害怕无法与同侪比肩而被贬低",
+        "defense_goal": [
+          "通过回避创作与合作来降低被评价的风险",
+          "通过寻求外部认可暂时缓解不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、可能被否定的音乐人",
+          "object_representation": "挑剔、带评判的他人（观众、同行、朋友）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "新歌反响不佳后对自身音乐能力与职业前途产生怀疑",
+            "以他人名气与评价作为自我价值的衡量标准，持续比较",
+            "对居家生活失去兴趣，创作热情下降"
+          ],
+          "outcomes": [
+            "热情与创造力下降",
+            "自我怀疑与沮丧加重",
+            "撤退与回避合作"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "在创作时反复揣测他人会怎么看自己，预设他人对自己持负面看法",
+            "因担心被评价而退出与挚友的合作项目"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "自5岁起接受系统的音乐训练，具备扎实的专业基础",
+          "与乐队中的挚友关系具有支持性",
+          "具备自我觉察，能够识别并表达负性自动化思维",
+          "愿意寻求心理咨询与改变（态度积极）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术等认知偏差显著",
+          "过度依赖外部认可，自我价值随他人反馈而波动",
+          "与成功音乐人比较导致自我否定与绝望",
+          "高期待带来压力增大；自我怀疑影响睡眠与日常节律"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在创作过程中因负面评价而回避或停止写作",
+          "antecedent": [
+            "开始写新歌时想到上一首反响不佳",
+            "回忆或预设他人对自己作品的负面看法"
+          ],
+          "core_reason": "对职业前景与自我价值的灾难化认知，过度比较导致自我效能感低",
+          "function": "逃避失败与被评价的焦虑，暂时降低不适",
+          "consequence": "创作效率与质量下降，职业发展受阻"
+        },
+        {
+          "behavior": "从与挚友的合作项目中撤退",
+          "antecedent": [
+            "感觉自己不够好、担心被比较或被评判",
+            "合作前后回想新歌反响不佳"
+          ],
+          "core_reason": "寻求外部认可未获缓解后产生羞耻与低自尊，倾向回避可能的负面评价",
+          "function": "避免被评价与潜在冲突，维持短期心理安全感",
+          "consequence": "关系紧张、社交支持减少，进一步削弱创作与表演动力"
+        },
+        {
+          "behavior": "反复向朋友和粉丝寻求外部认可",
+          "antecedent": [
+            "新歌反响不佳后情绪低落",
+            "在创作或演出前感到不确定与不自信"
+          ],
+          "core_reason": "自我价值依赖外部评价，试图通过肯定来缓解不安",
+          "function": "获取安慰与确认以短暂提升自信",
+          "consequence": "未能有效缓解自我怀疑，加重对他人评价的依赖"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1567
+}

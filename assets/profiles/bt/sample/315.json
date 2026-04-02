@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "私人教练",
+      "educational_background": "私人教练认证",
+      "marital_status": "单身",
+      "family_status": "独自居住在美国内华达州拉斯维加斯",
+      "social_status": "有几位可以交流的朋友，但尚未与他们讨论自己的无能感；与同样喜欢钓鱼的朋友因自己持续的自我怀疑与比较而关系受影响",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性强、开放配合、能进行自我反思；态度积极"
+    },
+    "main_problem": "我不断觉得自己在钓鱼方面一定很糟，因为我总是比不上职业钓手的渔获，这导致我感到无能与自卑，并逐渐影响到我对其他能力的信心。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些无能感正在影响我的自尊和对爱好的享受，这促使我寻求咨询。",
+    "growth_experiences": [
+      "几年前开始把钓鱼作为爱好。每到周末出钓时都会将自己的渔获与职业钓手比较，感觉必须达到职业水平，否则就是失败者。这种比较和自我苛责逐渐强化为“我很差劲/我不行”的信念，导致周末的放松体验被破坏，并进一步扩散到对其他能力的怀疑。为提升表现，曾尝试观看教程、变换钓点和技巧，但自卑感仍持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/我很差劲",
+        "如果达不到职业水平，就等于失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "周末去钓鱼并将渔获与职业钓手做比较",
+          "conditional_assumptions": "若我钓得没有他们多，就证明我很差、我失败了",
+          "compensatory_strategies": "不断比较并加倍尝试：观看教程、更换钓点、使用不同技巧来“证明自己”",
+          "automatic_thoughts": "我不如他们/我一定很糟糕",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "出钓前或钓鱼过程中预期自己表现",
+          "conditional_assumptions": "如果这次钓不到很多鱼，就说明我永远也不会变好",
+          "compensatory_strategies": "设定过高标准、过度紧张与自我施压",
+          "automatic_thoughts": "我永远不会在这方面变好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾曾经有收获的出钓日",
+          "conditional_assumptions": "即便有好表现也不代表能力，成功只是运气",
+          "compensatory_strategies": "否定积极经验、将成功归因于外在偶然因素",
+          "automatic_thoughts": "那次只是运气好，不是我有技巧",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友（也喜欢钓鱼）互动或谈论钓鱼成绩",
+          "conditional_assumptions": "如果我钓得不如他们，他们会看不起我，说明我不行",
+          "compensatory_strategies": "减少交流、回避谈论感受以避免被评价",
+          "automatic_thoughts": "他们会觉得我很差",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、在重要他人（朋友/同好）面前被接纳",
+        "fear": "害怕被视为失败者、被比较而贬低；担心丧失自尊与价值感",
+        "defense_goal": [
+          "通过维持极高标准与自我苛责来避免羞耻与被否定，借由否定积极经验来维持“无能”的自我图式以控制不确定性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如人的、需要不断证明自己的失败者",
+          "object_representation": "评判性的优越他人（职业钓手/钓友）",
+          "linking_affect": "羞耻、自卑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请他回顾成功钓鱼经历、寻找能力证据时",
+          "interpretation": "将成功理解为偶然，不足以证明自己有能力（倾向否定积极）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平静偏客观化，强调“运气/外因”，淡化技巧与努力，对积极反馈给出“但/不过”式回应。"
+        },
+        {
+          "trigger_condition": "当讨论目标设定与标准时（如建议设定更现实的期望）",
+          "interpretation": "自动以职业水平作为唯一可接受标准，将外界高标准不加批判地当作自我规则",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”句式，坚持以职业水准为标杆，对更灵活的目标表示犹疑或轻度抗拒。"
+        },
+        {
+          "trigger_condition": "当谈及与钓友的互动与他人评价时",
+          "interpretation": "将自身的羞耻与自卑体验归因于他人“看不起我”的态度（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以谨慎语气陈述他人负面看法，强调他人可能的评判，避免深入自我感受的探讨。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "原本为放松而进行的钓鱼因持续比较与自我苛责而“变质”，周末体验被破坏，逐渐怀疑自我能力与价值"
+          ],
+          "outcomes": [
+            "主观无能感与自卑加重",
+            "对休闲与爱好丧失乐趣",
+            "对自我价值的困惑与贬损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同好朋友的关系因自我怀疑与比较而紧张；不与朋友讨论真实感受"
+          ],
+          "outcomes": [
+            "社会支持弱化",
+            "人际疏离感上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中反复以“我很差/我不行”自我评价",
+            "将成功归为运气而否认自身技巧",
+            "对自己设定过高而僵化的表现标准"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以职业水准作为唯一合格标准",
+            "使用“应该/必须”式自我要求",
+            "难以接纳更灵活且以体验为中心的目标"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在周末钓鱼时，来访者通常会与职业钓手比较并产生强烈的自我否定，导致沮丧、周末体验被破坏、与朋友关系紧张。",
+          "unique_outcome": "在某些出钓日曾实际钓到鱼并短暂感到良好与更有信心（未像以往那样完全陷入失败感），对体验的积极面有所感受。",
+          "reason": "线索：可能因地点、装备或天气更合适，或尝试了不同技巧；这些外在与策略因素使当次体验出现了偏离以往的积极结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极、愿意探索更平衡视角",
+          "具备行动与学习意愿（看教程、换钓点、尝试技巧）",
+          "仍保有一定的正向体验与成功证据（曾钓到鱼）",
+          "拥有一定的朋友资源（可寻求支持）"
+        ],
+        "negative_force": [
+          "过度与职业标准比较、以此评判自我",
+          "非黑即白与过度概括的认知倾向",
+          "否定正向经验（将成功归为运气）",
+          "预测失败、持续自我苛责，导致自尊下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在周末钓鱼情境下出现强烈的自我否定与无能感（负性自动思维与自我贬损言语）",
+          "antecedent": [
+            "周末出钓并看到自己的渔获不如职业钓手",
+            "观看职业钓手的教程或视频",
+            "与钓友交流或比较成绩"
+          ],
+          "core_reason": "将职业水平内化为唯一的评判标准，对自身表现进行灾难化与绝对化评价，形成“我很差/我不行”的稳定自我图式",
+          "function": "逃避失败与被否定的焦虑，通过自我批评维持可控的解释框架（自我保护），同时减少对不确定性的接触",
+          "consequence": "周末的放松与享受被破坏，自尊下降；人际关系紧张；对其他领域的能力产生怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 315
+}

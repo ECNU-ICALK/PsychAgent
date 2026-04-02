@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "李文静",
+      "gender": "女",
+      "occupation": "加油站服务员（兼职）、百科全书推销员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几位朋友可交谈，但因羞耻未与其讨论失败感；与同事建立联系困难，表达自卑感困难",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或精神科就诊史；过去未出现类似自尊问题",
+      "language_features": "略显紧张但愿意配合，表达清晰、有条理，能够描述自身思维与情绪；态度中性"
+    },
+    "main_problem": "我觉得自己是个失败者，并且因为最近一次百科全书销售未能成交，就相信自己永远无法实现成为顶级百科全书推销员的目标；这次工作中的事件显著打击了我的自尊，让我担心再也无法晋升为经理。",
+    "topic": "职业发展",
+    "core_demands": "近期工作事件对自尊的影响使我意识到需要寻求咨询，以应对并改变这些消极的思维模式。",
+    "growth_experiences": [
+      "工作中的显著挫败：在近期的百科全书推销中未能达成任何销售，当时压力很大，因此感到重大挫败，开始怀疑自己作为销售的能力，并担心无法被晋升为经理；此后在面对具有挑战性的销售情境时，负性自动思维反复出现，影响到在加油站的工作表现、与同事的关系以及睡眠。",
+      "舞蹈课程中的失败经历：在一节课上，其他人都顺利完成了一个动作组合，而自己频繁出错；自此之后，频繁与他人比较，认为“再怎么练也只能平庸”，担心会在班级中出丑并被认为是差劲的舞者；尽管老师反馈正在进步，仍倾向于将正面信息视为“只是出于职责的客套”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好，无法达到他人的水平",
+        "一次失败意味着我永远不会成功/无法晋升"
+      ],
+      "special_situations": [
+        {
+          "event": "最近在推销百科全书时一单未成",
+          "conditional_assumptions": "如果我在销售上出现失败，就证明我不适合当销售，也不可能晋升为经理",
+          "compensatory_strategies": "通过积极自我暗示与观看激励视频来试图提升信心",
+          "automatic_thoughts": "我现在肯定再也当不上经理了/我就是个失败者",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在舞蹈课上，其他学员成功完成动作而我频频出错",
+          "conditional_assumptions": "如果我不如同伴表现好，就会被看不起，说明我不够好",
+          "compensatory_strategies": "通过更多练习来弥补不足，同时在心里否定正面反馈",
+          "automatic_thoughts": "大家会觉得我是个差劲的舞者",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "面对具有挑战性的销售情境",
+          "conditional_assumptions": "如果不能立刻取得好成绩，就说明我彻底失败、不具备能力",
+          "compensatory_strategies": "减少与同事的连接、压抑表达自卑感以避免暴露不足",
+          "automatic_thoughts": "我又要失败了，这说明我根本不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到要与朋友谈及自己的失败与羞耻时",
+          "conditional_assumptions": "我的价值取决于他人的认可；如果暴露失败，就会被否定和轻视",
+          "compensatory_strategies": "回避与朋友讨论自身失败与羞耻感",
+          "automatic_thoughts": "他们会看不起我/我很丢脸，还是不要说",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与成功（成为优秀的销售、获得晋升；在兴趣领域被肯定）",
+        "fear": "害怕失败后被羞辱、被看低，进而失去价值与机会",
+        "defense_goal": [
+          "通过回避暴露脆弱与失败来维持自尊的安全感",
+          "用看似合理的解释否定正面反馈，以降低被期望或被评判的压力"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻、欠缺能力的失败者",
+          "object_representation": "他人是潜在的评判者，会看低自己",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人（如舞蹈老师或咨询师）给予正面评价或鼓励时",
+          "interpretation": "她认为对方只是出于职责或客套，并不是真心认可自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的结果或感受编造看似合理的理由来辩解",
+          "response_instruction": "语气温和、不对抗，邀请其具体化证据；使用探询式问题帮助区分“职责性客套”与“真实反馈”，同时肯定其谨慎态度以降低防御"
+        },
+        {
+          "trigger_condition": "在群体场景（舞蹈班、同事群体）中表现不佳或与他人比较时",
+          "interpretation": "她将自我批评外推为他人会看不起自己（尽管没有直接证据）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的感受或冲动归因于他人",
+          "response_instruction": "保持接纳与好奇的语气，邀请其区分事实与推测，鼓励列举支持与反驳证据；避免评判，使用开放式问题"
+        },
+        {
+          "trigger_condition": "被问及是否与朋友或同事分享自己的失败与羞耻时",
+          "interpretation": "认为透露脆弱会导致丢脸或被拒绝，因此尽量压下表达",
+          "defense_mechanism": "压抑",
+          "defense_definition": "不自觉地将难以接受的念头或情感压入潜意识并抑制表达",
+          "response_instruction": "语气轻柔、节奏放慢，优先建立安全感；邀请以小步分享可承受的片段，使用正常化与共情降低羞耻"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "与同事建立连接困难",
+            "对朋友因羞耻而不愿分享失败感"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑与担忧加重",
+            "睡眠受扰"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "职业目标受挫后对自身价值与能力产生怀疑",
+            "把一次失败视作永久性标签"
+          ],
+          "outcomes": [
+            "挫败与抑郁样情绪",
+            "动力下降与工作表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理",
+          "manifestations": [
+            "以“必须成为顶尖百科全书推销员/应当快速成功”为自我标准",
+            "将一次失败等同于永久不合格"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "在舞蹈课上担心他人会认为自己很差，尽管无人这样说"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自我否定并怀疑能力",
+            "将正向反馈视为“出于职责的客套”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做",
+          "manifestations": [
+            "因羞耻而不与朋友谈论失败与不安，将情绪压向自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具有明确的职业目标与热情（主动寻求成为优秀销售）",
+          "能坚持练习与学习（持续上舞蹈课，愿意改进）",
+          "具备一定社会支持资源（有几位朋友可交谈）",
+          "能觉察并描述自身的思维模式，且主动寻求咨询帮助"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术等负性认知显著主导",
+          "否定正面反馈，过度依赖外部评价来界定自我价值",
+          "羞耻感强，倾向回避沟通与表达脆弱",
+          "睡眠受扰与持续担忧影响精力与表现",
+          "与同事连接困难，社会交互中的比较与自我监控加剧压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对销售或表现压力时出现灾难化与预测失败的自动思维",
+          "antecedent": [
+            "最近百科全书销售失败",
+            "面对具有挑战性的销售情境",
+            "在群体中表现不佳时的比较"
+          ],
+          "core_reason": "将一次失败过度概括为永久性结论，并以外部评价作为自我价值的核心依据",
+          "function": "逃避被评判与进一步失败的感受，试图通过自我保护维持脆弱的自尊",
+          "consequence": "自尊受损、焦虑加剧，工作表现下降，职业晋升期望减弱"
+        },
+        {
+          "behavior": "回避与朋友或同事沟通失败与羞耻感",
+          "antecedent": [
+            "想到要与朋友讨论失败经历",
+            "在与同事互动中感到自卑或不适"
+          ],
+          "core_reason": "羞耻与对他人负面评价的担心（读心术），以外部认可决定自我价值",
+          "function": "避免尴尬与可能的否定评价，短期减轻焦虑",
+          "consequence": "社会支持无法获得，孤独感与负性情绪维持，睡眠受扰"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1031
+}

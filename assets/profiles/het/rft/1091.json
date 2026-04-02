@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "马良",
+      "gender": "男",
+      "occupation": "作家",
+      "educational_background": "创意写作学士学位",
+      "marital_status": "单身",
+      "family_status": "与兄弟同住（新购住房）",
+      "social_status": "与兄弟的关系因回避烹饪和聚会而有所紧张；社交参与减少，对谈及自身不足感到不适",
+      "medical_history": "无重大躯体疾病；此前未出现类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、态度中性、能反思与配合、对改变持谨慎但开放的态度"
+    },
+    "main_problem": "我觉得自己烧烤水平很差，没人喜欢我做的食物，尽管我很喜欢烧烤。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些关于烹饪无能的感觉开始影响我对活动和社交互动的整体享受。",
+    "growth_experiences": [
+      "购买第一套房后在新家为兄弟和朋友做东烧烤，期间有人评论其食物“不如别人”，这些评价逐步强化了其对烹饪能力的自我怀疑与不足感，随后开始回避做饭与举办聚会。",
+      "过去因烹饪技巧受到批评并经常与他人比较，逐渐内化为对自己烹饪能力的负面评估（“不如别人”）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不够好/无能的（在烹饪方面）",
+        "我的价值取决于他人对我食物的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在新家为兄弟和朋友举办烧烤聚会时，有人评论我做的食物不如别人",
+          "conditional_assumptions": "如果我的食物不如别人，别人就不会喜欢我，我就是失败者",
+          "compensatory_strategies": "主动向他人寻求肯定，试图以他人的评价来证明自己",
+          "automatic_thoughts": "他们肯定觉得我做得难吃；我不行",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "只要想到要做饭或在家举办活动",
+          "conditional_assumptions": "如果再次搞砸，我会被嘲笑并让大家失望",
+          "compensatory_strategies": "回避烹饪和聚会以降低被评价的风险",
+          "automatic_thoughts": "我肯定会搞砸，大家会讨厌",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与更擅长烧烤的人比较时",
+          "conditional_assumptions": "只有达到或超过他人的水平才算合格，否则就是彻底失败",
+          "compensatory_strategies": "减少动手或只做最简单的菜式来避免失败暴露",
+          "automatic_thoughts": "我不如他们，我怎么做都不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "作为新房的主人招待亲友时",
+          "conditional_assumptions": "作为主人，我应该让所有人都满意，否则就是不合格的主人",
+          "compensatory_strategies": "不断观察他人反应、反复求证他人评价以获得认可",
+          "automatic_thoughts": "如果他们不喜欢，我就是一个糟糕的主人",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢与被认可，作为主人/厨师获得他人的肯定",
+        "fear": "害怕被否定、被羞辱、被评价为无能而被拒绝",
+        "defense_goal": [
+          "通过回避烹饪与聚会来避免被批评与羞耻",
+          "以他人认可维持自尊，减轻不够好的感受",
+          "降低自我暴露以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的厨师/可能失败的主人",
+          "object_representation": "挑剔的评判者、难以取悦的他人",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要取悦他人的人",
+          "object_representation": "掌握评价标准、容易失望的他人",
+          "linking_affect": "紧张、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问是否愿意与兄弟谈论自己的不足和感受时",
+          "interpretation": "认为显露脆弱会被看低或被拒绝（移情：将他人视为苛刻评判者）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用规则化的表达（如“我不该显得软弱”），淡化情绪体验，转而强调“应该自己扛”，语气克制。"
+        },
+        {
+          "trigger_condition": "当咨询师提出进行行为实验或新的尝试时",
+          "interpretation": "这些方法可能对我没用，如果失败会证明我不行",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但保留的语气提出疑虑，使用“我不确定这是否适合我/不会改变什么”等表述，弱化执行承诺。"
+        },
+        {
+          "trigger_condition": "当回忆或讨论他人对食物的反应与反馈时",
+          "interpretation": "他人都不喜欢我的食物（将自我否定投射为他人的评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用“他们肯定觉得……”的断定句，忽视相反证据；语气笃定但带自我否定。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿与兄弟讨论自身的不足与脆弱",
+            "回避举办或参与烹饪与聚会，减少与他人的真实接触"
+          ],
+          "outcomes": [
+            "与兄弟关系紧张、社交减少",
+            "内在孤立感与羞耻感上升"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对曾经喜欢的烧烤兴趣受挫，活动的乐趣下降"
+          ],
+          "outcomes": [
+            "整体动机下降，生活满足感减弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "把“主人应该让所有人满意”当成硬性标准来要求自己",
+            "因“不该显得软弱”的内在规则而压抑自我表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "未核实就认定“大家都不喜欢我做的”",
+            "用“他们的想法”解释自身自卑与回避"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "反复自责“我不如别人”，在社交中小心翼翼避免暴露不足",
+            "担心被看低而抑制真实表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对烧烤有热情，愿意小步尝试（如先为自己做简单练习）",
+          "与兄弟同住，具备一定的家庭支持资源",
+          "工作功能基本稳定，生活有一定结构与节律",
+          "能觉察并表达自身的负性想法与感受，具备一定反思能力"
+        ],
+        "negative_force": [
+          "过度依赖外部认可，容易否定积极反馈",
+          "灾难化、读心术、过度概括等认知偏差显著",
+          "与他人比较导致自卑和退缩",
+          "通过回避烹饪与社交来减轻焦虑，反而强化无能感",
+          "不愿表达脆弱，担心被看低，加剧关系疏离"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪与举办聚会",
+          "antecedent": [
+            "想到做饭或招待他人",
+            "与他人比较烹饪水平",
+            "回想起他人对自己食物的负面评论"
+          ],
+          "core_reason": "害怕被否定与羞耻，对失败结果进行灾难化预测",
+          "function": "逃避被评价与负面情绪，短期减轻焦虑",
+          "consequence": "与兄弟关系紧张、社交减少、生活乐趣下降、饮食习惯受影响"
+        },
+        {
+          "behavior": "反复向他人寻求肯定",
+          "antecedent": [
+            "在烹饪或谈论烹饪后",
+            "对自己手艺感到不安时"
+          ],
+          "core_reason": "自我价值系于他人评价，缺乏内在认可感",
+          "function": "获得安抚、短期缓解不确定与不安",
+          "consequence": "积极反馈被否定或感觉不真诚，进一步强化无能与自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1091
+}

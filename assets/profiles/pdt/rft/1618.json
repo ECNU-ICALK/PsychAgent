@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "王静",
+      "gender": "女",
+      "occupation": "近期移居瑞典",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "在瑞典有一些朋友可以交谈，但尚未向其充分表达自己的无能感与挫败；人际关系受情绪影响而显得疏离",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；在压力或重大生活变化时更容易丢东西",
+      "language_features": "表达清晰、能反思，配合度较高；愿意尝试记录与练习；存在自我贬损用语（如“我是个健忘的笨蛋”），对自己较苛刻"
+    },
+    "main_problem": "“我总觉得自己一直在丢东西，最近甚至觉得自己快失去理智。这让我非常痛苦和沮丧。问题在最近丢失重要物品后加剧，我认为自己丢东西是因为天生健忘、缺乏条理，因此觉得自己无能、不可靠。”",
+    "topic": "情绪管理",
+    "core_demands": "“我决定寻求咨询，因为因丢东西而产生的持续无能感和挫败感已经开始影响我的日常功能与心理健康。”",
+    "growth_experiences": [
+      "在压力或重大生活变化期间更易丢东西，常以自责和“无能感”来应对（长期反复的应对模式）。",
+      "近期移居瑞典，过去一年同时承担了更多职责（教学、育儿、志愿服务），角色负荷显著增加。",
+      "上周组织红十字会大型活动并顺利完成，但未获得感谢或认可，来访者感到“隐形”，质疑努力的意义。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不称职",
+        "我是健忘、愚蠢且不可靠的人",
+        "我的价值取决于他人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "昨天丢了钥匙",
+          "conditional_assumptions": "如果我丢东西，就说明我是健忘且愚蠢的人，不能被信任",
+          "compensatory_strategies": "加倍自责，尝试通过强化组织和记忆技巧来弥补",
+          "automatic_thoughts": "我是个健忘的笨蛋",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上周组织的红十字会大型活动顺利举行，但无人致谢",
+          "conditional_assumptions": "如果别人没有明确表达感谢或认可，就说明我做得不够好、我的努力没有价值",
+          "compensatory_strategies": "承担更多任务、寻求外部认可，但结果感到更需要他人肯定",
+          "automatic_thoughts": "没人重视我，我的付出没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "一名学生当堂没有理解课程内容",
+          "conditional_assumptions": "如果有学生一时没听懂，就证明我是个糟糕的老师",
+          "compensatory_strategies": "对自我能力做全盘否定，焦虑上升并回避自我照料（如跳过瑜伽课）",
+          "automatic_thoughts": "我是个糟糕的老师",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "最近丢了重要物品后情绪和功能受显著影响",
+          "conditional_assumptions": "如果在关键时刻丢了重要物品，就证明我本质上不可靠、无能",
+          "compensatory_strategies": "反复自责、试图加强组织策略，但内心否定感加重",
+          "automatic_thoughts": "我不可靠，不能被信任",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可，期待自己的努力被他人重视",
+        "fear": "害怕被忽视、被否定为不够好或不可靠",
+        "defense_goal": [
+          "通过自我批评与加倍努力来避免被他人指责，维持关系中的安全感",
+          "用自我贬低抢先否定来降低被外界评价时的挫败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "努力付出却被忽视的“隐形人”/不够好的贡献者",
+          "object_representation": "冷漠、苛求或不予认可的他人/权威",
+          "linking_affect": "失落、委屈、挫败"
+        },
+        {
+          "self_representation": "容易犯错、需要被纠正的无能者",
+          "object_representation": "随时评判、挑错的评审者",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当付出未被认可或关键时刻未获得他人感谢（如志愿活动顺利却无人致谢）",
+          "interpretation": "对方不重视我，我一定不够好（移情：将重要他人“不认可”的形象投射到当下他人）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责语气揽责，弱化他人因素，反复表达“我没做好/我不够好”，降低自我表达需求。"
+        },
+        {
+          "trigger_condition": "出现小差错或失误（如丢东西、学生一时未理解）",
+          "interpretation": "这是因为我天生健忘、缺乏组织力（将复杂情境简化为对自身缺陷的解释）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果编造看似合理的理由以进行辩解。",
+          "response_instruction": "使用看似客观的归因（“我就是健忘”）迅速下结论，语气肯定，回避进一步探索其他可能因素。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到“隐形”、努力无人看见（志愿活动无人道谢）",
+            "与家庭关系感到疏离，寻求肯定反而觉得更“需要人”"
+          ],
+          "outcomes": [
+            "焦虑与失眠",
+            "回避自我照料（如跳过瑜伽）",
+            "自我价值感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在付出得不到认可后质疑“我为何还要努力”",
+            "将偶发失误解释为自身无能，否定成就"
+          ],
+          "outcomes": [
+            "动机下降与挫败感上升",
+            "自我贬低与负性标签化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用自我贬损标签（如“我是个健忘的笨蛋”“我不够好”）",
+            "在未获他人明确肯定时迅速自责，收缩自我表达需要"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在承担重要任务或角色时，来访者通常会担心自己不够好、害怕被忽视与否定，从而陷入自责与无力感。",
+          "unique_outcome": "上周在红十字会组织的一次大型活动顺利举行，整体运行良好，体现出其组织与协调能力（尽管未被当场感谢）。",
+          "reason": "不同做法：主动承担并完成筹备与协调；不同支持：在瑞典已有一些朋友可交流（虽未充分倾诉但客观存在）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备组织与协调大型活动的能力（志愿活动顺利举行）",
+          "教学经验与总体良好的教学反馈（学生整体表现良好，曾获同事称赞）",
+          "在瑞典有一定的社会支持（有朋友可交谈）",
+          "愿意反思并尝试记录与重评自动化思维"
+        ],
+        "negative_force": [
+          "自我标签化与过度概括（小失误即全盘否定）",
+          "个人化与外部验证依赖（将他人未表达感谢归因为自己不够好）",
+          "在焦虑时回避自我照料（如跳过瑜伽）",
+          "在压力与重大生活变动下注意疏漏增多（更易丢东西）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬损式标签与过度自责（如“我是个健忘的笨蛋”“我不够好”）",
+          "antecedent": [
+            "丢失物品（如丢钥匙）",
+            "重要付出未被明确感谢或认可（如志愿活动后无人致谢）",
+            "教学中个别学生一时未理解内容"
+          ],
+          "core_reason": "内在消极核心信念（“我不够好/不可靠”）被激活，将偶发失误泛化为稳定的人格缺陷，并以自责解释事件。",
+          "function": "通过自责获得控制感与自我驱动，并寻求外部认可来确认自我价值。",
+          "consequence": "焦虑与失眠加重，回避自我照料（跳过瑜伽），人际关系受影响，工作与日常功能下降。"
+        },
+        {
+          "behavior": "在压力或重大生活变化时更易丢失物品",
+          "antecedent": [
+            "处于高压力阶段",
+            "面临重大生活变动（如移居、角色负荷增加）"
+          ],
+          "core_reason": "在高压与变动情境下注意力更易分散、疏漏增多（来访者自我解释为“天生健忘、缺乏条理”）。",
+          "function": "非意图性行为，缺乏明确功能性目的。",
+          "consequence": "大量时间与精力用于寻找物品，日常生活被打断，挫败与自我否定进一步加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1618
+}

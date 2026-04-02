@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "林珊",
+      "gender": "女",
+      "occupation": "企业主/生意经营者",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一位在英国生活的兄弟；拥有可提供支持的朋友与家人",
+      "social_status": "社交支持总体存在，但因压力增大而减少与亲友沟通与接触",
+      "medical_history": "无重大躯体疾病；既往无心理治疗或精神科就诊史",
+      "language_features": "表达具体清晰、思路条理；能描述焦虑来源与影响，配合度尚可；整体语气消极，易使用灾难化与预测未来的表述"
+    },
+    "main_problem": "因最近生意销售下降而出现显著的焦虑与压力，倾向将问题灾难化，认为下降会持续到全年，并引发睡眠紊乱与食欲下降。",
+    "topic": "情绪管理",
+    "core_demands": "因销售下降与压倒性的焦虑而寻求咨询，希望获得在压力管理方面的支持与指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "一旦出现下滑，情况会持续恶化并最终走向失败",
+        "面对不确定的环境，我无法有效掌控结果，坏事往往不可避免"
+      ],
+      "special_situations": [
+        {
+          "event": "上周看到销售报告显示销量明显下滑",
+          "conditional_assumptions": "如果销售出现明显下滑，就意味着趋势会持续恶化，最终导致生意失败",
+          "compensatory_strategies": "紧盯数据、加班脑暴营销和促销方案，试图立刻扭转局面",
+          "automatic_thoughts": "这会持续到全年，我的店可能撑不下去了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到当前经济环境不确定",
+          "conditional_assumptions": "在不可控的大环境下，我再怎么努力也无济于事",
+          "compensatory_strategies": "将注意力集中在外部因素并反复担忧，行动上犹豫拖延",
+          "automatic_thoughts": "经济这样下去我无能为力，情况只会更糟",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "偶尔出现生意较好或收到顾客的正面评价",
+          "conditional_assumptions": "短暂的好情况只是偶然，并不能改变整体趋势",
+          "compensatory_strategies": "忽视或贬低正面信息，继续聚焦负面证据",
+          "automatic_thoughts": "这些好评不算数，很快又会下滑",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "朋友或家人提供支持和建议",
+          "conditional_assumptions": "如果他们没有与我一样强烈的担忧，就等于不理解我，也帮不上忙",
+          "compensatory_strategies": "减少沟通以避免被视为抱怨，撤回社交",
+          "automatic_thoughts": "他们并不真正理解这件事有多严重，说了也没用",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望掌控业务的稳定、获得他人的理解与实际支持",
+        "fear": "害怕失败与破产、失去控制，并被他人否定或不被理解",
+        "defense_goal": [
+          "通过预期最坏和泛化威胁来维持警觉与控制感，减少失望",
+          "通过减少社交接触来避免感到被误解或再度受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被压力包围、需要独自承担一切的经营者",
+          "object_representation": "不真正理解自己处境、难以提供实质帮助的他人（朋友/家人）",
+          "linking_affect": "焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出寻找反证、平衡证据或建议尝试自我照料的小步骤时",
+          "interpretation": "认为这些建议不切实际，无法理解眼下处境的严重性",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "使用无奈、疲惫的语气，反复强调“大环境不可控/现在不现实/没有时间”，以此否定和推开建议。"
+        },
+        {
+          "trigger_condition": "当朋友或家人提供支持与建议、鼓励其分享感受时",
+          "interpretation": "他们不理解事情的严重性，可能会轻视自己的担忧",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "简短回答、减少细节，避免深入交流，或直接说“他们不懂”，随后转换话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因压力而减少与朋友和家人的交流",
+            "认为他人不理解自己的处境与焦虑，倾向独自承受"
+          ],
+          "outcomes": [
+            "焦虑与压力感加重",
+            "睡眠障碍与食欲下降",
+            "无助与隔离感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将“被不理解”的感受归因给他人，认为支持与建议无效",
+            "据此减少沟通与求助"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "当被邀请讨论积极证据或自我照料时，转而强调经济不可控与无力感",
+            "以“也许/不确定/没用”等模糊回应来回避当下体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心显得在抱怨而减少与朋友交流",
+            "对表达需要与寻求支持过度克制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到销售下滑或想到经济不确定时，来访者通常会灾难化并持续担忧，导致睡眠不佳、食欲下降、工作决策受影响。",
+          "unique_outcome": "某些日子生意较好或收到顾客的正面评价时，来访者没有像往常那样陷入持续的灾难化，而是获得了短暂的情绪缓解与希望感。",
+          "reason": "不同情境/支持：出现正向的业务反馈与顾客认可，短期内提供了反证与情绪支撑，从而打断了灾难化链条。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人网络",
+          "能够主动脑暴营销策略与促销方案，具备一定行动力",
+          "愿意求助并开始咨询，具有改变的动机",
+          "业务仍有“好日子”和正面客户反馈，存在可用的正向证据与资源"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的认知倾向",
+          "外部控制谬误导致无力感，减弱行动的灵活性",
+          "忽视或贬低正面信息（选择性注意负面）",
+          "社交退缩，减少支持获取，加剧孤立感",
+          "睡眠与饮食紊乱进一步损害情绪与决策能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对业务下滑的持续担忧与灾难化思维",
+          "antecedent": [
+            "看到销售报告出现下降",
+            "想到经济环境的不确定性",
+            "独处时反复回想最坏情景"
+          ],
+          "core_reason": "将短期下滑过度概括为长期趋势，并以“预期最坏”来获取控制感（控制谬误/灾难化）",
+          "function": "在不确定情境中通过预演最坏情形来寻求安全感与控制感（避免意外打击）",
+          "consequence": "焦虑升级、失眠与食欲下降、注意力与决策受损，进一步影响工作表现"
+        },
+        {
+          "behavior": "社交回避（减少与朋友家人沟通）",
+          "antecedent": [
+            "他人提供建议或询问近况",
+            "担心被视为“总在抱怨”或“对方不理解”"
+          ],
+          "core_reason": "将“被不理解”的体验归因于他人，担心暴露脆弱与无力感",
+          "function": "逃避可能带来失望或被忽视的互动，暂时降低焦虑",
+          "consequence": "支持来源减少、孤立感加重，负性情绪维持并加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 201
+}

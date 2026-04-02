@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "林佩琴",
+      "gender": "女",
+      "occupation": "在一家家庭经营的小型餐馆任职员工",
+      "educational_background": "高中学历",
+      "marital_status": "未婚",
+      "family_status": "有六个姐姐",
+      "social_status": "有几位朋友可倾诉，但对这一具体问题不愿与他们讨论",
+      "medical_history": "无类似心理问题史，无既往心理治疗经历，无重大躯体疾病",
+      "language_features": "表达清晰，配合度高，态度积极"
+    },
+    "main_problem": "因为一位姐姐很久没有联系，我一直感到非常焦虑和难过，确信她恨我并且再也不想与我说话。",
+    "topic": "家庭关系",
+    "core_demands": "由于情绪强度及其对日常生活的影响而首次寻求咨询。",
+    "growth_experiences": [
+      "在一次打猎旅行中带错了弹药，这个被自己视为“基础错误”的失误对自我身份（“我是个猎手”）造成显著冲击。此后她频繁出现强烈自我怀疑，担心未来会再次犯错，降低了对打猎的享受并开始疏远一起打猎的朋友；当想到狩猎或与猎友互动时，常感到焦虑与羞耻。她也尝试过自我安慰或正念，但自我怀疑并未明显缓解。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被爱/会被家人拒绝",
+        "我不够好/不称职"
+      ],
+      "special_situations": [
+        {
+          "event": "姐姐一段时间没有给我打电话或主动联系",
+          "conditional_assumptions": "如果亲人不主动联系，就意味着他们不再爱我、讨厌我",
+          "compensatory_strategies": "多次打电话和发短信以确认关系、试图恢复联系",
+          "automatic_thoughts": "她恨我，并且永远不想再和我说话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "看到手机里没有姐姐的消息，或电话与短信未获回复",
+          "conditional_assumptions": "如果消息没有被回复，就等于被彻底拒绝",
+          "compensatory_strategies": "反复查看手机、持续尝试联系以缓解不安",
+          "automatic_thoughts": "我被永久性地排斥了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回想上次打猎时带错弹药的失误",
+          "conditional_assumptions": "如果我犯过一次基础错误，就说明我不是真正的合格猎手",
+          "compensatory_strategies": "减少参与打猎活动、疏远与猎友的接触以避免再次出错被评判",
+          "automatic_thoughts": "我不是合格的猎手，而且以后会一直犯错",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人（尤其是姐姐）持续关心、被爱与接纳；在重要领域（打猎）被认可为“合格者”",
+        "fear": "害怕被拒绝或被抛弃；害怕再次犯错并遭到他人的评判与羞辱",
+        "defense_goal": [
+          "通过频繁主动联系来缓解被抛弃的焦虑、维持关系的安全感",
+          "通过回避狩猎圈和与猎友互动来避免再次出错与被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、不被爱的妹妹",
+          "object_representation": "冷漠的、拒绝联系的姐姐",
+          "linking_affect": "焦虑、被拒感、伤心"
+        },
+        {
+          "self_representation": "羞耻的失败者/不称职的猎手",
+          "object_representation": "苛刻的评判者（猎友/他人）",
+          "linking_affect": "羞耻、恐惧、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导她用证据与概率来检视“姐姐恨我/我不称职”的信念时",
+          "interpretation": "倾向将情绪与事实分离，认为通过纯理性分析即可掌控或消除不安（移情：以理性压过感受）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用温和、支持性的语气，邀请她同时觉察当下的情绪与身体感受，肯定其理性分析的能力，同时缓慢追问“这让你有什么感受”，避免仅停留在逻辑层面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "当姐姐停止联系后，持续体验到“被不需要/不被爱”的感受",
+            "因羞耻与自我怀疑而疏远一起打猎的朋友，社交退缩",
+            "不愿向朋友谈及该问题，难以寻求支持"
+          ],
+          "outcomes": [
+            "焦虑加剧与被拒感",
+            "睡眠与食欲受影响",
+            "工作表现下降、人际关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该/必须把这种基础错误绝不犯”之类的语句，将外界标准当作绝对准则",
+            "自我苛责，否定过往成功"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "把原本想向他人表达的羞耻与担忧转向自己，选择忍耐不向朋友寻求帮助",
+            "减少与猎友的接触、避免参与打猎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "以往具有多年打猎经验并有多次成功经历",
+          "能够进行理性自我检视并接受现实测试的练习",
+          "首次主动寻求咨询，态度积极",
+          "拥有一定的社会支持（有几位朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化与读心术等认知偏差导致对关系的负面解读",
+          "自我苛责与“应该”语句强化内摄的价值条件",
+          "对被拒绝的高度敏感，过度依赖他人的联系来验证自我价值",
+          "回避与猎友互动、社交退缩，进一步加重孤立与焦虑",
+          "焦虑影响睡眠与食欲，降低工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在姐姐未联系时出现强烈焦虑并反复打电话/发短信、反复查看手机",
+          "antecedent": [
+            "姐姐一段时间未联系",
+            "电话或短信未获得回复",
+            "看到手机里没有姐姐的消息"
+          ],
+          "core_reason": "将对方未联系过度解释为“被恨/被永久拒绝”（灾难化、读心术）以满足对被爱与安全的高需求",
+          "function": "寻求外部验证与重新建立联系以暂时缓解被抛弃的恐惧",
+          "consequence": "焦虑升级、工作表现下降、与朋友和家人关系紧张、睡眠与食欲受影响"
+        },
+        {
+          "behavior": "在狩猎领域的回避与社交退缩（减少参与狩猎，疏远猎友）",
+          "antecedent": [
+            "想到上次带错弹药的失误",
+            "计划参与或谈论狩猎活动",
+            "担心被猎友评判"
+          ],
+          "core_reason": "一次失误被过度概括为整体无能或“不是真正的猎手”，担心再次犯错被羞辱",
+          "function": "逃避潜在的评判与羞耻感，维持自我保护",
+          "consequence": "对打猎的享受下降，社会互动减少，持续的自我怀疑与焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 568
+}

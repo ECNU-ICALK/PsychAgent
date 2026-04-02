@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41岁",
+      "name": "林薇",
+      "gender": "女性",
+      "occupation": "牙科学生",
+      "educational_background": "正在牙科学院就读",
+      "marital_status": "未婚",
+      "family_status": "与父母及一位兄弟姐妹同住",
+      "social_status": "有支持性的体育迷朋友群体，但未与他们讨论比赛结果对情绪的影响；与不分享球队热情的朋友关系有些紧张",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；未报告类似心理问题史",
+      "language_features": "表达清晰、逻辑性较好，愿意尝试现实检验；语气中性；在谈及球队失利时出现“绝对化/非黑即白”、过度概括与预言式思维倾向"
+    },
+    "main_problem": "每当我最喜欢的球队猛龙队输球时，我会感到强烈的失望和悲伤，并因此相信他们永远无法赢得总冠军。",
+    "topic": "情绪管理",
+    "core_demands": "在意识到自己对球队表现的强烈情绪反应显著影响了日常生活和整体情绪后，希望通过咨询减轻这些影响。",
+    "growth_experiences": [
+      "自青少年时期成为猛龙队球迷后，情绪反应随比赛结果而起伏：在重要比赛或失利后压力显著升高；问题随时间加重，赛后情绪低落持续更久，并形成对球队未来成功的无望模式（输一场就认为“永远拿不到总冠军”）；情绪困扰影响睡眠与活动乐趣，并在与不热情的朋友的关系中产生紧张。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有赢得总冠军才算“够好/成功”，失败就意味着无望"
+      ],
+      "special_situations": [
+        {
+          "event": "猛龙队在常规赛或关键比赛中输球",
+          "conditional_assumptions": "如果球队没有赢得总冠军，就说明他们不够好，未来也不会成功",
+          "compensatory_strategies": "尝试分心（专注学习、陪伴家人）来缓解失望与悲伤",
+          "automatic_thoughts": "他们永远无法夺冠/永远不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "重要比赛的走势对猛龙队不利或刚刚失利后",
+          "conditional_assumptions": "一旦出现不利迹象，就意味着结局必然是失败",
+          "compensatory_strategies": "降低期待、避免与他人讨论比赛表现以减少尴尬",
+          "automatic_thoughts": "他们在关键时刻总会失败，以后也会继续输",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "赛后回顾球队表现时，近期失利占据注意力",
+          "conditional_assumptions": "最近的结果最能说明整体实力，过去的成功不具意义",
+          "compensatory_strategies": "用分心法试图停止负面思考，但常难以奏效",
+          "automatic_thoughts": "之前的好赛季和那次夺冠都被最近的失利抵消了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每一次比赛失利后情绪显著下滑并持续多日",
+          "conditional_assumptions": "一次失败等同长期失败，说明未来没有希望",
+          "compensatory_strategies": "反复思考失利以试图“做好心理准备”",
+          "automatic_thoughts": "输一场就证明他们以后也拿不到冠军",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过球队的持续胜利与夺冠获得确定感与意义感，情绪被安抚",
+        "fear": "害怕再次经历失望与无望，担心情绪失控影响日常生活与人际关系",
+        "defense_goal": [
+          "通过降低期待与回避讨论来减少受伤与尴尬",
+          "用“他们永远不会夺冠”的结论预先抵御未来失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "投入而脆弱的忠实球迷，容易被失利击中",
+          "object_representation": "不可控、常令人失望的外部客体（球队/比赛）",
+          "linking_affect": "失望、悲伤、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请从不同角度审视比赛表现并进行现实检验时",
+          "interpretation": "来访者倾向认为“证据就是他们一直输”，对平衡视角持怀疑（移情：以过往失利经验覆盖当前对话）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "在回应时先肯定其感受，再温和指出证据的选择性，提供具体数据对照；语气平稳、避免对立，用邀请式提问鼓励其同时列举正反两方面事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在球队失利后产生强烈的失望与无望感，认为未来成功不可达",
+            "正向经历被近期失利掩盖，难以感受到意义与价值"
+          ],
+          "outcomes": [
+            "情绪低落与悲伤持续数日",
+            "睡眠受影响",
+            "对活动的乐趣下降",
+            "人际关系出现紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "觉得与朋友讨论球队情绪很尴尬而选择不说",
+            "将外向表达与求助的需要转向自身，尝试用分心/独自消化情绪"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "比赛失利后通过分心和其他爱好回避直接接触失望情绪",
+            "谈及积极时刻容易再次转回对近期失利的关注"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试现实检验与重构思维，并在咨询中表现出配合与开放",
+          "拥有支持性的体育迷朋友群体",
+          "学业目前未受显著影响，具备一定的自我管理能力",
+          "能识别并命名自身的负性自动思维"
+        ],
+        "negative_force": [
+          "非黑即白/全或无思维显著",
+          "过度概括与“预测未来”倾向强，容易陷入无望结论",
+          "赛后负面关注占主导，倾向否定正面经验",
+          "遇到人际不理解时回避交流，导致关系紧张",
+          "情绪困扰影响睡眠与活动的愉悦感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "赛后对球队失利的强烈失望与悲伤，并伴随无望性思维",
+          "antecedent": [
+            "猛龙队输球",
+            "重要比赛或比赛走势不利"
+          ],
+          "core_reason": "将“夺冠=够好/成功”作为唯一标准，并以近期失利灾难化地推断未来失败",
+          "function": "通过预设最坏结果来规避不确定性与再次失望（情绪性逃避）",
+          "consequence": "情绪低落持续数日，影响睡眠与对活动的享受"
+        },
+        {
+          "behavior": "回避与不分享球队热情的朋友讨论比赛与情绪",
+          "antecedent": [
+            "与不热情的朋友互动时",
+            "赛后被问及球队表现"
+          ],
+          "core_reason": "担心交流会尴尬且得不到理解",
+          "function": "逃避不受欢迎的社交反馈，减少冲突与羞耻感",
+          "consequence": "人际关系产生紧张，交流减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 103
+}

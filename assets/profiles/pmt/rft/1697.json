@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "李杰",
+      "gender": "男",
+      "occupation": "会计",
+      "educational_background": "会计学学士学位",
+      "marital_status": "单身",
+      "family_status": "母亲拥有一家时尚品牌，与母亲关系亲密",
+      "social_status": "有一群支持性的朋友，但尚未与他们分享自卑与自我怀疑；与同事关系因自我怀疑而显得疏离",
+      "medical_history": "无类似心理问题史；无心理治疗或咨询史；无重大躯体疾病",
+      "language_features": "表达清晰、能够自我反思，配合度较高；主观感受为“焦虑”“尴尬”；愿意尝试行为实验并记录观察"
+    },
+    "main_problem": "“我因为没有自己的时尚品牌而觉得自己不够好、很愚蠢，这种不足感和自我怀疑正在影响我的自尊心。”问题在3个月前开始（入职会计工作时），工作压力增高，与母亲成就的比较加剧了不足感，只要看到母亲的事业成功就会触发。",
+    "topic": "情绪管理",
+    "core_demands": "“持续的不足感和自我怀疑已经开始影响我的工作表现和整体幸福感，因此我寻求咨询以获得支持和指导。”",
+    "growth_experiences": [
+      "原生家庭中，母亲拥有成功的时尚品牌，来访者与母亲关系亲密；长期处在以母亲事业成功为参照的家庭氛围中，形成以外在成就衡量自我价值的比较框架。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的",
+        "我不如他人/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "看到母亲在事业上的成功或被公众认可",
+          "conditional_assumptions": "如果我没有像母亲那样拥有自己的时尚品牌，就说明我失败、很愚蠢",
+          "compensatory_strategies": "与同事保持距离、减少社交；不向朋友表达感受以避免被评价",
+          "automatic_thoughts": "我永远不可能像她一样成功；我很愚蠢",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在工作中感到高压力或出现错误",
+          "conditional_assumptions": "如果我在工作中犯错，就证明我就是愚蠢的，职业选择失败",
+          "compensatory_strategies": "自我怀疑并减少与同事交流以避免暴露不足",
+          "automatic_thoughts": "我不适合这份工作；我就是很笨",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "考虑向朋友分享不足感与自我怀疑",
+          "conditional_assumptions": "如果表达脆弱与困扰，别人会认为我在抱怨或很荒唐",
+          "compensatory_strategies": "选择沉默，不向朋友倾诉",
+          "automatic_thoughts": "他们会觉得我在抱怨、很可笑",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到自己没有自己的品牌并与母亲进行比较",
+          "conditional_assumptions": "只有拥有像母亲一样的成功事业才算有价值，否则我一无是处",
+          "compensatory_strategies": "否定自身已有的成就与优点；不去尝试新的兴趣以避免失败",
+          "automatic_thoughts": "我现在的成就不算数；我一无是处",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可和被看见，拥有与母亲相当的成就以证明自我价值",
+        "fear": "害怕被比较后显得不够好，被评价为愚蠢与失败",
+        "defense_goal": [
+          "通过自我贬低与保持疏离来避免他人评价",
+          "避免表达脆弱以减少羞耻与被否定的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的比较者/失败者",
+          "object_representation": "成功、受赞赏的榜样与潜在评判者（母亲/他人）",
+          "linking_affect": "自卑、羞耻、焦虑"
+        },
+        {
+          "self_representation": "容易犯错、笨拙的人",
+          "object_representation": "会评价我、可能看不起我的同事",
+          "linking_affect": "紧张、回避、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当母亲的成功被谈论或被公众认可时",
+          "interpretation": "认为自己被比较与否定，他人会以外在成就衡量我的价值",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "采用自我批评与自我贬低的语气，减少主动表达需求，简短回应并避免眼神接触。"
+        },
+        {
+          "trigger_condition": "当考虑向朋友倾诉不足感与自我怀疑时",
+          "interpretation": "推测朋友会认为自己在抱怨或荒唐（将自身羞耻感归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用推测他人想法的表述（如“他们会觉得…”），语气犹疑，用回避性句式结束话题。"
+        },
+        {
+          "trigger_condition": "在工作中被质疑或发生错误时",
+          "interpretation": "以一次错误全盘定义自我（将自己看作“全坏”）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化词语（如“总是/从不”）描述自己，语气低落并拒绝讨论细节或灰度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "以母亲的外在成就作为自我价值的唯一参照",
+            "忽视自身现有成就（工作与学位），质疑“我是否值得”"
+          ],
+          "outcomes": [
+            "自尊心受损",
+            "工作表现下降",
+            "兴趣活动减少（徒步活动减少）"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同事保持距离、显得不友好",
+            "面对支持性朋友却不表达真实感受"
+          ],
+          "outcomes": [
+            "人际关系紧张与疏离",
+            "社会支持未被利用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "推测朋友会认为自己在抱怨或很荒唐",
+            "假设他人会以母亲的成就来评价自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "频繁自责与标签化自己为“愚蠢”",
+            "在同事面前保持距离、互动谨慎"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "有支持性的朋友却选择不表达真实感受",
+            "把外向的求助冲动压回自己并保持沉默"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备本科学历与稳定职业，说明一定的能力与坚持",
+          "与母亲关系亲密，潜在获得情感支持的资源",
+          "有支持性的朋友圈（虽暂未使用）",
+          "愿意尝试行为实验并进行记录，具有改变动机"
+        ],
+        "negative_force": [
+          "强烈的比较与外部验证倾向",
+          "标签化与过度概括的认知模式（“我很愚蠢”）",
+          "非黑即白思维导致自我价值全盘否定",
+          "社交回避与不表达脆弱，致使支持系统未被利用",
+          "工作压力增高与注意力受损，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬低与标签化（频繁以“我很愚蠢”“我不够好”定义自己）",
+          "antecedent": [
+            "看到母亲的事业成功或被认可",
+            "想到自己没有自己的品牌",
+            "工作中出现错误或高压力"
+          ],
+          "core_reason": "以外在成就（与母亲相比较）作为价值标准，形成灾难化与过度概括的认知",
+          "function": "通过自我否定与退缩来暂时缓解被评判与失败的焦虑（回避性功能）",
+          "consequence": "自尊受损、工作表现下降、人际关系疏离、兴趣活动减少"
+        },
+        {
+          "behavior": "社交回避（与同事保持距离、不向朋友表达真实感受）",
+          "antecedent": [
+            "担心被认为在抱怨或荒唐",
+            "感觉自我价值低、羞耻"
+          ],
+          "core_reason": "对他人负面评价的预测与读心，羞耻感驱动的防御",
+          "function": "逃避可能的负面评价与羞耻，维持短期心理安全",
+          "consequence": "社会支持未被利用，人际紧张与孤独感增加"
+        },
+        {
+          "behavior": "兴趣活动减少（徒步活动显著减少）",
+          "antecedent": [
+            "情绪低落与自尊受损后",
+            "工作压力增高时"
+          ],
+          "core_reason": "情绪化推理与“非黑即白”式自我评价导致动机下降",
+          "function": "避免在活动中再次体验失败或无意义感",
+          "consequence": "生活质量下降、恢复力降低、负性情绪维持或加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1697
+}

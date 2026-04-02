@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "林凯婷",
+      "gender": "女",
+      "occupation": "家庭主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有两个儿子，与丈夫同住",
+      "social_status": "丈夫支持，但在露营相关互动中自评贡献不足，关系受到影响",
+      "medical_history": "无重大躯体疾病；无以往心理治疗或精神科就诊；未曾出现类似问题",
+      "language_features": "言语清晰、思路连贯；语气偏消极、紧张；能合作并主动描述困扰；存在自我否定与比较"
+    },
+    "main_problem": "在露营活动（尤其是搭帐篷）方面经常感到无能与无用，这种不足感始于一年前一次家庭露营时搭帐篷受挫，并在计划或实施露营时加重，导致焦虑与压力，影响家庭旅行的享受与自尊。",
+    "topic": "情绪管理",
+    "core_demands": "意识到这些感受正在影响自尊与家庭露营的整体享受，因此希望通过咨询改善自尊与在家庭露营中的体验。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不如别人"
+      ],
+      "special_situations": [
+        {
+          "event": "一年前的家庭露营中搭帐篷失败",
+          "conditional_assumptions": "如果我不能熟练把帐篷搭好，就说明我很无能，并会破坏家人的体验",
+          "compensatory_strategies": "观看大量教学视频、向有经验的露营者请教，并在之后只参与较简单的环节（如固定地钉）",
+          "automatic_thoughts": "我把大家的体验搞砸了，我是个无用的露营者",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每次计划或讨论未来的露营行程",
+          "conditional_assumptions": "如果我表现不如他人，就会被看低、让家人失望",
+          "compensatory_strategies": "因为尴尬而减少与丈夫讨论此具体问题",
+          "automatic_thoughts": "他们会觉得我又要把事情搞砸",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在露营现场完成了如固定地钉等较小的任务",
+          "conditional_assumptions": "只有完成“大任务”才算真正的贡献，小任务不算数",
+          "compensatory_strategies": "忽视或贬低自己的小进步，不予以承认",
+          "automatic_thoughts": "这不值得一提，我还是很差",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到其他人轻松完成帐篷搭建",
+          "conditional_assumptions": "如果做得没有别人好，就等于无能",
+          "compensatory_strategies": "不断与他人比较以验证自己的不足",
+          "automatic_thoughts": "我不如他们/我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人视为有能力并被认可，为家庭创造愉快的露营体验",
+        "fear": "害怕让家人失望、被视为无能和失败者",
+        "defense_goal": [
+          "通过减少谈论失败与自我贬低来避免被评判、维持安全感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不足、无能、贡献不够的家庭成员",
+          "object_representation": "能力强且可能评判自己的他人/家人",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当计划露营、家人期待其参与帐篷搭建时",
+          "interpretation": "将家人的期待理解为评判与否定，认为“他们会觉得我不行”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以共情和澄清为主，温和指出“这是你的担心而非事实”，邀请举证与反证；语气柔和、慢速、避免指责。"
+        },
+        {
+          "trigger_condition": "当丈夫提出沟通或讨论露营技能、提供支持时",
+          "interpretation": "认为讨论会暴露自己的无能，引发尴尬与羞耻",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "先正常化羞耻感，使用支持性语句与短句，邀请用小步表达具体感受与需要，避免过度追问。"
+        },
+        {
+          "trigger_condition": "看到他人轻松完成帐篷搭建或分工时",
+          "interpretation": "把他人的熟练当作对自己的否定与贬低",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用苏格拉底式提问，聚焦具体事实与可观察证据，帮助区分事实与解释；语气中性、条理清晰。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在露营活动中自觉“无用/无能”，自我贴标签为“无用的露营者”",
+            "将小成就视为不重要，难以体验价值与意义",
+            "计划或参与露营时出现焦虑与压力，质疑自身的存在价值（是否对家庭有贡献）"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "焦虑与压力增高",
+            "家庭旅行的愉悦感与参与度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我批评（“我不擅长任何事”）",
+            "过度担心会“搞砸”，在现场犹豫不决",
+            "难以承认小进步，降低自我价值感"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "在计划露营时预设“他们会觉得我又要把事情搞砸”",
+            "把自我无能的感受投向他人的潜在看法，导致回避沟通与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在家庭露营需要搭帐篷时，来访者通常会感到自己无能、焦虑加重，并认为会“毁了大家的体验”，从而难以投入参与。",
+          "unique_outcome": "上次露营时，来访者没有像往常那样放弃，而是主动完成了固定地钉的任务，并在该环节上有所贡献。",
+          "reason": "线索：不同做法（事先观看教程、向有经验者请教）；不同支持（丈夫总体支持）；任务拆分（专注于地钉这一具体子任务），因此出现了更可承受的参与与小幅成功。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "丈夫具备支持态度，可成为外部资源",
+          "愿意尝试小目标与循序渐进（愿意先练好地钉）",
+          "主动寻求教程与他人建议，显示学习动机",
+          "曾在现场完成地钉任务，具备实际执行与学习能力"
+        ],
+        "negative_force": [
+          "强烈的自我苛责与贴标签（“无用的露营者”）",
+          "否定正面与不断比较他人（降低自我价值）",
+          "在计划或讨论露营时出现显著焦虑与压力",
+          "因尴尬减少沟通与求助，资源利用不足",
+          "将一次失败过度概括为持久的无能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在露营相关情境中的显著焦虑与自我否定（“我很无能/会搞砸”）",
+          "antecedent": [
+            "计划或讨论未来露营",
+            "到达露营地并开始搭建帐篷",
+            "观察到他人轻松完成任务"
+          ],
+          "core_reason": "一次受挫后产生过度概括与自我贴标签，并与他人比较导致自我效能感下降与羞耻感增强",
+          "function": "逃避失败感与他人评价以保护自尊（自我防御）",
+          "consequence": "在露营中难以投入与享受，焦虑与压力加重，家庭旅行的体验质量下降"
+        },
+        {
+          "behavior": "因尴尬而减少与丈夫讨论露营困难与求助",
+          "antecedent": [
+            "丈夫或家人谈到露营安排或技能提升时",
+            "临近露营需要做准备时"
+          ],
+          "core_reason": "羞耻与被评判的担心（心读他人负面评价）",
+          "function": "回避被评价、避免暴露自认为的无能",
+          "consequence": "获取支持与指导的机会减少，问题持续存在并在露营前后维持焦虑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1088
+}

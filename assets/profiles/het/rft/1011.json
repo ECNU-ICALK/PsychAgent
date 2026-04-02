@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "林岳",
+      "gender": "男性",
+      "occupation": "特殊教育教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "单亲",
+      "family_status": "有两个儿子",
+      "social_status": "有朋友可谈私人问题，但尚未与他们讨论关于学生成绩的担忧",
+      "medical_history": "无显著躯体疾病；无以往心理治疗史；此前教学生涯未出现类似问题",
+      "language_features": "表达清晰、配合度较高；反复使用担心、无助等情绪化词汇；倾向自我苛责与负面预期；在咨询中能进行问题分解与头脑风暴，但对解决方案持怀疑态度"
+    },
+    "main_problem": "我担心我的学生在英语测试中成绩低于预期，并且我害怕他们的未来。",
+    "topic": "职业发展",
+    "core_demands": "近期考试结果显著影响我的心理健康，寻求咨询以应对对学生的担忧。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "学生成绩不达标是我的错",
+        "我是一个不称职的教师",
+        "未来会很糟糕"
+      ],
+      "special_situations": [
+        {
+          "event": "英语测试成绩公布后，多数学生成绩低于预期",
+          "conditional_assumptions": "如果学生成绩不好，就说明我失败了、我不称职",
+          "compensatory_strategies": "加开课后辅导、修订授课方案以弥补不足",
+          "automatic_thoughts": "这是我的错，他们的未来会很糟糕",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在英语课堂上教学或备考时面对难度较高的题材",
+          "conditional_assumptions": "如果我的努力不能迅速提升成绩，就证明我无能、做什么都没用",
+          "compensatory_strategies": "不断调整教案，但对成效持怀疑，难以坚持系统评估",
+          "automatic_thoughts": "无论我做什么都不会有改变",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "考虑为学生引入线上资源或学习小组等新方法",
+          "conditional_assumptions": "如果学生不够主动或不感兴趣，那所有干预都会失败",
+          "compensatory_strategies": "对新方法先行否定或保持保守态度，降低投入",
+          "automatic_thoughts": "他们不会感兴趣或主动参与这些资源",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "有机会向朋友倾诉关于学生成绩的担忧时却选择不谈",
+          "conditional_assumptions": "如果我表达担忧，他人会认为我不专业、不称职",
+          "compensatory_strategies": "避免与朋友讨论此事以回避被评价",
+          "automatic_thoughts": "他们会觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为可靠、能保障学生成功的教师，被认可为称职与有效",
+        "fear": "害怕学生失败并归咎于自己、被他人视为不称职",
+        "defense_goal": [
+          "通过加倍努力与自我苛责维持控制感、避免暴露脆弱以保持专业形象"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "对学生负有全部责任的拯救者/守护者",
+          "object_representation": "需要被自己充分准备与保护的脆弱学生",
+          "linking_affect": "焦虑、内疚"
+        },
+        {
+          "self_representation": "可能被评判的、不够好的教师",
+          "object_representation": "会评价自己专业能力的他人/朋友",
+          "linking_affect": "担忧、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议尝试新的教学策略或资源时",
+          "interpretation": "倾向认为“这些方法也不会有效”，以避免再次面对失败感",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持共情与支持，温和追问具体证据与以往尝试细节；使用开放式问题帮助其进行小步评估与实验，避免直接否定其担忧。"
+        },
+        {
+          "trigger_condition": "在看到学生低分或谈到考试失利后",
+          "interpretation": "将失败完整归因于自己，认为“都是我的错”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以低强度、稳定语调进行责任再归因与事实检视，鼓励其区分可控与不可控因素，并引导形成具体、可实施的改进计划。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在英语课堂上感到无助，认为努力难以产生改变",
+            "对学生未来持悲观与“命定式”看法",
+            "对新方案持怀疑与否定倾向"
+          ],
+          "outcomes": [
+            "焦虑增加",
+            "睡眠紊乱",
+            "兴趣下降",
+            "教学与备课专注力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，包含过多的自我限制与小心谨慎。",
+          "manifestations": [
+            "频繁自责并将成绩不佳完整归因于自己",
+            "对方案过度审视其可行性而降低尝试意愿",
+            "担心被视为不称职"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "虽然有朋友可谈，但回避讨论关于学生成绩的担忧",
+            "在社交场合避免深入触及压力来源"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设学生不会感兴趣或主动参与新资源，将自己的怀疑与失望归于学生的动机不足"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备行动意愿（已开展加课辅导与修订教案）",
+          "可与咨询师共同进行问题分解与方案评估",
+          "拥有一定社会支持（有朋友可谈）",
+          "愿意尝试设定短期目标并监测进展"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知偏差",
+          "自我苛责与过度归因于自身",
+          "对新策略持怀疑与否定，降低尝试投入",
+          "睡眠受扰与兴趣下降削弱精力与韧性",
+          "回避向朋友寻求支持，导致压力内化"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度担忧与自我苛责（伴随焦虑与无助）",
+          "antecedent": [
+            "看到或回想英语测试低分",
+            "在英语课堂上教学时",
+            "备考与准备未来测试时"
+          ],
+          "core_reason": "对教学责任的过度内化与灾难化认知（认为学生成绩全部归因于自己，且未来必定更糟）",
+          "function": "通过担忧与自我苛责维持控制感、试图预防失败与自我评价受损",
+          "consequence": "教学与备课专注力下降，睡眠紊乱，兴趣减少，整体心理负荷增加"
+        },
+        {
+          "behavior": "社交回避（不与朋友讨论关于学生成绩的担忧）",
+          "antecedent": [
+            "有机会向朋友倾诉压力与担忧时",
+            "被问及工作近况或学生表现时"
+          ],
+          "core_reason": "担心被评判为不称职，害怕暴露脆弱与失控感",
+          "function": "逃避羞耻与负面评价，维持表面专业形象",
+          "consequence": "支持与外界资源获取减少，压力在体内累积，焦虑维持或加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1011
+}

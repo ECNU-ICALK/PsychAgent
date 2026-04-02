@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "林雪晴",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母是律师",
+      "social_status": "因回避冬季外出，社交生活受影响，与朋友和家人的关系紧张；缺乏可倾诉与求助的特定支持者",
+      "medical_history": "无重大躯体疾病；无类似问题史；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、配合度高，能具体描述疼痛感受；略显紧张但态度积极、愿意尝试小步改变"
+    },
+    "main_problem": "因冬季寒冷导致面部疼痛而产生对外出的恐惧，近一年逐渐加重并在冬季完全回避外出，导致长期待在室内、孤立与社交受损。",
+    "topic": "情绪管理",
+    "core_demands": "希望降低并克服对冬季外出的恐惧，以减轻对日常生活与心理健康的影响。",
+    "growth_experiences": [
+      "约一年前在冬季户外经历过一次剧烈的面部疼痛（同时感觉冰冻与灼烧），自此对冬季外出产生恐惧；随着每年冬季到来，恐惧逐步加重，开始完全避免外出，导致孤立并影响与朋友和家人的关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "冬季外出是不安全的，会带来难以承受的疼痛",
+        "我无法承受那种疼痛"
+      ],
+      "special_situations": [
+        {
+          "event": "冬季来临、气温很低或刮冷风时需要外出办理日常事务（如购物、办事）",
+          "conditional_assumptions": "如果在寒冷天气外出，就会再次经历难以忍受的面部疼痛",
+          "compensatory_strategies": "完全待在室内、取消所有户外活动以避免疼痛",
+          "automatic_thoughts": "一出门就会痛到无法承受，我最好呆在屋里",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想起或看到窗外的雪景，或听到他人邀请进行冬季户外活动",
+          "conditional_assumptions": "只要想到外出，负面后果就比任何积极体验都重要，正面部分不值得考虑",
+          "compensatory_strategies": "忽略自己曾经喜欢的冬季新鲜空气与雪景，专注于痛感记忆与负面信息",
+          "automatic_thoughts": "喜欢冬天的部分没有意义，因为出门就会很痛",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "计划是否要在冬季外出完成必要的日常事务",
+          "conditional_assumptions": "如果不能保证绝对不痛，就绝不能外出",
+          "compensatory_strategies": "只要有风险就完全不出门，以避免任何可能的不适",
+          "automatic_thoughts": "要么完全安全，要么就是灾难，不能冒险",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想一年前寒冷天气中经历的剧烈面部疼痛",
+          "conditional_assumptions": "过去的最糟糕经历必然会重演",
+          "compensatory_strategies": "以那次疼痛为判断依据，过滤掉其他更温和的情境与可能的应对办法",
+          "automatic_thoughts": "这次出去也一定会像那次一样糟糕",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在冬季也能安全、自在地外出并保持与他人的联系",
+        "fear": "害怕再次遭遇难以忍受的面部疼痛并失去控制，导致崩溃与强烈焦虑",
+        "defense_goal": [
+          "通过避免外出来降低疼痛与焦虑的风险，待在室内以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易受伤的避退者",
+          "object_representation": "冬季的外界环境被体验为冷酷且会伤害自己的威胁者",
+          "linking_affect": "恐惧、无助"
+        },
+        {
+          "self_representation": "退缩而孤立的人",
+          "object_representation": "朋友与家人被体验为期待自己参与社交与外出的他者（在寒冷季节成为压力来源）",
+          "linking_affect": "焦虑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议在冬季尝试小步外出（例如先到门廊停留几分钟）",
+          "interpretation": "外出等同于再次经历不可承受的疼痛，认为建议可能低估了风险",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎、审慎的语气强调“避免疼痛”的必要性，突出安全理由并将话题转回安全策略与准备条件。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "冬季长期待在室内导致与朋友和家人的关系紧张、缺乏可以倾诉的支持者、感到被隔离"
+          ],
+          "outcomes": [
+            "社交受损与疏离感增强",
+            "情绪困扰与心理健康受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧显著限制外出与参与活动的自主性，生活选择被天气与疼痛担忧所控制"
+          ],
+          "outcomes": [
+            "行为范围缩小、回避增多",
+            "无力感与焦虑提升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以安全为首要标准限制外出选择",
+            "将接触范围收缩为仅在门廊短暂停留",
+            "在会谈中频繁强调“待在室内更安全”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "压制外出参与社交的冲动，转而用自我约束（留在家中）来对付不适",
+            "避免寻求外部支持，独自承受恐惧与不适"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾经喜欢冬季、能回忆和识别其中的积极面（新鲜空气、雪景）",
+          "态度积极且愿意尝试小步改变（如先在门廊停留）",
+          "具备现实检验与重新框架的意愿，愿配合记录与练习"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、心理过滤等认知偏差强化恐惧",
+          "回避行为固化并扩大化，导致孤立与功能受损",
+          "缺乏可依赖的社会支持系统，难以获得安抚与协助",
+          "对疼痛的预期性恐惧强，倾向以最糟糕情境为参照"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "冬季对外出的强烈恐惧与回避（长期待在室内）",
+          "antecedent": [
+            "冬季寒冷天气（低温、刮冷风、下雪）",
+            "考虑需要外出办理日常事务",
+            "想到或被邀请参加冬季户外活动"
+          ],
+          "core_reason": "一年前在寒冷中经历剧烈面部疼痛后形成对寒冷的灾难化期待与焦虑联结，担心疼痛无法承受",
+          "function": "逃避疼痛与焦虑、维持短期安全感与控制感",
+          "consequence": "社交与家庭关系紧张、生活范围与质量下降、孤立感增加、心理健康受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 165
+}

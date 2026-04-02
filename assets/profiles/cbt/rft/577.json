@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "林睿",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "研究生在读",
+      "marital_status": "未提及",
+      "family_status": "与父母及弟弟同住；家庭支持，但来访者难以向其表达“失败感”",
+      "social_status": "有少数朋友，但难以向朋友敞开谈论失败感受",
+      "medical_history": "无显著躯体疾病；无心理治疗史；无类似心理问题史",
+      "language_features": "表达清晰、配合度高、态度积极；倾向使用夸张与二分化表述（如“我永远不会独立”“我一直是失败者”）；有自我批评与比较倾向；在亲密关系中表达受限"
+    },
+    "main_problem": "我觉得自己是人生的失败者，因为我仍然与父母同住，这个想法影响了我的自尊和对未来的看法。",
+    "topic": "个人成长",
+    "core_demands": "我决定寻求咨询，因为这种失败感正在影响我的自尊和幸福，我希望在它进一步升级前加以处理。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交媒体上看到同龄朋友发布独立生活（自己租房/拥有自己的住所）的动态",
+          "conditional_assumptions": "如果25岁还与父母同住，就说明我落后、是失败者",
+          "compensatory_strategies": "通过分散注意力于足球、绘画和阅读来缓解想法",
+          "automatic_thoughts": "我不如他们，我落后了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与同学或朋友的闲聊涉及居住情况与独立生活",
+          "conditional_assumptions": "达不到社会对同龄人独立的期待，就证明我不够好，会被他人看低",
+          "compensatory_strategies": "回避深入谈论自己的感受，不向家人或朋友敞开以免让他们担心",
+          "automatic_thoughts": "他们会觉得我不够独立、我不行",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "注意到自己依然与父母同住（回到家中或想到居住安排）",
+          "conditional_assumptions": "成功与失败以是否独立居住划分，不独立就等于失败",
+          "compensatory_strategies": "自我批评、不断思索“如何证明自己能独立”",
+          "automatic_thoughts": "我是失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到同龄人更独立时，与自己的学业成就对比",
+          "conditional_assumptions": "只有居住独立才算真正有价值，其他成绩不算数",
+          "compensatory_strategies": "忽视已有优势与成就，将注意力集中在不足之处",
+          "automatic_thoughts": "我一无是处",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为独立、有价值的成人并获得认可",
+        "fear": "担心被他人评判为失败、感到羞耻与被误解",
+        "defense_goal": [
+          "通过减少自我暴露（不与家人深谈）来维持安全感",
+          "以自我批评与比较来督促自我改变"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后且不够独立的自我",
+          "object_representation": "同龄人/社会被体验为评判者与更优秀的标准",
+          "linking_affect": "自卑、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人涉及居住独立、比较同龄人的话题时",
+          "interpretation": "来访者倾向认为自己会被评价或被误解，暴露脆弱等于不被理解",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "倾向以委婉、谨慎语气说明“不想让他们担心”等理由，回避深入情感细节；使用事实陈述、减少情感词。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将人生成功与是否独立居住直接等同",
+            "对未来持负面展望（觉得自己会一直失败）"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "情绪低落",
+            "动机下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向家人与朋友敞开谈论失败感",
+            "担心被误解而选择不表达"
+          ],
+          "outcomes": [
+            "内在孤立与疏离感增加",
+            "反刍加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将社会对同龄人独立的期待视为必须遵守的标准（“我应该已经独立”）",
+            "把居住状态直接作为自我价值的评判依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我标签为“失败者”，使用极端性语言评判自己",
+            "在与家人交流时过度谨慎，担心让他们担心而不表达真实感受"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "当失败感升起时转而用足球、绘画、阅读分散注意力",
+            "在谈及居住话题时倾向于轻描淡写或转移话题"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的家庭资源",
+          "学业表现良好，能管理繁重课程负荷",
+          "愿意寻求专业帮助，态度积极",
+          "拥有稳定兴趣（足球、绘画、阅读）"
+        ],
+        "negative_force": [
+          "过度比较与外部标准依赖（外部验证）",
+          "非黑即白、过度概括、心理过滤等认知偏差",
+          "自尊受损与自我贴标签",
+          "表达受限，难以与亲近的人分享感受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "每日反复比较并将自己贴上“失败者”标签",
+          "antecedent": [
+            "在社交媒体看到朋友独立生活的动态",
+            "与同学/朋友讨论居住与独立话题",
+            "身处父母家或想到自己仍与父母同住"
+          ],
+          "core_reason": "内摄社会对同龄人独立的价值条件，将居住状态与自我价值直接等同，并以非黑即白思维看待成败",
+          "function": "通过自我批评试图促使自己改变与尽快独立（表面上的自我激励），同时回避承认复杂的现实与情绪",
+          "consequence": "情绪低落与动力下降，兴趣活动受影响，自尊受损"
+        },
+        {
+          "behavior": "回避向家人和朋友表达失败感受",
+          "antecedent": [
+            "想到与家人讨论自己的感受",
+            "在对话中被问及居住或独立话题时"
+          ],
+          "core_reason": "担心让家人担心、被误解或被评价，因而压抑脆弱与羞耻",
+          "function": "逃避潜在的负面评价与不适情绪，维持短期的心理安全感",
+          "consequence": "孤独感增加，获得支持的机会减少，负性思维持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 577
+}

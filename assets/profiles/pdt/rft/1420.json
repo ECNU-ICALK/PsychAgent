@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21岁",
+      "name": "林威",
+      "gender": "男",
+      "occupation": "有志成为兽医",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与母亲同住",
+      "social_status": "人际交往困难，难以建立并维持友谊；有支持性的母亲但不愿与其讨论社交焦虑",
+      "medical_history": "无重大躯体疾病；既往无心理治疗或咨询史",
+      "language_features": "态度积极，配合度高；能清晰描述社交情境、自动化思维与情绪体验；愿意尝试小目标与呼吸放松等策略"
+    },
+    "main_problem": "我觉得自己没有朋友，因为我不知道如何与任何人交谈，这导致孤立和孤独感。",
+    "topic": "人际关系",
+    "core_demands": "因为孤立和孤独开始影响心理健康与整体幸福感，期望通过咨询改善社交互动、减少回避、逐步建立社交连接与友谊。",
+    "growth_experiences": [
+      "高中时期开始持续体验到孤立与孤独，认为自己不会与人交谈；在群体场合感到焦虑、常常冻结并避免社交；虽尝试主动开启对话但未成功，未寻求专业帮助；这些模式延续至今，影响日常动力与人际关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨拙、不擅长社交的人",
+        "我不被喜欢/别人不会喜欢我"
+      ],
+      "special_situations": [
+        {
+          "event": "在家庭朋友的小型聚会上，大家聊天热络",
+          "conditional_assumptions": "如果我说得不够得体或不够有趣，就会被认为很尴尬、被排斥",
+          "compensatory_strategies": "保持沉默、微笑点头以降低存在感，尽量不参与对话",
+          "automatic_thoughts": "他们会觉得我很尴尬，我会说蠢话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在群体场合准备开口参与谈话之前",
+          "conditional_assumptions": "如果我一开口就会出丑，别人就会不喜欢我",
+          "compensatory_strategies": "提前选择不说话或离开情境，借由回避降低风险",
+          "automatic_thoughts": "我一说话就会出错、会很丢脸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到他人社交、结交朋友的场景",
+          "conditional_assumptions": "如果我没有像别人那样拥有朋友，就说明我不行、不值得被喜欢",
+          "compensatory_strategies": "避免停留在这类场景，内在自我否定",
+          "automatic_thoughts": "别人都有朋友，我什么都没有/我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "当考虑向母亲谈及自己的社交焦虑时",
+          "conditional_assumptions": "如果我表达脆弱，对方不会理解我，反而让我更难堪",
+          "compensatory_strategies": "犹豫、减少此类话题的沟通以避免可能的误解",
+          "automatic_thoughts": "她不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、建立亲近而自然的友谊关系",
+        "fear": "害怕被拒绝与羞辱，被他人看见自己的笨拙与尴尬",
+        "defense_goal": [
+          "通过退缩与回避保持安全感，避免暴露自我以降低被否定和羞耻的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、局外的被拒绝者",
+          "object_representation": "挑剔、会评判且不喜欢自己的他人",
+          "linking_affect": "恐惧、羞耻、孤独"
+        },
+        {
+          "self_representation": "难以被理解的孩子",
+          "object_representation": "无法理解自己感受的母亲",
+          "linking_affect": "犹豫、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合他人谈笑、尚未直接与自己互动或邀请时",
+          "interpretation": "认为他人会看出自己的尴尬并评判自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，使用模糊表述（如“他们可能会……”），减少自我揭露，选择沉默或简短回应。"
+        },
+        {
+          "trigger_condition": "当被建议与母亲讨论社交焦虑、尝试获得支持时",
+          "interpretation": "把可能的误解等同于必然的拒绝，认为表达只会带来否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "提出多种实际困难作为理由（如“她不会理解我”），语气犹豫，降低行动承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "自述没有朋友、从高中开始的长期孤立感",
+            "在群体中冻结、避免社交",
+            "看到他人社交时加重孤独与自我否定"
+          ],
+          "outcomes": [
+            "持续的孤独与隔离感",
+            "社交焦虑与回避",
+            "日常动力下降、幸福感受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次表达担心“说蠢话”、被看见尴尬",
+            "描述在社交中尽量降低存在感、谨慎到不参与对话"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "在会谈中假设“别人不会喜欢我”“她（母亲）不会理解我”",
+            "将内在否定体验归因于他人可能的态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性的母亲（可在实际事务上沟通）",
+          "具有清晰的职业目标（立志成为兽医）",
+          "曾主动尝试开启对话，愿意改变现状"
+        ],
+        "negative_force": [
+          "显著的社交焦虑，在群体中易冻结",
+          "认知歪曲：读心术、预测负面结果、与他人比较/过度概括",
+          "习惯性回避社交情境、保持沉默",
+          "自我标签化“我不会与任何人说话”，自信不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合的回避与沉默（尽量降低存在感、不主动参与）",
+          "antecedent": [
+            "身处群体或聚会场合",
+            "看到他人正在社交/结交朋友",
+            "需要主动开启对话或回应他人时"
+          ],
+          "core_reason": "对负面评价与尴尬的灾难化预期与读心式猜测（担心“说蠢话”“被看见尴尬”）引发焦虑，进而促发退缩",
+          "function": "逃避不受欢迎的情绪（焦虑、羞耻）并避免可能的负面评价",
+          "consequence": "持续的孤立与孤独感、日常动力下降，人际与职业目标（成为兽医所需的社交沟通）受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1420
+}

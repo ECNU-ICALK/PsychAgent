@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈思远",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与朋友的关系受影响，常感到无人倾听与被孤立；有少数亲密朋友可交谈，但难以向其敞开谈论孤立感",
+      "medical_history": "慢性背痛；无显著躯体疾病；此前未接受心理咨询或治疗",
+      "language_features": "表达清晰、能反思、配合度高；略显紧张但抱有希望"
+    },
+    "main_problem": "因与朋友存在感知到的差异而感到无人倾听与被孤立，已持续数月。",
+    "topic": "人际关系",
+    "core_demands": "我真的想改善与朋友的连接，不再总是感到孤立。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被倾听",
+        "我的观点不重要/我很无聊"
+      ],
+      "special_situations": [
+        {
+          "event": "当与朋友谈论自己热爱的主题时，朋友出现走神或转移话题",
+          "conditional_assumptions": "如果他们在我讲话时分心，说明我不重要、我的内容很无聊",
+          "compensatory_strategies": "减少分享、撤回表达，选择保持沉默以避免显得“需要关注”",
+          "automatic_thoughts": "我不值得他们的时间或注意",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友近期显得疏远、对交流不积极",
+          "conditional_assumptions": "如果他们疏远，说明我们几乎没有共同点，关系注定会变差",
+          "compensatory_strategies": "用“我是老灵魂、与他们不同”进行自我解释，减少社交接触",
+          "automatic_thoughts": "我们没什么共同点，关系正在恶化",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "在背痛加重的时期与朋友互动",
+          "conditional_assumptions": "如果在我最需要支持时也没人倾听，那我永远得不到重视",
+          "compensatory_strategies": "在疼痛期回避互动或提前退出对话以自我保护",
+          "automatic_thoughts": "一切都更糟，我无法摆脱孤独",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "向朋友表达被忽视的感受后，对方口头承诺但行为未明显改变",
+          "conditional_assumptions": "如果我表达后仍无变化，说明我的需求没有价值、再沟通也没有意义",
+          "compensatory_strategies": "选择退缩、停止再次沟通以避免“显得 needy”",
+          "automatic_thoughts": "我应该把感受藏起来，免得给别人添麻烦",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真正倾听与重视，获得稳定的连接与认可",
+        "fear": "害怕表达需求被忽视或被拒绝、显得“过于需要”而被轻视",
+        "defense_goal": [
+          "通过保持疏离与减少自我暴露来降低被忽视与被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、不重要的旁观者",
+          "object_representation": "冷漠、分心的朋友/关系对象",
+          "linking_affect": "悲伤、挫败、无助、愤怒"
+        },
+        {
+          "self_representation": "被看见且被重视的伙伴",
+          "object_representation": "在场、能倾听的支持者",
+          "linking_affect": "被接纳、连接感、希望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及朋友疏远的原因或被邀请进一步表达自身需求时",
+          "interpretation": "认为进一步表达会显得自己过度需要、可能被轻视或拒绝",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用概括性标签（如“我们没共同点/我是老灵魂”）进行解释，语气理性克制，减少触及脆弱情感的细节。"
+        },
+        {
+          "trigger_condition": "当表达被忽视的感受后，外界反馈不明显或未见改变",
+          "interpretation": "等同为自己的需求没有价值、再沟通也没有意义",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "自责并收回表达，用“我不该麻烦别人”的句式，语气压低情感强度，减少进一步请求。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在与朋友交谈中频繁感到无人倾听与被孤立",
+            "朋友显得疏远，对交流不积极",
+            "因担心显得“需要”而选择收回表达",
+            "慢性背痛加重时孤立感更强、无助感增加"
+          ],
+          "outcomes": [
+            "社交回避与退缩",
+            "悲伤、挫败与压力增高",
+            "沟通意愿下降、关系质量下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "表达后未见改变便停止再沟通",
+            "把感受藏起来以避免显得“需要”",
+            "在疼痛加重时退出对话以自我保护"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心显得“needy/会麻烦别人”而压抑表达",
+            "犹豫是否再次提出需求，过度谨慎地与朋友互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与朋友交谈、尤其谈及自己热爱的主题时，来访者通常会感到他们分心与不感兴趣，从而撤回表达并感到孤立与压力。",
+          "unique_outcome": "近期仍有少数时刻在安静、无干扰的环境下与朋友进行了一次或几次有意义的对话；那时来访者被认真倾听，感到连接与被重视。",
+          "reason": "不同情境：安静时段、干扰更少、朋友更在场；不同做法：更一对一的交流、更少中断，促成更专注的互动。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备自我反思与开放沟通的意愿",
+          "能识别有效情境（安静、少干扰、一对一）并提出具体改善策略",
+          "偶尔的被倾听经验提供希望与可复制的线索",
+          "态度积极、愿意尝试新方法"
+        ],
+        "negative_force": [
+          "灾难化、读心术、过度概括与“应该”句式等认知扭曲",
+          "回摄与自我监控倾向，害怕显得“需要”而压抑表达",
+          "慢性背痛对情绪与社交参与造成负面影响",
+          "在表达后未见改变时迅速退缩，降低后续沟通意愿"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与朋友互动中撤回表达与避免沟通",
+          "antecedent": [
+            "谈论自己热爱的主题时朋友走神或转移话题",
+            "朋友显得疏远/不回应",
+            "表达被忽视感后未见改变",
+            "背痛加重的时段"
+          ],
+          "core_reason": "担心被忽视与被拒绝，伴随“我不重要/不值得被倾听”的核心信念与灾难化、读心术等自动化思维",
+          "function": "逃避不受欢迎的结果（被忽视/被拒绝），保护自尊并降低情绪痛苦",
+          "consequence": "关系疏离加重、孤立感上升、压力增大，减少获得支持与正向互动的机会"
+        },
+        {
+          "behavior": "在社交情境中出现灾难化、读心术、过度概括等负性自动化思维",
+          "antecedent": [
+            "朋友分心或更换话题",
+            "朋友疏远的行为线索",
+            "疼痛与情绪负担增加的时刻"
+          ],
+          "core_reason": "内在核心信念“我不重要/不值得被倾听”被激活并主导信息加工",
+          "function": "通过负性归因快速解释他人行为，试图获得认知上的控制感与自我保护",
+          "consequence": "悲伤、挫败与无助感增强，促发沟通回避与社交退缩"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1667
+}

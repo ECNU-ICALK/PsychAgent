@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "王可欣",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "未提及",
+      "social_status": "与丈夫的关系因对食物与身体形象的负面想法受到影响；有几个亲密朋友可倾诉，但对与朋友分享这些想法感到不自在",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "自我贬低明显（如称自己“肥猪”）、严格“应该”与自律规则、倾向灾难化与过度概括、否定积极面、表达合作但持怀疑态度，情绪低落与强烈内疚"
+    },
+    "main_problem": "在丈夫为其准备含黄油的惊喜晚餐后，因进食而产生强烈的负罪感与自我厌恶，出现关于身体形象与自我价值的负面想法，进而影响自尊与情绪。",
+    "topic": "情绪管理",
+    "core_demands": "意识到关于食物与身体的负面想法正在影响其心理健康与与丈夫的关系，因此寻求咨询以改变这些思维模式。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的自我价值取决于我是否严格控制饮食与体重",
+        "一旦我在饮食上放纵，就证明我是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "丈夫准备惊喜晚餐并告知使用了黄油",
+          "conditional_assumptions": "如果我吃了高脂食物，就会毁掉我所有的健康努力，说明我缺乏自律",
+          "compensatory_strategies": "事后严苛自我批评、尝试用积极自我对话来纠正、计划通过更严格的饮食来“补偿”",
+          "automatic_thoughts": "我在毁掉我的饮食计划，一次失误会毁掉一切；我是“肥猪”",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在进食“放纵”的食物或丰盛餐后",
+          "conditional_assumptions": "我不应该吃某些食物；如果不够自律，就等于失败",
+          "compensatory_strategies": "制定更严格的饮食规则、餐后进行自我苛责和否定",
+          "automatic_thoughts": "我不够自律，我失败了",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "特殊场合或丈夫做了贴心举动（如惊喜晚餐）",
+          "conditional_assumptions": "如果在这些时刻没有严格拒绝高热量食物，就会失控增重并长期不满意自己的身体",
+          "compensatory_strategies": "回避享受当下、专注食物成分与热量、事后持续自责",
+          "automatic_thoughts": "这会破坏我的健康，我会一直增重、再也无法对自己的身体满意",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "享受由伴侣用心准备的餐食时",
+          "conditional_assumptions": "享受他人的好意等同于纵容自己、会削弱自律",
+          "compensatory_strategies": "否定积极体验、只关注不健康的成分与潜在后果",
+          "automatic_thoughts": "这并不是好事，我不该享受这顿饭",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "希望能安心享受与丈夫的亲密与关怀，在饮食上保持适度与自信",
+        "fear": "害怕失控增重、变得不满意自己的身体与自我价值，从而被视为失败者并影响亲密关系",
+        "defense_goal": [
+          "通过严苛自我控制与自我批评来维持安全感、避免被视为“失败”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易失控、需要被严格约束的自己",
+          "object_representation": "好意中带来诱惑与风险的他人（如丈夫）",
+          "linking_affect": "内疚、焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被他人的关怀或亲密举动（如丈夫的惊喜晚餐）触发，或当咨询师邀请其接纳积极体验与自我奖励时",
+          "interpretation": "将关怀理解为对自律的“考验”，一旦未达成严格标准，即认为自己失败并需要惩罚（移情：将外部好意体验为潜在威胁）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用强烈的自责语气，频繁使用“我不该…/我失败了”，忽略或最小化他人的善意与积极感受。"
+        },
+        {
+          "trigger_condition": "当面对进食后的负罪感与对体重的担忧时",
+          "interpretation": "通过强调“一次放纵就会毁掉一切”等理由，为持续的严格控制与自责寻找正当性",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性化的口吻强调规则与后果（如热量、增重），用“因此我必须更严格”来巩固自我惩罚与控制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以严格的‘应该/必须’规则约束自身饮食与行为",
+            "将进食与自我价值绑定，担心一旦放松就失控",
+            "难以在亲密时刻自由地享受他人的关怀"
+          ],
+          "outcomes": [
+            "焦虑与内疚显著",
+            "情绪低落与自尊受损",
+            "难以享受与丈夫的亲密时刻"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对与朋友分享这些困扰感到不自在",
+            "负面思维影响与丈夫的互动与亲密"
+          ],
+          "outcomes": [
+            "关系紧张与疏离感增强",
+            "在进食相关情境中更倾向于自我封闭与自我批评"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用‘我不应该吃某些东西’、‘我必须更自律’等语句",
+            "将健康与体重的外在标准直接当作自我价值准则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "餐后进行强烈的自我批评与否定",
+            "担心看不到立刻效果而进一步自责",
+            "在亲密时刻过度谨慎，难以允许享受与放松"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "健康意识较强，重视饮食与身体管理",
+          "能识别并描述负面自动化思维，愿意尝试记录与提醒策略",
+          "具备一定的社会支持（有几位可倾诉的朋友）",
+          "对改变持开放态度（尽管怀疑），愿意与咨询师合作"
+        ],
+        "negative_force": [
+          "严格的‘应该’与非黑即白规则导致自我苛责",
+          "灾难化与过度概括（一次放纵就毁掉一切）",
+          "否定积极体验、忽视伴侣的关怀与当下的愉悦",
+          "进食后强烈内疚与自我贬低，持续影响情绪与自尊",
+          "担心失控增重，过度将身体形象与自我价值绑定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "进食后出现强烈的内疚与自我贬低（如称自己为“肥猪”），伴随持续的负面反刍",
+          "antecedent": [
+            "食用被视为“放纵”的食物或高脂成分（如黄油）",
+            "特殊场合或伴侣准备的丰盛餐食",
+            "餐后回想与比较饮食是否符合严苛规则"
+          ],
+          "core_reason": "将体重与饮食纪律视为自我价值的核心，以灾难化与非黑即白的认知解释一次放纵为“彻底失败”，并通过自我批评来寻求控制感",
+          "function": "逃避（负性强化）：通过自责与更严格的规则来暂时缓解对失控与增重的焦虑，并试图恢复可控感；同时回避享受与亲密体验",
+          "consequence": "情绪低落与自尊受损，无法享受与伴侣的亲密时刻，关系受到影响；用餐后持续压力与负面反刍"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1816
+}

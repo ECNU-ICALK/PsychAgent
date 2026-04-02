@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "凯登",
+      "gender": "男",
+      "occupation": "舞者",
+      "educational_background": "自幼接受芭蕾训练",
+      "marital_status": "未提及",
+      "family_status": "母亲是职业芭蕾舞者，家人整体支持",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；既往未出现类似心理问题，未接受心理治疗",
+      "language_features": "表达清晰，逻辑性较好，语气平稳，配合度良好，倾向自责与反思"
+    },
+    "main_problem": "因为未成为职业芭蕾舞者而感到内疚和自我责备，这些感受在决定于未来6个月内退休后加重，并使其质疑整个芭蕾生涯。",
+    "topic": "职业发展",
+    "core_demands": "我选择寻求咨询，因为内疚和自责影响了我的心理健康并造成困扰。",
+    "growth_experiences": [
+      "原生与成长背景：自幼接受系统的芭蕾训练，母亲为职业芭蕾舞者，来自家庭的支持较为稳定；在这样的环境中，芭蕾长期成为其身份与价值的重要组成部分。",
+      "职业经历与成就：曾在大型制作中担任主演并拥有“站在世界之巅”的高峰体验，同时也经常与同行比较，将“应更努力练习/更投入”作为自我评价的重要标准。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不好的结果主要是我的错",
+        "只有达到顶尖水平/成为职业芭蕾舞者才算有价值",
+        "我不够努力、不够自律"
+      ],
+      "special_situations": [
+        {
+          "event": "退休日期临近并反思职业选择",
+          "conditional_assumptions": "如果我选择退休，就说明这些年不够努力，是一种失败",
+          "compensatory_strategies": "加重自我批评并回避与家人沟通以维持“坚强舞者”的形象",
+          "automatic_thoughts": "我没有尽力，这一切都是我的错。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到其他舞者获得主角与荣誉、处于巅峰状态",
+          "conditional_assumptions": "如果我达不到他们的水平，就意味着我不够投入、不如别人",
+          "compensatory_strategies": "不断与他人比较、否定自己的成绩与努力",
+          "automatic_thoughts": "我不如他们。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回顾职业生涯中的错失机会",
+          "conditional_assumptions": "如果我当时练得更勤，就不会错过那些机会；错过机会说明我这一路都不够努力",
+          "compensatory_strategies": "自我指责、忽视既有成就，不主动寻求支持或具体应对",
+          "automatic_thoughts": "我本该更努力练习。",
+          "cognitive_pattern": "Should"
+        },
+        {
+          "event": "想到家人的看法而迟疑是否分享内心感受",
+          "conditional_assumptions": "如果表达脆弱或负面情绪，就会让家人失望、被认为不知感恩",
+          "compensatory_strategies": "维持“强者形象”，避免与家人直接沟通以躲避可能的评价",
+          "automatic_thoughts": "他们会觉得我太消极、太不知感恩。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与被认可，努力与价值不只由巅峰成就来定义",
+        "fear": "害怕让家人失望、被评价为不够努力或不知感恩",
+        "defense_goal": [
+          "维持“坚强舞者”的自我形象以避免负面评价",
+          "通过回避分享来降低被误解与被批评的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "必须坚强、不能让家人失望的人",
+          "object_representation": "家人是支持但可能会评判与不理解的他者",
+          "linking_affect": "内疚、焦虑、退缩"
+        },
+        {
+          "self_representation": "不如他人的舞者",
+          "object_representation": "他人是更投入、更优秀的竞争者",
+          "linking_affect": "自卑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请或鼓励向家人分享真实感受与困扰时",
+          "interpretation": "他们会觉得我太消极或不知感恩（移情：将内在批评投射到家人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用谨慎、保留的语气表达担忧，强调“他们不会理解”，避免直接承诺分享，尽量把话题转回到自己需要更努力的叙事上。"
+        },
+        {
+          "trigger_condition": "当谈及退休决定与职业意义时",
+          "interpretation": "若不以理性解释“身体磨损、时机到了”，就可能暴露失落与脆弱",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "强调客观条件与理性判断，用客观化语言弱化情绪色彩，减少对失落与悲伤的直接表露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "随着退休临近开始质疑整个芭蕾生涯的意义",
+            "反复回想错失机会、否定既有成就"
+          ],
+          "outcomes": [
+            "内疚与自责加重",
+            "动机下降",
+            "情绪困扰影响日常生活"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有家庭支持却未向家人分享真实感受",
+            "担心被误解或被视为不知感恩"
+          ],
+          "outcomes": [
+            "社会性退缩",
+            "情感负担加重",
+            "缺乏情感支撑与共鸣"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对“退休”的选择与责任感到为难与矛盾",
+            "在抉择中自责将结果归咎于个人不够努力"
+          ],
+          "outcomes": [
+            "焦虑增加",
+            "犹疑不决",
+            "以自责方式限制自我选择的自由体验"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "维持“坚强舞者”形象以避免让家人担心",
+            "过度归责自身不足",
+            "在咨询中谨慎谈及脆弱与失落"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "担心家人会认为自己“不知感恩/太消极”",
+            "将内在的批评者体验外归到家人可能的评价上"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向家人表达真实感受，将情绪与压力向内吞咽",
+            "以自我批评的方式处理外向的表达冲动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在回顾职业生涯时，凯登通常会陷入自责与否定，认为未成为职业芭蕾舞者都是自己的错。",
+          "unique_outcome": "在过去的某些大型制作中担任主演的演出之夜，凯登体验到高度投入与自信，感受到“站在世界之巅”的成就感，并未陷入自责叙事。",
+          "reason": "不同支持/情境：当时获得家人与同事的肯定，身体状态与准备度良好，长期训练的积累在关键时刻得到发挥。"
+        },
+        {
+          "target_problem": "看到其他舞者取得主角或荣誉时，凯登通常会比较并否定自己的价值，情绪低落。",
+          "unique_outcome": "在被家人与同事直接肯定“你也做得很好”的场合，凯登当下能承认自己的成绩，负面情绪有所缓解。",
+          "reason": "不同支持：来自重要他人（家人与同事）的积极反馈提供了外部参照，使其短暂接受自身成就。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭整体支持与母亲的专业背景",
+          "真实的舞蹈成就与主演经验",
+          "对教学与编舞的开放兴趣",
+          "具备一定自我反思与改变的意愿"
+        ],
+        "negative_force": [
+          "过度自责与个人化、过度概括的认知模式",
+          "频繁与他人比较并否定自身",
+          "临近退休引发的意义危机",
+          "动机下降与社会性退缩，避免与家人沟通"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自责并回避与家人沟通",
+          "antecedent": [
+            "退休日期临近并思考转型",
+            "回顾错失机会",
+            "看到其他舞者获得主角与荣誉"
+          ],
+          "core_reason": "深层信念将结果完全归咎于自身，并担心表达脆弱会让家人失望或被视为不知感恩。",
+          "function": "逃避潜在的评价与失望，以维持“坚强舞者”形象并短期降低焦虑。",
+          "consequence": "动机下降、社会性退缩、日常生活与情绪健康受影响，减少舞蹈相关活动。"
+        },
+        {
+          "behavior": "持续与他人比较并否定自身成就",
+          "antecedent": [
+            "看到同行的成功消息或重大演出",
+            "回忆职业生涯中的错失机会"
+          ],
+          "core_reason": "将自我价值强烈绑定于顶尖表现与外部荣誉，形成比较与绝望的认知习惯。",
+          "function": "通过自我批评来维持对“应更努力”的控制感（内在惩罚），同时回避承认复杂因素与情绪。",
+          "consequence": "自卑与内疚加重，进一步降低动力与自我效能感。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1938
+}

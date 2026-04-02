@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "李强",
+      "gender": "男",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业（High School Diploma）",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交较少，互动有限；缺乏可求助的社会支持",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或求助史",
+      "language_features": "配合度良好，表达清晰，语气平稳（态度中性）；能辨识触发情境（如下班后疲惫）；对改变持谨慎态度（常用“我猜/也许/希望有用”等不确定表达）"
+    },
+    "main_problem": "我在日常生活中感到很不高效，尤其是在照顾自己和健康饮食方面；我会把每一顿不健康的餐都贴上“失败”的标签，形成难以打破的不良饮食循环，常发生在下班后疲惫之时。",
+    "topic": "个人成长",
+    "core_demands": "我意识到自己对食物和生产力的消极想法正在影响整体身心健康，想要处理这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有持续保持自律与高效我才有价值，否则就是失败",
+        "一旦我犯错就等于全盘失败"
+      ],
+      "special_situations": [
+        {
+          "event": "下班后身心疲惫，独自回家并选择快餐",
+          "conditional_assumptions": "如果我这一顿吃得不健康，就等于失败，后续的努力也没有意义",
+          "compensatory_strategies": "干脆放弃当天剩余的健康选择（不再做饭、不记录饮食）",
+          "automatic_thoughts": "我已经把今天毁了，后面吃什么都无所谓了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在坚持一段时间的计划后出现一次“滑坡”（未按计划饮食）",
+          "conditional_assumptions": "只要出现一次失误，就说明我做不到并且以后也会失败",
+          "compensatory_strategies": "停止计划与执行，回到旧习以避免再次失败",
+          "automatic_thoughts": "反正我迟早会回到老样子，继续努力也没用",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "吃了一顿不健康的餐并立即进行自我评价",
+          "conditional_assumptions": "健康饮食必须每顿都达标，否则就算失败",
+          "compensatory_strategies": "给这顿饭贴“失败”标签，忽视既往的任何正面努力与进步",
+          "automatic_thoughts": "我失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "感到工作压力大、精力枯竭且无可倾诉对象的时刻",
+          "conditional_assumptions": "在这种状态下我不可能做出健康选择",
+          "compensatory_strategies": "不再尝试做出更健康的决定，任由不良饮食继续",
+          "automatic_thoughts": "我太累了，没法做得更好",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "在个人生活中也能像在工作中那样被认可与自我掌控，感到有效能并被看重",
+        "fear": "害怕失败与被否定，担心在孤立无援的状态下无法改变",
+        "defense_goal": [
+          "通过严苛的全或无标准与自我贴标签来逼迫自己维持控制",
+          "以合理化方式将失误归因于疲劳与压力以减轻内疚",
+          "减少对他人的依赖以避免失望与受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤立、难以自我照料且容易失败的个体",
+          "object_representation": "他人/环境是冷漠且难以提供支持的",
+          "linking_affect": "无助、羞愧"
+        },
+        {
+          "self_representation": "在结构化要求下能够胜任的执行者（仅限工作情境）",
+          "object_representation": "工作环境是可控、可通过努力达成目标的体系",
+          "linking_affect": "踏实、确定感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其停留于情绪体验、探讨感受深度时",
+          "interpretation": "倾向将聚焦情绪视为不必要或难以承受，更愿意谈事实与计划",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用简短客观的描述，尽量避免情绪词汇，语气平稳、克制。"
+        },
+        {
+          "trigger_condition": "当谈及饮食‘失误’或被讨论继续执行改变计划时",
+          "interpretation": "将一次失误视作整体失败，并强调外部压力/疲劳为主要原因以解释放弃",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调工作压力与疲惫等客观因素，语气平静但带无奈，以此正当化不继续尝试的选择。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无兄弟姐妹；社交较少、与他人互动有限；面对困难时没有可倾诉与求助的对象"
+          ],
+          "outcomes": [
+            "不良饮食循环加重",
+            "自我效能感下降、对改变持悲观预期",
+            "身心能量与整体健康感受受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中对改变持谨慎与不确定的表达（如“我猜/也许/希望有效”）",
+            "将一次饮食失误归咎于自身并自我贴标签（“我把今天搞砸了”）",
+            "情绪表达克制，更多谈事实与计划"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在工作场域具备结构化与高执行力的经验（能在特定情境保持生产力）",
+          "有动机寻求帮助并愿意尝试行为实验",
+          "能识别关键触发情境（如下班后疲惫）",
+          "能选择较不忙碌的时段（如周四）进行计划与尝试"
+        ],
+        "negative_force": [
+          "全或无思维与预测未来的认知偏差",
+          "对不健康饮食的自我贴标签导致放弃后续选择",
+          "社会隔离与缺乏支持系统",
+          "工作压力与精力耗竭导致决策资源不足",
+          "自我效能感偏低，难以维持改变"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "不健康饮食后自我否定并放弃当日后续健康选择",
+          "antecedent": [
+            "下班后身心疲惫",
+            "工作压力增大",
+            "独处、缺乏社会支持"
+          ],
+          "core_reason": "全或无思维与对未来的悲观预测使一次失误被视为全盘失败；在疲劳与压力下倾向选择即时省力的进食方式",
+          "function": "短期逃避压力与自责、降低决策负担（通过“放弃”获得暂时轻松）",
+          "consequence": "形成不良饮食循环，能量与整体健康感受下降，改变动机与自我效能进一步减弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 624
+}

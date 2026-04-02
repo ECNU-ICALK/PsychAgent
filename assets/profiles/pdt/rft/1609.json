@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "赵静",
+      "gender": "女性",
+      "occupation": "高中教师（教授日语与绘画）",
+      "educational_background": "教育学学位",
+      "marital_status": "单身",
+      "family_status": "独居，养一条狗",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；曾接受言语治疗",
+      "language_features": "表达清晰、配合度高，能具体描述困扰与感受，态度积极"
+    },
+    "main_problem": "因口音及发音困难（如“hippopotamus”）长期感到自卑与尴尬，导致在他人面前说话时羞耻、紧张与负面自我评价，影响职业与个人生活、自尊与睡眠。",
+    "topic": "情绪管理",
+    "core_demands": "这些自卑与尴尬感正在影响我的职业与个人生活，造成困扰并影响我的自尊，因此我决定寻求咨询。",
+    "growth_experiences": [
+      "约10年前为任教而搬迁后，在教学生涯早期收到关于口音的反馈与批评，这一经历持续强化她对口音的高度自我关注与负面自我评价；此后在公开发言与发音困难词上持续感到羞耻与紧张，负性自我对话加重。曾尝试言语治疗，但并未缓解其“自卑/不够好”的感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是愚蠢的/不够聪明",
+        "我不够好，不配当老师"
+      ],
+      "special_situations": [
+        {
+          "event": "在课堂或教职工会议上需要公开发言或念出发音困难的词语",
+          "conditional_assumptions": "只要我在公众场合发错音或暴露口音，别人就会看轻我，认为我不专业、不够资格",
+          "compensatory_strategies": "在会议中犹豫或减少发言、刻意回避困难词汇、反复过度准备",
+          "automatic_thoughts": "我听起来很愚蠢，他们在心里嘲笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "教学生涯早期收到关于口音的批评与负面反馈",
+          "conditional_assumptions": "一次负面反馈就证明我的口音是持久问题，也说明我不够好",
+          "compensatory_strategies": "对说话与发音过度警觉、形成负性自我对话、寻求言语治疗以修正缺陷",
+          "automatic_thoughts": "我不适合当老师/我不够好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与熟悉自己的少数朋友或与宠物狗相处时，交流相对轻松且他人不在意口音",
+          "conditional_assumptions": "这些正面经历不算数，只有在任何场合都发音完美才说明我没有问题",
+          "compensatory_strategies": "忽视或贬低正面证据，继续聚焦负面评价与风险",
+          "automatic_thoughts": "他们只是因为了解我才不介意，这不代表别人不会介意",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在工作场合与同事或学生互动交流",
+          "conditional_assumptions": "如果我发音不完美，就不会被尊重或认真对待；他人的看法决定我的价值",
+          "compensatory_strategies": "寻求他人安慰与保证、减少在会议中的主动发言",
+          "automatic_thoughts": "如果我不发音完美，别人就不会尊重我",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与尊重，不因口音而被评判",
+        "fear": "害怕被嘲笑、被看轻、失去专业形象与价值感",
+        "defense_goal": [
+          "通过减少公开发言与回避困难词以降低被评判的风险",
+          "保持自我批评与高度警觉以试图避免错误和羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻而不够好的被评判者/教师",
+          "object_representation": "挑剔、带批判的他人（同事、学生）",
+          "linking_affect": "羞耻、焦虑、尴尬"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，仅有少数朋友且未向其分享自卑与尴尬感",
+            "在职场中因自我意识过强而与他人保持距离，难以建立关系"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑与压力增高",
+            "睡眠受影响",
+            "人际关系建立受阻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈与叙述中频繁自我否定（如“我听起来像个傻瓜”）",
+            "过度担心他人看法，导致在会议中犹豫发言",
+            "面对少数朋友也不愿分享真实的自卑与尴尬感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要公开讲话或发音困难词的情境中，来访者通常会感到强烈的尴尬与自我否定，从而紧张回避，影响交流与表现",
+          "unique_outcome": "与宠物狗相处或在与少数熟悉的朋友一起时，来访者几乎不再关注自己的口音，感到更轻松与被接纳，交流更自然，羞耻与紧张显著降低",
+          "reason": "不同情境与关系支持：在安全且被接纳的关系中（宠物不评价、朋友了解且不在意口音），评判威胁显著降低，来访者的自我批评暂时停止"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有少数支持性的朋友与宠物带来安全感与接纳体验",
+          "求助动机较强，曾尝试言语治疗",
+          "态度积极，愿意进行现实检验与行为实验"
+        ],
+        "negative_force": [
+          "过度在意他人评价与内化批评（读心术）",
+          "过度概括与自我标签强化不够好的自我图式",
+          "在公开场合的回避免谈与减少发言限制职业与人际发展",
+          "睡眠受影响，加重焦虑与反刍"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在公开讲话或需要发音困难词时出现显著焦虑与回避（犹豫发言、降低参与度）",
+          "antecedent": [
+            "课堂教学需要发言与示范",
+            "教职工会议中需要发言或回应",
+            "遇到发音困难的词语"
+          ],
+          "core_reason": "早期因口音受到批评后形成“我不够好”的核心信念与对他人评判的灾难化/读心式预期，导致自我羞耻与警觉升高",
+          "function": "逃避被评判与尴尬以获得安全感与短期情绪缓解",
+          "consequence": "工作表现受影响、难以建立与同事和学生的关系、自尊降低、夜间反刍影响睡眠"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1609
+}

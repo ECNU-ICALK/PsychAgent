@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "68",
+      "name": "张梅",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一群支持性的朋友，但尚未与他们讨论此事",
+      "medical_history": "未经历类似心理问题；既往未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述事件与感受；配合度良好；语气平稳但伴随焦虑；负性自我评价与自责明显；逻辑性较好"
+    },
+    "main_problem": "一次做饭时不慎烧到头发后，张梅在烹饪情境中持续出现焦虑、负性自我对话与自我批评（认为自己总是粗心），导致怀疑自己的能力、难以享受做饭。",
+    "topic": "情绪管理",
+    "core_demands": "该事件显著影响了我的自尊与对烹饪的享受，我希望处理关于“粗心”和焦虑的感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我总是粗心"
+      ],
+      "special_situations": [
+        {
+          "event": "做饭时曾烧到头发的事故后再次下厨",
+          "conditional_assumptions": "如果我在烹饪中不能做到绝对小心，就说明我是粗心且不称职",
+          "compensatory_strategies": "尝试在烹饪时更加谨慎与警惕",
+          "automatic_thoughts": "我总是粗心，我会再次犯错或受伤",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "开始煮意面等具体烹饪任务（如昨日煮意面）",
+          "conditional_assumptions": "只要不是百分之百专注与完美，就一定会出事",
+          "compensatory_strategies": "在烹饪过程中不断自我提醒与紧张警觉",
+          "automatic_thoughts": "我可能会把水洒出来，或者又分心犯错误",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "走进厨房准备做饭",
+          "conditional_assumptions": "必须做到零失误才能证明我不是粗心",
+          "compensatory_strategies": "提高谨慎程度、反复检查步骤",
+          "automatic_thoughts": "如果不够完美，就等于失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想烹饪经历时忽略成功的例子（如炖菜顺利）",
+          "conditional_assumptions": "一次事故比多次成功更能说明问题",
+          "compensatory_strategies": "将注意力集中在负面经历，轻视或忽略正面经验",
+          "automatic_thoughts": "那些做得好的不算数，真正的我就是粗心",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在烹饪中保持安全与掌控，被看作有能力且值得信任",
+        "fear": "害怕再次受伤或犯错，担心被视为粗心与无能",
+        "defense_goal": [
+          "通过高度警惕与自我批评来避免错误并维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧、易犯错的自己（不称职的操作者）",
+          "object_representation": "他人（社交圈）可能会评判或让我感到尴尬的旁观者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询中被邀请向朋友分享此事或探索替代视角时",
+          "interpretation": "潜意识认为暴露脆弱会让他人看轻自己或尴尬，因此以“只是注意力不够”的解释来维持面子与控制",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性解释归因于“注意力不够”为主，语气克制、强调谨慎与自责，回避深入探讨羞耻与恐惧的感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有支持性朋友却因尴尬未分享内心困扰",
+            "在厨房情境中独自承受焦虑与自我批评"
+          ],
+          "outcomes": [
+            "焦虑持续",
+            "自尊受损",
+            "烹饪的愉悦感丧失"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "曾带来喜悦的烹饪转为压力源与自我怀疑"
+          ],
+          "outcomes": [
+            "生活满足感下降",
+            "对烹饪的回避或紧张加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自我语言中出现“我必须绝对小心”“我总是粗心”的内在规则化表述",
+            "将对谨慎的外部期待当作绝对标准要求自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责与负性自我评价（“我很粗心”）",
+            "在烹饪时过度谨慎与紧张",
+            "担心他人看法而不向朋友求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在厨房做饭时，张梅通常会产生强烈焦虑与自我怀疑，并预期会犯错，从而难以享受烹饪。",
+          "unique_outcome": "几周前做了一次炖菜，全程顺利且没有事故，成品很好，做完后感到像以前一样的愉悦与自信。",
+          "reason": "线索：当时所做菜肴更为熟悉、步骤明确；节奏较为平稳并保持专注，因此这次未出现事故、体验更好。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试新方法并主动寻求咨询支持",
+          "有成功烹饪的经验作为资源（炖菜顺利）",
+          "拥有支持性的朋友群体（可作为潜在支持）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式",
+          "过度概括与全或无思维",
+          "否定正面经验（成功不算）",
+          "自我标签与持续自责",
+          "因尴尬而不向朋友寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在烹饪时出现的高度焦虑与负性自我对话（自我批评与“我很粗心”的自我标签）",
+          "antecedent": [
+            "走进厨房或开始准备食材",
+            "进行具体烹饪任务（如煮意面）",
+            "回忆起烧到头发的事故"
+          ],
+          "core_reason": "一次烹饪事故后形成“我总是粗心”的核心信念，并伴随灾难化与过度概括的认知模式。",
+          "function": "通过自我警惕与自责来尝试避免危险、获取控制与安全感",
+          "consequence": "自尊下降、烹饪的愉悦感丧失、焦虑持续且谨慎并未显著减轻紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 970
+}

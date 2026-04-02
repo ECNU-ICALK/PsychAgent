@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "张大为",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位亲友可谈一般问题，但未向他们谈及与过敏相关的焦虑；因担忧过敏而回避社交聚会与活动",
+      "medical_history": "无重要身体疾病，除季节性过敏外；过去未寻求心理治疗；此前未有类似心理问题的经历",
+      "language_features": "倾向灾难化与负面过滤，常用绝对化表达（“会毁掉整个季节”）；对改变持怀疑态度；表达清晰、能具体描述经历；语速与逻辑结构未提及"
+    },
+    "main_problem": "对春季过敏会毁掉整个季节的持久性信念，引发持续的焦虑与痛苦，随春季临近而加重，并因此回避户外与社交活动。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询缓解对春季过敏的焦虑与痛苦，以恢复对生活与户外活动的享受。",
+    "growth_experiences": [
+      "几年前过敏明显加重，随后逐渐形成“过敏会毁掉整个春季”的信念。过往严重过敏的体验使其将春夏的户外活动与不适、沮丧联系在一起，随着每年春季临近而反复预期最坏结果，日常焦虑频发，并开始回避徒步、与亲友的户外社交。尽管偶尔仍能在过敏存在的情况下享受活动，但这些正面经历被他视为“例外”而忽略。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "春季过敏会毁掉我的体验与整个季节",
+        "一旦过敏发作，我就无法享受户外与社交"
+      ],
+      "special_situations": [
+        {
+          "event": "每年春季临近、想到即将到来的户外活动与花粉暴露",
+          "conditional_assumptions": "如果我在春季外出，就一定会过敏发作并导致整段经历变得糟糕且无法承受",
+          "compensatory_strategies": "尽量待在室内、提前回避户外活动，依赖非处方药物但不做进一步尝试",
+          "automatic_thoughts": "我会很痛苦，过敏会毁掉整个春天",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "朋友或家人组织春季的户外聚会或徒步活动",
+          "conditional_assumptions": "如果我的过敏在活动中发作，我会破坏大家的体验，也会让自己很难堪",
+          "compensatory_strategies": "拒绝或回避邀请，减少与亲友的线下接触",
+          "automatic_thoughts": "我会把活动弄糟，大家都会不开心",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回想过去的春季经历时，更容易记住严重过敏的糟糕时刻",
+          "conditional_assumptions": "如果有过糟糕的过敏经历，就说明以后也会一直糟糕",
+          "compensatory_strategies": "专注于负面证据，不主动收集或回顾正面体验",
+          "automatic_thoughts": "坏的经历证明以后都会很糟",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到曾经在过敏存在的情况下仍有几次享受了户外活动",
+          "conditional_assumptions": "即使有过少数好的经历，也不代表整体会好转",
+          "compensatory_strategies": "否定正面体验的意义，维持原有负性预测",
+          "automatic_thoughts": "那些都是例外，不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在春季自由地享受户外和与亲友的联结，不被过敏控制",
+        "fear": "害怕在户外失控与强烈不适，导致体验被毁、自己与他人都失望",
+        "defense_goal": [
+          "通过回避与自我限制来避免不适与尴尬，维持可控与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被过敏困住、容易把活动“弄糟”的脆弱参与者",
+          "object_representation": "春季户外与社交场景是潜在威胁、会促发失控与不适的环境/他人",
+          "linking_affect": "焦虑、无力感、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其考虑更平衡的视角或尝试短时户外活动（如散步）时",
+          "interpretation": "认为这些建议不切实际，预期过敏必然发作并毁掉体验（将负性预期当作确定事实）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以犹疑和保留的语气反复强调“但是”“我不认为会有不同”，突出负面预期，避免明确承诺具体行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到被过敏“控制”，对户外与社交活动的选择受限",
+            "将春季视为不可避免的困境，难以体验到自主与可能性"
+          ],
+          "outcomes": [
+            "回避行为增加",
+            "生活乐趣下降",
+            "焦虑加重"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担忧过敏而回避社交聚会与与亲友的户外相处"
+          ],
+          "outcomes": [
+            "人际互动减少",
+            "被孤立感增加",
+            "情绪低落与焦虑维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对户外活动过度谨慎，反复自我限制（“我不认为会有不同”）",
+            "在咨询中频繁表达怀疑与负面预测，难以允许新的体验进入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "偶尔在过敏存在的情况下仍能享受户外活动的经验（虽被其称为“例外”）",
+          "愿意尝试短时、低风险的户外散步以观察结果",
+          "具备一定的自我照护意识（尝试过非处方抗过敏药物）",
+          "拥有一定的社会支持资源（亲友可交流一般问题）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式强化焦虑",
+          "否定积极经验、只关注负面证据（负性过滤）",
+          "为避免不适而持续回避户外与社交，维持问题循环",
+          "对改变持强烈怀疑态度，难以接纳替代性结果",
+          "与支持系统未就过敏焦虑进行沟通，资源利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因春季过敏相关担忧而回避户外与社交活动，并出现几乎每日的焦虑与担心",
+          "antecedent": [
+            "春季临近或想到将到来的春天",
+            "计划或被邀请参加户外活动（徒步、聚会）",
+            "回忆过去严重过敏的经历",
+            "出现轻微过敏迹象或担心花粉暴露"
+          ],
+          "core_reason": "基于过往严重过敏的体验形成灾难化与全或无的认知：一旦过敏可能出现，整段体验必然被毁；并对未来做负性预测、过滤掉正面证据。",
+          "function": "逃避潜在的不适与失控，短期降低焦虑与尴尬风险，维持主观安全感与可控感",
+          "consequence": "生活乐趣显著下降、身体活动减少、人际关系受影响，焦虑与负性信念被持续强化，季节性痛苦循环加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 490
+}

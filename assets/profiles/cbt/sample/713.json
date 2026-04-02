@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈博然",
+      "gender": "男",
+      "occupation": "创业者，正在启动新的果汁吧",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与朋友关系受影响（避免海滩的社交聚会）；有朋友可倾诉，但他们并不完全理解其与拥挤环境相关的焦虑",
+      "medical_history": "无显著躯体疾病；无既往心理问题或治疗经历",
+      "language_features": "态度消极；能清晰描述焦虑与挫败感及具体情境"
+    },
+    "main_problem": "我因海滩拥挤感到不堪重负，无法享受海滩，导致挫败和焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "这些焦虑影响了我享受我所热爱的活动，比如在海滩冲浪和阅读。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有在安静、空旷的环境中我才可能放松并享受自己",
+        "拥挤和噪音会彻底破坏我的体验，我无法应对"
+      ],
+      "special_situations": [
+        {
+          "event": "夏季周末海滩人群明显增多、噪音上升",
+          "conditional_assumptions": "如果环境拥挤、嘈杂，我就无法放松和享受；放松需要完全安静的空间",
+          "compensatory_strategies": "避开高峰时段，尝试深呼吸和正念练习",
+          "automatic_thoughts": "海滩永远太拥挤了，我再也享受不了了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "朋友在海滩组织社交聚会（人多、空间拥挤）",
+          "conditional_assumptions": "如果我在拥挤场合出现会让自己更焦虑，也会扫兴，所以最好回避",
+          "compensatory_strategies": "回避海滩的社交聚会，减少在拥挤场合停留",
+          "automatic_thoughts": "我去了也无法享受，只会更难受",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "创业压力增加后，去海滩寻求放松却看到人群密集",
+          "conditional_assumptions": "如果我失去唯一的宁静避风港，我的压力就无法缓解",
+          "compensatory_strategies": "执着于寻找海滩的空闲时段，把放松需求集中在海滩这一选项",
+          "automatic_thoughts": "我已经没有任何地方可以解压了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "连续几周观察到海滩更拥挤（尤其周末）",
+          "conditional_assumptions": "如果这几周都很拥挤，未来也会一直拥挤下去",
+          "compensatory_strategies": "减少去海滩频率，尝试避开人群但逐渐放弃海滩",
+          "automatic_thoughts": "以后都会太拥挤，不可能再享受",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有稳定的宁静空间，自主地放松并恢复自我",
+        "fear": "害怕被人群与噪音吞没、无法呼吸，失去掌控与自我",
+        "defense_goal": [
+          "通过回避拥挤场合与寻求替代地点来保持安全感与掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不堪重负、需要宁静庇护的寻安者",
+          "object_representation": "侵入性的、不理解自己需求的人群与环境",
+          "linking_affect": "焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议探索替代放松地点或重新框架对海滩的看法时",
+          "interpretation": "认为自己失去了唯一的避风港，替代方案未必有效（对外界建议保持怀疑）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用客观理由解释不去海滩的原因，强调海滩太热门、人太多，语气平稳但坚持自己的看法，尽量减少情绪性的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到个人空间被侵占、无法自主放松与享受",
+            "海滩不再是可自由选择的宁静场域",
+            "体验到“无处可去”的受限感与呼吸困难"
+          ],
+          "outcomes": [
+            "焦虑与挫败感增强",
+            "回避海滩社交与高峰时段",
+            "日常放松受扰，难以恢复身心"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原本欲对外发出的能量转向自身。",
+          "manifestations": [
+            "避免高峰时段、减少在拥挤海滩停留",
+            "回避海滩的社交聚会，将不满与紧张能量转为自我压抑与回避行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动尝试应对（避开高峰、深呼吸、正念练习）",
+          "愿意探索替代活动（徒步与更安静的自然步道）",
+          "有朋友可倾诉（尽管理解有限）",
+          "能够清晰觉察并表达自己的感受与需求"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知模式",
+          "对未来进行负面预测（认为海滩将一直拥挤）",
+          "对海滩作为唯一避风港的依赖与“错失恐惧”",
+          "创业压力升高，导致整体焦虑水平增加",
+          "在拥挤场合出现呼吸困难与强烈不适，促成回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在拥挤的海滩环境中出现显著的焦虑与回避行为（包括避免社交聚会）",
+          "antecedent": [
+            "海滩拥挤，尤其在周末",
+            "噪音增多、个人空间被侵占的感觉",
+            "朋友组织海滩社交活动"
+          ],
+          "core_reason": "对拥挤与噪音的灾难化认知与对失去宁静避风港的担忧（错失恐惧），并且创业压力使其更依赖海滩作为主要解压渠道",
+          "function": "逃避不受欢迎的刺激（拥挤与噪音），维持安全感与控制感",
+          "consequence": "无法享受冲浪和在海滩阅读，社交关系受影响，日常放松中断，创业挑战加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 713
+}

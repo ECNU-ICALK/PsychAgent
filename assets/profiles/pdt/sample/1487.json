@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "朱莉",
+      "gender": "女",
+      "occupation": "小学教师（即将入职）",
+      "educational_background": "教育学学士学位",
+      "marital_status": "单身",
+      "family_status": "独居；为新工作搬到靠近单位的新公寓",
+      "social_status": "与朋友和家人关系良好，但尚未向他们分享关于工作的焦虑与自我怀疑",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无重大躯体疾病；近期因焦虑出现入睡困难",
+      "language_features": "表达清晰、逻辑性较好，能具体举例；显著的自我批评与负性自动思维；对咨询持谨慎与怀疑态度但愿意尝试；配合度中等；语速与语调未提及"
+    },
+    "main_problem": "我对作为小学教师的新工作感到紧张，并不断担心自己会成为一个糟糕的老师；这些自我怀疑与不足感在接受工作并搬家后出现，随着开工日期临近而加重，导致每日焦虑与自我批评，并影响睡眠。",
+    "topic": "职业发展",
+    "core_demands": "因为这些负面想法正在影响我的自信并引发对新工作的显著焦虑，我寻求咨询以识别并挑战灾难化与负性预测，重建更平衡的认知与自信。",
+    "growth_experiences": [
+      "曾担任代课老师并获得正面反馈（耐心与创意的教学活动得到肯定），这为其教学能力提供了积极证据，但目前倾向将其视为“可能是侥幸”。",
+      "过去一直对自己的能力较为自信，未出现类似的焦虑与自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我会成为一个糟糕的老师"
+      ],
+      "special_situations": [
+        {
+          "event": "临近入职日期、想到即将承担的小学教学职责",
+          "conditional_assumptions": "如果我不能在一开始就表现出色并完全胜任，就说明我不够好/是个糟糕的老师",
+          "compensatory_strategies": "尝试积极自我对话与放松技术以缓解焦虑",
+          "automatic_thoughts": "我会搞砸一切，我会成为一个糟糕的老师",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在准备教案时被负性思维打断",
+          "conditional_assumptions": "如果学生有不理解的情况，就说明我不适合当老师",
+          "compensatory_strategies": "尝试放松与自我安慰，但仍难以专注于规划",
+          "automatic_thoughts": "如果孩子们都听不懂，那就是我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想过去代课得到的正面反馈时仍认为这次会失败",
+          "conditional_assumptions": "如果正面证据不能保证这次必然成功，就不算数",
+          "compensatory_strategies": "将积极反馈归为“侥幸”，以维持对风险的高度警觉",
+          "automatic_thoughts": "那些好评可能只是偶然，这次会不一样",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "独居于新公寓、面对新环境与新岗位压力时",
+          "conditional_assumptions": "如果我不能快速适应新环境和岗位，说明我不够好并会失败",
+          "compensatory_strategies": "回避与亲友谈论焦虑，选择独自承受",
+          "automatic_thoughts": "我可能应付不来这些责任，结果会很糟",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职的老师，保持自信与稳定感",
+        "fear": "害怕失败被证实无能，担心让学生学不到东西并遭到否定",
+        "defense_goal": [
+          "通过自我批评与提前担忧来预防失败与羞耻",
+          "避免向亲友透露焦虑以减少被评价",
+          "借助理性梳理与自我对话以维持可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能失败、需要证明自己的新手老师",
+          "object_representation": "学生可能因为我的不足而学不到东西",
+          "linking_affect": "焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其回顾并整合过去的正面反馈与能力证据时",
+          "interpretation": "将正面证据视为不可靠或侥幸，预测这次会失败（“这次不同”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "坚持“这次不同”的解释，语气谨慎、带怀疑色彩，使用条件句与反问来抵消正面证据。"
+        },
+        {
+          "trigger_condition": "当讨论是否向亲友表达焦虑、寻求支持时",
+          "interpretation": "认为表达担忧会被评判为无能或麻烦他人，因此不愿开口",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "轻描淡写自身需求，转移话题到工作任务；语气收敛、减少情感外露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "新工作带来的角色选择与责任压力使其强化自我监控与负性预测",
+            "担心无法胜任、害怕失败与被否定"
+          ],
+          "outcomes": [
+            "显著焦虑",
+            "自我批评加重",
+            "失眠与入睡困难"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居于新公寓",
+            "虽有社交支持资源但未向亲友分享工作焦虑与自我怀疑"
+          ],
+          "outcomes": [
+            "支持利用不足",
+            "焦虑维持与放大",
+            "睡眠问题加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界发出的冲动，将能量转而对自己；与“冲动”对应。",
+          "manifestations": [
+            "不向亲友表达工作焦虑与自我怀疑，选择独自承受",
+            "将压力与担忧向内转化为自我批评"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体避免直接接触某个刺激，有意回避与其相关的体验；与“接受”对应。",
+          "manifestations": [
+            "在会谈中以“也许只是侥幸/这次会不同”来回避正面证据的直接影响",
+            "以怀疑与模糊化语言避开对积极反馈的接纳"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有朋友与家人可作为支持的社会资源",
+          "过往代课教学得到正面反馈（耐心与创意）",
+          "愿意尝试挑战负性思维并参与现实检验",
+          "具备自助意识（已尝试积极自我对话与放松技巧）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括等认知偏差显著",
+          "否定正面证据与持续自我批评",
+          "不与社交支持沟通，倾向独自承受",
+          "焦虑导致睡眠受损，功能下降",
+          "对新环境与新职责的不确定性高度敏感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化的自我否定性思维（如“我会成为一个糟糕的老师”）",
+          "antecedent": [
+            "想到即将开始的新工作职责",
+            "开工日期临近",
+            "准备教案时"
+          ],
+          "core_reason": "新环境与岗位的不确定性激发对能力的怀疑；伴随灾难化、预测未来与过度概括等认知偏差",
+          "function": "逃避不确定性、通过提前担忧获得短暂的控制感与心理预防",
+          "consequence": "焦虑加剧、自信下降、影响备课专注与效率，并进一步扰乱睡眠"
+        },
+        {
+          "behavior": "入睡困难（难以入睡、夜间焦虑反复）",
+          "antecedent": [
+            "夜间回想工作职责与可能失败的情境",
+            "睡前的自我批评与负性自动思维活跃"
+          ],
+          "core_reason": "高水平焦虑与负性自动思维的持续激活，难以放松与情绪降温",
+          "function": "以反复思考和担忧试图预先避免失败（负性强化的控制感）",
+          "consequence": "睡眠质量下降，白天精力与功能受影响"
+        },
+        {
+          "behavior": "回避向亲友表达工作焦虑与寻求支持",
+          "antecedent": [
+            "感到不安或自我怀疑时想到与他人交流",
+            "考虑求助被评价的风险"
+          ],
+          "core_reason": "害怕被评判为无能或麻烦他人，因而压抑求助冲动",
+          "function": "逃避可能的负面评价与羞耻感，维持表面自我掌控",
+          "consequence": "社会支持未被利用，孤独与焦虑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1487
+}

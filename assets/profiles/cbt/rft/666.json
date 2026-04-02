@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "陈瑞秋",
+      "gender": "女",
+      "occupation": "优惠券使用者",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与姐姐同住，近期关系因其未回复礼物致谢而出现紧张",
+      "social_status": "未提及",
+      "medical_history": "否认既往类似心理问题；未接受过心理治疗；无显著身体疾病",
+      "language_features": "表达清晰、条理性较好，能自我反思并识别思维模式；情绪偏焦虑但配合度高，语气与语速平稳，偶有怀疑态度"
+    },
+    "main_problem": "因姐姐尚未对生日礼物表达感谢而感到焦虑与心烦，担心她不喜欢礼物并认为自己“很抠门/很廉价”。该问题持续占据思绪，影响情绪与日常功能。",
+    "topic": "家庭关系",
+    "core_demands": "由于对姐姐未回复的焦虑与担忧不断侵占自己的思绪并影响日常活动，希望通过咨询缓解焦虑、检验和修正灾难化与跳结论等思维。",
+    "growth_experiences": [
+      "青少年时期在足球场上常出现自我怀疑与比较同伴的经历：如在练习中一次失误后即自我否定（“我很糟糕”），负面体验反复出现并在成年后偶尔加重，影响竞技表现与情绪。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于他人的认可",
+        "我不够好/别人会觉得我很廉价"
+      ],
+      "special_situations": [
+        {
+          "event": "寄出姐姐的生日礼物后未收到感谢",
+          "conditional_assumptions": "如果对方没有及时表达感谢，就说明他们否定我、认为我很廉价",
+          "compensatory_strategies": "不停关注对方是否回复，在心里为对方找理由（如她可能很忙）以缓解焦虑",
+          "automatic_thoughts": "她一定讨厌这份礼物，并且觉得我很抠门",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在向他人表达善意或付出后，没有收到即时的回应或认可",
+          "conditional_assumptions": "我的自我价值需要被即时肯定，否则就说明我不被重视",
+          "compensatory_strategies": "通过加倍付出、发送礼物或频繁查看消息来寻求外部认可",
+          "automatic_thoughts": "他们不重视我，我做得很差",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "足球训练中出现一次明显失误",
+          "conditional_assumptions": "一次错误就等于失败；只有完美发挥才算合格",
+          "compensatory_strategies": "自我苛责与比较同伴，尝试强迫自己专注于优点但效果有限",
+          "automatic_thoughts": "我真是个糟糕的球员",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在球队中与队友的表现进行比较时发现他人发挥更好",
+          "conditional_assumptions": "如果我没有比别人更好，就不值得被认可",
+          "compensatory_strategies": "反复与他人比较、忽视自身优点与成就",
+          "automatic_thoughts": "我不如他们，我永远赶不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人与重要他人及时认可与接纳（被看见、被肯定）",
+        "fear": "害怕被忽视、被否定或被视为不重要，从而失去关系亲密感",
+        "defense_goal": [
+          "通过为他人付出并寻求即时反馈来维持安全的关系与自我价值感",
+          "在未获回应时以合理化与自我安抚来降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑的取悦者/需要被认可的人",
+          "object_representation": "可能挑剔或轻视自己的他者（如姐姐）",
+          "linking_affect": "焦虑、羞耻、不安"
+        },
+        {
+          "self_representation": "自卑的队员、容易因失误自我否定的个体",
+          "object_representation": "更优秀且带有评判性的队友/他者",
+          "linking_affect": "沮丧、压力、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当向重要他人表达善意而未获及时回应或认可时",
+          "interpretation": "将对方的沉默理解为对自己的否定与轻视（认为他人不重视自己）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和、理性化的语言为对方找理由（如“她可能很忙”），语气平稳，降低情绪强度，避免直接表达受伤感。"
+        },
+        {
+          "trigger_condition": "在训练或比赛中发生一次失误，担心他人评价",
+          "interpretation": "将自身的不安投射到他人，推断他人会轻视或否定自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免直接承认脆弱，转而描述他人可能的想法与态度；用谨慎、间接的措辞，保持与情感的距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在未获得他人（尤其家人）即时回应时体验到强烈的被忽视与不被看见感",
+            "自我价值高度依赖他人反馈与认可"
+          ],
+          "outcomes": [
+            "焦虑与担忧加重",
+            "睡眠受影响、注意力下降",
+            "人际关系紧张（与姐姐）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对外做出的行为冲动，或放弃向外寻求他人为其做某事，转而对自己做，即将原欲对外发出的能量转向自身。",
+          "manifestations": [
+            "在现实生活中不向朋友表达焦虑与需求，选择把担忧压在自己身上",
+            "会谈中对记录积极事件持怀疑与自我限制态度，倾向自我否定而非向外寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在足球训练或比赛中，一旦出现失误，来访者通常会立即自我否定，情绪下滑并影响后续表现",
+          "unique_outcome": "上个月在比赛中完成一次制胜传球，获得队友的欢呼与肯定，当下体验到归属感与自信，与以往失误后持续低迷不同",
+          "reason": "不同支持与情境：当时团队氛围积极、获得队友正向反馈；做法不同：更专注于比赛当下并回忆以往成功经验，因此这一刻能维持表现与自信"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助并配合咨询",
+          "能回忆并承认自己的正面表现（如制胜传球）",
+          "具备一定现实检验意愿（会提醒自己对方可能忙）",
+          "存在基础社会支持（有朋友可谈日常）"
+        ],
+        "negative_force": [
+          "强烈的外部认可依赖倾向",
+          "灾难化、读心术与非黑即白思维频繁出现",
+          "过度比较导致自我价值波动",
+          "焦虑影响睡眠与专注，工作表现下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在未获即时回应时出现显著焦虑与反复猜测他人看法（伴随反复查看消息与走神）",
+          "antecedent": [
+            "向他人（尤其姐姐）表达善意或付出后未收到及时感谢或回应",
+            "期待被认可的情境中出现沉默或延迟反馈"
+          ],
+          "core_reason": "将自我价值与他人的即时认可过度绑定，并存在灾难化与读心术等认知偏差",
+          "function": "通过寻求外部认同来短暂缓解不确定性与焦虑；或通过回避面对内在不安来降低情绪痛苦",
+          "consequence": "情绪困扰显著、睡眠与专注受损、工作表现下降、与姐姐关系紧张"
+        },
+        {
+          "behavior": "在训练或比赛中因一次失误产生强烈自我否定，随之表现下降",
+          "antecedent": [
+            "足球练习或比赛中出现一次明显失误",
+            "与队友的表现进行比较"
+          ],
+          "core_reason": "非黑即白与过度概括的认知倾向，将一次错误等同于整体失败；自我评价高度受他人表现影响",
+          "function": "试图通过自我苛责来激励改进或避免再次犯错（实际加重焦虑与抑制表现）",
+          "consequence": "竞技状态波动、负面情绪外溢到生活领域，进一步削弱自信与团队互动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 666
+}

@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "张凯",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "本科在读",
+      "marital_status": "单身",
+      "family_status": "独居，远离家人",
+      "social_status": "有少数可交谈的朋友，但不愿就财务与学业困境进行分享，部分关系出现紧张",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗或存在其他心理问题；此前未经历相似问题",
+      "language_features": "未提及"
+    },
+    "main_problem": "因财务状况与学业表现而感到不堪重负和压力；过去一学期在意识到部分课程不及格、债务不断累积后，焦虑显著加重，几乎每天在收到成绩或债务通知时出现强烈焦虑；尝试忽视问题但只会增加焦虑与压力。",
+    "topic": "学业压力",
+    "core_demands": "因感到不堪重负、无法独自应对学业与财务困境而寻求咨询，希望获得支持以缓解压力并提升应对能力。",
+    "growth_experiences": [
+      "在过去一学期，来访者意识到部分课程不及格，同时债务不断累积，感觉一切失控。每当收到成绩或债务通知，焦虑飙升，开始认为“没有出路”，每日担忧未来与债务管理、学业负担，引发学业受影响、人际关系紧张与日常节律被打乱。来访者尝试通过忽视问题来应对，但焦虑与压力反而加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有能力应对学业与财务问题",
+        "我的未来会被失败和债务毁掉"
+      ],
+      "special_situations": [
+        {
+          "event": "收到成绩或债务通知",
+          "conditional_assumptions": "如果一次评估表现不好或出现债务，就说明我没有能力，未来会被毁掉",
+          "compensatory_strategies": "回避与忽视账单或成绩信息，以暂时降低焦虑",
+          "automatic_thoughts": "我会一直被债务困住，这学期完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "意识到部分课程不及格",
+          "conditional_assumptions": "如果我挂了一门课，就等于我会全部失败，说明我不行",
+          "compensatory_strategies": "专注最坏结果、陷入惊慌而不去利用可用资源（如加分、辅导）",
+          "automatic_thoughts": "我会把所有课都挂掉，之后一切都完了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "审视自身的收入与负债（年薪约10万美元，负债约2万美元）",
+          "conditional_assumptions": "只要存在负债，就意味着我失败并正在被债务毁掉",
+          "compensatory_strategies": "忽视积极面（稳定收入与还款能力），将注意力仅集中在负债上",
+          "automatic_thoughts": "我赚10万/年却有2万债务，这正在毁了我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在一次项目评估前（此前认为会失败）",
+          "conditional_assumptions": "如果我感觉自己没准备好，就必然会失败",
+          "compensatory_strategies": "在当下陷入恐慌，难以进行平衡思考",
+          "automatic_thoughts": "我肯定会挂这个项目",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望重新获得对学业与财务的掌控与稳定，减轻焦虑并得到支持",
+        "fear": "害怕失败、被债务长期困住、未来失控",
+        "defense_goal": [
+          "通过回避与忽视不利信息来暂时降低焦虑、维持心理稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被压力裹挟的孤立者与可能失败者",
+          "object_representation": "外界（教授、债务机构）被体验为严苛的评判者或持续的压力来源",
+          "linking_affect": "焦虑、无助感、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被提醒或询问学业成绩、债务状况（如收到教授反馈或债务通知）时",
+          "interpretation": "将这些外界信息理解为对自身能力的否定与“失败判决”，感觉一切已失控",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "倾向快速跳过细节，以笼统表述“没什么”，或说“我不想谈这个”，语气紧张但试图保持冷静；如被追问，转移到更一般的话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在财务负担与学业压力中感到选择与掌控受限",
+            "每日担忧未来与债务管理，体验“没有出路”"
+          ],
+          "outcomes": [
+            "持续焦虑与不堪重负",
+            "日常节律被打乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，远离家人",
+            "不愿与朋友讨论财务与学业困境",
+            "人际关系出现紧张"
+          ],
+          "outcomes": [
+            "支持感不足、压力加剧",
+            "焦虑增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触",
+          "manifestations": [
+            "尝试忽视问题（账单、成绩等），以避免直接面对焦虑源"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对课程项目或考试时，来访者通常会灾难化地认为必然失败，随之出现惊慌并难以专注",
+          "unique_outcome": "有一次在项目开始前确信自己会失败，但最终通过并拿到尚可的成绩",
+          "reason": "线索：尽管当下恐慌，仍完成项目任务；实际成绩反馈显示最坏结果并非唯一可能，由此形成可供自我纠偏的证据。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在部分作业与其他课程考试中表现尚可，说明具备一定学习能力",
+          "某次项目最终通过，为“担忧不等于现实”的反证资源",
+          "愿意主动寻求咨询支持，态度积极",
+          "拥有较高收入（年薪约10万），具备债务偿还潜力"
+        ],
+        "negative_force": [
+          "灾难化、心理过滤、否定正面等认知偏差显著",
+          "收到成绩或债务提醒时强烈焦虑，容易跳到最坏结果",
+          "倾向回避问题（尝试忽视账单与成绩），导致焦虑加重",
+          "不愿与朋友讨论困境，社交支持使用不足",
+          "学业压力与财务负担同时存在，形成双重压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到成绩或债务相关信息时出现强烈焦虑与恐慌，并回避查看或处理相关事宜",
+          "antecedent": [
+            "收到成绩反馈或债务通知",
+            "想到学业进度与债务状况"
+          ],
+          "core_reason": "在成功压力与财务负担下形成的灾难化认知与过度负面关注（心理过滤），担心“没有出路”",
+          "function": "短期逃避不适与焦虑，试图通过回避信息获得暂时的心理缓解",
+          "consequence": "学业表现下降、人际关系紧张、日常生活被打乱，焦虑与压力持续加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 234
+}

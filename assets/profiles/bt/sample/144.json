@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "张迪",
+      "gender": "男",
+      "occupation": "殡仪师",
+      "educational_background": "殡葬科学学位",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与了解其飞行兴趣的朋友与同事保持距离；有一位亲密朋友可谈心，但尚未讨论此次问题",
+      "medical_history": "未经历类似心理问题；无既往心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，思路连贯，配合度较高；语速未提及"
+    },
+    "main_problem": "因首次飞行笔试失败，产生与“学习飞行”相关的消极想法和失败感，导致怀疑自己的能力并失去继续尝试的动力。",
+    "topic": "个人成长",
+    "core_demands": "这些负面想法和感受阻碍了我学习飞行的热情，我想克服这一心理障碍。",
+    "growth_experiences": [
+      "在攻读殡葬科学学位期间，曾遇到难度较高的课程与考试，起初一度吃力，但通过坚持学习与努力最终通过考试并顺利毕业，说明其具备在困难情境中逐步掌握新知识与通过考试的能力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不够好，学不会飞行",
+        "我是失败者/我做不到"
+      ],
+      "special_situations": [
+        {
+          "event": "首次飞行课程的笔试失败（发生在一个月前）",
+          "conditional_assumptions": "如果第一次考试就失败，说明我不适合飞行、永远学不会",
+          "compensatory_strategies": "回避重考与继续上课，以避免再次失败与羞耻",
+          "automatic_thoughts": "我永远也学不会飞行；我不够聪明",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每当想到要继续追求飞行课程或看到与飞机相关的事物",
+          "conditional_assumptions": "如果继续尝试，只会再次失败并被证明不行",
+          "compensatory_strategies": "减少接触相关刺激、拖延或停止行动以降低焦虑",
+          "automatic_thoughts": "我又会失败，这只是浪费时间",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与知道其飞行兴趣的朋友或同事互动，被问及进展",
+          "conditional_assumptions": "如果他们知道我失败了，他们会看不起我/觉得我不行",
+          "compensatory_strategies": "社交退缩与回避讨论相关话题",
+          "automatic_thoughts": "他们肯定在看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "看到其他人成功学习飞行或相关宣传与案例",
+          "conditional_assumptions": "如果别人能做到而我不能，就说明我就是失败者",
+          "compensatory_strategies": "用自我贴标签否定自己，从而停止尝试",
+          "automatic_thoughts": "别人都能学会，我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望掌握飞行技能并获得自我肯定与他人认可",
+        "fear": "害怕再次失败、被羞辱或被他人看不起，进而证实“自己不行”的担忧",
+        "defense_goal": [
+          "通过回避考试与相关话题来维持安全与自尊，减少羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "能力不足、容易失败的自我",
+          "object_representation": "带有评判与否定的他人（会看不起自己）",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友或同事提起其飞行兴趣、询问考试或进展时",
+          "interpretation": "认为对方会像评判者一样看不起自己（移情：把自我否定投射到他人意图）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避话题、简短回答，减少眼神接触，尽量结束对话并疏远社交。"
+        },
+        {
+          "trigger_condition": "当需要决定是否重考飞行笔试或继续飞行课程时",
+          "interpretation": "将“我会再次失败”的信念当作合理理由，视继续尝试为不智之举",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚定的语气强调“现在不是时候/我不适合”，用多个理由为暂停行为正当化。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因失败与羞耻感而主动与知道其飞行兴趣的朋友和同事保持距离",
+            "未向亲密朋友表达困扰，选择独自承受"
+          ],
+          "outcomes": [
+            "社交退缩加剧负面情绪循环",
+            "支持系统利用不足，内在孤独感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为别人会看不起自己或嘲笑失败",
+            "在被问及进展时预设对方负面评价而回避沟通"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以“我不够聪明/不适合”为由自我否定",
+            "过度谨慎以致不去重考或尝试，压缩自我选择空间"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对飞行笔试失败后，来访者通常会回避重考并进行自我否定，进而丧失继续学习飞行的动力。",
+          "unique_outcome": "在攻读殡葬科学学位期间，来访者曾遇到难度较高的考试，起初表现不佳，但随后坚持学习并最终通过考试，体现出面对挫折仍可实现突破的能力。",
+          "reason": "不同做法：持续投入与练习；不同理解：将困难视为学习过程的一部分；情境支持：过往学业训练形成的知识与考试经验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备在困难情境中坚持与最终通过考试的经验与能力（学位期间的考试经历）",
+          "愿意求助与改变（主动寻求咨询，态度开放）",
+          "存在一位可谈心的亲密朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维显著，容易以一次失败全盘否定未来",
+          "过度概括、读心术与预测未来导致回避行动",
+          "社交退缩与羞耻感削弱外部支持，降低持续尝试的动力",
+          "自我效能感下降，频繁自我贴标签"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避重考飞行笔试与继续飞行课程",
+          "antecedent": [
+            "想到继续追求飞行课程",
+            "看到与飞机相关的事物",
+            "需要安排重考或报名课程的情境"
+          ],
+          "core_reason": "对失败的灾难化与非黑即白认知，担心再次失败并被羞辱，自我效能感降低",
+          "function": "逃避潜在失败与羞耻，暂时缓解焦虑并维持自尊",
+          "consequence": "学习飞行的目标停滞不前，负面情绪持续并强化自我否定"
+        },
+        {
+          "behavior": "社交退缩与回避与朋友/同事讨论飞行进展",
+          "antecedent": [
+            "朋友或同事提及其飞行兴趣或询问考试情况",
+            "社交场景出现与飞行相关话题"
+          ],
+          "core_reason": "读心术与个人化倾向，担心他人看不起自己，羞耻感驱动的防御",
+          "function": "避免被他人评判，减少羞耻与焦虑的即时体验",
+          "consequence": "支持系统利用不足、孤独感增强，负面信念得到维持并反复强化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 144
+}

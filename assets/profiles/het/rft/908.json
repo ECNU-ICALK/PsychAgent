@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "李晨",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "未披露",
+      "social_status": "与朋友和家人的关系有些紧张",
+      "medical_history": "无重大躯体疾病；既往无类似问题与心理治疗经历",
+      "language_features": "语气平和、表达清晰，能配合探索；对系统化记录持开放态度；整体态度中性"
+    },
+    "main_problem": "对当前生活方式感到无聊与不满足，反复出现“无论做什么都将一直无聊”的想法；数月前开始，随着时间推移压力增加；每天花数小时在电脑上寻求分心（观看国外电影和电视剧）但难以缓解；尝试更换日常与开展新活动仍感到不满足，影响睡眠、动力、工作与人际关系。",
+    "topic": "自我探索",
+    "core_demands": "希望处理无聊与不满足感，改善心理健康与整体幸福感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "无论我做什么，我都会一直无聊、无法获得满足",
+        "问题在我身上，我不适合感到快乐"
+      ],
+      "special_situations": [
+        {
+          "event": "长时间在电脑上观看国外电影和电视剧后仍然感到空虚与无聊",
+          "conditional_assumptions": "如果连新奇内容都无法让我产生兴趣，我就永远找不到满足感",
+          "compensatory_strategies": "增加分心刺激（继续刷电脑、切换内容）以对抗无聊",
+          "automatic_thoughts": "看再多也没用，我会一直无聊。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "尝试新活动（读新书、散步、摄影）后热情很快消退",
+          "conditional_assumptions": "如果一个活动不能持续带来兴奋，那它就毫无意义，也证明我不适合它",
+          "compensatory_strategies": "在兴趣下降时迅速放弃并转向其他分心方式",
+          "automatic_thoughts": "我果然坚持不了，任何活动最终都毫无意义。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到开始学习乐器或加入体育俱乐部时",
+          "conditional_assumptions": "既然之前尝试都没带来改变，这次也不会例外",
+          "compensatory_strategies": "在行动前退缩或拖延以避免失望",
+          "automatic_thoughts": "这也不会有任何改变，别白费力气。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "反思为何这些活动没有带来满足时",
+          "conditional_assumptions": "感觉不到满足就说明是我有问题",
+          "compensatory_strategies": "自我归因、自责，降低期待，减少与他人沟通",
+          "automatic_thoughts": "可能就是我有问题，注定找不到快乐。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望找到持久的兴趣与满足，体验活力与生活意义",
+        "fear": "害怕无论怎么做都不会改变、再次失望与徒劳感",
+        "defense_goal": [
+          "通过降低期待与分心来避免失望的痛苦",
+          "维持现状、减少尝试以避免失败感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "一个总是感到空虚、难以获得快乐的人",
+          "object_representation": "难以真正理解自己的亲友（期望他“正常快乐”的旁观者）",
+          "linking_affect": "疏离、沮丧、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论或计划尝试新活动（如学习乐器）时",
+          "interpretation": "将新的尝试视为“又一次注定的失败”，并认为他人也期待自己迅速改变",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性、非对抗语气，先共情其对失望的担心；再邀请其区分事实与预测，具体化可检验的小步骤与证据。"
+        },
+        {
+          "trigger_condition": "当咨询师提出用行为实验与数据记录的建议时",
+          "interpretation": "通过强调“分析与理性”来拉开与情绪的距离，避免再次失望带来的痛苦",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持温和稳定的语气，邀请其在描述数据的同时标注情绪强度与身体感受；使用开放式提问，鼓励在安全范围内接触情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "持续的无聊与不满足感",
+            "多次尝试新活动但新鲜感很快消退",
+            "花数小时上网寻求探索与分心却难以满足",
+            "睡眠受影响、动力下降",
+            "与亲友关系紧张"
+          ],
+          "outcomes": [
+            "生活缺乏方向感与意义感",
+            "情绪低落与倦怠",
+            "行动动力不足与回避",
+            "人际联结感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自责（“都是我有问题”）",
+            "在开始前反复担心是否“有用”，从而犹豫或缩手缩脚"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，将本可向外寻求支持或表达的冲动压回自身。",
+          "manifestations": [
+            "不与朋友讨论真实感受，把精力转向自我消耗（长时间上网分心）",
+            "在失望时把失落压在心里而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有几位可以倾诉的朋友（尽管尚未开口）",
+          "愿意寻求专业帮助并接受行为实验方案",
+          "曾主动尝试多种新活动（读书、散步、摄影）",
+          "对系统化记录与分析持开放态度"
+        ],
+        "negative_force": [
+          "灾难化与预测未来：相信“我会一直无聊”",
+          "过度概括：从几次兴趣消退推断“一切都无意义”",
+          "自我归咎与负性标签（“是我有问题”）",
+          "以长时间上网分心缓解不适，形成恶性循环",
+          "在开始前退缩或拖延，减少正向尝试的机会"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "长时间上网分心（观看国外电影/剧）",
+          "antecedent": [
+            "感到无聊与空虚时",
+            "日常缺乏兴趣、需要“找点刺激”的时候"
+          ],
+          "core_reason": "为缓解无聊与空虚、寻求短暂的新奇与探索感（相信分心能带来满足）",
+          "function": "逃避不受欢迎的情绪体验（无聊、空虚），获得短暂的注意力转移与刺激",
+          "consequence": "短期分心但长期更不满足；睡眠受影响、动力下降，工作表现与人际关系受损"
+        },
+        {
+          "behavior": "在开始新活动前产生消极预期并回避/拖延",
+          "antecedent": [
+            "想到学习乐器或加入体育俱乐部时",
+            "回想以往“新鲜感很快消退”的经历"
+          ],
+          "core_reason": "对未来的负性预测与害怕再次失望（“不会有改变”）",
+          "function": "避免预期中的失败与失望带来的痛苦",
+          "consequence": "维持生活单调与无意义感，减少获得积极体验的机会，进一步削弱自我效能感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 908
+}

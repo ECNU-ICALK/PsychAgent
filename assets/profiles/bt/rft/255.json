@@ -1,0 +1,230 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "80",
+      "name": "陈贝丽",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "与家人同住；描述为“家人身材高大”",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗或咨询；此前未出现类似学业问题",
+      "language_features": "表达清晰、合作度高、能进行自我反思；常用“我是笨学生”等标签化自我评价；语气平和但自我评价偏负面"
+    },
+    "main_problem": "我一直在学校里难以取得好成绩，因此常常给自己贴上“笨学生”的标签。",
+    "topic": "学业压力",
+    "core_demands": "这些负面想法一直影响我的自尊和整体幸福感；我只是不想再一直对自己感觉很糟。",
+    "growth_experiences": [
+      "上一学期考试表现不佳后，开始在收到低分或学科学习受挫时将自己贴上“笨学生”的标签；这一经历逐渐强化了负面自我概念，导致自尊下降、学习动机减弱，并影响到对舞蹈等活动的兴趣。",
+      "长期承受来自家庭学业成就的压力：认为需要达到家人的学业水平以证明自己，因而在人际关系中感到紧张与羞愧，选择不向朋友谈及学业困境。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨学生/我很愚笨",
+        "我不适合学习（能力不足）"
+      ],
+      "special_situations": [
+        {
+          "event": "上一学期考试失利或收到低分",
+          "conditional_assumptions": "如果考试成绩差，就证明我很笨、并且不适合学习",
+          "compensatory_strategies": "加倍学习、向老师寻求帮助以证明自己并改善成绩",
+          "automatic_thoughts": "我太笨了，根本学不会这些内容",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在数学学习中遇到难题、卡住时",
+          "conditional_assumptions": "如果一次就不能掌握或立刻学会，就说明我没有能力",
+          "compensatory_strategies": "设定更严格的学习目标、反复练习、尝试更努力的学习",
+          "automatic_thoughts": "我不适合学数学/我注定学不好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到或面对家人较高的学业成就与期待",
+          "conditional_assumptions": "如果达不到家人的学业水平，就会让家人失望，说明我不够好",
+          "compensatory_strategies": "更努力学习以达到家人标准，同时回避与朋友讨论学业以避免被评价",
+          "automatic_thoughts": "我不如家人，我让他们失望了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与朋友互动时涉及学业话题，或想到要向朋友谈学业困难",
+          "conditional_assumptions": "如果暴露自己的学业困境，别人会看不起我、不会理解我",
+          "compensatory_strategies": "保持沉默、回避与朋友讨论学业问题",
+          "automatic_thoughts": "他们会觉得我很笨",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人与他人认可，作为“有能力的学生”被看见",
+        "fear": "害怕被评判为愚笨、被羞辱或被拒绝",
+        "defense_goal": [
+          "通过避免暴露失败和加倍用功来维持脆弱的自尊",
+          "先发制人的自我贬低以降低外界更严厉评价带来的伤害"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的学生",
+          "object_representation": "以成绩为唯一标准的高要求评判者（家人/重要他人）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "羞于启齿的失败者",
+          "object_representation": "不会理解、可能看不起自己的同伴",
+          "linking_affect": "尴尬、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问或想到自己的考试失败与低分时",
+          "interpretation": "他人（包括咨询师）可能会像家人一样以成绩来评判我，认为我很笨",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气谨慎，倾向于说“他们不会理解我”，避免深入细节，适度模糊化失败情境。"
+        },
+        {
+          "trigger_condition": "当注意到家人的高学业成就或内心响起“必须达到家人标准”的念头时",
+          "interpretation": "认为外界规则是绝对的，自己必须遵守并以成绩定义价值",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”的句式自我要求，强调达标而非情感需求。"
+        },
+        {
+          "trigger_condition": "当需要向朋友开口求助或谈及学业困境时",
+          "interpretation": "认为敞露困难会带来羞辱和被看不起",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以“我太尴尬，不想麻烦别人”的理由婉拒交流，用解释性语言淡化求助的必要性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到必须达到家人的学业标准",
+            "以成绩作为自我价值的条件",
+            "自我选择与自主性受限"
+          ],
+          "outcomes": [
+            "压力与焦虑增强",
+            "自尊下降",
+            "人际关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友却不愿讨论学业困境",
+            "担心不被理解而选择沉默"
+          ],
+          "outcomes": [
+            "人际疏离",
+            "支持系统未被利用",
+            "情绪低落"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对舞蹈等原本喜欢的活动失去动力与乐趣"
+          ],
+          "outcomes": [
+            "动机减退",
+            "生活满意度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将家人的学业标准当作自己的绝对要求",
+            "使用“我必须/应该达到家人的水平”",
+            "低分时把自我价值与成绩直接挂钩"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设朋友会看不起自己、不会理解学业困境",
+            "在社交中提前判定他人负面看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "明明需要他人支持却选择沉默与自我压抑",
+            "不与朋友谈学业，独自承受压力"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我标签为“笨学生”，过度苛责与自我否定",
+            "在交流时谨慎，避免暴露不足"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在学业考试或学习遇到困难时，来访者通常会将自己贴上“笨学生”的标签，情绪低落并减少投入学习。",
+          "unique_outcome": "去年在一次作文任务中取得了高分，与以往低分时的自我否定不同，那次体验带来了能力感与自豪。",
+          "reason": "线索：该任务类型更符合自身优势、当时更为投入并做了充分准备；积极反馈提供了能力证据，因此这次出现了能力感与自尊提升的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在能力证据（去年作文高分）",
+          "愿意寻求老师帮助并尝试新学习方法",
+          "愿意开放参与咨询、进行行为实验",
+          "拥有可沟通的朋友资源（虽暂未使用）"
+        ],
+        "negative_force": [
+          "标签化与过度概括的认知模式",
+          "与家人比较导致对外部认可的依赖",
+          "羞于求助与社交回避",
+          "学习受挫时的非黑即白思维使动机下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到低分或遇到学习困难时，自我标签为“笨学生”，伴随情绪低落与学习回避",
+          "antecedent": [
+            "考试或作业成绩偏低",
+            "在数学题目上卡住",
+            "想到家人的高学业成就与期待"
+          ],
+          "core_reason": "过度概括与非黑即白的能力观，并将家庭的学业标准内摄为自我价值判断",
+          "function": "暂时逃避失败与羞耻感，降低焦虑",
+          "consequence": "学习动机下降、成绩进一步受影响、人际关系紧张、对兴趣活动的参与减少"
+        },
+        {
+          "behavior": "回避与朋友讨论学业困境或寻求支持",
+          "antecedent": [
+            "与朋友互动时涉及学业话题",
+            "收到低分后产生羞愧感"
+          ],
+          "core_reason": "担心被看不起（读心术式预设），害怕暴露不足引发羞辱",
+          "function": "避免负面评价与人际不适",
+          "consequence": "社会支持未被利用，孤独感加重，自尊进一步下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 255
+}

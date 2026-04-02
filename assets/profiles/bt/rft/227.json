@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "64",
+      "name": "李志远",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；过去未出现类似问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰、配合度高、能识别并描述自身负性自动思维；语气平和、态度积极，能够进行自我反思"
+    },
+    "main_problem": "我常把自己贴上“糟糕的厨师”的标签，当厨房里的事情不按计划进行时，就会体验到不足感。这种思维模式在最近一次把一批布朗尼烤糊后开始出现。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到这些负性思维模式正在影响我的自尊和对烹饪的享受（过去烹饪曾是我的乐趣来源），因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的厨师",
+        "我不够胜任/不够好（在烹饪方面）"
+      ],
+      "special_situations": [
+        {
+          "event": "一次烘焙布朗尼时烤糊了",
+          "conditional_assumptions": "如果我把一道甜点做失败，就证明我是个糟糕的厨师",
+          "compensatory_strategies": "减少或回避烘焙，产生放弃烹饪的冲动",
+          "automatic_thoughts": "我很糟糕；我不适合做饭",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "菜品不如预期、成品不够完美时",
+          "conditional_assumptions": "如果结果不完美，就等于失败",
+          "compensatory_strategies": "严格照搬教程、反复查阅食谱与教程以避免任何差错",
+          "automatic_thoughts": "我永远做不好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "感受到社会对烹饪表现的期待与评价压力",
+          "conditional_assumptions": "如果达不到外界标准与期待，就说明我不行、我就是失败者",
+          "compensatory_strategies": "加倍练习（看教程、读食谱）、尝试与他人一起做或上课以寻求认可",
+          "automatic_thoughts": "如果没有他人的认可，我就不行",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "回顾烹饪经历时更关注失败、忽略成功（尽管曾做出大家喜欢的苹果派）",
+          "conditional_assumptions": "有过失败就不应把成功算数",
+          "compensatory_strategies": "反复回想失败经历、降低对正面反馈的权重",
+          "automatic_thoughts": "我经常搞砸，说明我真的不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在烹饪中被认可、被欣赏，并维持自我价值感",
+        "fear": "害怕失败或不完美导致被否定、失去自尊与价值感",
+        "defense_goal": [
+          "通过自我批评/贴标签来获得控制感并预先防止进一步受挫",
+          "通过回避或死板遵循规则以降低失败的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被否定的失败者（在烹饪领域）",
+          "object_representation": "带有高期望、评价苛刻的社会他者",
+          "linking_affect": "羞愧、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及社会对烹饪的期待、或在咨询中探问外界标准与评价时",
+          "interpretation": "倾向认为必须符合外界标准才有价值（将他人价值观无条件视为自我标准）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该/必须”等语句自我要求，语气自责，强调外界标准与他人眼光。"
+        },
+        {
+          "trigger_condition": "当菜品出现差错或成品不够完美时",
+          "interpretation": "将自我与结果划分为“要么完美要么糟糕”，难以整合好坏并存",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用极端词汇（如“永远”“总是”），以否定式语言作答，语气沮丧，忽略中间可能性。"
+        },
+        {
+          "trigger_condition": "当被咨询师邀请关注成功经验或正面证据时",
+          "interpretation": "倾向否认或轻描淡写积极证据，维持自我否定叙事",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "淡化成功经历的意义，快速转回失败细节，语气轻慢、回避讨论正面结果的影响。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "烘焙不再像过去那样带来乐趣",
+            "负性思维降低了烹饪的体验价值"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "动力下降",
+            "日常作息与兴趣出现干扰"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感到社会对烹饪的期待与评价带来压力",
+            "难以按自身节奏与方式尝试、体验烹饪"
+          ],
+          "outcomes": [
+            "焦虑增强",
+            "回避或僵化地按照外界标准行事"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”类自我要求来定义烹饪的好坏",
+            "将社会期待视为不可违背的评判标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注错误与差错，忽视成功经历",
+            "自责、认为“都是我不行”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在烘焙或烹饪出现失误时，李志远通常会贴上“糟糕的厨师”的标签，情绪低落并产生放弃的冲动",
+          "unique_outcome": "曾做出一份大家都喜欢的苹果派，得到正面反馈，与以往自我否定的叙事不同",
+          "reason": "线索：任务与配方更熟悉、专注度较好、心态更平和；因此当次体验到更正面的结果与他人认可"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾有成功经验（苹果派得到他人喜欢）",
+          "主动学习（观看教程、阅读食谱）",
+          "愿意与朋友一起烹饪并记录体验（对行为实验持开放态度）",
+          "拥有一位可交流的好友",
+          "整体态度积极、愿意改变"
+        ],
+        "negative_force": [
+          "非黑即白思维与过度标签化自我",
+          "否定积极证据、心理过滤",
+          "过度依赖外界认可（外部验证）",
+          "受到社会期待的压力而自我苛责",
+          "自我效能感降低，出现回避与放弃倾向"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "烹饪/烘焙失败后进行自我否定并产生回避烹饪的冲动（情绪：挫败、焦虑）",
+          "antecedent": [
+            "在烘焙或烹饪过程中出现差错（如布朗尼烤糊）",
+            "成品不如预期或不够完美",
+            "想到社会对烹饪的期待和评价"
+          ],
+          "core_reason": "将一次失败泛化为整体能力差，并内摄外界标准，导致自我价值与结果僵硬绑定",
+          "function": "逃避进一步失败与羞耻，短期保护自尊与控制感",
+          "consequence": "自信心下降、情绪低落，削弱对烘焙的享受并干扰日常生活节奏"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 227
+}

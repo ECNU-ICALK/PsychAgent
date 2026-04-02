@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "陈柯迪",
+      "gender": "男",
+      "occupation": "市场营销岗位、线上业务经营者",
+      "educational_background": "市场营销学位",
+      "marital_status": "单身",
+      "family_status": "未提及家庭成员情况",
+      "social_status": "有支持的朋友与家人，但尚未与他们讨论该具体感受",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；未有类似问题经历",
+      "language_features": "表达清晰、配合度高；思维倾向僵化，常用“必须/应该”式的规则；易自责与自我标签；语气谨慎，关注道德一致性。"
+    },
+    "main_problem": "在一次不小心吃到含肉食物后，我陷入内疚和焦虑，认为自己是个糟糕的纯素者。",
+    "topic": "情绪管理",
+    "core_demands": "内疚和焦虑影响到我的日常生活与专注于建设线上业务，希望缓解这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不够好的人",
+        "必须绝对完美才算合格"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次朋友聚餐后得知所吃菜中含有肉",
+          "conditional_assumptions": "如果作为纯素者出现一次失误，就证明我不合格/是坏的纯素者",
+          "compensatory_strategies": "加倍查阅纯素相关资料、不断提醒自己的价值观、对自己施加更严格的自我要求以避免再次犯错",
+          "automatic_thoughts": "我不应该犯这样的错；我是个糟糕的纯素者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "开始专注于工作或线上业务时，内疚感反复侵入",
+          "conditional_assumptions": "如果我无法做到绝对完美，就等于失败，无法专注工作",
+          "compensatory_strategies": "过度自我监控与反刍，试图用自责来驱动自己更谨慎",
+          "automatic_thoughts": "我又失败了，我不配放松或专注",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "与他人外出用餐或社交时，担心与纯素生活相关的失误",
+          "conditional_assumptions": "如果我在社交就餐场合犯错，会被认为不是真正的纯素者",
+          "compensatory_strategies": "减少在此议题上的交流、更加谨小慎微地选择食物与场合",
+          "automatic_thoughts": "我可能会再次犯错并在别人面前丢脸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "事后反复回想这次误食事件",
+          "conditional_assumptions": "一次失误可以全面定义我是谁",
+          "compensatory_strategies": "不断责备自己以企图弥补过失",
+          "automatic_thoughts": "这一次就足以说明我是个坏的纯素者",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望完全遵守纯素价值并被视为道德一致、无瑕疵的人",
+        "fear": "害怕因一次失误被否定为虚伪或不合格，失去自我价值与他人认可",
+        "defense_goal": [
+          "通过严格规则与自我批判来维持控制与纯净感",
+          "避免向他人谈及此感受以规避外界评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不合格、带有污点的纯素者",
+          "object_representation": "他人是潜在的评判者/挑错者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出将僵化的“必须/不能”规则转化为更灵活的“愿望/偏好”时",
+          "interpretation": "如果不对自己保持严格规则，就会继续犯错并失败（将灵活性理解为风险）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎而理性的语气强调“若不严格就会继续犯错”的理由，弱化情感表达，围绕规则与后果进行解释。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以绝对的“必须/不能”规则约束自身自由选择",
+            "将一次失误视为道德失败、要求自我无瑕疵的一致性",
+            "在社交与工作情境中因担心犯错而收缩选择与行动"
+          ],
+          "outcomes": [
+            "持续的内疚与焦虑",
+            "专注力下降、工作与线上业务受影响",
+            "人际互动受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“我必须永不吃肉”自我要求",
+            "把纯素群体的规范当成绝对标准",
+            "用“应该/必须”语言自我评判"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度自我苛责与反刍",
+            "在社交场合对与纯素相关的失误过度担心",
+            "未与支持性的亲友讨论具体感受，保持谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有清晰的价值观与道德动机（纯素价值）",
+          "具备自我反思与学习的倾向（主动查阅资料并提醒自己的价值观）",
+          "拥有支持性的朋友与家人"
+        ],
+        "negative_force": [
+          "非黑即白的认知倾向",
+          "僵化的“应该/必须”规则",
+          "自我标签化与过度自责",
+          "反复反刍内疚与焦虑，影响专注与日常功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的内疚与焦虑反刍，并以“我是糟糕的纯素者”进行自我标签",
+          "antecedent": [
+            "在聚餐误食肉类后",
+            "开始工作或尝试专注时",
+            "想到自己的纯素规则与价值观时",
+            "进入社交或就餐场合时"
+          ],
+          "core_reason": "将一次失误非黑即白地等同于整体的道德失败，并以僵化的“应该/必须”规则维持自我价值，导致对错误的灾难化与自我批判",
+          "function": "逃避不受欢迎的威胁（再次犯错与道德失败），通过自我苛责与监控试图获得控制感与维持纯净的自我形象",
+          "consequence": "专注力下降、线上业务与工作受影响；日常节律被打乱；人际互动受损；持续的焦虑与内疚"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 778
+}

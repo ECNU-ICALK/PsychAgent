@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "林可",
+      "gender": "女",
+      "occupation": "殡葬师",
+      "educational_background": "殡葬科学学位",
+      "marital_status": "单身",
+      "family_status": "独居，无直系亲属",
+      "social_status": "有少数可交谈的朋友，但未向他们敞开关于被评判与被贴“书呆子”标签的恐惧；工作表现未受影响，亲密人际关系受影响。",
+      "medical_history": "未接受过心理治疗或心理咨询；无显著躯体疾病；否认既往类似心理问题。",
+      "language_features": "表达清楚但整体态度消极，频繁使用“我不知道/我不确定/我猜”等犹豫性表述；能具体描述情境与感受；对咨询持保留态度但配合度尚可。"
+    },
+    "main_problem": "认为收藏邮票会让自己成为被嘲笑的目标，并被贴上“书呆子”的标签，甚至觉得这种标签会伴随一生。",
+    "topic": "人际关系",
+    "core_demands": "意识到对评判的恐惧和对负面反应的预期正在影响自己对爱好与社交的享受，因此寻求咨询以减轻焦虑、能够更自在地分享兴趣并改善社交互动。",
+    "growth_experiences": [
+      "青春期因收藏邮票的爱好而被他人取笑，形成对他人负面评价的持续性恐惧；该体验在此后多年持续影响其与人分享兴趣的意愿与能力（倾向避免社交或谈及爱好）。",
+      "受社会刻板印象影响（将收藏邮票与“书呆子”标签挂钩），逐渐内化为对自身的负面期待与标签化认知，使其在与他人互动时更易产生灾难化与读心术式的预期。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我因为自己的爱好不被别人接纳（会被嘲笑并被贴上“书呆子”的标签）"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作或社交活动中被问到兴趣爱好",
+          "conditional_assumptions": "如果我说自己收藏邮票，别人就会觉得我很怪、很书呆子，并因此嘲笑我",
+          "compensatory_strategies": "回避话题、改变话题、隐藏爱好以避免负面评价",
+          "automatic_thoughts": "他们会看不起我、嘲笑我，我会很难堪，自己承受不住",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友或熟人交流时考虑是否分享爱好",
+          "conditional_assumptions": "只要我说出口，就会被贴上“书呆子”的标签，而且会一直伴随我",
+          "compensatory_strategies": "不向朋友敞开、不谈兴趣以避免被贴标签",
+          "automatic_thoughts": "我会被一辈子当成书呆子",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想青春期被同学取笑的经历",
+          "conditional_assumptions": "过去被嘲笑意味着以后也会一直被嘲笑",
+          "compensatory_strategies": "避免社交或减少分享以降低再次被羞辱的可能",
+          "automatic_thoughts": "人们总会嘲笑我的爱好",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在社交场合预想别人听到自己的爱好后的反应",
+          "conditional_assumptions": "一旦有人反应负面，我就会很尴尬且无法应对后果",
+          "compensatory_strategies": "预先回避相关情境、避免参与讨论",
+          "automatic_thoughts": "如果有人嘲笑我，我会崩溃，情况会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、能够自由表达并分享自己的兴趣而不被评判",
+        "fear": "害怕被嘲笑、被贴上负面标签并被拒绝，伴随羞耻与尴尬",
+        "defense_goal": [
+          "通过隐藏与回避来保护自我、避免再次受到羞辱与拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被嘲笑与羞辱的“被评判者”",
+          "object_representation": "他人是潜在的评判者/嘲笑者",
+          "linking_affect": "焦虑、羞耻、孤独感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人询问其兴趣爱好或讨论可能遭到嘲笑的情境时",
+          "interpretation": "倾向把他人视为会嘲笑与贬低自己的“评判者”（将内在的恐惧投射到他人意图上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用高共情、正常化与开放式提问的语气；邀请其辨别证据与当下体验，区分过去与现在；避免直接反驳，保持温和中性，鼓励具体化与小步尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向他人分享重要兴趣，担心被贴负面标签而选择隐藏",
+            "在社交场合避免谈论爱好，改变话题以逃避可能的评判"
+          ],
+          "outcomes": [
+            "焦虑与压力增加",
+            "亲密关系受影响、难以建立更深的连接",
+            "防御性增强与自我价值受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "在社交或工作场合被问及兴趣时主动换话题",
+            "面对可能的评判时以玩笑或转移话题来回避直接回应"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心被贴“书呆子”标签而过度谨慎、自我约束不谈兴趣",
+            "频繁预期他人负面反应并自我否定"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将社会对“书呆子”的刻板印象视为对自己的必然评价",
+            "使用“我应该来咨询/我应该隐藏”式的自我要求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对爱好具有持续热情，愿意寻找支持性社群",
+          "有少数朋友可交流（潜在支持资源）",
+          "工作表现稳定，功能保持良好",
+          "已意识到问题对生活的影响并主动寻求帮助",
+          "愿意练习自信与自我主张的回应方式"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与读心术式思维显著",
+          "对外部评价高度敏感，倾向自我贴负面标签",
+          "回避与隐藏行为强化焦虑与孤立",
+          "长期的羞耻与尴尬预期，降低自我价值感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交或工作场合主动回避谈论与分享收藏邮票的爱好（改变话题/隐藏）",
+          "antecedent": [
+            "被他人询问兴趣爱好",
+            "想到可能分享爱好并预期负面反应"
+          ],
+          "core_reason": "青春期被嘲笑的经历与社会刻板印象内化，产生对评判与羞辱的恐惧与灾难化预期",
+          "function": "逃避不受欢迎的事物（他人负面评价、嘲笑、尴尬与羞耻）",
+          "consequence": "焦虑与压力持续升高，难以建立亲密关系，感到孤立与被误解，进一步强化回避循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 867
+}

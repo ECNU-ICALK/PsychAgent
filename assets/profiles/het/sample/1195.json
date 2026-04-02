@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "高睿",
+      "gender": "男",
+      "occupation": "小学教师（五年级）",
+      "educational_background": "教育学学士",
+      "marital_status": "",
+      "family_status": "未提及",
+      "social_status": "与同事关系因自我不足感而紧张；有几位亲密朋友，但谈及自我怀疑会感到不适而回避",
+      "medical_history": "无明显躯体疾病史；未接受过心理治疗；类似自我怀疑问题始于约一年前",
+      "language_features": "逻辑清晰，表达流畅，合作度高；能具体描述情绪与躯体反应（如“胃部打结、惊慌”）；能进行自我反思"
+    },
+    "main_problem": "尽管五年级学生很喜欢我，但仍觉得有其他老师比我更好，这导致自我怀疑和自卑感。",
+    "topic": "职业发展",
+    "core_demands": "这些自我怀疑的感受影响了我在课堂上的自信并造成日常生活压力，因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不如别人"
+      ],
+      "special_situations": [
+        {
+          "event": "教职工会议上同事因创新项目被公开表扬",
+          "conditional_assumptions": "如果我没有被认可或没有拿出很有创意的成果，就说明我不够有能力",
+          "compensatory_strategies": "加倍与他人比较、自我苛责并追求完美以弥补“不足”",
+          "automatic_thoughts": "我从没那么有创意，我不如她/他。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到工作反馈（尤其非全为正面时）",
+          "conditional_assumptions": "如果反馈不是完全正面，就证明我不够好",
+          "compensatory_strategies": "反复回想负面部分并忽视正面评价，降低对自身长处的权重",
+          "automatic_thoughts": "看吧，我还是不行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与被同事认可或表现出色的同事互动/观察他人表现",
+          "conditional_assumptions": "如果别人做得更好，就意味着我失败、我比他们差",
+          "compensatory_strategies": "减少与同事深入互动以避免比较，私下反刍比较结果",
+          "automatic_thoughts": "他们就是天生比我强，我不配被认可。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "自我评估课堂与教学表现时",
+          "conditional_assumptions": "只有做到最好/完美才算称职，否则就是失败",
+          "compensatory_strategies": "设定过高标准、过度自我批评以驱动自我改进",
+          "automatic_thoughts": "如果不是最好的，那就等于失败。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可，确认自己作为教师的价值与能力",
+        "fear": "害怕在比较中被否定、被贬低，体验羞耻与失败",
+        "defense_goal": [
+          "通过追求完美与自我苛责来避免被批评或否定",
+          "与同事保持一定距离以减少暴露短板的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要不断证明自己的老师",
+          "object_representation": "更优秀、会评判自己的同事/权威",
+          "linking_affect": "羞耻、焦虑、嫉妒"
+        },
+        {
+          "self_representation": "被学生喜欢但仍担心“配不上”认可的老师",
+          "object_representation": "掌握评价标准的学校/同侪群体",
+          "linking_affect": "不安、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其寻找反证、强调其成就与优势时",
+          "interpretation": "倾向以客观化、抽象化方式谈论事实，弱化情绪体验与自我价值的主观感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "语气平稳、侧重事实与逻辑，少用情绪词；以概括性表述回应，回避深入触及自卑/羞耻感受"
+        },
+        {
+          "trigger_condition": "当谈及同事获赞与对比场景时",
+          "interpretation": "将他人成功等同于对自我价值的否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以无奈且自贬的口吻强调“他们天赋/资源更好”，回避探索自身感受与多元评价标准"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值过度绑定于外部认可与比较结果",
+            "他人被表扬时体验到自身努力“显得不够好”",
+            "即使周末在湖边放松仍被自我怀疑的思绪侵扰"
+          ],
+          "outcomes": [
+            "持续的自我怀疑与压力",
+            "课堂自信下降与工作表现受影响",
+            "与同事关系紧张、情绪焦虑与羞耻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁以“我不够好”自我评判，降低对正向反馈的权重",
+            "在与同事互动与自我评估时过度谨慎，害怕显露短板"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，将本可外向表达/求助的力量变成自我克制与自责。",
+          "manifestations": [
+            "不愿与朋友谈自我怀疑，将压力内化为自我苛责",
+            "周末独自消化焦虑与紧张而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "学生与家长对其课堂的积极反馈与喜爱",
+          "具备自我反思能力并愿意主动求助（寻求咨询）",
+          "拥有几位可联络的亲密朋友作为潜在支持"
+        ],
+        "negative_force": [
+          "完美主义与过度社会比较的思维习惯",
+          "倾向忽视正面证据、放大负面线索",
+          "对外部认可的高度依赖导致自信脆弱",
+          "与同事关系因自卑而紧张，进而减少支持与资源"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复社会比较引发的自我怀疑与焦虑",
+          "antecedent": [
+            "看到同事被表扬或展示成果",
+            "与同事互动交流工作进展",
+            "收到教学反馈（尤其非全为正面时）",
+            "自我评估课堂表现",
+            "周末独处试图放松时出现的侵入性比较思维"
+          ],
+          "core_reason": "完美主义倾向与将自我价值绑定于外部比较与认可",
+          "function": "逃避失败与羞耻感（通过回避同事互动与自我苛责来“自保”），并试图通过更高标准获得外部验证",
+          "consequence": "课堂自信下降、教学表现受影响；与同事关系紧张；周末休闲被持续性压力与反刍打断；出现胃部紧绷与惊慌等身心反应"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1195
+}

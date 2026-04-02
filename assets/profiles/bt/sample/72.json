@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "李柯",
+      "gender": "男",
+      "occupation": "金融从业者（对话中自述为教师）",
+      "educational_background": "常春藤盟校毕业",
+      "marital_status": "已婚（对话中提到与配偶交流）",
+      "family_status": "未提及",
+      "social_status": "有少数同事与朋友可交谈，但未与他们讨论自己的灾难化倾向；因对未就读名校者抱有评判态度而使部分人际关系紧张",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗/精神科治疗",
+      "language_features": "态度中性，表达清晰、合作度高；能具体描述触发点与自动化思维；倾向灾难化与非黑即白思维；语速与逻辑组织未提及"
+    },
+    "main_problem": "倾向将一次失败灾难化、视作整体失败，导致压力和焦虑显著升高；该认知模式在学业与工作中反复出现，并影响工作表现、人际关系与日常自我照料。",
+    "topic": "情绪管理",
+    "core_demands": "意识到灾难化与极端思维正在损害心理健康与工作表现，寻求咨询以挑战并调整这些认知模式。",
+    "growth_experiences": [
+      "这些灾难化与极端思维的倾向始于求学阶段的学业挑战；在学业中自我期望很高、一次考试失败即被视为整体失败，逐步形成以完美主义应对的习惯（追求所有任务的完美），此后延续至职业阶段并加重压力与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不完美就等于失败",
+        "必须达到顶尖标准才有价值",
+        "我的价值取决于他人的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "一次考试成绩不及格",
+          "conditional_assumptions": "如果一次考试失败，就意味着整个学期都毁了/我就是失败者",
+          "compensatory_strategies": "在所有任务中追求完美以弥补失败",
+          "automatic_thoughts": "这整个学期都完了。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "有两名学生在我的课堂不及格",
+          "conditional_assumptions": "如果学生不及格，说明我是个不称职的老师，全部责任在我",
+          "compensatory_strategies": "不断调整教学方法并提供额外支持课程，加倍努力以证明自己",
+          "automatic_thoughts": "都是我的错，我是个坏老师。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "课堂上有学生一时听不懂",
+          "conditional_assumptions": "如果学生当下听不懂，就证明我不适合当老师/我失败了",
+          "compensatory_strategies": "在课堂中过度自我监控、加快讲解、尽力避免任何错误",
+          "automatic_thoughts": "我不适合这份工作。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "教师评估得分较低",
+          "conditional_assumptions": "如果这次评分偏低，未来只会更糟，我的职业会受损",
+          "compensatory_strategies": "加班并设定更高标准来扭转评分",
+          "automatic_thoughts": "这会毁掉我的职业。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任且优秀、得到肯定与尊重",
+        "fear": "害怕失败与被否定，担心失去价值、被视为不称职",
+        "defense_goal": [
+          "通过追求完美与将失败归咎于自身来维持控制、减轻焦虑并避免外界批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能失败的教师",
+          "object_representation": "苛刻、挑剔的评判者（学生/评估者/同事）",
+          "linking_affect": "焦虑、羞耻、内疚"
+        },
+        {
+          "self_representation": "必须更优秀的精英自我",
+          "object_representation": "不够优秀、需要被区分的他人",
+          "linking_affect": "优越感、评判、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当学生在课堂上表现困难或教师评估分数偏低时",
+          "interpretation": "将他人的困难与外部反馈理解为对自身整体能力的否定（移情：把当前情境等同于过去学业失败的羞耻经历）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责语气反复强调“都是我的错”，降低对事实证据的探究，忽略积极反馈；语调低落、少用开放式探询。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以内摄的外界标准作为自我价值条件（“必须/应该完美”）",
+            "将一次失败视为整体否定，选择被外部评价束缚的生活方式"
+          ],
+          "outcomes": [
+            "持续的焦虑与压力",
+            "睡眠与饮食受影响",
+            "自我怀疑与自我贬低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "内在规则中频繁出现“必须/应该”",
+            "将名校与高分标准内化为唯一价值尺度",
+            "一次考试失败即认定“整个学期毁了”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "课堂上遇到学生不理解即迅速自我怀疑",
+            "过度关注评估分数并以此定义自我",
+            "将外界困难过度解释为“我不行”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在学生表现困难或教师评估偏低的情境下，来访者通常会灾难化并自责，随后出现高焦虑，睡眠与饮食受影响。",
+          "unique_outcome": "在一次课堂中，有学生对一节课给予积极反馈并取得好成绩；当时来访者没有陷入“我是失败者”的旧反应，而是短暂体验到自我效能与成就感，焦虑明显减弱。",
+          "reason": "不同支持：获得即时的学生正向反馈；不同理解：看到具体证据反驳“单次挫折=整体失败”的信念，从而短暂允许积极体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意开展结构化记录与行为实验",
+          "有少数同事与朋友的情感支持",
+          "曾获得学生的正向反馈与教学成功经验",
+          "能主动调整教学方法并提供额外支持"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白与过度概括等认知偏差显著",
+          "完美主义与过高自我期待",
+          "过度自责并将外部问题个人化",
+          "忽视积极证据与正向反馈（心理过滤）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化思维与自我否定伴随高焦虑",
+          "antecedent": [
+            "一次考试失败",
+            "两名学生不及格",
+            "课堂上学生听不懂",
+            "教师评估得分较低"
+          ],
+          "core_reason": "求学阶段形成的高期待与精英化标准被内摄，导致将单次挫折视为整体失败，并把外部问题个人化到自身能力与价值上。",
+          "function": "通过自责与完美主义维持对局势的主观控制感，试图避免被批评与再次失败带来的焦虑。",
+          "consequence": "睡眠与饮食受影响、工作表现下降、人际关系紧张、压力与焦虑持续升高"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 72
+}

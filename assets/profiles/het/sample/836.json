@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "23",
+      "name": "韩娜",
+      "gender": "女",
+      "occupation": "学生（10年级）",
+      "educational_background": "高中",
+      "marital_status": "未婚",
+      "family_status": "与父母同住，家中有三只狗",
+      "social_status": "有父母和朋友作为一般支持，但尚未与他们讨论该具体问题",
+      "medical_history": "无类似问题经历；无既往心理咨询或治疗史；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述自己的思维与感受；态度偏消极但愿意配合；逻辑性良好"
+    },
+    "main_problem": "我一直觉得自己不是一个好的宠物主人，尽管父亲因为我照顾狗狗Maddie而给了我额外的零用钱。自上周收到额外零用钱后开始出现这种感受，并在收到赞扬时反复出现；我一直把正向反馈过滤掉，只关注负面方面。",
+    "topic": "自我探索",
+    "core_demands": "因对自己作为宠物主人的能力感到困惑与不确定而寻求澄清与支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任照顾宠物"
+      ],
+      "special_situations": [
+        {
+          "event": "父亲因我照顾狗狗Maddie而给了我额外的10美元零用钱",
+          "conditional_assumptions": "如果我仍有疏漏或不完美，就不配得到奖励或赞美",
+          "compensatory_strategies": "否认或贬低正向反馈，反复挑错以证明自己不值得",
+          "automatic_thoughts": "我不配得到这笔钱；我并没有做得好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "父亲称赞我照顾Maddie做得很好",
+          "conditional_assumptions": "只有做到完美才算做好；只要有任何差错就说明我不是好宠物主人",
+          "compensatory_strategies": "只关注失误与不完美，忽略整体表现",
+          "automatic_thoughts": "我其实做得并不好，我有很多错误",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在被他人（尤其父亲）赞扬照顾Maddie时",
+          "conditional_assumptions": "别人给的赞美不可靠，他们只是没有看到我的不足",
+          "compensatory_strategies": "回避谈论自己的正面表现，不与他人分享，独自反刍负面细节",
+          "automatic_thoughts": "他们只是忽略了我做错的地方，所以赞美没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定与认可为称职的宠物主人",
+        "fear": "害怕被看穿自己的不足、觉得不配得到赞美，进而被否定",
+        "defense_goal": [
+          "通过贬低正向反馈与挑错来维持自我一致并降低被否定的风险",
+          "保持距离于赞美以减轻“不配”的焦虑感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易犯错、需要证明价值的人",
+          "object_representation": "过于宽容的赞许者（父亲），其赞美可能忽视我的不足",
+          "linking_affect": "羞愧、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人给予正向评价、鼓励其承认正向反馈或建议进行思维重构时",
+          "interpretation": "认为对方在忽视自己的缺点或强求自己接受不真实的评价，因此需要用“挑错”来保护自己",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、共情的语气；先肯定其谨慎与负责，再邀请其具体化证据（同时列出正负面事实）；避免对抗性纠正，采用探索式提问，帮助其同时接触情感与事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "质疑自己作为宠物主人的价值与意义",
+            "在收到赞扬时否定其意义，将正向反馈视为不可靠"
+          ],
+          "outcomes": [
+            "自我怀疑增强",
+            "情绪低落",
+            "难以体验到成就感与被认可的满足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以完美标准衡量自己：只有做到毫无差错才算“好”",
+            "用“应该/必须”式隐性规则评判自己是否配得上赞美"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等。",
+          "manifestations": [
+            "在被赞扬时立刻转而强调错误与不足，回避直接接触正向反馈",
+            "不与亲友讨论该具体问题，回避他人正向反应的影响"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "父亲给予积极反馈与物质肯定（额外零用钱）",
+          "问题聚焦且范围有限（未影响学业、人际与日常）",
+          "具备自我观察能力，能识别并命名“过滤负面/否定正面”的思维模式",
+          "愿意尝试记录并觉察负性自动思维，主动寻求咨询支持"
+        ],
+        "negative_force": [
+          "否定正面思维（discounting the positive）与心理过滤（mental filtering）",
+          "设立僵化的完美标准，轻易以失误否定整体表现",
+          "在收到赞美时让负性思维占据，产生强烈自我怀疑与低落",
+          "因尴尬而回避与他人讨论该具体问题，巩固内在自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到赞扬或奖励时，否定正向反馈并陷入自我怀疑与低落",
+          "antecedent": [
+            "父亲给予额外零用钱或口头称赞照顾Maddie的表现",
+            "他人对其养宠行为的正面评价"
+          ],
+          "core_reason": "受“只要不完美就不配被赞”的内摄规则影响，加之认知歪曲（否定正面与心理过滤）驱动，将局部失误视为整体不称职",
+          "function": "逃避被否定或“被看穿不足”的潜在风险，维持自我概念的一致性，短暂降低“不配感”的焦虑",
+          "consequence": "自我怀疑与低落加重，难以获得肯定与成就感；目前未明显影响学业、人际与日常生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 836
+}

@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "林杰",
+      "gender": "男性",
+      "occupation": "退伍军人、学生",
+      "educational_background": "本科在读",
+      "marital_status": "恋爱中（有女友）",
+      "family_status": "父亲曾在军队服役",
+      "social_status": "有女友与几位退伍军人同伴可交流，但其认为他们未必能充分理解其面临的学业压力",
+      "medical_history": "此前未出现类似的学业焦虑；无既往心理治疗/咨询史；无显著躯体疾病",
+      "language_features": "表达清晰，逻辑性好，能自我反思认知模式；配合度高，语气诚恳；情绪紧张但可控"
+    },
+    "main_problem": "在一次作业拿到较差成绩后，我对学业表现感到不堪重负与焦虑，害怕失败并被学校劝退。这种恐惧自事件后愈发强烈，几乎每天困扰，尤其在考试前或收到成绩时，已影响到我的动力与自信。",
+    "topic": "学业压力",
+    "core_demands": "对失败的恐惧以及其对心理健康和学业表现的影响促使我寻求咨询支持。",
+    "growth_experiences": [
+      "以退伍军人身份进入学校后起初就感到较强的“要有好表现”的压力（发生在本次差分事件之前）。",
+      "原生家庭信息：父亲曾在军队服役。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/不适合这门学业",
+        "我的价值取决于成绩及他人的期望（失败就等于让家人失望）"
+      ],
+      "special_situations": [
+        {
+          "event": "收到一次作业的差成绩",
+          "conditional_assumptions": "如果一次作业考差，说明我不适合这门学业，接下来会挂科",
+          "compensatory_strategies": "加倍学习、向教授求助、使用放松技巧来降低焦虑",
+          "automatic_thoughts": "我很快会被学校劝退/挂科",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "考试前或等待成绩公布的时段",
+          "conditional_assumptions": "如果这次考不好，就证明我会失败并让家人失望",
+          "compensatory_strategies": "提高复习强度并尝试放松技巧，同时反复预想最坏结果以求“有准备”",
+          "automatic_thoughts": "这次大概率会很糟，我可能会挂科",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到家人的期待与评价",
+          "conditional_assumptions": "若达不到高标准，就会让家人失望，说明我不行",
+          "compensatory_strategies": "更努力学习、向教授求助以满足他人期望",
+          "automatic_thoughts": "我正在让家人失望",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在自我评估能力时回顾个别挫折（如一次差分）",
+          "conditional_assumptions": "只要有一次失败，就证明我根本不行",
+          "compensatory_strategies": "产生放弃的念头以避免再次失败带来的打击",
+          "automatic_thoughts": "我不是这块料/我不适合读这个",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过稳定的学业表现获得认可与安心，特别是被家人接纳与肯定",
+        "fear": "害怕失败、被否定与让家人失望，从而被视为不值得或不够好",
+        "defense_goal": [
+          "通过加倍努力与提前预想最坏结果来降低失败与被批评的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能失败、会让重要他人失望的学生",
+          "object_representation": "对自己期望较高、可能会失望的家人/重要他人",
+          "linking_affect": "焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及“一次差成绩意味着什么”或被询问对失败的看法时",
+          "interpretation": "倾向于把一次挫折理解为“整体失败”，仿佛没有中间地带",
+          "sring": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "以绝对化词语（如“一定”“全都”“完全不行”）描述自我与结果，语气紧绷，忽略部分成功或改进空间。"
+        },
+        {
+          "trigger_condition": "在临近考试或等待成绩公布时",
+          "interpretation": "认为预先设想最坏情形可以“有准备”以避免打击",
+          "sring": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "反复描述最坏结果及应急方案，用“如果这次不行就完了”的句式，语速略快、关注未来威胁而非当下证据。"
+        },
+        {
+          "trigger_condition": "当想到家人的期待或被问及对家人反应的担忧时",
+          "interpretation": "将可能对外的失望与不满转向自身，强化自责与自我否定",
+          "sring": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责与贬低自我为主的表述（如“都是我不好”“我让他们失望”），降低自我价值，语气内疚。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉女友与退伍同伴并不能完全理解其学业压力与处境",
+            "从军旅到校园的角色转换带来适应性的落差感"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "与女友关系紧张",
+            "睡眠节律受扰与注意力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁以自责与绝对化方式评价自己（如“我不适合”“我会失败”）",
+            "把一次挫折当作整体能力的证明，降低自我价值感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动寻求支持（向教授求助、使用放松技巧）",
+          "具备一定的自我观察与认知反思能力（能识别“跳到结论”“灾难化”）",
+          "愿意尝试行为实验与认知重构",
+          "拥有一定社会支持（女友与退伍同伴）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括等认知偏差显著",
+          "对外部评价敏感，担忧让家人失望",
+          "持续性担忧导致睡眠与注意力受损",
+          "挫折后动机下降并出现放弃倾向"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与学业相关的反复担忧与灾难化预期",
+          "antecedent": [
+            "收到一次作业差分",
+            "临近考试",
+            "等待成绩公布"
+          ],
+          "core_reason": "对失败的灾难化认知及对让家人失望的担忧强化了威胁评估",
+          "function": "通过预先担忧来获得对不确定性的“控制感”，试图避免再次失败",
+          "consequence": "睡眠紊乱、注意力下降与焦虑加重，进一步损害学业表现"
+        },
+        {
+          "behavior": "学习动机下降与出现放弃念头",
+          "antecedent": [
+            "在挫折后出现“我会失败/不适合”的自动思维",
+            "复盘个别差分时对自我能力作极端判断"
+          ],
+          "core_reason": "非黑即白与过度概括导致的无力感与自我否定",
+          "function": "逃避潜在失败与负面评价，短期缓解焦虑",
+          "consequence": "学习投入度与成绩下降，并对亲密关系（与女友）造成压力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1107
+}

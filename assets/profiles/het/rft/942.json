@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "缺乏可倾诉的社交支持",
+      "medical_history": "否认重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰，能反思，配合度较好，语气中性"
+    },
+    "main_problem": "我不断地想“只要我注意饮食，我就再也吃不到好吃的东西”，这些想法带来被剥夺感和挫败感，几乎每次进食都会伴随内疚与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "我想停止对食物的内疚和焦虑，能够在没有压力的情况下享受用餐。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我缺乏对饮食的自我控制",
+        "如果不能完美地坚持健康饮食，我就是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "每次坐下来吃饭时",
+          "conditional_assumptions": "只有完全避免“美味”或高热量的食物，才能维持健康饮食",
+          "compensatory_strategies": "严格限制饮食、优先选择被认为“健康”的选项，回避诱人的食物",
+          "automatic_thoughts": "如果我吃了好吃的东西，我就会失去控制，无法保持健康饮食",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "当出现对美味食物的强烈渴望时",
+          "conditional_assumptions": "一旦有一次放纵，就会彻底失控，前功尽弃",
+          "compensatory_strategies": "压抑渴望、减少接触诱人的食物或场景",
+          "automatic_thoughts": "只要我一放纵，就会完全失控",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当偶尔吃了美味食物之后",
+          "conditional_assumptions": "吃了“不健康”的食物就等于失败",
+          "compensatory_strategies": "自责，并在之后实行更严格的限制性饮食以弥补",
+          "automatic_thoughts": "我失败了，之前的努力都白费了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当决定专注于健康饮食并在日常用餐中作出选择时",
+          "conditional_assumptions": "为了健康，我将再也不能享受美味食物",
+          "compensatory_strategies": "以极端方式约束饮食，不给自己任何“例外”",
+          "automatic_thoughts": "我以后都吃不到好吃的了",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在偶尔吃到美味食物后，来访者通常会感到失败并担心会失去对饮食的控制，随后陷入内疚与焦虑。",
+          "unique_outcome": "在几次吃了美味食物之后，来访者并没有一直失控，而是能够重新回到健康的饮食安排。",
+          "reason": "线索：来访者具备自我调节的经验，曾在放纵后通过自我管理恢复到既定的饮食节律。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在放纵后重新回到健康饮食的经验（自我调节能力）",
+          "主动寻求心理咨询以改善与食物的关系",
+          "能够反思并愿意尝试记录成功经验"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括、预测未来等认知偏差",
+          "用餐时频繁的内疚与焦虑体验",
+          "缺乏可倾诉的社交支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "用餐时出现强烈的内疚和焦虑，并伴随过度限制性饮食",
+          "antecedent": [
+            "每次坐下吃饭时",
+            "出现对美味食物的渴望时",
+            "偶尔吃了美味食物之后"
+          ],
+          "core_reason": "受非黑即白思维、灾难化和预测未来等认知影响，形成“放纵一次就会彻底失控、享受与健康不可兼得”的信念",
+          "function": "逃避被认为“不健康”和“失控”的后果，寻求对饮食的安全感与控制感",
+          "consequence": "用餐愉悦感下降、压力增大，日常生活受影响，难以享受食物且损害心理健康"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 942
+}

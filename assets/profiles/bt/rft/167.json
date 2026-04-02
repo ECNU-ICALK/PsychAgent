@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "罗珊",
+      "gender": "女",
+      "occupation": "未透露",
+      "educational_background": "未透露",
+      "marital_status": "单身",
+      "family_status": "未透露",
+      "social_status": "有少数朋友可倾诉，但难以分享具体的自卑感受；社交焦虑影响与同事的互动",
+      "medical_history": "无重大躯体疾病；否认既往相似心理问题与心理治疗经历",
+      "language_features": "表达清晰，逻辑性较好；对治疗持积极态度，配合度高；能反思自动化思维"
+    },
+    "main_problem": "在与陌生人进行简短互动后常感到自己“不有趣、很无聊”，并将对方不回应视为对自我价值的否定；问题在多次类似经历后加重，导致社交焦虑上升，影响在公共场合与社交聚会中的体验与参与。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些自卑感影响了我与他人建立联系并享受社交情境的能力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个无趣、无聊的人",
+        "我的价值取决于他人是否愿意与我交谈"
+      ],
+      "special_situations": [
+        {
+          "event": "在地铁上身旁的人不愿与我交谈或没有回应",
+          "conditional_assumptions": "如果别人不愿意与我交谈或没有回应，就说明我是无趣、不可被关注的人",
+          "compensatory_strategies": "当场撤退、避免继续交流以降低被拒绝的不适",
+          "automatic_thoughts": "他不想和我说话，一定是我很无聊",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在聚会上以读书话题开启对话，对方显得不感兴趣并很快转向他人",
+          "conditional_assumptions": "如果我不能立即吸引对方注意，就证明我没有价值、很无聊",
+          "compensatory_strategies": "迅速停止社交尝试、独处或退出情境以避免进一步尴尬",
+          "automatic_thoughts": "我太无聊了，没有人愿意和我说话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在公共场合经历多次简短互动后，对方未继续交谈",
+          "conditional_assumptions": "多次被拒绝或不被接续=我一向都无聊，将来也会如此",
+          "compensatory_strategies": "减少参加公共活动与社交场合，以回避可能的否定",
+          "automatic_thoughts": "我总是这样没人愿意理我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作场合准备与同事交流时担心被视为无聊",
+          "conditional_assumptions": "如果同事觉得我无聊，我会被排斥，不被接纳",
+          "compensatory_strategies": "尽量少发言或不主动发起话题，维持低曝光",
+          "automatic_thoughts": "他们大概也觉得我无趣，我最好不要多说",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被接纳，与他人建立真实而轻松的连接",
+        "fear": "害怕被拒绝、被评判为“无聊”，感到羞耻与自我否定",
+        "defense_goal": [
+          "通过回避或撤退来降低被拒绝的风险",
+          "以过度分析与自我贬低来预先降低期待，避免更大的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无趣、易被拒绝的自我",
+          "object_representation": "冷淡、挑剔或对自己不感兴趣的他人",
+          "linking_affect": "焦虑、羞耻与孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师沉默片刻或未立即给予肯定反馈时",
+          "interpretation": "罗珊会倾向于认为对方和他人一样在评判自己“无聊”（将内在自我否定投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和与稳定，先共情其担忧；邀请具体化证据与替代解释，澄清彼此感受，并通过当下验证减少假设。"
+        },
+        {
+          "trigger_condition": "当被邀请停下分析、转向描述当下的情绪体验时",
+          "interpretation": "倾向于继续细致分析互动细节，以避免直面羞耻与被拒绝的感受",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "放慢语速与节奏，使用情感反映与身体感受觉察的引导，减少问题求证式提问，鼓励命名情绪并保持短暂停顿。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在公共场合与社交聚会中因害怕被视为无聊而退缩与回避",
+            "将他人的不回应视为对自我存在价值的否定，难以与他人连接"
+          ],
+          "outcomes": [
+            "社交焦虑加重",
+            "难以享受社交活动与公共空间",
+            "新关系建立受阻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在互动前后反复审视与苛责自己是否“无聊”",
+            "担心被负面评价而减少自发表达"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "互动受挫后撤回主动性，避免继续交流",
+            "减少参与社交活动，将能量转向自我压抑与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位可倾诉的朋友提供一定支持",
+          "求助动机明确，合作态度积极",
+          "工作功能稳定，日常工作表现未受影响",
+          "能识别并讨论自身的自动化思维，愿意尝试现实检验"
+        ],
+        "negative_force": [
+          "过度个性化、读心术与过度概括等认知偏差维持焦虑",
+          "自我贴标签为“无聊”，自信下降",
+          "社交回避带来短期缓解却维持长期焦虑与孤立",
+          "过度依赖外部评价决定自我价值"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交情境中的回避与退缩",
+          "antecedent": [
+            "与陌生人简短互动后对方未继续交谈",
+            "在公共场合准备开启对话时的紧张与不确定",
+            "工作中与同事寒暄或合作前的预期担忧"
+          ],
+          "core_reason": "将对方的不回应个性化为对自我价值的否定，受“我是无聊的人”的核心信念与读心术、过度概括的影响",
+          "function": "逃避被拒绝与羞耻的可能性，短期降低焦虑",
+          "consequence": "社交圈受限、难以建立新连接，社交焦虑维持并加重，难以享受公共空间与社交活动"
+        },
+        {
+          "behavior": "对每次互动进行过度分析（反刍）",
+          "antecedent": [
+            "社交互动结束后独处时",
+            "看到他人转向与别人交谈或未给予回应后"
+          ],
+          "core_reason": "通过理智化与过度分析来寻求确定性以控制焦虑，同时强化负面自我图式",
+          "function": "短期获得掌控感与解释感，尝试避免不确定带来的焦虑",
+          "consequence": "加剧自我否定与羞耻，削弱自信与未来社交动机，形成回避—反刍的维持循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 167
+}

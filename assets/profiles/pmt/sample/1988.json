@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "张宇",
+      "gender": "男",
+      "occupation": "汽车制造厂员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "因财务不安全感而与朋友和家人疏离；有少数朋友可谈但未谈及担忧",
+      "medical_history": "无重大躯体疾病；无过往心理咨询；无以往类似的财务压力经历",
+      "language_features": "态度中性、配合度良好；表达清晰，能识别并描述自身消极想法；言语中常出现“永远/注定”等绝对化表达；倾向非黑即白、过度概括、灾难化与否定正面信息"
+    },
+    "main_problem": "我被财务不安全感压垮，认为自己永远无法负担起舒适的生活。自从参加工作后，这些念头一直持续，尤其是在我发现收入没有如预期增长时越来越严重。我因此回避做任何财务决策或投资，害怕自己无论如何都负担不起；每天都会出现这些感受，尤其是看到他人进行大额消费或投资时。我尝试过做预算和做副业增加收入，但心态依然很负面。",
+    "topic": "情绪管理",
+    "core_demands": "因持续的财务压力与焦虑，我希望学会更健康的应对方式并改变对金钱的消极心态。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法改善自己的处境，注定会一直贫穷",
+        "我的价值取决于是否能负担起与他人相当的消费与生活"
+      ],
+      "special_situations": [
+        {
+          "event": "看到身边的人购买房产或进行大额投资",
+          "conditional_assumptions": "如果我买不起别人能买的东西，就说明我是失败者、前途被定型",
+          "compensatory_strategies": "回避社交与财务话题，减少与朋友家人联系以避免比较与被评判",
+          "automatic_thoughts": "我永远也负担不起这些东西，我就是不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在制造厂工作了几年后收入仍未如预期增长",
+          "conditional_assumptions": "如果现在收入没有增长，将来也不会好转",
+          "compensatory_strategies": "通过做副业、更加努力工作来证明自己，但在认知上否定这些努力的意义",
+          "automatic_thoughts": "我的工资就是上不去，我注定会一直穷",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "需要做财务决策或考虑投资时",
+          "conditional_assumptions": "如果我做出错误的财务决策，后果会非常糟糕，无法承受",
+          "compensatory_strategies": "回避一切财务决策与投资以降低焦虑",
+          "automatic_thoughts": "一旦投资，我就会亏得一塌糊涂",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾自己曾经几次存下了一些钱",
+          "conditional_assumptions": "除非是非常显著的改善，否则都不算进步",
+          "compensatory_strategies": "忽略或贬低积极进展，继续维持负面自我评价以避免“失望”",
+          "automatic_thoughts": "这些小成就没意义，长远看改变不了什么",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望获得稳定与可掌控的生活，并被他人视为有能力和值得被接纳的人",
+        "fear": "害怕在比较与评判中被视为失败者，做出选择后遭遇不可承受的损失与羞耻",
+        "defense_goal": [
+          "通过回避财务决策来降低失败与羞耻的风险",
+          "与他人保持距离以避免被比较与评判",
+          "以理性的长远推断弱化当下积极情绪，从而控制焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞耻而无力的失败者",
+          "object_representation": "苛刻评判、成功而优越的他人",
+          "linking_affect": "羞耻、焦虑、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其探讨正向证据或小的进步时",
+          "interpretation": "认为这些进步‘不够大’，无法改变自身的失败处境",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平稳语气强调“从长远看没有意义”等理由，使用抽象化表述来削弱积极意义。"
+        },
+        {
+          "trigger_condition": "当讨论与朋友或家人的互动、可能涉及比较与被评价的话题时",
+          "interpretation": "感觉他人会因其经济状况而看低自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "避免深入细节，使用模糊化表达（如“他们都会看不起我”），并提出减少接触的理由。"
+        },
+        {
+          "trigger_condition": "当被鼓励尝试做出具体财务决策或进行小规模尝试时",
+          "interpretation": "一旦行动就会暴露无能并导致灾难性后果",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用逻辑推演、假设性语言（如“理论上…长期来看…”）转移到抽象层面，回避当前感受与行动承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复认为“我永远负担不起”，小进步被否定，难以在努力与生活中找到意义"
+          ],
+          "outcomes": [
+            "无望感增强",
+            "动机下降",
+            "日常自我照顾受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因担心做错财务决策而回避选择，体验到选择自由被焦虑剥夺"
+          ],
+          "outcomes": [
+            "回避行为强化",
+            "感到被困与无力"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因财务不安全感与羞耻而主动与朋友家人疏离"
+          ],
+          "outcomes": [
+            "社会支持减少",
+            "焦虑与抑郁样情绪加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在会谈中谈及社交时，推断他人会因自己的经济状况而轻视自己，因而减少接触"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁使用“永远/注定”等绝对化自贬语句",
+            "在会谈中倾向强调自身不足，谨慎表达、压低对积极证据的认可"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要做出财务决策或管理开支时，来访者通常会感到强烈焦虑并选择回避，认为无论怎么做都无济于事。",
+          "unique_outcome": "在几次发薪后的当月，来访者没有像往常那样完全回避，而是按照既定预算执行，结果成功存下了一些钱，并短暂体验到可控感。",
+          "reason": "不同做法：尝试并遵循预算；不同理解：将目标拆分为月度的小改进；不同情境：当月支出安排更清晰、任务具体。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定工作与固定收入来源",
+          "愿意求助并尝试新方法（如预算、做副业）",
+          "曾有几次成功存钱的经验可作为正向证据"
+        ],
+        "negative_force": [
+          "非黑即白与过度概括等思维方式强化无望感",
+          "对未来的灾难化预测导致决策回避",
+          "将自我价值与金钱/消费能力直接挂钩",
+          "社交退缩减少了情绪支持与现实反馈",
+          "否定正向证据，维持负面信念"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避财务决策与投资",
+          "antecedent": [
+            "需要做出消费/储蓄/投资等财务选择时",
+            "看到账单或核对预算时",
+            "想到收入增长不如预期时"
+          ],
+          "core_reason": "对失败与损失的灾难化预期，伴随“做错就不可承受”的信念与无望感",
+          "function": "逃避焦虑与潜在的羞耻/自我否定",
+          "consequence": "机会流失、财务停滞，负性情绪与无力感进一步加重"
+        },
+        {
+          "behavior": "社交退缩与孤立",
+          "antecedent": [
+            "预期他人会谈及消费或比较经济状况时",
+            "看到他人进行大额购买或投资后"
+          ],
+          "core_reason": "担心被比较与被看低，内在羞耻感驱动的防御性退缩",
+          "function": "避免被评判与减少自我羞耻的暴露",
+          "consequence": "社会支持减少，孤独与焦虑加重，问题循环强化"
+        },
+        {
+          "behavior": "消极绝对化自我陈述（如“我永远负担不起/我注定会穷”）",
+          "antecedent": [
+            "对收入停滞的关注",
+            "与他人经济状况进行比较时",
+            "回顾过往努力与小成就时"
+          ],
+          "core_reason": "核心信念“我无法改善处境”，并通过选择性注意与否定积极证据加以维持",
+          "function": "以降低期望来暂时减少失望与焦虑，维持认知一致性",
+          "consequence": "动机下降、抑郁样情绪上升，进一步回避有效行动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1988
+}

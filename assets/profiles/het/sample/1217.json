@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "林洁西",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未婚",
+      "family_status": "与父母同住，害怕被他们拒绝",
+      "social_status": "不愿与朋友或家人讨论相关问题，社会支持有限",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗或精神科治疗",
+      "language_features": "略显紧张但愿意表达；能清晰描述经历与感受；配合度较高；能识别并讨论自动化思维；语速未提及"
+    },
+    "main_problem": "我在性取向与身份方面感到困惑，伴随自我不足感与对被拒绝的恐惧；这些感受始于青春期，在被心仪对象拒绝后加重，持续影响学习、人际与自尊。",
+    "topic": "自我探索",
+    "core_demands": "由于对被拒绝的恐惧与身份困惑持续影响日常功能与身心健康，因此寻求咨询。",
+    "growth_experiences": [
+      "青春期开始出现对性取向与身份的困惑，社会期待与担心无法满足这些期待带来高压力并长期持续。",
+      "向一位心仪的女孩表白被直接拒绝，此事件显著加重了对不被接纳的恐惧与自我不足感。",
+      "与父母同住，长期害怕遭到父母拒绝，因此在亲密关系与自我表达上更为克制与回避。",
+      "曾向一位可信赖的朋友出柜并得到不评判的支持与接纳，这次被接纳的经历带来安心与自信的提升。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "真实的我不会被接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "被自己喜欢的女孩直接拒绝",
+          "conditional_assumptions": "如果我一次被拒绝，就意味着我不值得被爱，未来也会持续被拒绝",
+          "compensatory_strategies": "避免与人亲近、减少建立亲密关系的尝试",
+          "automatic_thoughts": "我的生活毁了；我永远不会被爱",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "想到要向父母坦白自己的性取向",
+          "conditional_assumptions": "只有完全符合父母的期待才会被接纳，否则一定会被拒绝",
+          "compensatory_strategies": "隐瞒身份、避免与父母讨论相关话题",
+          "automatic_thoughts": "他们一定会拒绝我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到周围的幸福情侣或被恋爱关系提醒",
+          "conditional_assumptions": "如果别人都有伴侣而我没有，就说明我有问题且不会被爱",
+          "compensatory_strategies": "远离社交场合、减少与他人接触以避免比较",
+          "automatic_thoughts": "我不正常；我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到社会对性取向与身份的标准与期待",
+          "conditional_assumptions": "我应该符合社会的标准，否则就证明我不值得被接纳",
+          "compensatory_strategies": "自我压抑、努力迎合外界期待以获取认可",
+          "automatic_thoughts": "我不应该这样；我必须符合他们的期待",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地看见、被爱与被接纳（包括对性取向与身份的接纳）",
+        "fear": "害怕被父母、心仪对象及社会评判与拒绝，担心被否定与失去归属",
+        "defense_goal": [
+          "通过回避亲密与自我暴露来降低被拒绝的风险",
+          "迎合外界期待以换取安全与表面的接纳"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被接纳、带有缺陷的局外人",
+          "object_representation": "带有评判与拒绝倾向的他者（父母、社会、心仪对象）",
+          "linking_affect": "恐惧、悲伤、羞耻"
+        },
+        {
+          "self_representation": "可以被看见与接纳的自己",
+          "object_representation": "支持且不评判的朋友",
+          "linking_affect": "安心、希望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈论向父母坦白性取向或回忆被心仪对象拒绝的经历时",
+          "interpretation": "倾向将他人视为会评判并拒绝自己的“拒绝者”（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "采用稳定情绪与同理的语气，先承认恐惧的合理性，再以温和提问邀请具体证据与相反例子，避免对抗与贴标签。"
+        },
+        {
+          "trigger_condition": "当强烈的焦虑与躯体不适（胸闷、恶心）出现且被询问更深入的细节与感受时",
+          "interpretation": "倾向以回避亲密与自我暴露来保护自己，减少进一步触及痛点",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "降低刺激强度，使用地面化与慢速探询，允许暂停与选择性分享，以增强安全感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与人亲近，难以维持关系",
+            "不愿与朋友或家人讨论身份与性取向，社会支持有限",
+            "担心不被接纳而回避亲密与自我表达"
+          ],
+          "outcomes": [
+            "持续焦虑与低自尊",
+            "注意力下降与学业受影响",
+            "日常功能受损与情绪困扰加剧"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈感受社会期待与标准的压力",
+            "担心无法符合标准，困惑于性取向与身份表达的自主性"
+          ],
+          "outcomes": [
+            "自我压抑与回避表达",
+            "以他人期待作为价值条件，降低自我一致性与体验容许度",
+            "持续紧张与不安"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "以“我必须/应该符合社会期待”为自我要求",
+            "担心达不到社会标准而归因于自己“不够好”"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "不愿与家人或朋友直接讨论性取向与身份议题",
+            "在社交中回避更亲近的接触以避免被评判"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或环境做出的行为冲动，转而对自己做，将外向的能量收回至自身。",
+          "manifestations": [
+            "避免亲近他人，将表达与出柜的冲动转而压在自己身上",
+            "通过自我克制来降低被拒绝的风险"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在向他人表达性取向或身份时，林洁西通常会因害怕被拒绝而回避分享，导致关系疏离与焦虑加重。",
+          "unique_outcome": "那次向一位朋友出柜时，对方没有评判而是给予支持与接纳，林洁西感到安心，并对进一步分享身份更有信心。",
+          "reason": "不同支持：该朋友态度接纳与不评判；不同做法：选择在安全的关系中进行表达；不同情境：私密且更可信赖的交流环境。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在一位支持与接纳的朋友资源",
+          "愿意求助、态度积极并愿意尝试去灾难化等认知策略",
+          "能识别并表达自动化思维与身体感受",
+          "曾体验到被接纳带来的信心提升"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白与预测未来等认知偏差显著",
+          "过度依赖外部评价与社会期待，易产生自我否定",
+          "对被拒绝的强烈恐惧导致回避亲密与自我表达",
+          "社会支持有限，不愿与家人朋友讨论",
+          "持续焦虑与躯体不适影响学业与日常功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避亲密与社交接触",
+          "antecedent": [
+            "想到向父母坦白性取向",
+            "看到周围的幸福情侣",
+            "被社会标准与身份议题提醒",
+            "回忆被心仪对象拒绝的经历"
+          ],
+          "core_reason": "对被拒绝的灾难化与过度概括，将自我价值与外部期待强绑定而产生强烈回避动机",
+          "function": "逃避可能的拒绝与情绪痛苦，维持短期安全感",
+          "consequence": "关系维持困难、孤独与自尊受损，学业与日常功能下降"
+        },
+        {
+          "behavior": "焦虑及躯体紧张（胸闷、恶心）",
+          "antecedent": [
+            "出现“我永远不会被爱”“我注定会被拒绝”等自动化思维",
+            "想到向父母坦白性取向",
+            "看到他人处于恋爱关系"
+          ],
+          "core_reason": "对被拒绝的恐惧与情绪化推理，并伴随对未来的负面预测",
+          "function": "作为警报促使回避以短期降低情绪刺激",
+          "consequence": "注意力下降、难以集中学习，生活质量降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1217
+}

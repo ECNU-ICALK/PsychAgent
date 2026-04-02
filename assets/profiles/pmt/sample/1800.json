@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "安薇",
+      "gender": "女",
+      "occupation": "牙医专业学生",
+      "educational_background": "牙科学院在读",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有朋友可倾诉但尚未讨论这些感受；与同伴关系受影响并有疏远倾向",
+      "medical_history": "无重要躯体疾病；此前未接受心理治疗；无类似心理问题史",
+      "language_features": "语气中性；能清晰表达思想与感受；常使用比较并否定正面；对寻求支持持谨慎态度；未提及语速"
+    },
+    "main_problem": "我觉得毕业并成为牙医毫无意义，因为任何人都能做到，这让我感到无价值并贬低个人成就；这种自我贬低影响了我的动机和自尊。",
+    "topic": "情绪管理",
+    "core_demands": "意识到持续贬低成就影响身心健康和动机，因而求助；“我想找到一种方法，让我对自己和我的成就感觉更好。”",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没有价值的",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "临近毕业、想到自己将成为牙医",
+          "conditional_assumptions": "如果我的成就不是独一无二或卓越，就没有价值",
+          "compensatory_strategies": "否定与贬低自己的成就，避免庆祝或认可",
+          "automatic_thoughts": "这毫无意义，任何人都能做到",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到同伴在学业或求职上表现优异、显得自信",
+          "conditional_assumptions": "如果我不至少与同伴一样优秀，就说明我不够好",
+          "compensatory_strategies": "频繁进行社会比较；与朋友保持距离，减少互动",
+          "automatic_thoughts": "他们都比我强；我永远不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到向朋友谈及自己的感受或寻求支持",
+          "conditional_assumptions": "如果我表达脆弱，会被视为负担或被拒绝",
+          "compensatory_strategies": "回避求助，独自承受情绪",
+          "automatic_thoughts": "我会给他们添麻烦；他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在回顾自己的努力与当前成果时",
+          "conditional_assumptions": "只有达到完美或顶尖水平才算有价值",
+          "compensatory_strategies": "忽视部分成就，只关注不足之处",
+          "automatic_thoughts": "不管我多努力都不够",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，感到自身有价值",
+        "fear": "害怕在比较中显得不够好、被贬低或被拒绝",
+        "defense_goal": [
+          "通过贬低与否认自己的成就来降低被评判的风险",
+          "与他人保持距离以避免负面比较与羞耻",
+          "用理性化解释维持可控的自我叙事（如“任何人都能做到”）"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的学生、易被贬低者",
+          "object_representation": "优越且会评判自己的同伴/群体",
+          "linking_affect": "自卑、羞愧、焦虑"
+        },
+        {
+          "self_representation": "会给他人添麻烦的负担者",
+          "object_representation": "忙碌而不愿被打扰、看起来“很完美”的朋友",
+          "linking_affect": "顾虑、孤独、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到同伴的优秀表现或被问及学业与毕业规划时",
+          "interpretation": "认为别人会觉得自己不够好，自己的成就没有价值（投射了严苛的外部评判）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性化语言强调“普通/无意义”，语气平静、减少情感色彩；多用客观描述来压过主观感受。"
+        },
+        {
+          "trigger_condition": "当想到向朋友倾诉或接受支持时",
+          "interpretation": "认为对方会被自己拖累、不愿听自己的问题（将他人设为潜在拒斥者）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "简短回应、避免细节，礼貌转移话题到课程或泛泛近况；语气克制，降低情感强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为毕业并成为牙医“毫无意义”，任何人都能做到",
+            "在比较中否定自我成就，难以从成果中获得喜悦",
+            "对“什么是足够好/成功”感到困惑与空缺"
+          ],
+          "outcomes": [
+            "自我价值感低",
+            "动机下降",
+            "睡眠与日常节奏被打乱",
+            "与朋友疏远、感到更孤独"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“必须卓越、超过同伴才有价值”的标准当成自我评判准则",
+            "用“任何人都能做到”否定自身成就",
+            "以同伴表现作为唯一参照系"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我比较与自我贬低",
+            "担心给朋友添麻烦而不敢求助",
+            "对表达脆弱保持高度克制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备坚持完成高强度牙科课程并接近毕业的能力",
+          "有愿意支持的朋友网络",
+          "愿意求助并参与心理咨询"
+        ],
+        "negative_force": [
+          "过度社会比较与“否定正面”的认知模式",
+          "将外界标准内摄为自我价值准则，导致自我贬低",
+          "读心式假设他人不愿支持，导致不求助与疏离",
+          "睡眠与日常节奏被打乱，进一步降低动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "否定正面成就/自我贬低的思维与言语",
+          "antecedent": [
+            "临近毕业时评估自我成就",
+            "看到同伴更优秀或更自信",
+            "回顾自身努力与成果"
+          ],
+          "core_reason": "内摄的外部标准与持续社会比较，使自我价值依赖“超过他人”，从而贬低自身成就",
+          "function": "短期逃避面对不确定的自我价值与羞耻感，暂时降低焦虑",
+          "consequence": "动机下降、自尊受损、情绪低落，难以从成就中获得满足"
+        },
+        {
+          "behavior": "社交回避/与朋友疏远",
+          "antecedent": [
+            "想到向朋友倾诉或寻求支持",
+            "观察到朋友看起来“很自信、很完美”"
+          ],
+          "core_reason": "读心式假设他人不会理解且会被自己拖累，害怕暴露脆弱与遭到评判",
+          "function": "逃避可能的拒绝或负面评价，维持表面安全感",
+          "consequence": "孤独感增强、支持减少，进一步加重负性情绪"
+        },
+        {
+          "behavior": "睡眠与日常作息紊乱、注意力难以集中",
+          "antecedent": [
+            "毕业临近导致压力增加",
+            "陷入比较与自我贬低思维之后"
+          ],
+          "core_reason": "负性自动思维引发情绪困扰与生理唤起，破坏行为节律与专注",
+          "function": "短期逃避任务与压力以缓解情绪负担",
+          "consequence": "学业表现与动机受损，进一步加深自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1800
+}

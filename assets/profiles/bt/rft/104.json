@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "17",
+      "name": "柯特妮",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "未披露",
+      "social_status": "有少数朋友可以交谈，但尚未向他们讨论自己的恐惧；其余未披露",
+      "medical_history": "无重大躯体疾病；既往未有类似恐惧；未接受过心理治疗或心理咨询",
+      "language_features": "表达清晰、合作度较好；能描述触发情境与身体反应；自述尝试用逻辑与安全措施来安慰自己但效果有限；态度中性；语速未提及"
+    },
+    "main_problem": "我对攀岩时会坠落并死亡的恐惧显著影响了我享受攀岩的能力。恐惧在几个月前我的一位要好的朋友发生攀岩事故后开始，并一直加重；每当想到或计划去攀岩时都会出现强烈的恐惧与焦虑，以致难以参与这项活动。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到对坠落并死亡的恐惧正在阻止我享受热爱的攀岩，因此希望通过咨询来处理这个问题并重新享受攀岩。",
+    "growth_experiences": [
+      "几个月前，一位关系密切的朋友在攀岩中发生事故。这一事件使我开始强烈担心攀岩的安全性，压力水平显著升高。此后，每当看到岩壁、回忆那次事故或计划攀岩时，我都会出现强烈的恐惧与焦虑，逐渐难以享受并参与攀岩。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "攀岩高度危险，我很可能会失足坠落并死亡",
+        "即便采取安全措施，也无法真正避免严重事故"
+      ],
+      "special_situations": [
+        {
+          "event": "在攀岩前注视岩壁或置身攀岩场景",
+          "conditional_assumptions": "如果我开始攀登，就很可能失足坠落并发生严重伤害甚至死亡",
+          "compensatory_strategies": "尝试专注于安全措施与理性化风险、推迟或回避攀登",
+          "automatic_thoughts": "这次很可能会出事，我会掉下去然后死掉",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在计划一次攀岩活动时（查路线、约同行、准备装备）",
+          "conditional_assumptions": "如果我去攀岩，未来必定会发生最坏情况",
+          "compensatory_strategies": "取消或弱化计划、不断在脑中预演危险场景以自我“提醒”并避免",
+          "automatic_thoughts": "不管怎么准备，最终都会发生可怕的事故",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆朋友几个月前的攀岩事故",
+          "conditional_assumptions": "如果他们发生了事故，我也很可能遭遇类似严重后果",
+          "compensatory_strategies": "以朋友的事故为证据强化自己对风险的判断、减少接触攀岩相关信息",
+          "automatic_thoughts": "她出了事故，我也迟早会发生同样的事",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "思考安全措施但情绪仍然高涨",
+          "conditional_assumptions": "如果我感觉到强烈的恐惧，说明危险确实很大",
+          "compensatory_strategies": "加倍用理性和安全清单来压制情绪反应",
+          "automatic_thoughts": "我这么害怕，肯定是因为真的很危险",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在确保安全的前提下自由地进行自己热爱的攀岩，并被同伴接纳而不被视为软弱",
+        "fear": "害怕在追求攀岩的过程中遭遇不可控的危险而受伤或死亡；同时害怕暴露脆弱后被朋友看作软弱而受到评判",
+        "defense_goal": [
+          "通过回避攀岩或推迟计划来降低危险与焦虑",
+          "对外保持坚强不透露恐惧以避免被视为软弱",
+          "以理智化方式强调安全细节来弱化情绪"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要隐藏脆弱的攀岩者，担心被看作软弱",
+          "object_representation": "朋友可能会评判或轻视我的脆弱",
+          "linking_affect": "羞耻、担心"
+        },
+        {
+          "self_representation": "在危险情境中易受伤的个体",
+          "object_representation": "攀岩环境/岩壁是不可控且致命的危险客体",
+          "linking_affect": "恐惧、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问是否愿意向朋友分享自己的恐惧与脆弱时",
+          "interpretation": "如果我说出恐惧，朋友会认为我软弱并看不起我（移情：将内在的自我评判投向他人）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以平静克制的语气简短回应，转移话题到中性内容，避免使用情绪性词汇与细节暴露。"
+        },
+        {
+          "trigger_condition": "当谈及攀岩风险或回忆朋友事故、焦虑升高时",
+          "interpretation": "认为只有用更多事实与规则才能保持掌控与安全（移情：将不安全感投向环境并用理性与规则对抗）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用专家式、数据化语言列出安全清单与概率，语气克制、避免触及感受层面，关注“事实”和“步骤”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "朋友的攀岩事故引发对自身坠落死亡的强烈担忧",
+            "每次计划或想到攀岩便出现关于死亡的最坏情境想象"
+          ],
+          "outcomes": [
+            "显著的恐惧与焦虑",
+            "回避或无法参与攀岩",
+            "生活乐趣下降、其他活动也变得紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被视为软弱而不愿向朋友分享恐惧",
+            "在重要议题上保持沉默、减少求助"
+          ],
+          "outcomes": [
+            "支持系统难以发挥作用",
+            "自我监控与自我苛责加重",
+            "情绪负担在内部累积"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心“看起来很软弱”，过度顾虑他人评价而不愿开口",
+            "在分享情绪与寻求支持时过度谨慎"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "把原本可以向朋友寻求支持的冲动收回，不向外表达恐惧",
+            "将能量用于自我压抑与内在消化而非外部求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "热爱攀岩，具备持续动机",
+          "有一定的朋友资源可对话（尽管未使用）",
+          "愿意求助并进入咨询，表现出改变动机",
+          "能尝试用理性与安全措施来管理恐惧",
+          "对治疗计划持希望态度，愿意记录触发与身体反应"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式显著",
+          "因朋友事故产生的过度概括强化危险感",
+          "回避行为导致经验纠正机会减少",
+          "不愿暴露脆弱，限制了社会支持的获取",
+          "焦虑泛化到其他活动，降低生活乐趣"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对攀岩的强烈恐惧与回避（伴随焦虑、生理激活）",
+          "antecedent": [
+            "注视岩壁或置身攀岩场景",
+            "计划一次攀岩活动（查线路、准备装备）",
+            "回忆朋友的攀岩事故"
+          ],
+          "core_reason": "朋友攀岩事故后形成对坠落与死亡的灾难化与“预测未来”认知，情绪化推理使恐惧维持并加重",
+          "function": "逃避潜在危险与强烈焦虑，维持主观的安全与控制感",
+          "consequence": "无法参与和享受攀岩，生活乐趣下降；紧张与过度思虑泛化到其他活动，影响日常生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 104
+}

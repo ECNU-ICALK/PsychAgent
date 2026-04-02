@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "林思妍",
+      "gender": "女性",
+      "occupation": "立志成为演员",
+      "educational_background": "高中学历",
+      "marital_status": "未婚",
+      "family_status": "独居于洛杉矶，家人居住在东京，彼此分离",
+      "social_status": "在洛杉矶有少数熟人，但不愿与其讨论语言不安",
+      "medical_history": "既往无心理治疗史，无重大躯体疾病，来洛杉矶前未有类似心理问题",
+      "language_features": "能清楚表达并主动分享负性自动化思维；语气偏消极与焦虑，倾向回避；对目标设定持怀疑态度但愿意尝试，配合度尚可"
+    },
+    "main_problem": "自从搬到洛杉矶后，我因英语水平不足而感到自卑与不够胜任，沟通困难影响了试镜与社交，几乎每天在工作试镜和社交场合都会出现紧张与被评判的感受。",
+    "topic": "职业发展",
+    "core_demands": "“我只想能够自信地说话，不再为每个小错误担心。我希望可以去试镜时不那么不安全，也能在这里交到朋友。”",
+    "growth_experiences": [
+      "约6个月前搬到洛杉矶开始新生活，初期压力很大；此后因英语交流障碍在试镜与社交中感到紧张和被评判，亦影响到职业发展与自尊感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不够胜任",
+        "我的价值取决于他人对我英语表现的评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在试镜中需要用英语交流与表演",
+          "conditional_assumptions": "如果表达不够完美或出现错误，就会彻底失败并被拒绝",
+          "compensatory_strategies": "回避或减少试镜，尽量少说话以降低出错风险",
+          "automatic_thoughts": "我会把这一切搞砸，一旦说错就完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在社交聚会中与陌生人或新朋友用英语交谈",
+          "conditional_assumptions": "他人对我的看法决定我的价值；如果他们不理解我，就说明我很蠢",
+          "compensatory_strategies": "尽量独处、减少社交互动以避免被评价",
+          "automatic_thoughts": "他们会觉得我很蠢/他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾少数成功的英语交流片段",
+          "conditional_assumptions": "偶尔的成功只是运气，不代表我能力提升",
+          "compensatory_strategies": "否定进步、继续自我批评以维持谨慎",
+          "automatic_thoughts": "那只是运气，不算真正的进步",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "讨论或尝试为英语练习设定小目标",
+          "conditional_assumptions": "如果我失败，就证明我做不到且不够聪明",
+          "compensatory_strategies": "避免设定目标或降低挑战以躲开失败",
+          "automatic_thoughts": "即使是很小的目标我也会失败，这只会证明我不行",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解、被接纳，并能自信地与人沟通与表演",
+        "fear": "害怕被评判与羞辱、害怕失败导致职业受损与被拒绝",
+        "defense_goal": [
+          "通过回避与自我否定来降低被评判的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、容易出错的被评判者",
+          "object_representation": "挑剔、会嘲笑或否定自己的评判者",
+          "linking_affect": "羞耻、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请设定具体的小目标或活动安排时",
+          "interpretation": "认为一旦失败就证明自己“无能”，并担心咨询师的建议也可能无效（对建议持怀疑）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以共情和验证感受为主，温和探询过往证据与例外体验，提出微小、低风险的实验性目标，用支持性语言降低失败焦虑。"
+        },
+        {
+          "trigger_condition": "当咨询探索他人看法或社交互动时",
+          "interpretation": "将自身的自我否定与不安全感投射为“他人会觉得我很蠢”，将外界视为严苛评判者",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持温和与好奇的语气，使用证据检视与替代性解释，邀请具体事例对比，区分事实与推测，逐步重建自我评价的内部依据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居于洛杉矶、与家人分隔在东京",
+            "在社交场合因担心被评判而回避，与他人缺乏深度连接",
+            "缺乏可以讨论语言不安的支持性关系"
+          ],
+          "outcomes": [
+            "自尊受损与自我价值感下降",
+            "焦虑与羞耻感增强",
+            "社交退缩与职业停滞"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "回避试镜与社交互动，转而独自练习英语",
+            "将与他人交流的冲动压回并对自身进行苛责与自我否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁以失败为证据否定自己（如“失败就证明我不行”）",
+            "设定目标时过度担忧并限制挑战，谨小慎微"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在日常社交或公共交流情境中，来访者通常因对英语不自信而紧张、回避，与他人难以持续对话。",
+          "unique_outcome": "有过几次成功的随意对话，能够持续交流且羞耻感明显减轻，没有像往常那样立刻回避或陷入负性循环。",
+          "reason": "线索：对方较为耐心、互动氛围更友好与安全，因此这次能够更顺畅地表达并维持对话。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试设定微小目标并进行练习",
+          "曾有少数成功的英语交流片段可作为资源",
+          "已有英语课程与自学的基础",
+          "主动寻求心理咨询支持"
+        ],
+        "negative_force": [
+          "灾难化与预测失败的思维模式",
+          "读心术与否定正面导致自我价值过度依赖他人评价",
+          "社交与试镜的回避行为",
+          "孤独与支持系统薄弱使负性循环持续"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在试镜与社交场合回避或减少英语交流，伴随显著紧张与焦虑",
+          "antecedent": [
+            "需要用英语表达与表演的试镜情境",
+            "社交聚会或与陌生人交谈的场景"
+          ],
+          "core_reason": "对英语不够完美的灾难化认知与对失败的预测，将他人可能的反应内化为自我价值的判断",
+          "function": "逃避被评判或羞辱的潜在风险，短期维持主观安全感",
+          "consequence": "职业发展受阻、难以建立人际关系、孤独加重、自尊受损"
+        },
+        {
+          "behavior": "反复出现自我否定的负性自动化思维（如“我会搞砸”“他们会觉得我很蠢”）",
+          "antecedent": [
+            "在英语交流前、交流中或回顾交流时",
+            "面对目标设定或练习安排时"
+          ],
+          "core_reason": "深层核心信念“我不够聪明/不够胜任”，并以过度概括与读心术维系",
+          "function": "通过降低期待与自我保护来避免失败带来的羞耻感",
+          "consequence": "焦虑维持或加剧、学习动机下降、进一步回避导致技能与信心难以提升"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 41
+}

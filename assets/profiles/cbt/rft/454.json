@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "罗嘉琳",
+      "gender": "女",
+      "occupation": "舞者",
+      "educational_background": "自幼接受芭蕾训练，贯穿一生的芭蕾学习",
+      "marital_status": "未说明",
+      "family_status": "家庭整体支持，母亲是芭蕾舞者",
+      "social_status": "拥有家庭支持系统；担心退休后人际关系受损",
+      "medical_history": "无重大身体疾病史；无心理问题治疗或咨询史",
+      "language_features": "态度中性；表达清晰，能自我反思，与咨询师合作良好"
+    },
+    "main_problem": "担心在6个月后从舞蹈事业退休后会感到无聊和孤独。随着开始规划退休，这种对无聊与孤独的担忧逐渐加重；每当想到退休后的生活（几乎每天）就会出现相关感受。",
+    "topic": "职业发展",
+    "core_demands": "我决定现在寻求咨询，因为对无聊和孤独的恐惧已经开始干扰我的日常生活和情绪健康。",
+    "growth_experiences": [
+      "原生与成长背景：母亲是芭蕾舞者，家庭整体支持其舞蹈道路；自幼接受芭蕾训练，舞蹈成为核心身份与生活重心。",
+      "青年时期的重大变动与适应：曾为加入新舞团搬到不同城市，初期很艰难，但通过全身心投入工作、主动结识新同事逐步适应，最终爱上新环境并建立归属感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的身份与价值高度依赖于舞蹈",
+        "没有舞蹈我会失去目的感与自我"
+      ],
+      "special_situations": [
+        {
+          "event": "每当想到退休后的生活（几乎每天）",
+          "conditional_assumptions": "如果没有跳舞，我就会失去身份与目标，生活会变得空虚而孤独",
+          "compensatory_strategies": "尝试用兴趣爱好和活动分散注意力",
+          "automatic_thoughts": "退休后我会很无聊并且孤独",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "随着退休日期临近并开始规划退休事宜",
+          "conditional_assumptions": "如果找不到能与舞蹈相当的替代活动，我的生活就会彻底失去意义",
+          "compensatory_strategies": "制定更为严格的日程安排，尝试寻找新的社区活动或志愿服务",
+          "automatic_thoughts": "除了舞蹈，没有任何事情能让我获得同样的充实与目的感",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "担心退休后人际关系会受影响",
+          "conditional_assumptions": "如果不再在舞团中，我与他人的连接会消失，我会被孤立",
+          "compensatory_strategies": "向家人倾诉并寻求支持，但同时觉得应该独自处理",
+          "automatic_thoughts": "退休后关系会变差，大家会疏远我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "尝试新的爱好和活动却“没有感觉一样”",
+          "conditional_assumptions": "如果新活动不能带来与舞蹈相同的感受，就不值得继续",
+          "compensatory_strategies": "很快放弃新爱好，继续寻找下一个",
+          "automatic_thoughts": "这些都不如跳舞，继续也没意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持被舞蹈赋予的身份、价值与归属感",
+        "fear": "害怕退休后失去自我与目的，陷入孤独与无意义",
+        "defense_goal": [
+          "通过坚持以舞者身份定义自我与提前规划，降低不确定感与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "一旦离开舞台就会迷失方向的自我",
+          "object_representation": "退休后的世界/他人可能疏远、不再需要我",
+          "linking_affect": "焦虑、孤独感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人建议更多利用家庭支持、共同规划或依靠外部资源时",
+          "interpretation": "倾向将求助理解为软弱，认为应当独自承担并解决问题（移情：将外界“应该独立”的规则内化）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用‘我应该自己处理’等陈述，语气平稳但略显坚持，降低对外部支持的接受度。"
+        },
+        {
+          "trigger_condition": "当讨论未知的退休生活或被问及具体感受时",
+          "interpretation": "通过强调计划与步骤来掌控不确定，弱化直接情绪体验（移情：将不确定视为威胁）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以条理化、步骤化的方式回应，尽量少用情绪词，保持冷静客观的语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "担心没有舞蹈就失去身份与目的",
+            "在规划退休时不断担忧未来的空虚与缺乏方向"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠受影响",
+            "动力与专注下降",
+            "情绪低落"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心退休后人际关系会受损",
+            "害怕离开舞团后社交互动减少"
+          ],
+          "outcomes": [
+            "预期性孤独感",
+            "增加对未来的负性预测",
+            "加重对新活动的回避或放弃"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "表达“我觉得我应该自己处理”",
+            "以“应该独立”的标准衡量是否接受他人支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对重大生活变动（如退休）时，来访者通常会在计划与思考未来时产生强烈焦虑和对孤独与无聊的负性预测，进而影响睡眠与当前工作表现。",
+          "unique_outcome": "在年轻时为加入新舞团而搬到外地的经历中，来访者没有长期被焦虑困住，而是全身心投入工作并主动结识新同事，逐渐适应新环境并爱上那里。",
+          "reason": "线索：采取不同做法——主动投入与建立人际连接；不同情境——新环境中获得同伴支持与归属感；因此这次出现了成功适应的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有稳定而支持性的家庭（母亲也是芭蕾舞者）",
+          "曾成功适应重大变化（搬到新城市加入新舞团）",
+          "愿意寻求专业帮助并开始规划退休后的活动",
+          "具备自律与结构化习惯，愿意探索社区活动与志愿服务"
+        ],
+        "negative_force": [
+          "预测未来的负性思维（Fortune Telling）",
+          "非黑即白的认知将自我价值与舞蹈高度绑定",
+          "对人际关系断裂的担心加剧孤独预期",
+          "焦虑导致睡眠受影响、动力与专注下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对退休的预言式担忧与反复负性思考",
+          "antecedent": [
+            "想到退休后的生活（几乎每天）",
+            "开始规划退休事宜",
+            "退休日期临近"
+          ],
+          "core_reason": "害怕没有舞蹈就失去身份与目的，进而陷入无意义与孤独",
+          "function": "通过提前担忧与不断思考来试图获得控制感、回避不确定性",
+          "consequence": "睡眠模式受影响、情绪与整体心情下降、当前舞蹈表演的动力与专注降低"
+        },
+        {
+          "behavior": "睡眠受影响（难以入睡或睡眠质量下降）",
+          "antecedent": [
+            "临睡前思考退休后的生活",
+            "白天频繁担忧导致生理激活未恢复"
+          ],
+          "core_reason": "对退休的焦虑与负性预测维持高警觉状态",
+          "function": "维持警觉以应对预期威胁（回避感受不确定性）",
+          "consequence": "白天情绪低落与疲惫，影响日常生活与工作表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 454
+}

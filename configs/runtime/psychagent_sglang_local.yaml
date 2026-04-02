@@ -1,0 +1,40 @@
+max_sessions: 20
+max_counselor_turns: 45
+end_token: "</end>"
+concurrency: 4
+resume: true
+overwrite: false
+random_seed: 7
+output_language: 中文
+
+# Client simulator backend
+client_backend: openai_api
+client_model: deepseek-v3-huawei-910b
+client_base_url: https://10.140.158.153:1020/dsv3/all/v1
+client_api_key_env: API_KEY
+client_timeout_sec: 120
+client_max_retries: 16
+client_retry_sleep_sec: 1.0
+client_max_tokens: 512
+client_temperature: 0.7
+
+# PsychAgent session controls
+psychagent_max_turns: 45
+psychagent_max_retries: 16
+psychagent_retry_sleep_sec: 1.0
+psychagent_counselor_system_filename: system.jinja2
+
+# Skill retrieval assets
+psychagent_skill_base_dir: skills/sect
+psychagent_skill_select_prompt_dir: prompts/psychagent/skill/select_skill
+psychagent_skill_rewrite_prompt_dir: prompts/psychagent/skill/rewrite
+psychagent_skill_sects: all
+
+# Embedding API (required at startup; used during library-load backfill and turn retrieval)
+psychagent_embedding_base_url: https://api.siliconflow.cn/v1
+psychagent_embedding_api_key_env: PSYCHAGENT_EMBEDDING_API_KEY
+psychagent_embedding_model: BAAI/bge-m3
+psychagent_embedding_batch_size: 64
+psychagent_embedding_max_retries: 16
+psychagent_embedding_retry_sleep_sec: 0.5
+psychagent_embedding_verify_ssl: true

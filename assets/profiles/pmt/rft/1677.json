@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林晴",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "既往未接受心理治疗；无显著身体疾病；无类似问题的既往报告",
+      "language_features": "表达清晰、合作度高、能识别并描述自己的感受与思维模式；态度积极，但存在自我苛责与反刍倾向"
+    },
+    "main_problem": "在棋类活动的周末整体成功且收获颇多，但因比赛中一次把水洒在自己身上的小插曲而感到沮丧，倾向于忽视积极面、过度关注该负面事件，导致正面体验被遮蔽。",
+    "topic": "情绪管理",
+    "core_demands": "希望处理自己“否定积极、过度关注负面”的倾向，改善整体心态与对活动的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [],
+      "special_situations": [
+        {
+          "event": "在周末棋类赛事中把水洒在自己身上，且被旁人看到",
+          "conditional_assumptions": "如果我在众人面前出错或丢脸，整个活动就算失败",
+          "compensatory_strategies": "赛后不断反思并聚焦于错误，淡化或忽略积极收获，以自我监督避免未来再犯",
+          "automatic_thoughts": "这次失误毁了我整个周末；大家都在看我，太丢脸了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "活动结束后的回顾与自我反思情境",
+          "conditional_assumptions": "如果出现一个负面细节，它比所有正向结果更重要",
+          "compensatory_strategies": "用挑错的方式进行回顾，只记录和谈论负面部分",
+          "automatic_thoughts": "胜利和学习都不算数，关键是我把水洒了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "当事情未按计划进行或出现轻微不便（如比赛中的小意外）",
+          "conditional_assumptions": "如果事情没有按计划进行，就说明我表现很差",
+          "compensatory_strategies": "自我苛责并反复思考如何避免错误，减少对积极体验的注意",
+          "automatic_thoughts": "我总是把事情搞砸",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "",
+          "interpretation": "",
+          "defense_mechanism": "sring",
+          "defense_definition": "",
+          "response_instruction": ""
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对棋类活动有投入与热情，能与强手对局并取得胜局",
+          "具备学习能力与成长意愿（自述“学到了很多”）",
+          "能够觉察并表达自身情绪与思维模式（能描述自己专注于负面）",
+          "具有改变动机（主动寻求咨询）"
+        ],
+        "negative_force": [
+          "认知偏差显著：否定积极、心理过滤、灾难化",
+          "对尴尬高度敏感，倾向将小失误视为整体失败",
+          "反刍倾向明显：反复回想错误并自我苛责，降低活动享受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在经历小挫折后过度关注负面并反刍，导致情绪低落与活动享受下降",
+          "antecedent": [
+            "棋类比赛中发生小意外（把水洒在身上）",
+            "当事情未按计划进行或出现不便",
+            "事后进行回顾与自我反思时"
+          ],
+          "core_reason": "认知歪曲（心理过滤、否定积极、灾难化）触发羞耻/尴尬情绪，试图通过反刍来纠错与避免再犯",
+          "function": "通过自我监控与反刍试图获得控制感、避免未来错误；短期内回避直接面对尴尬情绪",
+          "consequence": "整体体验被负性覆盖，活动乐趣下降，心情低落，并可能影响与他人的交流"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1677
+}

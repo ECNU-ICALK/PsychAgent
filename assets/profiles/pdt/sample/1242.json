@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "张若岚",
+      "gender": "女",
+      "occupation": "会计",
+      "educational_background": "会计学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，养有3只狗",
+      "social_status": "与新朋友建立联系困难；在社交与工作场合因自我怀疑影响与同事互动；有一位可谈心的朋友，但未分享当前的不够好与自我怀疑感受",
+      "medical_history": "无类似问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "紧张但愿意求助；表达清晰、能具体回忆情境；逻辑连贯、配合度高；在社交话题上显著自我监控与自我怀疑，思维中常出现读心与个体化倾向"
+    },
+    "main_problem": "我觉得因为我的会计工作，人们认为我很无聊，这导致我感到不够好和自我怀疑。",
+    "topic": "人际关系",
+    "core_demands": "我希望更有自信，少在意别人怎么看我，能够在社交场合不再持续害怕被评判并享受其中。",
+    "growth_experiences": [
+      "几年前，同事经常拿“会计很无聊”开玩笑；该印象在张若岚心中逐渐固化，使其在社交场合与工作中持续担心被贴上“无聊”标签。压力初为中等，后随持续担忧而加重；她尝试通过培养不同爱好来证明自己不无聊，但仍感到被误解。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个无聊的人",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会或认识新朋友时被问及职业",
+          "conditional_assumptions": "如果别人知道我是会计，他们就会觉得我无聊，不会愿意与我深入交流",
+          "compensatory_strategies": "回避社交或在场时过度用力表现，以证明自己不无聊",
+          "automatic_thoughts": "他们觉得我没意思、不会想和我说话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在上周的行业社交活动中，当被问到职业",
+          "conditional_assumptions": "如果别人了解我的职业，后续互动一定会变得糟糕",
+          "compensatory_strategies": "减少发言、提前退出场合以避免被评判",
+          "automatic_thoughts": "一旦他们知道我是会计，就会疏远我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在办公室接待来访者或客户时",
+          "conditional_assumptions": "在工作场合我难以展现有趣的一面，别人因此会给我贴上“无聊”的标签，我的价值会被否定",
+          "compensatory_strategies": "自我监控言行、刻意迎合或缩短交流",
+          "automatic_thoughts": "进入我办公室的人都觉得我很无聊",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "听到同事关于“会计很无聊”的玩笑",
+          "conditional_assumptions": "别人关于职业的玩笑是在否定我个人价值",
+          "compensatory_strategies": "通过增加爱好来证明自己不无聊；对社交更加敏感",
+          "automatic_thoughts": "他们是在嘲笑我",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被喜欢，并被看见真实的自我",
+        "fear": "害怕被贴上“无聊”的标签而被拒绝或羞辱",
+        "defense_goal": [
+          "通过回避或自我监控来保持安全，避免被负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判、容易被误解的自我",
+          "object_representation": "挑剔的评判者或嘲笑者",
+          "linking_affect": "羞耻、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在社交聚会上感到格格不入并撤退",
+            "担心被评判而避免与新朋友建立联系",
+            "未向朋友分享自己的不足感，感到难以被理解"
+          ],
+          "outcomes": [
+            "社会退缩与孤立感增强",
+            "自我怀疑与自信心下降",
+            "持续的社交焦虑与耗竭"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交情境中过度关注自己是否无聊，谨慎到难以自然表达",
+            "担心他人看法而压抑真实兴趣和观点"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应",
+          "manifestations": [
+            "假设他人一定觉得自己无聊",
+            "将自我怀疑外推为他人的负面评价"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在社交场合想主动交流却压抑冲动，转而自我退缩",
+            "通过回避来缓解焦虑而非直接互动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助并清晰表达问题",
+          "工作表现未明显受影响，能维持职业功能",
+          "主动尝试通过培养不同爱好改善自我形象",
+          "拥有一位可倾诉的朋友（尽管尚未分享此特定困扰）"
+        ],
+        "negative_force": [
+          "倾向读心与个体化，过度假设他人对自己持负面评价",
+          "自我标签化，认为职业决定个人价值",
+          "社交回避与撤退，降低现实检验机会",
+          "自我怀疑与外部验证依赖，过度在意他人看法",
+          "持续担忧被贴“无聊”标签导致压力加重"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与撤退",
+          "antecedent": [
+            "社交聚会或认识新朋友时",
+            "被问及职业或谈到工作时",
+            "听到他人关于会计“无聊”的玩笑"
+          ],
+          "core_reason": "将同事玩笑内化为自我标签，并对他人评价进行读心与灾难化预测，担心被否定",
+          "function": "逃避被评判与焦虑，获得短期安全感",
+          "consequence": "与新朋友难以建立联系，孤立感增加，自信心下降"
+        },
+        {
+          "behavior": "过度自我监控与担忧他人看法",
+          "antecedent": [
+            "在工作场合接待来访者或客户时",
+            "社交活动中被要求自我介绍"
+          ],
+          "core_reason": "深层信念“我是无聊的人/我不够好”，以外部认可作为价值来源",
+          "function": "试图通过控制言行减少负面评价",
+          "consequence": "交流僵硬与疲惫，加重自我怀疑，影响与同事互动及日常自我照护与休闲"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1242
+}

@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "温雯琳",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；此前未接受心理治疗；此前未有类似问题",
+      "language_features": "表达清晰、逻辑性良好、态度中性，愿意配合记录与练习；能具体描述困扰与影响"
+    },
+    "main_problem": "我不断认为我的披萨订单会出错，这导致挫败与失望感，并影响情绪与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "我希望这能帮助我减少持续的担忧。",
+    "growth_experiences": [
+      "17岁开始性别转换，经历了较大的压力与社会评判。来访者认为这一时期的压力与被评判体验可能助长了其对外界不可靠、事情会出错的预期，这种模式此后在点披萨的具体场景中长期延续（几乎每次点餐都会预期出错）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "坏结果更可能发生",
+        "他人或服务系统不可靠，需要时刻保持警惕"
+      ],
+      "special_situations": [
+        {
+          "event": "在披萨下单前（通过App或电话准备下单）",
+          "conditional_assumptions": "如果我不反复确认并提供非常具体的说明，订单就一定会出错",
+          "compensatory_strategies": "反复核对订单、提供非常具体的下单指示",
+          "automatic_thoughts": "他们大概会弄错我的订单。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "下单后等待送达期间",
+          "conditional_assumptions": "如果我不提前预测最坏情况，到时真的出错会更难以承受",
+          "compensatory_strategies": "在脑中不断演练负面结果，保持高度警惕",
+          "automatic_thoughts": "这次八成会出错，等着看哪里会出问题。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到披萨并核对发现实际正确",
+          "conditional_assumptions": "一次正确并不能说明问题，下一次很可能还是会出错",
+          "compensatory_strategies": "淡化正面结果，把注意力放在下一次可能的错误上以保持警觉",
+          "automatic_thoughts": "这次是对的，但下次一定会错。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "偶尔出现一次订单有误",
+          "conditional_assumptions": "只要有一次出错，就证明点披萨要么完美要么失败",
+          "compensatory_strategies": "把这次错误当作稳定证据，进一步减少信任、加强事前控制与核对",
+          "automatic_thoughts": "果然，他们就是会把事情搞砸；点披萨要么完全正确要么就是失败。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被如实理解与尊重（被正确对待、身份被接纳）",
+        "fear": "害怕被评判、被忽视或被弄错（再次经历身份/需求被否定）",
+        "defense_goal": [
+          "通过提前预期错误与严密控制来降低失望与被否定的风险",
+          "保持警惕以确保安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被忽视、需要保持高度警惕的服务接受者",
+          "object_representation": "可能粗心、不可靠、容易犯错的他人/系统",
+          "linking_affect": "焦虑、挫败、失望"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽然有支持性的朋友，但因觉得这个问题“太奇怪”、担心被认为反应过度而不愿分享",
+            "在社会评判的经历后，更倾向于将担忧内化为对错误的持续预期"
+          ],
+          "outcomes": [
+            "持续的担忧与焦虑",
+            "情绪低落与日常幸福感下降",
+            "对他人易感到烦躁"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心被朋友认为自己反应过度而不愿分享具体困扰",
+            "在社交支持可得的情况下仍选择隐瞒、独自消化"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在点披萨时，来访者通常会预期订单一定会出错，导致强烈担忧与心情受影响。",
+          "unique_outcome": "在最近一次点餐中，订单实际上是正确的，来访者在当下体验到了一些“松一口气”的缓解（尽管随后仍被对下一次的担忧所覆盖）。",
+          "reason": "不同情境：该次实际结果正确；不同做法：来访者进行了双重确认并提供了具体说明。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的朋友网络（尽管尚未寻求此话题的支持）",
+          "能觉察到“大多数时候订单是正确的”的事实证据",
+          "愿意尝试现实检验、记录预测与结果等认知行为策略"
+        ],
+        "negative_force": [
+          "预测未来、过度概括、非黑即白思维等认知偏差维持担忧",
+          "对外部系统/他人不可靠的稳定信念",
+          "因担心他人评价而减少求助与分享，削弱社会支持的使用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在点披萨情境中反复预期订单会出错并持续担忧（伴随挫败与失望）",
+          "antecedent": [
+            "准备下单前",
+            "下单后等待送达期间",
+            "收到正确订单后仍联想到“下一次可能出错”",
+            "偶尔遇到一次出错时"
+          ],
+          "core_reason": "在性别转换时期承受压力与社会评判，形成对他人/系统不可靠与坏结果更可能发生的信念，使其在服务场景中产生稳定的负性预测。",
+          "function": "通过提前预期与心理准备来获得一定的控制感与安全感，试图降低潜在失望的冲击。",
+          "consequence": "情绪受影响、日常幸福感下降，并在与他人互动中更易烦躁。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1881
+}

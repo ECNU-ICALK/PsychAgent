@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "杨茉莉",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "恋爱中",
+      "family_status": "父母均为军人",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；此前未接受过心理治疗或咨询",
+      "language_features": "表达清晰、逻辑性良好，能描述具体情境与感受；情绪焦虑与担忧明显，语气谨慎，配合度较高。"
+    },
+    "main_problem": "自童年起对蜘蛛存在恐惧，近期加重，导致回避可能出现蜘蛛的场所，激发显著焦虑与压力并影响日常生活；同时担心他人会因此认为自己懦弱。",
+    "topic": "情绪管理",
+    "core_demands": "希望减轻/克服对蜘蛛的恐惧，缓解焦虑对日常生活的影响；检验并修正“别人会把我视为懦弱”的想法。",
+    "growth_experiences": [
+      "童年时曾发生蜘蛛爬到身上的事件，自此开始出现对蜘蛛的恐惧；长期通过回避可能出现蜘蛛的情境来应对，未曾接受过相关心理治疗。",
+      "原生家庭情况：父母均为军人。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是懦弱的",
+        "如果暴露恐惧，就会被他人看不起"
+      ],
+      "special_situations": [
+        {
+          "event": "看到或想到蜘蛛",
+          "conditional_assumptions": "如果在别人面前表现出恐惧，就会被认为懦弱、可悲",
+          "compensatory_strategies": "回避可能出现蜘蛛的场所（如地下室、夏季的公园）",
+          "automatic_thoughts": "大家会看到我害怕，觉得我很可悲/很懦弱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "身处曾见过蜘蛛的地下室",
+          "conditional_assumptions": "只要靠近有蜘蛛的地方，蜘蛛很可能会爬到我身上，后果会很糟",
+          "compensatory_strategies": "不去地下室，或仅在有人陪伴与安全提示下勉强靠近",
+          "automatic_thoughts": "又会像小时候那样有蜘蛛爬到我身上，我会撑不住",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "考虑是否向女友透露自己的恐惧",
+          "conditional_assumptions": "如果让亲密关系中的对方知道我的恐惧，她会看轻我或觉得我奇怪",
+          "compensatory_strategies": "对伴侣隐瞒，不主动寻求支持",
+          "automatic_thoughts": "她可能会觉得我很弱、不理解我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "一次回避后进行自我反思",
+          "conditional_assumptions": "如果我现在都做不到面对恐惧，将来就永远也做不到",
+          "compensatory_strategies": "继续回避以减少当下焦虑",
+          "automatic_thoughts": "我也许永远克服不了这个恐惧",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳、在他人面前仍能保持安全与体面",
+        "fear": "害怕被看轻、被评判为懦弱，从而被拒绝或失去价值",
+        "defense_goal": [
+          "通过回避触发情境来降低焦虑与外界评价风险",
+          "通过隐瞒脆弱与情绪来维持自我体面与人际安全",
+          "用理性化自我安慰以与强烈情绪保持距离"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要隐藏脆弱、容易被看不起的一方",
+          "object_representation": "可能会批评或轻视自己的他人（包括亲密伴侣）",
+          "linking_affect": "羞耻、焦虑、担心被评判"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论是否向女友透露对蜘蛛的恐惧时",
+          "interpretation": "将潜在的理解和支持想象为批评与轻视，认为暴露脆弱会被贬低",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "回避谈及脆弱细节，语气谨慎而简短，将话题转向日常或客观信息，降低情绪张力。"
+        },
+        {
+          "trigger_condition": "当咨询师提出进行分级暴露/行为实验时",
+          "interpretation": "将建议理解为可能导致失控和失败的压力测试，担心自己承受不住",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以分析和假设性语言回应（如“理论上”“也许”），强调步骤与条件，压低情绪表达并频繁提出顾虑以延后行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "恐惧限制外出与空间选择，如回避地下室、夏季公园",
+            "因预期威胁而收缩生活边界"
+          ],
+          "outcomes": [
+            "生活受限与控制感下降",
+            "慢性焦虑与回避维持循环"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对亲密伴侣隐瞒重要的脆弱经验",
+            "倾向独自承受，不寻求支持，担心被评判"
+          ],
+          "outcomes": [
+            "情感隔离、缺乏外界支持",
+            "自我羞耻与压力累积"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中反复担心“别人会觉得我懦弱/可悲”",
+            "表达前频繁自我怀疑与收回，语气谨慎"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "长期不向女友透露恐惧，选择独自承受焦虑",
+            "在需要支持时转而自我压抑与自我安慰"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假定他人会看轻自己，对他人反应进行负向揣测（如“她可能会觉得我很弱”）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有明确求助动机，主动寻求咨询",
+          "愿意尝试分级暴露与行为实验并可提出可行的支持策略（有人陪同、自我提醒安全）",
+          "对自身回避—焦虑循环有一定觉察",
+          "拥有潜在的亲密关系支持资源（有女友）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维倾向，加重预期性焦虑",
+          "对他人评价的过度关注与读心术倾向",
+          "长期回避导致恐惧维持与泛化",
+          "羞耻与自我贬低，降低求助与暴露的意愿"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对蜘蛛的强烈恐惧与回避",
+          "antecedent": [
+            "看到或接近蜘蛛",
+            "仅仅想到蜘蛛",
+            "进入曾出现蜘蛛的环境（如地下室、夏季的公园）"
+          ],
+          "core_reason": "童年被蜘蛛爬到身上的经历造成条件化恐惧，并伴随对蜘蛛危害与社交评价的灾难化解释。",
+          "function": "逃避焦虑与被评价的风险，获得当下的安全感与情绪缓解",
+          "consequence": "回避多种场所与活动，注意力受扰，日常生活受限；与伴侣沟通受阻、支持系统未被利用，焦虑长期维持。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 882
+}

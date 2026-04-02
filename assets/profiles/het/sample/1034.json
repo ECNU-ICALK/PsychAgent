@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陆凯",
+      "gender": "男",
+      "occupation": "视频游戏设计师",
+      "educational_background": "游戏设计学位",
+      "marital_status": "已婚",
+      "family_status": "妻子最近被裁员；有一个儿子在当地橄榄球队",
+      "social_status": "有少数密友，但未与其分享当前冲突；其余社交情况未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；无类似问题既往史",
+      "language_features": "表达清晰、逻辑较连贯，配合度良好；语气中性但显著焦虑；思维中常出现“跳到结论”（读心术、预测未来）与灾难化倾向"
+    },
+    "main_problem": "由于妻子最近被裁员，我在是否追求创办游戏行业初创公司的梦想上感到矛盾，担心在财务不确定时期这样做会让妻子怨恨我；该问题已影响工作专注、睡眠与夫妻沟通，导致我在是否启动公司上陷入“决策瘫痪”。",
+    "topic": "婚姻关系",
+    "core_demands": "寻求咨询以帮助我在职业抱负与家庭财务之间导航这个困难阶段；我只想不那么被困住，对未来更有希望。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "追求个人梦想会伤害家庭关系",
+        "财务不确定意味着失败与危险"
+      ],
+      "special_situations": [
+        {
+          "event": "妻子被裁员后，家庭财务处于不确定状态",
+          "conditional_assumptions": "在财务不确定时期创业是不负责任的，会导致伴侣怨恨我",
+          "compensatory_strategies": "搁置或避免关于创业的决定与行动，以维持表面的稳定",
+          "automatic_thoughts": "她会恨我；我们会被财务问题拖垮",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与妻子讨论创业时，她表达对风险的担忧",
+          "conditional_assumptions": "伴侣表达担忧就等同于不支持我、会责怪我",
+          "compensatory_strategies": "采取防御姿态争辩或终止对话，减少深入沟通",
+          "automatic_thoughts": "她在责备我、不支持我的梦想",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "想到经济状况不佳及妻子失业的现实",
+          "conditional_assumptions": "经济不好就必然会导致创业失败与严重财务后果",
+          "compensatory_strategies": "过度关注最坏情境、持续担忧并回避具体规划",
+          "automatic_thoughts": "一切都会出错，我们会陷入糟糕的财务境地",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在工作中反复思考职业未来与家庭财务",
+          "conditional_assumptions": "如果现在不能完全确保安全稳定，就绝对不应该迈出任何一步",
+          "compensatory_strategies": "以“必须稳定后才能行动”为原则，选择不行动来避免风险",
+          "automatic_thoughts": "现在绝对不能创业",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在伴侣支持下追求创业梦想，获得自主与成就",
+        "fear": "害怕因自己的选择引发财务危机并被妻子怨恨，从而损害关系",
+        "defense_goal": [
+          "尽量维持稳定、避免做出创业决策以减少冲突",
+          "通过强调外在风险来压抑内在欲望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被指责的冒险者、可能给家庭带来风险的人",
+          "object_representation": "担忧风险的批评者、对梦想不支持的伴侣",
+          "linking_affect": "焦虑、内疚、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与妻子或咨询师讨论创业的风险与可行性，或对方提出质疑、强调风险时",
+          "interpretation": "将对方的担忧理解为对自己梦想的否定与责备（移情：将对被评判与被怨恨的恐惧投射到他人）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用冷静但防御性的语气，强调经济数据与风险，提出多个“现在不是时候”的理由，回避探讨被妻子怨恨的情绪体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "追求创业自由与承担家庭责任之间的矛盾",
+            "害怕选择带来关系破裂与财务失控",
+            "在不确定性中对自主选择犹疑不决"
+          ],
+          "outcomes": [
+            "焦虑与决策瘫痪",
+            "睡眠与饮食紊乱",
+            "夫妻关系紧张、沟通受阻"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将内在的被怨恨恐惧归因为“妻子会恨我”",
+            "把伴侣的担忧理解为不支持或责备",
+            "在咨询中以他人可能的负面反应来决定自我选择"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度谨慎、强调必须稳定后才能行动",
+            "频繁自我限制导致不行动（决策瘫痪）",
+            "过度关注风险与最坏情境，削弱对资源与可能性的接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备游戏行业经验与人脉（了解行业、朋友可能有投资意向）",
+          "有一定储蓄作为缓冲",
+          "愿意采取小步试探（拟写商业计划并征求反馈）",
+          "有少数密友可作为潜在支持"
+        ],
+        "negative_force": [
+          "倾向于跳到结论（读心术与预测未来）、灾难化与过度概括",
+          "对冲突的恐惧导致决策瘫痪",
+          "与妻子沟通时防御性强、争吵增加",
+          "财务不确定与伴侣失业带来的外部压力",
+          "睡眠受扰与专注力下降影响判断与工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "决策瘫痪（难以就创业做出决定）",
+          "antecedent": [
+            "妻子失业与家庭财务不确定",
+            "思考职业未来与创业风险",
+            "与妻子讨论该话题时出现争执"
+          ],
+          "core_reason": "害怕被妻子怨恨及财务失败；认知歪曲（灾难化、读心术、预测未来）维持焦虑",
+          "function": "逃避潜在风险与关系冲突，维持短期的安全感",
+          "consequence": "职业停滞、焦虑加重、夫妻关系持续紧张"
+        },
+        {
+          "behavior": "防御性争吵与沟通破裂",
+          "antecedent": [
+            "当妻子表达担忧或强调风险",
+            "谈及创业话题"
+          ],
+          "core_reason": "将伴侣的担忧解读为不支持与责备（跳到结论、个人化），自我价值受威胁",
+          "function": "保护自我梦想与自尊、转移内在焦虑",
+          "consequence": "关系紧张、相互支持减少、问题进一步恶化"
+        },
+        {
+          "behavior": "睡眠与饮食紊乱",
+          "antecedent": [
+            "持续担忧未来与财务",
+            "夜间反复思考最坏情境"
+          ],
+          "core_reason": "高度焦虑与反刍导致生理觉醒与作息失调",
+          "function": "无效的情绪应对，通过保持警觉获取虚假的控制感",
+          "consequence": "体能下降与专注力受损，工作表现进一步下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1034
+}

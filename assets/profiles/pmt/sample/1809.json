@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "唐薇",
+      "gender": "女性",
+      "occupation": "音乐商店店主",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母均为教堂合唱队成员",
+      "social_status": "与家人和朋友的关系因对店铺可能失败的担忧而紧张",
+      "medical_history": "无重大躯体疾病；未有类似心理问题；既往未接受心理治疗或咨询",
+      "language_features": "表达清晰、思路较为逻辑，能配合进行认知重构；态度积极，愿意尝试现实检验与重构练习"
+    },
+    "main_problem": "我持续担心我的音乐商店会失败，导致财务破产且无法从损失中恢复。这种对失败的预感在业务遇到挑战后加重，几乎每天反复出现并影响日常专注。",
+    "topic": "职业发展",
+    "core_demands": "因对店铺失败的恐惧显著影响心理健康与决策过程，寻求咨询以减轻焦虑并改善决策。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法从失败中恢复",
+        "任何经营挫折都意味着最终的毁灭"
+      ],
+      "special_situations": [
+        {
+          "event": "上周销售低于平常",
+          "conditional_assumptions": "如果销售下降，就意味着店铺注定失败，我会陷入财务毁灭且无法弥补损失",
+          "compensatory_strategies": "立刻进入紧急状态，拼命寻找“拯救”办法（如寻求财务建议、调整产品组合），并尽量不与亲友讨论以避免“增加负担”",
+          "automatic_thoughts": "这就是终结了，店铺就要倒闭，我永远无法弥补损失",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "出现意外的额外支出",
+          "conditional_assumptions": "只要出现不可控的费用，就证明经营已经走向不可逆的失败",
+          "compensatory_strategies": "迅速采取临时性应对（削减成本、加大促销）以试图“阻止失败”",
+          "automatic_thoughts": "这些支出说明我们撑不下去了，很快就会破产",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与供应商出现问题（供货不稳定）",
+          "conditional_assumptions": "供应链一出问题，就会连锁反应导致店铺不可避免地失败",
+          "compensatory_strategies": "过度监控与急迫谈判，试图通过短期补救来避免“灾难”",
+          "automatic_thoughts": "供应问题意味着彻底失败不可避免",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "连日销量低迷的时期",
+          "conditional_assumptions": "只要出现持续的低销量，就必然形成失败的趋势，最终无法恢复",
+          "compensatory_strategies": "把注意力全部投入到“救火”方案上，忽略正面或缓冲的证据",
+          "automatic_thoughts": "这已经是必然的趋势，店铺终将失败，我也无法恢复",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定、可控与安全的经营状态，避免损失与不确定",
+        "fear": "害怕失败导致财务毁灭，并且自己无法从中恢复",
+        "defense_goal": [
+          "通过高度警戒与提前应对来降低失败的可能性",
+          "尽量不向亲友表达担忧以避免负担他人"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不堪重负、随时可能被失败吞没的经营者",
+          "object_representation": "父母与朋友是可能被我“拖累”的人，或不太能理解我的担忧",
+          "linking_affect": "焦虑、紧张、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中被询问“失败的证据与反证据”时，或谈及低销量/额外支出等坏消息",
+          "interpretation": "将负面迹象理解为必然走向失败的“确凿证据”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "坚持以“低销售/过去困难”为依据进行论证，语气焦虑但笃定，忽略或弱化正面数据与反例。"
+        },
+        {
+          "trigger_condition": "谈及与父母或朋友沟通自己的恐惧与担忧时",
+          "interpretation": "他们会被我不断的担忧所负担，因此不应多谈",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回答并回避深入情感描述，用“我不想再麻烦他们”作结，减少自我暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得难以与父母和朋友讨论对店铺失败的恐惧",
+            "人际关系因持续担忧而紧张",
+            "在恐惧中感到瘫痪、难以专注"
+          ],
+          "outcomes": [
+            "显著的焦虑与恐惧",
+            "睡眠与饮食紊乱",
+            "注意力与决策受损",
+            "人际疏离与关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "避免与家人朋友讨论店铺失败的恐惧",
+            "把压力与担忧留在自己内部独自承受",
+            "用“我不该一直麻烦他们”来阻止寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在销售低迷或出现额外开销时，来访者通常会陷入灾难化思维与恐慌，并难以专注日常任务与做出平衡决策。",
+          "unique_outcome": "曾有几次在销售下滑后，店铺随后的一个月出现“反弹的好月份”，并未如预期那样失败。",
+          "reason": "线索：采取了寻求财务建议、产品多样化等策略；业务具有波动性，因此在低迷之后也可能出现回升。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "父母与朋友总体支持",
+          "主动寻求专业帮助，态度积极",
+          "已采取现实的经营策略（寻求财务建议、产品多样化）",
+          "愿意练习认知重构与现实检验",
+          "过去存在销售反弹的经验与证据"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知倾向",
+          "对失败与财务毁灭的高度恐惧与持续担忧",
+          "与亲友沟通困难，社会支持难以被有效利用",
+          "睡眠与饮食紊乱",
+          "注意力与决策受影响，职业功能下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在负面经营信号出现时的灾难化与预言式思维伴随强烈焦虑与恐慌，导致难以专注与决策",
+          "antecedent": [
+            "销售低迷",
+            "出现意外费用",
+            "供应商问题与供货不稳定"
+          ],
+          "core_reason": "对失败与财务毁灭的灾难化认知（将短期波动等同于不可逆失败）",
+          "function": "试图通过放大风险来获得控制感并促使自己立即采取“拯救”行动，从而逃避不确定性",
+          "consequence": "睡眠与饮食被扰乱、注意力与决策质量下降、人际关系紧张、职业功能受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1809
+}

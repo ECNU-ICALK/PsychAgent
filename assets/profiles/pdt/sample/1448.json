@@ -1,0 +1,183 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "张衡",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "被收养；有六个兄弟姐妹；养父在惠普工作",
+      "social_status": "有少数亲密朋友，但不愿讨论收养相关感受；恐惧影响人际关系，常感到孤立",
+      "medical_history": "无显著躯体疾病；既往未接受心理问题的治疗或咨询",
+      "language_features": "态度中性；自述焦虑与不确定；能清晰表达并配合讨论；语速未提及"
+    },
+    "main_problem": "我对未来感到恐惧，并且由于婴儿时期被收养，我常常觉得没有人真正想要我在身边。这种不被需要的感受始于童年早期，并在近几年随着人生里程碑的临近而加剧，尤其在社交情境或思考未来时频繁出现。",
+    "topic": "情绪管理",
+    "core_demands": "这些感受强度逐渐增加并影响日常生活，因此寻求咨询以获得支持与指导。",
+    "growth_experiences": [
+      "婴儿时期被收养，童年早期开始形成“不被需要”的感受；对生物学家庭缺乏了解，使得这种不被需要的自我感持续存在并成为长期压力来源。成长于一个有六个兄弟姐妹的家庭，养父在惠普工作；尽管拥有一定的社会支持（有几位亲密朋友），但关于收养的核心情绪长期不被表达与理解，在社交与未来议题上易被触发并强化焦虑与孤独。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被需要",
+        "我不属于这里"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合（例如结识新群体）",
+          "conditional_assumptions": "如果与他人接触并暴露真实的自己，最终他们不会想要我在身边。",
+          "compensatory_strategies": "回避社交、保持忙碌以分散注意力，减少被拒绝的可能。",
+          "automatic_thoughts": "他们不会喜欢我，没人真正想让我在场。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "思考未来以及临近重大人生里程碑时",
+          "conditional_assumptions": "如果走向未来并做决定，我大概率会失败并最终孤独。",
+          "compensatory_strategies": "过度担忧、谨慎回避决策以避免最坏结果。",
+          "automatic_thoughts": "无论我做什么都会出错，我会失败。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与朋友互动时想到是否分享收养相关感受",
+          "conditional_assumptions": "如果表达脆弱与真实感受，会被视为不值得或被拒绝。",
+          "compensatory_strategies": "保持表面交流，回避谈及收养相关情绪。",
+          "automatic_thoughts": "他们不想听我的真实感受。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交互动中出现对方冷淡或未及时回应",
+          "conditional_assumptions": "如果他人没有积极回应，那是因为我有问题（我被收养、不被需要）。",
+          "compensatory_strategies": "自责并退出互动以避免进一步“证实”被拒绝。",
+          "automatic_thoughts": "我又让人失望了，都是我的错。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被无条件接纳与被爱，感到属于并被需要",
+        "fear": "害怕被拒绝、被遗弃，最终走向孤独",
+        "defense_goal": [
+          "通过回避社交、压抑脆弱表达与让自己保持忙碌来降低被拒绝的风险与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被需要的外人/被遗弃者",
+          "object_representation": "可能拒绝或不愿接纳自己的他人/冷漠的评判者",
+          "linking_affect": "焦虑、孤独、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面临社交邀请或需要与新群体接触时",
+          "interpretation": "他人最终会不想要我在身边，我会被拒绝（将对方的可能反应视为确定的负面）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静、审慎的语气说明“只是更谨慎/不想麻烦别人”，强调现实理由来解释回避，与咨询师保持表面合作但不触及更深的被拒绝恐惧。"
+        },
+        {
+          "trigger_condition": "当想到是否向亲密朋友表达收养相关的真实感受时",
+          "interpretation": "表达脆弱会导致被看轻或被拒绝，因此最好不要说",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回答并转向一般性话题，语气克制，减少情绪词汇，避免描述具体的伤心或害怕内容。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "被收养的背景触发“无人想要我”的核心感受",
+            "在社交场合回避并难以表达真实情绪",
+            "害怕未来走向孤独、只看见最坏情形"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "人际疏离与孤立感增加",
+            "决策与日常计划受到干扰"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在社交场合预设他人不想要自己（读心术）",
+            "将他人的冷淡或未回应归因于自身被收养的身份或价值缺陷"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在与朋友互动时回避谈及收养相关情绪",
+            "通过保持忙碌来躲避“被不需要”的念头与感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要结识陌生人或加入新群体的社交情境中，来访者通常会强烈焦虑、预期最坏结果，并倾向于回避或保持距离。",
+          "unique_outcome": "上周在与一群新朋友见面的情境中，来访者没有像往常那样回避，实际参与互动，结果体验愉快并结识了一位新朋友。",
+          "reason": "线索：采取了不同做法（实际参与并与他人互动），并获得了正向反馈（互动愉快、结识新朋友），因此这次没有出现预期的负面结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有几位可谈一般问题的亲密朋友",
+          "在焦虑下仍有能力参与新社交并形成新关系（上周结识新朋友）",
+          "主动寻求咨询支持，愿意尝试识别并记录负性思维"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的最坏结果",
+          "读心术与个人化的认知倾向",
+          "回避社交与压抑脆弱表达导致孤立",
+          "对未来的恐惧干扰日常决策与计划"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交场合与保持距离",
+          "antecedent": [
+            "需要结识新群体或参与社交活动时",
+            "担心被拒绝或“不被需要”的念头出现时"
+          ],
+          "core_reason": "被收养背景相关的“我不被需要”的核心信念，伴随读心术与个人化，将他人反应解读为拒绝。",
+          "function": "逃避潜在的拒绝以降低即时焦虑",
+          "consequence": "人际关系受损、孤独感增强，进一步强化不被需要的自我认知"
+        },
+        {
+          "behavior": "对未来的过度担忧与灾难化想象（强烈焦虑）",
+          "antecedent": [
+            "思考未来或临近重大人生里程碑时"
+          ],
+          "core_reason": "预测最坏结果的认知偏差与低自我价值感驱动的失败预期。",
+          "function": "通过过度担忧来试图获得控制感或避免失败",
+          "consequence": "决策与日常计划受阻，焦虑持续并影响生活节奏"
+        },
+        {
+          "behavior": "通过保持忙碌来回避负性思维与情绪",
+          "antecedent": [
+            "出现“不被需要”的念头或社交相关焦虑时"
+          ],
+          "core_reason": "试图通过行为性分散来减少痛苦情绪的体验（回避面对核心信念）。",
+          "function": "短期降低不适与焦虑强度",
+          "consequence": "问题未被处理，长期压力与孤独维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1448
+}

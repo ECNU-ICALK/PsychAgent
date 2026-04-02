@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "50",
+      "name": "陈志峰",
+      "gender": "男",
+      "occupation": "休斯敦一家受欢迎俱乐部的服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "订婚",
+      "family_status": "与男友订婚；姐妹已去世；其他家庭细节未提及",
+      "social_status": "有一群支持性的朋友，但对向朋友谈及自身的关系不安全感感到不适；与男友的关系因不安全感而紧张",
+      "medical_history": "未接受过心理治疗或心理问题相关的治疗；未有重要躯体疾病史；既往未出现类似的关系问题",
+      "language_features": "表达清晰，有自我觉察；语气偏焦虑与不确定；倾向使用灾难化、读心术、过度概括与心理过滤等认知模式；沟通时易指责对方但愿意尝试“我”陈述；配合度尚可"
+    },
+    "main_problem": "我一直对与男友的关系以及我们搬到澳大利亚并结婚的计划感到焦虑和不安全。",
+    "topic": "婚姻关系",
+    "core_demands": "由于在与男友的关系中不断加剧的焦虑与不安全感，我希望通过咨询来处理这些感受。",
+    "growth_experiences": [
+      "姐妹去世（具体时间与原因未提及）；该事件可能影响了其对亲密关系稳定性的敏感度，但报告未详细说明关联。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会被抛弃"
+      ],
+      "special_situations": [
+        {
+          "event": "男友尚未开始计划去澳大利亚结婚的行程",
+          "conditional_assumptions": "如果他没有立刻开始计划，就说明他不认真，甚至在考虑离开我",
+          "compensatory_strategies": "不断担心并指责他“不在乎”，以试图推动其行动来获得保证",
+          "automatic_thoughts": "他可能在考虑甩掉我",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "男友忙于工作、且不提及我们的未来计划",
+          "conditional_assumptions": "如果他不谈未来，就意味着他在疏远我、我不是他的优先级",
+          "compensatory_strategies": "反复揣测他的想法而非看证据；回避与朋友讨论不安全感",
+          "automatic_thoughts": "他不再优先考虑我和我们的计划",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在一些对话中，男友谈论未来并对澳大利亚显得兴奋",
+          "conditional_assumptions": "即便他表达积极，也不能说明他会真正承诺或持续行动",
+          "compensatory_strategies": "否定正面信息，持续用消极证据支持担忧",
+          "automatic_thoughts": "他只是说说而已，最终还是会离开我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到要向男友直接表达自己的担忧与需求",
+          "conditional_assumptions": "如果我表达不安，他会觉得我太黏人、太需要，从而厌烦我并离开",
+          "compensatory_strategies": "避免脆弱表达，或以指责式沟通代替需求陈述",
+          "automatic_thoughts": "我一说就会把他推走",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定的依恋与被明确选择、被承诺的亲密关系",
+        "fear": "害怕被抛弃与被拒绝，担心亲密带来失去与伤害",
+        "defense_goal": [
+          "通过保持高度警觉与寻求保证来降低被抛弃的风险；通过指责与推动行动来获得承诺感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不安的、随时可能被抛弃的伴侣",
+          "object_representation": "疏远、可能不投入并会离开的伴侣",
+          "linking_affect": "焦虑、恐惧、不安全感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检视证据、探索替代解释或建议以“我”陈述表达需求时",
+          "interpretation": "将不确定性理解为对方隐含要离开或不在乎自己（对他人意图的负性揣测）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气防御、强调对方的“真实意图”，使用绝对化用语（如“他就是不在乎”），弱化或忽略相反证据；避免过多情感暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对被抛弃的持续担忧；当伴侣显得疏远或不提未来计划时感到强烈不安；不愿向朋友谈及脆弱与不安全感，导致自我孤立"
+          ],
+          "outcomes": [
+            "关系紧张与争吵增多",
+            "睡眠受影响与整体健康感下降",
+            "工作表现轻度受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将自己的被抛弃恐惧归因于男友的隐含动机（“他在考虑离开我”）",
+            "在不确定情境中预设对方负面意图"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心表达需求会显得“太黏人/太需要”，从而被拒绝",
+            "过度审视自我表达的影响，导致沟通迟疑"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原欲对外发出的能量或转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友谈及关系不安全感，将外求支持的能量转为自我消耗",
+            "在需要安慰与支持时选择隐忍"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当男友未主动计划或不提及未来时，来访者通常会灾难化推断其将离开并陷入强烈焦虑，导致关系冲突",
+          "unique_outcome": "在一些对话中，男友会谈论你们的未来并对去澳大利亚显得兴奋，这些时刻与平时的担忧相反，显示其投入与承诺的迹象",
+          "reason": "线索：当男友有时间并参与讨论、沟通更顺畅时，能够提供承诺与投入的信号，从而弱化来访者的灾难化推断"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求咨询并尝试现实检验与“我”陈述等新沟通方式",
+          "男友有时会谈论共同未来并表现兴奋，提供积极线索",
+          "有支持性的朋友群（虽暂未充分利用）",
+          "具备一定自我觉察，能识别自身的最坏情境思维"
+        ],
+        "negative_force": [
+          "灾难化、读心术、心理过滤与过度概括等认知歪曲显著",
+          "强烈的被抛弃恐惧与对外部验证的依赖",
+          "指责式沟通与情绪化表达导致冲突加剧",
+          "对脆弱表达与求助的回避（不与朋友谈及不安）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在伴侣关系情境中的灾难化思维与指责式沟通",
+          "antecedent": [
+            "男友忙于工作、不提及未来计划",
+            "男友显得疏远或没有立即开始计划去澳大利亚结婚",
+            "谈及关系未来的对话前后"
+          ],
+          "core_reason": "被抛弃恐惧驱动下的负性核心信念与认知歪曲（灾难化、读心术、心理过滤）",
+          "function": "快速获得保证与控制感，缓解不确定性与焦虑；将压力外化为促行动的指责",
+          "consequence": "争吵与关系紧张加剧，焦虑维持并恶化，睡眠受影响，工作表现轻度受损"
+        },
+        {
+          "behavior": "社交回避（不向朋友谈及关系不安全感）",
+          "antecedent": [
+            "想到要与朋友谈及自身的关系不安或求助时",
+            "面对脆弱表达的情境"
+          ],
+          "core_reason": "担心被评判与显得“太需要”，回摄倾向与羞耻感",
+          "function": "逃避被评价与脆弱暴露，短期降低焦虑",
+          "consequence": "支持系统未被有效利用，孤立感增加，焦虑维持或加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1840
+}

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "方菲",
+      "gender": "女",
+      "occupation": "美国公民",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一个踢足球的儿子；因其表现相关的负面想法，与儿子关系紧张、争吵增多",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；无以往心理治疗；此前未出现类似问题",
+      "language_features": "自述焦虑、思维奔逸；表达清晰、合作态度良好；能识别并讨论自身负面思维；在提及积极片段后迅速回到负面内容"
+    },
+    "main_problem": "我因儿子的足球表现感到焦虑和心烦。赛季开始球队连败后，我只关注他的负面表现并与其他队员比较，每次比赛或训练都会出现这些负面想法，导致情绪持续困扰。",
+    "topic": "家庭关系",
+    "core_demands": "我寻求咨询，因为我意识到关于儿子足球表现的负面想法正在影响我的日常生活并造成显著痛苦。我希望能够更平衡地看待他的能力，从而减轻焦虑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "他永远不会变好",
+        "他不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "赛季初儿子的球队开始连输",
+          "conditional_assumptions": "如果球队持续输球，就说明我儿子不够好，未来也不会变好",
+          "compensatory_strategies": "尝试鼓励儿子并刻意关注积极面，但内心持续担忧与比较",
+          "automatic_thoughts": "他永远不会变好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "某场比赛中儿子错失关键进球",
+          "conditional_assumptions": "如果关键时刻出现失误，就证明他不够好并让团队失望",
+          "compensatory_strategies": "更频繁地将他与其他队员比较，同时口头上尝试鼓励他",
+          "automatic_thoughts": "他让球队失望了，其他队员都比他强",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "将儿子的表现与队友进行对比",
+          "conditional_assumptions": "如果不如他人，就等于失败、说明不够好",
+          "compensatory_strategies": "不断比较他与其他球员的差距",
+          "automatic_thoughts": "他不如别人",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "儿子在某场比赛助攻得分，但球队最终输球",
+          "conditional_assumptions": "只有胜利才算好，积极表现在失败面前都不重要",
+          "compensatory_strategies": "忽视或贬低积极时刻，继续聚焦于失利",
+          "automatic_thoughts": "这些积极表现不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望儿子在足球上表现出色、与儿子保持和谐亲密的关系，并且自己成为支持性的好母亲",
+        "fear": "害怕儿子持续失败、害怕自己的担忧与不当反应伤害他的信心并使关系恶化",
+        "defense_goal": [
+          "通过紧盯负面并比较来获得掌控感、减轻不确定性带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑且苛责的母亲，担心不够支持",
+          "object_representation": "需要改进、容易让人失望的儿子",
+          "linking_affect": "焦虑、挫败、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询中被邀请关注积极面、尝试更平衡的视角时",
+          "interpretation": "认为过多关注积极等于否认现实（球队一直在输），放松警惕会让情况更糟",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调输球与失误的“事实”，使用审慎而坚定的语气，持续指出问题，并弱化积极证据。"
+        },
+        {
+          "trigger_condition": "当想到儿子在比赛中的关键失误或球队失利时",
+          "interpretation": "将复杂的团队表现简化为儿子的个人失败，以避免接触自身的无力与不确定",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化语言如“永远不会”“不够好”，忽略中间地带与积极证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友但未向其倾诉对儿子表现的担忧",
+            "把担忧藏在心里，难以与儿子开放沟通",
+            "关系紧张、争吵增多"
+          ],
+          "outcomes": [
+            "焦虑与心烦加重",
+            "主观负担感与孤立感增强",
+            "难以享受其他活动"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "感觉“一切都围绕着儿子的表现”",
+            "难以从其他活动中获得愉悦"
+          ],
+          "outcomes": [
+            "生活体验变窄，主观意义感降低",
+            "情绪困扰持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我责备：认为自己可能“没有做够支持他”",
+            "过度在意输赢与比较，谨慎控制关注点",
+            "不与朋友讨论担忧，收缩社会支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将球队失利主要归咎于儿子的表现",
+            "认为“他让球队失望了”并将负面评价放在儿子身上"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在提到助攻带来的喜悦后，迅速转回失利与负面内容",
+            "谈及积极时刻难以停留，快速滑向问题化叙事"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在观看儿子比赛或训练时，来访者通常会被负面想法占据，情绪焦虑，难以体验积极或享受过程。",
+          "unique_outcome": "有一场比赛中，儿子助攻得分；当下她感到真心的自豪与开心，短暂打破了负面循环。",
+          "reason": "不同注意与理解：当时她把注意力放在儿子的具体贡献上，而非仅看最终比分，使其得以体验正面情绪；随后球队失利又使她重新聚焦负面。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助并配合咨询",
+          "能够识别并表述自身的负面思维",
+          "对儿子有支持与鼓励的动机",
+          "能够注意到积极瞬间（如助攻时的自豪）"
+        ],
+        "negative_force": [
+          "过度比较与全或无思维",
+          "灾难化与预测未来",
+          "心理过滤与否定积极",
+          "未利用朋友支持，保持沉默导致主观孤立",
+          "与儿子关系紧张，情绪化互动加剧焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在儿子比赛相关情境下的过度担忧与反复负面思维",
+          "antecedent": [
+            "赛季连败",
+            "比赛或训练开始前及过程中",
+            "儿子关键失误（如错失进球）",
+            "与队友进行表现比较"
+          ],
+          "core_reason": "认知扭曲（灾难化、全或无、过度概括、心理过滤、否定积极）与外部比较共同导致对失败的过度解释与焦虑维持",
+          "function": "获得对不可控情境的主观控制感、预防想象中的更糟结果（回避不确定性）",
+          "consequence": "持续的焦虑与沮丧、与儿子关系紧张、难以享受其他活动、日常情绪与生活质量受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 466
+}

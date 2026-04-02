@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "73岁",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大的躯体疾病；无心理治疗或精神科治疗史；既往未出现类似心理问题",
+      "language_features": "表达清晰、思路连贯；能具体描述滑板情境下的想法与感受；自我评价偏苛刻，语气消极；多使用绝对化表述（如“我永远不会变好”）；与咨询师配合度较好，愿意尝试记录小成功；倾向于与他人比较"
+    },
+    "main_problem": "我觉得自己滑板很糟糕，多年没有进步，这让我感到挫败与自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这种自我不足感影响了我对滑板的享受并造成困扰。",
+    "growth_experiences": [
+      "数年前开始以滑板为业余爱好；尽管规律练习并观看教程，但长期在某些技巧与动作上受挫；每次去滑板、尤其看到他人轻松完成动作时，便产生自我怀疑与挫败；与其他滑手比较进步速度后，形成“我很糟糕”“我永远不会变好”的自我标签；有朋友可聊天，但不愿向他们表达自己的不足感，这使得长期的自我否定难以得到人际支持与修正。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/我很糟糕",
+        "我没有能力学会滑板"
+      ],
+      "special_situations": [
+        {
+          "event": "去滑板时看到别人轻松完成动作",
+          "conditional_assumptions": "如果我不能像他们一样顺利完成动作，就说明我不行",
+          "compensatory_strategies": "加倍练习与观看教程；避免与朋友谈论自己的不足以减少尴尬",
+          "automatic_thoughts": "我不如他们，我很糟糕",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "长期练习仍然无法掌握某些技巧与动作",
+          "conditional_assumptions": "如果多年还学不会某些技巧，就证明我永远也学不会",
+          "compensatory_strategies": "考虑放弃滑板以避免持续失败感",
+          "automatic_thoughts": "我永远不会变好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "尽管规律练习并观看教程，失败的次数仍然较多",
+          "conditional_assumptions": "如果努力没有立刻带来明显进步，那我的努力没有意义",
+          "compensatory_strategies": "只关注失败、忽视小的成功与进步",
+          "automatic_thoughts": "这些小成功不算数、太微不足道了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与其他滑手比较进步速度",
+          "conditional_assumptions": "如果我的进步比别人慢，就说明我身上有问题",
+          "compensatory_strategies": "持续自我评判与贴标签（“我很糟糕”）",
+          "automatic_thoughts": "我一定有问题",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并证明自己有能力，能享受滑板带来的乐趣与活力",
+        "fear": "害怕失败与被比较后显得“不如人”，担心被否定、被视为“有问题”",
+        "defense_goal": [
+          "避免向朋友暴露不足以减少羞耻与被评判感",
+          "将注意力放在技术与练习细节上，以降低脆弱情绪的暴露（理智化倾向）"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不如他人的、容易失败的学习者",
+          "object_representation": "轻松成功的参照者/他人",
+          "linking_affect": "挫败、自卑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注并承认小的成功、建议以不同视角审视进步时",
+          "interpretation": "倾向认为小成功不重要、无法代表真正的进步",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和且验证其感受，避免对立；邀请其具体举例并量化“小成功”，使用开放式问题与反映式倾听，帮助其将事实与评价分离。"
+        },
+        {
+          "trigger_condition": "当被询问是否愿意与朋友讨论自己的不足或寻求支持时",
+          "interpretation": "认为表达不足会让自己更加尴尬或不被理解，因此选择不分享",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "保持共情与安全感，使用低风险的分享邀请（如仅描述一个具体情境），并提供选择权；鼓励其识别与命名情绪强度，逐步增加情感承载。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友可交流一般话题，但不愿谈及自己的不足与脆弱感",
+            "自我比较导致的内在孤立与自我否定"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "动力不足",
+            "享受感下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当努力未带来显著进步时，倾向认为练习“没有意义”",
+            "兴趣的乐趣被自我否定与比较所侵蚀"
+          ],
+          "outcomes": [
+            "考虑放弃滑板",
+            "对日常生活的情绪与动机产生负面影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁的自我批评语句（如“我很糟糕”“我永远不会变好”）",
+            "与他人比较并否定自身进步",
+            "不愿与朋友讨论自己的不足感"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "考虑放弃滑板，将失望与压力向内承受",
+            "在有朋友的情况下仍选择不寻求情感支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在练习滑板并看到他人轻松完成动作的情境下，来访者通常会自我否定、情绪低落并考虑放弃。",
+          "unique_outcome": "来访者提到“有时也能成功落地某个动作”，在那些练习中出现了小的进步与成功。",
+          "reason": "不同做法：持续规律练习并观看教程，使动作要领逐步积累，从而偶尔出现成功落地。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱滑板并坚持练习",
+          "愿意接受咨询、尝试记录小成功与认知重构",
+          "偶尔出现小的成功（证明存在进步可能）",
+          "具备基本社交支持（有朋友可交流一般话题）"
+        ],
+        "negative_force": [
+          "强烈的自我比较与自我怀疑",
+          "非黑即白、过度概括、心理过滤、否定积极等认知偏差",
+          "不愿与朋友讨论不足，情感支持获取受限",
+          "情绪低落与动机下降，影响日常生活与兴趣体验"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "滑板相关情境中的自我否定与比较（伴随“我很糟糕”“我永远不会变好”等言语），导致情绪低落与动机下降",
+          "antecedent": [
+            "去滑板练习时",
+            "看到他人轻松完成动作",
+            "在特定技巧与动作上反复失败"
+          ],
+          "core_reason": "长期与他人比较进步速度，并在失败后形成非黑即白、过度概括、心理过滤与否定积极等认知偏差",
+          "function": "逃避失败带来的羞耻与不适，试图通过自我批评获得控制感或为放弃寻找理由",
+          "consequence": "享受感下降、情绪低落、动机不足，甚至考虑放弃滑板，影响日常情绪与活力"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 808
+}

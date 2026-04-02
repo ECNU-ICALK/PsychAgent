@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "陈丹妮",
+      "gender": "女",
+      "occupation": "奶昔店员工",
+      "educational_background": "在本地学院就读",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与同学和任课老师的关系因焦虑和自我怀疑而趋于紧张；有几位支持性的朋友，但尚未与他们分享困扰。",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；过去未出现类似问题。",
+      "language_features": "表达清楚，能具体描述情绪与想法；配合度较好；叙述中倾向消极、灾难化和否定正面证据；常进行自我比较与自我怀疑。"
+    },
+    "main_problem": "我一直害怕自己永远毕不了业，这种恐惧导致明显的痛苦和焦虑。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为关于无法毕业的恐惧和焦虑已经开始影响我的学业表现和整体幸福感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个失败者",
+        "我不如别人、我不够胜任",
+        "如果不能完美达成目标，就等于彻底失败"
+      ],
+      "special_situations": [
+        {
+          "event": "考试临近（如期中或期末）",
+          "conditional_assumptions": "如果这次考试表现不够好，就说明我不行，最终会毕不了业",
+          "compensatory_strategies": "强迫自己保持“积极”、加班学习，但在压力增大时产生退学念头",
+          "automatic_thoughts": "我可能会挂科，我永远毕不了业",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "开始新的作业或面对学业任务时觉得像“爬不过去的山”",
+          "conditional_assumptions": "如果我不能马上理解并做好，就证明我不够聪明、没有能力完成学业",
+          "compensatory_strategies": "反复自我否定、难以启动任务，进度放慢导致作业拖延和落后",
+          "automatic_thoughts": "这作业太难了，我肯定做不好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到其他同学看起来“都处理得很好”",
+          "conditional_assumptions": "如果别人比我好，我就是失败者",
+          "compensatory_strategies": "与他人比较、回避与他人交流以避免被比较或评价",
+          "automatic_thoughts": "我不如他们，我就是个失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到未来和目前的工作前景",
+          "conditional_assumptions": "如果不能顺利毕业，我会永远被困在现在的工作里，别人都会看不起我",
+          "compensatory_strategies": "避免与朋友讨论以免“麻烦别人”或被评价，反复在心中排演最坏情境",
+          "automatic_thoughts": "我会一直困在现在的工作里，大家会觉得我是失败者",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过学业成就证明自我价值并获得他人的认可",
+        "fear": "害怕失败后遭遇羞耻与被否定、被他人视为不够好",
+        "defense_goal": [
+          "通过回避披露与自我贬低来降低被评价的风险",
+          "通过灾难化预演最坏结果来获得虚假的控制感，缓解不确定性焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够胜任、随时会失败的学生",
+          "object_representation": "会评判、期待高且更有能力的他人（同学/老师/大众）",
+          "linking_affect": "羞耻、焦虑、无力感"
+        },
+        {
+          "self_representation": "可能给他人造成负担的人",
+          "object_representation": "被我拖累或会因我的倾诉而不悦的他人/朋友",
+          "linking_affect": "内疚、顾虑、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其成功或正面证据（如通过期中、收到好评）时",
+          "interpretation": "认为这些成功“不算数”，或觉得咨询师只是安慰，不能理解自己的处境",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气轻微否定，重复“这不够”“只是侥幸”，用例外解释来削弱成就的意义。"
+        },
+        {
+          "trigger_condition": "当被邀请与朋友或他人分享、寻求支持时",
+          "interpretation": "担心向他人倾诉会给对方添麻烦或被看轻（预设他人负面反应）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避承诺求助，使用“我不想麻烦别人”的措辞，语气犹豫，弱化自身需求。"
+        },
+        {
+          "trigger_condition": "谈及未来学业和前途的不确定性时",
+          "interpretation": "在心中构想最坏情境以避免面对现实的复杂性与不确定性",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "使用极端词汇（如“永远”“一辈子”），迅速描绘最坏剧本，语速略快、情绪化。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对未来学业完成与职业选择的结果充满不确定与焦虑",
+            "在承担学习与毕业责任时出现强烈自我怀疑与灾难化想象"
+          ],
+          "outcomes": [
+            "持续性焦虑与恐惧",
+            "难以集中注意与学业成绩下滑",
+            "睡眠受损与食欲紊乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有支持性朋友但不愿分享困扰，担心“麻烦别人”",
+            "与同学、老师的关系因焦虑和自我否定而变得紧张"
+          ],
+          "outcomes": [
+            "情感支持的获取受限，孤立感加重",
+            "负性自我叙事强化，焦虑持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（“我不如他们”）",
+            "担心打扰他人而避免求助或分享感受"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "把寻求支持的冲动转向自我承受，夜间反刍担忧",
+            "在高压学业节点选择独自扛住而非外求支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设“大家会觉得我是失败者”而减少与他人接触",
+            "因担心被评判而与同学、老师关系疏远"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在临近考试或开始学业任务时，来访者通常会被“我永远毕不了业”的恐惧困住，出现注意力涣散、效率下降并产生退缩想法。",
+          "unique_outcome": "在期中考试中顺利通过，表现好于担心的程度。",
+          "reason": "线索：保持了出勤与基本复习投入，实际能力得到发挥；当次考试的正向反馈削弱了灾难化预测。"
+        },
+        {
+          "target_problem": "面对课程作业时，来访者常因自我怀疑而进度放慢、落后，并持续担忧被否定。",
+          "unique_outcome": "部分课程项目收到老师的正面反馈与好评，结果好于其自我预期。",
+          "reason": "线索：完成了关键部分任务并按时提交；不同支持：来自教师的正向反馈暂时中断了负性叙事。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备完成任务的实际能力（通过期中考试、曾获项目好评）",
+          "有几位支持性的朋友，具备潜在社会支持资源",
+          "能主动寻求帮助（选择来访咨询）",
+          "在压力下仍尝试坚持学习与专注学业"
+        ],
+        "negative_force": [
+          "灾难化、读心术与否定正向证据的思维方式强化失败预期",
+          "自信不足，过度与他人比较",
+          "回避求助，担心麻烦别人导致支持获取受限",
+          "睡眠与食欲紊乱进一步削弱学习与情绪调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的灾难化自我言语（“我永远毕不了业”）",
+          "antecedent": [
+            "开始新的作业或学习任务",
+            "考试临近",
+            "思考未来学业与职业前景"
+          ],
+          "core_reason": "自信不足并与他人比较，伴随对未来失败的预测性思维与否定正向证据的认知偏差。",
+          "function": "通过预设最坏结果获得短暂的“心理准备/控制感”，以减少不确定性的焦虑（短期负强化）。",
+          "consequence": "焦虑升高、注意力下降、作业进度放慢并产生退学念头，进一步影响学业表现与人际关系。"
+        },
+        {
+          "behavior": "回避求助与不与朋友/他人讨论困扰",
+          "antecedent": [
+            "感到学业焦虑时",
+            "预设他人会被自己“麻烦”或看轻自己"
+          ],
+          "core_reason": "担心被评价与羞耻，将内在的负面期待投射到他人身上。",
+          "function": "逃避可能的负面评价与羞耻体验。",
+          "consequence": "社会支持减少、孤立感增强，焦虑维持甚至加重。"
+        },
+        {
+          "behavior": "睡眠困难与食欲紊乱（入睡困难、夜间辗转反侧；食欲波动）",
+          "antecedent": [
+            "睡前反刍学业担忧",
+            "考试与作业节点前后"
+          ],
+          "core_reason": "持续的灾难化担忧与负性预期引发生理唤醒水平升高。",
+          "function": "反刍在短期内制造“在思考应对/在准备”的错觉，延迟面对焦虑的当下感受。",
+          "consequence": "睡眠不足与躯体状态恶化导致认知效率下降、注意力不集中、学业表现进一步下滑。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1328
+}

@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "温启明",
+      "gender": "男",
+      "occupation": "法学院研究生（法律专业）",
+      "educational_background": "正在攻读法律学位",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与同学和同事的关系因缺乏自信而紧张",
+      "medical_history": "无重要身体疾病；既往无类似心理问题，也未接受过心理治疗",
+      "language_features": "表达清晰、思路连贯；起初持怀疑态度但愿意配合；能具体报告想法与躯体反应"
+    },
+    "main_problem": "自从一次练习检察官时忘带重要案卷后，出现关于记忆力与作为未来律师能力的不足感与持续自我怀疑，已影响学习与整体状态。",
+    "topic": "学业压力",
+    "core_demands": "持续的自我怀疑与不足感已开始影响我的学业表现与整体健康，这促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任成为一名律师",
+        "我的记忆力很差"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次检察官实务演练中忘带重要案卷",
+          "conditional_assumptions": "如果我会犯这种低级错误，就证明我能力不足、记忆力不好，不配做律师",
+          "compensatory_strategies": "使用各类记忆技巧与自我安慰来证明自己不是不行；短期内回避继续练习",
+          "automatic_thoughts": "我没有足够的记忆力成为合格的律师，这说明我不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在考试或实务练习中出现小错误",
+          "conditional_assumptions": "如果我不能做到零错误，我就注定失败",
+          "compensatory_strategies": "强烈自责并暂时停止学习或练习以避免再犯错",
+          "automatic_thoughts": "又犯蠢错了，我永远也学不会",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "夜间反复担心再次犯错并预想后果",
+          "conditional_assumptions": "如果我再犯一次错，后果就会很糟，学业和职业都会完蛋",
+          "compensatory_strategies": "在脑中不停预演与担忧以期“防错”，导致睡眠被打断",
+          "automatic_thoughts": "下一次肯定还会出错，事情会变得很糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到与同学或朋友谈及自己的困扰或在互动中被看到不足",
+          "conditional_assumptions": "如果暴露我的不足，别人会看不起我、不会理解我",
+          "compensatory_strategies": "不与朋友讨论这些感受，减少社交接触以避免被评价",
+          "automatic_thoughts": "他们会觉得我不称职，不适合当律师",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、可靠，能够胜任律师角色",
+        "fear": "害怕被评价为无能、被否定并最终失败",
+        "defense_goal": [
+          "通过自我批评与退缩来避免暴露缺陷",
+          "用理性解释（压力/技巧）来缓冲羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出错、不够格的学生/准律师",
+          "object_representation": "挑剔且可能不理解的他人（同学、同事、权威）",
+          "linking_affect": "羞耻、焦虑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请回顾错误或讨论能力不足（如会谈中探索具体失误情境）",
+          "interpretation": "可能将他人/咨询师视为评判者，担心暴露不足会被看轻",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、分析性的语气描述事件，强调“压力”“技巧”等事实，淡化羞耻与脆弱感受，少用情绪词。"
+        },
+        {
+          "trigger_condition": "在犯错后感到强烈羞耻与焦虑",
+          "interpretation": "将外界可能的批评内化为自我否定，认为自己“不配/不行”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“都是我的错”“我太糟糕了”），语气低落，减少与他人的互动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有几位亲密朋友但未向其谈及不足与自我怀疑",
+            "担心他人“不理解”，倾向保持距离",
+            "人际关系因缺乏自信而紧张"
+          ],
+          "outcomes": [
+            "退缩与回避寻求支持",
+            "情绪困扰加重并影响睡眠",
+            "自我怀疑循环维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "担心朋友“不会理解”，据此不去沟通",
+            "在社交中预设他人会看不起自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用自我否定语句（如“我不行”“我永远学不会”）",
+            "会谈中先表明怀疑态度但谨慎配合，言辞小心"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "没有向朋友寻求支持而选择自我消化",
+            "在犯错后撤回行动并自我苛责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "仍愿意尝试记录并检视思维（对改变保留希望）",
+          "能识别触发情境（考试/练习中的小错误）",
+          "拥有一定的支持网络（有几位可谈的亲密朋友）",
+          "愿意配合行为实验与数据收集"
+        ],
+        "negative_force": [
+          "强烈的自我怀疑与不足感",
+          "认知偏差显著（非黑即白、过度概括、预测未来、读心术）",
+          "犯错后的回避与撤退行为维持问题循环",
+          "对再次犯错的焦虑导致睡眠受扰",
+          "低自信导致人际紧张且未有效利用社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬损的自动化思维（如“我永远也学不会”“我不适合当律师”）",
+          "antecedent": [
+            "在考试或实务练习中出现小错误",
+            "回想起忘带案卷的事件",
+            "面对学习或职业相关挑战"
+          ],
+          "core_reason": "非黑即白与过度概括的核心认知假设（将一次错误等同于整体无能）",
+          "function": "自我防御（通过先否定自己来避免外界评价带来的失望与羞耻）",
+          "consequence": "情绪低落与焦虑增强，自信心进一步下降，注意力与效率受损"
+        },
+        {
+          "behavior": "回避/撤退（犯错后停止学习或避免继续练习）",
+          "antecedent": [
+            "犯错后出现心悸、胸闷等焦虑反应",
+            "预期再度犯错并被否定"
+          ],
+          "core_reason": "灾难化与对未来负性预测（认为再犯错会“完蛋”）",
+          "function": "逃避不适与短期缓解焦虑",
+          "consequence": "学业效率下降、成绩滑落、人际关系紧张，问题循环被维持与强化"
+        },
+        {
+          "behavior": "睡眠受扰（因担忧再次犯错而反刍）",
+          "antecedent": [
+            "夜间反复思考学业/实务中的错误与可能后果",
+            "对次日表现的负性预测"
+          ],
+          "core_reason": "预测未来与灾难化的认知维持高唤醒与反刍",
+          "function": "试图通过担忧与预演来“防错”（认知控制的错觉）",
+          "consequence": "睡眠质量下降、疲劳增加，次日注意与记忆受损，进一步削弱表现与信心"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 638
+}

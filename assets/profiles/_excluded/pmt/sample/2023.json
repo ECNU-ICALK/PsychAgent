@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母在80多岁，有8个兄弟；与兄弟们关系亲密，但因对赞美的怀疑导致互动受影响",
+      "social_status": "有良好的家庭支持（与兄弟们亲近，能谈论各种话题），但难以直接分享自己对其意图的怀疑",
+      "medical_history": "无显著身体健康问题；未接受过心理咨询或治疗；既往无类似心理问题",
+      "language_features": "表达清晰，能具体举例；能识别并描述自动化思维；配合度高、态度积极；尝试以理性化方式应对疑虑"
+    },
+    "main_problem": "我持续怀疑自己从家人那里收到的积极互动和赞美的真诚性，尤其在家庭聚会或与兄弟们互动时，这导致不安全感与不信任，进而使家庭关系紧张。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到自己无法信任家人的积极反馈正在拉紧我们的关系并造成情绪困扰，因此寻求咨询。",
+    "growth_experiences": [
+      "青少年时期在一个有8个兄弟的大型家庭中成长，注意力与情感关怀被分配，常感到被忽视；由此逐渐形成对积极反馈真诚性的怀疑，这种模式从青春期延续到成年并影响至今的家庭互动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被真诚地认可",
+        "他人的赞美不可信"
+      ],
+      "special_situations": [
+        {
+          "event": "上周家庭聚餐时，兄弟夸奖她的厨艺",
+          "conditional_assumptions": "家人的赞美通常只是礼貌而非真心，如果我轻易接受就会被“虚情假意”伤害",
+          "compensatory_strategies": "保持克制与疏离，淡淡回应或撤退以自我保护，避免表现出欣喜",
+          "automatic_thoughts": "他只是客气，并不是真的喜欢我的菜。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "兄弟对她说她是“最喜欢的”",
+          "conditional_assumptions": "别人说“最喜欢”这种话，往往也会对其他人说，不能当真",
+          "compensatory_strategies": "用理性推断与自我质疑来降低期待，不与其深入讨论感受",
+          "automatic_thoughts": "他们也会对其他人这么说，我不该相信。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "家庭聚会中，兄弟姐妹赞美她的成就或外貌",
+          "conditional_assumptions": "当赞美出现时，更可能是出于礼貌而非真实感受",
+          "compensatory_strategies": "减少交流、避免眼神接触、转为沉默以降低不适",
+          "automatic_thoughts": "他们并不真心，只是在敷衍我。",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "在与家人互动时，想到过去在大家庭里被分散的关注",
+          "conditional_assumptions": "在这样的家庭结构里，真实的欣赏很难出现，我最好不要期待",
+          "compensatory_strategies": "预设防御态度，以怀疑来过滤信息，避免情绪投入",
+          "automatic_thoughts": "在我们家，赞美很少是真心的。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人真诚地看见、认可与珍爱",
+        "fear": "害怕自己的脆弱被利用或被敷衍，担心接受赞美后遭遇失望与被忽视",
+        "defense_goal": [
+          "通过保持怀疑与疏离来确保安全，降低期待以避免受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被忽视、需要谨慎自我保护的人",
+          "object_representation": "礼貌而不真诚、可能让人失望的家庭成员",
+          "linking_affect": "不信任、不安全感、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或家人提出开放沟通的建议，或积极评价她时",
+          "interpretation": "潜意识将正向反馈视为可能的“敷衍”，认为深入沟通会暴露脆弱而带来失望",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用冷静、分析性的语气，强调证据与逻辑，尽量不触及主观感受与脆弱面。"
+        },
+        {
+          "trigger_condition": "在家庭聚会中收到赞美或积极互动时",
+          "interpretation": "将对方的积极行为理解为不真诚的表面礼貌",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "保持礼貌但简短回应，减少眼神接触与自我表露，以中性语气快速结束话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在家庭聚会中难以接纳赞美，产生不信任与疏离感",
+            "担心直接表达怀疑会被误解或冒犯，选择不谈及真实感受"
+          ],
+          "outcomes": [
+            "关系紧张与距离感加重",
+            "情绪困扰与不安全感持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在收到赞美后立即自我质疑其真诚性",
+            "担心表达怀疑会冒犯家人而不敢开口"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在被夸奖时转移话题或以礼貌性简短回应，避免深入交流",
+            "以“理性分析”替代直接体验与表达感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将自己的怀疑感投射为对方“不真诚”“只是礼貌”",
+            "把赞美理解为敷衍以降低自身脆弱暴露"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与兄弟们关系亲密，存在稳定的家庭支持",
+          "愿意求助与改变（主动寻求咨询，态度积极）",
+          "能识别并命名负性自动化思维，具备认知再评估的基础"
+        ],
+        "negative_force": [
+          "长期对赞美的真诚性持怀疑态度，形成不信任的认知框架",
+          "源自大家庭的“被分散关注”叙事持续影响自我价值与期待",
+          "常见认知偏差：否定积极、读心术、过度概括",
+          "在互动中倾向退缩与疏离，进一步强化关系紧张与孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在家庭聚会或与兄弟互动时，收到赞美后出现强烈怀疑并伴随社交退缩",
+          "antecedent": [
+            "家庭聚会或家庭互动场景",
+            "兄弟姐妹对成就、外貌或行为的积极评价与赞美"
+          ],
+          "core_reason": "成长于大型家庭、注意力与情感关怀被分配的经历，形成“赞美不真诚”的深层信念与自我保护倾向",
+          "function": "逃避可能的失望与被伤害，维持心理安全与情绪控制",
+          "consequence": "出现不信任与不安全感，关系紧张，互动质量下降，情绪困扰增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2023
+}

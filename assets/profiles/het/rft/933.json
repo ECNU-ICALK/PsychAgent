@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "60",
+      "name": "刘若萱",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "本科在读",
+      "marital_status": "单身",
+      "family_status": "与家人在加州同住",
+      "social_status": "有朋友和家人可谈日常事务，但难以就自卑与不足感敞开",
+      "medical_history": "无既往心理咨询或治疗史；无重大躯体疾病",
+      "language_features": "表达清晰，思路连贯，能进行自我反思；态度积极，愿意尝试新方法"
+    },
+    "main_problem": "我觉得我的信念和价值观（例如重视回收）并不能让我与众不同或感到特别，这导致了无用感和自尊心低下。",
+    "topic": "自我探索",
+    "core_demands": "我决定寻求咨询，因为这些感受正在影响我的心理健康和学业表现，使我难以专注于学习。",
+    "growth_experiences": [
+      "自青春期起便开始出现自我价值感低下，进入大学后持续存在；在学业期待与社会比较的影响下加重，尤其在与观点不同的同伴互动时更易感到自卑与不足。为缓解此状况曾尝试参与更多环保行动并与同好联结，但无用感依旧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不重要/不特别",
+        "我的贡献没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "与持不同观点的同龄人互动",
+          "conditional_assumptions": "如果我的观点不能被认可或显得特别，就说明我没有价值",
+          "compensatory_strategies": "减少社交与深入表达，以避免被评判",
+          "automatic_thoughts": "他们会觉得我很普通、不值得注意",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "看到同伴在学业或项目上的突出成就",
+          "conditional_assumptions": "如果我的成就不如别人，就证明我不重要/是失败者",
+          "compensatory_strategies": "不断把自己与他人比较，并试图通过增加环保行动来证明自己",
+          "automatic_thoughts": "我的努力太微不足道了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "课堂讨论或公开表达个人信念",
+          "conditional_assumptions": "如果我的发言不够令人印象深刻，就会被否定和忽视",
+          "compensatory_strategies": "回避课堂发言，减少在公共场合表达观点",
+          "automatic_thoughts": "我会被看轻或被忽略",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在组织环保活动后获得正向反馈或短暂成就感",
+          "conditional_assumptions": "除非我做得更多、更大，否则这些都不算数",
+          "compensatory_strategies": "否定积极经验，立刻提高标准并自我施压",
+          "automatic_thoughts": "这没什么，我应该做得更多",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被认可，作为独特且有价值的人被接纳",
+        "fear": "害怕被比较后被贬低、被忽视或被评判，体验羞耻与无价值感",
+        "defense_goal": [
+          "通过回避暴露脆弱与减少表达来降低被评判的风险",
+          "以自我贬低与否定积极经验来预防失望与羞耻",
+          "依赖外部标准与比较以维持一种可控的自我定位"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "普通且不重要、容易被忽视的人",
+          "object_representation": "评判性、成就更高、容易否定自己的他人/同伴",
+          "linking_affect": "羞耻、焦虑、无价值感"
+        },
+        {
+          "self_representation": "可能成为负担、需要隐藏脆弱的人",
+          "object_representation": "会因我的不足而看不起我或被我拖累的人",
+          "linking_affect": "内疚、恐惧、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人肯定其努力与贡献时",
+          "interpretation": "认为对方是在安慰或夸大，自己的成就并不算数",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "淡化积极反馈，使用“其实没什么”“我只是做了很小的事”等表述，语气低调回避"
+        },
+        {
+          "trigger_condition": "在课堂或会谈中被邀请表达观点时",
+          "interpretation": "相信他人会对自己的观点持否定或轻视态度",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "回避直接回答，使用模糊与保留性语言，减少细节，降低音量并缩短发言"
+        },
+        {
+          "trigger_condition": "当话题涉及其痛苦情绪与无价值感时",
+          "interpretation": "转而以抽象的价值与效率讨论替代情绪体验，以保持控制",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用客观分析与概念化语言（如“从效率角度”“理论上”），避免描述具体感受与需求"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为回收等个人努力不使自己特别，贡献显得微不足道",
+            "与他人成就比较后感到自己的价值与意义被削弱"
+          ],
+          "outcomes": [
+            "无价值感与自尊低下",
+            "学习注意力下降与参与度降低",
+            "动机减退，减少课外活动与自我照料"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有家人朋友可谈日常，但难以就自卑与不足感敞开",
+            "担心成为负担或被看轻，选择独自承受"
+          ],
+          "outcomes": [
+            "社交退缩与回避表达",
+            "情感支持获取受限，负性情绪循环加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转向自己",
+          "manifestations": [
+            "在感到自卑时不向亲友求助，选择独自消化",
+            "减少课堂和社交场合的发言以避免被评判"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与自我限制，包含过多的自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "频繁自我否定（例如“我应该做得更多”）",
+            "在表达观点前过度担忧他人评价，进而缩减表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人",
+          "manifestations": [
+            "假定他人会看轻或否定自己的观点",
+            "预期在社交情境中会被忽视或评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要表达与参与的社交/学习场景中，刘若萱通常会因自卑与对评判的担心而缩减表达或退缩，事后感到更无价值",
+          "unique_outcome": "在某些时候主动组织环保活动并吸引同学加入，当下感到自豪与被肯定，较少出现“我的努力不算”的念头",
+          "reason": "线索：不同做法—主动承担组织者角色；不同支持—同伴参与与正向反馈；不同理解—看到具体影响（他人加入）使得价值更可见"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "稳定的价值观与环保行动投入（能组织活动并影响他人）",
+          "具备一定的组织与号召能力（曾获得他人参与与肯定）",
+          "基本的家庭与朋友支持网络（虽不易敞开但可谈日常）",
+          "对咨询持开放与积极态度，愿意尝试改变",
+          "能进行自我反思，识别比较与贬低的思维模式"
+        ],
+        "negative_force": [
+          "过度社会比较，依赖外部认可来定义自我价值",
+          "否定积极经验与“应该”自我苛责模式",
+          "对评判的预期导致社交与课堂参与回避",
+          "自尊低下与无意义感强化负性循环",
+          "学业压力与同伴成就对比加剧不够好的信念"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交与课堂讨论中回避发言与表达观点",
+          "antecedent": [
+            "与持不同观点的同伴互动",
+            "课堂讨论需要公开表达",
+            "注意到他人更突出成就或领导角色"
+          ],
+          "core_reason": "长期社会比较与对外部认可的依赖引发被评判与羞耻的恐惧，维持“我不够好”的信念",
+          "function": "逃避不受欢迎的结果（被否定/羞耻），短期内减少焦虑",
+          "consequence": "学业参与与学习体验受损，社交联系减少，进一步强化无价值感"
+        },
+        {
+          "behavior": "否定积极反馈与成就（贬低自我贡献）",
+          "antecedent": [
+            "在组织活动后收到正向反馈或产生短暂成就感",
+            "他人肯定其努力或影响"
+          ],
+          "core_reason": "内在“应该”标准过高与自我价值图式（不值得/不重要）驱动，将积极证据排除以维持一致性",
+          "function": "通过自我否定来避免失望与维持可控的自我定位",
+          "consequence": "正向经验无法内化，自尊难以提升，持续出现无意义与不足感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 933
+}

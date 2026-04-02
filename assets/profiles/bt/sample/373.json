@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "林川",
+      "gender": "男",
+      "occupation": "小型家族餐馆员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "有六个姐姐，家庭支持良好",
+      "social_status": "与姐姐和同事关系良好，拥有稳固的社会支持网络（姐姐与几位好友）",
+      "medical_history": "无显著躯体疾病；从未接受过心理问题相关的治疗或咨询",
+      "language_features": "表达清晰、思路连贯、配合度高；能描述内心感受（如不确定与焦虑），愿意探索证据与替代想法"
+    },
+    "main_problem": "最近申请了用于开自己餐馆的创业资助，但总是想着会因为经验不足而被拒，这些悲观想法影响了我追求开餐馆梦想的动力。",
+    "topic": "职业发展",
+    "core_demands": "悲观的自动化想法让我不安并影响动力，希望通过咨询减轻对资助被拒的担忧，检验与修正这些负性预测，恢复对开餐馆目标的行动力。",
+    "growth_experiences": [
+      "职业经历：在一家小型家族餐馆长期工作，掌握了顾客服务与部分后厨、日常运营的实践经验，但未独立管理过整家餐厅。",
+      "原生家庭/社会支持：来自一个有六个姐姐的家庭，平时与姐姐们和同事关系良好，拥有稳固的家庭与朋友支持网络。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有能力",
+        "我容易失败"
+      ],
+      "special_situations": [
+        {
+          "event": "提交创业资助申请后处于等待结果阶段",
+          "conditional_assumptions": "如果我没有足够且完整的管理经验，就一定会被评审否决",
+          "compensatory_strategies": "通过分散注意力、试图把负面念头推开，不采取进一步行动",
+          "automatic_thoughts": "我很可能会被拒绝，因为经验不够",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在思考未来与职业目标时联想到创业的不确定性",
+          "conditional_assumptions": "如果我无法掌控全部变量，事情就会彻底失败",
+          "compensatory_strategies": "降低期待、回避进一步规划以减少不确定带来的焦虑",
+          "automatic_thoughts": "一切都会崩盘",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回想自己从未独立管理过整家餐厅的事实",
+          "conditional_assumptions": "只有完全管理过整家餐厅的经历才算“足够资格”",
+          "compensatory_strategies": "否定当前实践经验的价值，强调自己的不足以避免失望",
+          "automatic_thoughts": "我现在的经验不算数，仍然不够",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望实现开餐馆的事业理想并获得能力与价值的认可",
+        "fear": "害怕失败与被否定（例如资助被拒），从而证明自己不够好",
+        "defense_goal": [
+          "通过预先否定与降低期待来减少潜在失败带来的痛苦",
+          "通过回避进一步行动与分散注意缓解对不确定性的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "缺乏完整管理经验、可能不够胜任的初学者",
+          "object_representation": "严苛的评审或评判者（可能会否定自己）",
+          "linking_affect": "焦虑、担忧、自我怀疑"
+        },
+        {
+          "self_representation": "被支持但犹豫的追梦者",
+          "object_representation": "支持性、可依赖的家人和朋友",
+          "linking_affect": "安心、被鼓励"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在会谈中被邀请检验证据、制定下一步行动或面对不确定性时",
+          "interpretation": "担心贸然行动会暴露自己的不足，导致被否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气谨慎，强调需要更多信息与证据，提出澄清性问题，暂缓情绪表达。"
+        },
+        {
+          "trigger_condition": "在日常独处时出现对资助被拒的负性联想",
+          "interpretation": "认为直面这些担忧会带来难以承受的焦虑与失望",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "转移话题或使用“先不去想”的表述，短句回应，快速切换到中性内容。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在申请创业资助后面对选择与责任的不确定性，担忧经验不足导致失败",
+            "对风险与未知持高度焦虑与自我怀疑"
+          ],
+          "outcomes": [
+            "动力下降与犹豫不决",
+            "通过回避与分散注意来减轻不确定带来的焦虑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "出现负性想法时选择分散注意力、把念头推开",
+            "尚未与家人或朋友直接讨论该担忧，避免面对核心议题"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，包含过多的自我限制，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁产生“我不够好/不够胜任”的自我评价",
+            "对迈出关键一步（如进一步行动或公开讨论）的谨慎与延迟"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多年餐饮一线实践经验，熟悉餐馆日常运营",
+          "稳固的家庭与朋友支持网络，愿意提供情感与信息支持",
+          "愿意进行现实检验、接受行为实验与寻求前辈经验",
+          "工作与人际关系稳定，为逐步迈向目标提供安全基础",
+          "对开餐馆拥有长期而清晰的内在动机"
+        ],
+        "negative_force": [
+          "对未来的消极预测与灾难化倾向",
+          "过度概括与否定积极证据，强化自我怀疑",
+          "在不确定面前倾向回避与分散注意，缺少具体行动",
+          "对外部评估与结果的依赖较强，内部自我确认不足",
+          "僵化的条件假设：认为必须拥有完整管理经验才算“准备好”"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与创业资助申请相关的消极自动思维（预测被拒、灾难化、过度概括）",
+          "antecedent": [
+            "提交申请后的等待期",
+            "思考未来与职业目标时",
+            "回想自己从未独立管理整家餐厅的事实时"
+          ],
+          "core_reason": "深层信念“我不够有能力”，对不确定性的低容忍度与对外部评判的敏感",
+          "function": "短期内逃避不确定带来的焦虑，获得暂时的控制感与心理缓解",
+          "consequence": "动力下降、减少后续行动（如不主动寻求信息或支持），但工作与日常生活暂未明显受损"
+        },
+        {
+          "behavior": "回避/分散注意（将负面想法推开，不采取具体对策）",
+          "antecedent": [
+            "出现对被拒或失败的联想时",
+            "感到风险与不确定性上升时"
+          ],
+          "core_reason": "为缓解焦虑与避免面对可能的失败感",
+          "function": "逃避不受欢迎的情绪体验（焦虑、不安）",
+          "consequence": "持续担忧未被验证或纠正，缺乏现实证据与经验积累，问题维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 373
+}

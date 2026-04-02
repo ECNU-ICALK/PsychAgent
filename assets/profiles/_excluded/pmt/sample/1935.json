@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "77",
+      "name": "艾琳",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；既往无心理治疗/咨询史",
+      "language_features": "表达清晰，能描述自身体验；常用绝对化表述（如“总是”），存在读心术与过度概括的认知倾向；态度偏消极但愿意尝试与合作；语速与逻辑结构未提及"
+    },
+    "main_problem": "我总觉得自己在丢东西，最近甚至感觉自己在失去理智。这让我感到无能，并担心他人如何看待我。这些感受从几年前开始就存在，但在几个月前搬到瑞典后明显加重；我几乎每天都在被“找不到或忘记重要物品”的情境触发，持续感到不堪与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "关于丢东西的无能感与焦虑显著影响了我的日常生活与福祉，因此寻求咨询以缓解这些问题。",
+    "growth_experiences": [
+      "在过去的压力期或重大生活变迁中，曾反复出现“丢东西—感到无能”的体验；当时通常通过向朋友和家人寻求支持来应对，未接受过心理治疗或正式干预。",
+      "几个月前迁居瑞典后，环境更迭与适应压力使症状显著加重；几乎每天在“找不到或忘记重要物品”时感到焦虑与不堪，并产生“他人会认为我无能”的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/不称职的",
+        "我无法掌控自己的生活（担心会失去理智）"
+      ],
+      "special_situations": [
+        {
+          "event": "搬到瑞典后，经常找不到或忘记重要物品，适应压力显著增大",
+          "conditional_assumptions": "如果在新环境中仍频繁丢东西，就说明我无法胜任生活，别人也会认为我无能",
+          "compensatory_strategies": "尝试组织整理与正念练习，减少与亲友讨论以避免被看轻",
+          "automatic_thoughts": "我快要失去理智了；别人会觉得我不称职",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "某次找不到钥匙时，邻居投来目光",
+          "conditional_assumptions": "如果别人看到我手忙脚乱，就一定觉得我很无能",
+          "compensatory_strategies": "赶紧加紧寻找并使用组织技巧，回避与他人交流当下的尴尬与不安",
+          "automatic_thoughts": "她一定觉得我完全不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "几乎每天在找不到或忘记重要物品时被触发焦虑",
+          "conditional_assumptions": "如果我不能做到完全不丢东西，就证明我做什么都不行",
+          "compensatory_strategies": "持续自我监控与整理归类，试图用完美的组织来避免问题",
+          "automatic_thoughts": "我总是丢东西；我什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要向朋友或家人谈及当前困扰时，因尴尬与担心被评判而选择不谈",
+          "conditional_assumptions": "如果我暴露这些感受与困扰，别人会认为我无能或不会理解我",
+          "compensatory_strategies": "回避求助与自我揭露，试图独自承受并用整理与正念来自我修复",
+          "automatic_thoughts": "他们不会理解，也帮不上忙，还会看轻我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人视为有能力、可被理解与接纳，并保持对生活的掌控感",
+        "fear": "害怕被评判为无能、被拒绝或失去对自身与生活的控制（“失去理智”）",
+        "defense_goal": [
+          "通过组织与自我控制来维持稳定；避免自我揭露以减少被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、容易丢东西、可能失控的无能者",
+          "object_representation": "挑剔的旁观者/评判者（他人会盯着我的失误）",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师追问“有什么证据表明邻居认为你无能”并邀请来访者检验读心式想法时",
+          "interpretation": "将内心的无能感与羞耻体验外推到他人身上，倾向把他人的目光理解为评判（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "先承认缺乏确凿证据，但坚持“感觉就是事实”，语气犹疑、反复强调他人看法；被进一步追问时，转而描绘他人的表情与推测，回避深入自身情感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有社会支持却因尴尬与被评判的担忧而不向亲友倾诉当前困扰",
+            "在陌生文化与环境中感到不适与隔离感增加"
+          ],
+          "outcomes": [
+            "人际联系弱化",
+            "焦虑加重与持续的自我否定",
+            "主观不堪体验增加"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "搬迁至异国后对自我掌控感的动摇，担心“失去理智”",
+            "以高度组织与自我监控来对抗不确定性"
+          ],
+          "outcomes": [
+            "对控制的过度追求与紧张",
+            "灵活性下降，焦虑与羞耻感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "明知有亲友支持却因尴尬而不求助，把能量转向自我监控与自责",
+            "以过度整理/正念自我调节替代外界支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将邻居的目光理解为对自身“无能”的评判",
+            "普遍假设他人会看轻自己，进而回避交流"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我审视与苛责（“我总是丢东西”）",
+            "在社交互动中过度担忧他人评价，谨小慎微"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备亲友支持资源（历史上曾能依靠他们应对困境）",
+          "愿意尝试行为实验并在引导下质疑自动化思维",
+          "主动尝试组织整理与正念等自助策略"
+        ],
+        "negative_force": [
+          "过度概括与读心术等认知偏差导致持续自我否定",
+          "迁居异国后的环境与文化适应压力增加不确定感",
+          "羞耻与被评判担忧导致回避求助与自我隔离",
+          "灾难化与对失控的恐惧加重焦虑体验"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在找不到或忘记物品时出现强烈焦虑并伴随自我否定（“我什么都做不好/别人会觉得我无能”）",
+          "antecedent": [
+            "找不到或忘记重要物品的情境",
+            "搬到瑞典后面对陌生环境与适应压力",
+            "他人目光或在场（触发被评判的担忧）"
+          ],
+          "core_reason": "对被他人评判为无能的恐惧与灾难化认知（对失控/“失去理智”的担心），伴随外部验证倾向",
+          "function": "逃避被评判与不确定性，通过自我监控与组织行为获得短暂的控制感",
+          "consequence": "日常生活被显著干扰，生产力与福祉下降，人际关系受影响（更少求助与交流）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1935
+}

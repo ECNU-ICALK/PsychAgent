@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "罗婷",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "有一个女儿，近期大学毕业并获得工作机会",
+      "social_status": "未提及",
+      "medical_history": "过去未出现类似问题；未接受过心理治疗；无重大身体疾病",
+      "language_features": "略显忐忑但愿意表达，语言清晰，有自我反思能力，配合度较高，语气中性"
+    },
+    "main_problem": "尽管积极参与运动、每天跑步并多次参加铁人三项，我一直觉得自己“没什么特别”，自我价值感低、常自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "持续的自我不足感显著影响我的自尊与整体幸福感，促使我寻求咨询，希望缓解负面自我认知并提升自尊。",
+    "growth_experiences": [
+      "在女儿大学毕业后，罗婷的压力增加，开始将自己的成就与女儿的学业和职业成就进行比较。每当参加女儿的活动、完成每日跑步或参与体育赛事后，这种比较会触发强烈的不足感与自我怀疑。她过去没有类似心理困扰，也未接受过心理治疗，身体健康状况良好。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有什么特别之处",
+        "我不够好",
+        "我的成就没有意义"
+      ],
+      "special_situations": [
+        {
+          "event": "每日跑步结束后",
+          "conditional_assumptions": "如果我的成就不比他人更突出，就不算有价值",
+          "compensatory_strategies": "通过持续投入运动（每天跑步、多次铁人三项）与理性化来试图证明和稳定自我价值",
+          "automatic_thoughts": "我没什么特别的；这有什么意义？",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "参加女儿的活动或在女儿毕业与工作邀约的节点",
+          "conditional_assumptions": "如果我的成就不如女儿，就说明我不如她、价值更低",
+          "compensatory_strategies": "试图把注意力转向自己的努力，但仍不断与女儿进行比较来评估自我",
+          "automatic_thoughts": "我不如她；我做的都不值一提",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "看到社交媒体上女儿的新项目发布",
+          "conditional_assumptions": "他人的外在成就与认可是衡量自我价值的主要标准",
+          "compensatory_strategies": "浏览信息同时尝试提醒自己努力的价值，但难以维持正面感受",
+          "automatic_thoughts": "我的努力不重要；这都不算数",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "完成一次铁人三项比赛后",
+          "conditional_assumptions": "只有获得更显著、外界认可的成绩，我的价值才成立",
+          "compensatory_strategies": "以更高标准要求自己，期望通过更艰难赛事获得认可",
+          "automatic_thoughts": "为什么还要努力？",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见，证明自身有价值与意义",
+        "fear": "害怕在比较中显得不如人、被忽视或被贬低",
+        "defense_goal": [
+          "通过理智化与自我比较来维持控制感并降低被否定的风险",
+          "以自我贬低先行来避免更大的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、价值不足的个体（作为母亲与运动者）",
+          "object_representation": "被理想化的成功者（如女儿、他人），掌握评判标准的人",
+          "linking_affect": "自卑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或面对女儿的学业与职业成就，或被邀请评估自己的运动成就时",
+          "interpretation": "倾向认为他人（包括咨询师）也会觉得她的成就不值得被认可，从而确认“我不够好”的信念",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "语气稳定、共情而不评判；减少过度解释，邀请其停留在当下体验（如完成跑步后的身体与情绪感受），用开放式问题温柔追问其自我价值的主观体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "完成跑步后常想“这有什么意义？”",
+            "认为自己的体育成就不重要",
+            "与女儿比较后感到人生价值降低"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "持续的自我怀疑",
+            "运动乐趣降低",
+            "情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁使用自我否定语言（如“我没什么特别的”）",
+            "在分享成就时过度谨慎并迅速转向比较",
+            "开场时对“敞开心扉”感到忐忑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在完成每日跑步或体育赛事后，来访者通常会迅速陷入自我贬低与无意义感，导致自尊受损与情绪低落。",
+          "unique_outcome": "最近一次完成一段特别艰难的跑步后，来访者当下感到很强大、不可阻挡，并短暂地为自己感到自豪，没有立即陷入比较与自我否定。",
+          "reason": "不同情境：当下专注于身体感受与挑战本身，社交媒体刺激尚未出现；不同做法：将注意力放在个人努力与体验上，因而短暂保持了积极体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "长期坚持运动与自律（每日跑步、完成多次铁人三项）",
+          "具备自我反思能力，能识别并愿意讨论负性思维模式",
+          "愿意求助并参与咨询，动机较稳定",
+          "在个别情境能体验到自豪与力量（如艰难跑步后）",
+          "有朋友可在困难时沟通（虽不习惯谈脆弱）"
+        ],
+        "negative_force": [
+          "倾向比较并以外在标准衡量自我价值（尤其与女儿的成就比较）",
+          "否定积极与心理过滤，难以保留正面体验",
+          "缺乏能安心谈论脆弱的支持者，情感承载有限",
+          "自尊脆弱、习惯性自我贬低",
+          "运动后高发的无意义感与自我怀疑，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "运动后出现自我贬低与无意义感（伴随自我怀疑与自尊下降）",
+          "antecedent": [
+            "完成每日跑步",
+            "参加体育赛事（如铁人三项）",
+            "参加女儿的活动",
+            "看到女儿的社交媒体动态",
+            "女儿毕业后的相关事件与信息"
+          ],
+          "core_reason": "以与女儿及他人比较为核心的外部验证取向；消极核心信念（如“我不够好”“我没有特别之处”）；否定积极与心理过滤使正向体验被快速抹消。",
+          "function": "通过先行自我贬低来逃避被否定或失望的风险、维持控制感；减少情感投入以缓解焦虑。",
+          "consequence": "自尊受损、运动乐趣下降、日常活动受影响、持续的自我怀疑与情绪低落。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1551
+}

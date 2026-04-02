@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "林萱",
+      "gender": "女",
+      "occupation": "未说明",
+      "educational_background": "未说明",
+      "marital_status": "与住在意大利的男友恋爱中",
+      "family_status": "与母亲同住",
+      "social_status": "与男友关系因自我不足感而受影响；未向母亲倾诉相关感受",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "有些紧张，表达清晰，配合度较高，愿意尝试记录思维"
+    },
+    "main_problem": "由于把我做的千层面烤糊了，我一直在经历不够好的感觉以及成为“完美妻子”的压力。",
+    "topic": "婚姻关系",
+    "core_demands": "我意识到这种不够好的感觉正在影响我的自尊和关系，因此寻求咨询来处理这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于我能否成为一个完美的妻子",
+        "如果我做不好家务（例如做饭），我就是不够好/不合格"
+      ],
+      "special_situations": [
+        {
+          "event": "为男友做的千层面烤糊了（想用意大利菜给住在意大利的男友留下好印象）",
+          "conditional_assumptions": "如果连简单的饭菜都做不好，就说明我不适合做妻子，会让对方失望",
+          "compensatory_strategies": "尝试提升厨艺，同时回避为男友做饭与回避婚姻话题",
+          "automatic_thoughts": "我连简单的菜都做不好，我会成为一个糟糕的妻子。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每当再次尝试做饭",
+          "conditional_assumptions": "如果再次失败，就会证明我不胜任，将来婚姻也会失败",
+          "compensatory_strategies": "减少下厨、拖延或回避烹饪",
+          "automatic_thoughts": "这次又会出错，他会看轻我。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当谈到婚姻话题",
+          "conditional_assumptions": "伴侣会依据我的家务能力来评判我，一旦不够好就会被拒绝",
+          "compensatory_strategies": "回避与男友讨论婚姻，压抑真实感受",
+          "automatic_thoughts": "他会觉得我很麻烦/不值得。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到男友在意大利、希望通过做意大利菜来打动他",
+          "conditional_assumptions": "只有满足对方和外界的标准与认可，我才算有价值",
+          "compensatory_strategies": "过度迎合对方面子与文化期待，通过表现来寻求肯定",
+          "automatic_thoughts": "我必须通过这道菜证明自己被他认可。",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱与被接纳，作为伴侣/未来妻子被肯定",
+        "fear": "害怕因不完美而被贬低或被拒绝，甚至导致关系破裂",
+        "defense_goal": [
+          "通过追求完美来避免被评判",
+          "保持一定的回避与疏离以降低被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够格、容易失败的准妻子",
+          "object_representation": "挑剔、会失望并可能贬低自己的重要他人（男友）",
+          "linking_affect": "羞耻、焦虑、被评判的恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当男友关心地询问“是否有问题”或注意到她的变化时",
+          "interpretation": "如果承认困扰，对方会觉得自己麻烦、能力不足",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以轻描淡写的语气说“我没事”，迅速换话题，避免深入讨论。"
+        },
+        {
+          "trigger_condition": "当出现婚姻话题或被期待展示家务/烹饪能力时",
+          "interpretation": "对方会像评判者一样挑错并否定我",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "语气谨慎、含糊其辞，强调“现在不方便谈”，把不安归因于对方可能的反应。"
+        },
+        {
+          "trigger_condition": "当被邀请探讨失误背后的情绪与需要（例如在咨询中聚焦烤糊事件）",
+          "interpretation": "表达脆弱会暴露无能并带来失望",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "用客观理由解释（如“只是时间把握不好”），淡化情绪色彩，避免谈羞耻与恐惧。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对“成为一名完美妻子”的角色期待与自我要求强烈，将选择与责任等同于必须完美",
+            "担心一次失误就意味着未来婚姻失败"
+          ],
+          "outcomes": [
+            "持续的焦虑与自责",
+            "回避做饭与回避婚姻话题",
+            "关系疏离感增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被否定而不敢向男友表达真实感受",
+            "即使母亲同住也未向其倾诉不安"
+          ],
+          "outcomes": [
+            "情感隔离与疏远",
+            "支持系统未被有效利用"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须成为完美妻子”为内在准则评价自我",
+            "以外界标准与他人期待来衡量自身价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向男友表达困扰，把能量转向自我压抑与回避",
+            "担心“别让他担心”，因此减少求助"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设男友会觉得她“太麻烦/不够能力”，因此回避沟通"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我不够好”，在关系与沟通中格外小心以避免暴露失误"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与伴侣关系和婚姻相关的情境中，来访者通常会灾难化并自我否定，从而回避做饭与回避婚姻话题。",
+          "unique_outcome": "在一次工作项目中，来访者获得了良好表现与正面反馈，体验到自己是有能力的，这与其平时“一次失误就全盘否定自我”的反应不同。",
+          "reason": "不同情境/做法：工作任务边界清晰、标准明确，专注于具体步骤与执行，更容易看见自身能力，因此出现了更有掌控感的体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在工作场景中有能力经验，能从成功中看到自己的胜任感",
+          "愿意求助并尝试记录自动化思维，具备改变的动机",
+          "拥有可利用的家庭支持资源（母亲同住）"
+        ],
+        "negative_force": [
+          "将自我价值与“完美妻子”挂钩的僵化信念与完美化标准",
+          "灾难化、过度概括、读心术等认知偏差",
+          "回避式应对（不做饭/不谈婚姻）维持焦虑与自我否定",
+          "倾向寻求外部认可，忽视自身已有能力证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避做饭/下厨",
+          "antecedent": [
+            "想到或开始为男友做饭",
+            "回想起千层面烤糊的经历"
+          ],
+          "core_reason": "将一次失误过度概括为“我不适合做妻子”，并灾难化后果，担心被评判",
+          "function": "逃避可能的失败与羞耻，暂时减少焦虑",
+          "consequence": "维持和加重对烹饪的焦虑，自我效能感下降，影响日常生活与亲密关系"
+        },
+        {
+          "behavior": "回避谈论婚姻/对未来的沟通",
+          "antecedent": [
+            "当与男友谈起婚姻",
+            "被问及是否有问题或未来计划"
+          ],
+          "core_reason": "读心术式地预测对方会否定自己，将被拒绝的恐惧内化为回避",
+          "function": "避免可能的冲突或被拒绝，暂时保持表面平静",
+          "consequence": "关系疏远，沟通减少，担忧持续存在"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1433
+}

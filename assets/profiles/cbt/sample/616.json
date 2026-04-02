@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈涛",
+      "gender": "男性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未婚",
+      "family_status": "母亲是癌症幸存者",
+      "social_status": "有支持性的朋友与母亲，但因难以敞开心扉，朋友关系有所紧张",
+      "medical_history": "无显著躯体疾病；既往未接受心理治疗/咨询",
+      "language_features": "表达清楚，能具体描述情绪与经历；语气偏消极与绝望；在咨询中能配合探索但对改变持怀疑态度；晚间独处时反复担忧"
+    },
+    "main_problem": "我因为单身而持续相信自己无法找到爱我的人，这种信念带来孤独与绝望。六个月前的分手后开始加重，最初压力很高，因为分手出乎意料且情感上很难承受。问题发展到让我对未来找到爱情感到绝望，并每日影响我的情绪。我多在晚上独处时经历这些绝望感。我尝试用爱好和更多社交来分散注意，但这些想法仍然存在。",
+    "topic": "人际关系",
+    "core_demands": "促使我寻求咨询的决定性因素是意识到孤独与绝望的感受正在影响我的日常功能与身心健康。",
+    "growth_experiences": [
+      "六个月前经历一次突然而意外的分手：原以为关系良好却突然结束，初期压力水平很高，情绪受到强烈冲击，由此产生并强化了“我不被爱”“我有问题”的自我怀疑与绝望感；此后在夜间独处时反复陷入对未来爱情的无望与担忧。",
+      "过往多次分手后曾出现短期的绝望与无助：尽管当时影响较小且持续时间较短，但这些失败关系在回忆中被视作“失败的证据”，逐渐固化为对自身关系前景的负性期待。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被爱",
+        "我注定会孤独"
+      ],
+      "special_situations": [
+        {
+          "event": "晚上独处时回想过去的恋爱经历及六个月前的分手",
+          "conditional_assumptions": "如果我现在单身，就说明我不被爱，未来也不会找到伴侣",
+          "compensatory_strategies": "尝试用兴趣爱好与社交分散注意，但避免向亲友深度倾诉以免“增添负担”",
+          "automatic_thoughts": "我会一直一个人，未来也不会有爱我的人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "六个月前一次突然而意外的分手",
+          "conditional_assumptions": "如果关系突然结束，就证明我本质上有问题，不值得被爱",
+          "compensatory_strategies": "反复自我检视失败、降低期待，减少与朋友相处",
+          "automatic_thoughts": "我有问题，没人会真正爱我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想多段失败的过往恋情并将其作为证据",
+          "conditional_assumptions": "几次失败就意味着以后都会失败，过去的负面经历决定了未来",
+          "compensatory_strategies": "只关注失败部分来“证明”自己的判断，回避积极证据（如他人对自己的关心）",
+          "automatic_thoughts": "我的关系总是以失败告终，所以我找不到爱",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到向朋友或母亲倾诉当前困扰",
+          "conditional_assumptions": "如果我表达负面情绪与担忧，就会给他们增添负担或被他们嫌弃",
+          "compensatory_strategies": "选择沉默、独自承受，不向亲友谈论内心感受",
+          "automatic_thoughts": "我不该麻烦他们，他们会觉得我是负担",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被爱、被接纳，建立稳定而亲密的关系",
+        "fear": "害怕再次被拒绝或抛弃，担心暴露脆弱后被评判、被视为“有问题”",
+        "defense_goal": [
+          "通过减少自我暴露与情感表达来保持安全，避免再次受伤与被拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、可能被拒绝的孤独者",
+          "object_representation": "会突然离开或评判自己的拒绝者（如前任）",
+          "linking_affect": "孤独、绝望、羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其与亲友分享感受或建议进行行为实验以挑战负性信念时",
+          "interpretation": "认为表达困扰会让他人成为负担，可能被评判或拒绝",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气谨慎、保留，使用“我不想麻烦别人”“这可能没用”之类的理由推迟或回避行动，减少情感细节。"
+        },
+        {
+          "trigger_condition": "在晚上独处、回忆失败关系并被询问具体情绪时",
+          "interpretation": "将注意集中在失败证据，弱化积极关系经验以避免期望带来的再次失望",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以概括性、分析性的方式叙述经历，降低情绪词使用，避免进入当下感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "单身状态被视为“不被爱”的证据",
+            "晚上独处时加剧的担忧与绝望",
+            "难以向支持者（朋友、母亲）敞开谈论感受"
+          ],
+          "outcomes": [
+            "持续的孤独感与绝望",
+            "社交回避、人际关系紧张",
+            "睡眠受扰、情绪低落"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对未来找到爱情的无望感",
+            "将过去关系失败视为未来的决定性证据"
+          ],
+          "outcomes": [
+            "日常功能下降（工作注意力受影响）",
+            "动力与希望感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不向朋友或母亲表达困扰，选择独自承受",
+            "在需要支持时转而压住自己的表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为向亲友倾诉会让他们觉得自己是负担，从而推断他们会不愿意接纳自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备支持性品质（在过往关系中自评为支持与关怀的伴侣）",
+          "拥有支持性的朋友与母亲",
+          "愿意尝试咨询与改变，能意识到思维模式的问题"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来、心理过滤等认知偏差显著",
+          "夜间独处时反刍与担忧加剧",
+          "回避向他人敞开与求助，社交收缩",
+          "自我否定（认为自己“有问题”“不被爱”）",
+          "睡眠受扰、情绪低落影响工作与日常功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "夜间独处时出现强烈的担忧与绝望感（反刍思维）",
+          "antecedent": [
+            "晚上独处",
+            "回想六个月前的突发分手与过往失败恋情"
+          ],
+          "core_reason": "分手创伤激活“我不值得被爱”的核心信念，并以灾难化、预测未来与心理过滤等认知模式维持",
+          "function": "通过预先绝望来逃避不确定性与潜在拒绝的情绪痛苦",
+          "consequence": "睡眠被扰、情绪低落与绝望、日常功能与工作注意力下降"
+        },
+        {
+          "behavior": "回避与朋友互动、难以向支持者（朋友、母亲）敞露感受",
+          "antecedent": [
+            "想到向亲友倾诉时",
+            "被邀请社交或谈论感受时"
+          ],
+          "core_reason": "担心成为他人的负担或被评判（个人化/读心术倾向），以避免再次受伤",
+          "function": "逃避可能的尴尬或拒绝，维持表面安全与控制感",
+          "consequence": "人际关系紧张、孤独感加剧，无法获得外界支持与安抚"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 616
+}

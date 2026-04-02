@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "45",
+      "name": "陈浩",
+      "gender": "男",
+      "occupation": "朋克乐队歌手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与室友同住",
+      "social_status": "与乐队成员和朋友的关系因持续的消极心态而紧张；拥有支持性的室友与乐队伙伴，但尚未向他们充分表达自己的感受与困扰",
+      "medical_history": "无类似心理问题史；未接受过其他心理问题的治疗或咨询；无重大躯体疾病",
+      "language_features": "表达清晰、合作度较高；反复出现消极预测与绝望表述；能在引导下考虑采取小步骤进行现实检验"
+    },
+    "main_problem": "航班机票被取消后，我对是否还能去英国感到绝望，这让我极度痛苦和失望。",
+    "topic": "情绪管理",
+    "core_demands": "由于对旅行计划的压倒性绝望与失望，我需要帮助来应对和调节这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "好事不会发生在我身上",
+        "我无法掌控命运，外界与我作对"
+      ],
+      "special_situations": [
+        {
+          "event": "航班因天气原因被取消",
+          "conditional_assumptions": "如果一次重要计划被打断，就意味着它永远不会发生",
+          "compensatory_strategies": "回避重新订票与进一步行动，以避免再次失望",
+          "automatic_thoughts": "这辈子我都去不了英国了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到他人前往英国的照片或听到他人谈论英国旅行",
+          "conditional_assumptions": "如果别人能做到而我现在做不到，说明我以后也做不到",
+          "compensatory_strategies": "回避与英国相关的信息或话题，减少社交以避免被触发",
+          "automatic_thoughts": "别人都能去，只有我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "开始考虑或准备查询/重新订票",
+          "conditional_assumptions": "如果再次尝试，一定会再次失败，我会比现在更痛苦",
+          "compensatory_strategies": "拖延、停止查询信息以降低短期焦虑",
+          "automatic_thoughts": "肯定又会被取消，总会出岔子",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "排练或演出时想到无法去英国这件事",
+          "conditional_assumptions": "如果一个重要目标落空，其他事情也会随之变糟",
+          "compensatory_strategies": "降低投入、心不在焉，表现回避",
+          "automatic_thoughts": "我做什么都不会顺利",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望实现多年珍视的旅行梦想并获得满足与掌控感",
+        "fear": "害怕再次抱有希望后被击碎，陷入更深的失控与绝望",
+        "defense_goal": [
+          "通过悲观预测与回避行动来降低失望与焦虑",
+          "保持低期望以自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "受挫、无力的梦想追逐者",
+          "object_representation": "不可控、与自己作对的外界/命运",
+          "linking_affect": "绝望、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议采取小步骤（如查询航班、联系航空公司）或鼓励其重新评估可行性时",
+          "interpretation": "若抱希望或付诸行动，就会再度被现实击败（将咨询师的鼓励体验为不切实际，预期再次受伤）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "语气谨慎、犹疑，强调最坏可能；反复表示“不要抱太大希望”，婉转推迟立即行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "多年规划的梦想之行被取消后感到“宇宙与我作对”",
+            "对生活日常失去动力与意义感，陷入无望感",
+            "看到他人旅行即被强烈触发，体验到个人价值与期待受挫"
+          ],
+          "outcomes": [
+            "深度失望与绝望",
+            "回避行动、拖延尝试",
+            "人际关系紧张",
+            "工作/表演受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做（将能量由外转内）。",
+          "manifestations": [
+            "避免联系航空公司或查询方案以免再受挫",
+            "不向室友和乐队伙伴表达真实的痛苦程度",
+            "把对外寻求支持与行动的冲动压回自己，维持停滞"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我限制：不敢“再抱希望”以避免再受伤",
+            "在讨论行动时强调风险与最坏结果，谨小慎微地压低期待"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的室友与乐队伙伴，可提供情感支持",
+          "对英国旅行长期规划与强动机，显示持久投入能力",
+          "具备一定的现实检验意愿（能考虑替代方案与小步骤）",
+          "身体健康、无严重医学负担，有职业与团队角色责任"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与非黑即白思维模式强化无望感",
+          "外部控制感强，倾向相信“宇宙与我作对”",
+          "回避行动与拖延（不查询、不重新订票），短期减压却维持问题",
+          "反刍性负面思维导致注意力受扰与情绪低落",
+          "不向支持网络充分表达需求与情绪，降低获得外部资源的机会"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避重新订票与信息收集",
+          "antecedent": [
+            "想到航班被取消的经历",
+            "准备采取行动（查询航班/联系航空公司）时",
+            "看到与英国相关的内容被触发"
+          ],
+          "core_reason": "害怕再次失望与失控，灾难化预测未来导致行动抑制",
+          "function": "逃避潜在失败与失望，短期降低焦虑与痛苦",
+          "consequence": "旅行目标停滞，负性情绪维持；工作与人际受损，日常作息被打乱"
+        },
+        {
+          "behavior": "反复的负性反刍思维（“我永远去不了英国”）",
+          "antecedent": [
+            "看到他人英国旅行的照片或听相关故事",
+            "独处或回想被取消事件时"
+          ],
+          "core_reason": "外部控制感与非黑即白信念驱动，对确定性的渴望与自我保护的低期待策略",
+          "function": "试图通过不断思考获得确定性、同时降低期待以减少再次受挫的风险",
+          "consequence": "情绪低落、注意力不集中、演出表现下降；与朋友/乐队伙伴关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 754
+}

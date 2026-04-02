@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "张静怡",
+      "gender": "女",
+      "occupation": "市场专员",
+      "educational_background": "工商管理硕士",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有几位亲密朋友，但较少主动倾诉个人孤独感",
+      "medical_history": "无显著躯体疾病；无以往心理治疗史；既往无类似心理问题经历",
+      "language_features": "表达清晰、思路连贯、起初略焦虑但愿意合作；能在引导下识别并讨论负性思维；语速平稳、配合度高"
+    },
+    "main_problem": "在秋冬季（尤其周末）感到被困在室内、孤独与隔离，无法像以往那样充分享受自己最喜欢的季节；近几年随着对未婚状态的自我质疑与社会压力感受而加重，导致外出减少、社交退缩与自我照料动力下降。",
+    "topic": "情绪管理",
+    "core_demands": "这些在我最喜欢的季节里感到孤独与隔离的感受变得难以承受，影响心情和日常活动，希望通过咨询得到帮助。",
+    "growth_experiences": [
+      "几年前开始在秋冬季逐渐出现被困于室内与孤独感的体验，同时因未婚而产生自我质疑并感受到社会期待与压力；此后每逢秋冬（尤其周末）症状加重，逐步发展为减少外出、社交退缩与自我照料动力下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定是孤独的",
+        "如果没有达到社会的婚姻标准，我就不被接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "秋冬季的周末天气寒冷，常待在屋内，联想到自己无法像过去那样享受季节",
+          "conditional_assumptions": "如果是秋冬季或天气寒冷，我就无法外出与享受，待在家里就等于浪费我最喜欢的季节",
+          "compensatory_strategies": "用室内活动与发展新爱好来分散注意，但仍减少外出",
+          "automatic_thoughts": "我会一直被困在家里，秋冬就这样被浪费了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "关注到同龄人与社会对婚姻的期待，想到自己尚未结婚",
+          "conditional_assumptions": "如果我这个年龄还没结婚，就说明我不正常、不被认可",
+          "compensatory_strategies": "自我比较、自责，回避社交以避免被评价",
+          "automatic_thoughts": "我这个年纪就应该结婚，否则就是失败",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "想到是否向朋友倾诉孤独感",
+          "conditional_assumptions": "如果我表达孤独与需要，就会给朋友添麻烦、影响关系",
+          "compensatory_strategies": "保持沉默，不主动求助或分享感受",
+          "automatic_thoughts": "他们不想被我麻烦，我不该说这些",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与过去能享受秋冬的自己做比较，想到现在与未来的状态",
+          "conditional_assumptions": "如果现在这样困难，未来每个秋冬都会如此，改变也无效",
+          "compensatory_strategies": "减少尝试改变与外出，陷入消极比较",
+          "automatic_thoughts": "事情不会变好，我每年秋冬都会一直这样",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与建立亲密联系，并能在喜爱的季节里自由地外出、享受生活",
+        "fear": "害怕被拒绝与被评判为“不正常/失败”，担心暴露脆弱后受伤，以及孤独感会持续不变",
+        "defense_goal": [
+          "通过保持距离与自我孤立来避免被拒绝与负面评价",
+          "内化社会标准以获得安全感与方向感",
+          "以理性分析与自我要求来压抑不安与脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "把自己视为可能给别人添麻烦的孤独者",
+          "object_representation": "朋友/他人被想象为不愿被负担、可能不想倾听的人",
+          "linking_affect": "羞愧、焦虑、孤独"
+        },
+        {
+          "self_representation": "被困与无力的旁观者",
+          "object_representation": "社会/他人被体验为带有评判与要求的集体",
+          "linking_affect": "无力、压迫感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨是否可以与朋友分享感受、建立支持时",
+          "interpretation": "认为表达自己的需要会给他人造成负担，关系可能变差",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和礼貌，强调“我不想麻烦别人”，更多陈述顾虑而非直接提出支持请求。"
+        },
+        {
+          "trigger_condition": "当谈及未婚与社会期待相关话题时",
+          "interpretation": "不自觉地将社会规范与他人期待内化为自我标准，用“应该/必须”评判自己",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "使用“应该、必须”等词语自我评价，语气收敛、带有自我苛责，减少情绪表露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在秋冬季（尤其周末）体验显著的孤独与被困感",
+            "随着对未婚状态的自我质疑与社会压力而加重",
+            "犹豫向朋友表达感受，担心成为负担，因而减少求助",
+            "与过去能享受季节的自己比较，感到落差与隔绝"
+          ],
+          "outcomes": [
+            "情绪低落与无助感加重",
+            "社交退缩与隔离",
+            "自我照料与日常活动动力下降",
+            "对未来的消极预期"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "因未婚而感到强烈社会压力，用“应该/必须”的标准评价自己",
+            "将社会对婚姻的期待等同为自我价值判准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心打扰朋友而不表达孤独与需求",
+            "在会谈与人际中语气谨慎、更多谈想法而非直接寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作表现稳定（职业功能保持良好）",
+          "拥有几位可联系的亲密朋友（潜在社会支持）",
+          "主动求助并对咨询持积极态度，愿意练习认知重构",
+          "能识别并描述负性自动思维",
+          "曾尝试通过室内活动与新爱好进行自助应对"
+        ],
+        "negative_force": [
+          "秋冬季节触发的强烈孤独与被困感",
+          "对婚姻与社会期待的内摄，导致自我苛责",
+          "预测未来、心理过滤等认知歪曲维持低落情绪",
+          "回避向朋友求助，担心成为负担",
+          "动机下降与自我照料减少，形成恶性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "秋冬周末长期待在室内、减少外出",
+          "antecedent": [
+            "秋冬季节天气寒冷",
+            "周末缺少固定安排",
+            "出现“会被困/浪费季节”的自动化想法"
+          ],
+          "core_reason": "对寒冷季节的灾难化与负性预期，伴随孤独感上升；内化社会压力引发心境低落",
+          "function": "逃避不适情绪与可能的社交不安",
+          "consequence": "社交隔离加重、情绪低落、对季节的欣赏与满足感下降"
+        },
+        {
+          "behavior": "避免向朋友表达孤独与寻求支持",
+          "antecedent": [
+            "感到孤独时想到是否联系朋友",
+            "涉及个人感受的沟通场景"
+          ],
+          "core_reason": "担心给他人添麻烦、被拒绝或被评判",
+          "function": "避免潜在的拒绝与羞耻感",
+          "consequence": "社会支持减少，孤独感维持并加重"
+        },
+        {
+          "behavior": "自我照料与日常活动动机下降",
+          "antecedent": [
+            "秋冬周末心境低落时",
+            "出现“事情不会变好”的想法"
+          ],
+          "core_reason": "过度概括与情绪化推理导致无力与退缩",
+          "function": "短时降低努力以避免失败感与挫败",
+          "consequence": "生活质量下降，负性情绪与回避行为形成循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 387
+}

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "陈凯文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "独生子，无兄弟姐妹",
+      "social_status": "与朋友关系良好，但对该恐惧不易敞开",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题；无接受过心理治疗的经历",
+      "language_features": "表达清晰、逻辑性较好，配合度高，能进行自我反思；态度积极"
+    },
+    "main_problem": "我一直有一个持续性的想法：因为我是独生子，最终会在没有人照顾的情况下孤独地死去。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这种持续的想法正在影响我的心理健康并带来痛苦，因此寻求咨询；我需要帮助来应对并缓解这一想法对我的影响。",
+    "growth_experiences": [
+      "自小为独生子，无兄弟姐妹。近几年这一身份逐渐引发对未来缺乏支持系统的担忧；在看到亲密家庭或节假日时，这种担忧被强化，随之出现焦虑与悲伤。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会孤独终老",
+        "没有人会真正照顾我"
+      ],
+      "special_situations": [
+        {
+          "event": "看到亲密家庭在一起或家庭聚会的场景",
+          "conditional_assumptions": "如果没有兄弟姐妹或血缘支持，将来就不会有人照顾我",
+          "compensatory_strategies": "用兴趣爱好分散注意力，回避这类场景与话题",
+          "automatic_thoughts": "我最终会没有人照顾，孤独地死去",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "节假日或特殊场合（如假期）",
+          "conditional_assumptions": "节日没有家人陪伴就意味着我没有支持系统",
+          "compensatory_strategies": "不向朋友敞开以避免成为负担，转移注意力",
+          "automatic_thoughts": "我终究还是一个人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到自己是独生子这一身份",
+          "conditional_assumptions": "有兄弟姐妹才等于安全与被照顾；没有则注定孤独",
+          "compensatory_strategies": "把注意力转移，不去思考或讨论相关内容",
+          "automatic_thoughts": "独生子=将来必定孤独",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想朋友曾给予的支持与陪伴",
+          "conditional_assumptions": "非血缘的支持不可靠，朋友终究不能在关键时刻照料我",
+          "compensatory_strategies": "否定和贬低已有的支持证据",
+          "automatic_thoughts": "朋友现在在，但将来不会在我需要时出现",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被持续地关心与照料，拥有稳定可靠的支持关系",
+        "fear": "害怕被孤立、无人理解与照顾；担心暴露脆弱会被评判为夸张或成为负担",
+        "defense_goal": [
+          "避免向亲友袒露恐惧以降低被拒绝/被评价的风险",
+          "通过分散注意力压下孤独与恐惧",
+          "保持表面独立以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能被忽视、终将孤单的个体/潜在的负担者",
+          "object_representation": "他人是不可靠或不理解自己、可能认为自己小题大做的人",
+          "linking_affect": "焦虑、悲伤、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其考虑向亲密朋友分享这一具体恐惧时",
+          "interpretation": "担心他人会认为自己夸张、被自己问题所累，从而不愿敞开",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和，优先共情与验证，使用开放式问题与小步策略，鼓励评估潜在收益与界限，不施压。"
+        },
+        {
+          "trigger_condition": "在会谈中聚焦“独生子=孤独终老”的主题时",
+          "interpretation": "倾向以抽象推理谈论问题，减少情感卷入以避免不适",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持稳定、共情的语调，放慢节奏，邀请其关注当下的身体与情绪感受，帮助其在可承受范围内连接情绪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心作为独生子将无人照料而孤独死去",
+            "看到亲密家庭或在节假日时触发强烈孤独感",
+            "不敢向朋友敞开此恐惧，害怕成为负担或被误解"
+          ],
+          "outcomes": [
+            "频繁的焦虑与悲伤",
+            "日常生活受到影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心朋友觉得自己小题大做或成为负担而谨慎克制不开口",
+            "在讨论敏感议题时反复自我评估是否会“打扰别人”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "将想寻求支持的冲动转为自我压抑与消化（用兴趣爱好分散注意力）",
+            "在需要安慰时选择独自承受而不求助"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "以分心、转移注意的方式回避对“孤独终老”想法的直接接触",
+            "在触发情境下迅速转开话题或远离相关场景"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有几位亲密且支持性的朋友",
+          "具备自我觉察与表达能力，能描述想法与情绪",
+          "主动求助并开始咨询",
+          "态度积极，愿意尝试现实检验与行为实验"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维倾向",
+          "否定已有的积极支持（否定正面）",
+          "心理过滤，过度关注缺乏兄弟姐妹的证据",
+          "非黑即白地将“是否有兄弟姐妹”等同于“是否被照料”",
+          "回避向他人求助，担心成为负担与被评价"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复出现的灾难化/预测性想法（“因为我是独生子，我会孤独终老、无人照料”），伴随焦虑与悲伤",
+          "antecedent": [
+            "看到亲密家庭在一起",
+            "节假日/假期",
+            "想到自己是独生子与未来老年"
+          ],
+          "core_reason": "对孤独与失去支持系统的深层恐惧，并将“独生子”与“无人照料”作僵化等同",
+          "function": "通过反复预测最糟结果以获得对不确定未来的虚假控制感，并通过回避暂时降低焦虑",
+          "consequence": "频繁焦虑与悲伤，影响日常生活"
+        },
+        {
+          "behavior": "回避向亲密朋友分享恐惧/寻求支持",
+          "antecedent": [
+            "想到要与朋友谈及该恐惧时",
+            "他人建议其分享感受或求助时"
+          ],
+          "core_reason": "担心被视为夸张或给他人添麻烦，害怕被拒绝或负面评价",
+          "function": "逃避潜在的羞耻与被拒体验，短期维持安全感",
+          "consequence": "错失外部支持与纠正性经验，维持孤独与无助感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 947
+}

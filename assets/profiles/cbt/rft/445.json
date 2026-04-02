@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "方思婷",
+      "gender": "女",
+      "occupation": "咖啡师",
+      "educational_background": "部分大学教育",
+      "marital_status": "单身",
+      "family_status": "家庭来自阿尔及利亚",
+      "social_status": "与喜爱徒步的朋友关系出现紧张（常拒绝邀请）；日常生活受影响（避免规划徒步与户外活动）；有朋友可谈个人问题但尚未就该负性信念具体讨论。",
+      "medical_history": "无类似问题史；未接受过心理治疗；无重大躯体疾病。",
+      "language_features": "表达清晰、合作，语气中性；能具体描述经历与想法。"
+    },
+    "main_problem": "我有一种信念：尽管我喜欢徒步，但我在徒步方面很糟糕。这一信念让我感到痛苦并对自己的能力产生怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为关于自己徒步能力的负性信念影响了我的心情，并阻止我参与以前喜欢的活动。",
+    "growth_experiences": [
+      "去年一次特别艰难的徒步旅行（地形困难、路面湿滑）成为负性信念的起点：在那次经历后，她开始持续怀疑自己的徒步能力，认为自己很糟糕，并在每次考虑或计划徒步时产生焦虑与回避，逐渐减少了对徒步的享受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在徒步方面很糟糕"
+      ],
+      "special_situations": [
+        {
+          "event": "开始计划一次徒步或仅仅想到要去徒步",
+          "conditional_assumptions": "如果我在艰难地形上可能表现不好，就说明我整体徒步很差；为了避免再次失败，我不该去。",
+          "compensatory_strategies": "取消计划或找借口不去徒步。",
+          "automatic_thoughts": "我很糟糕，我应该待在家里。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想去年那次地形艰难且路面湿滑的徒步经历",
+          "conditional_assumptions": "一次糟糕的经历足以证明我能力不足，之后也会同样糟糕甚至更糟。",
+          "compensatory_strategies": "避免难度较高的路线，或直接不去徒步。",
+          "automatic_thoughts": "这次也会很糟，可能会出安全问题。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "被朋友邀请一起去徒步",
+          "conditional_assumptions": "如果我表现不好就会拖累大家、让朋友失望，说明我不行。",
+          "compensatory_strategies": "拒绝邀请、减少与他们外出以避免被评价。",
+          "automatic_thoughts": "他们会觉得我很差，最好别去。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回忆以往成功的徒步经历",
+          "conditional_assumptions": "积极经验只是运气，不代表真实能力。",
+          "compensatory_strategies": "向朋友寻求再保证，但很快否定正面反馈。",
+          "automatic_thoughts": "那只是侥幸，不算数。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望继续享受徒步、获得自信并被朋友接纳",
+        "fear": "害怕再次失败与被负面评价，体验羞耻与挫败",
+        "defense_goal": [
+          "通过回避徒步来降低焦虑、保护自尊与关系"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不足、容易失败并可能拖累他人的徒步者",
+          "object_representation": "会失望或批评自己的朋友（潜在的评判者）",
+          "linking_affect": "焦虑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "负性信念限制了选择与行动，避免参与曾经喜爱的徒步",
+            "在计划徒步时犹豫、恐惧，难以自我决定"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑增加",
+            "回避行为加重",
+            "生活乐趣下降",
+            "与朋友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "热爱徒步且有动机恢复参与",
+          "曾有成功的徒步经验可作为正面证据",
+          "愿意尝试行为实验并记录想法",
+          "拥有朋友与一定的社会支持"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、否定积极、个人化等认知偏差",
+          "对徒步能力的负性核心信念（“我在徒步方面很糟糕”）",
+          "回避徒步以获得短期缓解，强化了长期的恐惧与自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避徒步及相关户外活动",
+          "antecedent": [
+            "计划或想到要去徒步",
+            "收到朋友的徒步邀请",
+            "回忆去年一次困难的徒步经历",
+            "预估地形或天气条件可能艰难/湿滑"
+          ],
+          "core_reason": "对徒步能力的负性核心信念与灾难化预测（担心再次失败或发生不安全情况）。",
+          "function": "逃避焦虑与潜在失败，获得短期安全感与自尊维持。",
+          "consequence": "减少参与徒步与户外活动、心情受影响、与爱好徒步的朋友关系紧张、生活乐趣下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 445
+}

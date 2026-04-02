@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "56",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "西尔斯的销售助理",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居，与一只法国斗牛犬同住",
+      "social_status": "与同事关系紧张；与妻子的关系因内疚与自我怀疑而受影响；有一位亲密朋友，但难以与其讨论不足感",
+      "medical_history": "无显著躯体疾病；过去未接受心理治疗；此前未经历类似心理问题",
+      "language_features": "表达偏消极与怀疑；易使用绝对化判断（如“我是一个糟糕的父亲”）与“应该”句式；倾向否定正面、心理过滤；出现个人化归责与强烈内疚；在关系中防御性增强（变得尖刻）；配合度一般但愿意尝试行为实验"
+    },
+    "main_problem": "我倾向于否定自己成就中的积极部分，这导致了不足感和自我怀疑。这种感受始于我曾立志当记者却最终做了销售助理；我常将当前工作与梦想职业比较，自那时起问题逐渐加重，并在达到里程碑或获得认可后尤为明显。我尝试通过积极自我对话来转变心态，但效用有限。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到持续的不足感正在影响我的自尊与整体心理健康，因此寻求咨询帮助。",
+    "growth_experiences": [
+      "早期立志成为记者，但最终进入零售行业担任销售助理。最初将现实工作与梦想职业进行比较时压力为中等；随后频繁在达成里程碑（如被评为月度销售助理）后仍习惯性贬低自身成就，产生不足感与自我怀疑，并对工作表现、人际关系和日常自我照护造成影响。曾尝试通过积极自我对话调整心态，但未能有效缓解。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是一个糟糕的父亲"
+      ],
+      "special_situations": [
+        {
+          "event": "上个月被评为“月度销售助理”",
+          "conditional_assumptions": "如果一个成就是任何人都能轻易做到的，那就不值得被认可",
+          "compensatory_strategies": "淡化与贬低自己的成绩，避免接受他人赞扬；以积极自我暗示试图压过自我怀疑",
+          "automatic_thoughts": "这不算什么，谁都可以做到；我不是真的有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "女儿出现疼痛或生病",
+          "conditional_assumptions": "作为父亲，我必须立即让她不再疼痛，否则就是失败",
+          "compensatory_strategies": "把责任全揽到自己身上并过度自责；在当下冻结不行动",
+          "automatic_thoughts": "这是我的错；我是一个糟糕的父亲",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与妻子谈及内疚或情绪时的互动",
+          "conditional_assumptions": "如果暴露脆弱，伴侣会看不起我、认为我很弱",
+          "compensatory_strategies": "回避自我揭露，变得尖刻与防御以保护自己",
+          "automatic_thoughts": "她会看不起我；我不配和她说话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "将当前工作与未实现的记者梦想进行比较",
+          "conditional_assumptions": "如果没有达到理想职业，就意味着失败",
+          "compensatory_strategies": "通过不断比较来鞭策自己，同时否定现实中的成果",
+          "automatic_thoughts": "我失败了，因为我没有成为记者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定为称职的父亲与有价值的人，并被伴侣与他人接纳",
+        "fear": "害怕因不够好而被责备、被看不起，或让家人受伤",
+        "defense_goal": [
+          "通过自我贬低与否定成就来降低他人期望、避免失望与评判",
+          "在亲密关系中保持防御与距离以避免暴露脆弱"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、失败的父亲",
+          "object_representation": "伴侣是批判与看不起我的审判者",
+          "linking_affect": "羞愧、恐惧、内疚"
+        },
+        {
+          "self_representation": "不配被认可的员工",
+          "object_representation": "同事/主管是挑剔的评判者",
+          "linking_affect": "自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验或建议观察与女儿的互动时",
+          "interpretation": "认为咨询师过于乐观，觉得这些方法对自己“没用”（将无助体验视为决定性事实）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以怀疑与否定的语气回应，如“这不会有用”，提前下结论，减少具体讨论。"
+        },
+        {
+          "trigger_condition": "当被询问近期内疚的具体场景与感受时",
+          "interpretation": "将强烈的内疚视为事实并试图不去感觉它",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "回避情感词汇，简短作答并迅速转向工作或日常事务，弱化当下情绪。"
+        },
+        {
+          "trigger_condition": "谈到与妻子的关系或被邀请更开放地表达脆弱时",
+          "interpretation": "将伴侣感知为可能的批判者，认为暴露会被看作软弱",
+          "defense_mechanism": "转移",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "以防御性的语气转而抱怨其他事务，或对伴侣发出不满以避免讨论自身脆弱。"
+        },
+        {
+          "trigger_condition": "当女儿出现不适、需要安慰而自己感到无力时",
+          "interpretation": "把自身不够好理解为决定性的失败",
+          "defense_mechanism": "退行",
+          "defense_definition": "面临焦虑时，退回到早期发育阶段的行为方式。",
+          "response_instruction": "出现冻结、沉默或僵硬反应，减少主动行为与交流。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "否定积极成就，觉得成绩“不算数”",
+            "将现实工作与未实现的记者梦想比较，弱化当下价值"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "动力与自我照护下降",
+            "工作投入与满意度受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向伴侣与朋友敞开心扉",
+            "独居（与一只法国斗牛犬同住）",
+            "防御性沟通导致关系紧张"
+          ],
+          "outcomes": [
+            "亲密关系疏离",
+            "情绪支持利用不足"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将女儿生病过度归责于自己，承担超出现实的责任"
+          ],
+          "outcomes": [
+            "持续内疚",
+            "焦虑与自我攻击",
+            "在照料场景中冻结"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "作为父亲我应该立刻让她不再疼痛",
+            "把外界的成就标准当作绝对衡量，否定自身当下价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "“我不配和她说话”",
+            "过度自责、将女儿生病归咎于自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "“她会看不起我”",
+            "与伴侣互动中预设对方的负面评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中获得里程碑或被认可时，来访者通常会否定自己的成就、产生强烈自我怀疑，并与同事关系紧张。",
+          "unique_outcome": "上个月被评为“月度销售助理”，收到积极的认可与客观业绩反馈。",
+          "reason": "线索：持续投入工作、完成销售任务；当月的工作成果为他人所见，这些外部反馈形成了不同的情境线索。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得“月度销售助理”的客观认可与业绩基础",
+          "愿意尝试行为实验，具备一定的自我观察意愿",
+          "拥有一位可以倾诉的亲密朋友"
+        ],
+        "negative_force": [
+          "否定正面思考与心理过滤等认知偏差强烈",
+          "过度个人化归责、严格的“应该”化标准，易自我攻击",
+          "防御性沟通与回避自我揭露，导致亲密关系紧张",
+          "自我怀疑影响工作表现与自我照护"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在获得成就或认可时自我贬低与否定成就",
+          "antecedent": [
+            "被评为“月度销售助理”或达成工作里程碑",
+            "将当前工作与未实现的记者梦想进行比较"
+          ],
+          "core_reason": "梦想职业未实现引发的价值条件化与绝对化标准，伴随否定正面的认知偏差（心理过滤、否定正面）",
+          "function": "逃避外部评价与高期望，降低被失望与被批判的风险以维持控制感",
+          "consequence": "自尊下降、动力与自我照护受损、工作满意度降低；与同事关系紧张"
+        },
+        {
+          "behavior": "将女儿生病或不适个人化归责并产生强烈内疚",
+          "antecedent": [
+            "女儿出现疼痛或不适",
+            "照料情境中感到无力"
+          ],
+          "core_reason": "对父职的“应该”化与完美化期待，导致个人化归责与情绪化推理",
+          "function": "通过承担全部责任来获得控制感与避免不确定性",
+          "consequence": "在当下出现冻结反应、难以及时提供安慰；加重内疚与焦虑，并波及工作与日常活动"
+        },
+        {
+          "behavior": "在亲密关系中的防御性沟通（尖刻、回避自我揭露）",
+          "antecedent": [
+            "妻子尝试支持或邀请讨论感受",
+            "被询问情绪与脆弱经历"
+          ],
+          "core_reason": "担心暴露脆弱会被看不起或被评判，伴随读心术与自我监控",
+          "function": "避免亲密接触与负面评价，保护自我",
+          "consequence": "与妻子关系紧张、沟通受阻、情绪支持难以获得"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 723
+}

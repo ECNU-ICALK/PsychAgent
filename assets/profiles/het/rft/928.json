@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "黎茜",
+      "gender": "女",
+      "occupation": "运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "育有4个女儿",
+      "social_status": "与女儿关系因自责而有些紧张；有支持性的配偶，但与家人讨论这些感受存在困难",
+      "medical_history": "无重大躯体疾病；无以往相似心理问题史；未接受过既往心理治疗",
+      "language_features": "表达清晰、条理性较强，能进行自我反思与合作；情绪略显紧张但配合度高"
+    },
+    "main_problem": "因为在和女儿们一起钓鱼的过程中她们没有钓到鱼，我觉得自己是个糟糕的钓鱼老师。",
+    "topic": "家庭关系",
+    "core_demands": "这些自我不足感和自责影响了我与女儿们的关系以及我对钓鱼的享受，促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕/不称职的老师（家长）",
+        "学生（女儿）是否成功完全取决于我"
+      ],
+      "special_situations": [
+        {
+          "event": "与女儿们外出钓鱼却无人上鱼的经历反复出现",
+          "conditional_assumptions": "如果我是一个好老师，她们就应该能钓到鱼；否则就是我失败",
+          "compensatory_strategies": "不断加大教学与技巧训练，把责任全部揽在自己身上",
+          "automatic_thoughts": "她们没钓到鱼都是我的错，我是个糟糕的老师",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "钓鱼过程中女儿们表现出享受与兴奋，但依旧没有钓到鱼",
+          "conditional_assumptions": "只有抓到鱼的结果才算成功，过程中的快乐不算数",
+          "compensatory_strategies": "忽略积极体验，过度关注“是否上鱼”的单一结果",
+          "automatic_thoughts": "她们没抓到鱼，这次就算失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "多次外出钓鱼后仍未成功上鱼，压力感增强",
+          "conditional_assumptions": "好老师应该确保学生达成目标；如果没有达成，就是老师不合格",
+          "compensatory_strategies": "对自我设定僵化的高标准与苛责，用自责来驱动改进",
+          "automatic_thoughts": "只要她们还没上鱼，我就是失败者",
+          "cognitive_pattern": "Should Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为能带来成功与快乐的好母亲/好老师，被女儿们认可与需要",
+        "fear": "害怕让女儿们失望、被视为无能，从而损害与女儿的情感联结",
+        "defense_goal": [
+          "通过把全部责任归于自己来维持对结果的控制感",
+          "以高标准自我苛责以避免面对不可控因素（运气、兴趣、学习阶段）"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、需要不断弥补失败的老师/母亲",
+          "object_representation": "需要自己保证成果、可能会失望的女儿们",
+          "linking_affect": "内疚、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调亲子互动的积极面（如女儿们享受过程、联结与回忆）时",
+          "interpretation": "将关注积极面等同于忽视未上鱼的“失败”，担心这意味着自己承认不称职",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和但自责的语气重复“都是我的问题/我教得不好”，弱化外部因素；用抽象标准评判自己，回避当下情感体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将钓鱼活动的意义单一化为“是否抓到鱼”，忽视亲子陪伴与联结的价值",
+            "把自我价值与结果捆绑，一旦未上鱼便否定自我"
+          ],
+          "outcomes": [
+            "自责与羞愧加重",
+            "亲子关系紧张",
+            "对钓鱼这一爱好的兴趣与愉悦感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复使用“好老师应该确保学生成功”的僵化标准评判自我",
+            "将“是否上鱼”内化为唯一的成功标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在谈及积极体验时迅速回到自我过失与责任归因",
+            "以自责维持对结果的控制感，限制对当下乐趣的接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "配偶具有支持性，愿意倾听",
+          "女儿们在钓鱼过程中享受时光与陪伴，存在积极亲子互动的基础",
+          "来访者态度积极，愿意进行认知重建与现实检验",
+          "职业功能未受影响，具备一定心理韧性"
+        ],
+        "negative_force": [
+          "将结果完全个人化的归因方式（自责）",
+          "僵化的“应该”标准与高期望（绩效导向的自我价值）",
+          "否定积极体验，过度聚焦失败证据",
+          "与家人沟通情绪的难度，导致支持的利用受限"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与女儿钓鱼相关的情境中反复出现的自责与负性自动思维",
+          "antecedent": [
+            "外出钓鱼时女儿们未能钓到鱼",
+            "回想以往未上鱼的经历或筹划下一次钓鱼"
+          ],
+          "core_reason": "将“好老师必须确保学生成功”的规则内摄，并采取个人化归因，将不可控因素（运气、学习阶段、兴趣差异）视为自身失败",
+          "function": "获得对局面的主观控制感并试图通过自责驱动改进，同时回避承认外部不可控带来的无力感",
+          "consequence": "亲子关系紧张、压力与失落感增加，对钓鱼的兴趣与愉悦下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 928
+}

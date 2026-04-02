@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "陈伟",
+      "gender": "女性",
+      "occupation": "金融从业人员",
+      "educational_background": "高中毕业，立志成为音乐教师",
+      "marital_status": "有一个十岁的儿子（婚姻状况未提及）",
+      "family_status": "与儿子同住",
+      "social_status": "有少数朋友可交谈，但难以与他们讨论育儿困扰",
+      "medical_history": "无重大躯体疾病；无既往类似心理问题；无既往心理治疗史",
+      "language_features": "表达清晰、逻辑性好，能自我反思；情绪以紧张与内疚为主；配合度高；语气平和但自责倾向明显"
+    },
+    "main_problem": "常因十岁儿子的安静寡言而自责，认为这是自己为人父不当所致，持续感到内疚与自我否定，影响亲子关系、睡眠与工作表现。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到这种不足感正在影响我和儿子的关系并让我很痛苦，因此寻求咨询；我真的想跨过这种“不够好”的感觉。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的父亲",
+        "孩子的表现反映并决定了我的为人父是否称职"
+      ],
+      "special_situations": [
+        {
+          "event": "儿子在家里一直很安静，很少主动交流",
+          "conditional_assumptions": "如果孩子不主动说话，就说明我作为父亲失败/做错了什么",
+          "compensatory_strategies": "主动安排各种活动并频繁发起对话以弥补",
+          "automatic_thoughts": "他这么安静一定是因为我做得不好，我是个失败的父亲。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "无论工作日还是周末、早晚不同时间，儿子总体都较为沉默",
+          "conditional_assumptions": "如果我足够称职，孩子在多数情境下都应该愿意和我交流",
+          "compensatory_strategies": "在心里反复检讨自身，放大负面线索，忽略已有的正面互动",
+          "automatic_thoughts": "看吧，他总是不说话，这就证明我没有当好父亲。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "尝试带儿子参与活动时，他偶尔参与但多数时候仍然安静",
+          "conditional_assumptions": "如果他没有明显变得外向健谈，我的努力就没有意义",
+          "compensatory_strategies": "在感到受挫时选择退开“给他空间”或陷入自责",
+          "automatic_thoughts": "我做什么都没用。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到可能与朋友谈及育儿问题或担心他人评价时",
+          "conditional_assumptions": "如果别人知道我孩子很沉默，就会认定我是不称职的父亲",
+          "compensatory_strategies": "回避与朋友讨论育儿话题，独自消化",
+          "automatic_thoughts": "他们会觉得我很糟糕，我不配做一个好父亲。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为被认可的好父亲，并与儿子建立亲密、顺畅的连接",
+        "fear": "害怕被证明不称职，从而被儿子疏离或拒绝",
+        "defense_goal": [
+          "通过自我批评来促使自我改进以避免更糟结果",
+          "保持一定距离“给空间”以减少被拒绝的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、失败的父亲",
+          "object_representation": "沉默、疏离且难以理解的孩子",
+          "linking_affect": "内疚、焦虑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问与儿子互动细节或指出其自责模式时",
+          "interpretation": "担心自己会被看作不称职，于是将可能对外的失望或愤怒转向自我（对自己更苛责）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低自我价值，反复使用“都是我不对”“我做得不好”等表述，回避表达对情境或外部因素的不满。"
+        },
+        {
+          "trigger_condition": "当被邀请与他人（如朋友）讨论育儿困扰或公开表达感受时",
+          "interpretation": "认为外界会负面评价自己，暴露脆弱等同于羞耻与风险",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "使用含糊与简短回应，避免展开个人感受，转向客观事实或结束话题，语气克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与儿子沟通少、难以读懂其沉默",
+            "难以与朋友谈论育儿困扰，感到尴尬与为难"
+          ],
+          "outcomes": [
+            "关系疏离感加重",
+            "内疚与自责",
+            "睡眠受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值高度系于“是否是好父亲”与孩子是否健谈",
+            "将孩子的沉默等同于自身失败"
+          ],
+          "outcomes": [
+            "自我贬低与不足感",
+            "工作效率下降与生活幸福感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评，认为“一切都是我的错”",
+            "与咨询师讨论时小心谨慎，担心被看作不称职"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "避免向朋友寻求支持，将能量转为自责和内耗",
+            "表面给孩子空间，内在把不安与紧张压回自己身上"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当儿子沉默或不愿交流时，来访者通常会立即将原因归咎于自己，感到内疚并逐渐退开（给孩子空间），导致互动进一步减少。",
+          "unique_outcome": "在一次由来访者安排的活动中，儿子有参与并配合互动，交流较以往更多，气氛相对放松。",
+          "reason": "线索：不同做法——主动组织具体的共同活动；不同情境——有结构的活动更利于互动，从而出现了与以往不同的交流。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助、主动进入咨询并对替代视角持开放态度",
+          "能识别并描述自身情绪与想法，具备一定自我反思能力",
+          "曾主动安排亲子活动与对话，愿意尝试不同行动",
+          "具备一定社会支持（有几位可交谈的朋友）"
+        ],
+        "negative_force": [
+          "过度个人化与过度概括，倾向将孩子的沉默归因于自身",
+          "自我标签化与自我贬低，强化“我是糟糕的父亲”的信念",
+          "羞于求助与表达脆弱，外部支持获取受限",
+          "负性情绪与睡眠受扰，进一步削弱工作与育儿耐心"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "将孩子的沉默自动归咎于自己并产生强烈内疚",
+          "antecedent": [
+            "看到儿子安静或不愿沟通",
+            "与儿子互动未见明显改善",
+            "想到他人可能在意自己的育儿表现"
+          ],
+          "core_reason": "对父职的价值条件化信念与认知扭曲（个人化、过度概括、否定正向），以自责来获得可控感与解释感。",
+          "function": "逃避不确定感与焦虑，试图通过自责驱动自我改进以“修复关系”。",
+          "consequence": "亲子互动进一步减少、内疚与压力加重，睡眠受影响，工作表现下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1350
+}

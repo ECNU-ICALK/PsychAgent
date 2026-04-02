@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "林思洁",
+      "gender": "女",
+      "occupation": "自由职业会计",
+      "educational_background": "大学毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有少数亲密朋友知晓其困境，但很少主动寻求帮助；因社交焦虑而避免聚会、难以主动开启对话，影响建立与维持亲密关系及职业网络",
+      "medical_history": "大学期间被诊断为轻度强迫症（OCD），伴随焦虑；未接受针对社交焦虑或强迫症的专门治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能够觉察并描述自身的负性思维（如“大家都在评判我”“我是笨拙的”）；配合度良好，能接受认知重构的探索；自我批评倾向较强"
+    },
+    "main_problem": "在社交情境中会“冻结”，觉得自己很笨拙，影响与他人的互动与关系。",
+    "topic": "人际关系",
+    "core_demands": "希望在社交场合感到舒适，不再被焦虑束缚，能在个人与职业层面建立真实的连接并顺畅开展网络与客户互动。",
+    "growth_experiences": [
+      "大学时期开始出现社交焦虑，并被诊断为轻度强迫症（OCD）；近两年症状加重，导致在群体场合或结识新朋友时出现“冻结”、避免社交聚会与难以发起对话；未接受针对社交焦虑或强迫症的治疗；尽管工作绩效良好，但职业网络与客户互动受挫，亲密关系形成困难。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是笨拙/不够胜任的",
+        "别人会评判并否定我",
+        "我无法处理社交场合"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次商务社交/网络活动中进行自我介绍时词不达意",
+          "conditional_assumptions": "如果我在公开场合不能表现得流畅且接近完美，别人就会认为我无能",
+          "compensatory_strategies": "减少发言、尽快离场，并在之后回避类似活动",
+          "automatic_thoughts": "每个人都觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在群体场合或与新客户/陌生人见面时出现紧张与“冻结”",
+          "conditional_assumptions": "如果我不能立刻表现自如，就证明我不适合社交、我就是失败者",
+          "compensatory_strategies": "提前退出、避免开启对话以降低被评判的可能",
+          "automatic_thoughts": "我永远无法应付这些场合",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "社交互动中被强迫症触发，过度担心细微瑕疵被他人注意",
+          "conditional_assumptions": "任何小错误都会被放大并招致负面评价",
+          "compensatory_strategies": "过度自我监控与过度准备，刻意控制言行或回避暴露自己",
+          "automatic_thoughts": "我犯了小错，大家只会看到这些缺点并觉得我不专业",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想过去曾有几次社交对话进行得较顺利时",
+          "conditional_assumptions": "如果不是每次都表现出色，那些正面经历就不算数",
+          "compensatory_strategies": "否定正面经验、继续以负面标签定义自己",
+          "automatic_thoughts": "那些成功只是偶然，不代表我能做好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并建立真实的连接",
+        "fear": "害怕被他人评判与否定，担心被视为无能或笨拙",
+        "defense_goal": [
+          "通过回避群体场合与强化自我监控来降低被否定的风险",
+          "不向他人求助以避免成为负担"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "笨拙、容易被否定的自己",
+          "object_representation": "挑剔且随时准备评判我的他人/群体",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        },
+        {
+          "self_representation": "不应给别人添麻烦的个体",
+          "object_representation": "可能被自己“拖累”的朋友/他人",
+          "linking_affect": "顾虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当需要在群体场合自我介绍或被多人注视时",
+          "interpretation": "他人正在审视并否定我（把内在的严苛评判投射到他人身上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用防御性语气与绝对化措辞（如“大家都觉得……”），缩短互动、尽快结束谈话或寻找离场理由。"
+        },
+        {
+          "trigger_condition": "当想到向朋友寻求帮助或他人提出愿意支持时",
+          "interpretation": "如果求助会成为负担，别人可能不愿意或会看轻我",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉但坚定的方式拒绝他人帮助，反复强调“我不该麻烦别人”，回避进一步探讨支持的具体方式。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在社交场合“冻结”并避免聚会，难以主动发起对话，常独自离开社交场合",
+            "虽有亲密朋友知晓其困境，但不主动寻求他们的帮助以免成为负担"
+          ],
+          "outcomes": [
+            "人际连接减少、亲密关系难以形成",
+            "持续的社交焦虑与自我否定",
+            "职业网络受限、与客户互动受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在社交中高度自我意识与紧张，过度关注细微错误是否被他人注意",
+            "为避免错误而刻意控制言行，导致“冻结”与难以开口"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为“大家都在评判我”“他们觉得我不称职”，将内在批判体验归因于外界他人"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制向外寻求别人为其做某事的冲动。",
+          "manifestations": [
+            "不向朋友寻求支持，选择独自承受焦虑与强迫困扰",
+            "以“不该麻烦别人”为由压抑求助行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动寻求心理咨询与改变，具备自我觉察（能识别并愿意挑战负性思维）",
+          "工作绩效稳定，具备职业能力与责任感",
+          "拥有几位知晓其困境的亲密朋友，具备潜在支持资源",
+          "曾有几次社交对话较顺利的经验，可作为积极参照"
+        ],
+        "negative_force": [
+          "在群体场合及结识新朋友时倾向回避与提前退出，维护短期安全感却维持问题",
+          "存在读心术、过度概括、心理过滤、否定正面等认知偏差",
+          "轻度强迫症使其过度关注细微错误，进一步加剧社交焦虑",
+          "自我标签（“笨拙”“不称职”）并否定正面经验，削弱自我效能感",
+          "担心成为负担而不寻求支持，导致资源未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合出现“冻结”并回避互动",
+          "antecedent": [
+            "处于群体场合",
+            "结识新朋友",
+            "参加商务社交/网络活动",
+            "与客户进行面对面互动"
+          ],
+          "core_reason": "灾难化与过度概括的认知（担心被全面否定），加之强迫症导致对细微错误的过度关注，强化自我监控与紧张",
+          "function": "逃避被评判与否定以降低即时焦虑，获得短期安全感",
+          "consequence": "人际关系与职业网络受损，客户互动受影响；感到孤独并自我价值感下降"
+        },
+        {
+          "behavior": "不向朋友或他人寻求帮助与支持",
+          "antecedent": [
+            "想到寻求他人支持时",
+            "朋友知晓其困境但提出帮助时"
+          ],
+          "core_reason": "担心成为负担并被看轻，将潜在负面结果放大以避免求助",
+          "function": "避免内疚与可能的拒绝，维持对关系风险的控制感",
+          "consequence": "支持系统未被激活，问题维持且孤立感增强"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 270
+}

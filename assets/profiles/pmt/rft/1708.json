@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "嘉莉",
+      "gender": "女",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，有一只猫；母亲曾是护士",
+      "social_status": "近期与伴侣分手，感到孤独与隔离，倾向独处",
+      "medical_history": "无重要躯体疾病；既往未接受心理治疗；以往无类似心理问题",
+      "language_features": "表达清晰，语气消极，出现自我批评的内在对话，配合度较好"
+    },
+    "main_problem": "因为我缝了一件新衬衫，但觉得布料图案不好看，导致我情绪低落。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到关于这件衬衫的负面想法影响了我的情绪和自我形象，因此寻求咨询的支持。",
+    "growth_experiences": [
+      "近期与伴侣分手后，感到孤独与隔离；倾向独处并主要依靠与宠物猫相处获得安慰。同时工作压力增大，导致整体情绪低落与动机下降，对以往喜欢的活动（如缝纫）失去兴趣。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不胜任。",
+        "我的价值取决于他人的评价。"
+      ],
+      "special_situations": [
+        {
+          "event": "在家独处时看到或想到那件新缝的衬衫",
+          "conditional_assumptions": "如果作品出现瑕疵，就说明我没有能力、我什么都做不好。",
+          "compensatory_strategies": "回避展示作品；通过加班与分心来避免直面失败感；待在家与猫相处以减少外界评价。",
+          "automatic_thoughts": "我连像样的衬衫都做不出来，我什么都做不好。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到在公共场合穿这件衬衫或让他人看到",
+          "conditional_assumptions": "他人的喜欢与不喜欢决定作品与我的价值；如果别人不喜欢，就说明我很差。",
+          "compensatory_strategies": "避免把衬衫给任何人看，减少社交接触以避免被评判。",
+          "automatic_thoughts": "除非别人说好，否则它就是很丑；他们会觉得我做得很糟。",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "完成衬衫后审视作品外观时专注于图案的“不好看”",
+          "conditional_assumptions": "只有完美无瑕的作品才算好；一点缺点就能抵消全部努力与优点。",
+          "compensatory_strategies": "反复挑剔、忽视制作过程中的努力与技能，否定作品的积极面。",
+          "automatic_thoughts": "这件衬衫很糟糕，没有任何值得之处。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "分手与工作压力叠加后，情绪低落时看见衬衫",
+          "conditional_assumptions": "当我感觉糟糕时，事物本身也必然很糟糕。",
+          "compensatory_strategies": "通过加班来转移注意力，但仍将低落情绪投射到衬衫上。",
+          "automatic_thoughts": "一切都在变糟，这件衬衫也是失败的象征。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被看见（希望自己的作品与能力被肯定）",
+        "fear": "害怕被否定、羞辱与被拒绝（担心他人评价会证实自己“不够好”）",
+        "defense_goal": [
+          "保持距离与回避外界评价以降低受伤与羞耻的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、易被批评的创作者/失败者",
+          "object_representation": "挑剔的评判者/可能嘲笑与否定自己的人",
+          "linking_affect": "羞耻、焦虑、孤独、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议将衬衫展示给他人或在公众场合穿着时",
+          "interpretation": "将建议体验为可能的外界羞辱与否定，认为他人会嘲笑或证实自己“做不好”（移情：将过往被评判的恐惧投射到当前他人身上）",
+          "defense_mechanism": "sring",
+          "defense_definition": "投射：将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以担忧与犹豫的语气表达“他们会觉得很丑”，避免具体承诺与细节，倾向推迟或绕开话题。"
+        },
+        {
+          "trigger_condition": "在家独处、直面衬衫时的负性自我评价被激活",
+          "interpretation": "将对外界的愤怒与失落（分手、工作压力）转向自我，视作品为自身失败的证据",
+          "defense_mechanism": "sring",
+          "defense_definition": "转向自身：将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性语言（如“我连像样的衬衫都做不出来”），语气低落、减少眼神接触，缩短回答并回避积极信息。"
+        },
+        {
+          "trigger_condition": "面对未来可能的评价与不确定性（例如考虑让可信的人看衬衫）",
+          "interpretation": "提前对负面结果做情绪准备，以减轻未知带来的焦虑",
+          "defense_mechanism": "sring",
+          "defense_definition": "预期：为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以谨慎保留的语气表达“我担心他们会证实我的想法，但试试看”，强调一步一步、设置边界与最小暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "近期分手后感到孤立；不愿与他人相处，主要依靠与猫相伴获得安慰；倾向独处，避免社交与展示作品"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "动机下降（对缝纫等活动失去兴趣）",
+            "工作表现下降",
+            "自我形象受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本要对外做出的行为冲动，将能量转而对自己或由自己承担，与“冲动”对应。",
+          "manifestations": [
+            "不把衬衫给任何人看、避免社交评价",
+            "通过加班来转移注意力而非寻求外部反馈",
+            "将失落与愤怒转为自我批评"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "内在批评性对话（“你连像样的衬衫都做不出来”）",
+            "担心他人会证实负面评价而不敢展示",
+            "将一件作品的不足泛化为整体能力不足"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备缝纫技能与完成作品的能力",
+          "愿意尝试现实检验（考虑展示给可信任的人）",
+          "能通过与宠物猫相伴进行基本自我安抚",
+          "有工作岗位与一定的日常结构"
+        ],
+        "negative_force": [
+          "自我否定与内在批评强烈",
+          "社交退缩与孤立，过度在意他人评价",
+          "情绪化推理与心理过滤，忽视积极证据",
+          "工作压力增加，整体情绪低落影响功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在看到或想到衬衫时出现强烈自我批评与回避展示",
+          "antecedent": [
+            "在家独处时看到衬衫",
+            "想到在公共场合穿着或被他人看到",
+            "分手与工作压力叠加导致情绪低落时"
+          ],
+          "core_reason": "近期分手与工作压力使情绪低落，将负面情绪投射到作品上；价值过度依赖他人评价并以完美为标准，导致否定正面信息与过度概括。",
+          "function": "逃避潜在的负面评价与羞耻感，短期降低焦虑。",
+          "consequence": "持续情绪低落与自我形象受损；动机下降与对缝纫的兴趣减退；避免社交与反馈，维持负性认知循环。"
+        },
+        {
+          "behavior": "社交退缩与孤立（减少与他人接触、避免展示作品）",
+          "antecedent": [
+            "与伴侣分手后感到孤独与被否定",
+            "预期他人会给出负面评价时"
+          ],
+          "core_reason": "害怕被否定与羞辱，为了自我保护而减少外界接触与评价机会。",
+          "function": "逃避情感痛苦与外界评判，维持表面的安全感。",
+          "consequence": "孤独感加剧、负面情绪持续；工作表现下降与生活满意度降低。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1708
+}

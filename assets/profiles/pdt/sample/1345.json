@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "林婉宁",
+      "gender": "女",
+      "occupation": "贝斯手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "未提及",
+      "medical_history": "未经历类似问题；无心理治疗史；无显著躯体疾病",
+      "language_features": "表达清晰，思路有条理，配合度高，语气平和，能够进行自我反思，但存在自我怀疑与担心他人评判"
+    },
+    "main_problem": "我正在考虑出售我的CD收藏，但我坚定地认为没有人会对我的音乐品味感兴趣。这一想法让我感到痛苦和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "寻求咨询的决定是由于压倒性的负面想法，这些想法妨碍我进行断舍离以及潜在地出售我的CD。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的音乐品味很糟糕",
+        "没有人会对我的音乐品味感兴趣"
+      ],
+      "special_situations": [
+        {
+          "event": "开始断舍离并考虑出售CD时",
+          "conditional_assumptions": "如果我的音乐品味不被他人认可，出售会失败并让我丢脸",
+          "compensatory_strategies": "拖延和停止行动以避免失败与羞耻",
+          "automatic_thoughts": "没有人会要我的CD",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到朋友们并不分享她的音乐品味时",
+          "conditional_assumptions": "如果身边的朋友都不喜欢我的音乐，那么其他人也不会喜欢",
+          "compensatory_strategies": "不发布或不推进出售计划，将收藏收起回避被评价",
+          "automatic_thoughts": "我的品味很怪，别人都会反感",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到要与朋友讨论出售CD的困扰时",
+          "conditional_assumptions": "如果我提出这个问题，朋友会轻视我或让我“别担心”",
+          "compensatory_strategies": "不与朋友讨论该问题，保持沉默以避免被否定",
+          "automatic_thoughts": "他们会看不起我、让我别多想",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在会谈中将自己的问题与他人更严重的问题进行比较时",
+          "conditional_assumptions": "如果我的问题不够“大”，我就不该表达或寻求支持",
+          "compensatory_strategies": "贬低自己的感受，避免主动寻求帮助",
+          "automatic_thoughts": "我不该为这种小事寻求帮助",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可（尤其是对自己的音乐品味）",
+        "fear": "害怕被他人评判与拒绝",
+        "defense_goal": [
+          "通过回避与拖延来降低被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判、容易被否定的自我",
+          "object_representation": "挑剔且不理解的他人（如朋友、潜在买家）",
+          "linking_affect": "羞耻、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议与朋友讨论或寻求支持时",
+          "interpretation": "认为朋友会轻视自己或让自己“别担心”（移情：将他人的反应视为否定）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用温和、验证感的语气，避免读心；邀请其具体化证据与做小步求证（如“我们能试着给一位朋友发条消息，看看他们实际会怎么回应吗？”）。"
+        },
+        {
+          "trigger_condition": "当被邀请进行行为实验或推进出售行动时",
+          "interpretation": "将潜在失败视为必然，并为拖延寻找正当理由（如“这只是小问题，不值得花精力”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性、具体化的方式切换到可操作任务，分解步骤并强调可检验性；避免指责，使用共同探索的语气。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在会谈中表示“这似乎是个小问题”，因尴尬而犹豫求助",
+            "频繁自我怀疑、谨慎表达担忧"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设朋友会让她“别担心”或“快点放下”，担心他人会看不起她的音乐品味"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友可提供支持（尽管尚未求助）",
+          "愿意尝试识别并重构负性思维（表示“愿意试试”）",
+          "工作表现未受影响，日常功能总体稳定",
+          "能够考虑替代性观点并报告感到“更有希望”"
+        ],
+        "negative_force": [
+          "对他人评价高度敏感，害怕被评判",
+          "认知歪曲频繁（预测未来、过度概括、读心术、否定积极）",
+          "回避与拖延导致无法采取行动（断舍离与出售停滞）",
+          "倾向自我贬低，认为自己的困扰“太小”而不值得寻求支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕出售CD的强烈自我怀疑与焦虑，导致拖延和回避行动",
+          "antecedent": [
+            "开始断舍离并想到出售CD",
+            "注意到朋友不分享她的音乐品味",
+            "想象潜在买家或朋友的评价"
+          ],
+          "core_reason": "担心他人对其音乐品味的负面评价，伴随灾难化预测与读心式推断",
+          "function": "逃避潜在羞辱与负面评价，短期降低焦虑",
+          "consequence": "断舍离与出售计划停滞，压力持续并强化自我怀疑"
+        },
+        {
+          "behavior": "避免与朋友讨论该问题",
+          "antecedent": [
+            "被问及是否向朋友倾诉时",
+            "准备寻求支持或讨论时感到尴尬与犹豫"
+          ],
+          "core_reason": "害怕被轻视或否定，将内在的不安投射为他人的反应",
+          "function": "避免可能的否定反馈以维持短期安全感",
+          "consequence": "缺乏现实检验与社会支持，负性思维得以维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1345
+}

@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "林洁西",
+      "gender": "女",
+      "occupation": "有志成为厨师",
+      "educational_background": "成长过程中接受过烹饪课程",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "近期与朋友和家人疏离，倾向自我隔离",
+      "medical_history": "无重要躯体疾病；无既往心理治疗或心理问题史",
+      "language_features": "表达清晰、配合度高，能进行自我反思；但频繁使用负性标签与绝对化表述（如“我是失败者”），情绪低落、语速平稳"
+    },
+    "main_problem": "最近未通过烹饪节目试镜后，持续感到自己是“失败者”，不断反刍该次失败；每当想到试镜或看到与烹饪相关内容即感到自卑与不足，动机下降并出现社交回避，日常烹饪习惯被打乱。",
+    "topic": "职业发展",
+    "core_demands": "我决定来做咨询，因为我注意到这种失败感正在影响我继续追求成为厨师这一梦想的动力。",
+    "growth_experiences": [
+      "成长过程中接受系统的烹饪课程，逐步培养了对烹饪的热爱与专业志向，长期以来一直以成为厨师为目标。",
+      "此前未经历过类似的失败或重大挫折，也从未接受心理治疗，这使得此次试镜失败成为少有的强烈负性体验，缺乏应对失败的经验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好/不胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "烹饪节目试镜未通过的结果公布",
+          "conditional_assumptions": "如果没能在关键场合一次性成功，就证明我不适合当厨师、我就是失败者",
+          "compensatory_strategies": "自我苛责、停下平常的练习与尝试、回避社交以避免被评价",
+          "automatic_thoughts": "我就是个失败者，我可能不适合当厨师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在网上看到与烹饪相关的内容",
+          "conditional_assumptions": "任何与烹饪相关的线索都会提醒我这次失败，并证明我不够好",
+          "compensatory_strategies": "减少做饭、以看电视等方式分心回避不适线索",
+          "automatic_thoughts": "这又证明我不行/我永远赶不上",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想试镜时评委的反馈（包含正向评价但整体未通过）",
+          "conditional_assumptions": "只有“通过/成功”才算数，任何正向反馈都不算真正的能力证明",
+          "compensatory_strategies": "主动忽视与贬低正向信息来维持自我标签的一致性",
+          "automatic_thoughts": "那些表扬没有意义，没通过就说明我完全不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "朋友或家人尝试联系、或想到与他们见面",
+          "conditional_assumptions": "如果他们知道我失败了，就会看不起我或失望",
+          "compensatory_strategies": "回避与亲友联系，选择自我隔离以避免尴尬与评价",
+          "automatic_thoughts": "他们会觉得我很差劲",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过成就被认可，证明自己作为厨师的价值并被肯定",
+        "fear": "害怕失败意味着自己一无是处、会被他人否定和羞辱、梦想破灭",
+        "defense_goal": [
+          "通过自我苛责来维持控制与驱动改变",
+          "与他人保持距离以减少负面评价带来的羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、可能被淘汰的失败者",
+          "object_representation": "挑剔、评判性的他人（如评委、周围人）",
+          "linking_affect": "羞耻、焦虑、失望"
+        },
+        {
+          "self_representation": "不配与人接触、需要隐藏失败的一方",
+          "object_representation": "会失望或看不起自己的他人（朋友/家人）",
+          "linking_affect": "羞耻、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人指出其在试镜中的优点/收到的正向反馈时",
+          "interpretation": "倾向将他人的肯定视为客套或不算数（移情地将他人体验成“并不真正认可我”的客体）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和而具体化，邀请举证与细化情境，先共情其羞耻与失落，再温柔整合正负证据，避免对抗式反驳。"
+        },
+        {
+          "trigger_condition": "当谈及失败、被邀请讨论下一步计划或与人联络时",
+          "interpretation": "将潜在对外的愤怒/失落转为自责，认为自己不配、不该表达需求",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "先验证与命名自我批评带来的痛感，使用温柔的反映与重述帮助外化“苛责的内在声音”，鼓励以第一人称表达需要并尝试小而可行的行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "试镜失败后主动与朋友家人疏离，难以与支持性的朋友分享失败感受"
+          ],
+          "outcomes": [
+            "社交退缩与孤立加剧情绪低落",
+            "支持系统利用不足，恢复速度减慢"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在挫折后对是否适合成为厨师产生怀疑，动力下降，对既往热爱的烹饪失去兴趣"
+          ],
+          "outcomes": [
+            "日常烹饪习惯中断",
+            "对职业道路与自我价值感的困惑与动摇"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我必须/应该成功”这类刚性规则评价自己（将成功与自我价值等同）",
+            "将“未通过=没有价值”作为绝对标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与负性自我贴标签（“我是失败者”）",
+            "担心他人评价而收回表达，难以与支持性朋友分享经历"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "用看电视等分心方式回避失败后的羞耻与无力感",
+            "在被邀请关注积极证据时迅速转回“还不够好”的叙事"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对与烹饪相关的高压情境（如试镜、线上烹饪内容）时，来访者通常会涌现自我贬低与失败标签，并随后回避练习与社交、动力下降。",
+          "unique_outcome": "在试镜当天，尽管紧张，仍能投入烹饪并完成作品，且有评委肯定其菜品风味，这与“完全失败/一无是处”的主导故事有所偏离。",
+          "reason": "线索：当下专注于烹饪过程（不同做法）、对烹饪的热爱与长期训练基础（不同资源），以及现场获得即时的正向反馈（不同支持），共同促成了当场的投入与部分积极结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对烹饪的热爱与成长中积累的训练基础",
+          "在高压场景下仍能完成作品并获得部分正向反馈的能力",
+          "具备一位支持性的朋友",
+          "愿意求助并尝试以更平衡的方式看待挫折（自我反思能力）"
+        ],
+        "negative_force": [
+          "灾难化与过度概括、自我贴标签的思维方式",
+          "否定正向信息、只关注失败的心理过滤",
+          "社交回避与自我隔离，削弱支持系统",
+          "将成败与自我价值刚性绑定（“必须成功”式规则）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我贬低与反刍（如“我是失败者”），伴随对烹饪活动的回避",
+          "antecedent": [
+            "想到或谈及试镜失败",
+            "看到与烹饪相关的网络内容"
+          ],
+          "core_reason": "将一次失败等同于整体能力与自我价值的否定，缺乏失败经验与相应的应对脚本，伴随对外部评价的高度敏感与羞耻情绪",
+          "function": "短期内逃避羞耻与焦虑、维持对情境的主观控制感",
+          "consequence": "烹饪练习与日常作息中断，职业动机下降，情绪低落与无力感加重"
+        },
+        {
+          "behavior": "社交回避/自我隔离",
+          "antecedent": [
+            "朋友或家人主动联系/邀请",
+            "想到可能被评价或被询问试镜结果"
+          ],
+          "core_reason": "担心被他人否定与羞耻曝光，将失败视为可耻并需要隐藏",
+          "function": "回避可能的负面评价与尴尬情境，短期降低焦虑",
+          "consequence": "孤独与情绪低落加重，外部支持与积极反馈减少，恢复受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1109
+}

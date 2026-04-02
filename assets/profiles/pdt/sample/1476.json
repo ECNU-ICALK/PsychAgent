@@ -1,0 +1,165 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "张宇航",
+      "gender": "男性",
+      "occupation": "医院工作人员",
+      "educational_background": "小型社区大学在读学生",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与同好朋友的关系因自己持续负面评论而受到影响",
+      "medical_history": "无显著躯体疾病；此前未接受心理咨询；无类似问题史",
+      "language_features": "表达清晰、配合度较好、语气中性；思维易陷入负面过滤与灾难化预期；尝试理性分析但容易回到消极立场"
+    },
+    "main_problem": "在读到最喜欢的作者的新书后感到极度失望与无望，认为他以后再也写不出好书，引发持续的消极情绪与困扰，并影响阅读的愉悦感。",
+    "topic": "情绪管理",
+    "core_demands": "意识到自己对作者新书的极端反应正在影响情绪与整体幸福感，因此寻求咨询支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [],
+      "special_situations": [
+        {
+          "event": "读完最喜欢的作者的新书后感到强烈失望",
+          "conditional_assumptions": "如果这本新书不好，就说明作者已经走下坡路，未来的书也会很差",
+          "compensatory_strategies": "持续关注并强调作品中的负面细节，否定以往优点以降低再次失望的可能",
+          "automatic_thoughts": "他永远写不出好书了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每当想到该作者的作品或阅读这件事",
+          "conditional_assumptions": "一旦经历一次糟糕的阅读体验，此后阅读将不再带来乐趣",
+          "compensatory_strategies": "减少阅读、回避相关话题以避免负面情绪",
+          "automatic_thoughts": "阅读对我而言已经被毁了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想自己在读书前的高期待与购买行为",
+          "conditional_assumptions": "一个理性的读者“应该”能预见质量并避免被“糟糕作品”欺骗",
+          "compensatory_strategies": "通过苛责自己与设定更严格的标准来试图防止再次失望",
+          "automatic_thoughts": "我应该早就看出来",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "被提醒作者过去的优秀作品或积极面时",
+          "conditional_assumptions": "最近一本书很差就说明过去的优点都不重要",
+          "compensatory_strategies": "主动忽略或贬低以往的积极体验以维持一致的负面判断",
+          "automatic_thoughts": "过去的好作品也不值得再提了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保有对喜爱事物（阅读与作者作品）的稳定欣赏与意义感",
+        "fear": "害怕再次遭遇失望与落空，担心热爱之物失去价值从而感到空虚与无望",
+        "defense_goal": [
+          "以先发性的贬低与悲观预期来降低再度失望的可能，维持心理掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失望且愤世的批评者、对阅读失去信心的受挫者",
+          "object_representation": "对方（朋友/同好）是会厌倦自己负面评论的听众；作者是会持续让人失望的对象",
+          "linking_affect": "失望、沮丧、疏离与尴尬"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当朋友或咨询师邀请其平衡看法、考虑作者可能只是暂时挫折时",
+          "interpretation": "将他人的平衡视角理解为在淡化自己的感受，担心接受乐观观点会再次被现实打脸",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以冷静、强调逻辑与证据的语气列举“质量下滑”的例证，弱化情绪表达，回避对失望感的直接体验。"
+        },
+        {
+          "trigger_condition": "当有人提及作者以往的优点或对其新书的积极评价时",
+          "interpretation": "将这些积极反馈视为自我安慰或不可靠的个案，认为不具备参考价值",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "通过挑出负面细节与反例来解释掉积极反馈，使用“所以这只能说明他走下坡路”的句式维持负面结论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "最喜欢的作者新书令人失望后，对阅读整体产生消极与愤世的看法",
+            "过去的积极阅读体验被贬低或忽略，难以找到阅读的价值与意义"
+          ],
+          "outcomes": [
+            "情绪低落与无望感",
+            "对阅读的兴趣与满足感显著下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同好朋友讨论时因负面评论变得尴尬与疏远",
+            "对与朋友分享自己极端反应感到犹豫"
+          ],
+          "outcomes": [
+            "人际关系紧张与退缩",
+            "社交支持的利用度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该”句式（如“我应该早就看出来”）",
+            "将“理性读者必须预见质量”的外在标准当作自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "犹豫与朋友讨论自己的极端反应，担心被厌烦",
+            "对自身期待与判断过度苛责，反复自我检视"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾有深厚的阅读热情与积极体验（早期作品带来满足与创造性欣赏）",
+          "愿意尝试新的观点与重构认知（在咨询中表示愿意尝试）",
+          "拥有少数同好朋友作为潜在支持资源"
+        ],
+        "negative_force": [
+          "灾难化预测（预言作者“永远写不出好书”）",
+          "心理过滤与否定积极（只看负面、过去的好不算数）",
+          "“应该”句式的僵化标准导致自我苛责",
+          "人际互动中持续负面评论，增加疏离与尴尬",
+          "情绪化推理与整体化消极导致阅读意义感下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在想到该作者或阅读时出现持续的消极情绪与负面评论",
+          "antecedent": [
+            "阅读该作者的新书",
+            "想到其作品或阅读本身",
+            "与同好朋友讨论相关话题"
+          ],
+          "core_reason": "灾难化预测、心理过滤与“应该”句式等不良认知维持对作者与阅读的全局性负面判断",
+          "function": "通过贬低与回避来缓解失望、获得主观掌控感并尝试避免再次受挫",
+          "consequence": "工作专注力下降、与朋友的交流变得尴尬且疏远、阅读的乐趣与放松功能显著减弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1476
+}

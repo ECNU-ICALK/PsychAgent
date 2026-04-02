@@ -1,0 +1,168 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "李梅",
+      "gender": "女性",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "单身",
+      "family_status": "独居，住在小学附近的公寓",
+      "social_status": "有一位亲密朋友但尚未分享内心感受；尚未向同事透露担忧，担心被评判",
+      "medical_history": "无类似心理问题史；未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高；能具体描述时间与情境；态度积极但伴随明显焦虑"
+    },
+    "main_problem": "“我会被解雇”的持续性想法在刚开始家乡小学的工作后出现，导致显著的焦虑与痛苦，尤其在上班前和工作期间影响专注与表现。",
+    "topic": "职业发展",
+    "core_demands": "这些想法的强度以及对我日常功能和心理健康的影响促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不胜任这份工作"
+      ],
+      "special_situations": [
+        {
+          "event": "刚接受家乡小学的工作后，尚未开始或刚开始履职",
+          "conditional_assumptions": "如果我不能立刻完美胜任新岗位，就会被解雇",
+          "compensatory_strategies": "不断自我安慰并向同事寻求认可以获得确定感",
+          "automatic_thoughts": "我可能一周内就会被解雇",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "上班前以及在学校教学期间",
+          "conditional_assumptions": "如果我表现不够好，别人会认为雇用我是个错误",
+          "compensatory_strategies": "工作中高度紧张、追求零错误以避免“失败”",
+          "automatic_thoughts": "他们会意识到雇用我是个错误",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "收到学生、家长与同事的正面反馈但缺乏负面绩效证据",
+          "conditional_assumptions": "正面反馈不可靠；只有达到完美标准才算安全",
+          "compensatory_strategies": "忽视正面信息、在脑中过滤最坏情境，反复担忧",
+          "automatic_thoughts": "这些表扬不算数，我终究会被解雇",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "考虑是否向同事或朋友分享焦虑时，担心被评判",
+          "conditional_assumptions": "如果暴露我的焦虑与不确定，别人就会看不起我、认为我不胜任",
+          "compensatory_strategies": "回避披露与求助，保持沉默",
+          "automatic_thoughts": "他们会评判我，觉得我不配胜任",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被接纳，证明自己胜任并安全地留在岗位上",
+        "fear": "害怕被评判与拒绝，担心被解雇、被否定为“不够好”",
+        "defense_goal": [
+          "通过保持谨慎与不暴露脆弱来降低被评判的风险；寻求外部认可以暂时缓解不确定感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的新人、随时可能被淘汰的人",
+          "object_representation": "苛刻评判、随时会否定她的上级或同事",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人谈及他人评价、工作表现或是否分享内心感受时",
+          "interpretation": "来访者倾向认为他人会像严苛的评判者一样发现她“不够好”，从而拒绝或否定她（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以稳定、共情的语气验证其焦虑；使用开放式提问与澄清事实，帮助区分推测与证据；避免对抗与评判。"
+        },
+        {
+          "trigger_condition": "当被邀请考虑向同事或朋友寻求支持、分享焦虑时",
+          "interpretation": "认为表达脆弱会给他人带来负担，并被视为不胜任，因而不应开口",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "温和探询“不给他人添麻烦”的背后担忧；以支持性语气鼓励小步尝试分享，强调可选择可信任对象与有限范围。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，未向同事或亲密朋友分享内心担忧",
+            "在工作相关焦虑中自我承受，避免求助"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠与饮食节律紊乱",
+            "工作专注与表现受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "强调必须完美表现的内在规则",
+            "将“零错误=安全”当作硬性标准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心上级或同事会认为她不胜任",
+            "害怕被评判而不敢分享感受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我评价为“我永远不够好”",
+            "在工作前过度担心、谨慎，限制自我表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "收到家长与同事的正面反馈（学生喜欢她，家长给予好评）",
+          "有一位亲密朋友可作为潜在支持资源",
+          "态度积极，愿意尝试识别与强化正面经验",
+          "能够清晰描述触发情境与自动化思维"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的倾向显著",
+          "完美主义压力导致自我要求过高",
+          "过度寻求外部认可但难以稳定自我价值",
+          "害怕他人评判而回避分享与求助",
+          "睡眠与饮食紊乱，影响日常功能与工作表现"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作前及工作中反复担心被解雇并出现显著焦虑",
+          "antecedent": [
+            "接受新工作后",
+            "上班前",
+            "在学校教学期间",
+            "想到上级或同事可能的评价、担心出现错误"
+          ],
+          "core_reason": "新工作压力与完美主义驱动的灾难化思维与预测未来（“我不够好”核心信念被激活）",
+          "function": "逃避被否定与失败的潜在风险、通过寻求他人认可获得确定感",
+          "consequence": "睡眠与饮食节律紊乱；工作专注与表现受影响；减少与同事和朋友的情感交流"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1167
+}

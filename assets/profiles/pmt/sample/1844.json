@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与两位室友同住，养有两只狗",
+      "social_status": "未提及",
+      "medical_history": "既往无相似心理问题与治疗史；无显著躯体疾病",
+      "language_features": "表达清晰，合作度高，略显紧张，能反思自身想法与情绪"
+    },
+    "main_problem": "与烹饪技能相关的不足感与低自尊：几个月前把米饭烧糊后，将自己贴上“糟糕的厨师”的标签，随后每次进入厨房或想到做饭都会紧张与压力上升，逐渐回避做饭，担心再犯错并被评判，负性自我对话持续。",
+    "topic": "情绪管理",
+    "core_demands": "持续的恐惧和关于烹饪技能的负性自我对话已开始影响日常生活和身心健康，因此寻求咨询以改变这种状态。",
+    "growth_experiences": [
+      "几个月前在做饭时把米饭烧糊，此事被陈凯视为“基础错误”，由此产生强烈的无能感，将单次失误标签化为“我是个糟糕的厨师”。此后每当进入厨房或想到做饭都会感到压力和紧张，逐渐回避烹饪，担心再次出错与受评判；曾尝试观看烹饪教程、向朋友请教，但负性情绪与想法仍持续。",
+      "在烧糊米饭之前，陈凯经常自己做饭，并曾得到朋友的称赞与正面反馈，但在当前困扰中，他感觉这些正面经历“不算数”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能/不够好",
+        "我是个糟糕的厨师"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前把米饭烧糊",
+          "conditional_assumptions": "如果连最基础的米饭都煮不好，就说明我整体上很差、是个糟糕的厨师",
+          "compensatory_strategies": "一开始通过观看教程、向朋友请教来弥补；随后逐渐转为回避做饭以减少失败风险",
+          "automatic_thoughts": "我太差了，我就是个糟糕的厨师",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次进入厨房或想到做饭",
+          "conditional_assumptions": "如果我再犯错，就会证明我不行，并可能被他人评判",
+          "compensatory_strategies": "避免进入厨房与烹饪",
+          "automatic_thoughts": "我又要搞砸了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与室友共同做饭或涉及分工的场景",
+          "conditional_assumptions": "如果我做得不好，室友会觉得我软弱/不称职",
+          "compensatory_strategies": "让室友承担做饭，自己退后以避免暴露短板",
+          "automatic_thoughts": "他们会觉得我很差，我还是别添乱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回忆过去被朋友称赞的做饭经历",
+          "conditional_assumptions": "一次失败就能否定所有过往成功",
+          "compensatory_strategies": "忽视或贬低过往成功经验，只关注那次失误",
+          "automatic_thoughts": "那些夸奖不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、被接纳，并能与室友共同分担与联结",
+        "fear": "害怕因出错而被评判、羞辱，进而被视为无能",
+        "defense_goal": [
+          "避免暴露短板以保护自尊",
+          "通过回避烹饪与自我贬低来降低被评价的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞愧、无能的失败者",
+          "object_representation": "挑剔、评判性的他人（如室友/旁人）",
+          "linking_affect": "羞耻、焦虑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议与室友沟通或共同做饭，或亲眼看到室友在厨房忙碌时",
+          "interpretation": "他人会像评判者一样挑剔我，把我看作不胜任",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以退缩、自我贬低的语气说“我还是别参与了”，减少眼神接触，弱化自我需求并转移话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因害怕失败与被评价而回避与室友共同做饭",
+            "未向室友表达对烹饪的恐惧和担忧，减少了互动与支持"
+          ],
+          "outcomes": [
+            "与室友的联结与共同时光减少，产生关系疏离与内疚",
+            "自尊下降与焦虑维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "担心显得软弱或不称职，从而避免参与做饭",
+            "在讨论重返厨房时反复提出“如果再犯错怎么办”的担忧，谨小慎微"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假定室友会评判他不胜任，因而选择回避共同做饭",
+            "认为“他们能应付得很好，我不参与更好”，以他人立场为由回避暴露自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾有过良好的烹饪经验并获得朋友的正面反馈",
+          "愿意尝试小步骤、表达“愿意试试看”",
+          "能觉察并描述自动化思维（如“我又要搞砸了”）",
+          "拥有室友这一潜在的社会支持资源",
+          "已主动寻找解决办法（观看教程、向朋友请教）"
+        ],
+        "negative_force": [
+          "过度概括与自我贴标签，将一次失败视为整体无能",
+          "读心术式的担忧与对外部评价的高度依赖",
+          "个人化倾向加重羞耻感与低自尊",
+          "回避行为在短期减轻焦虑但维持了长期问题",
+          "否定正向经验，难以整合以往成功经历"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避烹饪与进入厨房",
+          "antecedent": [
+            "进入厨房",
+            "想到要做饭",
+            "看到室友在做饭或涉及分工"
+          ],
+          "core_reason": "一次烧糊米饭后将失败个人化并过度概括为能力不足，担心再次出错并被评判",
+          "function": "逃避可能的失败与被评价，短期降低焦虑",
+          "consequence": "饮食被打乱且转向不健康选择；与室友的分工与联结受损；自尊持续下降"
+        },
+        {
+          "behavior": "负性自我对话与自我贴标签（如“我会搞砸”“我是糟糕的厨师”）",
+          "antecedent": [
+            "准备下厨或烹饪前",
+            "回想烧糊米饭的经历"
+          ],
+          "core_reason": "低自我价值感被激活，以标签化方式解释失败并强化无能感",
+          "function": "通过自我贬低降低投入与期待，以回避尝试和潜在失败",
+          "consequence": "焦虑上升，练习与改进机会减少，进一步强化回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1844
+}

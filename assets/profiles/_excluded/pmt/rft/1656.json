@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "53",
+      "name": "张昊",
+      "gender": "男",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "有几位亲密朋友，但尚未向他们分享自己的不自信与不足感；与朋友的互动因自信下降而受到影响",
+      "medical_history": "无显著躯体疾病；无以往心理咨询或治疗经历；无类似心理问题既往史",
+      "language_features": "表达清晰、思维条理较好，能觉察并讨论自身想法；态度中性，配合度良好，能够进行自我反思"
+    },
+    "main_problem": "在朋友们没有觉得自己讲的笑话好笑后，对自身“逗笑别人”的能力产生不足感与自我怀疑；问题加重为害怕被他人评判，认为自己不擅长喜剧，在涉及幽默的社交情境中出现回避与不安全感。",
+    "topic": "人际关系",
+    "core_demands": "这些自卑感正在影响自尊与社交互动，希望通过咨询识别并挑战灾难化与负性预测，形成更现实和平衡的看法，从而提升自信与社交体验。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个不幽默的人",
+        "我不够好（不能让别人发笑就说明我失败）"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次与朋友的聚会上，自己讲的笑话没有引发笑声",
+          "conditional_assumptions": "如果我的笑话没有让朋友发笑，就证明我不幽默、我失败了",
+          "compensatory_strategies": "降低在朋友面前尝试幽默的频率，避免再讲笑话；向朋友寻求安慰与认可",
+          "automatic_thoughts": "我一点也不好笑，我永远都不会擅长喜剧",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在与朋友一起的轻松娱乐社交场合，需要互动与幽默时",
+          "conditional_assumptions": "如果我尝试幽默，别人会评判我、看不起我",
+          "compensatory_strategies": "尽量不引人注意、与他人一起随声附和地笑，以避免凸显自己",
+          "automatic_thoughts": "他们会觉得我很尴尬、会对我作出负面评价",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当想到要讲笑话或看到别人正在欢笑时",
+          "conditional_assumptions": "我必须让所有人都觉得好笑，否则就说明我不行；如果再次尝试，肯定会出丑",
+          "compensatory_strategies": "在相关情境中沉默、回避主动发言，减少社交暴露",
+          "automatic_thoughts": "如果我说了，场面会很尴尬，大家会冷场",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次回忆那次讲笑话失败的经历",
+          "conditional_assumptions": "一次失败就等于我完全不擅长喜剧",
+          "compensatory_strategies": "自我审查、避免在朋友面前尝试幽默，寻求保证以减轻焦虑",
+          "automatic_thoughts": "这说明我不具备幽默的能力",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳、认可自己的幽默与社交价值",
+        "fear": "害怕被他人评判、羞辱与拒绝",
+        "defense_goal": [
+          "通过回避幽默表现与降低自我暴露来维持安全感与自尊的完整性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易出丑、缺乏幽默感的被评判者",
+          "object_representation": "苛刻的评判者/可能嘲笑与否定自己的人",
+          "linking_affect": "羞耻、焦虑、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其设定再次尝试在朋友间讲一个小笑话的目标时",
+          "interpretation": "潜意识将咨询师理解为会推动自己暴露于尴尬情境的权威者，从而预设负面结果（移情：对他人反应的负面期待）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "采用温和、支持性的语气，先承认其紧张与担忧，再将目标切分为可管理的小步，强调允许不完美与逐步尝试。"
+        },
+        {
+          "trigger_condition": "当提到朋友可能会‘不觉得好笑’或‘评判自己’的场景时",
+          "interpretation": "将内心自我批评与羞耻体验投射为他人的负面评价（认为他人必然看不起自己）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以共情性的语气温和纠偏，邀请其区分事实与推测，鼓励举证和多种可能性，避免对抗式质疑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未婚且独居；在涉及幽默的社交场景中回避表达，感觉‘不被接纳’与‘不属于圈子’"
+          ],
+          "outcomes": [
+            "社交退缩与不安全感加重",
+            "自尊受损",
+            "对他人评价的敏感与焦虑上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在会谈中多次假定他人会对自己作负面评价（如‘他们会觉得我很尴尬’）",
+            "将内在的羞耻与自我否定体验理解为别人的统一看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论社交目标时谨慎保守，倾向于设定非常小的尝试以避免出错",
+            "过度在意他人如何看待自己的幽默表现"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有几位亲密朋友作为潜在支持资源",
+          "工作表现未受影响，基本生活功能稳定",
+          "愿意求助与进行咨询，具备一定的自我觉察与反思能力"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括、非黑即白等认知偏误显著",
+          "对他人评价高度敏感，倾向寻求外部认可与保证",
+          "在涉及幽默的社交情境中回避与自我审查，导致自尊下滑与互动质量下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及幽默的社交场合回避发言与幽默表达，并通过随声附和来降低存在感",
+          "antecedent": [
+            "与朋友在轻松娱乐的聚会或社交活动中",
+            "想到要讲笑话或看到他人欢笑时",
+            "回忆此前笑话未被认为好笑的经历"
+          ],
+          "core_reason": "对再次出丑的灾难化预测与‘一次失败=完全不行’的非黑即白信念，以及对他人评判的高度敏感",
+          "function": "逃避潜在的羞耻与负面评价，维持短期安全感与自我保护",
+          "consequence": "自尊降低、社交互动受损、幽默表达与自信进一步减少，形成负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1656
+}

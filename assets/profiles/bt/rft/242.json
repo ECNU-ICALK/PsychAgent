@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "陈安然",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有几位朋友可提供支持，但尚未与朋友讨论其焦虑与自我意识问题",
+      "medical_history": "无重大躯体疾病；过往未接受心理治疗；此前未出现类似心理问题",
+      "language_features": "紧张但合作，表达清晰，能识别并讨论自动化思维，能够提出替代解释；语速平稳，逻辑性较好"
+    },
+    "main_problem": "我总觉得别人会因为我的身高而对我有负面评价，尤其是在电影院等公共场合，这让我非常自我意识过强并且焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "这些自我意识过强和焦虑开始影响我的日常功能和社交互动。",
+    "growth_experiences": [
+      "自我意识过强与焦虑始于青春期，近几个月加重；来访者相信社会对“融入、不显眼”的压力是其困扰的成因，这使其在公共场合（如电影院）更易感到被关注与评判，进而产生强烈焦虑与回避社交。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我因为身高显眼而不被他人接纳",
+        "如果我引人注目，就会受到负面评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在电影院观影时担心挡住后排视线",
+          "conditional_assumptions": "如果我的身高影响到别人，就是我的错，别人会讨厌我",
+          "compensatory_strategies": "在公共场合尽量缩小存在感、保持安静，选择偏僻座位或减少外出",
+          "automatic_thoughts": "他们一定很讨厌我，觉得我挡住了他们",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在人员密集的公共场所时感觉自己成为关注焦点",
+          "conditional_assumptions": "如果我显眼，就会被负面评价",
+          "compensatory_strategies": "避免去人多的地方，靠墙或角落站坐以降低存在感",
+          "automatic_thoughts": "大家都在看我并不喜欢我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友外出排队或就座时，担心自己占用过多空间",
+          "conditional_assumptions": "我应该不显眼、不能给别人添麻烦",
+          "compensatory_strategies": "保持僵硬和安静，尽量蜷缩身体，减少移动",
+          "automatic_thoughts": "我占用了太多空间，别人会不满",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "准备参加社交活动前就预期会被负面评价而感到强烈焦虑",
+          "conditional_assumptions": "如果我去到人群中，一定会被评判和讨厌",
+          "compensatory_strategies": "提前回避社交活动以避免可能的尴尬和被评判",
+          "automatic_thoughts": "去了只会很糟糕，大家会不喜欢我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、自在地参与社交而不被负面评价",
+        "fear": "害怕因显眼而被羞辱、被排斥或惹人厌",
+        "defense_goal": [
+          "通过降低存在感与回避人群来维持安全感",
+          "避免触发外界的负面评价以减少羞耻与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "显眼且可能打扰他人的人、容易被评判者",
+          "object_representation": "挑剔、会不满并进行负面评价的他人或人群",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当处于公共场合或被咨询师追问这些担忧的证据与来源时",
+          "interpretation": "将不适解释为“社会压力要求不出众”，以减轻自责与焦虑（移情：以社会规范为外在解释）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性化的社会规范解释，语气平稳、克制情感表达，弱化对个人羞耻和恐惧的直接探讨。"
+        },
+        {
+          "trigger_condition": "当置身于人群并主观感到被注视时",
+          "interpretation": "认为他人正在不满或讨厌自己，将内在的批评和不安全感归于他人（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以猜测他人感受的方式表达，例如“他们一定很不高兴”，语气紧张、减少自我表露，避免核查客观证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "认为社会要求“融入、不显眼”，并将其内化为“我应该不显眼”的自我约束"
+          ],
+          "outcomes": [
+            "自我一致性下降",
+            "焦虑加重",
+            "回避行为增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在公共场合回避社交、难以享受与朋友外出看电影等活动",
+            "建立新关系与维持现有关系受阻"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "活动乐趣降低",
+            "人际关系受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须不显眼”等语句",
+            "将“融入、不出众”的社会规范直接当作自我要求"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人评价，反复自我苛责如“我占用太多空间”",
+            "在公众场合僵住并保持安静、减少移动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在缺乏证据时读心他人“他们一定在讨厌我”",
+            "将内在不安全感归因于他人态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有一定的社会支持（有几位可求助的朋友）",
+          "愿意求助并接受咨询，动机较稳定",
+          "能够识别自动化思维并尝试提出替代解释",
+          "愿意尝试行为实验与现实检验",
+          "曾尝试呼吸练习与积极自我对话等自助策略"
+        ],
+        "negative_force": [
+          "过度在意他人看法，寻求外部验证",
+          "读心术与个人化的认知偏差显著",
+          "社交回避行为强化焦虑维持",
+          "将“不要显眼”的社会规范内摄为自我要求",
+          "自我意识过强，易在公共场合紧张僵住"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在公共场合的社交焦虑与回避",
+          "antecedent": [
+            "在人多的公共场合",
+            "在电影院观影时担心挡住他人视线",
+            "当感觉自己成为关注焦点时"
+          ],
+          "core_reason": "因身高显眼而对他人负面评价进行读心与负性预测，并将“不要出众”的社会规范内摄为自我要求，形成羞耻与焦虑。",
+          "function": "逃避被评判与羞耻感，获得短期安全与心理舒缓",
+          "consequence": "难以享受活动（如看电影），回避社交，建立与维持人际关系受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 242
+}

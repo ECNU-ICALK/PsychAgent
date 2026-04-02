@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "有志成为教师",
+      "educational_background": "正在攻读教育学学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，养一只宠物狗",
+      "social_status": "有少数亲密朋友可倾诉，但尚未与他们讨论此具体问题",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑性较好，能进行自我反思；对咨询持合作态度；开场时略感焦虑"
+    },
+    "main_problem": "我倾向于非黑即白的思维，只要一个负面方面突出，就会忽视体验中的任何积极面。这种思维方式让我感到痛苦，尤其是在社交情境中。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到我的消极思维模式正在影响我对生活和社交互动的享受。",
+    "growth_experiences": [
+      "青少年时期开始形成对经历与事件的高期待与完美化标准；随着时间推移，在社交活动、演出及日常互动中只要出现一个负面方面，便忽略积极面、将整体体验定义为糟糕，近几个月该模式更为突出，常感到失望与不满。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美的体验才有价值",
+        "一处瑕疵会毁掉整件事"
+      ],
+      "special_situations": [
+        {
+          "event": "独立音乐会出现音响技术故障",
+          "conditional_assumptions": "如果活动出现任何瑕疵，整体就等于失败、不值得",
+          "compensatory_strategies": "通过写日记尝试强调积极面，但回顾时仍将注意力集中于负面细节",
+          "automatic_thoughts": "这场演出被毁了，真是糟糕的一晚",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "工作团建活动中食物很差",
+          "conditional_assumptions": "如果体验中存在不合意的部分，就意味着整场活动是失败和浪费",
+          "compensatory_strategies": "事后只谈论不好的部分，忽略其他积极体验",
+          "automatic_thoughts": "这次出行是浪费",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "社交场合中出现小的不顺（如安排不完美或临时技术问题）",
+          "conditional_assumptions": "事情应该按我期待的方式完美进行，否则就是糟糕的经历",
+          "compensatory_strategies": "为活动设定过高且僵化的期待，以期避免失望",
+          "automatic_thoughts": "这次社交活动变得很糟，不值得来",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "独立音乐会的开场演出很差",
+          "conditional_assumptions": "如果某个环节表现不佳，就代表整晚都很糟糕",
+          "compensatory_strategies": "将关注点集中在表现不佳的环节，把其他积极部分视为无足轻重",
+          "automatic_thoughts": "开场很差，所以整晚都糟糕",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有近乎完美的体验，以获得满足与掌控感",
+        "fear": "害怕不完美带来的失望与不满",
+        "defense_goal": [
+          "以严格的评价标准和非黑即白的判断来避免失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "苛求完美、容易因瑕疵而否定整体的体验者",
+          "object_representation": "他人或活动被视为要么完美要么糟糕、可能令我失望的对象",
+          "linking_affect": "失望、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在社交活动、演出及日常互动中，当出现一个负面方面时难以体验到意义与价值，将整体经历归为“糟糕”",
+            "常将积极片段视为微不足道，从而削弱对事件意义的把握"
+          ],
+          "outcomes": [
+            "失望和不满感增强",
+            "活动的享受度降低",
+            "人际关系中的误解与冲突增多"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "长期对事件设定完美化期待",
+            "在回顾经历时以外在完美标准评判自我与他人",
+            "咨询开始时表示对敞开心扉有些焦虑与谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的自我反思与记录能力（尝试通过写日记关注积极面）",
+          "学业表现稳定",
+          "有少数亲密朋友可提供情感支持",
+          "求助动机明确、态度积极"
+        ],
+        "negative_force": [
+          "过高期待与完美主义倾向",
+          "非黑即白思维与心理过滤，倾向忽视积极面",
+          "在社交场合中的失望与不满加剧，导致误解与冲突",
+          "对事件整体评价受单一负面细节主导"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交与娱乐活动中以非黑即白方式评价并只关注负面",
+          "antecedent": [
+            "社交活动、演出或日常互动中出现小瑕疵或与期待不符",
+            "对活动抱有过高且完美化的期待"
+          ],
+          "core_reason": "长期高期待与完美主义倾向，使其将局部瑕疵视为整体失败",
+          "function": "避免主观上的失望感，维持对体验的控制与确定性",
+          "consequence": "整体情绪与享受度下降；与他人产生误解与冲突；社交满意度降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1655
+}

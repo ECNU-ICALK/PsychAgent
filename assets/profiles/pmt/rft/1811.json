@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "林瑶",
+      "gender": "女性",
+      "occupation": "律师",
+      "educational_background": "法律学位",
+      "marital_status": "已婚，育有3个孩子",
+      "family_status": "与配偶和孩子同住，在山中有度假屋",
+      "social_status": "配偶支持但未充分了解其恐惧强度；因不愿驾驶导致家庭关系出现紧张",
+      "medical_history": "无重大躯体疾病；无以往心理治疗史；此前未出现过类似心理问题",
+      "language_features": "表达清晰、配合度高、逻辑性强；态度积极；在谈及驾驶时出现显著焦虑并描述心悸、胸闷、头晕等生理反应"
+    },
+    "main_problem": "对驾驶SUV时发生事故并立即死亡的强烈恐惧，购车后数月出现并逐渐升级，导致尽量回避驾驶。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这份恐惧正在成为我日常生活和责任的重大障碍，因此寻求咨询；希望重新获得对恐惧的控制感并恢复独立性。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不安全",
+        "我无法掌控大型车辆"
+      ],
+      "special_situations": [
+        {
+          "event": "在高速公路驾驶SUV",
+          "conditional_assumptions": "如果在高速路上驾驶大型而强劲的车辆，一旦出事就会是致命的",
+          "compensatory_strategies": "尽量避免上高速、必要时靠边停车、减少驾驶次数",
+          "automatic_thoughts": "我马上会失控撞车，可能当场死亡",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在拥堵路况或繁忙交通中驾驶",
+          "conditional_assumptions": "在复杂路况中更容易发生事故，一旦发生我将无法应对",
+          "compensatory_strategies": "回避高峰期和复杂路段，减少出行",
+          "automatic_thoughts": "交通这么复杂，事故很快就会发生在我身上",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "握上SUV方向盘、感受到车辆的尺寸和动力",
+          "conditional_assumptions": "车辆越大越有力，我就越难以掌控，出错会造成严重后果",
+          "compensatory_strategies": "紧张僵硬地驾驶、进行呼吸和分心技巧以缓解，但仍倾向回避",
+          "automatic_thoughts": "这车太大太有力，我根本控制不住",
+          "cognitive_pattern": "Control Fallacy"
+        },
+        {
+          "event": "听闻或想到类似SUV发生事故的消息",
+          "conditional_assumptions": "这类车辆更危险，我也很可能会遇到同样的事故",
+          "compensatory_strategies": "强化对驾驶的回避、将危险信息作为不驾驶的理由",
+          "automatic_thoughts": "驾驶SUV就是更容易出事故",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全与可控，能够安心驾驶并维持生活独立性",
+        "fear": "害怕失去控制并发生致命事故",
+        "defense_goal": [
+          "通过回避驾驶来降低危险感与焦虑，维持主观安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易失控的驾驶者",
+          "object_representation": "配偶是支持者但未充分了解其恐惧的旁观者",
+          "linking_affect": "焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问恐惧来源或需要解释为什么害怕驾驶SUV时",
+          "interpretation": "倾向将恐惧完全归因于车辆的客观尺寸与动力，视其为主要危险来源",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用客观、理性的语句强调车辆的“大与有力”，淡化主观感受；语气平稳、条理化解释风险，减少情感曝光。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "驾驶SUV时强烈预想发生致命事故",
+            "在高速与繁忙路况中更强烈的死亡恐惧",
+            "伴随心悸、胸闷、头晕等身体反应"
+          ],
+          "outcomes": [
+            "回避驾驶、独立性受限",
+            "家庭关系紧张",
+            "显著焦虑与恐慌体验"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "未向配偶充分表达恐惧的强度与影响，选择独自承受",
+            "更倾向于自我调节（呼吸、分心）而非主动寻求外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的配偶与家庭资源",
+          "多数驾驶经历实际安全无事故的客观证据",
+          "态度积极、愿意尝试循序渐进的练习以重建控制感"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式",
+          "对大型车辆的控制谬误（自认为无法掌控）",
+          "回避驾驶导致功能受限并维持恐惧",
+          "未向家人充分表达恐惧强度，难以获得有效支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避驾驶SUV",
+          "antecedent": [
+            "购入SUV后每次上车驾驶",
+            "高速公路与繁忙交通情境",
+            "听闻类似车辆事故信息"
+          ],
+          "core_reason": "对车辆尺寸与动力的危险感受引发灾难化与预测未来的思维，担心失控并发生致命事故",
+          "function": "逃避恐惧与主观危险，获得即时的安全感",
+          "consequence": "日常活动与独立性受限；家庭关系出现紧张"
+        },
+        {
+          "behavior": "驾驶时出现强烈焦虑/恐慌反应（心悸、胸闷、头晕、颤抖）",
+          "antecedent": [
+            "在高速或拥堵路况驾驶SUV时",
+            "出现“我会失控并发生致命事故”的自动化思维"
+          ],
+          "core_reason": "情绪化推理与灾难化思维放大对危险的主观体验，形成条件化的生理应激反应",
+          "function": "通过生理反应促使停止或减少驾驶以避免感知到的危险",
+          "consequence": "需要靠边停车或中断驾驶，进一步强化回避循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1811
+}

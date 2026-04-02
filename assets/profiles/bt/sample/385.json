@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "刘海丽",
+      "gender": "女性",
+      "occupation": "职业赛车手",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有四个女儿的父亲",
+      "social_status": "未提及",
+      "medical_history": "既往未接受心理治疗或咨询；无明显躯体疾病",
+      "language_features": "表达清晰、配合度较好、语气平和且能进行反思；自我评价偏低，常用灾难化与非黑即白的表述；语速正常"
+    },
+    "main_problem": "我经常觉得自己在很多事情上是最差的，尤其在自认为失败之后。这种不足感和自我批评影响了我的自信与整体幸福感。",
+    "topic": "情绪管理",
+    "core_demands": "当我注意到这些无能感影响我的赛车职业表现并影响我与家人的关系时，我决定寻求咨询。",
+    "growth_experiences": [
+      "一次钓鱼之旅中仅钓到一条很小的鱼。该经历发生时自己对表现有较高期待，压力水平为中等；事后产生强烈的自我贬低与无能感（如“我是最差的渔夫”），并且这种感觉在之后任何自认为失败的情境中都会被激活，影响到生活与职业表现。",
+      "过去在赛车比赛失利后也会出现类似的无能感与自我批评；虽然有支持性的家庭，但并未主动向家人讨论这些感受。长期以来，这样的体验加重了对失败的敏感，影响职业表现、自尊以及对兴趣爱好的享受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是最差的（不够好、不称职）"
+      ],
+      "special_situations": [
+        {
+          "event": "最近一次钓鱼只钓到一条很小的鱼",
+          "conditional_assumptions": "如果没有达到自己设定的高期待或没有显著成果，就等于失败并证明我是最差的",
+          "compensatory_strategies": "尝试通过理性化并关注自己的成功来缓解负面感受，但效果有限",
+          "automatic_thoughts": "我就是最差的渔夫/我在这件事上完全失败了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在赛车比赛失利或出现小错误之后",
+          "conditional_assumptions": "如果我的表现不完美，就说明我不称职",
+          "compensatory_strategies": "持续自我批评、反复沉浸在错误中，难以专注于改进",
+          "automatic_thoughts": "我太糟糕了，我不称职",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "与家人互动与关系受影响的情境",
+          "conditional_assumptions": "如果我在工作或兴趣上表现不佳，就会让家人失望并破坏关系",
+          "compensatory_strategies": "回避与家人讨论真实感受以避免冲突或被评判",
+          "automatic_thoughts": "都是我不好，关系变糟是因为我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "当考虑尝试重构思维或进行行为实验（再次钓鱼、写思维记录）时",
+          "conditional_assumptions": "如果我不能有效地做到认知重构，就证明我确实是失败者",
+          "compensatory_strategies": "犹豫并降低期望，但仍愿意尝试",
+          "automatic_thoughts": "万一我做不好怎么办？我可能还是会失败",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、被认可与尊重（在职业与家庭中证明自己）",
+        "fear": "害怕失败后被否定、被贴上“最差”的标签并伤害重要关系",
+        "defense_goal": [
+          "通过严苛的自我批评与高期待来避免失败与被评判",
+          "对家人保持不披露内心感受以减少暴露脆弱与冲突"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职的失败者、需要不断证明自己的个体",
+          "object_representation": "严苛评判者（比赛、他人或家人会以结果评价价值）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验（再次钓鱼）或布置写思维记录的作业时",
+          "interpretation": "若不能完美完成这些任务，就再次证明自己是失败者（将练习视为能力与价值的考验）",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "采用支持性与正常化的语气，肯定其担忧的合理性，邀请其将目标拆分为可执行的小步，并强调练习的学习性质而非成败评判。"
+        },
+        {
+          "trigger_condition": "在回忆或面对比赛失利、犯错后情绪上升时",
+          "interpretation": "将外界的负面评价与压力转为对自己的攻击，认为一切都是自己的问题",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气温和而坚定，帮助其辨识自我批评的内容与来源，鼓励以具体行为改进与同情性自我对话替代苛责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有支持性的家庭却未向家人讨论自身的无能感与困扰",
+            "失败后倾向自我批评并独自承受情绪"
+          ],
+          "outcomes": [
+            "人际联结感下降、关系紧张",
+            "焦虑与自我否定加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在兴趣爱好（如钓鱼）中因结果不佳而难以享受过程",
+            "将个体价值与表现结果高度绑定"
+          ],
+          "outcomes": [
+            "兴趣满足感降低、自尊受损",
+            "对失败的敏感度提升，情绪困扰加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "为钓鱼与比赛设定高期待，将“必须有出色结果”视为衡量自我价值的标准",
+            "把表现与自我价值紧密捆绑，难以消化与整合失败经验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在失败后过度自我批评，难以专注于改进",
+            "对尝试认知重构与行为实验持谨慎与怀疑态度，担心做不好"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的家庭与社会支持基础",
+          "愿意尝试行为实验与写思维记录的作业",
+          "能够识别并承认积极方面（例如承认自己确实钓到鱼、天气与体验有积极面）"
+        ],
+        "negative_force": [
+          "完美主义与高期待倾向",
+          "灾难化与非黑即白思维、过度概括与心理过滤",
+          "强烈的自我批评与自我否定",
+          "在重要关系中回避表达真实感受，担心被评判"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在自认为失败后出现强烈的自我否定与自我批评",
+          "antecedent": [
+            "钓鱼仅钓到小鱼",
+            "赛车比赛失利或出现小错误",
+            "面对需要尝试认知重构或行为实验的情境"
+          ],
+          "core_reason": "对结果高度依赖的自我价值评估（高期待、完美主义）与灾难化、非黑即白、心理过滤、过度概括等认知偏差共同作用",
+          "function": "通过自我批评来获得对失败的“控制感”与预防再次失败的错觉，同时逃避面对不完美与不确定性",
+          "consequence": "职业表现受影响、与家人关系紧张、对兴趣爱好的满足感降低、焦虑与无能感加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 385
+}

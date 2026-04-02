@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "林浩",
+      "gender": "男",
+      "occupation": "汽车装配线工人",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与室友同住",
+      "social_status": "自尊受损导致社交意愿下降，避免与朋友外出就餐；与室友可谈日常但不愿分享自卑感",
+      "medical_history": "无重大躯体疾病；此前无类似心理问题史；未接受过心理咨询或治疗",
+      "language_features": "表达清晰，能描述情绪与行为；思维偏负性、自我贬低，倾向否定积极反馈；对改变持怀疑但愿意尝试，配合度尚可，语气整体消极"
+    },
+    "main_problem": "因自己喜欢吃通心粉奶酪而感到“无聊、没趣和很差劲”，影响自我认知与自尊，进而回避社交与尝试新活动。",
+    "topic": "自我探索",
+    "core_demands": "我决定寻求咨询，因为我注意到这种自卑感限制了我的社交互动以及整体的生活享受。",
+    "growth_experiences": [
+      "约一年前在社交媒体与社会舆论的持续影响下，逐渐内化“独特、敢于尝试才算有趣/酷”的价值标准；在吃通心粉奶酪或看到他人尝试多样食物时感到自卑与羞耻，随后减少与朋友外出就餐、尝试过新食物和新活动但仍否定积极反馈，问题逐步加重并影响日常生活与社交。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无聊、幼稚、没有吸引力的人",
+        "我的价值取决于他人的评价以及我是否足够“与众不同/勇于尝试”"
+      ],
+      "special_situations": [
+        {
+          "event": "独自或与他人用餐时选择通心粉奶酪",
+          "conditional_assumptions": "如果我的饮食喜好不够多样或不够“冒险”，就说明我是无聊且不值得被认可的人",
+          "compensatory_strategies": "自我批评、强迫自己尝试新食物以证明自己“不是无聊的人”",
+          "automatic_thoughts": "我这么吃太幼稚、太没趣了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到他人尝试多样化食物或社交媒体对“冒险饮食”的赞美",
+          "conditional_assumptions": "如果别人更“多样/独特”，他们就比我更优秀、更值得被关注",
+          "compensatory_strategies": "在社交媒体上比较并贬低自己，减少与他人外出就餐",
+          "automatic_thoughts": "别人都比我有趣，生活也比我好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "他人对自己尝试新食物或努力的正面反馈",
+          "conditional_assumptions": "若表扬很小或来自熟人，就不算数、不可信",
+          "compensatory_strategies": "否定积极反馈，认为对方只是出于礼貌",
+          "automatic_thoughts": "他们只是客气，不是真的这么想",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "计划与朋友外出就餐或想到可能被他人看到自己的饮食选择",
+          "conditional_assumptions": "如果我按自己的口味点餐，就会被他人看不起、嘲笑",
+          "compensatory_strategies": "回避与朋友外出就餐，减少社交",
+          "automatic_thoughts": "他们会觉得我很幼稚、很无聊",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被视为有价值并且“有趣”，能按自己的喜好生活而不被羞辱",
+        "fear": "害怕被嘲笑、被贬低与被贴上“幼稚/无聊”的标签，从而被拒绝或排斥",
+        "defense_goal": [
+          "通过回避社交减少被评判的机会",
+          "通过否定他人的积极反馈来避免希望与失望的波动",
+          "以自我贬低先发制人以降低被羞辱时的冲击"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无聊、不够好的被评判者",
+          "object_representation": "苛刻、爱比较的评判者或更优越的同伴/公众",
+          "linking_affect": "羞耻、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师给予肯定或强调其积极努力（如愿意尝试自我慈悲）",
+          "interpretation": "认为他人的肯定“不是真诚的，只是礼貌”，难以接纳正向反馈",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "淡化或拆解称赞，用“这不算什么/只是客气”回应，语气保留、避免情感投入。"
+        },
+        {
+          "trigger_condition": "当谈及他人可能如何看待其饮食偏好或在社交场合的表现",
+          "interpretation": "将内在的自我批评体验投射为“别人会看不起我/觉得我幼稚”",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用确定语气陈述“他们会嘲笑我”，不主动求证证据，伴随紧张与回避。"
+        },
+        {
+          "trigger_condition": "当咨询师鼓励尝试新的认知或自我慈悲练习",
+          "interpretation": "以“这很假/对我没用”为由拒绝尝试，从而维持既有认知",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以冷静而怀疑的语气给出理由（如“感觉很假”）来婉拒练习，降低情绪卷入。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将个人喜好受社交媒体与社会标准左右",
+            "为迎合“有趣/酷”的外在标准而压抑真实偏好"
+          ],
+          "outcomes": [
+            "自我异化与羞耻感增强",
+            "焦虑上升并回避社交场合"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与朋友外出就餐",
+            "不愿向室友谈及自卑与不足感"
+          ],
+          "outcomes": [
+            "社会联结减少、可用支持受限",
+            "自尊进一步下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“敢于尝试新奇食物才算有趣/酷”的社会标准当作自我评价的唯一依据",
+            "使用“应该/必须更会尝试”的内在语言苛责自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设他人会嘲笑自己的饮食偏好（“他们会觉得我很幼稚”）",
+            "将自我批评体验投射为外界的负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "高度自我苛责、反复比较并否定自己",
+            "对他人称赞保持怀疑并迅速否定其有效性"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作表现稳定，具备基本生活规律",
+          "能自我觉察到问题并主动寻求帮助",
+          "在咨询中表现出一定的尝试意愿（尽管心存怀疑）",
+          "具备日常支持性关系基础（与室友同住）"
+        ],
+        "negative_force": [
+          "自尊低下与持续自我否定",
+          "过度在意外界评价并内化社交媒体标准",
+          "回避社交与外出就餐，强化负性信念",
+          "否定积极反馈，难以整合正向经验"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避与朋友外出就餐",
+          "antecedent": [
+            "计划与朋友聚餐",
+            "想到自己会点通心粉奶酪",
+            "看到他人尝试多样食物",
+            "刷到社交媒体对“冒险饮食”的赞美"
+          ],
+          "core_reason": "内化“多样/冒险才有价值”的标准，担心被评判为幼稚和无聊，引发羞耻与焦虑",
+          "function": "逃避被评价与羞耻情绪，获得短期安全感",
+          "consequence": "社交减少、孤独感上升，生活乐趣下降并维持负性自我认知"
+        },
+        {
+          "behavior": "否定他人的积极反馈（“他们只是礼貌”）",
+          "antecedent": [
+            "他人对其尝试新食物或努力的赞美/认可",
+            "咨询师的正向反映与鼓励"
+          ],
+          "core_reason": "维持既有“我很无聊/不够好”的图式以避免期望落空的痛苦",
+          "function": "维持认知一致性、降低情感脆弱感",
+          "consequence": "难以整合正向经验，自尊无法提升，消极情绪持续"
+        },
+        {
+          "behavior": "自我贬低的负性自我对话（如“我很幼稚/很差劲”）",
+          "antecedent": [
+            "吃通心粉奶酪",
+            "看到他人多样化饮食或社交媒体内容",
+            "想到要与他人同吃一餐"
+          ],
+          "core_reason": "将个体偏好与整体人价值进行全或无的等同，过度概括自身缺陷",
+          "function": "通过自我批评先发制人，试图控制被他人羞辱时的情绪冲击",
+          "consequence": "加重羞耻与焦虑，进一步回避社交并降低生活满足感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 620
+}

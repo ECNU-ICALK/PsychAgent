@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "李凯",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与朋友同住（兴趣相近），未提及原生家庭情况",
+      "social_status": "有朋友可谈心，但因担心被评判未分享真实感受；人际互动因自我怀疑而受影响",
+      "medical_history": "无显著躯体疾病；无既往心理咨询/治疗史；无类似问题史",
+      "language_features": "略感紧张；表达清晰；能够进行理性自我对话；配合度良好"
+    },
+    "main_problem": "我相信喜欢足球让我比别人不聪明，这导致自我怀疑和自我不足感。",
+    "topic": "人际关系",
+    "core_demands": "这些信念对我的自尊和社交互动产生了显著影响，这促使我寻求咨询的支持与指导。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不聪明",
+        "兴趣决定我的智力与价值"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友一次关于兴趣与智力的讨论中，朋友暗示像足球这样的兴趣不如“更具知识性”的爱好者聪明",
+          "conditional_assumptions": "如果我的兴趣不被视为“知识性”，别人会认为我不聪明",
+          "compensatory_strategies": "在朋友面前隐藏对足球的喜爱，避免谈论相关话题",
+          "automatic_thoughts": "喜欢足球让我显得不聪明；他们会看轻我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合当话题涉及“智力”或“兴趣”时",
+          "conditional_assumptions": "如果我表达自己的兴趣，就会被评判为愚蠢",
+          "compensatory_strategies": "回避该话题或保持沉默，以防出丑",
+          "automatic_thoughts": "我会说蠢话、看起来很笨",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "曾有人对我热爱足球给予积极回应，但这些正向反馈在我心里被负面评论掩盖",
+          "conditional_assumptions": "负面评价比正面反馈更真实、更值得重视",
+          "compensatory_strategies": "忽略或淡化正向反馈，持续自我怀疑",
+          "automatic_thoughts": "那些暗示我不聪明的评价才是真的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与拥有更“智性”兴趣的朋友进行比较",
+          "conditional_assumptions": "如果我不如他们“知识性”，就说明我不如人",
+          "compensatory_strategies": "质疑并贬低自身兴趣，努力迎合他人的标准",
+          "automatic_thoughts": "我不如他们；我就是不聪明",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳与认可（尤其在智力与价值方面）",
+        "fear": "害怕被评判、被看轻，从而被疏远或排斥",
+        "defense_goal": [
+          "通过回避相关话题与隐藏兴趣来维持关系中的安全感与自尊的表面稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判、不够聪明的自己",
+          "object_representation": "带有评判与贬低倾向的他人/朋友",
+          "linking_affect": "羞耻、焦虑、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人探问其如何与朋友谈及这些感受、或建议其公开表达对足球的喜爱时",
+          "interpretation": "李凯倾向将对方的探索理解为可能的评价与批评，担心重复被看轻的经历（移情：将他人的关注视作潜在评判）",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和且支持性，先共情其担忧与羞耻；使用具体化、体验化的提问替代抽象争论，邀请其描述当下身体感受与情绪强度，避免评判性用语。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在朋友身边仍感到孤立",
+            "担心表达真实兴趣会被评判",
+            "隐藏自我导致与他人疏离"
+          ],
+          "outcomes": [
+            "回避表达与互动",
+            "低自尊与自我怀疑加重",
+            "人际关系质量下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "感觉“没有做真实的自己”",
+            "因害怕评价而压抑自我选择与表达（如对足球的喜爱）"
+          ],
+          "outcomes": [
+            "内在冲突与焦虑提升",
+            "自我一致性下降",
+            "生活满足感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "谈及智力或兴趣时刻意转移话题",
+            "在相关讨论中沉默以避免被评判"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本欲向外发出的行为或请求，转而对自己做或压回自身。",
+          "manifestations": [
+            "隐藏对足球的喜爱而不表达",
+            "把想与朋友沟通的冲动压回自己，转为自我怀疑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "持续担心“会说蠢话”",
+            "过度在意他人评价，导致交流僵硬与退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人谈及智力或兴趣的社交场合时，李凯通常会回避表达对足球的喜爱，担心被认为不聪明，结果感到孤立并降低自尊。",
+          "unique_outcome": "在一次与新朋友的聊天中，李凯分享了自己关注的球队和比赛细节；对方表示很酷并进一步交流，李凯感到被接纳，互动更自然、焦虑降低。",
+          "reason": "不同支持：对方持开放、好奇的态度；不同做法：李凯选择如实分享兴趣；不同情境：话题以兴趣交流为主且缺少评判性评论。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得他人的正向回应与接纳",
+          "愿意寻求咨询支持与指导",
+          "能够进行理性自我对话并尝试积极自我暗示",
+          "拥有共同兴趣的朋友与一定社交支持"
+        ],
+        "negative_force": [
+          "过度在意他人评价与贴标签",
+          "负性认知模式（灾难化、否定积极、比较与绝望）",
+          "社交中回避与自我隐藏倾向",
+          "自尊脆弱、易自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及智力或兴趣的社交互动中回避表达与保持沉默",
+          "antecedent": [
+            "与朋友或他人在社交场合讨论智力或兴趣",
+            "听到他人暗示“喜欢足球的人不聪明”"
+          ],
+          "core_reason": "将兴趣与智力直接等同的认知偏差，伴随对被评判与羞耻的担忧",
+          "function": "逃避被评价与可能的羞耻，维持表面安全与关系和谐",
+          "consequence": "感到孤立与不真实，自尊受损，人际互动质量下降；工作与社交表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1388
+}

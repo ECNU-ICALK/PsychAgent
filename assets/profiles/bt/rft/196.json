@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数朋友可交流一般问题，但未与他们讨论与园艺相关的自卑感",
+      "medical_history": "无重大躯体疾病；既往无类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、合作度高；能识别并描述自动化思维与负性模式；语气略显紧张但态度积极、希望感较强"
+    },
+    "main_problem": "我在园艺技能方面陷入不足感与低自尊。我不断觉得自己是最糟糕的园艺者，而且永远不会进步。每次在花园工作都会出现自我批评与负性思维，导致畏难与失败感。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些不足感和自我怀疑正在影响我的整体幸福感以及对爱好的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是最糟糕的园艺者",
+        "我永远不会变得更好"
+      ],
+      "special_situations": [
+        {
+          "event": "上周种植新花后，大多数在几天内枯萎",
+          "conditional_assumptions": "如果一次尝试失败，就说明我没有能力，未来也不会成功",
+          "compensatory_strategies": "通过阅读园艺书籍、尝试新方法来弥补“无能感”，同时降低再次下地的意愿",
+          "automatic_thoughts": "为什么还要努力？我永远不会擅长园艺",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次进入花园准备开始工作",
+          "conditional_assumptions": "只有完美的结果才算成功，否则就是失败",
+          "compensatory_strategies": "回避或减少园艺活动，以避免再次感到失败",
+          "automatic_thoughts": "我是最糟糕的园艺者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到别人可能看到自己的花园或评价自己的园艺",
+          "conditional_assumptions": "我的价值取决于他人的看法；如果他们看到我的失败，就会看不起我",
+          "compensatory_strategies": "避免与朋友谈论园艺挫败，尽量不让他人看到花园",
+          "automatic_thoughts": "他们会觉得我很差劲/会嘲笑我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回忆上个月成功种植并茁壮成长的香草",
+          "conditional_assumptions": "单次成功只是偶然，无法改变我整体上的不行",
+          "compensatory_strategies": "忽视和淡化正向证据，继续强化负面自我标签",
+          "automatic_thoughts": "这不算真正的成功，只是运气好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的园艺者，能够自信地享受园艺的乐趣",
+        "fear": "害怕失败被他人否定与嘲笑，害怕暴露“不够好”的自己",
+        "defense_goal": [
+          "通过自我批评与预先否定来减少外界否定带来的伤害",
+          "减少与他人讨论园艺困扰、避免被看见以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、失败的园艺者",
+          "object_representation": "挑剔的评判者/冷漠的旁观者",
+          "linking_affect": "羞耻、焦虑、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到让他人看到她的花园或建议其向他人寻求帮助时",
+          "interpretation": "他人可能会像评判者一样看不起我，暴露会带来羞耻",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "先正常化羞耻与防御，语气温和稳定；以开放式提问邀请具体化担忧来源，逐步探询“被看见”的可承受范围，并提供安全边界选择。"
+        },
+        {
+          "trigger_condition": "当咨询师强调其成功经验（如成功种植香草）并给予肯定时",
+          "interpretation": "正面反馈不可靠，成功只是偶然，不能证明我有能力",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先共情其谨慎与不确定，语速放慢；再轻柔对质，引导区分“证据”与“解释”，邀请回看具体行为与结果，帮助其承认部分成功的有效性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "园艺从喜欢的爱好变为压力来源与失败象征",
+            "在花园工作时体验到畏难与失败感"
+          ],
+          "outcomes": [
+            "兴趣与乐趣下降",
+            "情绪低落与自尊受损",
+            "回避与减少投入"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友可交流，但未与他们讨论与园艺相关的不足感与羞耻",
+            "担心他人看法导致自我封闭"
+          ],
+          "outcomes": [
+            "缺乏现实支持与修正性体验",
+            "负性自我评价被强化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人或外界做出的行为冲动，转而对自己做，将能量由向外转为向内。",
+          "manifestations": [
+            "有朋友可谈却不表达园艺相关的不足与羞耻",
+            "独自承受自我批评与挫败，不主动寻求支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "担心他人会看不起自己或嘲笑自己的花园",
+            "将自我羞耻感外归为“他人会负面评价”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "存在不良的自我反思与过度自我限制，自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁贴标签“最糟糕的园艺者”",
+            "开始园艺前过度谨慎，预设失败场景",
+            "面对积极结果也迅速否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在实际进行园艺时，林洁通常会自我否定、预期失败并产生畏难情绪，进而降低投入与享受。",
+          "unique_outcome": "上个月成功种植了几株香草并茁壮成长，当时感到自豪与成就感，短暂地认可了自己的能力（如“也许我并不完全糟糕”）。",
+          "reason": "线索：在那次种植中保持了持续照料与观察、遵循操作步骤，更专注于过程而非自我评判，因此出现了更好的结果与体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极，愿意尝试行为实验",
+          "曾有成功经验（香草茁壮），可形成修正性证据",
+          "主动学习（阅读园艺书籍与方法）",
+          "具备一定的社会支持潜力（有朋友可交流）"
+        ],
+        "negative_force": [
+          "否定积极结果、贴标签与强烈自我批评",
+          "预测失败与个人化，过度在意他人评价",
+          "在园艺情境中产生畏难与回避，投入减少，自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在园艺活动中出现强烈自我否定与畏难，并伴随回避实践",
+          "antecedent": [
+            "开始在花园工作时",
+            "看到新种的花几天内枯萎",
+            "想到他人可能看到并评价自己的花园"
+          ],
+          "core_reason": "将一次或数次失败过度概括为整体能力不足，并以他人评价作为自我价值的核心，形成灾难化与预言式思维。",
+          "function": "逃避失败与羞耻感，避免被他人负面评价与自我揭露。",
+          "consequence": "园艺乐趣显著下降，情绪低落与自尊受损，减少园艺实践与投入。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 196
+}

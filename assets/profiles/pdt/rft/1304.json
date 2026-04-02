@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "69",
+      "name": "韩利",
+      "gender": "男性",
+      "occupation": "兽医",
+      "educational_background": "兽医学博士（DVM）",
+      "marital_status": "单身",
+      "family_status": "与3只狗和2只猫同住",
+      "social_status": "有一群支持性的朋友和家人，可在遇到困难时倾诉，但尚未与他们讨论此次无能感与自我怀疑",
+      "medical_history": "无重大躯体疾病；既往无心理咨询或治疗史",
+      "language_features": "表达清晰，能具体描述经历与自动化思维；态度消极，倾向灾难化与自我贬损；反复回放事故记忆；合作度良好"
+    },
+    "main_problem": "这周两次骑车摔倒后，产生与骑行相关的无能感、 inadequacy 和自我怀疑，影响自信与情绪，并发展到回避骑车与相关活动。",
+    "topic": "情绪管理",
+    "core_demands": "持续的无能感和自我怀疑影响整体幸福感并阻碍对骑行等活动的享受；希望减轻这些消极感受，恢复信心，重新享受骑车。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的"
+      ],
+      "special_situations": [
+        {
+          "event": "这一周内连续两次骑车摔倒",
+          "conditional_assumptions": "如果短时间内连续出错，就证明我永远学不会骑车/我就是不行",
+          "compensatory_strategies": "停止骑行、回避相关活动，尝试自我安慰但无效",
+          "automatic_thoughts": "我很糟糕，我永远不会骑好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "只要想到骑车或回想摔车画面",
+          "conditional_assumptions": "如果再次尝试就一定会再次出事故，我必须避免",
+          "compensatory_strategies": "回避上车与练习，拖延",
+          "automatic_thoughts": "我一定会再摔",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "涉及骑行或户外的社交活动/与朋友谈及骑行",
+          "conditional_assumptions": "如果我表现不好，别人会评判或不理解我",
+          "compensatory_strategies": "回避与朋友的骑行或户外活动，减少社交",
+          "automatic_thoughts": "他们不会理解，只会让我‘赶紧恢复’",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾过往骑行经历时",
+          "conditional_assumptions": "只有零失误才算会骑；顺利不算数，失败才说明问题",
+          "compensatory_strategies": "忽略正面证据以维持自我警惕，继续自我怀疑",
+          "automatic_thoughts": "那些顺利只是侥幸，摔车才说明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与接纳，并确认自己是有能力且可控的",
+        "fear": "害怕失败暴露无能，被他人否定或自我价值崩塌",
+        "defense_goal": [
+          "通过回避骑行与相关社交活动来降低失败与羞耻感",
+          "将责任归于自身以维持控制感，缓解不确定性带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、容易出错的失败者",
+          "object_representation": "苛求且不理解的他人（朋友/大众）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要绝对控制的个体",
+          "object_representation": "不可控且带来危险的环境/道路",
+          "linking_affect": "恐惧、无力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出外部因素（如路面湿滑）也可能影响，并邀请其考虑多重解释时",
+          "interpretation": "认为将部分原因归于外界等同于为自己的无能找借口，担心被视为推诿",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性的语句强调“我应该处理得更好/都是我的问题”，语气坚决，忽略外部因素。"
+        },
+        {
+          "trigger_condition": "当被询问是否与朋友或家人分享感受、寻求支持时",
+          "interpretation": "预设他人会否定或敷衍自己（认为他们不会理解）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用推测性表述（“他们可能/大概”），拒绝尝试沟通，语气防御、保留。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对曾经热爱的骑行与户外活动兴趣下降",
+            "成功骑行经历被忽视或贬低，难以从活动中获得价值感"
+          ],
+          "outcomes": [
+            "情绪低落与信心下降",
+            "回避活动，生活满足感降低"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因恐惧而限制选择，回避骑行与需要平衡/协调的活动",
+            "将责任全部归咎于自我，体验到被焦虑与自责束缚"
+          ],
+          "outcomes": [
+            "自主性下降，行动受限",
+            "焦虑与自我否定加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中频繁自我怀疑、使用“我不行/我应该更好”等表述",
+            "对尝试改变持谨慎态度，用自责维持控制感"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "推断朋友或家人“不会理解，只会让我赶紧恢复”，因此不与他们沟通"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到骑车或面对与朋友的骑行活动时，来访者通常会出现强烈的恐惧与自我怀疑，从而回避上车与练习。",
+          "unique_outcome": "在以往的一次顺利骑行中，他熟练绕过障碍并感到掌控，整个骑行过程顺利，没有出现强烈的恐惧和自我怀疑。",
+          "reason": "线索：当时专注于操作、注意到自己处理障碍的能力，体验到自我效能；未被灾难化思维主导注意。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "存在支持性的朋友与家人，可作为潜在支持资源",
+          "过往有顺利骑行并感到掌控的经验，具备能力的正向证据",
+          "工作功能稳定，职业自我效能感未受影响",
+          "愿意尝试挑战负性思维并表达“想重新享受骑行”的动机",
+          "能识别并表达内心想法与情绪，反思能力较好"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括等认知偏差显著",
+          "反复回放事故、强化自责与无能感",
+          "回避骑行与相关社交，形成负性循环",
+          "对他人的负面预测与读心，减少外界支持的利用",
+          "否定正面经历，注意偏向负面"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避骑车及涉及平衡/协调的活动",
+          "antecedent": [
+            "想到骑车或回想摔车画面",
+            "被邀请参加与朋友的骑行或户外活动"
+          ],
+          "core_reason": "在连续摔车后形成“我是无能的”的核心信念，伴随灾难化和非黑即白思维，担心再次失败与受伤",
+          "function": "逃避感知的危险与可能的失败/羞耻，短期降低焦虑",
+          "consequence": "兴趣下降、情绪受损，错失正向体验与能力恢复机会，社交回避"
+        },
+        {
+          "behavior": "反复回放摔车情景与自我贬损的自动化思维（如“我很糟糕”“我永远不会变好”）",
+          "antecedent": [
+            "第二次摔车后反复回忆事故",
+            "独处时想到骑行"
+          ],
+          "core_reason": "试图通过不断回顾获得控制与解释，受过度概括与个人化影响，加深对无能的确认偏误",
+          "function": "寻求确定性与预防未来错误的错觉性控制",
+          "consequence": "加重焦虑与抑郁样情绪，损伤自信与动机，维持回避行为"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1304
+}

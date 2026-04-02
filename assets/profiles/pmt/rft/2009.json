@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "54",
+      "name": "陈欣雅",
+      "gender": "女",
+      "occupation": "杂货店店员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和一个年幼的兄弟姐妹同住",
+      "social_status": "与同事关系因自信不足而趋于紧张；不愿将工作困扰告知家人",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；以往未出现同等强度的类似问题",
+      "language_features": "表达清楚，能具体描述自动化思维与身体反应；配合度高；语气紧张，易自我否定"
+    },
+    "main_problem": "在工作中自我评价低、感到无能与自我价值感低下，尤其在犯错（如把顾客订单弄错）时被强烈触发；几个月前一次重大工作失误后被经理负面反馈，随后整体自信与工作表现下降，焦虑与自我怀疑增加。",
+    "topic": "职业发展",
+    "core_demands": "希望在工作中更有自信，不再因犯错而严苛地否定自己，停止感觉自己是个失败者；因为自尊问题已经影响到工作表现与整体身心健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的/没用的",
+        "犯错就等于我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在杂货店工作中把顾客订单弄错",
+          "conditional_assumptions": "如果我在工作中犯错，就说明我不称职，并且可能会被解雇",
+          "compensatory_strategies": "更加小心谨慎、寻求同事的安慰与保证",
+          "automatic_thoughts": "我是个无用的员工，经理会责备我/我可能会丢掉工作",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "那次重大错误后被经理给予负面反馈",
+          "conditional_assumptions": "如果被批评，说明我整体能力很差，别人都会认为我不称职",
+          "compensatory_strategies": "在工作中格外小心以避免再犯错，同时向同事寻求确认",
+          "automatic_thoughts": "我让经理失望了，这都是我的错",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在工作中面对挑战性任务或与顾客的复杂互动",
+          "conditional_assumptions": "只要任务具有挑战性，我就很可能失败",
+          "compensatory_strategies": "放慢速度、更加谨慎操作以避免犯错",
+          "automatic_thoughts": "我一定会搞砸/又要出错了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "出现小错误但顾客理解、经理未发现",
+          "conditional_assumptions": "即使结果不糟，也不意味着我不是无能的",
+          "compensatory_strategies": "忽视正面证据，继续用负面标准衡量自己",
+          "automatic_thoughts": "这不算数，我还是很糟糕",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被视为胜任且有价值的员工",
+        "fear": "害怕被批评、被否定甚至失去工作",
+        "defense_goal": [
+          "通过过度谨慎与寻求他人保证来降低被批评的风险、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、容易失败的员工",
+          "object_representation": "严厉挑剔、随时会否定自己的评判者（如经理）",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行“行为实验”，需要在工作中有意制造一个可控的小错误以检验灾难化信念时",
+          "interpretation": "来访者将建议理解为把自己暴露在高风险与批评之下，担心一旦犯错会引发严重后果",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "采用支持性、同理且稳健的语气；先正常化她的担忧，再共同把实验分解为低风险的小步；使用开放式问题引导其识别安全边界与备选方案，并强调过程中的自我照顾与复盘。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有支持性的家庭，但为了不“增加负担”而选择不向家人透露工作困扰"
+          ],
+          "outcomes": [
+            "情绪压力自我承受，焦虑与自我怀疑加重；人际疏离感提升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "不向家人表达工作中的焦虑与困扰，选择自己消化以避免“麻烦别人”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "在会谈与工作情境中频繁自我否定（如“我是个无用的员工”），过度谨慎、担心最坏后果"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中犯错时，来访者通常会灾难化地担心被经理责备或被解雇，并出现高度焦虑与自我否定，进而影响工作表现",
+          "unique_outcome": "有一次结算顾客订单出错，顾客表现理解，经理并未发现，结果并未出现她预期的严重后果",
+          "reason": "不同情境：顾客态度包容；不同理解：事后反思到“事情并没有我想得那么糟”，意识到自己曾夸大后果"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭整体支持态度较好",
+          "愿意尝试新方法（同意开展行为实验）",
+          "具备自我觉察与反思能力（能识别自动化思维与身体反应）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维频繁激活",
+          "自我价值高度依赖工作表现与是否犯错",
+          "睡眠与食欲受影响，进一步削弱应对资源",
+          "自信不足与自我否定导致与同事关系紧张、需外部保证但难以缓解"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中犯错或面对挑战性任务时出现强烈焦虑并伴随自我否定言语（如“我是无用的”）",
+          "antecedent": [
+            "在工作中发生错误（如把顾客订单弄错）",
+            "遭遇经理的负面反馈",
+            "面对复杂的顾客互动或挑战性任务"
+          ],
+          "core_reason": "将犯错等同于整体无能与失去价值，并担心最坏后果（如被解雇）",
+          "function": "逃避不受欢迎的后果（被批评/被解雇），通过自责与谨慎来寻求控制与他人保证",
+          "consequence": "工作表现下降、与同事关系紧张；睡眠与食欲受影响，难以专注于其他喜欢的活动"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2009
+}

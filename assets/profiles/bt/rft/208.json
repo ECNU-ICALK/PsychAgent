@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "张诚",
+      "gender": "男",
+      "occupation": "全职妈妈",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚，育有两个孩子",
+      "family_status": "与丈夫及两位孩子共同生活",
+      "social_status": "与孩子与丈夫的关系稳定；有一位亲密朋友，但尚未向其分享无价值感；在感到不足时倾向自我隔离",
+      "medical_history": "未有类似心理问题史；无既往心理咨询/治疗经历；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述自动思维与情绪体验，配合度高；语速与思维逻辑未提及"
+    },
+    "main_problem": "在因忙于照顾孩子而错过最喜欢的节目《Face Off》的一集后，开始频繁出现“无用”“不够好”的自我标签；将小错误（如错过电视节目、未完成家务、晚餐未按时）看作整体失败，近来几乎每天出现并加重，影响自尊与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些消极想法和感受正在影响我的日常生活和自我价值，因此寻求咨询的支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我是失败的"
+      ],
+      "special_situations": [
+        {
+          "event": "因忙于照顾孩子而错过《Face Off》的一集",
+          "conditional_assumptions": "如果连这样的小事都没做到，就证明我是无用的",
+          "compensatory_strategies": "尝试更好地组织日程、设置提醒或录制节目以避免再次错过",
+          "automatic_thoughts": "我这么简单的事都记不住，我就是个无用的人。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "没有完成当天的家庭琐事",
+          "conditional_assumptions": "如果家务没有全部完成，就说明我作为“全职妈妈”是失败的",
+          "compensatory_strategies": "加倍进行时间管理与任务优先级排序，努力把所有家务补齐",
+          "automatic_thoughts": "连家务都做不完，我是失败的。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "晚餐未能按时准备好",
+          "conditional_assumptions": "如果不能按时把晚餐准备好，就是不称职的家长",
+          "compensatory_strategies": "更严格地安排与优化家庭日程，尝试设置更多提醒",
+          "automatic_thoughts": "我应该管理得更好，否则我是不称职的家长。",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "几乎每天在小任务或娱乐错过时出现无价值感",
+          "conditional_assumptions": "如果任何小任务没有完成，就等于我整体失败",
+          "compensatory_strategies": "在感到不足时减少社交接触并自我隔离",
+          "automatic_thoughts": "每次有小错我都觉得自己一无是处。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看作称职且有价值的照顾者（父母角色），获得稳定的自尊与认可",
+        "fear": "害怕因小失误被否定为失败者，从而失去价值感",
+        "defense_goal": [
+          "通过内化严格的“应该”标准与自我隔离来避免外界评价、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无用、失败的照顾者",
+          "object_representation": "苛刻的评判者（内在化的角色期待与标准）",
+          "linking_affect": "羞耻、自责、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或面对未完成的小任务、错过节目等具体失误时",
+          "interpretation": "将一次失误等同于整体失败，把角色价值完全系于完美表现",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "保持温和与接纳的语气，点名其“应该”的内化标准，邀请探索这些规则的来源与功能；鼓励将感受与事实区分，并用具体证据平衡自我评价。"
+        },
+        {
+          "trigger_condition": "在感觉“自己不够好”时与他人接触或准备分享感受的时刻",
+          "interpretation": "认为接触会暴露自身的无能与失败，从而增加羞耻与被否定的风险",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以支持性、非评判的语气强化其自我关怀与界限觉察；使用温柔的反映与正常化，邀请尝试低风险的分享（例如先与咨询师或可信朋友练习）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "频繁用“无用”给自己贴标签，单次失误被视为整体失败",
+            "积极活动（跑步、烹饪）的乐趣下降"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "情绪低落与自我否定",
+            "日常满意度下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在感到不足时倾向自我隔离",
+            "虽有亲密朋友但未分享无价值感与困扰"
+          ],
+          "outcomes": [
+            "关系疏离感增强",
+            "负面自我评价得不到修正与支持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁出现“我应该管理得更好”的自我要求",
+            "以角色期待（‘全职妈妈’的标准）作为评判自我价值的依据"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外求助，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "在感到不足时选择自我隔离而非寻求支持",
+            "把压力和自责向内消化而非对外表达"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对小错误过度自我批评与贴标签‘无用’",
+            "担心暴露不足而减少与他人分享"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "与丈夫与孩子的关系稳定，具备基本的家庭支持",
+          "有一位亲密朋友可作为潜在支持资源",
+          "对跑步与烹饪有兴趣，存在可恢复的积极活动",
+          "主动寻求心理咨询，态度积极",
+          "愿意尝试时间管理、设置提醒与录制节目等具体策略"
+        ],
+        "negative_force": [
+          "过度概括、心理过滤、个体化与僵化的“应该”句式导致自我标签化",
+          "在感到不足时倾向自我隔离，减少外部修正与支持",
+          "将自我价值与小任务完成度过度捆绑",
+          "强烈自我批评与羞耻感",
+          "情绪化推理与躯体紧张加重不适体验"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在出现小错误时以“无用”“失败”给自己贴标签并情绪显著低落",
+          "antecedent": [
+            "错过喜欢的电视节目",
+            "未完成家庭琐事",
+            "晚餐未按时准备好"
+          ],
+          "core_reason": "将自我价值与完美履行小任务的表现紧密捆绑，受过度概括、心理过滤与“应该”信念驱动",
+          "function": "逃避被评判与羞耻感、维持对情境的控制感",
+          "consequence": "自尊降低、积极活动的乐趣减少、整体情绪与生活满意度下降"
+        },
+        {
+          "behavior": "在感到不足时回避社交与分享（自我隔离）",
+          "antecedent": [
+            "出现自我否定与无价值感后",
+            "认为自己“失败/不称职”的时刻"
+          ],
+          "core_reason": "担心暴露“无能”与被否定，将羞耻与焦虑向内转化",
+          "function": "短期降低外界评价与人际不适",
+          "consequence": "支持减少、孤独与负性自我评价加深，问题维持与加重"
+        },
+        {
+          "behavior": "负性事件触发时出现躯体紧张与胃部打结",
+          "antecedent": [
+            "意识到错过节目或未完成任务后",
+            "出现“我是无用的”自动思维时"
+          ],
+          "core_reason": "情绪化推理与高唤醒导致的应激反应",
+          "function": "生理层面的压力准备（短期警觉）",
+          "consequence": "身体不适加重主观痛苦，进一步强化负性认知与回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 208
+}

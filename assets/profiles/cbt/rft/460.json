@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "陈逸立",
+      "gender": "男",
+      "occupation": "待定",
+      "educational_background": "大学毕业",
+      "marital_status": "单身",
+      "family_status": "与父母一起在海边长大，无兄弟姐妹",
+      "social_status": "有几位要好的朋友，但不容易敞开谈论自我怀疑；因自责与不接纳赞美，人际关系有所紧张",
+      "medical_history": "否认既往心理治疗史；否认类似问题既往史；无明显躯体疾病",
+      "language_features": "表达清晰，能反思自身体验；略感紧张但配合度高；倾向使用自我要求与自责的表述，难以接纳他人赞美"
+    },
+    "main_problem": "我倾向于贬低自己在爱好和兴趣中的积极面，导致自我批评和自我怀疑。这些感受始于一年前烤蛋糕失败后将责任归咎于自己。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到自我怀疑和自我批评影响了我享受爱好的能力并损害了自尊，因此希望通过咨询得到帮助。",
+    "growth_experiences": [
+      "原生家庭与背景：与父母在海边长大，无兄弟姐妹。拥有几个可以谈心的朋友，但在表达自我怀疑方面感到困难。",
+      "关键转折事件（一年前）：烘焙时蛋糕烤糊，将失败归咎于自身能力不足，由此开始在爱好和兴趣中频繁出现自我批评与自我怀疑，特别在烹饪、烘焙、DIY 等活动发生小失误后加重。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于是否在各方面都做到完美"
+      ],
+      "special_situations": [
+        {
+          "event": "烘焙时蛋糕烤糊",
+          "conditional_assumptions": "如果一次做不好，就说明我不适合继续做这件事",
+          "compensatory_strategies": "通过自我批评来约束自己，并减少或回避烘焙以避免再次失败",
+          "automatic_thoughts": "我不该那么喜欢烘焙；我并不擅长这个",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "几天前尝试新菜谱但效果不佳",
+          "conditional_assumptions": "如果我不能立刻把新菜谱做好，就说明我永远学不会",
+          "compensatory_strategies": "对自己设定更苛刻标准、追求完美，反复反思错误并自责",
+          "automatic_thoughts": "我不够好；我永远都不会做好烹饪",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友对他的作品或表现给予称赞",
+          "conditional_assumptions": "如果别人夸奖，多半只是客套或安慰，不能当真",
+          "compensatory_strategies": "否认或贬低正面反馈，减少与朋友的深入交流以避免尴尬",
+          "automatic_thoughts": "他们只是说好听话；我其实并没有做得好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "工作中遇到需要创意或与个人兴趣相关的任务",
+          "conditional_assumptions": "如果作品不够出色，就会被他人否定，证明我不行",
+          "compensatory_strategies": "拖延或回避高曝光的创意任务，或在完成后过度自我批评",
+          "automatic_thoughts": "如果出错，大家会觉得我不专业；我会失败",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "被接纳与认可，即使不完美也能自由地享受兴趣爱好",
+        "fear": "害怕因不够好而被否定、羞辱或失去价值",
+        "defense_goal": [
+          "通过完美主义与自我批评来避免外界否定",
+          "与他人保持一定距离以减少暴露不完美的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的自我",
+          "object_representation": "挑剔或不真诚的他者（表面称赞、内心评判）",
+          "linking_affect": "羞耻、焦虑、自责"
+        },
+        {
+          "self_representation": "需要通过表现来证明价值的个体",
+          "object_representation": "掌控评价与认可的权威者/观众",
+          "linking_affect": "紧张、压力、害怕被否定"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人给予积极反馈、称赞或正常化失误时",
+          "interpretation": "对方只是在安慰我或敷衍，我其实做得并不好（移情：把过往被评判的经验投射到当下）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "轻描淡写地回避赞美，使用含糊词（比如“还好吧”），迅速转向缺点或错误。"
+        },
+        {
+          "trigger_condition": "当被邀请深入谈论自我怀疑与失败经历的情绪感受时",
+          "interpretation": "如果暴露脆弱会被评判或看轻（移情：把他人当作挑剔的审判者）",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
+          "response_instruction": "以客观叙述替代情绪表达，语气平稳，使用分析性语言回避情绪词。"
+        },
+        {
+          "trigger_condition": "在谈及最近的失败或小失误（如菜谱失败）时",
+          "interpretation": "错在我，严厉指向自己才能防止更糟（移情：内化挑剔者）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "自责性表述增多，用词苛刻；若被温和对质，可能以更强烈的自我批评回应。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "内摄“必须在所有事情上都表现完美”的规则，感到被应当与必须束缚",
+            "在创意与兴趣活动中因害怕失败而收缩选择与尝试"
+          ],
+          "outcomes": [
+            "自我限制与回避，体验自由受限",
+            "持续的焦虑与自我批评，降低自我效能感"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不易向朋友敞开谈自我怀疑，担心被评判",
+            "对他人赞美持怀疑，认为只是客套，降低真实连接"
+          ],
+          "outcomes": [
+            "人际关系紧张与疏离感增加",
+            "正向支持难以内化，强化负性自我图式"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须/应该”自我要求（如认为“不该那么享受烘焙”）",
+            "将完美视为自我价值的唯一标准"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "难以接纳赞美，过度自我否定",
+            "在咨询中略显紧张、谨慎，担心暴露缺点被评判"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的反思与学习动机，愿意尝试问题解决与认知重构",
+          "拥有几位可以支持的朋友（潜在支持资源）",
+          "对兴趣活动保持热情，愿意继续练习与改进",
+          "能够识别问题对自尊与生活的影响，已尝试正念与自我关怀"
+        ],
+        "negative_force": [
+          "完美主义与将错误等同失败的思维方式",
+          "倾向于贬低正面反馈与结果，难以内化肯定",
+          "读心化与预测失败，放大他人否定性评价的可能",
+          "自责与自我批评频繁，依赖外部认可来评估自我价值",
+          "在挫折后出现回避与退缩，导致兴趣与人际的负循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在兴趣与工作任务中出现失误后进行强烈自我批评与否定正向反馈",
+          "antecedent": [
+            "烘焙或烹饪出现失败（如蛋糕烤糊、新菜谱失败）",
+            "DIY 项目失误",
+            "在工作中承担创意或与个人兴趣相关的任务"
+          ],
+          "core_reason": "完美主义信念与核心信念“我不够好”，将一次错误等同整体失败，并依赖他人评判确定自我价值",
+          "function": "逃避失败感与羞耻感，试图通过自责来获得控制感与改进的保证",
+          "consequence": "降低对爱好的享受与坚持，损害自尊，影响工作表现与人际关系"
+        },
+        {
+          "behavior": "在自我怀疑后回避社交或与朋友保持距离",
+          "antecedent": [
+            "犯错后感到羞耻与不安",
+            "收到赞美但怀疑其真实性"
+          ],
+          "core_reason": "害怕暴露不完美被评判，将他人视为潜在的挑剔者",
+          "function": "逃避被否定的可能与由此带来的情绪不适",
+          "consequence": "关系紧张、支持系统利用不足，孤独感与自我怀疑加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 460
+}

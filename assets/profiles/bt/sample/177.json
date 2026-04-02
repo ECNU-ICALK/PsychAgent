@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "王凯文",
+      "gender": "男",
+      "occupation": "作者；对话中自述为五年级教师",
+      "educational_background": "文学硕士学位",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有支持性的朋友群体，但尚未与他们讨论负面想法；近期与朋友和家人的互动因自卑和跑步事件后的情绪而紧张",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；过去未出现类似问题",
+      "language_features": "表达清晰、配合度良好、语气中性；能具体描述事件与情绪；呈现消极认知加工（否定正面、心理过滤）"
+    },
+    "main_problem": "在一次跑步中遭遇下雨与被汽车溅湿后，产生并持续了负性思维和情绪，影响当天整体心情与对经历的看法，并进一步影响到工作、社交与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到这些负面想法正在影响我的日常生活和整体幸福感。跑步时发生的事情触发了负面思维模式，我希望能解决它。",
+    "growth_experiences": [
+      "自开始从事五年级教师工作以来，来访者长期感到社会对教师职业的价值与尊重不足。每当在社交聚会或与亲友谈论职业与成就时，会陷入比较并感到自卑；这影响工作满意度，周末也难以放松，长期质疑自己的职业选择。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有价值",
+        "我的工作不被社会尊重"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会或与朋友、家人谈论职业与成就的场合",
+          "conditional_assumptions": "如果我的职业不如他人光鲜或被社会看重，就说明我不如他们、我不够好",
+          "compensatory_strategies": "回避表达真实感受、沉溺于比较与自我贬低以维持表面体面",
+          "automatic_thoughts": "我不如他们；我的工作不被重视",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "跑步返程途中下雨并被汽车溅湿",
+          "conditional_assumptions": "如果经历中出现负面插曲，那整次经历与整天都算糟糕",
+          "compensatory_strategies": "反复回想负面细节、忽略跑步带来的清晰与放松",
+          "automatic_thoughts": "这次跑步很糟糕，今天都毁了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "课堂上学生掌握知识、自己感到成就的时刻",
+          "conditional_assumptions": "这些积极片刻不重要，无法改变社会的大局与评价",
+          "compensatory_strategies": "否定或淡化正向反馈与个人成就感",
+          "automatic_thoughts": "这只是小事，不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友交谈时考虑是否分享自己的自卑与担忧",
+          "conditional_assumptions": "如果表达自卑，他们会觉得我在抱怨、不会理解我",
+          "compensatory_strategies": "保持沉默、压抑情绪以避免被评价",
+          "automatic_thoughts": "他们会觉得我在抱怨，不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被肯定与尊重，尤其是职业价值被看见",
+        "fear": "害怕被贬低、被误解、显得不如人而失去自我价值感",
+        "defense_goal": [
+          "通过回避表达与自我比较来保护自尊",
+          "以理智评估与自我克制维持安全感的边界"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被重视、价值不足的从属者",
+          "object_representation": "评判与轻视自己的他人/社会",
+          "linking_affect": "自卑、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在社交场合谈及职业或听到他人职业成就时",
+          "interpretation": "他人会轻视我；他人的成功意味着我的失败",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "温和探询并标注两极化语言，邀请举例支持与反例；使用肯定语气引导其看到灰度与多维价值。"
+        },
+        {
+          "trigger_condition": "当被鼓励向朋友或家人表达自卑与担忧时",
+          "interpretation": "他们不会理解我、会觉得我在抱怨",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用共情与澄清式提问，鼓励现实检验（“你有哪些证据支持他们会这样看？”）；语气温和，降低评判焦虑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "社会被感知为不重视教师职业",
+            "质疑自己的职业选择与价值",
+            "工作满意度下降、周末难以放松"
+          ],
+          "outcomes": [
+            "自卑与沮丧",
+            "持续负性思维与情绪低落",
+            "对工作的意义感减弱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心朋友不理解而不愿表达真实感受",
+            "将压力与自卑独自消化"
+          ],
+          "outcomes": [
+            "关系紧张与情感隔离",
+            "支持资源未被使用导致压力持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，或放弃向外寻求他人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不向支持性朋友表达自卑与担忧",
+            "把负面情绪向内吞咽并“闷着”不说"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为朋友会把自己看作在抱怨",
+            "预设他人不会理解自己的感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在课堂外或社交比较时，来访者通常会觉得自己的教师工作不如他人职业，从而自卑与质疑职业选择。",
+          "unique_outcome": "在课堂上，当某位学生突然理解并掌握了知识点时，来访者体验到自豪与满足，注意到自己对学生的积极影响。",
+          "reason": "不同理解/线索：聚焦学生的学习反馈与信任关系，使其当下更能感知自身价值与影响。"
+        },
+        {
+          "target_problem": "在经历负面插曲时（如跑步遇雨被车溅湿），来访者通常会聚焦负面细节，忽略积极部分，导致整天心情低落。",
+          "unique_outcome": "在同一次跑步的前段，来访者注意到跑步帮助清理了思绪、缓解了担忧，短暂获得心绪放松。",
+          "reason": "不同情境：身体运动与节律带来生理与心理的舒缓效应，使其短时从担忧中抽离。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具有耐心与清晰解释能力，关心学生的成功与福祉",
+          "拥有支持性的朋友群体",
+          "运动（跑步）能短时缓解担忧并改善心情",
+          "愿意寻求专业帮助并尝试新视角（记录积极时刻）"
+        ],
+        "negative_force": [
+          "倾向比较并寻求外部认可以判断自我价值",
+          "否定正面与心理过滤的认知偏差",
+          "回避表达真实感受，导致支持系统未被使用",
+          "反复思考负面事件并沉溺其中"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合进行自我比较并产生自卑",
+          "antecedent": [
+            "与朋友或家人谈论职业与成就",
+            "社交聚会听到他人职业成果"
+          ],
+          "core_reason": "自我价值过度依赖外部评价，形成“比较与绝望”的认知链条",
+          "function": "逃避被否定与羞耻的风险（通过自我贬低与回避表达维持心理安全）",
+          "consequence": "工作满意度下降、周末难以放松、与亲友互动紧张"
+        },
+        {
+          "behavior": "负性思维反刍（心理过滤、否定正面）",
+          "antecedent": [
+            "跑步时遭遇下雨与被车溅湿",
+            "经历中的负面插曲"
+          ],
+          "core_reason": "选择性注意负面线索并淡化积极结果，维持消极自我图式",
+          "function": "在认知上获取“控制感”与自我警示（试图通过关注负面来避免再受挫）",
+          "consequence": "整体情绪低落，写作与看电影等日常活动受影响"
+        },
+        {
+          "behavior": "回避向支持性朋友表达真实感受",
+          "antecedent": [
+            "想到与朋友讨论自卑或负面体验时",
+            "被邀请分享个人情绪时"
+          ],
+          "core_reason": "担心被评判、不被理解（对他人反应的负性预设）",
+          "function": "避免潜在冲突与否定，维持表面和谐与自尊的脆弱平衡",
+          "consequence": "情感孤立、压力无法外化，支持资源未被使用"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 177
+}

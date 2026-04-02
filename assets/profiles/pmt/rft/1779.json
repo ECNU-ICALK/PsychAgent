@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "技术员",
+      "educational_background": "技术认证",
+      "marital_status": "未婚",
+      "family_status": "父亲曾从事石膏板施工工作，母亲为注册护士（RN）",
+      "social_status": "与同事关系因频繁寻求工作安全感的保证而趋于紧张；拥有一位亲密朋友可谈心，但尚未就工作恐惧进行交流",
+      "medical_history": "未曾出现类似心理问题，未接受心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、合作度较高；语气偏消极，反复强调担忧；倾向关注负面反馈、难以接纳积极信息；有寻求保证的倾向"
+    },
+    "main_problem": "我对老板最终会解雇我存在持续性恐惧，尽管我在技术员岗位表现良好。这种失去工作的恐惧正在造成显著的压力与焦虑。",
+    "topic": "职业发展",
+    "core_demands": "失去工作的恐惧开始影响我的工作表现和整体身心状态，因此此时寻求咨询以缓解该恐惧并改善表现与福祉。",
+    "growth_experiences": [
+      "入职数月后因几次小失误开始产生被解雇的恐惧；近期公司因重组发生裁员，使该恐惧显著加剧。此后几乎每日在收到主管反馈或公司会议时被触发，逐步影响睡眠、饮食与工作表现。",
+      "家庭背景：父亲为石膏板施工工人，母亲为注册护士；未报告重大躯体或心理疾病史，未接受过心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在工作中不安全，迟早会被解雇",
+        "小错误会决定我的价值与去留"
+      ],
+      "special_situations": [
+        {
+          "event": "公司重组后出现裁员",
+          "conditional_assumptions": "如果公司开始裁员，最终我也会被裁掉",
+          "compensatory_strategies": "保持高度警觉、不断担忧并尝试用自我安慰缓解，但效果短暂",
+          "automatic_thoughts": "我会是下一个被裁的",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "主管给予建设性反馈",
+          "conditional_assumptions": "任何负面意见都意味着我不称职并会被解雇",
+          "compensatory_strategies": "只关注负面部分、忽略积极评价；加倍工作以寻求认可",
+          "automatic_thoughts": "他们对我不满意，这次反馈是在铺垫解雇",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "入职初期发生几次小失误",
+          "conditional_assumptions": "如果犯错，就说明我不合格，早晚会被解雇",
+          "compensatory_strategies": "反复回想错误以自我警惕，并寻求同事的正面反馈来自我安慰",
+          "automatic_thoughts": "那些失误会被记住并成为解雇我的理由",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "同事给予正面反馈",
+          "conditional_assumptions": "正面反馈不可靠，不能说明我安全",
+          "compensatory_strategies": "贬低或否认积极信息，继续寻求更多保证",
+          "automatic_thoughts": "这些好话不算数，我仍然可能被解雇",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定、安全与被认可的工作位置",
+        "fear": "害怕被拒绝/被抛弃（被解雇），失去价值与生计",
+        "defense_goal": [
+          "通过持续警觉与寻求保证来降低不确定性，避免被突然裁员"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不稳定、随时可能被淘汰的下属",
+          "object_representation": "挑剔、掌控并可能随时裁人的上级/组织",
+          "linking_affect": "焦虑、恐惧"
+        },
+        {
+          "self_representation": "需要他人肯定才能感到安全的人",
+          "object_representation": "能提供短暂安慰但不可靠的同事",
+          "linking_affect": "不安、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及公司裁员、回顾小失误或收到主管的建设性反馈时",
+          "interpretation": "将建设性反馈视为负面预兆，把不确定性理解为迫近的危险",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以冷静理性的语气反复列举过往小失误和公司重组作为恐惧依据，弱化积极证据，强调“风险”，并要求更多保证。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "不愿向亲密朋友分享工作恐惧以免显得在抱怨或无法自我处理",
+            "与同事关系因寻求保证而紧张，主观上感到与他人疏离"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "睡眠与饮食受影响",
+            "工作表现下降与职场压力增大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触",
+          "manifestations": [
+            "在反馈情境中绕开积极内容，迅速转向负面可能性或裁员风险",
+            "难以停留在正面评价上，快速回到担忧话题"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "担心显得在抱怨或不能自我处理问题而不向好友求助",
+            "在同事间频繁寻求保证后自我否定，进一步限制表达与求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "总体岗位表现良好，能够获得主管与同事的建设性及正面反馈",
+          "愿意尝试挑战思维并接受现实检验（对咨询计划持开放态度）",
+          "拥有一位亲密朋友可提供潜在支持"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、心理过滤与否定积极信息的认知倾向",
+          "对不确定性高度敏感且持续焦虑",
+          "过度寻求保证导致同事关系紧张",
+          "睡眠与饮食受影响、工作表现下降",
+          "未主动利用现有社会支持（尚未与朋友讨论该问题）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与工作相关的持续性焦虑与强烈的被解雇恐惧",
+          "antecedent": [
+            "收到主管的建设性反馈",
+            "公司会议或与重组/裁员相关的信息",
+            "回想入职初期的几次小失误"
+          ],
+          "core_reason": "将早期小失误与公司裁员事件灾难化、过度概括，并预测未来最坏结果，形成“迟早会被解雇”的核心信念",
+          "function": "逃避不确定性与感知到的危险，寻求外部保证以暂时缓解焦虑",
+          "consequence": "工作表现下降、与同事关系紧张、睡眠与饮食受影响、几乎每日反复担忧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1779
+}

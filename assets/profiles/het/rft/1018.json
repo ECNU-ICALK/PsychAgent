@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "林凯",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "成长过程中参加过烹饪课程",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "与朋友和家人的关系因负面自我评价而紧张；虽有少数可交谈的亲友，但难以分享自我怀疑与失败恐惧",
+      "medical_history": "无重大躯体疾病；此前未就这些症状寻求治疗或咨询；在遭遇拒绝或挫折（尤其与烹饪相关）时长期体验失败感与自我怀疑",
+      "language_features": "表达清晰，能具体描述情绪与事件；语气中性但带挫败感；配合度较高；在谈及负面感受时倾向克制与自我关闭"
+    },
+    "main_problem": "近期未通过一次试镜后，我在失败感与自我怀疑中挣扎，这些感受自童年延续，近几个月加剧。",
+    "topic": "情绪管理",
+    "core_demands": "希望找到方法打破自我怀疑和对失败的恐惧的循环，改善动力与心理健康。",
+    "growth_experiences": [
+      "童年时期在烹饪课程中，当事情不按计划进行时就出现强烈的失败感与自我怀疑，这一模式延续至今。",
+      "成年后在与烹饪相关的试镜或新项目中遭遇拒绝或挫折时，类似的负性体验反复出现；未曾寻求治疗，逐渐内化为“我会失败”的预期。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "未通过一次试镜",
+          "conditional_assumptions": "如果一次试镜失败，就说明我永远不会成功、我不够好",
+          "compensatory_strategies": "自我关闭，减少尝试并回避新的试镜以避免再次失败",
+          "automatic_thoughts": "我每次都会失败/我永远不够好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在新的烹饪项目中出现差错或不按计划进行",
+          "conditional_assumptions": "如果项目出现问题，就证明我不具备能力，后续只会更糟",
+          "compensatory_strategies": "暂停项目，减少创新与挑战，避免可能的失误",
+          "automatic_thoughts": "这次失败预示着一切都会变糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "遭遇拒绝或收到负面反馈（如试镜未通过）",
+          "conditional_assumptions": "如果被拒绝，就说明我是失败者，我的所有尝试都会失败",
+          "compensatory_strategies": "降低目标、拒绝新的机会，避免风险",
+          "automatic_thoughts": "我做什么都会失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友或家人互动时想到要分享自我怀疑与失败感",
+          "conditional_assumptions": "如果表达这些感受，别人会认为我软弱并看轻我",
+          "compensatory_strategies": "避免分享、回避深入交流，保持表面正常以减少负面评价",
+          "automatic_thoughts": "说出来只会让关系更糟",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被看见，证明自己的价值与能力",
+        "fear": "害怕失败与被拒绝，被视为软弱或不够好",
+        "defense_goal": [
+          "通过保持自我关闭与回避挑战来减少羞耻与被否定的可能",
+          "避免向他人暴露脆弱以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者",
+          "object_representation": "挑剔、可能拒绝与贬低的他人（评审、亲友）",
+          "linking_affect": "羞耻、恐惧、挫败"
+        },
+        {
+          "self_representation": "需要认可的脆弱者",
+          "object_representation": "会将我视为软弱的人",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请或期待在咨询中深入分享自我怀疑与失败感时",
+          "interpretation": "将暴露脆弱理解为会被看轻或否定，因而倾向避免表达（移情：担心被评价为软弱）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "语气平稳但保持克制，减少情感词汇，轻描淡写负面体验，避免长时间停留在情绪细节上"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "长期的自我怀疑与失败感导致动机下降，难以维持与烹饪相关的日常活动"
+          ],
+          "outcomes": [
+            "动力低下",
+            "对新尝试的回避",
+            "主观效能感降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有亲友可谈，但担心显得软弱而避免分享困扰"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "支持减少",
+            "孤立感加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制本应向外表达或寻求他人帮助的冲动，将能量转向自身（与“冲动”对应）。",
+          "manifestations": [
+            "遭遇挫折后“自我关闭”，停止行动与交流",
+            "本可寻求支持却选择独自承受"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "不良的自我反思包含过多的自我限制与苛责，对接触过于小心谨慎（与“自主性”对应）。",
+          "manifestations": [
+            "担心表达会显得软弱或像在抱怨",
+            "过度审查自己的言行，谨慎到影响真实接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一定烹饪训练与实践经历（成长过程中参加过烹饪课程）",
+          "愿意求助并接受咨询，愿意尝试行为实验",
+          "拥有少量可交谈的亲友支持网络"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来、心理过滤等负性认知模式",
+          "对拒绝与挫折高度敏感，遇到挫败易自我关闭",
+          "回避挑战与表达脆弱，依赖回避来降低焦虑",
+          "自我评价低，常以“我不够好”定义自我"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在遭遇失败或拒绝后出现“自我关闭”与回避新的尝试",
+          "antecedent": [
+            "未通过试镜",
+            "新烹饪项目出现差错",
+            "收到负面反馈或被拒绝"
+          ],
+          "core_reason": "对失败的灾难化解释与“我不够好/我会一直失败”的过度概括信念",
+          "function": "逃避再次失败与羞耻，暂时降低焦虑与压力",
+          "consequence": "动机显著下降，影响试镜与新项目表现，日常烹饪活动受阻"
+        },
+        {
+          "behavior": "回避与亲友分享自我怀疑与失败感",
+          "antecedent": [
+            "与朋友或家人互动被询问近况",
+            "需要谈论失败经历或情绪时"
+          ],
+          "core_reason": "预测他人会负面评价自己、认为表达脆弱等于软弱（预测未来、心理过滤）",
+          "function": "避免被看轻与关系恶化，维持表面安全感",
+          "consequence": "人际关系紧张、获得支持减少，孤立感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1018
+}

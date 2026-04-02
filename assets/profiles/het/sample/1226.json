@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "林杰",
+      "gender": "男",
+      "occupation": "医疗档案文员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交退缩，与同事关系受影响；有一位工作朋友可交流一般性话题，但未谈及纹身相关焦虑",
+      "medical_history": "无重大躯体疾病；此前未接受心理咨询或治疗；过去未有与纹身相关的类似心理问题",
+      "language_features": "未提及"
+    },
+    "main_problem": "我担心人们不会喜欢我，因为我的纹身（具体是六个猫纹身），这种信念引发焦虑和社交退缩。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为焦虑和社交退缩已经显著影响我的日常生活与心理健康。我只想再次感觉正常，不再一直那么担心。",
+    "growth_experiences": [
+      "在完成最后一个（第六个）猫纹身后，工作中的一位同事曾对纹身发表负面评论。自那之后，林杰难以摆脱“他人会因为纹身评判我”的感觉，开始在工作中遮盖纹身并尽量减少与同事互动，逐渐出现持续的焦虑与社交回避。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被喜欢",
+        "我的纹身会让他人认为我怪异或不专业"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作场所被同事对纹身作出负面评论后，继续与同事接触的场景",
+          "conditional_assumptions": "如果他人看到我的纹身，就会认为我怪异或不专业，从而不喜欢我",
+          "compensatory_strategies": "在工作中用衣物遮盖纹身，减少与同事交流以避免被评价",
+          "automatic_thoughts": "大家都会因为我的纹身看不起我/不喜欢我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友的聚会上与多人社交、有人瞟向我时",
+          "conditional_assumptions": "如果别人看见我的纹身，他们就不会愿意和我交谈，最终不喜欢我",
+          "compensatory_strategies": "在聚会上刻意遮盖手臂、尽量少说话并提前离场",
+          "automatic_thoughts": "他们不会想和我说话，他们正在评判我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在日常社交场合与陌生人或新认识的人接触，被他人注视的瞬间",
+          "conditional_assumptions": "如果有人看我，一定是在挑纹身的毛病或觉得我不专业",
+          "compensatory_strategies": "立即紧张并避免眼神接触，减少互动、转移话题",
+          "automatic_thoughts": "他们在因为我的纹身评判我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "社交互动中他人保持沉默或未作出明确评价",
+          "conditional_assumptions": "如果对方不说话，那就是持负面看法并在心里否定我",
+          "compensatory_strategies": "进一步减少交流与接触，以避免被“沉默的批评”伤害",
+          "automatic_thoughts": "他们的沉默就代表他们觉得我不好",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢与被接纳（包含对纹身的认可）",
+        "fear": "害怕被评判、被拒绝，被视为怪异或不专业",
+        "defense_goal": [
+          "通过遮盖纹身与回避社交来降低被评判的风险",
+          "维持安全距离以保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被他人评判的脆弱者",
+          "object_representation": "挑剔、带有负面评价的他人（同事、社交对象）",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议通过现实检验收集他人反应的证据，或鼓励更直接面对社交时",
+          "interpretation": "担心这样会让负面评价“坐实”，像同事那样的评判再次发生",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎、委婉的语气表达顾虑，强调“可能适得其反”的理由，避免直接询问他人，选择记录观察等更安全的方式。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "单身独居、社交退缩",
+            "在工作与聚会中主动减少互动、遮盖纹身以避免他人接触",
+            "将沉默解读为负面评价，进一步与他人疏离"
+          ],
+          "outcomes": [
+            "持续的焦虑",
+            "睡眠与饮食节律被打乱",
+            "工作绩效下降",
+            "同事关系受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在聚会中用衣物遮盖纹身以避开可能的评价",
+            "避免直接询问他人对纹身的看法",
+            "用笑掩饰受伤感受，迅速转移话题",
+            "在工作中减少互动以规避他人关注"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑他人如何看待纹身",
+            "过度解读他人目光与沉默为负面信号",
+            "在社交中高度警觉并自我约束（遮盖纹身、减少交流）",
+            "担心现实检验会“适得其反”而不敢尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对自身纹身具有喜爱与积极意义感",
+          "愿意寻求咨询并尝试现实检验的练习",
+          "拥有一位工作朋友可进行一般性交流支持",
+          "工作相对稳定，具备基本生活结构"
+        ],
+        "negative_force": [
+          "读心术、预测未来、过度概括与跳结论等认知歪曲",
+          "社交回避与遮盖行为强化焦虑与孤立",
+          "对他人评价高度敏感、倾向以外界认可评估自我价值",
+          "焦虑干扰睡眠与饮食，进一步损害工作表现与人际关系"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因纹身引发的社交回避与显著焦虑",
+          "antecedent": [
+            "在工作中同事或他人注意到纹身",
+            "参加社交聚会或结识新朋友",
+            "看到他人的目光或对方沉默",
+            "回忆同事的负面评论"
+          ],
+          "core_reason": "在最后一次纹身后受到同事负面评论，形成“纹身会导致他人不喜欢/评判我”的信念，并以灾难化与跳结论解释社交线索",
+          "function": "逃避被评判与被拒绝带来的不适，保护自尊与安全感",
+          "consequence": "与同事关系受损、工作表现下降、睡眠与饮食被打乱、持续焦虑并进一步社交退缩"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1226
+}

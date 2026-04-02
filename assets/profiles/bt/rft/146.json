@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "陈凯文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与家人关系长期紧张，频繁冲突；有时家人拒绝与其沟通",
+      "social_status": "社会支持系统薄弱，难以与朋友或家人讨论问题",
+      "medical_history": "无重大躯体疾病史；此前未接受过心理咨询",
+      "language_features": "表达清晰，能描述情绪和想法；首次咨询略紧张；配合度高、态度积极；倾向将负面想法视为现实、呈现绝望感"
+    },
+    "main_problem": "我常常对日常生活感到失望，并且难以与家人相处。",
+    "topic": "家庭关系",
+    "core_demands": "我希望能够以更积极的视角看待事情，停止对家庭和生活的绝望，找到让日常生活更满意的方式。",
+    "growth_experiences": [
+      "多年与家人的紧张关系与频繁冲突累积，导致显著的情绪困扰与对生活的失望；过去未主动尝试解决这些问题，且社会支持薄弱（难以与朋友或家人讨论问题）；无重大躯体疾病史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会孤独、得不到支持与爱",
+        "他人（尤其家人）永远不会理解我",
+        "事情不会变好，生活毫无希望"
+      ],
+      "special_situations": [
+        {
+          "event": "与家人发生争吵或冲突之后",
+          "conditional_assumptions": "如果此刻无法与家人和解，那就永远不可能修复关系；如果持续冲突，说明我不被爱",
+          "compensatory_strategies": "回避处理问题、减少沟通，不主动寻求支持；沉浸于“做动物以逃避”的消极幻想以逃离痛苦",
+          "automatic_thoughts": "我们永远无法修复关系，我会孤独终老",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在日常生活中遇到挑战或不顺时",
+          "conditional_assumptions": "如果现在事情进展不顺，就意味着以后也不会好转；一旦出现挫折就代表整体失败",
+          "compensatory_strategies": "失去动力、放弃行动，停留在消极思考中",
+          "automatic_thoughts": "没有任何事情会变好，一切都没意义",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与家人日常互动（对话、相处）时",
+          "conditional_assumptions": "如果一次互动有冲突，就说明我们所有互动都会是冲突；要么完全和谐，要么注定失败",
+          "compensatory_strategies": "减少主动沟通以避免再次发生冲突",
+          "automatic_thoughts": "我们每次互动都在冲突，毫无可能改善",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "感到家人拒绝与我沟通的时刻",
+          "conditional_assumptions": "如果他们现在拒绝与我交谈，就表示他们永远不会接纳我",
+          "compensatory_strategies": "不去寻求其他社会支持或建设性沟通的机会",
+          "automatic_thoughts": "我会死得孤独，没有任何支持或爱",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人理解与接纳，建立稳定而亲近的关系",
+        "fear": "害怕被拒绝与被抛弃，最终孤独终老",
+        "defense_goal": [
+          "通过保持情感疏离与不主动讨论问题来避免再次受伤和冲突"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、孤独的局外人",
+          "object_representation": "冷漠/拒绝且不可改变的他人（家人）",
+          "linking_affect": "绝望、无助、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及家庭冲突或在现实压力升高时（如争吵后）",
+          "interpretation": "潜意识将现实情境体验为“无论怎么做都不会改善”，转而逃离到幻想（移情：以外界不可改变的形象来确认内在绝望）",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境",
+          "response_instruction": "以温和、共情的语气承认其痛苦与渴望，同时轻柔地将话题从幻想拉回当下具体情境；使用开放式提问，帮助其识别可控的微小行动与支持来源，避免评判与推动过度。"
+        },
+        {
+          "trigger_condition": "在描述家人和关系前景时（如认为“永远无法修复”）",
+          "interpretation": "将家人及关系视为“全坏/不可改变”，无法容纳灰度或例外（移情：把复杂关系简化为绝对拒绝）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "保持稳定与不对立的语气，使用具体化与去极端化的反映；邀请其回忆任何例外时刻或微小的积极互动，帮助看见灰度，避免直接反驳其体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "认为家人永远不会与自己和解",
+            "反复出现“我会孤独终老、没有支持或爱”的念头"
+          ],
+          "outcomes": [
+            "强烈的绝望感与无助",
+            "社交退缩与不主动求助",
+            "动力下降，影响日常功能"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在日常生活遇到挑战时感到“一切都没意义”",
+            "负面情绪每日出现，体验为“黑云笼罩”"
+          ],
+          "outcomes": [
+            "失去行动意愿与兴趣",
+            "陷入消极思考与放弃尝试",
+            "生活满意度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不主动寻求支持或讨论问题（即使情绪困扰明显）",
+            "在冲突后减少沟通与表达，以回避进一步接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求咨询、态度积极与合作",
+          "能够清晰表达并识别自身负面思维的影响",
+          "愿意尝试改变与练习新思维、对方案持开放态度"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括、非黑即白等认知歪曲显著",
+          "对家庭关系的绝望与“永远不会好转”的信念",
+          "社会支持系统薄弱、回避讨论与不主动求助",
+          "日常功能受影响（动力下降、感到生活毫无意义）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在家庭冲突或生活挑战后出现灾难化自动思维并陷入强烈绝望，伴随动力下降与回避行动",
+          "antecedent": [
+            "与家人发生争吵或冲突",
+            "在日常生活中遭遇困难或不顺"
+          ],
+          "core_reason": "基于“我注定会孤独、得不到支持与爱”的核心信念及“永远不会改善”的认知歪曲（灾难化、过度概括、非黑即白、预测未来）",
+          "function": "逃避痛苦情绪与关系风险，获得短暂的心理退避与控制感（含幻想逃离）",
+          "consequence": "失去行动动力、减少沟通与求助，日常功能下降，家庭关系进一步恶化"
+        },
+        {
+          "behavior": "回避处理人际冲突与寻求支持（不主动与家人或朋友讨论问题）",
+          "antecedent": [
+            "在争吵后或想到与他人沟通时",
+            "感到“没有意义/不会好转”的时刻"
+          ],
+          "core_reason": "担心被拒绝与无望的结果，维持“讨论也无用”的条件性假设",
+          "function": "逃避潜在的负面反馈与冲突，维持短期情绪稳定",
+          "consequence": "社会支持进一步削弱，问题持续与加剧，孤独感增强"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 146
+}

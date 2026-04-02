@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "保拉·奥尔森",
+      "gender": "女",
+      "occupation": "未提及（此前为农民）",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "成长于大型农场，现独居",
+      "social_status": "在新地点（宾夕法尼亚）因社交焦虑难以建立亲密关系；日常减少参与社区活动和社交；在弗吉尼亚有少数朋友但无法提供即时支持",
+      "medical_history": "纤维肌痛影响身体健康；未接受过心理治疗；此前未因兴趣被贴标签或误解的类似问题",
+      "language_features": "态度积极；能清晰描述情境与感受；愿意合作并提出具体目标"
+    },
+    "main_problem": "我因热爱阅读常被贴上“书呆子”的标签，导致自我意识过强与社交焦虑，并进而回避社交或谈论兴趣。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为被误解与被评判的感觉开始影响我的日常互动与自信心；我希望保持积极，不内化负面标签，并获得帮助我专注自身优势的工具与技巧。",
+    "growth_experiences": [
+      "成长于大型农场的环境，成年后目前独居，社交支持主要来自弗吉尼亚的少数朋友（不在身边，难以提供即时支持）。",
+      "因纤维肌痛从弗吉尼亚搬至宾夕法尼亚，担心严冬影响健康；搬迁后注意到周围人对“爱阅读=书呆子”的刻板印象，社交焦虑随之加重并开始避免社区活动与谈论兴趣。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个“书呆子”。",
+        "他人会因为我的阅读兴趣而负面评价我。"
+      ],
+      "special_situations": [
+        {
+          "event": "在社区活动中被问及爱好，当我提到阅读时，有人评论“很书呆子”。",
+          "conditional_assumptions": "如果别人认为阅读很“书呆子”，就说明我不合群并会被评判。",
+          "compensatory_strategies": "立即终止谈话、避免在群体场合谈论兴趣以降低被评判的风险。",
+          "automatic_thoughts": "他们觉得我社交笨拙、只会读书，我会被负面看待。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每次结识新朋友或在群体场合讨论爱好时，我会感到强烈焦虑。",
+          "conditional_assumptions": "如果我谈论阅读，别人一定会给我贴上负面标签并疏远我。",
+          "compensatory_strategies": "回避社交场合或回避谈论阅读等兴趣。",
+          "automatic_thoughts": "社交一定会变糟，他们会认为我古怪、不合群。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "搬到宾夕法尼亚后，注意到周围人对“爱阅读的人=书呆子”的刻板印象。",
+          "conditional_assumptions": "当外界存在刻板印象时，它会准确地定义我这个人。",
+          "compensatory_strategies": "试图解释自己的兴趣，但仍减少参与社区活动以避免进一步评判。",
+          "automatic_thoughts": "大家都会用“书呆子”的标签看我。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在群体讨论中被问到兴趣爱好时。",
+          "conditional_assumptions": "如果我不让别人满意或符合他们的期待，我就会让他们失望并说明我有问题。",
+          "compensatory_strategies": "弱化自我表达、转移话题、减少自我暴露。",
+          "automatic_thoughts": "如果我说我喜欢阅读，他们会不喜欢我。",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被理解，并能自在地表达自己的兴趣。",
+        "fear": "害怕被贴负面标签、被评判与被拒绝，进而被孤立。",
+        "defense_goal": [
+          "通过减少自我暴露与回避社交来降低被评判的风险",
+          "将他人的中性询问视为可能的评判以保持心理防护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、易受伤的外来者",
+          "object_representation": "带有刻板印象的评判者或冷漠的群体",
+          "linking_affect": "羞愧、焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在群体或咨询中回顾被称“书呆子”的情境，或被问及兴趣时",
+          "interpretation": "将他人的中性提问或评论理解为带有刻板印象的负面评判（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气防御但礼貌，用简短回答或转移话题，减少自我暴露。"
+        },
+        {
+          "trigger_condition": "在群体场合感到紧张、预期他人会贴标签时",
+          "interpretation": "认为只要谈到阅读就会被否定与疏远",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用“为了避免被评判我不参加”之类的理由解释回避，并保持人际距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "现独居，搬迁后难以建立亲密关系",
+            "避免社区活动与社交",
+            "感到被负面标签定义、难以被理解"
+          ],
+          "outcomes": [
+            "社交孤立",
+            "社交焦虑加重",
+            "自信受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "在群体场合压抑表达阅读兴趣的冲动",
+            "为了避免评判而终止对话",
+            "减少参与社区活动"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为他人会把自己贴为“书呆子”",
+            "将被评判的恐惧归于他人态度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在社交前过度担心被评判，导致回避",
+            "不敢讨论个人兴趣以防犯错或被误解"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱阅读，能带来知识与创造力（来访者已能识别其积极面）",
+          "主动寻求咨询与改变，态度积极",
+          "仍与弗吉尼亚的朋友保持联系，具备一定社会支持"
+        ],
+        "negative_force": [
+          "社交焦虑显著，倾向回避社交与谈论兴趣",
+          "过度概括、读心术与个人化等认知偏差",
+          "依赖外部评价，担心被贴负面标签",
+          "附近缺乏即时社会支持（现居地）",
+          "纤维肌痛与对严冬的担忧增加压力与社交成本"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交与避免谈论阅读等兴趣",
+          "antecedent": [
+            "结识新朋友时",
+            "在群体场合被问及兴趣爱好",
+            "听到或预期他人用“书呆子”等负面标签评论"
+          ],
+          "core_reason": "担心被误解与被负面评判，伴随过度概括、读心术与个人化的认知偏差；搬迁后环境陌生与纤维肌痛增加压力",
+          "function": "逃避被评判与社交不适，维持短期安全感",
+          "consequence": "不参与社区活动、难以建立亲密关系、自信心下降，孤独感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 219
+}

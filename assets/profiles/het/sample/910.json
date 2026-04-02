@@ -1,0 +1,124 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "王文泽",
+      "gender": "男",
+      "occupation": "农民",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹一起居住在农场",
+      "social_status": "家庭支持度较高，但因羞耻而难以与家人讨论其过度反应；家人注意到其极端反应，沟通时感到困难",
+      "medical_history": "无重大躯体疾病；未曾接受心理治疗；问题从童年开始，近年来加重",
+      "language_features": "表达清晰、逻辑性较好，能识别并描述自身认知模式；态度中性，配合度高、愿意尝试"
+    },
+    "main_problem": "我倾向于灾难化和非黑即白的思维模式，这使我对小事件过度反应。因为小失误或小意外而“毁掉整天”的问题始于童年，但最近变得更加突出。我经常在农场上事情不按计划进行时体验到这一问题，比如掉了一枚鸡蛋，我难以看到积极的一面。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我意识到自己的过度反应正在影响日常生活并造成不必要的压力。我只想不再觉得每个小错误都是灾难。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我什么都做不好"
+      ],
+      "special_situations": [
+        {
+          "event": "在农场捡鸡蛋时不小心掉了一枚鸡蛋",
+          "conditional_assumptions": "如果我犯了一个小错误，就会导致整天都变糟，说明我很无能",
+          "compensatory_strategies": "尝试提醒自己积极的一面以控制反应，但效果短暂",
+          "automatic_thoughts": "这一天都毁了；我太粗心了；我什么都做不好",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "上周在搬运饲料时把饲料洒了",
+          "conditional_assumptions": "如果不能做到完美，就等于彻底失败",
+          "compensatory_strategies": "试图通过自我提醒积极面来缓解，但很快又陷入负面思维",
+          "automatic_thoughts": "我太笨拙了；我一无是处；这次失误证明我做不来",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "农场事务未按计划进行（如流程或进度出现小偏差）",
+          "conditional_assumptions": "如果事情没有完全按计划进行，就证明我能力不足",
+          "compensatory_strategies": "将注意力集中在错误上，难以维持对积极面的关注",
+          "automatic_thoughts": "事情又出了问题；我只看到哪里做错了",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持自我价值感与情绪稳定，不被小失误定义",
+        "fear": "害怕犯错被视为无能，担心小事故会“毁掉整天”并导致失控",
+        "defense_goal": [
+          "通过严苛的自我标准与回避讨论来减少羞耻与焦虑",
+          "维持表面掌控以避免被评价为无能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "感到羞愧的“错误制造者”与无能者",
+          "object_representation": "试图帮助但让自己感到压力的家人（支持者）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当家人尝试与其讨论其“过度反应”或在失误后给予建议与沟通时",
+          "interpretation": "来访者认为讨论会加重羞耻，暴露自己的无能与失败",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以简短、含糊的回应回避深入；语气降低情绪强度，必要时转移话题，避免细节展开。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我批评（例如“我一无是处”“我很笨拙”）",
+            "因羞耻而难以与家人直接讨论过度反应",
+            "在小失误后过度关注自身不足，谨慎回避外部接触"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "家庭支持度较高，愿意提供帮助",
+          "多数时候农场工作能顺利推进，具备一定工作能力与任务完成度",
+          "来访者具有改变动机，愿意尝试认知重构与行为实验"
+        ],
+        "negative_force": [
+          "灾难化思维、非黑即白思维与心理过滤显著，易否定积极面",
+          "核心自我评价消极（“我无用”“我什么都做不好”），自我否定强",
+          "羞耻感导致与家人沟通受阻",
+          "睡眠被打乱、工作效率下降，负性循环加剧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对小失误产生强烈的灾难化与自我否定反应，导致当日情绪和行为明显失调",
+          "antecedent": [
+            "捡鸡蛋时掉落一枚鸡蛋",
+            "搬运饲料时洒落",
+            "农场事务未按计划进行"
+          ],
+          "core_reason": "将一次小失误等同于全面失败（非黑即白），并灾难化推断后果；深层负性核心信念（“我无用”“我什么都做不好”）被激活",
+          "function": "短时逃避不受欢迎的情绪与压力、试图通过苛责自我来维持控制与“不再犯错”的幻想",
+          "consequence": "当日注意力与工作效率显著下降，难以完成其他任务；睡眠被扰；与家人沟通困难、关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 910
+}

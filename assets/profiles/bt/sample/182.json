@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "张晨",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "在读本科",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有支持性的朋友与家人愿意倾听，但不完全理解其与驾驶相关的焦虑程度；因回避涉及驾车的社交活动，人际关系受到影响。",
+      "medical_history": "两年前经历第二次车祸，曾有身体伤害并处于恢复期；无重大躯体疾病；此前未出现类似心理问题，未接受过心理治疗。",
+      "language_features": "表达清晰、有条理，能具体描述触发情境与自动化思维；配合度高、态度积极；具备自我观察，但存在灾难化、预测未来与过度概括的倾向。"
+    },
+    "main_problem": "我不断出现“我很快会再次发生车祸”的想法，这些想法引发焦虑与恐惧，并逐渐导致我尽可能回避驾驶或乘车，影响学习、社交与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "因为与驾驶相关的恐惧和焦虑影响了学业表现与社交生活，期望通过咨询减轻这些想法与情绪的影响，恢复日常功能。",
+    "growth_experiences": [
+      "来访者曾发生两次车祸（最近一次在两年前），在第二次车祸后进入身体伤害的恢复期，压力显著升高；此后开始持续担忧再次发生车祸，看到汽车或想到驾驶便激发强烈恐惧，并逐渐回避驾驶或乘车，导致学业表现下降、社交活动减少、日常事务受影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "坏事（灾难）会再次发生在我身上",
+        "我无法保证自己的行车安全"
+      ],
+      "special_situations": [
+        {
+          "event": "看到道路上的汽车或想到驾驶",
+          "conditional_assumptions": "如果我开车，几乎必然会再次发生严重车祸",
+          "compensatory_strategies": "尽可能避免驾驶或乘车",
+          "automatic_thoughts": "我很快会再次出车祸，可能受重伤甚至更糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "临近通勤或旅行时间",
+          "conditional_assumptions": "出行时间越近，危险越高；我无法确保自己在路上的安全",
+          "compensatory_strategies": "推迟或取消行程，改用其他方式或干脆不出门",
+          "automatic_thoughts": "这次出门我会出事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "听到关于车祸的新闻或他人讲述事故",
+          "conditional_assumptions": "他人发生车祸意味着我也很可能遭遇同样的事故",
+          "compensatory_strategies": "回避相关话题与信息来源",
+          "automatic_thoughts": "既然别人也出事，我迟早会遇到",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想两年前的第二次车祸及受伤恢复经历",
+          "conditional_assumptions": "有过两次车祸经历说明我注定不安全",
+          "compensatory_strategies": "保持高度警觉，避免练车或参加需要驾驶的活动",
+          "automatic_thoughts": "我这么害怕，说明开车很危险",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被保护与保持安全，避免再次受伤或遭遇车祸",
+        "fear": "害怕失控、再次受伤甚至死亡",
+        "defense_goal": [
+          "通过回避驾驶与乘车来维持安全感",
+          "高度警觉与提前规避可能的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易受伤的个体",
+          "object_representation": "道路与其他驾驶者被视为潜在的威胁者/危险环境",
+          "linking_affect": "恐惧、焦虑"
+        },
+        {
+          "self_representation": "被误解的焦虑者",
+          "object_representation": "亲友是善意但不完全理解的他者",
+          "linking_affect": "孤独感、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议进行逐步的行为实验（短途驾驶）以检验灾难化预测时",
+          "interpretation": "将逐步暴露理解为把自己置于高风险中，担心再次出事",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "以谨慎、克制的语气表达担忧，请求更小、更可控的步骤与安全预案。"
+        },
+        {
+          "trigger_condition": "当讨论回避驾驶对学业与社交的负面影响时",
+          "interpretation": "将回避行为视为必要且正当的安全选择",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用平静但坚定的语气强调“安全最重要”，以安全为由为持续回避辩护。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "频繁担心再次发生严重车祸并受重伤或更糟",
+            "听到车祸信息时联想到自身高风险"
+          ],
+          "outcomes": [
+            "持续焦虑与恐惧",
+            "灾难化思维",
+            "回避驾驶/乘车"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "为避免驾驶或乘车而限制出行与参与社交",
+            "通勤与旅行前恐惧加剧导致行为受限"
+          ],
+          "outcomes": [
+            "学业受影响",
+            "社交减少",
+            "日常生活被显著束缚"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有亲友支持但不完全理解其焦虑程度",
+            "在担忧与恐惧中感到被误解"
+          ],
+          "outcomes": [
+            "人际关系受影响",
+            "主观孤独与无助感增加"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的亲友网络",
+          "态度积极，愿意尝试新策略与行为实验",
+          "能够识别并描述触发因素与负性自动化思维",
+          "曾多次安全驾驶且未发生事故的事实为反证（来访者自述）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与过度概括的认知模式",
+          "对驾驶/乘车的强烈回避行为",
+          "通勤与旅行前的预期性焦虑显著升高",
+          "安全感依赖回避策略，限制功能恢复"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对驾驶或乘车的强烈恐惧与回避",
+          "antecedent": [
+            "看到汽车",
+            "想到驾驶",
+            "需要通勤或旅行",
+            "听到车祸相关信息"
+          ],
+          "core_reason": "两次车祸经历（最近一次两年前）引发对再次事故的灾难化认知与高估风险，形成自动化“必然再次出事”的信念",
+          "function": "逃避潜在危险与减轻焦虑情绪",
+          "consequence": "学业表现下降、人际关系受影响、日常活动与差事被打乱或限制"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 182
+}

@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "苏凯琳",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重要躯体疾病；既往无心理咨询或治疗史；此前未出现类似心理问题",
+      "language_features": "表达清晰、配合度高、态度积极；能具体描述触发情境与自动化思维；存在灾难化与“预测未来”的认知模式；语速与发音特征未提及"
+    },
+    "main_problem": "在养老院做志愿服务时，针对抬扶或协助老人产生强烈恐惧，认为自己会把老人摔下并导致他人受伤，进而回避相关任务。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询减少恐惧和焦虑，恢复在养老院志愿服务中的有效性与自信。",
+    "growth_experiences": [
+      "几个月前在养老院目睹一位住民摔倒，来访者因强烈的安全责任感而高度紧张；此后在涉及抬扶或协助老人时出现显著焦虑（心率加快、出汗），并逐渐回避相关任务、寻求他人接手或向同事寻求安慰与保证。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不够胜任、可能会伤害他人的人",
+        "确保他人安全完全是我的责任"
+      ],
+      "special_situations": [
+        {
+          "event": "需要将老人从轮椅转移到床等具体抬扶情境",
+          "conditional_assumptions": "如果在转移过程中出现一点差错，就会导致严重伤害，而我要承担全部责任",
+          "compensatory_strategies": "请求同事接手、避免执行抬扶任务",
+          "automatic_thoughts": "我会把她摔下，后果会很严重",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在养老院遇到任何需要抬扶或协助老人的任务时",
+          "conditional_assumptions": "只要需要抬人，我就很可能失手并造成事故",
+          "compensatory_strategies": "提前回避相关任务；在开始前反复向同事寻求安慰与确认",
+          "automatic_thoughts": "这次肯定会出事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回忆几个月前亲眼目睹住民摔倒的事件",
+          "conditional_assumptions": "既然那次摔倒发生过，就很容易再次发生在我身上",
+          "compensatory_strategies": "提高警觉并尽量不参与抬扶情境",
+          "automatic_thoughts": "摔倒这种事会再次发生在我手上",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "意识到自己训练不如部分医务人员、对自身能力感到不安",
+          "conditional_assumptions": "如果我没有足够训练，我就不应该承担抬扶，否则一定会犯错",
+          "compensatory_strategies": "自我设限：仅在更熟练的人员在场时才参与或直接交由其处理",
+          "automatic_thoughts": "我不该抬他们，必须让专业人员来",
+          "cognitive_pattern": "Should Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望确保他人安全、被视为可靠和值得信赖的帮助者",
+        "fear": "害怕因自己的失误导致他人受伤并被归咎、产生强烈自责",
+        "defense_goal": [
+          "通过回避抬扶任务和让他人接手来降低风险与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够训练、易出错且需要格外谨慎的志愿者",
+          "object_representation": "更熟练、更可靠的专业人员（需要依赖）",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "潜在会伤害他人的人",
+          "object_representation": "脆弱、易受伤的老人",
+          "linking_affect": "恐惧、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询中谈到需进行抬扶任务或回忆摔倒事件时",
+          "interpretation": "将内在焦虑等同于客观危险，认为几乎所有抬扶都会导致事故（移情：将风险夸大为确定的威胁）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "承认担忧但以解释性语言不断强调风险与责任，语气谨慎，侧重事实与理由，回避深入情感体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在志愿服务中体验到强烈的责任与道德压力，担心自己的选择与行动会伤害他人"
+          ],
+          "outcomes": [
+            "显著焦虑与回避行为，信心受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与其他志愿者关系紧张、感到被误解；因羞耻而不向朋友谈及恐惧"
+          ],
+          "outcomes": [
+            "社会支持减少，羞耻与焦虑维持或加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我质疑（“我训练不如别人”），在抬扶情境中过度谨慎与自我设限",
+            "强调“都是我的责任”，对错误的可能性过分关注"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“我不该抬他们，必须让专业人员来”的规则性语言自我约束",
+            "将安全与专业标准生硬内化为自我必须遵守的绝对要求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "此前有安全协助居民的经历与记录",
+          "态度积极、愿意尝试行为实验与作业练习",
+          "能够识别并表达自动化思维与触发情境",
+          "在志愿环境中可获得同事支持与协助"
+        ],
+        "negative_force": [
+          "灾难化与“预测未来”的认知模式强化恐惧",
+          "强烈的责任归己与羞耻感降低寻求社会支持的意愿",
+          "回避抬扶任务维持并加固焦虑反应",
+          "对自身训练不足的信念削弱自我效能感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对抬扶或协助老人的强烈恐惧与回避",
+          "antecedent": [
+            "在养老院需要进行抬扶或协助的具体任务",
+            "回忆几个月前目睹的摔倒事件",
+            "意识到自己训练不如部分医务人员时"
+          ],
+          "core_reason": "目睹摔倒事件后将风险普遍化并自我归责，伴随灾难化与“预测未来”的认知；对自身训练不足的担忧加剧失误预期。",
+          "function": "逃避潜在危险与责任以降低即时焦虑，同时通过寻求同事安慰/接手来获得短暂的安全感",
+          "consequence": "志愿服务能力受影响、关系紧张；在抬扶情境中出现明显生理焦虑（心率加快、出汗），对其他活动的投入度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1635
+}

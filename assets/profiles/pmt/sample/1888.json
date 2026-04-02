@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "江凯文",
+      "gender": "男",
+      "occupation": "小提琴演奏者",
+      "educational_background": "接受小提琴演奏的专业训练",
+      "marital_status": "未婚",
+      "family_status": "母亲是护士；其余未提及",
+      "social_status": "有一群理解音乐职业挑战的支持性朋友与同事，但在试演失败后倾向自我隔离，且难以向他人敞开心扉谈论困境",
+      "medical_history": "无重大躯体疾病；此前未接受过心理治疗",
+      "language_features": "表达清晰、逻辑连贯；能自我反思；情绪以焦虑与自我怀疑为主；配合度良好；倾向强调负面并否定积极反馈"
+    },
+    "main_problem": "在试演中表现不佳，尽管受过专业训练却从未被录用；每逢试演机会便出现强烈焦虑（如手抖、脑子空白）、自我怀疑并专注于负面反馈。",
+    "topic": "职业发展",
+    "core_demands": "寻求咨询是因为这种不足感阻碍了我作为小提琴家的职业发展，我想要解决它们。",
+    "growth_experiences": [
+      "自开始参加专业试演以来，屡次未被录用并在试演中出现明显生理与认知反应（手抖、脑子空白）；试演后只记住负面反馈、否定正面评价，逐步强化“我不够好、永远不会被录用”的看法，导致持续的自我怀疑与焦虑；随之睡眠被打乱、并在失败后选择与朋友同事隔离。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "无论多努力也不会被录用/我注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "收到试演通知或临近试演日",
+          "conditional_assumptions": "如果试演中出现任何失误或不够完美，就证明我不够好并会被拒绝",
+          "compensatory_strategies": "加倍练习、反复预演并试图用强行正面自我暗示来控制焦虑；避免与他人讨论试演以减少被评判",
+          "automatic_thoughts": "这次我又会搞砸，我还是不会被录用",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "试演结束后收到既有称赞又有批评的混合反馈",
+          "conditional_assumptions": "负面意见比正面反馈更真实、更能代表整体能力",
+          "compensatory_strategies": "只关注负面评价、否定或忽视正面称赞，以为这样更能促进改进",
+          "automatic_thoughts": "那条批评说明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想以往多次试演未被录用的经历",
+          "conditional_assumptions": "过去失败预示未来必然失败",
+          "compensatory_strategies": "对职业选择产生动摇，降低与同行互动以避免再次受挫",
+          "automatic_thoughts": "我永远不会被录用",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "不成功的试演后与同事或朋友的社交场合",
+          "conditional_assumptions": "如果我暴露脆弱或谈及失败，就会被看做软弱无能；他人的评价决定我的价值",
+          "compensatory_strategies": "自我隔离、回避谈论试演结果以避免被看低",
+          "automatic_thoughts": "他们会觉得我很弱/很失败",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，在权威评审与同行面前证明自己的价值并获得职业位置",
+        "fear": "害怕被拒绝与被评判为无能，伴随强烈的羞耻与失控感",
+        "defense_goal": [
+          "通过否定积极反馈与强调不足来维持控制感，避免希望落空的痛苦",
+          "通过隔离与回避暴露脆弱以减少被评判与羞耻的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者/随时会出错的演奏者",
+          "object_representation": "挑剔的评判者或可能看低自己的同行/权威",
+          "linking_affect": "焦虑、羞耻、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其优点或正向反馈、邀请其同时看到优势与进步时",
+          "interpretation": "承认积极面等同于忽视问题，会被视为自满，从而更可能再次失败",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平静而理性，反复强调“应该关注不足”“负面更重要”，用事实与规则化语句淡化情绪体验，回避对羞耻与脆弱的细节探讨。"
+        },
+        {
+          "trigger_condition": "当咨询师探询失败后的感受或建议其与同伴寻求支持、分享困境时",
+          "interpretation": "表达脆弱会被他人视为软弱或无能，反而更受评判",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责性的语言（如“都是我不行”），降低语速、减少目光接触，迅速将话题转回个人不足与自我改进清单，避免探讨他人的反应与自身被支持的需要。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "每次试演不成功后倾向自我隔离，不愿与朋友和同事交流",
+            "难以向支持性网络敞开谈论试演困境，担心被视为软弱"
+          ],
+          "outcomes": [
+            "社会支持减少，羞耻与焦虑加重",
+            "负性自我评价维持与强化"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在反复未被录用后质疑自己的职业选择",
+            "因只关注负面反馈而忽视进步与优点，感到努力“没有意义”"
+          ],
+          "outcomes": [
+            "动机下降与自我怀疑加剧",
+            "睡眠紊乱与表演焦虑持续"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "坚持“应该只关注缺点/负面反馈才算负责”的信念，否定称赞",
+            "用严格标准评估自我，难以接纳不完美"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁以“我不够好”“我会失败”自我评价，谨小慎微地回避暴露脆弱",
+            "担心被他人视为软弱，从而不愿向支持者求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对音乐的热爱与长期专业训练积累",
+          "持续高频练习与补充课程学习，主动拓展音乐社群网络",
+          "拥有理解行业挑战的支持性朋友与同事"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、心理过滤与否定积极反馈等认知偏差维持自我怀疑",
+          "对拒绝与被评判的强烈恐惧引发表演焦虑与手抖、走神等反应",
+          "失败后自我隔离、难以求助，削弱社会支持",
+          "睡眠紊乱与反刍加剧焦虑与功能受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "试演情境中的强烈表演焦虑（手抖、脑子空白）",
+          "antecedent": [
+            "收到试演通知或接近试演日",
+            "想到即将到来的试演"
+          ],
+          "core_reason": "对被拒绝与失败的灾难化预测及对负面评价的高度敏感，形成条件化的焦虑反应",
+          "function": "短期内试图逃避失败与羞耻、获得控制感",
+          "consequence": "当场发挥受损、未被录用的经历增加，进一步强化自我怀疑与焦虑"
+        },
+        {
+          "behavior": "不成功试演后自我隔离与回避社交",
+          "antecedent": [
+            "试演未被录用后",
+            "被朋友或同事询问试演结果"
+          ],
+          "core_reason": "担心被视为软弱或无能、羞耻感驱动的回避",
+          "function": "避免被评判与再次受挫时的负面情绪",
+          "consequence": "关系受损、社会支持减少，负性情绪与自我否定维持"
+        },
+        {
+          "behavior": "在反馈情境中否定积极评价并专注负面意见",
+          "antecedent": [
+            "试演后收到混合（正负皆有）的反馈"
+          ],
+          "core_reason": "内摄的苛刻标准与个人化解释，使负面信息被赋予更高权重",
+          "function": "通过强调不足来维持改进动机与控制感，避免“希望落空”的失望",
+          "consequence": "自尊受损、焦虑与不足感强化，职业自信下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1888
+}

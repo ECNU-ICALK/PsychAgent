@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "陈明",
+      "gender": "男性",
+      "occupation": "全职主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "离婚",
+      "family_status": "两个男孩的母亲，前夫偶尔来访",
+      "social_status": "有几位朋友可倾诉，但觉得他们可能不理解作为母亲被低估的复杂处境",
+      "medical_history": "未曾面临类似问题；无既往心理治疗/心理问题史；无显著身体疾病",
+      "language_features": "语气中性、表达清晰；能具体描述事件与感受；存在将问题个人化与使用“应该”句式的倾向；配合度较高"
+    },
+    "main_problem": "自从前夫回到城里探访后，我觉得两个儿子不愿意再和我待在一起，这让我产生了作为父母的不足感以及被排斥的感觉。",
+    "topic": "家庭关系",
+    "core_demands": "“I just want them to want to be with me again. I want to feel like I'm an important part of their lives.”（我希望他们再次愿意和我在一起。我希望自己是他们生活中重要的一部分。）",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不称职的父母",
+        "我不如他们的父亲"
+      ],
+      "special_situations": [
+        {
+          "event": "前夫回到城里探访，两个儿子更愿意与他相处",
+          "conditional_assumptions": "如果孩子更愿意和父亲在一起，就说明我作为母亲不够好、我不重要",
+          "compensatory_strategies": "主动与孩子谈自己的感受，试图获得他们的关注与解释",
+          "automatic_thoughts": "他们不想要我，我是个不称职的母亲",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "孩子与父亲外出时没有主动向我更新他们的活动安排",
+          "conditional_assumptions": "如果孩子不主动告知行程，说明他们不尊重我、我在家里的地位很低",
+          "compensatory_strategies": "在心里为孩子设定规则并要求他们“至少应该”向我汇报活动",
+          "automatic_thoughts": "他们至少应该告诉我他们在做什么",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "与孩子表达感受后，孩子轻描淡写地表示只是想念爸爸",
+          "conditional_assumptions": "如果我的感受得不到重视，就证明我太敏感/在抱怨",
+          "compensatory_strategies": "停止再提起这件事以避免被视为抱怨",
+          "automatic_thoughts": "我太敏感了，最好不要再说了",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "注意到前夫被视为“有趣的父母”，而我负责维持家务与秩序",
+          "conditional_assumptions": "如果我不是“有趣的”，就不值得孩子喜欢和亲近",
+          "compensatory_strategies": "拿自己与前夫不断比较并贬低自我",
+          "automatic_thoughts": "我不如他们的父亲",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被孩子依恋与重视",
+        "fear": "害怕被忽视、被排除在家庭之外，失去作为母亲的价值感",
+        "defense_goal": [
+          "通过自我克制与不再提出需求来避免被拒绝的痛苦",
+          "降低情感表达以维持表面和谐"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被冷落的旁观者、感到不被重视的母亲",
+          "object_representation": "孩子（和前夫）是更偏爱父亲、忽略我的人",
+          "linking_affect": "被排斥、伤心、自卑"
+        },
+        {
+          "self_representation": "不够有趣、只会维持秩序的母亲",
+          "object_representation": "父亲是受孩子喜爱的“有趣者”",
+          "linking_affect": "失落、嫉妒"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及孩子更愿意与父亲相处或被询问自己在亲子关系中的感受时",
+          "interpretation": "担心自己在抱怨、会被评判为过于敏感，因此不配表达需求（将自我评价降低以避免外界否认）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气克制、避免直接表达不满，更多使用自责性表述（如“是我太敏感了”），降低情绪强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉像“外人”，在自己的家中被排除在外",
+            "与孩子互动减少，被忽视的主观体验加重"
+          ],
+          "outcomes": [
+            "情绪低落与动力下降",
+            "自尊受损",
+            "关系紧张"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对自己作为母亲的角色价值产生怀疑",
+            "觉得“我不如他们的父亲”"
+          ],
+          "outcomes": [
+            "自我贬低",
+            "回避表达需求",
+            "亲子关系疏远"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，过于小心谨慎地接触他人与情境。",
+          "manifestations": [
+            "自责为“太敏感”“像在抱怨”",
+            "降低自我表达以避免被评判"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "将原本欲对外表达的能量转回自身，克制对他人的行动或请求。",
+          "manifestations": [
+            "停止再提及自己的感受与需求",
+            "不再与孩子讨论此事以避免冲突"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "未经消化地将外界规则与期待当作自己的绝对标准。",
+          "manifestations": [
+            "使用“他们至少应该……”的规则性语言",
+            "以应然标准要求孩子的行为而忽视情境差异"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "此前与孩子关系亲密，能够一起玩游戏、看电影",
+          "愿意主动沟通并寻求专业咨询帮助",
+          "具备一定的社会支持（有几位朋友可倾诉）"
+        ],
+        "negative_force": [
+          "倾向将问题个人化并自我否定",
+          "以“应该”句式设定僵化规则，依赖外部评价",
+          "与前夫进行不利的比较，贬低自我",
+          "情绪低落与动机下降，影响日常功能与互动"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "情绪低落与自我贬低",
+          "antecedent": [
+            "前夫来访",
+            "孩子更愿意与父亲相处",
+            "孩子未主动更新活动安排",
+            "与孩子沟通后被轻描淡写回应"
+          ],
+          "core_reason": "将孩子的选择个人化、以“应该”规则解释关系并与前夫比较，导致被拒感与自我否定",
+          "function": "逃避被拒绝的痛苦、通过自责获得可控感",
+          "consequence": "动机下降、完成日常任务困难、与孩子互动减少、自尊受损"
+        },
+        {
+          "behavior": "回避与孩子进一步沟通（停止提起需求与感受）",
+          "antecedent": [
+            "与孩子沟通后感觉更糟并担心被视为抱怨",
+            "害怕被评判为过于敏感"
+          ],
+          "core_reason": "害怕被拒绝与被评判，将外向的愤怒/失落转向自身",
+          "function": "逃避冲突与负面评价，维持表面和谐",
+          "consequence": "亲子关系进一步疏离，主观被排斥感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1976
+}

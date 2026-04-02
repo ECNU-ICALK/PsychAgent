@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "林菲",
+      "gender": "女",
+      "occupation": "说唱歌手",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与音乐同行的合作关系因自信不足而紧张；有行业朋友但未向他们谈及自己的不足与自卑感",
+      "medical_history": "无明显躯体疾病；无既往心理咨询/治疗史；既往无类似心理问题",
+      "language_features": "表达清晰、逻辑连贯；能具体描述困扰及影响；态度消极但愿意配合，带有怀疑与自我苛求倾向"
+    },
+    "main_problem": "我觉得自己不是足够好的说唱歌手，需要不断专注于提升歌词，这种信念持续存在并影响了我对自己能力的信心。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些自我怀疑正在阻碍我作为说唱歌手的进步并影响我的心理健康，因此寻求咨询。",
+    "growth_experiences": [
+      "自开始从事说唱以来便产生并维持着“自己不够好、需要不断提升歌词”的信念；近来在“想在音乐行业取得成功”的压力下更加突出，触发频率增加，尤其在听到其他成功艺人的作品时容易被激活。",
+      "为对抗这种不足感，尝试通过每天写作和练习来提升，但内在的自我怀疑感并未减轻，逐渐影响睡眠与创作动力，并使与其他音乐人和合作伙伴的关系出现紧张。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不如他人"
+      ],
+      "special_situations": [
+        {
+          "event": "在聆听其他成功艺人的作品时",
+          "conditional_assumptions": "如果我不如他们，说明我不够资格/不够好",
+          "compensatory_strategies": "反复与他人比较、加倍写作和练习以证明自己",
+          "automatic_thoughts": "我不如他们。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与其他音乐人合作或预期将收到同行的反馈时",
+          "conditional_assumptions": "如果没有获得正面反馈，就证明我的水平很差",
+          "compensatory_strategies": "在合作中二次猜测、谨慎回避表达，降低自我暴露",
+          "automatic_thoughts": "他们会觉得我很差。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "夜间准备入睡时反复思考如何改进歌词",
+          "conditional_assumptions": "我应该始终专注于提升歌词，任何停下都是懈怠并会导致失败",
+          "compensatory_strategies": "牺牲睡眠、强迫性地持续构思和修改歌词",
+          "automatic_thoughts": "我必须不断改进，否则我就会失败。",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "审视自己的作品质量时",
+          "conditional_assumptions": "只有接近完美才算好，有缺点就等于整体不好",
+          "compensatory_strategies": "过度关注瑕疵、不断推翻和细抠修改，忽视任何积极面",
+          "automatic_thoughts": "我的歌词很糟，没什么可取之处。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，期望在同行与听众中被视为有实力的创作者",
+        "fear": "害怕失败与被否定，担心被视为不够好、不配成功",
+        "defense_goal": [
+          "通过不断自我要求与完美化标准来避免被批评",
+          "以回避或过滤正向信息来维持“自我不够好”的一贯认知以获得可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、需要不断证明自己的创作者",
+          "object_representation": "挑剔而严苛的评判者（同行/观众）",
+          "linking_affect": "焦虑、羞耻、自卑"
+        },
+        {
+          "self_representation": "落后且不自信的追随者",
+          "object_representation": "难以企及且标准苛刻的成功典范",
+          "linking_affect": "压力、挫败"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出结构化的行为实验并鼓励关注正向反馈时",
+          "interpretation": "担心实验无法带来改变，或再次证明自己不够好（努力也无用）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "保持客观而克制的语气，频繁提出“如果……怎么办”的假设性质疑，强调过去“已经试过”的理由来弱化新尝试的意义，降低情绪表达。"
+        },
+        {
+          "trigger_condition": "谈及与同行合作或他人评价的话题时",
+          "interpretation": "认为他人会看不起自己、觉得自己水平很差",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用泛化的“他们”指代评价者，避免举具体例子；语气谨慎，回避直接请求或面对具体反馈。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有音乐圈朋友但未向其表达自己的不足与自卑感",
+            "与合作伙伴关系因自信不足而紧张，难以获得真实联结与支持"
+          ],
+          "outcomes": [
+            "自我怀疑加剧",
+            "睡眠受影响与动力下降",
+            "职业合作受阻"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被外在成功标准与“我应该持续改进歌词”的内摄规则所束缚",
+            "将自我价值过度绑定于作品完美度"
+          ],
+          "outcomes": [
+            "完美主义压力与焦虑",
+            "内在冲突与自我苛责增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "频繁使用“我应该持续改进歌词”的信念",
+            "以外在成功标准作为自我评价的绝对依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在合作中二次猜测与过度自我审查",
+            "对行为实验持怀疑与谨慎态度，担心“如果没有正向反馈怎么办”"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "预设“他们会觉得我很差”",
+            "将自我否定体验归因为他人的潜在评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "持续性投入创作与练习的行动力",
+          "愿意尝试结构化的行为实验以检验信念",
+          "具备一定的行业人脉与朋友可提供一般性支持"
+        ],
+        "negative_force": [
+          "自我怀疑与自我贬低的习惯化思维",
+          "与他人比较引发的自卑与压力",
+          "“应该”式的完美主义标准",
+          "心理过滤忽视正面信息",
+          "对他人负面评价的预设与回避导致合作关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复自我怀疑与负性自我对话（如“我不如别人”、“我不够好”）",
+          "antecedent": [
+            "聆听其他成功艺人的作品",
+            "与同行合作或预期收到反馈时",
+            "审视与评估自己作品时"
+          ],
+          "core_reason": "受与他人比较和内摄的苛刻标准影响，并预测将被否定",
+          "function": "逃避被批评的风险，借由自我苛责获取控制感以驱动改进",
+          "consequence": "自信心下降、创造力受损、与合作伙伴关系紧张"
+        },
+        {
+          "behavior": "入睡前反复思考与强迫性专注改歌词，导致睡眠受损",
+          "antecedent": [
+            "临睡前回顾白天创作与设想改进方案",
+            "对次日表现与结果的担忧"
+          ],
+          "core_reason": "相信“必须持续改进”才能避免失败与否定",
+          "function": "暂时缓解对失败与不确定性的焦虑，追求完美与掌控感",
+          "consequence": "睡眠紊乱、次日动机与精力下降，创作效率降低"
+        },
+        {
+          "behavior": "合作中的回避与二次猜测（对反馈过度敏感）",
+          "antecedent": [
+            "进入协作讨论、作品互评或公开发布前",
+            "预期他人对自己能力的评价"
+          ],
+          "core_reason": "对他人负面评价的预测与投射，担心被否定",
+          "function": "逃避潜在批评或羞耻体验，降低即时不适",
+          "consequence": "合作关系紧张、沟通效率下降、职业发展受阻"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1038
+}

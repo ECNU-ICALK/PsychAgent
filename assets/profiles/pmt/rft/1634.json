@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "周言南",
+      "gender": "男",
+      "occupation": "在同一份工作已工作8年",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "母亲是一名护士；其余未提及",
+      "social_status": "有朋友可交流，但常觉得他们不会理解自己关于吉他演奏的不安；人际关系其他细节未提及",
+      "medical_history": "未接受过心理治疗；无显著躯体疾病；此前在其他领域未出现类似问题",
+      "language_features": "态度中性；表达清晰、有条理，能描述负性思维与感受；配合度良好"
+    },
+    "main_problem": "来访者在吉他演奏中倾向于否定积极面并将错误过度概括，任何小失误都会显著提升压力，让其感觉自己是“糟糕的吉他手”，近来更为突出，甚至开始影响自尊与对其他能力的信心。",
+    "topic": "情绪管理",
+    "core_demands": "意识到负性想法影响自尊与对音乐的享受，因此希望学习识别与挑战这些负性思维，重获更平衡的视角与演奏的乐趣。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的吉他手",
+        "我不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "在演奏自己最喜欢的歌曲时漏了一个音",
+          "conditional_assumptions": "如果在熟悉的曲目里还出错，就证明我不够好",
+          "compensatory_strategies": "加倍练习以避免任何错误，并反复纠正每个失误",
+          "automatic_thoughts": "我是个糟糕的吉他手",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "演出或练习时即便整体表现良好但出现一个小失误",
+          "conditional_assumptions": "只要有失误，所有好的部分都不算数",
+          "compensatory_strategies": "把注意力聚焦在错误上，否定积极表现与他人赞美",
+          "automatic_thoughts": "那些好的部分不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在练习中出现微小失误后开始怀疑自己在其他方面的能力",
+          "conditional_assumptions": "一次错误就说明我整体能力不足",
+          "compensatory_strategies": "用负面标签定义自己，降低挑战意愿",
+          "automatic_thoughts": "如果这都弹不好，我在其他事情上也会失败",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到与朋友讨论吉他演奏的不安时",
+          "conditional_assumptions": "如果他们不理解，就说明我不该表达自己的不安",
+          "compensatory_strategies": "回避与朋友谈论相关不安与困扰",
+          "automatic_thoughts": "他们不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力的演奏者，并重新获得演奏的愉悦与自尊",
+        "fear": "害怕犯错后被否定、被视为不够好，从而自尊受损",
+        "defense_goal": [
+          "通过苛刻的自我评判来避免失败与他人评价",
+          "保持谨慎与一定的疏离以避免不被理解的体验"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够格、容易失败的演奏者",
+          "object_representation": "他人是评判者或不理解者",
+          "linking_affect": "羞耻、焦虑、挫败"
+        },
+        {
+          "self_representation": "努力但容易否定自己优点的人",
+          "object_representation": "他人给予赞美但被自己视为不重要的他者",
+          "linking_affect": "矛盾、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当考虑向朋友谈起自己的演奏不安与失败感时",
+          "interpretation": "认为朋友不会理解自己的感受（移情：将自身的不安投射为他人不理解）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用委婉、避免深入的语气，快速结束话题或转向其他内容，例如“算了，他们不会懂”，减少自我表露。"
+        },
+        {
+          "trigger_condition": "当别人或自己注意到大多数段落演奏良好但仍出现小失误时",
+          "interpretation": "认为这一个失误抵消了所有积极表现，赞美不真实或不重要",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "用看似理性的语句否定优点，如“那只是运气”“有一个错就不算好”，语气冷静但坚定。"
+        },
+        {
+          "trigger_condition": "当在熟悉曲目中出现一个错误时",
+          "interpretation": "将零错误的外界标准内化为自我评价，认为必须完美才算胜任",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "强调“应该”“必须”等用语，进行严厉的自我批评，减少情感表达与自我接纳。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "演奏不再是愉悦而成为压力来源",
+            "过度关注错误使积极体验与成就感被抹除"
+          ],
+          "outcomes": [
+            "自尊降低",
+            "动机受损",
+            "对演奏的享受减少"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得朋友不会理解自己的不安而减少分享"
+          ],
+          "outcomes": [
+            "社会支持利用不足",
+            "主观负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度聚焦错误并苛责自己",
+            "以“应该/必须”的完美标准评判演奏",
+            "在谈及不安时谨慎、收缩自我表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为朋友不会理解自己的吉他不安，从而回避交流"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "不向他人寻求理解与支持，转而增加练习与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在演奏熟悉的曲目时，一旦出现小错误，来访者通常会自我贬低、压力升高，并否定积极表现",
+          "unique_outcome": "有时来访者演奏表现良好并获得他人的称赞，自己也能承认“我确实弹得不错”而非完全否定",
+          "reason": "不同支持与情境：演奏熟悉的歌曲、长期练习打下技能基础，并得到他人积极反馈，帮助其短暂看到更完整的表现画面"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作稳定（同一岗位8年）",
+          "有朋友可提供一定的支持",
+          "能识别并命名负性认知模式（否定积极、过度概括等）",
+          "愿意寻求心理咨询并尝试新策略（录音回听）",
+          "坚持练习吉他，具备技能基础"
+        ],
+        "negative_force": [
+          "否定正面思考，难以整合积极证据",
+          "过度概括单次错误为整体能力不足",
+          "全或无的完美标准导致自我标签化",
+          "自尊脆弱、倾向于自我贬低",
+          "预设他人不理解而回避社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在演奏出现小错误时的自我贬低与负性自我对话（如“我是个糟糕的吉他手”）伴随压力上升",
+          "antecedent": [
+            "演奏最喜欢的歌曲时出现失误",
+            "练习过程中漏掉一个音",
+            "在得到他人正面反馈后仍注意到一个小错"
+          ],
+          "core_reason": "基于全或无的完美标准与否定正面思维，将单次错误等同于整体能力不足并与自我价值捆绑",
+          "function": "通过自我批评试图控制与避免再次犯错，逃避被视为“不够好”的风险",
+          "consequence": "压力升高、演奏乐趣下降、自尊受损，并开始怀疑其他领域的能力；减少与朋友交流关于演奏的不安"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1634
+}

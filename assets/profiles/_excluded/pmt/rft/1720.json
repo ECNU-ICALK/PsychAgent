@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "张明宇",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "已婚（同性婚姻）",
+      "family_status": "丈夫在一家电信公司工作",
+      "social_status": "因驾驶相关话题与丈夫及朋友发生冲突；虽有丈夫与少数好友的支持，但自述他们并未完全理解其困扰",
+      "medical_history": "几年前发生过一次轻微车祸；此前无类似心理问题；未接受过心理治疗；无重大躯体疾病史",
+      "language_features": "表达清晰，能描述触发情境与自动化思维；情绪用语较多（“总是”“最糟”）；对认知干预持怀疑但愿意尝试，配合度尚可"
+    },
+    "main_problem": "每次开车都会感到挫败，这种挫败感影响心情与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "与驾驶相关的挫败与压力已令人难以承受，影响整体幸福感并使关系紧张，希望获得支持与指导来管理这些感受；不想每天都惧怕/厌恶开车。",
+    "growth_experiences": [
+      "几年前经历一次轻微车祸，此后开始害怕驾驶。最初压力程度为中等，随着时间推移发展为在每次驾驶前就预期会挫败，即使是短途也如此。独自驾驶、尤其在高峰期或车流量大时更易触发强烈挫败与焦虑。曾尝试放松技巧与尽量避免驾驶，但问题持续存在，并在与丈夫和朋友讨论出行时引发冲突。虽有丈夫和少数好友可倾诉，但自觉他们并未完全理解其困难。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界（道路环境）是危险且充满威胁的",
+        "我无法有效掌控驾驶时的情绪与后果"
+      ],
+      "special_situations": [
+        {
+          "event": "独自驾车在下班高峰期被堵在车流中",
+          "conditional_assumptions": "如果被堵车耽误行程，就意味着后果会非常糟糕，我会失控且一切都会变坏",
+          "compensatory_strategies": "尝试用放松技巧强行压下情绪或干脆避免在高峰期出行/减少驾驶",
+          "automatic_thoughts": "这会变成一场灾难，我会迟到，后果会很严重。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "车祸后再次上车准备驾驶或刚握方向盘的时刻",
+          "conditional_assumptions": "如果再次开车，我很可能再出事故；只要开车就难免危险",
+          "compensatory_strategies": "能不开车就不开车，尽量让别人开；若必须开则高度紧张地监控路况",
+          "automatic_thoughts": "我可能又会出事故。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "计划任何出行需要自己驾驶时",
+          "conditional_assumptions": "如果开车不能完全顺利，那就是彻底糟糕；只要开车就一定会挫败",
+          "compensatory_strategies": "在出发前就做好最坏心理准备并增强回避倾向，减少开车频率",
+          "automatic_thoughts": "我每次开车都会很糟，肯定会挫败。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在拥堵中看到其他司机加塞或阻挡",
+          "conditional_assumptions": "如果别人不按我期待的方式行驶，就是在针对我、故意让我难受",
+          "compensatory_strategies": "将不适归咎于他人，发怒、抱怨以释放紧张与争取掌控感",
+          "automatic_thoughts": "他们就是故意让我迟到、跟我作对。",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在驾驶与出行中获得安全感与掌控感，并被重要他人真正理解与支持",
+        "fear": "害怕再次发生事故、失控或被忽视与否定，从而陷入无助与羞耻",
+        "defense_goal": [
+          "通过回避驾驶与外归因来降低焦虑与无力感",
+          "以愤怒与指责维持主观的掌控感与安全距离"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被误解、无力掌控的受困者",
+          "object_representation": "不理解、轻视感受的他者（如丈夫/朋友、道路上的“他人”）",
+          "linking_affect": "挫败、愤怒、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请识别自动化思维并尝试认知重构时",
+          "interpretation": "体验为对自己真实困境的最小化，担心再次被“无效建议”忽视",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性质疑的口吻列举过去尝试无效的经历，强调“当下没用”，语气克制但防御。"
+        },
+        {
+          "trigger_condition": "当他人（含咨询师/配偶）提出“放松/冷静”的劝告或保持沉默倾听时",
+          "interpretation": "将内在的无力与愤怒投射为“你们不理解/在否定我”的外部态度",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用泛化与指责性表述（如“你们都不懂”），提高语气力度，转向抱怨他人行为以寻求同盟。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到丈夫与朋友并未真正理解自己的驾驶困扰",
+            "在车流中主观体验为“人人与我为敌”",
+            "独自驾驶时不安与挫败感显著加重"
+          ],
+          "outcomes": [
+            "情绪挫败与愤怒",
+            "与重要他人发生冲突",
+            "倾向回避驾驶"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因恐惧与挫败而回避驾驶，行动选择被道路与情绪“束缚”",
+            "在拥堵面前体验到强烈的不可控与限制"
+          ],
+          "outcomes": [
+            "焦虑与压力上升",
+            "生活半径与自主性感受下降",
+            "对控制的刚性追求进一步强化负性体验"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在拥堵时将愤怒与无力感归因为“他人故意针对我”",
+            "在咨询中以“你们不理解我”的方式回应支持性干预"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有丈夫与少数朋友的社会支持",
+          "愿意求助并进入咨询，能一定程度自我觉察自动化思维",
+          "曾主动尝试放松技巧等自助方法",
+          "能够承认高峰期交通拥堵的客观性（可作为认知重评的切入点）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、个人化、预测未来、非黑即白等认知扭曲显著",
+          "车祸经历带来的条件性恐惧与高度警觉",
+          "回避驾驶的应对方式维持了问题循环",
+          "情绪调节困难，易愤怒并将控制感外置于他人/环境"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "驾驶时出现强烈挫败与愤怒并倾向回避驾驶",
+          "antecedent": [
+            "独自驾驶",
+            "下班高峰期或车流量大时",
+            "握上方向盘、准备出发的瞬间",
+            "回想起过去的轻微车祸"
+          ],
+          "core_reason": "车祸后对驾驶风险与后果的威胁评估升高，并伴随灾难化、过度概括、预测未来、个人化等认知偏差，导致情绪失调",
+          "function": "逃避不受欢迎的刺激（拥堵、失控感、再次出事的担忧）并通过愤怒/外归因获得短暂的主观控制感",
+          "consequence": "影响日常生活与情绪稳定；与丈夫和朋友发生冲突；减少驾驶导致出行受限"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1720
+}

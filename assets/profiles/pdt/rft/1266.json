@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36",
+      "name": "林洁",
+      "gender": "女",
+      "occupation": "兽医",
+      "educational_background": "兽医学位",
+      "marital_status": "已婚",
+      "family_status": "已婚，育有五个孩子",
+      "social_status": "与同事关系因负面工作观念而紧张；在家可与配偶交流，但觉得对方不完全理解其工作相关感受",
+      "medical_history": "无重要躯体疾病；既往未出现类似问题，未接受过心理治疗",
+      "language_features": "表达清晰，能自我反思；态度中立；配合度较好；能具体描述触发情境与自动化思维"
+    },
+    "main_problem": "我一直感到被工作压垮并对兽医的工作不快乐，尽管与动物一起工作的喜悦仍在。几个月前工作变得更紧张和更有压力后开始出现这些感受；同事离职后我承担了更多职责，压力进一步增加。大多数日子里我都有这些负面感受，尤其是早晨要去上班时。我尝试专注于工作的积极面，但仍难以克服这种阴郁感。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些持续的负面工作感受正在影响我的心理健康和整体幸福，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任/会让他人失望",
+        "只有完美表现才算合格"
+      ],
+      "special_situations": [
+        {
+          "event": "每天早晨看到当天排得满满的工作日程",
+          "conditional_assumptions": "如果我不能把所有任务都处理好，就说明我不够胜任并会让他人失望",
+          "compensatory_strategies": "强迫自己专注积极面、提高自我要求以维持“完美”标准",
+          "automatic_thoughts": "我没法应付这一切，我会搞砸并让大家失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "手术或程序中出现不按计划的情况",
+          "conditional_assumptions": "如果事情不是完全按计划进行，那就是失败，说明我能力不足",
+          "compensatory_strategies": "在工作中追求绝对完美、加倍努力避免任何差错",
+          "automatic_thoughts": "这下糟了，这说明我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同事离职导致自己承担更多职责、工作负荷显著增加",
+          "conditional_assumptions": "如果我无法承担额外职责，就会失败并让同事与客户失望",
+          "compensatory_strategies": "勉力承担更多任务、持续自我逼迫以满足外在期待",
+          "automatic_thoughts": "这没有尽头，我处理不了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "早晨将要赴工作、情绪低落时回想工作的负面体验",
+          "conditional_assumptions": "有负面情绪时，积极的一面不重要或不算数",
+          "compensatory_strategies": "试图用“关注积极面/感恩”来压过负面感受（效果有限）",
+          "automatic_thoughts": "我的工作让人沮丧，今天也会很糟",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任，并在高压力环境中获得理解与支持",
+        "fear": "害怕失败与让他人失望，担心因此遭到批评、关系进一步紧张",
+        "defense_goal": [
+          "通过追求完美与高标准来确保安全与认可，避免显露脆弱与不确定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负担过重、容易让人失望的工作者",
+          "object_representation": "对自己有高期待、要求完美的他人（同事/客户/团队）",
+          "linking_affect": "压力、内疚、担忧"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "觉得配偶不完全理解其工作相关感受",
+            "与同事关系因负面工作观念而紧张"
+          ],
+          "outcomes": [
+            "情绪低落与阴郁感加重",
+            "工作满意度下降，回家后难以享受家庭时光"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "尽管热爱与动物互动，却被工作压力与阴郁感覆盖，难以体验到工作的积极意义"
+          ],
+          "outcomes": [
+            "对工作的幸福感与成就感下降",
+            "晨间情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "对自己施加“必须完美表现”的僵化要求",
+            "以完美标准衡量自我价值，忽视现实的复杂度与限度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "频繁自我怀疑与自我苛责（如“我会让大家失望”）",
+            "在面对繁重任务前过度审视自身能否达标，造成更大心理负担"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对复杂手术或繁重日程时，来访者通常会预测最坏结果并感到无法应对，导致心情低落、效率下降，与同事关系受影响。",
+          "unique_outcome": "上周一台她原本畏惧的复杂手术进行顺利，术后动物恢复良好，主人表达感谢；她感到宽慰与自豪，而非一贯的怀疑和阴郁。",
+          "reason": "线索：由于看到客观的良好结果与他人的积极反馈（感谢与恢复），这次形成了与以往灾难化预期不同的理解与证据，从而出现了更积极的体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对动物与工作的热爱仍在，能从帮助动物中获得喜悦",
+          "具备专业胜任力（可完成复杂手术并取得良好结果）",
+          "家庭中有可倾诉的配偶作为基础支持"
+        ],
+        "negative_force": [
+          "倾向灾难化、非黑即白思维、个人化、否定积极的认知模式",
+          "内摄的完美主义高标准与持续的自我苛责",
+          "工作负荷显著增加（同事离职后职责加重）",
+          "晨间强烈的负面情绪影响全天状态"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "上班前出现明显的情绪低落与生理压迫感（“胸口像有重物”），并伴随消极自语（如“我应付不了”“我会让大家失望”）",
+          "antecedent": [
+            "看到当天排得满满的工作日程",
+            "手术或程序中出现不按计划的情况",
+            "同事离职后职责增加",
+            "早晨准备去上班的情境"
+          ],
+          "core_reason": "工作负荷骤增与内摄的完美主义标准共同作用，诱发灾难化预测与自我贬损，从而维持负性情绪循环",
+          "function": "逃避不受欢迎的情绪与不确定性，通过提前预期最坏获得表面的控制感并试图减少失望风险",
+          "consequence": "工作效率下降、与同事关系紧张，负面情绪溢出到家庭生活，难以享受家庭时光"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1266
+}

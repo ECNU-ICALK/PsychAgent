@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "43",
+      "name": "罗维",
+      "gender": "男",
+      "occupation": "摄影师",
+      "educational_background": "摄影专业文凭",
+      "marital_status": "未婚",
+      "family_status": "独居，养有4只狗",
+      "social_status": "有朋友可交流，但未分享自我怀疑与无价值感的深度程度；人际关系受到影响，常向朋友寻求对作品的认可",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "略显紧张但表达清晰、配合度较好；逻辑清楚，能识别并描述自动化思维；自我否定倾向明显"
+    },
+    "main_problem": "我觉得自己作为摄影师永远不够好，无法被发表，这让我感到无价值和自我怀疑。",
+    "topic": "职业发展",
+    "core_demands": "我意识到自我怀疑正在阻碍我在摄影事业上的进步并影响我的心理健康，因此决定寻求咨询。",
+    "growth_experiences": [
+      "在开始以摄影为职业后，先是带着兴奋进行投稿，但向多家杂志投稿遭遇拒绝；此后压力加剧，逐渐发展为完全回避投稿以避免再次被拒；每当想到投稿或与已发表摄影师进行比较时，便出现强烈的自我怀疑与无价值感；曾尝试从朋友和家人处寻求认可，但并未缓解自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "想到要向杂志提交作品的时刻",
+          "conditional_assumptions": "如果再次被拒绝，就证明我永远不够好、没有价值",
+          "compensatory_strategies": "完全回避投稿以避免被拒绝与羞耻感",
+          "automatic_thoughts": "我一定会被拒绝，结果只会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想之前被杂志拒稿的经历",
+          "conditional_assumptions": "一次或几次拒稿意味着我永远不会成功、作品客观不够好",
+          "compensatory_strategies": "降低创作与提交频率，拖延项目以减少挫败",
+          "automatic_thoughts": "这说明我不行，以后也不会有改变",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与已发表的摄影师及其作品进行比较",
+          "conditional_assumptions": "只有达到他们的水平、被发表才算有价值；否则就是失败者",
+          "compensatory_strategies": "频繁自我批评并放弃或拖延项目",
+          "automatic_thoughts": "我永远不可能达到他们的水平，我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "朋友和家人给予正面反馈与鼓励时",
+          "conditional_assumptions": "除非被杂志发表，否则他人的肯定都不可信、不算数",
+          "compensatory_strategies": "继续寻求外部验证但否定其中的积极信息",
+          "automatic_thoughts": "他们只是安慰我，这些好评不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、作品被发表并被真实看见",
+        "fear": "害怕被拒绝与被否定，担心暴露自身“无价值/不够好”的真相",
+        "defense_goal": [
+          "通过回避投稿来保持安全感、减少被拒绝的可能",
+          "通过寻求他人认可来暂时缓解焦虑与自我怀疑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、随时会被拒绝的创作者",
+          "object_representation": "他人（尤其杂志编辑/已发表摄影师）是严苛的评判者与拒绝者",
+          "linking_affect": "羞耻、恐惧、无力感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到要向杂志投稿，或在咨询中被邀请制定具体投稿计划时",
+          "interpretation": "将可能的反馈视为必然的拒绝，体验他人（编辑/咨询师）为挑剔的评判者（移情：他人会否定我）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以谨慎与退缩的语气强调“现在不是时候”，提出诸多实际困难，避免做出明确承诺。"
+        },
+        {
+          "trigger_condition": "当被鼓励接纳朋友的正面反馈或讨论自我价值时",
+          "interpretation": "认为他人的肯定不真实，只是在敷衍自己（移情：他人表面支持、内心否定）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "通过质疑他人的动机与真实性，语气防御，强调“他们不会理解”，并尝试转开话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“被发表”视为自我价值的唯一标准，未被发表即体验为无价值",
+            "自我怀疑与失败感强化了对创作意义的困惑"
+          ],
+          "outcomes": [
+            "动机与生产力下降",
+            "回避投稿与项目拖延",
+            "情绪低落与自我否定"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居但与朋友未分享内心痛苦的深度程度",
+            "担心被误解或被评价，减少真实接触"
+          ],
+          "outcomes": [
+            "人际支持利用不足",
+            "加重自我封闭与退缩",
+            "寻求外部验证但难以内化自我价值"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次自我否定与谨慎表达",
+            "对投稿采取过度小心与退缩的策略",
+            "担心被误解而不愿分享更深层的感受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设朋友不会理解自己，担心被评价为“矫情”",
+            "在未证实的情况下判断他人会否定或敷衍自己"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备摄影专业训练（摄影专业文凭）",
+          "愿意尝试认知重构与小步行动",
+          "能识别自动化思维，愿意在会谈外练习",
+          "拥有一定的社会支持（有朋友可交流）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知模式显著",
+          "非黑即白思维与过度比较他人",
+          "回避投稿与项目拖延，依赖外部验证",
+          "自我价值与“被发表”过度绑定，否定正向反馈",
+          "失败经历的过度概括，强化自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避向杂志投稿与拖延创作项目",
+          "antecedent": [
+            "想到要投稿的时刻",
+            "看到或比较已发表摄影师的作品",
+            "回忆过往被拒稿经历"
+          ],
+          "core_reason": "害怕被拒绝与被否定，核心认知为“我不够好/没有价值”",
+          "function": "逃避潜在负面评价与羞耻感，短期降低焦虑",
+          "consequence": "职业发展受阻，机会减少，动机与生产力下降"
+        },
+        {
+          "behavior": "频繁向朋友与家人寻求认可",
+          "antecedent": [
+            "出现自我怀疑与无价值感时",
+            "在比较他人或想到投稿之后"
+          ],
+          "core_reason": "通过外部验证来缓解不安与自我怀疑，难以内化自我价值",
+          "function": "获得安慰与短期情绪缓冲",
+          "consequence": "对外部评价依赖增加，自主评价能力下降，自我怀疑仍持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1786
+}

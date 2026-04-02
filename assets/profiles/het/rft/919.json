@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "陈菲",
+      "gender": "女",
+      "occupation": "电影创作者",
+      "educational_background": "电影学本科",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有几位亲近朋友，但因担心他们不理解自己的电影热情而未分享感受；近期因频繁负面谈论导致与朋友关系紧张",
+      "medical_history": "无类似心理问题史；未接受过心理治疗或咨询；无显著躯体疾病",
+      "language_features": "表达清晰、逻辑较好、配合度高、语气偏中性；能具体描述自动化思维与诱发情境；倾向使用否定与比较，聚焦于失败经历"
+    },
+    "main_problem": "我最近在电影比赛没有获奖后，觉得再拍电影也没有意义，这让我出现了自我怀疑和动力不足。",
+    "topic": "职业发展",
+    "core_demands": "我想不再觉得自己是个失败者，重新找回拍电影的动力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "如果不被认可（获奖/他人喜欢），我的努力就没有意义"
+      ],
+      "special_situations": [
+        {
+          "event": "电影比赛未获奖（结果公布约在一个月前）",
+          "conditional_assumptions": "如果在比赛中没有获奖，就证明我不够好，继续拍摄没有意义",
+          "compensatory_strategies": "考虑放弃影视创作，尝试把注意力转移到其他爱好以逃避失败感",
+          "automatic_thoughts": "这次失败说明我不够好，拍摄也没有意义",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "观看其他电影人的作品或看到他们的成功",
+          "conditional_assumptions": "如果别人比我更成功，说明我的作品没人会在乎",
+          "compensatory_strategies": "避免开始新项目或减少创作投入以避免再次失败",
+          "automatic_thoughts": "我不如他们，没人会关心我的作品",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试开始写新剧本时坐下准备创作",
+          "conditional_assumptions": "如果不能确保观众会喜欢，那就不值得开始",
+          "compensatory_strategies": "把剧本收起、停止写作以避免失望",
+          "automatic_thoughts": "没人会想看我的作品，我永远不够好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想这次比赛失败并忽略过往获得的正面反馈",
+          "conditional_assumptions": "一次失败就证实了我所有的怀疑，过去的好评不算数",
+          "compensatory_strategies": "反复沉浸于负面结果、否定积极经验以维持现有结论",
+          "automatic_thoughts": "这次失败证明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作品被认可、被看见并被理解",
+        "fear": "害怕失败与被否定，担心无人理解自己的热情",
+        "defense_goal": [
+          "通过回避创作和不与朋友分享来降低被评价与被否定的风险",
+          "以比赛失败为理由为放弃与退缩进行自我保护"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、被忽视的创作者",
+          "object_representation": "挑剔且不理解自己的评判者（观众/同行/朋友）",
+          "linking_affect": "羞耻、自卑、孤独"
+        },
+        {
+          "self_representation": "常以负面视角谈论的朋友",
+          "object_representation": "不理解自己热情的旁观者",
+          "linking_affect": "紧张、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师指出过往正面反馈或邀请辨别更多证据时",
+          "interpretation": "认为这次失败是决定性的证据，过去的好评并不能代表真实能力",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚定的语气重复失败的原因，将放弃描述为合乎逻辑的选择，弱化过去成功的相关性。"
+        },
+        {
+          "trigger_condition": "当被询问是否与朋友分享感受、寻求支持时",
+          "interpretation": "认为朋友会不理解或看不起自己的热情，因此分享无意义且会更糟",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用谨慎、回避性的语气，强调“他们不会懂”，避免深入讨论具体关系细节。"
+        },
+        {
+          "trigger_condition": "当被提出进行小步行为实验或尝试新项目时",
+          "interpretation": "把实验视为可能再次证实自己不够好的风险而感到害怕",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "先承认害怕，语气温和，提出把任务拆分为可掌控的微目标，并请求逐步推进。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "比赛未获奖后觉得继续拍摄没有意义",
+            "考虑放弃电影创作",
+            "动力明显下降"
+          ],
+          "outcomes": [
+            "自我怀疑增强",
+            "职业表现受损",
+            "日常生产力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心朋友不理解自己的热情而不愿分享感受",
+            "与朋友关系因负面谈论而紧张"
+          ],
+          "outcomes": [
+            "社会支持减少与孤立感增加",
+            "负面情绪持续化"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友不会理解自己的电影热情而主动不分享",
+            "预设他人反应为负面导致关系疏离"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将赢得比赛视为唯一价值标准",
+            "出现“我应该停止尝试”的自我要求"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "尝试用其他爱好分散注意力以回避面对失败与自我怀疑",
+            "避免直接启动新项目"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对拍摄具有强烈热情（自述“痴迷于拍摄”）",
+          "愿意尝试新的方法并接受小步实验",
+          "曾有作品获得过正面反馈的经验"
+        ],
+        "negative_force": [
+          "非黑即白思维，失败即全盘否定",
+          "心理过滤与否定正面证据，过度关注未获奖",
+          "过度与他人比较，寻求外部验证",
+          "强烈自我怀疑及“没有意义”的信念",
+          "回避创作与社交披露，减少支持获取"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "开始创作时的回避与自我否定（停止写剧本/放弃项目）",
+          "antecedent": [
+            "想到拍摄或准备启动新项目",
+            "回忆比赛未获奖的结果",
+            "观看其他电影人的作品与成功案例"
+          ],
+          "core_reason": "将一次失败灾难化并内化为自我价值评判、过度依赖外部认可，担心作品不被观众喜欢",
+          "function": "逃避失败与被评价的痛苦，短期降低焦虑",
+          "consequence": "工作表现下降，考虑放弃影视职业；与朋友关系紧张；日常动机与生产力降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 919
+}

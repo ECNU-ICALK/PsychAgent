@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "林泰乐",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；此前未接受其他心理咨询；肩痛为首次出现，已持续数月。",
+      "language_features": "态度积极、配合度高；表达清晰，能描述症状与触发情境；能进行自我观察并愿意尝试建议；因疼痛感到挫败与压力。"
+    },
+    "main_problem": "我一直在经历肩部疼痛，我认为是吊带导致的。不过我也觉得体重可能加重了不适。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为肩部疼痛影响了我的日常生活并造成不适；我希望找到更好的管理方式，我愿意探索调整和建议。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的身体状况（体重）是问题的根源，疼痛主要是由我自身因素造成的"
+      ],
+      "special_situations": [
+        {
+          "event": "佩戴吊带时肩部疼痛明显加重",
+          "conditional_assumptions": "如果佩戴吊带时出现疼痛，主要是因为我的体重过大导致肩膀受力过多",
+          "compensatory_strategies": "尝试调整吊带、减少佩戴时间，并考虑通过自我管理来减轻肩部负担",
+          "automatic_thoughts": "都是我的体重让肩膀受累",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "进行使肩膀承受压力的重体力或重复性活动时疼痛加重",
+          "conditional_assumptions": "如果在这些活动中出现疼痛，是因为我没有照顾好自己/体重过高所致",
+          "compensatory_strategies": "减少或回避重体力活动，频繁休息以降低疼痛",
+          "automatic_thoughts": "我做得不够好，才会疼",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "与朋友交流肩痛但他们无法提供解决方案",
+          "conditional_assumptions": "如果别人帮不了我，说明问题在我身上、是我个人的过错",
+          "compensatory_strategies": "将原因归于自身并尝试独自寻找解决方案",
+          "automatic_thoughts": "都是我的问题",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望减轻身体疼痛并获得有效的支持与解决方案",
+        "fear": "害怕疼痛持续、影响生活功能与情绪状态",
+        "defense_goal": [
+          "通过自我解释与自我调整来维持对问题的掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要帮助但被疼痛困扰的个体",
+          "object_representation": "关心但无法提供实际解决方案的他人/朋友",
+          "linking_affect": "失望、无助、压力"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当疼痛原因不明确且症状持续影响日常功能时",
+          "interpretation": "倾向将疼痛主要归因为自身体重，以此简化复杂因素并维持可控的解释",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用温和、探询式语言，提出多元可能原因，避免直接否定其解释；邀请共同检验假设并通过实验收集证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "肩部疼痛限制了日常活动与身体自由度（如佩戴吊带、重体力活动时受限）"
+          ],
+          "outcomes": [
+            "挫败与压力增加",
+            "生活便利度下降与功能受限"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并保持积极态度（主动来访、表示愿意尝试建议）",
+          "具备自我观察能力，能识别疼痛与吊带、活动的关系",
+          "有一定社会支持（有几位朋友可倾诉）"
+        ],
+        "negative_force": [
+          "肩部疼痛持续存在，导致活动受限与不便",
+          "过度个人化归因，倾向把疼痛归咎于体重",
+          "疼痛引发的压力与情绪困扰",
+          "目前缺乏有效的疼痛管理策略（调整吊带与止痛药效果有限）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因肩痛而回避或减少使肩部受力的活动",
+          "antecedent": [
+            "佩戴吊带",
+            "进行使肩膀受力的重体力或重复性活动"
+          ],
+          "core_reason": "担心加重疼痛并体验到显著不适",
+          "function": "逃避疼痛与不适，降低即时身体负荷",
+          "consequence": "日常活动受限、效率下降，生活便利度降低"
+        },
+        {
+          "behavior": "自我归咎式思维（将疼痛主要归因为体重）",
+          "antecedent": [
+            "出现肩痛时",
+            "他人无法提供解决方案的交流情境"
+          ],
+          "core_reason": "通过单一归因获得心理上的解释与控制感，减轻不确定性带来的焦虑",
+          "function": "维持主观可控感与问题框架",
+          "consequence": "增加自责与压力，可能忽视其他原因与解决路径，问题得不到有效缓解"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1600
+}

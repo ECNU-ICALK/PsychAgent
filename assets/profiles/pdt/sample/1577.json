@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "75",
+      "name": "李雅静",
+      "gender": "女",
+      "occupation": "失业",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母及一名年幼的手足同住",
+      "social_status": "社交方面因羞怯而难以建立新关系；家人支持但未充分理解其在公众演唱的恐惧；求职面试与沟通受影响",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗或咨询",
+      "language_features": "紧张但合作；表达清晰；能够自我反思；态度积极"
+    },
+    "main_problem": "极度羞怯与自我怀疑，尤其是在他人面前唱歌；决定参加才艺表演试镜后问题加重，经常想象负面结果（如被嘘下台），导致无法展示才华；在想到公众演唱或提及试镜时出现强烈焦虑，尽管尝试在镜子前练习与深呼吸，焦虑仍持续。",
+    "topic": "情绪管理",
+    "core_demands": "意识到对公众演唱的恐惧在阻碍追求机会与享受唱歌的热情，期望通过咨询克服恐惧、挑战负性信念、建立自信以能够在他人面前自如演唱。",
+    "growth_experiences": [
+      "长期以来在社交情境中表现出羞怯与自我怀疑，影响参加求职面试与有效沟通，结交新朋友困难；未曾接受心理治疗；家人支持但未充分理解其恐惧，导致持续的孤立与自我否定体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好，会上台出丑",
+        "别人会讨厌我并羞辱我",
+        "我在公众场合会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "才艺表演试镜的临近或被提及",
+          "conditional_assumptions": "如果我在公众面前表现得不完美，就会被观众讨厌并嘘下台",
+          "compensatory_strategies": "在镜子前反复练习、进行深呼吸以缓解焦虑",
+          "automatic_thoughts": "他们会讨厌我的歌声，还会把我嘘下台",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到在公众面前演唱",
+          "conditional_assumptions": "如果我忘词或犯错，就会彻底丢脸、场面不可收拾",
+          "compensatory_strategies": "回避在他人面前演唱，推迟或不参加试镜",
+          "automatic_thoughts": "我会完全忘词，场面会失控",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "求职面试或需要与陌生人交流的场合",
+          "conditional_assumptions": "如果我表达不够好，就说明我不适合工作、以后都会失败",
+          "compensatory_strategies": "避免参加面试，减少社交接触",
+          "automatic_thoughts": "我会在面试中说不出话，让人觉得我很差",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "家人鼓励其参加试镜并给予支持",
+          "conditional_assumptions": "如果他们不完全理解我的恐惧，说明我的问题无法被看见与接纳",
+          "compensatory_strategies": "淡化或否定鼓励的积极面，继续自我怀疑与犹豫",
+          "automatic_thoughts": "他们不理解我，这些鼓励没用",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被认可与肯定（尤其是作为表演者）",
+        "fear": "害怕在公众场合被羞辱、被拒绝、被嘲笑",
+        "defense_goal": [
+          "通过回避与自我保护来降低被评判与被羞辱的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "羞怯、容易被否定的表演者",
+          "object_representation": "苛刻、评判性的观众/他人",
+          "linking_affect": "恐惧、羞耻"
+        },
+        {
+          "self_representation": "渴望被理解与支持的个体",
+          "object_representation": "善意但不充分理解的鼓励者（家人）",
+          "linking_affect": "无力感、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或面对公众演唱、试镜、面试等需要被他人评价的情境时",
+          "interpretation": "倾向将内在的自我否定与羞耻体验，解读为他人会憎恨或嘲笑自己（移情：将他人视为苛刻的评判者）",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "在对话中频繁描绘最坏情景，用“如果……就会……”的假设性语句强化恐惧，语气犹疑，难以接触到当下事实证据。"
+        },
+        {
+          "trigger_condition": "当被邀请识别证据或考虑他人可能正向的反应时",
+          "interpretation": "将自身的负性期待归因为他人的看法，确信他人会讨厌与嘲笑自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以肯定句陈述他人负面看法（如“他们就是会讨厌我”），忽略反证与不确定性，减少探究性的细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感觉家人虽支持但未充分理解其恐惧",
+            "预期观众会拒绝与嘲笑自己"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "社交回避",
+            "睡眠与食欲受影响"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "意识到走出舒适区参加试镜，但恐惧限制了自我选择与行动"
+          ],
+          "outcomes": [
+            "机会受限",
+            "自我实现受阻",
+            "以回避维持短期安全感但长期不自由"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为观众会讨厌自己并嘘下台",
+            "在尚无证据的情况下确信他人会负面评价"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我怀疑与自我否定",
+            "在公众演唱与面试前过度谨慎并选择回避"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家人总体支持（虽未完全理解）",
+          "对唱歌有热情与动机，愿意走出舒适区参加试镜",
+          "愿意寻求帮助且配合度高（态度积极）",
+          "有一定自我调节尝试（镜前练习、深呼吸）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、预测未来、过度概括等认知偏差显著",
+          "极度羞怯与自我怀疑，倾向回避评价情境",
+          "对他人负面评价高度敏感，依赖外部认同",
+          "焦虑影响睡眠与进食，进而削弱功能与自信"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "公众演唱恐惧与回避",
+          "antecedent": [
+            "提及才艺表演试镜",
+            "想到在公众面前演唱"
+          ],
+          "core_reason": "对他人负面评价的高度恐惧与灾难化想象（被讨厌、被嘘下台），伴随自我否定的核心信念",
+          "function": "逃避被评判与羞辱的潜在威胁，获得短期焦虑缓解",
+          "consequence": "错失演出与发展机会，持续自我怀疑与焦虑加重，睡眠与饮食受影响"
+        },
+        {
+          "behavior": "社交与求职面试回避",
+          "antecedent": [
+            "需要与陌生人互动或参加面试的情境"
+          ],
+          "core_reason": "过度概括与负性预期（认为表达不佳即证明自己不适合工作）",
+          "function": "避免失败与尴尬，减少被否定的风险",
+          "consequence": "求职受阻、难以建立新关系，进一步强化自我怀疑与社会退缩"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1577
+}

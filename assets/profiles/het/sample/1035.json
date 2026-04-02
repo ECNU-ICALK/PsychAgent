@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "20",
+      "name": "韩娜",
+      "gender": "女",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "未披露",
+      "social_status": "因对与他人外出感到不适，部分关系受影响",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题；无心理咨询/治疗史",
+      "language_features": "表达清晰、逻辑连贯，能觉察与描述焦虑，配合度较高，情绪基调中性但伴随焦虑"
+    },
+    "main_problem": "担心自己咖啡摄入过量会在未来伤害健康，由此产生持续的焦虑与担忧；每次制作或饮用咖啡都会触发焦虑，曾尝试限量但因依赖与戒断反应而困难。",
+    "topic": "情绪管理",
+    "core_demands": "希望缓解围绕咖啡摄入的焦虑，减少对日常生活与睡眠、工作表现及人际关系造成的困扰。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "没有咖啡我就无法正常运作",
+        "过量咖啡必然会损害我的健康，我会失去对健康的控制"
+      ],
+      "special_situations": [
+        {
+          "event": "制作或饮用咖啡的时刻（每日多次）",
+          "conditional_assumptions": "如果我继续喝咖啡，就会在将来出现严重健康问题",
+          "compensatory_strategies": "尝试限制摄入、查找风险信息以自我警醒",
+          "automatic_thoughts": "这杯会伤害我，我在慢慢毁掉身体",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "阅读关于咖啡危害的报道或研究",
+          "conditional_assumptions": "如果看到负面证据，就说明我一定会出问题",
+          "compensatory_strategies": "反复搜索与关注负面信息，忽略或质疑正向证据",
+          "automatic_thoughts": "这些研究证明我迟早会出事",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "尝试限制咖啡摄入并出现坐立不安、头痛等戒断反应",
+          "conditional_assumptions": "如果不喝咖啡，我就无法专注和完成工作",
+          "compensatory_strategies": "为恢复功能迅速恢复饮用咖啡",
+          "automatic_thoughts": "不喝我就完不成任务",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "与朋友外出或社交时",
+          "conditional_assumptions": "如果不能及时喝到咖啡，我就会崩溃或无法应对社交",
+          "compensatory_strategies": "减少与朋友相处或在社交中分心计划下一杯咖啡",
+          "automatic_thoughts": "我需要立刻喝一杯，否则撑不住",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望维持对身体与日常功能的稳定掌控，安心且高效地运作",
+        "fear": "害怕失去对健康的控制并遭遇严重后果（如心脏问题）而被伤害",
+        "defense_goal": [
+          "通过监控与限制咖啡来维持安全感",
+          "避免在他人面前暴露脆弱与羞耻",
+          "以理性的信息收集来降低恐惧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "觉得自己脆弱、易受健康风险伤害，依赖咖啡才能运作的人",
+          "object_representation": "可能会认为“这只是小题大做”的轻视者/不以为然者",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人提出以更平衡的视角看待咖啡风险/建议减少饮用时",
+          "interpretation": "担心对风险的淡化意味着会失去对健康的控制（将他人的建议体验为对自身安全的威胁）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以数据与研究为主陈述，语气冷静，弱化或回避主观情绪体验。"
+        },
+        {
+          "trigger_condition": "讨论是否向朋友求助或透露困扰时",
+          "interpretation": "认为一旦表达脆弱会被看轻（“这只是咖啡”）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "简短否认需要帮助，转移话题，不深入展开对支持的渴望。"
+        },
+        {
+          "trigger_condition": "在工作压力大且被建议减少咖啡时",
+          "interpretation": "认为当下任务更重要，减少咖啡会导致失败与失控",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "强调现实任务的紧迫性，以“现在不是时候”为由推迟改变。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "担心长期饮用咖啡会导致严重健康问题（如心脏问题）",
+            "每次喝咖啡时都联想到未来的伤害与最坏结局"
+          ],
+          "outcomes": [
+            "持续性焦虑与担忧",
+            "睡眠紊乱与疲惫",
+            "专注力下降、工作效率受损"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在“依赖咖啡才能运作”与“害怕被咖啡伤害”之间摇摆，体验选择与掌控的冲突",
+            "为寻求安全而不断搜集证据、设限与自我监控"
+          ],
+          "outcomes": [
+            "内在冲突与自我苛责",
+            "回避社交，生活弹性降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "认为“这只是咖啡、说出来很尴尬”，倾向贬低自我感受",
+            "在会谈中更多诉诸理性证据，谨慎表达情绪"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做",
+          "manifestations": [
+            "不与朋友讨论自己的焦虑与困扰",
+            "将对支持的需求转向自我控制（靠自我监控与限制来应对）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有自我观察能力，能识别自己的灾难化与“预测未来”等思维",
+          "愿意求助并接受逐步、现实检验的改变计划",
+          "具备一定的朋友资源（虽尚未启用）"
+        ],
+        "negative_force": [
+          "灾难化与“预测未来”的认知倾向，放大潜在健康风险",
+          "对咖啡的生理与心理依赖（戒断不适、认为不喝无法运作）",
+          "睡眠不足与节律紊乱加剧焦虑循环",
+          "羞耻与自我否定导致回避求助与社交"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度饮用咖啡（反复连续煮咖啡以维持清醒与功能）",
+          "antecedent": [
+            "感到疲倦或睡眠不足",
+            "面临工作/学习任务需要集中",
+            "出现戒断反应（坐立不安、头痛）"
+          ],
+          "core_reason": "相信没有咖啡就无法专注与完成任务，同时为避免戒断不适而继续摄入",
+          "function": "获得精力与专注；逃避戒断不适",
+          "consequence": "睡眠被进一步打乱，焦虑加剧，工作表现与人际关系受损"
+        },
+        {
+          "behavior": "围绕咖啡危害的灾难化焦虑与反复担忧",
+          "antecedent": [
+            "制作或饮用咖啡时",
+            "阅读关于咖啡负面影响的文章/研究",
+            "夜间因咖啡导致的失眠"
+          ],
+          "core_reason": "对失去健康控制的恐惧与“预测未来”的思维，使少量负向证据被过度概括",
+          "function": "通过高度警觉与担忧试图获得安全感并促使自我限制",
+          "consequence": "持续紧张与担忧、睡眠紊乱、表现下降、社交回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1035
+}

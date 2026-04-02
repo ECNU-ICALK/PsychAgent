@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "马修",
+      "gender": "男",
+      "occupation": "兽医",
+      "educational_background": "兽医医学博士",
+      "marital_status": "未婚",
+      "family_status": "有两个侄子，兄长在军队服役",
+      "social_status": "工作表现受到影响；因优先安排跑步而略微影响与家人的关系；有兄长与几位朋友的支持，但尚未向他们具体谈及此类感受",
+      "medical_history": "无重大躯体疾病；以往未经历类似心理问题，未接受心理治疗",
+      "language_features": "表达清晰、条理较好；配合度与态度积极；能具体描述触发情境与情绪变化"
+    },
+    "main_problem": "我觉得如果不能去跑步，我的整周都被毁了，这会引发焦虑和失望感。",
+    "topic": "情绪管理",
+    "core_demands": "我愿意寻找其他的应对方式，这样当我不能跑步时就不会那么焦虑。",
+    "growth_experiences": [
+      "约一年前因工作异常忙碌无法安排跑步，开始形成“错过一次跑步就会失控、整周被毁”的连锁担忧；此后每当因工作日程不可预测而错过跑步即感到强烈焦虑与失控，影响专注力、睡眠与饮食；长期依赖跑步作为主要的减压方式，缺乏其他替代策略。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的身心平衡与控制完全依赖于是否跑步",
+        "只要错过一次跑步，这一周就会变得糟糕或被毁"
+      ],
+      "special_situations": [
+        {
+          "event": "工作异常忙碌或日程不可预测，导致当天无法跑步",
+          "conditional_assumptions": "如果我错过一次跑步，我就会失去对身心的控制，整周都会崩坏",
+          "compensatory_strategies": "将跑步刚性地安排为首要任务，尽量把其他事务让位于跑步",
+          "automatic_thoughts": "这周完了，我撑不住工作压力。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "社交活动与既定跑步时间发生冲突",
+          "conditional_assumptions": "如果不把跑步放在第一位，我的状态会变糟并影响工作",
+          "compensatory_strategies": "回避或减少社交活动以确保能够跑步",
+          "automatic_thoughts": "去参加就会打乱节奏，之后都会更糟。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在周计划中看到某一天无法安排跑步的空档",
+          "conditional_assumptions": "一个缺口就意味着整周的失败",
+          "compensatory_strategies": "通过让自己更忙来顶住焦虑、试图“撑过去”",
+          "automatic_thoughts": "只要今天没跑，后面也会继续错过。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想以往偶尔错过跑步的经历（周并非完全糟糕），却只关注负面体验",
+          "conditional_assumptions": "只有完全遵守计划才算好，一点偏差就是坏的一周",
+          "compensatory_strategies": "反刍负面结果、忽略正面证据",
+          "automatic_thoughts": "我总是处理不好，一错就全错。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过稳定的跑步维持自我控制与身心平衡",
+        "fear": "害怕失去控制、被焦虑淹没并导致工作表现受损",
+        "defense_goal": [
+          "通过僵化坚持跑步并将其置于优先位来维持安全与稳定感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要依靠跑步来维持平衡的脆弱个体",
+          "object_representation": "不可预测、会打乱节奏的外部环境与他人安排",
+          "linking_affect": "焦虑、紧张、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当工作或他人邀请的社交活动影响既定跑步安排时",
+          "interpretation": "潜意识将外界要求体验为对自我平衡的威胁，认为若不跑步就会失控",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以坚定但礼貌的语气强调必须坚持跑步，详细列出不参加社交或调整安排的理由来证明其“合理性”。"
+        },
+        {
+          "trigger_condition": "当意识到某天无法跑步、或在咨询中被邀请探讨跑步以外的应对策略时",
+          "interpretation": "将“缺席一次跑步”解读为整周全坏（移情为对控制的强烈焦虑）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化与“非黑即白”的措辞（如“完了”“全毁”），语气紧张、结论化，弱化灰度与可能性讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈需要通过固定跑步来维持对生活的掌控感",
+            "面对工作不可预测的安排时感到自主性受限",
+            "为维持节奏而牺牲社交"
+          ],
+          "outcomes": [
+            "显著焦虑与失控感",
+            "睡眠与饮食规律受影响",
+            "工作专注下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。常见语言为“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“必须坚持跑步”作为硬性标准来维持稳定",
+            "用“应该”“必须”的自我要求看待日程与表现",
+            "将固定节奏视为唯一正确选择而忽略其他可能的应对方式"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在错过跑步时，来访者通常会出现强烈焦虑、难以专注，并担心整周会被“毁掉”。",
+          "unique_outcome": "在某几次因工作繁忙而错过跑步的情况下，虽仍感到焦虑，但来访者通过让自己保持更忙并“硬推着走”，一周并未完全糟糕，工作也得以推进。",
+          "reason": "不同情境与做法：当时工作任务更饱和形成分心；来访者采取保持高投入与忙碌的策略，从而部分缓解了对“整周被毁”的担忧。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意探索跑步之外的替代应对策略",
+          "具备坚持自我管理的习惯（跑步作为稳定器）",
+          "与兄长和朋友保持联系、具备一定社会支持",
+          "咨询态度积极、愿意练习去灾难化"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白认知导致焦虑升级",
+          "过度依赖单一应对方式（仅以跑步减压）",
+          "心理过滤与过度概括使积极证据被忽视",
+          "工作日程不可预测增加触发频率与失控感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在错过一次跑步时出现强烈焦虑与失控感，并以“整周被毁”的绝对化认知反应",
+          "antecedent": [
+            "工作日程不可预测或异常忙碌导致无法按计划跑步",
+            "社交活动与跑步时间冲突",
+            "在周计划中看到某天无法安排跑步的空档"
+          ],
+          "core_reason": "长期将跑步视为唯一有效的减压与维持控制的方式；对错过跑步持灾难化、非黑即白与过度概括的认知，担忧后续持续失控。",
+          "function": "逃避不受欢迎的焦虑体验并迅速恢复主观控制感（通过刚性日程与优先跑步）；以回避社交来减少节奏被打乱的风险。",
+          "consequence": "工作专注下降、睡眠与饮食受影响；社交减少并与家人互动受损，整体生活质量降低。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1475
+}

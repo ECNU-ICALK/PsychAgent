@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "李婧",
+      "gender": "女",
+      "occupation": "地质专业学生",
+      "educational_background": "阿拉巴马大学在读",
+      "marital_status": "恋爱关系（7年）",
+      "family_status": "未提及",
+      "social_status": "有少数亲密朋友可倾诉，但尚未充分分享关系不安全感的程度",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史；未经历类似的关系问题",
+      "language_features": "表达清晰、有条理，能具体描述诱发情境与自动化思维；配合度良好；语气中性但夹杂焦虑；能接受替代解释与家庭作业"
+    },
+    "main_problem": "近几个月频繁出现“交往7年的女友可能已厌倦我，想要改变或离开关系”的想法，在争吵或她的行为/日常变化时尤为明显，导致显著的焦虑与不安全感、关系紧张、自尊受影响，并干扰学习与日常专注。",
+    "topic": "人际关系",
+    "core_demands": "这些想法和怀疑显著影响我的情绪健康和我们的关系，我希望通过咨询降低焦虑与不安全感、改善对关系稳定性的看法，并维持更积极的心态。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会被伴侣抛弃",
+        "关系是不安全的"
+      ],
+      "special_situations": [
+        {
+          "event": "一次小争执后，女友显得有些疏远",
+          "conditional_assumptions": "如果对方在争执后表现出疏远，说明她厌倦我并在考虑结束关系",
+          "compensatory_strategies": "立即与对方沟通、寻求安慰与保证；自我安慰；向朋友寻求建议",
+          "automatic_thoughts": "她要分手，她可能会离开我去找别人",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "注意到女友的行为或日常惯例出现变化（与平时不同）",
+          "conditional_assumptions": "如果她的行为与以往不同，就意味着她对我和这段关系厌倦了",
+          "compensatory_strategies": "持续监控对方的行为变化、反复在脑中演练最坏情形以自我“预警”",
+          "automatic_thoughts": "她对我变了，她可能在考虑离开我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "女友主动安慰并表达关心，关系中仍有一起度过的良好时刻",
+          "conditional_assumptions": "如果她说还在乎我，这可能只是为了不伤害我，并不代表真实感受",
+          "compensatory_strategies": "否定或弱化正面证据以维持警觉，继续搜寻负面线索",
+          "automatic_thoughts": "她只是说给我听的，不是真的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "发生分歧或争执时",
+          "conditional_assumptions": "如果发生争执，就意味着关系正在走向结束",
+          "compensatory_strategies": "迅速预演分手情景、寻求他人建议以降低不确定感",
+          "automatic_thoughts": "这次争吵可能就是分手的开始",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣稳定地爱与依恋，获得明确的承诺与安全感",
+        "fear": "害怕被拒绝、被抛弃，关系突然破裂",
+        "defense_goal": [
+          "通过提前预警与不断求证来维持掌控感与安全，避免突如其来的失去"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不安全、随时可能被抛弃的伴侣",
+          "object_representation": "随时会疏远或离开的他者（女友）",
+          "linking_affect": "焦虑、不安、低落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当伴侣或咨询师提供安抚与正面证据时（强调关系中的关心与支持）",
+          "interpretation": "倾向认为对方只是为了不伤害自己而敷衍，并不真诚",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以犹疑的语气提出质疑，反复强调“不确定”“很难相信”，用追问和反问淡化正面信息，同时回到担忧情景。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "对关系不稳定的持续担忧与分手情景的反复想象",
+            "在争执或行为变化时迅速联想被抛弃",
+            "对正面证据难以接纳、需要外部保证来缓解不安全感"
+          ],
+          "outcomes": [
+            "显著的焦虑与不安全感",
+            "自尊受影响、心情低落",
+            "注意力与学业受损、日常功能下降",
+            "关系紧张与怀疑加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为女友只是为了不伤害自己而安慰，怀疑其真诚度",
+            "在行为变化时推断对方正在考虑离开关系"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "未向朋友充分分享自己的不安全感程度，倾向把焦虑与怀疑留在内心反复咀嚼"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "关系维系7年且仍有良好互动（对方会安慰、共同度过积极时刻）",
+          "愿意主动求助与沟通（与伴侣谈及担忧、寻求朋友建议）",
+          "能识别负性自动化思维并愿意尝试替代解释与行为实验",
+          "具备一定的支持系统（有少数亲密朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、预测未来与否定正面等认知歪曲突出",
+          "对不确定性耐受度低，过度关注伴侣行为与日常变化",
+          "关系冲突时焦虑强烈，自尊与情绪受损",
+          "反复担忧占用认知资源，导致学习与专注显著受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关系相关的过度担忧与灾难化想象（反复演练分手情景）",
+          "antecedent": [
+            "与伴侣发生争执或分歧",
+            "伴侣显得疏远或行为与日常惯例出现变化"
+          ],
+          "core_reason": "对亲密关系的不安全核心信念与认知歪曲（灾难化、读心术、预测未来、否定正面）在不确定情境中被激活",
+          "function": "逃避不确定带来的焦虑、通过预演最坏情形与寻求保证来获得暂时的控制感与安全感",
+          "consequence": "关系紧张与互信下降；情绪焦虑与自尊受损；学习与日常专注明显下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1401
+}

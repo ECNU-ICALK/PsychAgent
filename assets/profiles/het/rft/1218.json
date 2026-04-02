@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "47",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "此前无类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、配合度较好；能具体描述自动化思维；语气中带有挫败与焦虑；倾向自我批评与怀疑新方法的效果"
+    },
+    "main_problem": "我在户外活动时存在灾难化思维的模式。每当发生小事故（如骑行摔倒），我会立刻给自己贴上“很差/不熟练”的标签，尽管这类事件并不常见。这种负面思维影响了我对徒步和骑行的自信与乐趣。",
+    "topic": "情绪管理",
+    "core_demands": "这些负面想法正在影响我享受我的爱好，并造成不必要的压力和自我批评，所以我决定寻求咨询。",
+    "growth_experiences": [
+      "几年前经历过一次严重的骑行事故，当时压力很高、感到害怕。自那以后，只要在户外活动中出现小意外（如轻微摔倒），就会被强烈的负性自动化思维所触发，逐渐形成“一次失误就代表我整体不行”的认知模式，并越来越关注负面部分而忽视总体积极体验。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "犯一次错就证明我不行",
+        "我的价值取决于能否做到无失误与完美表现"
+      ],
+      "special_situations": [
+        {
+          "event": "骑行时发生轻微摔车",
+          "conditional_assumptions": "如果出现一次事故或失误，就说明我整体能力不足，不应该继续这些活动",
+          "compensatory_strategies": "进行自我批评并产生退出念头（如“我不该在这里”），减少参与以避免再犯",
+          "automatic_thoughts": "我很差劲；我不该在这里",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "徒步或骑行过程中出现小的失误或不顺",
+          "conditional_assumptions": "如果不能做到零错误，就表示不熟练且不安全",
+          "compensatory_strategies": "过度关注负面细节，忽视顺利与愉快的时刻；尝试用正面自我对话与正念压制负面想法（效果有限）",
+          "automatic_thoughts": "一次差错就说明我不行",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "回想几年前的重大骑行事故或在准备进行户外活动时",
+          "conditional_assumptions": "如果再次发生意外，就会证明我不适合这些活动，后果会很糟糕",
+          "compensatory_strategies": "在活动中高度紧张、提前预期最坏结果，以求“保护”自己",
+          "automatic_thoughts": "又要出事了，我会搞砸/受伤",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "完成一次整体顺利的骑行或徒步后",
+          "conditional_assumptions": "只要曾经发生过事故，任何积极表现都不算数",
+          "compensatory_strategies": "将顺利体验视为偶然或无意义，不予记录和肯定",
+          "automatic_thoughts": "这些好的经历不算数，我还是不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为胜任、保有自我价值并重新享受户外活动的乐趣",
+        "fear": "害怕犯错会证明自己无能、再次受伤或被否定，从而失去自我价值与乐趣",
+        "defense_goal": [
+          "通过自我批评与回避来降低失败和受伤的可能性",
+          "以严苛标准维持控制与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的自己",
+          "object_representation": "被内化为危险且苛刻的户外环境/活动（随时可能以事故“评判”我）",
+          "linking_affect": "焦虑、羞愧、自我批评"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出尝试新方法或布置作业时",
+          "interpretation": "担心这些方法对自己不会起作用，认为失败几乎不可避免",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和但保留的语气表达怀疑：先承认建议的价值，再强调“以前试过效果不大”，提出顾虑，避免立即作出承诺。"
+        },
+        {
+          "trigger_condition": "谈及重大事故的细节或其后影响时",
+          "interpretation": "将事故带来的恐惧与当前的小失误等同，倾向以理性描述代替情感体验以维持控制",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用平静、描述性语言陈述事实，尽量少用情绪词，避免深入探讨当下的感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有几位朋友但并未与他们讨论自己的负面思维模式与困扰",
+            "在活动中因自我标签化与自我批评而产生自我隔离感，难以从他人处获得共鸣与支持"
+          ],
+          "outcomes": [
+            "主观压力增大与焦虑持续",
+            "自我批评加重，活动的乐趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "出现“我不该在这里”等“应该/必须”句式",
+            "将“零失误”等苛刻标准视为必须遵守的个人准则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评与标签化（“我很差”）",
+            "对新方法效果持怀疑态度，谨慎尝试，难以允许积极体验进入"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "长期参与徒步与骑行并具备一定安全与技术经验",
+          "愿意寻求专业帮助并尝试作业（记录积极体验、使用自我宣言）",
+          "能够识别事实证据（多数活动顺利）以反驳消极信念",
+          "拥有朋友资源，存在潜在社会支持"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括、心理过滤与否定积极等认知扭曲显著",
+          "自我标签化与“应该”句式（内摄）加重自我否定",
+          "重大事故的创伤性记忆作为强触发线索",
+          "对策略效果缺乏信心，倾向怀疑与预期失败",
+          "未主动利用社会支持，倾向独自承受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在户外活动中出现灾难化与自我标签化的自动化思维，伴随焦虑与回避倾向",
+          "antecedent": [
+            "准备或进行徒步与骑行时",
+            "出现轻微失误（如骑行摔车、徒步小滑倒）",
+            "回忆几年前的重大骑行事故"
+          ],
+          "core_reason": "重大事故后形成“犯错即失败”的内在规则与注意偏差，负性经历占据注意而抵消正面经验",
+          "function": "通过自我批评与回避以逃避失败与潜在危险，维持控制与主观安全感",
+          "consequence": "焦虑增加、乐趣下降、可能减少参与活动并持续自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1218
+}

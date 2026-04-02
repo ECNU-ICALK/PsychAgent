@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "李逸",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或类似心理问题经历",
+      "language_features": "表达清晰，能具体描述情绪与场景；态度偏消极；愿意配合咨询；可识别自身消极思维模式"
+    },
+    "main_problem": "我一直认为自己的名字很普通、很无聊，这让我感到自卑和缺乏独特性。这些关于名字的感受从记事起就存在，并影响了我的自尊。尤其在社交场合或自我介绍时，这种信念会加剧。",
+    "topic": "自我探索",
+    "core_demands": "我只想不再因为名字而感到自卑，我想找到方法让自己更自信、更独特。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我很普通，毫无特色",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合向陌生人进行自我介绍",
+          "conditional_assumptions": "如果我的名字很普通，人们就会认为我也很普通、不值得关注",
+          "compensatory_strategies": "回避或简化自我介绍、减少与陌生人接触",
+          "automatic_thoughts": "他们会觉得我只是人群中的一个普通人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在公共场合听到他人叫自己的名字",
+          "conditional_assumptions": "当我感觉自己很普通时，就证明我确实普通",
+          "compensatory_strategies": "试图忽视或分散注意力来减少不适",
+          "automatic_thoughts": "这又提醒我只是人群中的一个普通人",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "初次见面被问到名字",
+          "conditional_assumptions": "如果名字不独特，我就不可能让人留下好印象",
+          "compensatory_strategies": "避免深入交流、迅速结束自我介绍",
+          "automatic_thoughts": "我的名字很无聊、没有任何亮点",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友交谈时想到要分享对名字的困扰",
+          "conditional_assumptions": "如果我表达这种担忧，别人会觉得我幼稚或小题大做",
+          "compensatory_strategies": "不向朋友透露此困扰，选择沉默",
+          "automatic_thoughts": "他们会觉得我在无理取闹、很可笑",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被认可为独特而有价值的人",
+        "fear": "害怕因“普通”而被忽视、被评价为无聊，从而失去自我价值感",
+        "defense_goal": [
+          "通过压抑相关感受、回避自我介绍与不分享困扰来保护自尊，避免被负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "普通且不值得被关注的人",
+          "object_representation": "挑剔、会以名字来评判自己的人群",
+          "linking_affect": "自卑、焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请详细描述与名字相关的情绪和经历时",
+          "interpretation": "李逸潜意识认为他人会把自己看作“普通、不值得关注”，从而加剧羞愧与回避",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气温和、共情且不评判；邀请其具体化场景与命名情绪；使用开放式问题帮助其逐步接触而非回避情感体验。"
+        },
+        {
+          "trigger_condition": "当咨询师提出积极重构或挑战“普通/无聊”的消极标签时",
+          "interpretation": "李逸认为改变不太可能（“这部分我太久了”），以此维护现有认知的稳定性",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "承认其担心与怀疑，使用小步渐进的目标；运用共同证据检视与行为实验，避免争辩式说服。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将“名字是否独特”与“自我是否有意义/有价值”紧密绑定",
+            "在社交与自我介绍时体验到“只是人群中的一个普通人”的感受"
+          ],
+          "outcomes": [
+            "自尊受损与自我否定",
+            "社交焦虑与自我介绍回避",
+            "对外部评价高度敏感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人如何看待自己的名字与独特性",
+            "在自我介绍前后反复自我评估与担忧"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友分享关于名字的困扰，选择沉默与独自承受",
+            "把期待他人理解的冲动转为自我压抑"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "在听到名字引发不适时选择忽视或分散注意力",
+            "在需要自我介绍时尝试快速略过并避免深入交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在认识新朋友或需要自我介绍的情境时，李逸通常会因“自己很普通”的信念而感到自卑与焦虑，并倾向于回避或缩短互动。",
+          "unique_outcome": "在与亲密朋友相处的聚会中，李逸并未像平常那样担心名字是否普通，而是更自在地交流，体验到更高的自信与放松。",
+          "reason": "不同支持与情境：朋友已了解他且互动安全，减少对外部评价的担心；关系氛围稳定，使其注意力从“名字的独特性”转向真实互动。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有稳定的朋友支持网络，可在其中体验自信与安全感",
+          "愿意求助并尝试改变（已寻求咨询）",
+          "能识别并描述自身的消极认知模式"
+        ],
+        "negative_force": [
+          "过度依赖外部评价以确认自我价值",
+          "消极认知偏差显著（Mental Filtering、Overgeneralization、All-or-Nothing Thinking、Disqualifying the Positive、Mind Reading）",
+          "将名字与自我价值刚性绑定，形成僵化的消极标签"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合自我介绍时出现焦虑与回避，并伴随显著的消极自我评价",
+          "antecedent": [
+            "初次见面被问到名字",
+            "在公共场合被他人叫到名字",
+            "需要向陌生人进行自我介绍的场景"
+          ],
+          "core_reason": "将“名字普通”过度概括为“自我普通、不独特”，并预测他人会因此贬低自己，引发自卑与焦虑",
+          "function": "逃避潜在的负面评价与羞愧感，短期降低焦虑",
+          "consequence": "自信心下降，社交压力增大，互动质量受损，进一步强化“自己很普通”的信念"
+        },
+        {
+          "behavior": "不向朋友分享关于名字的困扰，选择沉默",
+          "antecedent": [
+            "与朋友交谈时想到要表达此困扰",
+            "在谈及自我形象或自信的话题时"
+          ],
+          "core_reason": "担心被认为幼稚或小题大做，进行读心术式推断并回避可能的评价",
+          "function": "避免尴尬与被否定的风险，维持表面安全",
+          "consequence": "难以获得现实检验与情感支持，负性信念得不到修正而持续固化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1392
+}

@@ -1,0 +1,124 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "2岁时父亲去世；其余家庭成员与关系未提及",
+      "social_status": "有人际支持（可与朋友谈一般事务），但未与他人讨论此具体困扰；因自卑与回避，人际互动受到影响",
+      "medical_history": "无重大躯体疾病；无既往心理咨询/治疗；未有类似问题史",
+      "language_features": "表达清晰、逻辑性较好，态度中性，配合度高，能够自我反思"
+    },
+    "main_problem": "因热爱钓鱼而认为他人会觉得自己不有趣，由此产生自卑与自我怀疑；在谈及或进行与钓鱼相关的活动时该想法反复出现，导致社交回避与不适。",
+    "topic": "人际关系",
+    "core_demands": "希望更自如地分享自己的兴趣而不担心他人眼光，提升自尊并改善社交中的自在感。",
+    "growth_experiences": [
+      "2岁时父亲去世（仅此信息，其他成长与家庭细节未提及）"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不有趣的人",
+        "我不够吸引人，别人不会认可我"
+      ],
+      "special_situations": [
+        {
+          "event": "朋友对钓鱼的随口评论，暗示钓鱼很无聊",
+          "conditional_assumptions": "如果我的爱好被认为无聊，那么我这个人也会被视为无趣；被否定意味着我不值得被关注",
+          "compensatory_strategies": "避免谈论钓鱼，在社交中减少提及相关话题以躲避评价",
+          "automatic_thoughts": "她觉得我很无聊，其他人大概也是这样想的",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交场合准备或正在谈及自己对钓鱼的喜爱",
+          "conditional_assumptions": "只要提起钓鱼，别人就会觉得我无趣并疏远我",
+          "compensatory_strategies": "转移话题、沉默、减少社交接触以避免可能的尴尬与否定",
+          "automatic_thoughts": "一说起钓鱼大家就会觉得我很无聊",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "参与与钓鱼相关的活动时联想到他人可能的看法",
+          "conditional_assumptions": "我的价值取决于他人对我兴趣的认可；如果他们不认可，我就不值得被关注",
+          "compensatory_strategies": "降低在朋友圈/社交中分享爱好的频率，弱化相关表达",
+          "automatic_thoughts": "如果他们觉得这很无聊，就说明我不值得被关注",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望带着真实兴趣被他人接纳与欣赏",
+        "fear": "害怕被评判、被视为无趣而遭到疏远与否定",
+        "defense_goal": [
+          "通过回避与自我审查来减少被评价与拒绝的风险",
+          "保持低调以维持安全感并避免羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被否定、无趣且不被重视的自己",
+          "object_representation": "挑剔、带有贬低与评判色彩的他人（如那位发表评论的朋友）",
+          "linking_affect": "羞耻、焦虑、孤立"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师指出回避带来的代价或提出行为实验时",
+          "interpretation": "如果按建议去分享爱好，可能会被他人评判与否定",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静语气强调“这样更轻松/避免尴尬”，用理由化的表达为回避辩护，减少情绪表达并避免深入探讨脆弱感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心被视为无趣而在社交中回避谈论爱好",
+            "减少社交接触，描述自己感到“脱节/疏离”",
+            "过度关注他人评价，难以以真实自我与人接触"
+          ],
+          "outcomes": [
+            "孤立与疏离感增加",
+            "自尊下降与自我怀疑",
+            "社交回避与紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中多次表达对他人看法的担心，语气谨慎（如“这让我紧张”）",
+            "对尝试分享爱好持谨慎态度，担忧被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有支持性朋友（如Sarah），一般交谈感到舒适放松",
+          "能觉察并描述负性自动想法，愿意求助",
+          "愿意尝试行为实验与新方法",
+          "对钓鱼的热爱带来稳定兴趣与潜在积极身份"
+        ],
+        "negative_force": [
+          "倾向读心术与跳结论，预设他人负面评价",
+          "过度在意他人看法，产生自我怀疑与低自尊",
+          "以回避（沉默、减少社交）作为主要应对，导致关系疏 Output too long error. Please retry with shorter output."
+        ]
+      }
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1864
+}

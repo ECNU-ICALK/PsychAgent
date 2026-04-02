@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "周明宇",
+      "gender": "男",
+      "occupation": "加油站兼职员工、旅行百科全书推销员",
+      "educational_background": "高中学历",
+      "marital_status": "单身",
+      "family_status": "未提及直系家庭信息",
+      "social_status": "有少量朋友可进行日常交流，但不愿讨论更深层感受；与同事关系因自卑感受到影响",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；无相似心理问题史",
+      "language_features": "未提及"
+    },
+    "main_problem": "我强烈渴望成为世界上最顶尖的百科全书推销员，但我常常否定自己的成就，感觉成功只是暂时的。这导致我感到自我不足和无望。",
+    "topic": "职业发展",
+    "core_demands": "我意识到这些消极想法和感受正在影响我的动机和整体幸福，促使我寻求咨询。",
+    "growth_experiences": [
+      "几年前开始做旅行百科全书推销后，因需要持续达成销售目标以及行业竞争激烈，逐渐出现将积极结果过滤掉、否定成就、并预测未来失败的思维模式；每次成功销售日后都会觉得只是侥幸，认为不会再发生。此前未有类似心理困扰或接受相关治疗史。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不称职",
+        "我的成功是暂时的、不可持续",
+        "如果不是完美，他人就会认为我无能或懒惰"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次销售业绩创历史新高的当天或次日回顾成绩",
+          "conditional_assumptions": "如果无法稳定复制这样的成绩，就说明我只是走了运，实际上不够好",
+          "compensatory_strategies": "设定更高的销售目标、加倍投入工作来证明自己，并尝试自我肯定语",
+          "automatic_thoughts": "这只是一次侥幸，永远不会再发生。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到客户或同事的积极反馈与称赞",
+          "conditional_assumptions": "只有完美无瑕才算真正优秀，别人的夸奖不代表真实能力",
+          "compensatory_strategies": "否定赞美、专注于不足之处，继续过度打磨细节",
+          "automatic_thoughts": "他们只是客套，我的工作其实不够好。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "面对竞争激烈的销售环境与高压业绩目标",
+          "conditional_assumptions": "如果今天不是顶级表现，就会被视为无能或懒惰",
+          "compensatory_strategies": "过度追求完美，事无巨细地反复推敲销售话术和计划",
+          "automatic_thoughts": "我必须做到完美，否则别人会觉得我不称职。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "在复盘工作时关注到细微错误或瑕疵",
+          "conditional_assumptions": "只要存在任何缺点，整体就不算成功",
+          "compensatory_strategies": "忽略已达成的指标与积极成果，反复纠结不足",
+          "automatic_thoughts": "我做得不够好，这些错误说明我失败了。",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见为顶尖且稳定成功的推销员，获得持续的成就感",
+        "fear": "害怕被视为无能或懒惰；害怕成功不可持续从而暴露自身不足",
+        "defense_goal": [
+          "通过维持高标准与完美主义来避免被批评和否定",
+          "否认或贬低积极反馈以维持对自我评价的掌控感，减轻失控与暴露感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、需要不断证明自己的从业者",
+          "object_representation": "他人（同事、客户、上级）是苛刻的评判者和挑剔的观众",
+          "linking_affect": "焦虑、羞耻、无力感"
+        },
+        {
+          "self_representation": "孤立且不被理解的个体",
+          "object_representation": "朋友是表面支持但难以承载深层情绪的他者",
+          "linking_affect": "孤独、无意义感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人给予正面反馈或咨询师表达肯定、提出建议时",
+          "interpretation": "来访者潜意识倾向认为对方只是客套，真实看法是自己不够好（移情：将内在批判投射到他人的评价）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "礼貌但冷淡地淡化赞美，强调不足之处，避免深入讨论情感体验。"
+        },
+        {
+          "trigger_condition": "面对高标准或紧迫截止日期的任务/销售目标时",
+          "interpretation": "将外界的标准内化为绝对规则，认为不完美就会被指责（内在批判加剧）",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
+          "response_instruction": "使用“必须/应该”等绝对化表述，强调标准而非感受，语气坚硬、少有情感流露。"
+        },
+        {
+          "trigger_condition": "当咨询师建议进行行为实验、尝试“足够好”的工作标准时",
+          "interpretation": "担心一旦不完美就会被视为懒惰或无能，预期负面评价的到来",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "提出诸多理由解释为何现在不能尝试，语速加快、逻辑密集，用理性论证回避情感不适。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "频繁否定成就，难以从成功中获得稳定意义感",
+            "将成功视为偶然、不足以证明自我价值"
+          ],
+          "outcomes": [
+            "绝望感增加",
+            "动机下降",
+            "职业功能受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友但不愿讨论更深层情感",
+            "人际互动因自卑受到影响"
+          ],
+          "outcomes": [
+            "情感隔离感增强",
+            "支持感不足"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“必须/应该”的自我要求",
+            "把外部业绩标准当作绝对真理",
+            "认为存在瑕疵就不算成功"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "预设他人会认为自己无能或懒惰",
+            "把可能的负面评价归因于他人而非自身假设"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评、难以接纳正面反馈",
+            "在互动中谨慎而压抑，避免暴露脆弱"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在成功销售日后，来访者通常会将成绩视为偶然，并迅速陷入自我否定与对未来失败的预期，导致动力降低与睡眠受扰。",
+          "unique_outcome": "在某次销售日，来访者卖出了有史以来最多的百科全书，并获得客户与同事的积极反馈，客观结果显著好于以往。",
+          "reason": "线索：不同做法——曾设定销售目标并持续主动拜访客户；不同情境——当天客户需求更匹配，促成交易更顺利，因此出现了更好的结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "强烈的职业动机与目标导向（渴望成为顶尖推销员）",
+          "曾有高销售业绩的客观证据可供现实检验",
+          "愿意尝试‘现实检验’与行为实验",
+          "具备一定的任务分解与时间管理尝试经验",
+          "拥有基础的朋友支持网络（虽仅限浅层交流）"
+        ],
+        "negative_force": [
+          "否定正面思考、心理过滤、预测未来、个人化等认知偏差",
+          "完美主义与绝对化标准导致压力与拖延",
+          "难以接纳他人积极反馈，内在自我否定强",
+          "对失败的灾难化预期削弱动机",
+          "睡眠与饮食紊乱、人际关系受损，进一步加剧无力感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在重要任务/销售目标下过度追求完美，反复打磨细节导致拖延与疲惫",
+          "antecedent": [
+            "面对重要项目或高压业绩目标",
+            "临近截止日期时",
+            "意识到存在细微瑕疵或潜在不足时"
+          ],
+          "core_reason": "核心信念与条件假设：不完美等于不称职；只有完美才不会被视为懒惰或无能；成功不可持续需要加倍证明。",
+          "function": "逃避被负面评价的风险并维持控制感（通过过度投入与打磨来降低焦虑）",
+          "consequence": "职业表现受损、错过截止、身心疲惫；睡眠与饮食紊乱、人际关系受影响。"
+        },
+        {
+          "behavior": "在收到正面反馈时立即否定或贬低其有效性",
+          "antecedent": [
+            "同事、客户或上级给予称赞与肯定时",
+            "销售业绩提高、达成目标后复盘"
+          ],
+          "core_reason": "认为只有完美无瑕才算真正优秀；否认积极反馈可减少暴露不足的焦虑并维持自我观一致性。",
+          "function": "逃避外部评价压力、减少焦虑，维持对自我价值的控制感",
+          "consequence": "自尊受损、动机下降，与同事的关系受影响，削弱持续改进的内在驱动力。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1119
+}

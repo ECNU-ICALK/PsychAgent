@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "李娜",
+      "gender": "女",
+      "occupation": "渔民",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚，育有两个孩子",
+      "family_status": "与配偶和孩子共同生活",
+      "social_status": "与配偶关系因其消极心态而紧张；有一位亲密朋友但尚未分享失败感与悲观情绪",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无显著身体疾病",
+      "language_features": "态度中性；表达清晰，能具体描述经历与想法；在咨询中愿意配合（同意记录日记）"
+    },
+    "main_problem": "我在钓鱼之旅中体验到失败感和悲观，这些感受始于最近一次不成功的钓鱼经历。",
+    "topic": "情绪管理",
+    "core_demands": "因为失败感和悲观开始影响整体情绪与对活动的享受，寻求咨询以改善这些感受。",
+    "growth_experiences": [
+      "一次特别糟糕的钓鱼之旅：来访者期望捕到太阳鱼，数小时尝试不同地点与技术后仍未捕到任何鱼。这次挫败导致其失败感与悲观显著上升，随后每次计划钓鱼都会恐惧再次失败，活动乐趣明显下降。",
+      "一次非常成功的钓鱼经历：上个夏天，来访者曾抓到多种鱼类，感到骄傲与成就，心态更放松且自信，专注于享受过程而非结果。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "最近一次钓鱼中，期待抓到太阳鱼但数小时尝试不同地点和技术仍未有收获",
+          "conditional_assumptions": "如果没有达到预期目标，就说明我不够好、很糟糕",
+          "compensatory_strategies": "在同一次钓鱼中不断更换钓点与技术以证明自己能行",
+          "automatic_thoughts": "我下次大概也会失败；我可能再也抓不到鱼了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每次计划下一次钓鱼行程时",
+          "conditional_assumptions": "如果我再次失败，就意味着我不适合这份工作，我的自我价值会被否定",
+          "compensatory_strategies": "减少与他人（朋友）分享内心感受，独自承受以避免被评价",
+          "automatic_thoughts": "我又会失败；我不配做一名渔民",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回顾过往钓鱼经历时，近期的失败遮蔽过去的成功",
+          "conditional_assumptions": "只有持续、近期的成功才算数，过去成功不代表我有能力",
+          "compensatory_strategies": "聚焦并反复思考失败，轻视或忽略成功的证据",
+          "automatic_thoughts": "过去的成功都不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过钓鱼的成功来确认自我价值与胜任感",
+        "fear": "害怕失败会证明自己不够好，身份与自我价值受威胁",
+        "defense_goal": [
+          "通过悲观与预先预期失败来降低失望的冲击",
+          "回避向他人表达感受以避免被评判"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且不够好的从业者",
+          "object_representation": "配偶与孩子是受到自己负面情绪影响的亲密他者",
+          "linking_affect": "恐惧、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当回忆最近失败的钓鱼经历或计划下一次出行时",
+          "interpretation": "将一次失败等同于总体无能，并认为未来必然失败（将自我价值与业绩紧密捆绑）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以共情而不评判的语气指出其否定过往成功的倾向，邀请其辨识与整合成功证据；使用开放式提问，引导其将一次失败与整体能力区分。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将钓鱼成功与自我价值强力绑定；一次失败即质疑“我是谁/我是否有价值”",
+            "活动乐趣下降，对生活其他兴趣也减弱"
+          ],
+          "outcomes": [
+            "恐惧失败与悲观",
+            "情绪低落与退缩",
+            "与家人关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "反复自责“我不够好/我很糟糕”",
+            "用一次失败定义自己与未来",
+            "计划出行前过度担忧、预期失败"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想向外表达或寻求他人帮助的冲动，转而对自己做，与“冲动”对应",
+          "manifestations": [
+            "与朋友有联系却不分享失败感与悲观情绪",
+            "在家庭中更易怒和退缩，将负面情绪向内消化而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在钓鱼活动中，来访者通常会在计划或进行时产生失败恐惧与悲观，并因此降低对活动的享受",
+          "unique_outcome": "上个夏天的一次钓鱼之旅中，来访者抓到了多种鱼类，心态更放松与自信，专注于享受过程，并体验到骄傲与成就",
+          "reason": "不同心态与做法：当时更放松、自信，并将注意力放在过程本身而非结果，因此未出现灾难化预测与过度担忧"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有多次成功的钓鱼经验与能力基础（曾有许多好的钓鱼之旅）",
+          "愿意尝试策略调整（曾更换钓点与技术）",
+          "具备社会支持资源（有一位亲密朋友可交流）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白的思维模式，倾向预测未来为失败",
+          "否定正面经验，过去成功“算不得数”",
+          "将自我价值与业绩过度绑定，失败即自我否定",
+          "回避表达与求助，独自承受压力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在计划或进行钓鱼时出现对失败的强烈恐惧与悲观预测",
+          "antecedent": [
+            "计划下一次钓鱼行程",
+            "回想最近一次失败的钓鱼经历",
+            "面对工作中的钓鱼任务与绩效期待"
+          ],
+          "core_reason": "一次失败被过度概括并用于定义自我能力，将自我价值紧密捆绑于钓鱼成败，形成“预测未来”“非黑即白”的认知链条",
+          "function": "逃避潜在失败带来的强烈负面感受与自我价值受损体验",
+          "consequence": "对钓鱼与其他活动的享受下降，工作表现受损，整体情绪低落"
+        },
+        {
+          "behavior": "在家庭互动中表现出易怒与退缩",
+          "antecedent": [
+            "计划或进行钓鱼前后心情低落",
+            "近期失败经历后的持续消极心态"
+          ],
+          "core_reason": "受失败感与悲观的认知与情绪影响，将压力带入家庭互动",
+          "function": "通过减少与他人接触来避免暴露与面对自认为的“不够好”和失败感",
+          "consequence": "与配偶关系紧张、与孩子互动受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 306
+}

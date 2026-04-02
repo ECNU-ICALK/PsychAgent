@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "64",
+      "name": "王大卫",
+      "gender": "男",
+      "occupation": "飞行员（近期晋升为监督/行政角色）",
+      "educational_background": "飞行员培训/认证",
+      "marital_status": "未提供",
+      "family_status": "父母均为军人；饲养两只比格犬（Chance 与 Boomer）",
+      "social_status": "其自述与同事关系可能因负面自我认知而受影响",
+      "medical_history": "无重大躯体疾病史；此前未经历类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较好，能反思；情绪低落，以否定性自评为主，常使用“我不够好”“我是失败者”等标签化与非黑即白的表述；配合度良好"
+    },
+    "main_problem": "在工作中获得了一次并非自己期望的晋升后，感到作为飞行员的失败，引发失望与自我怀疑，并持续在工作与职业思考中困扰。",
+    "topic": "职业发展",
+    "core_demands": "这些负面想法与感受正在影响心理健康与整体工作满意度，因此希望通过咨询加以缓解与改善。",
+    "growth_experiences": [
+      "原生家庭：父母均为军人（成长在军人家庭；材料未提及其具体影响）"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者（作为飞行员）"
+      ],
+      "special_situations": [
+        {
+          "event": "公司宣布晋升为监督/行政岗位而非期望的领航飞行岗位",
+          "conditional_assumptions": "如果没有获得我设定的目标职位（领航飞行），就说明我不够好、是失败者",
+          "compensatory_strategies": "设定更高标准并更加努力以证明自己；尝试理性化并关注积极面，但难以维持",
+          "automatic_thoughts": "我没得到想要的晋升，我作为飞行员是失败者/我不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每当想到工作或职业抱负",
+          "conditional_assumptions": "必须实现既定职业路径的下一步，否则我的职业不算成功",
+          "compensatory_strategies": "持续反刍并自我检视职业目标以寻找不足；回避与父母讨论这类感受",
+          "automatic_thoughts": "我在职业上没有成功，所有努力都白费了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回忆以往的职业成就（如成功处理复杂航班）",
+          "conditional_assumptions": "除非达到理想职位，其他任何成就都不算数",
+          "compensatory_strategies": "忽视或贬低既往成功以维持对目标的高压要求",
+          "automatic_thoughts": "那些成就现在都不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "将当前监督/行政岗位视为“被困在办公室、退步”",
+          "conditional_assumptions": "只有持续在一线领航与带教才算职业前进，行政岗位意味着后退",
+          "compensatory_strategies": "用负面标签定义角色价值，以保持简化的评价框架",
+          "automatic_thoughts": "这个角色是退步，说明我不适合成为领航飞行员",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为优秀且具领导力的飞行员，职业道路可控并体现自我价值",
+        "fear": "害怕不够好、被否定，担心被视为失败者而失去职业意义",
+        "defense_goal": [
+          "通过以单一目标与高标准评估自我来维持控制感与确定性",
+          "以理智化与否定积极来降低失望与脆弱情绪的强度"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的职业人",
+          "object_representation": "组织/他人被内化为严格的评判者或拒绝者",
+          "linking_affect": "失望、羞愧、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注既往成就或积极面时",
+          "interpretation": "认为除非实现特定目标，否则任何成就都不算数（将肯定视为无关紧要）",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "先充分共情其失望，再温和点明具体事实与证据；使用开放式问题邀请其辨识积极面，语气平和、避免对立与评价"
+        },
+        {
+          "trigger_condition": "当讨论“监督/行政岗位也可能是职业发展的另一条路径”时",
+          "interpretation": "将当前岗位全盘视为“倒退/失败”，无法整合好坏并存",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "使用对比与连续谱提问，帮助其看到灰度与多维度；语气支持性、缓慢、给停顿以容纳情绪"
+        },
+        {
+          "trigger_condition": "当谈到他如何处理失望与焦虑（其自述“试图理性化并专注积极”）时",
+          "interpretation": "以抽象分析与逻辑自我说服来与情感保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "邀请回到当下体验，具体化身体感受与情绪词；减少解释性语言，用温和语气与慢速节奏促进情绪接触"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将职业成功绑定于单一目标职位，未达成即视为整体失败",
+            "对并非理想的晋升感到失望，质疑既往成就的价值与意义"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "自我怀疑",
+            "工作动机下降",
+            "与同事关系可能受影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“领航飞行”视为职业发展的下一逻辑步骤并内化为必须达到的标准",
+            "以外在职位标准单一地定义自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“我不够好”“我是失败者”",
+            "以单一目标衡量自我，担心与同事关系因自我评价受影响"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到工作或职业抱负时，来访者通常会反复沉思并将自己贴上“失败者”标签，情绪低落且工作动力下降。",
+          "unique_outcome": "在过去某次复杂航班任务中成功着陆并处理复杂情况，当时感到自豪与胜任（未出现“失败者”的旧反应）。",
+          "reason": "不同情境与线索：该次任务具有挑战性且成功完成，带来即时的能力与贡献体验，因此未被自我否定主导。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾成功处理复杂航班并体验到自豪与胜任",
+          "组织给予晋升，说明他人对其能力有认可",
+          "愿意尝试重构思维并探索新角色与长期目标的连接（有改变意愿）"
+        ],
+        "negative_force": [
+          "非黑即白思维与过度概括",
+          "否定积极与心理过滤",
+          "高期望与自我苛责导致压力与反刍",
+          "自我贴标签（失败者）引发持续的自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复沉思与自我否定（将自己视为飞行员的失败者）",
+          "antecedent": [
+            "接到并非理想的晋升（监督/行政岗位）",
+            "想到工作或职业抱负"
+          ],
+          "core_reason": "以单一目标职位来定义整体职业价值，伴随非黑即白、过度概括与否定积极的认知偏差",
+          "function": "短期逃避不确定感与失败焦虑，通过自我否定获得一种“可解释的确定性”",
+          "consequence": "情绪低落与失望、自我怀疑、工作动机下降、与同事关系可能受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1768
+}

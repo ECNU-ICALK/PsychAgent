@@ -1,0 +1,199 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "李静",
+      "gender": "女性",
+      "occupation": "兽医助理",
+      "educational_background": "兽医技师认证",
+      "marital_status": "单身",
+      "family_status": "独居，养有多只宠物",
+      "social_status": "与动物收容所志愿者的关系因疏远而紧张；有少数支持的朋友，但无法充分理解其与收容所相关的焦虑",
+      "medical_history": "未有类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述经历与感受；语气消极，存在自我责备与怀疑；对改变持谨慎态度但愿意尝试"
+    },
+    "main_problem": "我感到焦虑并回避回到动物收容所，因为我相信那里的动物会因为不记得我而恨我，这让我内疚并自责。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这一问题开始影响我的日常生活以及我对与动物共事的热情。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好/不胜任",
+        "我会被拒绝（不被记住就说明我没有价值）"
+      ],
+      "special_situations": [
+        {
+          "event": "几个月前再次探访动物收容所时，部分动物没有像以前那样热情或不认出我",
+          "conditional_assumptions": "如果动物不记得我，就说明我不够好或是失败者",
+          "compensatory_strategies": "回避再去收容所，并在脑中反复回放该经历，自我责备",
+          "automatic_thoughts": "他们会恨我，是我让他们失望了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "每次想到要回到收容所",
+          "conditional_assumptions": "如果再次去，所有动物都会拒绝我，情况只会更糟",
+          "compensatory_strategies": "通过彻底回避来降低焦虑",
+          "automatic_thoughts": "我再也不能回去了，一定会发生最坏的情况",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在与其他收容所志愿者互动或想到与他们见面时",
+          "conditional_assumptions": "如果动物不记得我，志愿者也会认为我是失败者",
+          "compensatory_strategies": "与志愿者保持距离，减少联系以避免被评价",
+          "automatic_thoughts": "他们会看不起我，觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在本职工作中获得动物信任、成功处理困难个案时",
+          "conditional_assumptions": "这些正面表现不算数，因为收容所的动物不记得我才是真实的证明",
+          "compensatory_strategies": "忽视积极证据，继续沉浸于负面解释",
+          "automatic_thoughts": "这些都不能说明我好，只是巧合",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被动物与人无条件地记住、认可与接纳",
+        "fear": "害怕被拒绝或被遗忘，从而证明自己没有价值与不胜任",
+        "defense_goal": [
+          "通过回避保持安全，减少被拒绝的可能",
+          "用自我批评与否认积极来维持控制感，避免再受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要被记住、容易被否定的失败者",
+          "object_representation": "可能会拒绝或遗忘自己的客体（动物）",
+          "linking_affect": "恐惧、内疚、羞耻"
+        },
+        {
+          "self_representation": "不被接纳的失败者",
+          "object_representation": "批判性的评判者（志愿者会看不起自己）",
+          "linking_affect": "焦虑、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议通过观察与行为实验来收集证据、挑战信念时",
+          "interpretation": "来访者倾向将建议理解为否定其情感体验，担心再次被证明“我不够好”",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以谨慎、怀疑的语气回应，强调“即使看到也很难相信”，避免立即承诺改变。"
+        },
+        {
+          "trigger_condition": "当咨询师指出其在工作中表现良好、动物信任她时",
+          "interpretation": "来访者认为这些正面证据不重要或不适用于收容所场景",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "用解释性语言弱化正面证据，强调情境差异，继续聚焦负面例外。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且主要情感连接对象是动物",
+            "与志愿者的关系因回避而紧张、疏远",
+            "担心被动物拒绝/遗忘引发被抛弃与孤独感"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "回避收容所",
+            "睡眠紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对与动物共事的热情降低",
+            "当动物不记得自己时，感到“过去的努力都不重要”"
+          ],
+          "outcomes": [
+            "职业倦怠感",
+            "自我贬低与内疚"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁出现“我应该让动物记得我/我不该让他们失望”之类的语句",
+            "将被动物记住视为自我价值的唯一依据"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将自身的自卑与恐惧投射为“动物会恨我”“志愿者会看不起我”"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责，反复检视“我是否不够好”",
+            "对新的尝试（观察记录、行为实验）非常谨慎且持怀疑态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对动物的强烈关怀与投入",
+          "具备专业技能，处理困难个案良好，动物在工作中信任她",
+          "有几位支持的朋友提供情感支持",
+          "愿意尝试观察记录与行为实验（尽管持怀疑态度）"
+        ],
+        "negative_force": [
+          "灾难化、读心术、个人化、非黑即白等认知偏差显著",
+          "过度依赖外部验证（将自我价值系于动物反应）",
+          "回避行为导致问题扩大并引发人际疏远",
+          "自我批评与否定积极证据的倾向",
+          "睡眠受扰降低复原力与情绪调节能力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避回到动物收容所",
+          "antecedent": [
+            "想到要去收容所",
+            "回忆起上次部分动物未认出或不热情的情景"
+          ],
+          "core_reason": "灾难化与读心术的认知，将动物的反应个人化，并把自我价值与是否被记住等同",
+          "function": "逃避被拒绝与内疚带来的痛苦，短期降低焦虑",
+          "consequence": "与志愿者关系紧张疏远；对动物工作的热情下降；睡眠被打乱与整体福祉受损"
+        },
+        {
+          "behavior": "反复自责与在脑中回放该事件（反刍）",
+          "antecedent": [
+            "想到返回收容所",
+            "夜间入睡前回想收容所经历"
+          ],
+          "core_reason": "内摄的“应该”标准与外部验证需求，试图通过自我批评获得控制或弥补感",
+          "function": "试图预防再次失败或通过自我惩罚减轻内疚感",
+          "consequence": "焦虑维持并加重，睡眠紊乱，进一步避免外出与社交"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1
+}

@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "暂未就业",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "母亲住院，无兄弟姐妹",
+      "social_status": "与朋友关系紧张，社交支持有限（有几位密友但尚未充分分享）",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题经历，未接受过心理治疗",
+      "language_features": "负性自我标签突出（“我是怪物”），表达清晰连贯，能与咨询师合作并愿意尝试小步骤，但整体态度偏悲观"
+    },
+    "main_problem": "因经济等现实限制无法经常探望住院的母亲，持续将自己贴上“怪物”的标签，罪疚与压力加重，并影响人际关系与自我照料。",
+    "topic": "家庭关系",
+    "core_demands": "希望通过咨询减轻负性情绪与“我是怪物”的自我标签，以恢复应对能力与心理健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个怪物",
+        "我是一个糟糕的女儿"
+      ],
+      "special_situations": [
+        {
+          "event": "母亲住院而因经济困难无法经常探望",
+          "conditional_assumptions": "如果我不能随时在场满足母亲的需要，就说明我是个不称职、令人厌恶的人",
+          "compensatory_strategies": "每天打电话、与护士沟通、在能力范围内寄送物品以弥补，但仍持续自我批评",
+          "automatic_thoughts": "我让她感到被抛弃，我就是个怪物",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "母亲口头表达理解与安慰",
+          "conditional_assumptions": "除非我能规律探望并完全满足她的需要，否则任何理解都不算数",
+          "compensatory_strategies": "忽视他人的正向反馈，继续聚焦自身不足",
+          "automatic_thoughts": "她理解也没用，我依然很糟糕",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与朋友交流支持后觉得他们不理解自己",
+          "conditional_assumptions": "如果朋友不能完全理解我的处境，就说明我令人厌恶且不可被接纳",
+          "compensatory_strategies": "减少分享真实感受，回避更深入的求助",
+          "automatic_thoughts": "他们不会理解我，谁又会理解我呢",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回顾自己为母亲所做的关怀行为（每日通话、与护士沟通、寄送物品）",
+          "conditional_assumptions": "如果我无法做到完美的陪伴与经济支持，就等于完全失败",
+          "compensatory_strategies": "只关注未达成的部分，忽略已做出的努力",
+          "automatic_thoughts": "这些都不够，我依然是个怪物",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为尽责、被认可的好女儿并与母亲保持亲近与照顾",
+        "fear": "害怕被视为不孝或糟糕的人、害怕母亲因自己而感到被遗弃与受伤",
+        "defense_goal": [
+          "通过自我苛责维持道德感与控制感",
+          "避免深入分享以降低被评判的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、令人厌恶的女儿/“怪物”",
+          "object_representation": "理解但脆弱、需要被照顾的母亲",
+          "linking_affect": "罪疚、焦虑、无力感"
+        },
+        {
+          "self_representation": "被误解的失败者",
+          "object_representation": "不理解的旁观者（朋友）",
+          "linking_affect": "孤独、被误解的挫败感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探讨与朋友分享感受或获取支持时",
+          "interpretation": "倾向认为他人会不理解或评判自己（将内在自我批评投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和共情的语气验证其担忧，邀请其具体化他人的真实反馈与证据，避免直接反驳并鼓励小步尝试更开放的分享。"
+        },
+        {
+          "trigger_condition": "当咨询师提出以小步骤进行行为实验或重构信念时",
+          "interpretation": "强调现实限制与怀疑尝试效果，以此减少失望的可能",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先承认现实限制与压力，以支持性语气共同设定微目标，回到可观察证据与体验，减少防御性辩解。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向朋友完整分享负面想法与感受",
+            "感到“如果他们都不理解，谁会理解”，体验到被孤立与疏离"
+          ],
+          "outcomes": [
+            "关系紧张与支持感不足",
+            "罪疚与自我否定加重",
+            "自我照料能力下降（如进食受到影响）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "不向朋友充分分享真实的负面想法与感受",
+            "把向外寻求支持的冲动收回并转为自责与内耗"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "认为朋友不会理解甚至会评判自己",
+            "据此减少求助与表达，从而强化孤立感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对母亲有强烈关爱并持续付诸行动（每日通话、与护士沟通、在能力范围内寄送物品）",
+          "愿意尝试小步骤与行为实验",
+          "具备一定的理性反思能力（能识别负性想法并与咨询师讨论）",
+          "拥有少数亲密朋友可提供潜在支持"
+        ],
+        "negative_force": [
+          "自我标签化与个体化倾向（将无法探望全归因于自身道德缺失）",
+          "心理过滤与否定积极证据导致罪疚感持续",
+          "经济压力与现实限制（无法频繁探访）",
+          "社交回避与不愿充分分享导致支持利用度偏低",
+          "自我照料受损（进食等基本照料受到影响）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续将自己贴上“怪物”的标签并进行自我贬低",
+          "antecedent": [
+            "想到母亲住院且自己因经济困难无法规律探望",
+            "面对需要满足母亲需求的情境或回忆相关细节"
+          ],
+          "core_reason": "将无法满足理想化责任个体化为道德失败（个体化与非黑即白思维），以自我惩罚缓解内在焦虑与罪疚",
+          "function": "自我惩罚以维持道德感与控制感，暂时缓解焦虑的同时巩固负性自我图式",
+          "consequence": "罪疚与压力加剧，心理健康受损，进一步削弱行动与应对能力"
+        },
+        {
+          "behavior": "社交回避与不愿向朋友充分分享真实感受",
+          "antecedent": [
+            "被询问或想到向朋友寻求支持",
+            "与朋友交流后主观感到“他们不理解”"
+          ],
+          "core_reason": "对被评判与不被理解的担忧（投射与读心术），以回避减少潜在受伤",
+          "function": "逃避可能的拒绝或评判以降低即时焦虑",
+          "consequence": "支持系统利用度低，人际关系紧张与孤独感上升"
+        },
+        {
+          "behavior": "自我照料受损（进食受影响）",
+          "antecedent": [
+            "在罪疚与压力高涨时",
+            "想到无法满足母亲需求的情境"
+          ],
+          "core_reason": "高水平内疚与自我批评占据认知资源，导致行为启动与基本照料能力下降",
+          "function": "被动逃避压力源与情绪体验（短期降低情绪负荷）",
+          "consequence": "身体与日常功能受损，进一步加重负性情绪与无力感"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1848
+}

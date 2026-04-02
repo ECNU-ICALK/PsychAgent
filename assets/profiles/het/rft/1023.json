@@ -1,0 +1,189 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "詹明",
+      "gender": "男",
+      "occupation": "校对员",
+      "educational_background": "英语文学学士学位",
+      "marital_status": "未婚",
+      "family_status": "父母已婚40年，无兄弟姐妹",
+      "social_status": "与同事关系因频繁寻求保证而紧张；有一位亲密朋友但未充分分享自我怀疑的程度",
+      "medical_history": "既往未有类似心理问题；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、能自我反思、配合度良好；语速未提及"
+    },
+    "main_problem": "在上一次校对任务中犯错后（被同事指出），开始出现无能感和低自我价值；问题发展为持续的自我怀疑与害怕再犯错，每天在工作中（尤其处理重要文档时）过度分析、怀疑自己的能力，并频繁向同事寻求保证，仍难以缓解。",
+    "topic": "职业发展",
+    "core_demands": "意识到这些无能感和自我怀疑正在影响工作质量并造成显著困扰，因此寻求咨询以改善现状。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不够好",
+        "我是糟糕的校对员"
+      ],
+      "special_situations": [
+        {
+          "event": "同事指出我在上周校对的报告中漏掉几处错误",
+          "conditional_assumptions": "如果在工作中被指出错误，就说明我不称职，别人会认为我无能",
+          "compensatory_strategies": "频繁向同事寻求保证，并通过道歉与加倍认真来挽回评价",
+          "automatic_thoughts": "我在这份工作很糟糕，大家都觉得我不称职",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在校对重要文件时",
+          "conditional_assumptions": "必须做到零错误才算合格，否则就是失败者",
+          "compensatory_strategies": "反复检查、过度仔细、加班加点以防万一",
+          "automatic_thoughts": "如果我再出一次错，我就完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "面对紧迫的截止期限",
+          "conditional_assumptions": "在压力下也必须完美表现，否则说明我不够好",
+          "compensatory_strategies": "把每个细节都反复核对、提高警觉、压缩休息",
+          "automatic_thoughts": "在这么紧的期限下我一定会犯错，证明我不行",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回顾工作表现时只关注错误、忽视正面反馈",
+          "conditional_assumptions": "只有错误才能反映真实能力；正面反馈不算数",
+          "compensatory_strategies": "忽视或淡化他人的称赞与正面证据",
+          "automatic_thoughts": "那些表扬都不重要，我还是不够好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任、被视为有能力的专业人士",
+        "fear": "害怕被评价为无能、被羞辱，甚至因此失去工作或人际信任",
+        "defense_goal": [
+          "通过保持高标准与零错误来控制焦虑",
+          "通过寻求他人保证以获得安全感",
+          "以过度分析来与情绪保持距离、维持掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易犯错的员工",
+          "object_representation": "苛刻、挑错并随时评判的他者（同事/上司）",
+          "linking_affect": "焦虑、羞耻、担忧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当同事或咨询师指出/探讨他的错误，或邀请其检视证据时",
+          "interpretation": "潜意识将对方视为评判者，认为自己会被贴上“不称职”标签",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析性语气罗列流程与细节，回避谈及羞耻与恐惧的感受，用客观术语淡化情绪。"
+        },
+        {
+          "trigger_condition": "当咨询师或同事给予正面反馈或鼓励时",
+          "interpretation": "认为这些肯定不真实或只是礼貌，推断他人其实看不起自己（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用怀疑和质疑的语气，强调他人“真正的想法”是负面的，回避接纳正面信息。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与同事关系因频繁寻求保证而紧张",
+            "有亲密朋友但未分享自我怀疑的程度",
+            "在工作中难以信任自身能力，难以与他人建立真实连接"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "持续自我怀疑",
+            "睡眠受影响",
+            "专注力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈与工作中频繁自我怀疑与自我批评",
+            "执行任务时过度谨慎、反复确认",
+            "担心他人评价而压抑表达"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在同事指出错误后认为“大家一定觉得我不称职”",
+            "对咨询师的肯定持怀疑并推断对方只是礼貌"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得同事对工作质量的积极反馈",
+          "有亲密朋友可作为潜在支持资源",
+          "愿意尝试“替代视角”，对咨询持开放态度",
+          "工作态度认真，主动提高细致度"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白思维与读心术/个人化倾向",
+          "频繁寻求他人保证，依赖外部验证",
+          "持续的自我怀疑与害怕犯错",
+          "睡眠受影响与专注力下降，进一步削弱绩效"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "频繁向同事寻求保证",
+          "antecedent": [
+            "在重要文档校对时",
+            "被同事指出错误时"
+          ],
+          "core_reason": "对错误后果的灾难化与对他人负面评价的恐惧（读心术/个人化）",
+          "function": "寻求外部验证以暂时缓解焦虑与不确定感",
+          "consequence": "同事关系紧张、工作效率下降"
+        },
+        {
+          "behavior": "过度自我怀疑与反复检查",
+          "antecedent": [
+            "面对紧迫截止期限",
+            "开始处理高重要度的校对任务"
+          ],
+          "core_reason": "非黑即白标准与过度概括，形成“必须零错误才算合格”的信念",
+          "function": "试图避免错误、获得控制感",
+          "consequence": "工作质量下降、压力增加、睡眠与专注受影响"
+        },
+        {
+          "behavior": "在被指出错误时出现明显的焦虑与生理反应（心跳加速、胃部绞痛、头痛）",
+          "antecedent": [
+            "同事指出错误",
+            "意识到自己遗漏错误"
+          ],
+          "core_reason": "对后果的灾难化预测与对失去能力评估的恐惧",
+          "function": "促使回避或缩减风险情境，以降低短期焦虑",
+          "consequence": "注意力受损、进一步影响工作表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1023
+}

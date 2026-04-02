@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "罗明泽",
+      "gender": "男",
+      "occupation": "无人机装配技师",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与同事关系受到影响（因频繁寻求安慰）；有少数朋友可倾诉，但不太理解其工作与相关焦虑",
+      "medical_history": "无重大躯体疾病；无既往类似问题与心理治疗史",
+      "language_features": "表达清晰、思路有条理，能具体描述问题起始与影响，配合度较高；倾向自我怀疑并否定正向证据"
+    },
+    "main_problem": "我经常出现“我组装的无人机肯定无法通过质检”的想法，由此产生焦虑和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些想法影响了我的工作表现并造成显著的痛苦。",
+    "growth_experiences": [
+      "一年前开始从事无人机装配工作，初期在适应新职责时压力中等；此后每当完成新机或临近质检时都会反复担心“过不了”，尽管加倍检查并向同事寻求安慰，这些想法仍持续并加重，影响睡眠、饮食及与同事的关系。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够胜任，迟早会被发现不称职",
+        "只有做到完美或得到上级认可，我才算合格"
+      ],
+      "special_situations": [
+        {
+          "event": "临近或等待无人机质量检测",
+          "conditional_assumptions": "如果有任何疏漏，质检一定不过，我会被认为无能",
+          "compensatory_strategies": "反复加倍检查、频繁向同事寻求安慰",
+          "automatic_thoughts": "这台无人机肯定过不了，我又犯错了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "完成一台新无人机后的自我评估",
+          "conditional_assumptions": "一次失误就证明我总体不胜任",
+          "compensatory_strategies": "设定“每次必须100分”的标准，对细节零容忍",
+          "automatic_thoughts": "除非每次都完美，否则我就是不称职",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同事对其反复求证表现出沉默或不耐",
+          "conditional_assumptions": "如果别人不给我明确肯定，就说明我做得不好",
+          "compensatory_strategies": "提高求证频率，或减少直接沟通以避免被评价",
+          "automatic_thoughts": "他们觉得我不行/在看不起我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "无人机顺利通过质检后的回顾",
+          "conditional_assumptions": "正向结果不算数，只有上级表扬或“完美分”才可靠",
+          "compensatory_strategies": "忽视成功、将通过归因于运气，继续维持高压力自检",
+          "automatic_thoughts": "这次只是运气，不代表我有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定，证明自己胜任并感到安全",
+        "fear": "害怕被否定、被发现不称职，因错误而蒙受羞耻或负面后果",
+        "defense_goal": [
+          "通过完美主义与过度检查维持掌控与安全感",
+          "借由寻求他人保证来降低焦虑、避免被否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不胜任、随时可能出错的操作者",
+          "object_representation": "挑剔且不理解的评判者（同事/质检人员）",
+          "linking_affect": "焦虑、羞耻、紧张"
+        },
+        {
+          "self_representation": "需要外部认可才能放心的从属者",
+          "object_representation": "掌控标准与认可的权威者（上级）",
+          "linking_affect": "依赖、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调其过往成功或邀请其基于证据评价自己时",
+          "interpretation": "将咨询师的关注理解为“在忽视真实风险”，担心放松警惕会导致失误",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和具体，邀请其描述一次成功的客观流程与质检数据，同时镜映其担忧；语速放缓，避免争辩式说服。"
+        },
+        {
+          "trigger_condition": "当咨询师暂时沉默或未立即给予明确肯定时",
+          "interpretation": "将沉默解读为否定或不认可，担心自己不被看好（投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以接纳语气澄清含义，命名其对“被否定”的担心，并透明化说明沉默用于思考与整理。"
+        },
+        {
+          "trigger_condition": "当讨论“错误的可能性”与“无法永远完美”时",
+          "interpretation": "担心一旦降低完美标准就会一败涂地",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先承认其对质量的责任感，再共同界定“足够好”的专业标准；使用苏格拉底式提问，引导其权衡证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对工作中的不确定性与个人责任时感到紧张，倾向以完美和外部认可对冲不确定",
+            "质检前强烈需要确定性与可控感"
+          ],
+          "outcomes": [
+            "持续焦虑",
+            "睡眠与饮食节律被打乱",
+            "人际紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，朋友较少且难以理解其工作相关焦虑",
+            "频繁寻求安慰引发同事不耐，感到被误解"
+          ],
+          "outcomes": [
+            "支持感不足",
+            "自我怀疑与焦虑加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "强调“每次都要完美”“需要上级认可才安心”等内化标准",
+            "表述：如果不是完美分就不算做好"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将通过质检归因于“运气”或“尚未被发现”，持续自我怀疑",
+            "工作中不断二次猜测与自我否定"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "当结果良好时不做反思与整合，而是迅速进入下一个项目",
+            "回避停留在成功经验上，难以让正向证据起作用"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在完成新无人机或临近质检时，来访者通常会灾难化预测失败、反复检查并频繁向同事求证，导致专注下降与强烈焦虑。",
+          "unique_outcome": "上个月某次，他确信成品存在缺陷，但该无人机顺利通过质检；当下客观结果良好，未出现预期的失败。",
+          "reason": "线索：遵循装配流程并进行了加倍检查，加之前期已有多次顺利通过的经验基础，使这次也符合质量标准；尽管情绪上仍担心，但客观证据显示其技能可靠。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "多次产品顺利通过质检，具备可靠技能基础",
+          "工作态度严谨，愿意复核流程",
+          "愿意求助并接受基于证据的认知行为训练"
+        ],
+        "negative_force": [
+          "倾向灾难化与预测未来（Jumping to Conclusions）",
+          "过度概括与非黑即白的完美标准",
+          "否定正向证据并依赖外部验证",
+          "频繁寻求保证维持焦虑并引发人际紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中反复向同事寻求保证",
+          "antecedent": [
+            "完成新无人机后",
+            "临近或等待质检时",
+            "出现“会失败/有疏漏”的想法时"
+          ],
+          "core_reason": "灾难化预测与自我怀疑，为缓解不确定性带来的焦虑而外求安慰",
+          "function": "逃避不确定性、获得安全感与外部认可",
+          "consequence": "同事关系紧张、被认为烦扰；短期焦虑略降但迅速反弹，维持问题循环"
+        },
+        {
+          "behavior": "过度检查与反复核对细节",
+          "antecedent": [
+            "装配完成后自检阶段",
+            "质检前的预备阶段"
+          ],
+          "core_reason": "对错误零容忍的完美主义标准与对失误后果的高估",
+          "function": "短时缓解焦虑，获得主观控制感",
+          "consequence": "注意力分散与效率下降，延长工作时长，导致睡眠与饮食节律紊乱"
+        },
+        {
+          "behavior": "质检相关情境下的显著焦虑反应（失眠、食欲紊乱）",
+          "antecedent": [
+            "想到即将到来的质检",
+            "完成新机后预期可能失败"
+          ],
+          "core_reason": "对失败的预测与过度概括，情绪化推理加剧生理唤醒",
+          "function": "在短期内回避面对不确定性（如拖延入睡/进食）",
+          "consequence": "睡眠与饮食紊乱，进一步削弱专注与工作表现，形成恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 599
+}

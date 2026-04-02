@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "王磊",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "高中毕业（即将开始大学）",
+      "marital_status": "单身",
+      "family_status": "与父母和兄弟姐妹同住；家庭支持性较强",
+      "social_status": "人际关系：与家人关系良好，但因对大学的担忧而感到疏离；社会支持：家人支持但可能未完全理解其恐惧",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗或心理咨询；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述担忧与最坏情景；思维偏向灾难化与预测未来；夜间思维活跃且易反刍；配合度良好"
+    },
+    "main_problem": "对即将开始大学感到不堪重负和焦虑，担心会想家并最终退学。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，因为关于大学的恐惧和焦虑已经影响到我的日常生活和睡眠模式。",
+    "growth_experiences": [
+      "从小生活相对受保护（sheltered life），与父母和兄弟姐妹同住，长期依赖家庭支持与熟悉的作息，未曾长期远离家或独立生活。",
+      "高中阶段学业表现良好，成功经验主要依赖家人朋友的支持与稳定的日常规律，对熟悉环境更有安全感。",
+      "在高中曾加入戏剧社团：起初非常紧张、担心不适应，但最终结识了朋友并获得积极体验，显示其具备在新群体中适应与建立关系的能力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不适合大学生活",
+        "离开家庭后我无法应对与适应"
+      ],
+      "special_situations": [
+        {
+          "event": "夜间独自一人时想到即将离家去上大学",
+          "conditional_assumptions": "如果在大学里强烈想家、情绪低落，就说明我无法适应，最终会失败",
+          "compensatory_strategies": "向家人和朋友倾诉担忧以寻求安慰",
+          "automatic_thoughts": "我会想家、无法集中，最后会退学",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想象自己在宿舍独自哭泣、无法专注学习的最坏情景",
+          "conditional_assumptions": "没有熟悉的支持和固定作息，我就无法正常学习与生活",
+          "compensatory_strategies": "反复预演最坏情景以试图提前做好心理准备（但实际加重焦虑）",
+          "automatic_thoughts": "我会彻底孤立，撑不下去，最终放弃学业",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在考虑通过加入社团或利用校园资源建立支持与作息时",
+          "conditional_assumptions": "如果不能快速融入群体，就会更加孤独，说明我不适合大学",
+          "compensatory_strategies": "犹豫并推迟行动，倾向于回避尝试",
+          "automatic_thoughts": "我可能不合群，最后只会更孤独",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回忆高中戏剧社团的成功经历后，将大学视为“更大、更可怕”的不同环境",
+          "conditional_assumptions": "新环境比过去更复杂，因此过去的成功不具有参考价值",
+          "compensatory_strategies": "否定过去的正面经验以维持现有的警觉与担忧",
+          "automatic_thoughts": "那次不代表现在；大学不同，我还是会失败",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家庭持续支持与照顾，维持熟悉连接与安全感",
+        "fear": "害怕离家独立后被孤立、无法适应并失败，得不到支持",
+        "defense_goal": [
+          "通过退缩与避免陌生环境来降低焦虑",
+          "维持与家庭的紧密连接以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不适合大学、容易被孤立的脆弱自我",
+          "object_representation": "大学环境与他人被视为陌生、庞大且可能不支持的群体",
+          "linking_affect": "焦虑、孤独、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议采取具体行动（如查阅校园资源、加入社团）或讨论离家与在大学适应的问题时",
+          "interpretation": "来访者倾向将新环境理解为不支持与令人孤立，认为尝试只会让自己更孤独",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "倾向于描绘最坏情境，语气忧虑，强调“不合群”的担心，避免承诺具体行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心不合群并会更孤独",
+            "想象在宿舍独自哭泣、无法专注学习",
+            "离开家庭后的分离焦虑"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠受扰",
+            "食欲下降",
+            "白天注意力与功能受损",
+            "与家人关系主观上感到疏离"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "从被保护的生活过渡到需要自主与自我负责的大学生活引发不安",
+            "害怕无法应对独立与新环境"
+          ],
+          "outcomes": [
+            "自我怀疑（“我不适合大学生活”）",
+            "犹豫与回避行动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁表达“我不适合大学生活”",
+            "对融入社群持过度谨慎与自我限制"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "预设大学环境“不如高中支持”",
+            "担心“别人不会接受我/我不合群”并据此推断未来"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对新的群体与活动时，来访者通常会预想最坏情形、担心不适应并犹豫不前。",
+          "unique_outcome": "在高中某次加入戏剧社团的经历中，虽然起初非常紧张且担心不合群，但他依然参加并最终结识了朋友，获得了积极体验。",
+          "reason": "不同支持与做法：当时主动尝试新活动并接触同伴，获得群体支持与归属感，减轻了对不适应的担心。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭整体支持性较强",
+          "高中学业表现良好，具备学习能力与规律",
+          "曾在戏剧社团成功适应新群体，具备建立关系与适应新环境的资源",
+          "有动机寻求帮助与改变（主动求助咨询）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括与非黑即白思维",
+          "对分离与未知的恐惧，过度依赖熟悉的支持与固定作息",
+          "夜间反刍导致睡眠受扰，进而加重白天功能受损",
+          "自我怀疑与低估自身适应能力（“我不适合大学生活”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对即将上大学的灾难化担忧与夜间失眠",
+          "antecedent": [
+            "临近大学开学日期",
+            "夜间独自一人时",
+            "想到离开家庭与熟悉的生活"
+          ],
+          "core_reason": "长期生活较为受保护，对陌生与分离的恐惧；内在“我不适合大学”的核心信念与灾难化/预测未来的认知偏差共同驱动反刍与焦虑",
+          "function": "逃避不确定性与分离带来的焦虑，维持安全与可控感",
+          "consequence": "睡眠模式被打乱、食欲下降、白天注意力与功能受损、与家人关系主观疏离感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 572
+}

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "46",
+      "name": "潘美琳",
+      "gender": "女",
+      "occupation": "大学生",
+      "educational_background": "大学一年级（大一）",
+      "marital_status": "未婚",
+      "family_status": "未提及",
+      "social_status": "在校有一些朋友，但因自觉智力不如人而回避与同学社交，尚未向朋友透露自己的学业困扰与自卑感",
+      "medical_history": "无既往相似心理问题与心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰，逻辑连贯，能自我反思与配合探索；对问题持开放态度，情绪稳定且合作度高"
+    },
+    "main_problem": "我想讨论的问题是，因为在大学物理课得了一个很差的成绩，我正在经历自卑感和低自尊。这些感受从上学期收到成绩后开始出现。我认为原因是我自以为缺乏智力。",
+    "topic": "学业压力",
+    "core_demands": "我决定寻求咨询，是在意识到这些消极的想法和感受正在影响我的学习动机、学业表现以及整体幸福感之后。",
+    "growth_experiences": [
+      "上学期在大学物理课获得不理想的成绩，此后开始频繁出现自我怀疑与低自尊，认为“自己太笨学不会”。在面对学术挑战或收到反馈时加重；尝试过更加努力学习并向同学求助，但主观的自卑与不足感仍然持续。同时出现社交退缩（回避与同学互动）及睡眠、饮食节律被担忧所打乱。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/我是愚笨的",
+        "我不适合读大学（一次失败就说明整体不行）"
+      ],
+      "special_situations": [
+        {
+          "event": "上学期收到物理课不理想的成绩",
+          "conditional_assumptions": "如果一次考试成绩差，就证明我不够聪明、不适合大学",
+          "compensatory_strategies": "通过加倍努力学习、向同学求助来证明自己并弥补不足",
+          "automatic_thoughts": "我太笨了，学不会",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "面对新的学术挑战或拿到作业/考试反馈",
+          "conditional_assumptions": "如果不能一次就做对，说明我不够聪明，之后也会一直失败",
+          "compensatory_strategies": "不断自我批评、降低期望与动机以避免再次失败带来的打击",
+          "automatic_thoughts": "无论我多努力，结果都不会好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在课堂或学习中与同学比较，看到别人更快理解或表现更好",
+          "conditional_assumptions": "如果别人比我学得快，就说明我很笨、我不如人",
+          "compensatory_strategies": "回避与同学的互动，减少参与讨论以避免显露不足",
+          "automatic_thoughts": "他们比我聪明得多，我不适合读大学",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "准备与同学交流学业或谈论自己的感受时",
+          "conditional_assumptions": "如果我表现出不理解或表达脆弱，就会被看轻和评判",
+          "compensatory_strategies": "选择沉默与回避，不向朋友倾诉以避免被评价",
+          "automatic_thoughts": "他们会觉得我很蠢/看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被视为有能力、被接纳与认可（作为合格的大学生）",
+        "fear": "害怕被评判为愚笨、被拒绝或感到羞耻",
+        "defense_goal": [
+          "通过保持距离与回避暴露不足来减少被评判的风险",
+          "通过加倍努力与自我苛责来维持对价值感的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够聪明、随时会失败的“差劲学生”",
+          "object_representation": "更聪明并随时评判自己的“挑剔/评判者”（同学、老师、他人）",
+          "linking_affect": "羞耻、焦虑、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在课堂或同学讨论中注意到他人理解更快、表现更好，或担心被他人看到自己的不足",
+          "interpretation": "来访者倾向将内在的“自我贬低”投向他人，体验为“他们会看不起我、觉得我很蠢”（移情：把他人当作评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用谨慎、含糊的表达，减少自我揭露；语气收敛，避免做出明确立场，以降低被评判风险。"
+        },
+        {
+          "trigger_condition": "在收到负向学业反馈或回忆失败经历时",
+          "interpretation": "将对外部情境的挫败感转为对自己的全面否定与自责（“都是我不够聪明”）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "倾向使用自责性用语（如“都是我的错”），语气低落，主动放大个人过失并忽略情境因素。"
+        },
+        {
+          "trigger_condition": "当被邀请谈及内在情绪或向朋友寻求支持时",
+          "interpretation": "体验到表达脆弱会导致被拒绝或被看低，因此压下真实情绪",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "简短回应、淡化感受，避免使用情绪性词汇；快速将话题转回任务或事实层面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因自觉智力不如人而回避与同学社交",
+            "不向朋友倾诉学业焦虑与自卑，独自承受压力"
+          ],
+          "outcomes": [
+            "主观孤立与疏离感增强",
+            "焦虑上升、低自尊维持",
+            "睡眠与饮食节律被担忧干扰",
+            "学习动机与学业表现受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为同学会觉得自己很蠢、会评判自己",
+            "在与人互动前预设负面评价，因而退缩"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自责“无论多努力都不够好”",
+            "在表达自我时过分谨慎、减少自我揭露"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将单次成绩等同于整体能力与自我价值",
+            "把“成绩好=聪明=有价值”视为不容置疑的标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意努力学习并曾主动向同学寻求学业帮助",
+          "能识别可能的多重影响因素（学习方法、考试焦虑等）",
+          "愿意寻求专业咨询与外部资源支持，态度积极"
+        ],
+        "negative_force": [
+          "以一次失败做全局性否定，将自我价值与成绩过度捆绑",
+          "频繁与他人比较并据此自我贬低",
+          "预期未来失败、读心他人评价而导致社交回避",
+          "自我苛责维持低自尊与焦虑，进一步削弱动机",
+          "担忧学业表现导致睡眠与饮食节律紊乱，影响功能恢复"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬低的自动化思维（如“我太笨了学不会”）",
+          "antecedent": [
+            "看到或回想物理课差成绩",
+            "面对新的学术挑战",
+            "收到作业/考试/老师反馈"
+          ],
+          "core_reason": "将单次失败进行全局化归因，并把智力与自我价值刚性地绑定以解释不确定性与焦虑",
+          "function": "通过自责获得一种“确定的解释”与短期控制感，避免直面具体技能/方法的调整与不确定性",
+          "consequence": "加剧焦虑与低自尊，削弱学习动机与坚持度，维持失败预期与回避循环"
+        },
+        {
+          "behavior": "社交回避（减少与同学互动/讨论学业）",
+          "antecedent": [
+            "课堂讨论或小组合作情境",
+            "准备向同学或朋友谈及学业困扰和感受的时刻"
+          ],
+          "core_reason": "担心暴露自己不足会被评判/看轻，产生羞耻与被拒绝的恐惧",
+          "function": "逃避被评价的威胁与羞耻体验，短期降低焦虑",
+          "consequence": "减少获得学业与情感支持的机会，主观孤独感增加，维持负性信念与功能受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1751
+}

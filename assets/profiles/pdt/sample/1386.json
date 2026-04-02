@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "学生",
+      "educational_background": "在纽约的知名院校攻读时装设计学位",
+      "marital_status": "未婚",
+      "family_status": "独居于纽约，远离家庭；家庭提供经济支持",
+      "social_status": "在纽约有少数朋友，但尚未与他们分享财务焦虑",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "态度中性；开场时表达“有点紧张”；能清晰描述困扰与触发情境；与咨询师配合度良好；思路较为连贯"
+    },
+    "main_problem": "尽管购物能为时装设计带来灵感，但我因在时尚商店花费过多而感到愧疚与焦虑，这种感受持续存在并影响我的生活。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到围绕购物的焦虑与愧疚影响了我的心理健康与整体福祉，因此寻求咨询；希望在获取灵感的需求与财务责任之间找到平衡，减少内疚与焦虑。",
+    "growth_experiences": [
+      "为求学搬到纽约后开始独立生活，承受新城市适应与学业成功的压力；购物被视为获取设计灵感的重要方式，但因此产生持续的内疚与焦虑，进而带来经济不安全感，并与提供经济支持的家人产生偶发冲突。夜间独处及刚完成购买后负罪感尤为强烈，影响睡眠与注意力。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不负责任",
+        "我会让家人失望",
+        "我的价值取决于能否满足家人的期待"
+      ],
+      "special_situations": [
+        {
+          "event": "走进高端商店或看到非常喜欢的设计师单品",
+          "conditional_assumptions": "为了跟上潮流并获取设计灵感，我需要购买这些衣物；如果不买就会影响学习与职业发展",
+          "compensatory_strategies": "通过购买来维持灵感，同时用预算与限制购物来试图平衡与缓解内疚",
+          "automatic_thoughts": "我需要这些衣服来保持灵感，但这会让我显得不负责任",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "刚刚完成购买后，尤其在夜间独处时",
+          "conditional_assumptions": "如果花了钱，就说明我是个不负责任的人，会让家人失望",
+          "compensatory_strategies": "反复二次猜测每一笔消费，甚至回避再次购买",
+          "automatic_thoughts": "我在浪费家人的钱，我让他们失望了",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "与家人谈论金钱与花销之后",
+          "conditional_assumptions": "家人的不满意味着我做错了，必须更严格控制消费以满足他们的期待",
+          "compensatory_strategies": "严格预算、限制购物，并减少与家人或他人分享自己的焦虑",
+          "automatic_thoughts": "他们觉得我不负责任，我没有达成他们的期望",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在学习压力增大、需要灵感时考虑用购物获取灵感",
+          "conditional_assumptions": "只有购买并体验流行趋势，才能保持设计上的竞争力",
+          "compensatory_strategies": "以“职业需要”为理由进行购买，同时试图用理性解释来减轻内疚",
+          "automatic_thoughts": "这对我的学习很重要，但我可能又做错了",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在时装设计领域取得成功，并获得家人的理解与认可。",
+        "fear": "害怕让家人失望、被视为不负责任，并因此导致关系紧张与经济不安全。",
+        "defense_goal": [
+          "通过严格预算、限制购物与自我指责来维持道德感与控制感，尽量避免外界批评与冲突。"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被支持却不够格的、可能让家人失望的消费者/学生",
+          "object_representation": "支持但批评、对花销不满的家人",
+          "linking_affect": "内疚、焦虑、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当会谈涉及消费习惯、家庭支持与责任时（如被询问购物动机与家人态度）",
+          "interpretation": "将他人的关注理解为对“我不负责任”的潜在评价，担心再次被视为让家人失望。",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "先肯认压力与困扰，再用冷静、理性的语气强调购物是学习与职业需要；语速平稳、用词克制，尽量以事实与计划（预算、限制购物）来回应质疑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "搬到纽约后独居；夜晚独处时购买后的愧疚与焦虑显著加重"
+          ],
+          "outcomes": [
+            "睡眠受影响",
+            "紧张与焦虑增加",
+            "反复自我质疑与自责"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在新城市独立生活、拥有自主消费选择，同时承担随之而来的责任与压力"
+          ],
+          "outcomes": [
+            "财务焦虑与愧疚",
+            "学业专注度下降",
+            "与家人关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制与自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在会谈中多次自责“我不负责任、让家人失望”",
+            "对每次消费进行反复二次确认与自我审视"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原本欲对外发出的能量转而对自己，出现自我克制或把请求他人帮助的需求转为自我承受。",
+          "manifestations": [
+            "未向在纽约的朋友分享财务焦虑，倾向于独自承受压力",
+            "通过自责与限制购物来内化解决方案而非寻求外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "购物能为设计学习提供灵感与行业信息，具备职业相关性",
+          "愿意主动寻求咨询并尝试认知重构与行为实验",
+          "能够识别典型触发情境（高端商店、夜间独处、与家人谈钱）",
+          "有过预算与限制购物的尝试，具备一定自我管理意识"
+        ],
+        "negative_force": [
+          "过度自责与以他人期待为价值条件（外部认可导向）",
+          "否定正面与心理过滤等认知偏差加剧负性情绪",
+          "独居与夜间孤独放大愧疚与焦虑体验",
+          "经济不安全与家庭冲突造成持续压力",
+          "新城市适应与成功压力导致整体心理负荷上升"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与购物相关的情境中出现强烈的内疚与焦虑，并反复二次猜测或回避购买",
+          "antecedent": [
+            "走进高端商店或看到心仪的设计师单品",
+            "完成购买后的当下与夜间独处时",
+            "与家人谈论金钱与花销之后"
+          ],
+          "core_reason": "独立生活与成功压力下，将“为灵感而购物”与“对家人负责任”发生道德冲突；认知偏差（否定正面、心理过滤）使其忽视购物的职业价值，强化“我不负责任、让家人失望”的自我评价。",
+          "function": "逃避被批评与道德失败感、暂时降低焦虑并维持自我控制与安全感",
+          "consequence": "学业注意力与表现受影响；睡眠质量下降；与家人关系紧张；财务不安全感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1386
+}

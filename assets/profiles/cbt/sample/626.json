@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "海莉",
+      "gender": "女",
+      "occupation": "家庭主妇",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "丈夫为美国陆军士兵，正期待第一个孩子，父亲是传教士",
+      "social_status": "有几位亲密朋友，但尚未与他们分享关于与丈夫关系的担忧",
+      "medical_history": "无显著躯体疾病；无既往心理治疗经历；未曾出现类似心理问题",
+      "language_features": "配合度高，表达清晰，能进行自我反思；受焦虑影响，倾向于灾难化、读心术与个体化推断"
+    },
+    "main_problem": "我觉得丈夫可能恨我，因为他在得知我怀孕后一直保持沉默，这让我感到焦虑和恐惧。",
+    "topic": "婚姻关系",
+    "core_demands": "我决定寻求咨询，因为围绕与丈夫关系的焦虑和恐惧变得难以承受，影响到了我的日常生活与身心健康。",
+    "growth_experiences": [
+      "原生家庭：父亲是传教士。",
+      "教育与角色转变：高中毕业后主要承担家庭主妇角色。",
+      "婚姻与伴侣背景：与军人丈夫结婚，丈夫目前服役。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我会因为自己的过失而被他人拒绝/讨厌"
+      ],
+      "special_situations": [
+        {
+          "event": "丈夫在得知我怀孕后持续保持沉默",
+          "conditional_assumptions": "沉默等同于生气或讨厌我，意味着关系出现严重问题",
+          "compensatory_strategies": "频繁尝试与他沟通并在脑中反复猜测其想法，强化警觉",
+          "automatic_thoughts": "他恨我；他不想要这个孩子",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "我提出怀孕话题时，丈夫表现得更疏远",
+          "conditional_assumptions": "如果伴侣没有立刻积极回应，就代表他否定我和孩子",
+          "compensatory_strategies": "回避向朋友寻求支持，独自承受焦虑",
+          "automatic_thoughts": "他不愿做父亲，事情正在变得更糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "我没有第一时间告诉丈夫自己怀孕",
+          "conditional_assumptions": "如果没有及时告知重大消息，就说明我做错了，理应被责怪或被讨厌",
+          "compensatory_strategies": "自责、反复反思自己的过失并将问题归因于自己",
+          "automatic_thoughts": "我做错了，所以他讨厌我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "每当丈夫安静或显得疏远时",
+          "conditional_assumptions": "如果他一直沉默，未来关系必然恶化",
+          "compensatory_strategies": "过度关注其行为、持续担忧与失眠以试图掌控不确定性",
+          "automatic_thoughts": "我们的关系会破裂",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被丈夫明确地接纳、理解和爱护，关系安全稳定",
+        "fear": "害怕被拒绝/被讨厌；害怕关系失去与亲密破裂",
+        "defense_goal": [
+          "通过自我归责与提前假设他人意图来降低不确定性、获得控制感与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚与不安的妻子，担心自己“做错了”",
+          "object_representation": "沉默、可能会拒绝或否定自己的丈夫",
+          "linking_affect": "焦虑、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当丈夫保持沉默或显得疏远时",
+          "interpretation": "将沉默视为对自己的否定与厌恶（移情：把不被爱的恐惧投射到对方的意图上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用温和、探询的语气，避免断言对方意图；以“我”的感受陈述和澄清性问题来寻求信息。"
+        },
+        {
+          "trigger_condition": "当面对不确定性（无法得知丈夫真实感受与态度）时",
+          "interpretation": "以灾难性想象填补空白，认为关系会走向恶化",
+          "defense_mechanism": "幻想",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "鼓励现实检验与证据搜集，逐步提出具体、可验证的假设并进行小步试探性沟通。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "丈夫沉默与疏离带来的不被理解与孤立感",
+            "对朋友隐而不谈、缺乏外部支持的分享"
+          ],
+          "outcomes": [
+            "显著焦虑与恐惧",
+            "睡眠受影响与注意力下降",
+            "关系困扰加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本应对外表达或寻求他人帮助的冲动，将能量转向自己。",
+          "manifestations": [
+            "对朋友隐而不谈婚姻担忧，选择独自承受焦虑",
+            "过度自责并在内部反刍而非主动寻求支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将丈夫的沉默解读为“他恨我”“他不想要这个孩子”",
+            "在缺乏证据的情况下推断对方的负面意图"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定的社会支持（有几位亲密朋友）",
+          "愿意寻求专业帮助并尝试记录思维与进行现实检验",
+          "能够回忆并承认丈夫过去在压力下倾向沉默，为替代解释提供线索"
+        ],
+        "negative_force": [
+          "灾难化与读心术倾向显著，易在不确定情境中跳到结论",
+          "过度个体化，将他人行为负面含义归因于自身过失",
+          "不确定性耐受度较低，导致持续焦虑、睡眠受影响与关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在丈夫沉默或疏远时出现显著焦虑并伴随灾难化、读心式假设",
+          "antecedent": [
+            "丈夫在得知怀孕后持续沉默",
+            "谈及怀孕话题时丈夫更疏远",
+            "无法从丈夫处获得明确回应与信息"
+          ],
+          "core_reason": "将沉默视为负面评价与拒绝的证据，受灾难化、读心术与个体化思维影响以试图控制不确定性",
+          "function": "通过高度警觉与预设最坏结果来试图获得确定性、避免被拒绝的风险",
+          "consequence": "睡眠受影响、注意力下降、持续焦虑与恐惧，夫妻沟通受阻、关系紧张加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 626
+}

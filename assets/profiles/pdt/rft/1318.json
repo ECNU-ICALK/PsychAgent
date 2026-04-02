@@ -1,0 +1,208 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "方杰",
+      "gender": "男性",
+      "occupation": "少儿图书馆馆员",
+      "educational_background": "图书馆学硕士",
+      "marital_status": "近期离婚",
+      "family_status": "无子女",
+      "social_status": "有少数亲密朋友，但难以就孤独与羞怯向其敞开；离婚后人际关系受损，建立新连接困难",
+      "medical_history": "长期在社交场合经历羞怯与孤立；此前未接受针对该问题的治疗；无重大躯体疾病",
+      "language_features": "态度中性"
+    },
+    "main_problem": "我觉得自己的羞怯让人们不愿与我交谈，导致孤独与被隔离的感受。",
+    "topic": "人际关系",
+    "core_demands": "近期离婚与愈发强烈的孤独感促使我寻求咨询，以应对羞怯并改善社交互动。",
+    "growth_experiences": [
+      "从童年起长期在社交场合感到羞怯与孤立，尽管在职业上有一定成功，但在工作与社区活动中仍常感到与他人断联、难以互动，逐渐形成自我怀疑与低自我价值体验。",
+      "近期离婚后，人际关系受到显著影响，孤独感与隔离感加重，建立新的人际连接更加困难；在工作场合与社区活动中更频繁体验被回避与不被理解的感受，同时更难向现有朋友敞开。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是失败者",
+        "别人不愿意接纳我（不想与我说话）"
+      ],
+      "special_situations": [
+        {
+          "event": "某个项目表现不佳后，回想失败并难以启动新项目",
+          "conditional_assumptions": "如果项目失败，就证明我就是失败者；成功与失败是非黑即白的，要么行要么不行",
+          "compensatory_strategies": "回避启动新项目、降低尝试以避免再次失败；频繁反刍失败经历",
+          "automatic_thoughts": "项目没做好就证明我就是个失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作和社区活动的社交场合，他人未主动与我聊天",
+          "conditional_assumptions": "如果我很羞怯，人们就不愿意跟我说话；他人的沉默等于不喜欢我",
+          "compensatory_strategies": "勉强自己主动开口，但同时减少深入交流以避免被拒绝",
+          "automatic_thoughts": "他们不愿跟我说话，因为我太害羞",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友谈及项目不佳后反复寻求评价，朋友表现出不耐烦",
+          "conditional_assumptions": "如果朋友不给肯定，就说明我的工作很差、我不够好",
+          "compensatory_strategies": "不断向朋友寻求外部肯定与安慰来缓解不安",
+          "automatic_thoughts": "他觉得我不行、我应该更信任自己但我做不到",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "回顾以往的成功项目时",
+          "conditional_assumptions": "如果有成功，那只是运气，不能代表我的能力",
+          "compensatory_strategies": "否定正向证据，继续聚焦失败以维持自我叙事一致性",
+          "automatic_thoughts": "那些成功只是侥幸",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与认可、建立稳定而亲近的连接，同时在职业上证明自我价值",
+        "fear": "害怕失败与被拒绝导致自我价值被否定；害怕他人的评判与不耐烦",
+        "defense_goal": [
+          "通过寻求外部认可来暂时稳定自我价值",
+          "减少尝试或回避新项目以降低失败与羞耻的风险",
+          "在社交中保持谨慎与自我保护以避免被拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易被拒绝的孤独者",
+          "object_representation": "他人是评判者与拒绝者，对自己不耐烦",
+          "linking_affect": "羞愧、焦虑、孤独"
+        },
+        {
+          "self_representation": "需要他人肯定才能感到有价值的依赖者",
+          "object_representation": "朋友是权威的认可给予者，但可能厌烦和疏远",
+          "linking_affect": "不安、内疚、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询或谈话中被引导去关注过去成功的项目、用积极证据反驳失败叙事时",
+          "interpretation": "来访者认为成功只是侥幸，不足以证明自己有能力（将积极证据视为不可靠）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平淡，强调“运气”“巧合”等词，淡化成功的意义，回到失败案例上进行说明。"
+        },
+        {
+          "trigger_condition": "当朋友或咨询师对其反复寻求肯定表现出不耐烦或建议其更信任自己时",
+          "interpretation": "来访者将他人的不耐烦理解为“我是问题所在”，并将负面评价内化到自我",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、降低自我价值感，使用“都是我的错”“我不配”的表述，减少表达自己的需求。"
+        },
+        {
+          "trigger_condition": "在社交场合中对方沉默或互动减少时",
+          "interpretation": "来访者认定他人不愿与自己交谈、在看低自己（读心并将负面感受归于他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以猜测他人负面想法的方式发言，语气谨慎疏离，减少主动深入交流。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "从童年起在社交场合长期感到羞怯与孤立",
+            "离婚后孤独感加剧，难以建立新的人际连接",
+            "在工作与社区活动中感到被人回避、难以与同事和家长互动",
+            "与朋友相处时难以敞开表达孤独与羞怯"
+          ],
+          "outcomes": [
+            "持续的孤独与隔离感",
+            "寻求他人验证导致关系紧张",
+            "焦虑增加、动机下降",
+            "睡眠受到影响"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心给朋友带来负担而不愿敞开",
+            "频繁寻求他人对工作的认可以缓解不安",
+            "在社交互动中小心翼翼、减少深入交流"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在社交场合将他人的沉默理解为不愿与自己交谈或看低自己",
+            "把自我羞怯与不被接纳的感受归因于他人的态度"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将职业成败视为绝对的黑白标准（要么成功要么失败）",
+            "把外在的业绩结果内化为自我价值的唯一依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备一定职业稳定性（工作表现未被直接影响）",
+          "仍有少数亲密朋友可提供一定支持",
+          "愿意尝试行为实验，持开放与探索态度",
+          "在社交场合能够推动自己主动开启对话"
+        ],
+        "negative_force": [
+          "自我价值与项目成败高度捆绑",
+          "非黑即白思维主导成功/失败评估",
+          "过度寻求外部认可，易引发人际紧张",
+          "否定积极结果、聚焦失败证据",
+          "社交读心与个人化倾向，预设他人不愿交流"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避或拖延启动新项目",
+          "antecedent": [
+            "想到过去项目表现不佳",
+            "面对新项目时预期可能失败"
+          ],
+          "core_reason": "将项目结果与自我价值绝对绑定，非黑即白地解读成败；失败被视为个人整体不够好",
+          "function": "逃避失败与负面评价，以降低焦虑与羞愧",
+          "consequence": "动机显著下降、睡眠受影响、职业发展受阻"
+        },
+        {
+          "behavior": "反复向朋友寻求对工作的认可与安慰",
+          "antecedent": [
+            "项目不佳后情绪低落",
+            "自我怀疑与认为“自己不够好”时"
+          ],
+          "core_reason": "自我价值依赖外部肯定，缺乏内部自我评价的稳定性",
+          "function": "获得安慰与短暂的安全感，稳定自我价值",
+          "consequence": "朋友产生不耐烦，人际关系紧张，进一步加剧孤独感"
+        },
+        {
+          "behavior": "在社交场合减少深入交流或提前退出（社交回避）",
+          "antecedent": [
+            "工作与社区活动中的互动情境",
+            "离婚后社交压力与不被理解的担心"
+          ],
+          "core_reason": "羞怯与“读心术”倾向导致对被拒绝的预测与个人化解释",
+          "function": "避免被拒绝或尴尬，降低社交焦虑",
+          "consequence": "孤独与隔离感增加，难以建立新的连接与维持友谊"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1318
+}

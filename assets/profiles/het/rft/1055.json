@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "31",
+      "name": "林若琪",
+      "gender": "女",
+      "occupation": "麦当劳员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，饲养一只鬣蜥",
+      "social_status": "与同事关系良好；有朋友可交流日常话题",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或辅导经历",
+      "language_features": "表达清晰，配合度高，能自我反思，求助动机足，情绪稳定"
+    },
+    "main_problem": "尽管我很擅长踢足球，但总觉得不如场上的其他人，导致不安全感和自我怀疑，尤其在比赛或训练时更明显。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些不安全感开始影响我在球场上的表现和整体身心状态；我想找到办法不再被这些怀疑束缚。",
+    "growth_experiences": [
+      "青少年时期与朋友踢球时就常感到“别人都比我更好”，由此形成持续的社会比较与自我怀疑，这种体验延续至成年并在比赛/训练情境中反复被激活。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "只有比别人更出色我才有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在球队的比赛或训练中，看到队友发挥出色",
+          "conditional_assumptions": "如果我的水平没有达到或超过队友，就证明我不够好，会被认为不行",
+          "compensatory_strategies": "在场上过度关注他人表现、给自己施压、用更苛刻的标准衡量自己",
+          "automatic_thoughts": "我永远比不过他们，我不够好",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "被他人（如教练、队友）肯定或表扬自己的进步与能力",
+          "conditional_assumptions": "只要没有做到完美，正向反馈就不算数",
+          "compensatory_strategies": "否定积极信息、强调他人更强以维持“我不够好”的框架",
+          "automatic_thoughts": "这些成就不算什么，别人更强",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "观看体育比赛时看到专业或更高水平球员的表现",
+          "conditional_assumptions": "与更优秀的人相比，我的不足就显得更明显，说明我很差",
+          "compensatory_strategies": "将注意力集中于他人的优势，忽略自身进步与长处",
+          "automatic_thoughts": "和他们比我太差劲了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在比赛中出现一次或少数几次失误",
+          "conditional_assumptions": "一旦犯错，就说明我能力差，接下来都会发挥失常",
+          "compensatory_strategies": "过度自我监控、采取保守打法以避免再次犯错",
+          "automatic_thoughts": "我接下来都会表现很差",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在团队与竞技中被认可、被接纳，肯定自我价值",
+        "fear": "害怕被比较后显得不如人、被否定与羞辱",
+        "defense_goal": [
+          "通过持续自我批评与贬低成就来降低外界否定时的打击，维持一种“安全的”心理预期"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、始终落后的球员/个体",
+          "object_representation": "更强、更挑剔、时刻在比较与评判的他人",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师肯定其进步或优势（如领导力、速度与敏捷性的提升）",
+          "interpretation": "认为这些肯定带有安慰或客套成分，不足以改变“我不如人”的事实（移情：将外界视为评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气平缓但使用“但是”转折来淡化成就（如“但是别人更强”），强调他人优势，回避情绪体验与被肯定的影响。"
+        },
+        {
+          "trigger_condition": "当被邀请聚焦自己的主观感受与自我价值，而非与他人比较",
+          "interpretation": "担心直接表达自我感受会显得自满或不客观，感觉不自在",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用客观数据和战术分析来回应，减少情绪用词，避免谈“我感觉怎样”，以理性叙述取代情感接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "习惯以他人表现作为自我价值的评判标准，难以以自身进步为基准",
+            "正向反馈出现时也难以接纳，倾向以外界比较来定义自我"
+          ],
+          "outcomes": [
+            "焦虑与不安全感增加",
+            "自尊受损",
+            "在比赛/训练中的表现下降与注意力涣散"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "场上过度关注他人表现、对自我严格苛求",
+            "一旦犯错即加重自我否定，谨小慎微，影响发挥"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“必须比别人更好”当作自我价值的唯一标准",
+            "面对正向反馈依然以他人更强来否定自我进步"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有稳定的社会支持（与同事关系良好，有朋友可倾诉）",
+          "能识别问题发生的情境（在比赛/训练时最强）",
+          "持续训练带来客观进步（速度、敏捷性与战术理解提升）",
+          "获得教练的正向反馈（被评价具备领导力）",
+          "求助动机强，态度积极，愿意尝试新策略（积极自我对话）"
+        ],
+        "negative_force": [
+          "习惯性社会比较，依赖外部标准评估自我",
+          "否定正向信息，难以整合优势（Disqualifying the Positive）",
+          "场上焦虑导致注意力涣散与表现下降",
+          "灾难化预测/过度推断失败，放大少量失误的意义",
+          "自我价值与胜过他人过度捆绑，内在自我肯定不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在比赛/训练时因与他人比较而出现的焦虑与自我贬低，伴随注意力涣散与发挥失常",
+          "antecedent": [
+            "参加比赛或训练时看到队友或对手表现出色",
+            "在赛场上出现一两次失误",
+            "观看体育比赛时将自己与高手比较"
+          ],
+          "core_reason": "长期的社会比较与“我不够好”的核心信念，且倾向否定积极反馈，维持自我怀疑的认知循环",
+          "function": "避免面对失败或被否定的强烈不适感，通过自我设限与贬低成就来保护自尊与降低期待落差",
+          "consequence": "在球场上的表现下降、注意力不集中，自信进一步受损，形成“焦虑—失误—更自我怀疑”的恶性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1055
+}

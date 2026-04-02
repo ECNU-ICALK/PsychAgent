@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21岁",
+      "name": "赵睿",
+      "gender": "男",
+      "occupation": "办公室工作",
+      "educational_background": "大学学位",
+      "marital_status": "单身",
+      "family_status": "独居；与父母和兄弟姐妹关系亲密",
+      "social_status": "有支持性的朋友与家人，但近期更为退缩，未与他们谈及失落与焦虑",
+      "medical_history": "无显著躯体疾病；既往无类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、逻辑性较强、配合度高、态度积极；语速未提及"
+    },
+    "main_problem": "我因为今年未能去黄石国家公园而感到失望与焦虑，并且我现在相信我永远没有机会去该公园。",
+    "topic": "情绪管理",
+    "core_demands": "持续的消极想法与错失体验的感受开始影响我的日常生活和整体情绪，促使我寻求咨询以获得支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会错过重要的体验",
+        "我无法掌控或把握生活中的机会"
+      ],
+      "special_situations": [
+        {
+          "event": "今年未能前往黄石国家公园",
+          "conditional_assumptions": "如果现在没能抓住这个机会，今后就再也没有机会去了",
+          "compensatory_strategies": "试图通过分散注意力并计划未来旅行来对抗负面想法",
+          "automatic_thoughts": "我这辈子都去不了黄石",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每当想到旅行或错过体验时",
+          "conditional_assumptions": "一次错过就意味着我总会错过类似的体验",
+          "compensatory_strategies": "变得退缩，减少与亲友互动",
+          "automatic_thoughts": "我以后总会错过重要的经历",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作时因想到未能成行而分心",
+          "conditional_assumptions": "如果我现在不能把握机会，就说明我做不到或不够能力",
+          "compensatory_strategies": "降低活动投入、减少计划其他活动",
+          "automatic_thoughts": "我没能抓住机会，说明我不行",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "尝试规划其他活动或未来旅行时",
+          "conditional_assumptions": "除非实现这次去黄石，否则其他积极体验都不算数",
+          "compensatory_strategies": "否定其他可能的积极体验，继续沉浸于这次错过",
+          "automatic_thoughts": "即使安排别的活动也没有意义",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望把握机会、拥有充实的体验并获得自我认可",
+        "fear": "害怕永远错过重要体验，害怕被证明无法把握机会",
+        "defense_goal": [
+          "通过退缩来减轻失望与焦虑",
+          "通过理性规划以恢复对生活的掌控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易错过机会且焦虑的个体",
+          "object_representation": "总体支持但保持一定距离的他人/外界",
+          "linking_affect": "失望、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或想到错过黄石旅行等重要机会时",
+          "interpretation": "将一次错过等同于永久失败，认为自己无法掌控",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "语气稳定且共情，先承认情绪，再以具体事实和时间线温和对比；避免过度解释，使用开放式提问引导其辨别证据与假设。"
+        },
+        {
+          "trigger_condition": "当亲友关心或邀请交流，而其内心仍被“错过”念头占据时",
+          "interpretation": "将向外寻求支持的冲动转向自身，认为不说出来更安全",
+          "defense_mechanism": "回摄",
+          "defense_definition": "个体将原本欲对外发出的能量转而对自己，克制对他人或环境的自然反应",
+          "response_instruction": "轻声慢语、提供安全感与选择权，邀请其用“我—陈述”表达当前需要，并设计小步尝试向外求助（如与一位信任的亲友分享一点感受）。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "错过旅行后更为退缩，不与亲友分享失望与焦虑",
+            "在思考旅行与体验时感到与他人隔离"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠受影响",
+            "工作表现下降",
+            "情绪低落"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做",
+          "manifestations": [
+            "在会谈前未向亲友表达失望与焦虑",
+            "面对支持系统选择退缩不求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎",
+          "manifestations": [
+            "以“如果现在抓不住机会，以后也不可能”等自我苛责的语句评判自己",
+            "规划活动时过度担忧错过而减少参与"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在错过计划的活动（如旅行）时，来访者通常会产生失望与焦虑、相信未来会一直错过，从而退缩并影响睡眠和工作。",
+          "unique_outcome": "曾错过一场演唱会，但后来参加了体验更好的另一场演唱会，情绪有所改善，证明错过一次并不意味着永远错过。",
+          "reason": "线索：保持开放心态并继续关注机会，出现替代性更好的选择，因此这次结果更积极。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人关系",
+          "能够识别并讨论自己的认知偏差（承认缺乏证据，愿意重构思维）",
+          "对户外、阅读与烹饪等有兴趣，可作为积极资源",
+          "愿意尝试活动安排与行为实验，态度积极"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白思维、心理过滤等认知歪曲",
+          "在负面思维出现时倾向退缩，减少社交与活动参与",
+          "反复思考导致睡眠受影响",
+          "未主动寻求既有支持系统的帮助"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在想到错过黄石旅行时出现焦虑并退缩社交",
+          "antecedent": [
+            "想到旅行或错过的经历",
+            "与工作任务同时想到未能成行"
+          ],
+          "core_reason": "对机会稀缺的灾难化认知与过度概括：一次错过等同于永久错过",
+          "function": "逃避不适情绪与潜在失望，暂时降低焦虑",
+          "consequence": "工作表现下降、人际互动减少、情绪低落"
+        },
+        {
+          "behavior": "夜间反复回想错过黄石导致入睡困难",
+          "antecedent": [
+            "夜间独处、临睡前回想未能去黄石的情境"
+          ],
+          "core_reason": "负性反刍与情绪化推理，试图通过反复思考获得掌控感",
+          "function": "试图通过思考找到解释或解决路径以恢复控制感（但效果不佳）",
+          "consequence": "睡眠被干扰、作息不规律、白天疲惫与效率下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 622
+}

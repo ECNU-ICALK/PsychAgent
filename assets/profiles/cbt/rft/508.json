@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "53",
+      "name": "魏思礼",
+      "gender": "男",
+      "occupation": "诗人",
+      "educational_background": "文学硕士",
+      "marital_status": "单身",
+      "family_status": "独居，无直系亲属",
+      "social_status": "有一群朋友可交谈，但未向他们倾诉此困扰；与朋友和同事的互动因不安全感而出现紧张",
+      "medical_history": "无显著躯体疾病；既往无心理治疗经历；既往无类似心理问题",
+      "language_features": "表达清晰、逻辑性较好；能自我观察“容易跳到结论”；配合度尚可但持怀疑态度；语速平稳，情绪体验“沉重”但可被言说"
+    },
+    "main_problem": "在捐赠中心捐衣物时对方未对我微笑，我立即假定她认为我捐的衣服不够好；此后持续感到焦虑与不安全，反复自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "希望应对并有效管理这些不安全感与焦虑，使其不再影响日常生活与人际互动。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在捐赠中心递交旧衣物时，店员没有微笑或积极回应",
+          "conditional_assumptions": "如果他人没有给予正向反馈或微笑，就说明我的东西（以及我）不够好",
+          "compensatory_strategies": "回避被评价的情境，收敛表达以自我保护",
+          "automatic_thoughts": "她觉得我的衣服不值钱，所以我也不值得被看重",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友或同事互动时，对方反应不够热情或没有明确赞许",
+          "conditional_assumptions": "如果朋友没有明确肯定，就代表他们看低我",
+          "compensatory_strategies": "减少分享观点，降低自我暴露以避免被否定",
+          "automatic_thoughts": "他们觉得我不行/我不被认可",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "回想捐赠事件或遇到类似的冷淡反应",
+          "conditional_assumptions": "一次被忽视就意味着以后也会被否定",
+          "compensatory_strategies": "预先撤退、避免涉入，以降低再次受伤的可能",
+          "automatic_thoughts": "以后遇到类似场景我还会被看轻",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "需要在社交场合表达意见或展示作品（如诗作）",
+          "conditional_assumptions": "如果暴露自己不足，就会被证实“不够好”并受到否定",
+          "compensatory_strategies": "减少表达与展示，选择沉默",
+          "automatic_thoughts": "一旦我开口就会被否定",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见与被认可，期望自己的付出与作品被肯定",
+        "fear": "害怕被评价为不够好、被拒绝或被羞辱",
+        "defense_goal": [
+          "保持疏离与克制表达，以避免被否定带来的伤害",
+          "通过自我保护与回避情境来降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "价值可疑、容易被否定的提供者/表达者",
+          "object_representation": "挑剔而带有评判的他者（会否定与拒绝）",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请检视证据、生成替代解释或提出练习时",
+          "interpretation": "感觉自己可能被质疑或被要求证明价值，若做不好会被否定",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "语气克制、强调“证据”与“逻辑”，少用情感词，保持保留与观望的态度"
+        },
+        {
+          "trigger_condition": "当被邀请在咨询中更多表达个人感受与自我价值关联时",
+          "interpretation": "担心一旦表达脆弱就会被看轻或被否定",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件分离，以理智方式谈论而缺乏情感反应",
+          "response_instruction": "用冷静、概括性的语言描述事件，尽量避免深入情绪细节，快速转向问题分析"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无直系亲属",
+            "即便有朋友也未谈及困扰，保持情感封存",
+            "在人际中因害怕被评判而退缩，降低自我暴露"
+          ],
+          "outcomes": [
+            "持续的不安全感与焦虑",
+            "人际联结感下降",
+            "自我价值感对他人反馈的依赖增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询中反复质疑自我价值，担心被否定",
+            "表达前反复权衡，强调要有“证据”才敢动摇想法",
+            "对新的视角持怀疑与观望，谨慎接触情绪"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "在人际互动中减少分享观点与作品以自我保护",
+            "即使有朋友支持也不主动求助或谈及困扰",
+            "在咨询中倾向于收回更深入的表达"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "重视助人和正向反馈的价值观，具备同理与责任感",
+          "愿意主动寻求专业帮助并参与练习",
+          "具备一定的自我观察与觉察能力（能识别“跳到结论”）",
+          "教育程度高、语言表达清晰，利于认知重建",
+          "职业功能基本保持（工作未直接受影响）"
+        ],
+        "negative_force": [
+          "对外部认可的高度依赖，将自我价值与他人反应绑定",
+          "认知偏差：跳到结论/读心术、过度概括、预测未来",
+          "人际退缩与回避，减少积极反馈的获得",
+          "反刍与自我怀疑加剧焦虑体验",
+          "对新视角持怀疑态度，降低改变动机与行为尝试"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与表达收缩",
+          "antecedent": [
+            "在社交场合需要表达观点或展示作品",
+            "对方反应冷淡或缺少正向反馈",
+            "回想起捐赠中心的冷淡互动"
+          ],
+          "core_reason": "将他人即时反应与自我价值直接等同的信念，引发对被否定的灾难化预期",
+          "function": "逃避被评判与羞耻的痛苦，短期保护自尊与情绪",
+          "consequence": "人际关系紧张、获得支持与正向反馈的机会减少，自我价值感进一步下降"
+        },
+        {
+          "behavior": "过度解读他人态度并进行负性自动推断",
+          "antecedent": [
+            "观察到他人缺少微笑或赞许等模糊线索",
+            "处于陌生或评价性情境"
+          ],
+          "core_reason": "对不确定线索的威胁性解释偏好及对控制感的需求",
+          "function": "试图通过先行假设最坏结果来获得可控感并预防受伤",
+          "consequence": "焦虑上升、反刍与回避行为增加，进一步损害社交与情绪稳定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 508
+}

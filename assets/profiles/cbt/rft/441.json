@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "69",
+      "name": "戴玉兰",
+      "gender": "女",
+      "occupation": "滑板运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数朋友可交谈，但尚未就被评判与被贴标签的具体感受向他们敞开",
+      "medical_history": "无重大躯体疾病，既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑性较好，能反思与配合；语气平和、态度积极"
+    },
+    "main_problem": "因他人对我的看法（被叫难听的名字、外貌遭评判），我一直感到自己是异类和懒散之人，这些感受在高中开始并持续到成年，近期事件进一步加剧了我的负面自我认知。",
+    "topic": "人际关系",
+    "core_demands": "我决定寻求咨询，因为这些负面自我认知正在影响我的自尊、人际关系和整体幸福感，使我难以享受滑板。",
+    "growth_experiences": [
+      "高中时期因穿着风格独特、热爱滑板而遭受同学的霸凌与嘲笑，被叫难听的名字并被贴上“异类”“懒散”的标签。这段经历在其后长期影响了我对自我的看法，使我在社交场合容易预设他人会评判我、看不起我，导致自尊受损、在人际中犹疑退缩，并逐渐延伸到成年生活（就业维持困难、人际受影响、日常生活被负面自我认知渗透）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不被接纳的异类",
+        "我是懒散且不够有价值的人"
+      ],
+      "special_situations": [
+        {
+          "event": "在滑板场被人撞到",
+          "conditional_assumptions": "如果别人认为我滑板很差，就会以忽视或不尊重的方式对待我；这说明我是个不被接纳的异类",
+          "compensatory_strategies": "在公共场合尽量不表现自己、回避与他人接触，缩回自己以减少被评判的机会",
+          "automatic_thoughts": "他们觉得我滑板很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在新群体中社交或滑板时被他人看见",
+          "conditional_assumptions": "如果有人看我一眼或表情怪异，就代表他们在评判我为“奇怪的人”",
+          "compensatory_strategies": "在新群体中保持低调、与人保持距离，不主动敞开与交流",
+          "automatic_thoughts": "他们一定觉得我很奇怪",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "遭遇他人的怪异目光或评论",
+          "conditional_assumptions": "如果出现怪异目光或负面评论，就证明我“懒散、没有生产力”这一标签属实",
+          "compensatory_strategies": "试图一笑置之、把负面评论与想法“刷掉”，但并未真正检验其真实性",
+          "automatic_thoughts": "他们认为我很懒、没用",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "被叫难听的名字、因外貌被评判",
+          "conditional_assumptions": "如果我与众不同，就会被排斥和标签化；他人的评判就等于事实",
+          "compensatory_strategies": "减少在社交中暴露自己真实风格，犹疑敞开以避免再次受辱",
+          "automatic_thoughts": "我是个异类，一无是处",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在保持独特风格与兴趣的同时被接纳与尊重",
+        "fear": "害怕被评判、羞辱与排斥，暴露真实自我会再次受伤",
+        "defense_goal": [
+          "通过保持距离与减少敞开来降低被否定的风险",
+          "弱化自我表达以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被标签与嘲笑的异类、易受羞辱的弱者",
+          "object_representation": "带有评判与羞辱倾向的他人或群体",
+          "linking_affect": "羞耻、焦虑、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，长期担心他人评判而在社交中退缩",
+            "在新群体中犹疑、不愿敞开自我",
+            "因被贴标签的记忆而与他人保持距离"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "社交回避与焦虑加重",
+            "人际关系受影响",
+            "难以享受滑板与日常活动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：‘他在看不起我’、‘他们想排挤我’等。",
+          "manifestations": [
+            "在社交或滑板场中，将他人的目光或动作解释为对自己的负面评价",
+            "自动假定他人认为自己‘奇怪’或‘懒惰’（读心式推断）"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在新群体或被他人注视时，来访者通常会自动读心并将他人行为个人化，进而退缩回避交流。",
+          "unique_outcome": "与亲密朋友相处与交谈时，来访者没有像往常那样预设被评判，朋友明确表达并不认为她‘奇怪或懒散’，其负面自动化思维显著减弱，情绪更为稳定。",
+          "reason": "线索：由于关系安全与朋友的真实正向反馈（不同支持），这次减少了读心与个人化，从而出现更好的体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有少数可信赖的朋友提供接纳与正向反馈",
+          "态度积极，愿意尝试现实检验与认知重构",
+          "具备一定自我反思能力，能够提出更为平衡的替代想法"
+        ],
+        "negative_force": [
+          "在社交情境中易发生读心、过度概括与个人化",
+          "对评判的敏感导致回避与缩退，减少敞开",
+          "长期自我标签为‘异类’与‘懒散’，自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在新群体社交或滑板被他人注视时出现明显回避与缩退（减少交流、保持距离、不主动参与）",
+          "antecedent": [
+            "进入新群体或社交场合",
+            "在滑板场被他人注视或发生接触（如被人撞到）",
+            "遭遇他人的目光或负面评论"
+          ],
+          "core_reason": "高中时期的霸凌与贴标签经历被内化为‘我是异类/懒散’的核心信念，在当下以读心与个人化的自动化思维解读他人行为，产生强烈羞耻与焦虑。",
+          "function": "逃避可能的评判与羞辱，以保护自尊与情绪稳定。",
+          "consequence": "人际互动受损、难以享受滑板与社交活动，工作维持困难，自尊持续受影响。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 441
+}

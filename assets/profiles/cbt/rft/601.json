@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "林杰",
+      "gender": "男",
+      "occupation": "失业",
+      "educational_background": "接受过时装设计相关教育",
+      "marital_status": "已婚",
+      "family_status": "与配偶及嫂子共同居住",
+      "social_status": "社会支持系统薄弱，缺乏可倾诉对象",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗或咨询",
+      "language_features": "表达清晰、合作度高、语气平和；主观报告焦虑明显；在讨论求职路径时偏向理性分析利弊；存在灾难化、预测未来与个人化的认知倾向"
+    },
+    "main_problem": "我对自己的缺乏工作技能以及可能对未来造成的后果感到焦虑；当出现工作机会或与嫂子互动时，这种焦虑每日出现并加重，我担心如果今天不开始获取一些工作技能，就可能无家可归。",
+    "topic": "职业发展",
+    "core_demands": "寻求指导与支持，缓解因缺乏工作技能导致的焦虑，避免潜在的无家可归，并改善与嫂子的关系。",
+    "growth_experiences": [
+      "曾学习时装设计，但并未进入该领域工作，长期处于未就业状态；这一选择与经历成为当前职业技能不足与就业焦虑的重要来源。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有能力/没有可被雇佣的技能",
+        "我不够有价值，无法胜任工作",
+        "如果我不能尽快获得技能，就会失去安全与保障（无家可归）"
+      ],
+      "special_situations": [
+        {
+          "event": "出现具体的工作机会或求职信息",
+          "conditional_assumptions": "如果我的技能不足，我就会失败并最终失去居住与经济安全。",
+          "compensatory_strategies": "密集检索职位信息与培训机会，思考重返校园或参加在线课程以尽快提升技能。",
+          "automatic_thoughts": "我现在没有任何可用的技能，如果不立刻行动我可能会无家可归。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与嫂子互动时感受到其对失业的反感与不认可",
+          "conditional_assumptions": "如果家人不认可我的失业状态，说明我个人无能、让家庭蒙羞。",
+          "compensatory_strategies": "加大求职与技能获取的压力，回避家庭冲突话题，尽力证明自己在改善。",
+          "automatic_thoughts": "她讨厌我因为我没工作，我让家人失望了。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "权衡重返校园与参加在线课程等培训路径",
+          "conditional_assumptions": "如果所学途径不被雇主认可，我就不会被录用，努力将是徒劳。",
+          "compensatory_strategies": "停留在理性分析利弊与信息收集，延迟实际尝试行动。",
+          "automatic_thoughts": "在线课程不被认真对待；回校又太昂贵且耗时，我可能仍然找不到工作。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "意识到自己从未正式工作过并联想到经济与居住风险",
+          "conditional_assumptions": "没有工作经历等同于无法被雇佣，未来必然恶化。",
+          "compensatory_strategies": "焦虑驱动下的立即行动冲动（今天就要获得技能），同时又因不确定而停滞。",
+          "automatic_thoughts": "我从来没有真正工作过，这意味着我迟早会流落街头。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人与社会认可、获得稳定与安全（被接纳与被支持）。",
+        "fear": "害怕因失业被拒绝与羞辱、害怕失去基本生存与居住安全。",
+        "defense_goal": [
+          "通过迅速获取工作技能与表现顺从来维系关系与安全感",
+          "尽量避免与嫂子发生冲突，以获得接纳与减少羞耻感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判的、无能的失业者",
+          "object_representation": "挑剔且不认可自己的家庭成员（嫂子）",
+          "linking_affect": "羞耻、焦虑、压力"
+        },
+        {
+          "self_representation": "不够资格、缺乏技能的求职者",
+          "object_representation": "苛刻且不认可非传统培训路径的雇主/社会",
+          "linking_affect": "担忧、不确定、紧张"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师引导权衡重返校园与在线课程的利弊、或讨论具体行动计划时",
+          "interpretation": "来访者倾向以理性的利弊分析来与焦虑保持距离，将不确定性视为可能的拒绝（移情：将外界视为苛刻评判者）。",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用中性、分析性的语气，围绕成本与效益提出问题与论点，弱化情绪表达，避免涉及羞耻与恐惧的感受细节。"
+        },
+        {
+          "trigger_condition": "当提及嫂子对其失业的反感或家庭对就业的期待时",
+          "interpretation": "将他人的期待与评判未经消化地当作自己的标准：必须尽快就业才算有价值（移情：将家庭他者视为权威评判者）。",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "语气顺从、强调“会尽快找到工作/提升技能”，避免表达不同意见或内在不满，以减少关系张力。"
+        },
+        {
+          "trigger_condition": "当谈及未来就业前景与可能的居住/经济风险时",
+          "interpretation": "将不确定的未来视为灾难性结局，认为失败不可避免（移情：外部世界被体验为充满威胁）。",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "在表达担忧时加入具体准备步骤与应对计划，语气审慎但不过度渲染恐惧，保持现实可行性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "社会支持系统薄弱，缺乏可倾诉对象",
+            "在家庭中感到被不认可与疏离（嫂子对失业的不满）"
+          ],
+          "outcomes": [
+            "持续性焦虑",
+            "日常功能与自我照护下降",
+            "家庭关系紧张"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "学习过时装设计却未从事相关职业，长期未就业造成方向感缺失",
+            "对不同培训途径的价值与有效性产生怀疑"
+          ],
+          "outcomes": [
+            "对职业路径的停滞与犹豫",
+            "内在价值感降低、羞耻感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "担心在线课程“不被认真对待”，对自身不足过度苛责",
+            "在行动前反复权衡利弊，延迟实际尝试"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将自身的无力与羞耻体验投射为雇主与他人普遍的否定态度（担心路径不被认可）",
+            "与嫂子互动时把自我价值焦虑外化为他人的嫌弃"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "在焦虑高涨时“想完全关机”，停止外向接触与尝试",
+            "不与家人直接沟通冲突，转而自我压力化解"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动寻求咨询与支持，愿意面对问题",
+          "愿意进行信息搜集与权衡不同技能获取路径（课程、志愿、学徒）",
+          "具备一定教育基础（时装设计），存在可转化的潜在资源"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的认知方式强化焦虑并阻碍行动",
+          "长期未就业导致自我效能感低与羞耻感",
+          "家庭压力与不认可增加焦虑与回避",
+          "社会支持薄弱、缺乏现实中的鼓励与资源连接"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作相关情境下的强烈焦虑与回避",
+          "antecedent": [
+            "出现工作机会或求职信息时",
+            "与嫂子互动并感受到其不满时",
+            "想到自己从未正式工作过及可能的居住/经济风险时"
+          ],
+          "core_reason": "将技能不足与未来居住安全直接等同，灾难化与预测未来加剧焦虑；对他人评判高度敏感。",
+          "function": "逃避被拒绝与羞耻的情绪体验，暂时降低压力与不确定性。",
+          "consequence": "日常作息与自我照护下降，行动延迟或停滞，求职与技能提升受阻，家庭关系紧张。"
+        },
+        {
+          "behavior": "在焦虑高涨时的“关闭/停摆”（关机）与信息处理过载后的退避",
+          "antecedent": [
+            "权衡培训路径无果、感到前景不确定时",
+            "家庭压力与负性评价增加时"
+          ],
+          "core_reason": "被不确定性与灾难化预期压倒，选择通过停止外向接触来缓解内在紧张。",
+          "function": "短期自我保护，避免进一步情绪激活与外界评判。",
+          "consequence": "行动中断，无法持续推进求职与技能获取，问题维持甚至加重。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 601
+}

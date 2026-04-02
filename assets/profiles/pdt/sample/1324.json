@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "79",
+      "name": "李博文",
+      "gender": "男",
+      "occupation": "无人机制造工程师",
+      "educational_background": "机械工程学位",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与几位同好为友，但近期因自我怀疑而回避动漫相关聚会，关系有所紧张",
+      "medical_history": "无重大躯体疾病史；既往无心理治疗史",
+      "language_features": "表达清晰、逻辑性好；态度积极、配合度高；有轻度紧张与羞涩；具备自我反思能力"
+    },
+    "main_problem": "因为错过了最近的动漫新番而觉得自己是个无用的动漫粉，产生自我批评与自卑，这种感受逐渐加重并影响情绪与生活。",
+    "topic": "情绪管理",
+    "core_demands": "希望通过咨询应对并缓解自我怀疑与自我批评，恢复对爱好的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我是无能的"
+      ],
+      "special_situations": [
+        {
+          "event": "新番上线而因工作忙无法第一时间观看",
+          "conditional_assumptions": "如果不能及时跟上最新进度，就说明我不合格/不够好",
+          "compensatory_strategies": "周末强行补看以证明自己价值",
+          "automatic_thoughts": "错过新番就说明我是个没用的粉",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "看到朋友们都在及时追更并讨论新番",
+          "conditional_assumptions": "如果我跟进不如他们，就会被看轻、很丢脸",
+          "compensatory_strategies": "回避参加动漫相关的社交聚会以避免被比较和评价",
+          "automatic_thoughts": "大家都能做到，只有我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "周末补看动漫时注意到自己之前“落后”的事实",
+          "conditional_assumptions": "只有完全跟上进度才能算享受、才算合格的粉丝",
+          "compensatory_strategies": "把观影当成任务，观影中自我苛责",
+          "automatic_thoughts": "现在补看也没有意义，我已经落后了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到向朋友表达自己的尴尬与难处",
+          "conditional_assumptions": "如果我说出来，别人会觉得我在抱怨、我不是真正的粉丝",
+          "compensatory_strategies": "压抑感受、不向朋友求助",
+          "automatic_thoughts": "他们会觉得我在小题大做",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被同好群体接纳、被认可为“足够好”的自己并自在地享受兴趣",
+        "fear": "害怕因“不够好/跟不上”而被羞辱、排斥与否定",
+        "defense_goal": [
+          "通过回避社交与自我批评来预防被评价的羞耻感",
+          "压抑脆弱与需要以维持表面的自我控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后、羞愧的“不合格爱好者”",
+          "object_representation": "苛刻评判、始终更胜一筹的同伴群体",
+          "linking_affect": "羞耻、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及与他人比较或承认“跟不上新番”时",
+          "interpretation": "认为他人（或咨询师）会像同伴那样评判自己“不够好”",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气克制而简短，回避深入情绪感受的描述，优先陈述事实层面。"
+        },
+        {
+          "trigger_condition": "当被鼓励向朋友表达需要或寻求支持时",
+          "interpretation": "担心表达脆弱会被视为麻烦或矫情，从而遭到轻视",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责性语言回应（如“都是我不行”），语气自我贬低，弱化对他人合理期待。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对动漫的热情与意义感动摇",
+            "补看时难以享受，体验到空洞与失落"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "自我怀疑与自我贬低增强"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "主动回避与同好聚会与讨论",
+            "未向亲近朋友表达真实困扰"
+          ],
+          "outcomes": [
+            "人际关系紧张",
+            "羞耻与疏离感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "以“必须/应该跟上”为标准苛责自己",
+            "频繁自我贴标签“我不够好/无能”",
+            "在社交与表达需要上过度谨慎"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为朋友会觉得自己在抱怨或不是真正的粉丝",
+            "预设他人会轻视自己而选择沉默与回避"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友求助或表达困扰",
+            "将向外沟通的能量转为自我批评与自责"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "工作表现良好且稳定",
+          "拥有几位兴趣相投的朋友（潜在社会支持）",
+          "对问题有自我觉察并主动求助",
+          "态度积极，愿意尝试行为实验与新策略"
+        ],
+        "negative_force": [
+          "过度自我批评，将自我价值与表现绑定",
+          "非黑即白与比较型思维倾向",
+          "社交回避以规避评价与羞耻",
+          "心理过滤，忽视已投入与喜爱体验",
+          "睡眠受影响与情绪低落加重消耗"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "自我贬低与过度自我批评（如“我不够好/无能”）",
+          "antecedent": [
+            "新番上线而无法及时观看",
+            "与朋友讨论新番的场景",
+            "想到自己“落后”的瞬间"
+          ],
+          "core_reason": "将自我价值与是否“及时跟上爱好”紧密绑定，并以非黑即白的标准衡量自我",
+          "function": "逃避被他人评价的羞耻与焦虑，通过自我施压寻求控制感",
+          "consequence": "情绪低落与自卑加重，兴趣与享受感下降，睡眠改变"
+        },
+        {
+          "behavior": "回避动漫相关社交（减少参加同好聚会/讨论）",
+          "antecedent": [
+            "受邀参与同好聚会或线上讨论",
+            "看到他人及时追更的情境"
+          ],
+          "core_reason": "害怕比较与被评价，预期会被视为“不合格”从而体验羞耻",
+          "function": "逃避不受欢迎的评价与社交焦虑",
+          "consequence": "与朋友关系紧张、疏离感与孤独感增加"
+        },
+        {
+          "behavior": "以工作分心来回避不适情绪",
+          "antecedent": [
+            "出现自我怀疑与羞耻的念头时",
+            "想到自己“落后”引发焦虑时"
+          ],
+          "core_reason": "通过分心策略压抑与推开负性情绪与念头",
+          "function": "短期缓解不适并延迟面对问题",
+          "consequence": "负性情绪与信念未被修正，长期维持问题循环，进一步削弱对爱好的享受"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1324
+}

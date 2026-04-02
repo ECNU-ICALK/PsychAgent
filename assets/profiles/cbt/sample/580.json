@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "魏亚特",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一些朋友可讨论一般问题，但尚未与他们讨论此具体困扰",
+      "medical_history": "无显著身体疾病；此前未接受心理咨询；未有类似问题经历",
+      "language_features": "表达清晰、逻辑性较好，能进行自我反思；配合度高、态度积极但略显紧张；能与咨询师合作进行认知重构"
+    },
+    "main_problem": "我在看恐怖电影后感到失望和沮丧，电影常常开头很好但结尾变得愚蠢，毁掉整体体验，这使我对探索新电影变得犹豫。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为我对恐怖电影的失望影响了我享受爱好和休闲时间。",
+    "growth_experiences": [
+      "约一年前，在一次特别压力大的项目中错过了截止日期，此后一直难以跟上进度，开始出现显著的自我怀疑；工作表现受影响，注意力难以集中、长期感到压力增大，并使与同事的关系紧张。尽管获得过老板的赞扬与奖项，来访者仍难以相信这些积极反馈，常觉得错过的截止日期抵消了成绩。",
+      "几个月前开始将观看恐怖电影作为爱好，逐渐发现许多电影“开头很好但结尾很差”，因此在观影后产生强烈的失望与沮丧，并对探索新影片感到犹豫。为避免失望，他尝试通过查阅影评与推荐来选择影片，但问题未得到解决，休闲体验受到影响。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中错过截止日期",
+          "conditional_assumptions": "如果我不能按时完成任务，就说明我不称职/就是失败",
+          "compensatory_strategies": "尝试改进时间管理并向同事求助以弥补不足",
+          "automatic_thoughts": "我就是个失败者；我永远做不好这份工作",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "获得老板的表扬与奖项",
+          "conditional_assumptions": "如果存在明显的瑕疵（如错过截止），那么所有正面反馈都不算数",
+          "compensatory_strategies": "强调负面证据、淡化或否定积极成果以维持自我标准的一致性",
+          "automatic_thoughts": "这些表扬不可信；错过截止就把所有好成果都抵消了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "观看恐怖电影：开头很好但结尾不佳",
+          "conditional_assumptions": "如果结尾不完美，整部电影就被毁了",
+          "compensatory_strategies": "观影前大量查阅影评与推荐以避免失望",
+          "automatic_thoughts": "结尾太糟，这部电影完全被毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "准备探索新的恐怖电影",
+          "conditional_assumptions": "如果再次被辜负，我的休闲时间就会被浪费且心情更糟",
+          "compensatory_strategies": "犹豫并回避尝试新影片",
+          "automatic_thoughts": "我肯定会再次被电影辜负",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、工作上胜任，并在休闲中获得满意与愉悦",
+        "fear": "害怕失败与被否定；害怕不完美会使自身价值被全盘否定",
+        "defense_goal": [
+          "通过维持严格的自我标准与否定积极反馈来降低被失望或被否定的风险",
+          "以非黑即白的评价方式获取确定感",
+          "通过回避探索新影片来保持情绪稳定、避免再次受挫"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的员工",
+          "object_representation": "严格评判、最终会否定自己的他者（如上司/同事）",
+          "linking_affect": "焦虑、羞耻、自我怀疑"
+        },
+        {
+          "self_representation": "容易被辜负的观众",
+          "object_representation": "起初吸引但最终会让人失望的电影/创作者",
+          "linking_affect": "失望、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人给予积极反馈或表扬时",
+          "interpretation": "来访者倾向认为这些评价不真实或被负面事件抵消（移情：将外界反馈视为不可靠的评判）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气谨慎，强调负面证据，用“但是/尽管如此”来否定积极反馈，弱化成就的意义。"
+        },
+        {
+          "trigger_condition": "在面对质量参差或结局不佳的作品时",
+          "interpretation": "将事物划分为“全好或全坏”，不承认中间地带与复杂性（移情：把复杂体验简化为极端评价）",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化语言（如“完全”“彻底”），坚持二元对立的评价框架，回避讨论正负并存的细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "休闲活动（观影）体验被结尾评判“毁掉”，难以从爱好中获得满足",
+            "对积极部分难以接纳，体验的意义被负面细节覆盖"
+          ],
+          "outcomes": [
+            "失望与沮丧情绪增强",
+            "对探索新影片产生犹豫与回避",
+            "休闲生活的满足感下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因“担心被辜负”而减少选择与探索新电影的自由"
+          ],
+          "outcomes": [
+            "行为回避、选择受限",
+            "对未来体验的焦虑上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "难以相信外界的赞扬与奖项，自我否定占主导",
+            "遇到负面细节时过度苛责自己，忽略正面信息"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "形成“必须按时完成，否则就不合格”的僵化标准",
+            "以“应该/必须”类规则评判作品与自我表现"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意参与并配合咨询，态度积极",
+          "曾获得老板表扬与奖项，说明具备较好的能力基础",
+          "已经尝试时间管理与向同事求助，具备一定的应对与改进意愿"
+        ],
+        "negative_force": [
+          "非黑即白思维与心理过滤倾向明显，易否定积极证据",
+          "高期待与过度苛评导致失望与沮丧",
+          "自我怀疑与对失败的恐惧，促使回避探索新影片",
+          "压力增大与注意力下降，影响工作与人际"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "观看恐怖电影后出现强烈失望与沮丧，并回避探索新影片",
+          "antecedent": [
+            "观看恐怖电影且结尾不佳",
+            "考虑观看新的恐怖电影时担心再次被辜负"
+          ],
+          "core_reason": "对作品品质与结尾抱有高期待，伴随非黑即白思维与心理过滤，将负面部分视为全盘否定的依据",
+          "function": "逃避负面情绪与再次失望，维持情绪稳定与确定感",
+          "consequence": "休闲娱乐的享受受损，对探索新影片犹豫"
+        },
+        {
+          "behavior": "在工作中因错过截止日期产生强烈自我贬损与自我怀疑",
+          "antecedent": [
+            "经历压力大的项目并错过截止日期",
+            "面对进度落后或繁重任务时"
+          ],
+          "core_reason": "在绩效评价上使用非黑即白思维与心理过滤，将瑕疵视为全盘失败的证据",
+          "function": "通过自我批评来获得对不完美的心理控制感并避免面对复杂评价",
+          "consequence": "注意力下降、压力增大、与同事关系受影响、工作表现受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 580
+}

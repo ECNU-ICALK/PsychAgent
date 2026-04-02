@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "林娜",
+      "gender": "女",
+      "occupation": "通勤者",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有少数朋友可倾诉，但他们不完全理解其对素食营养的担忧，人际关系开始紧张",
+      "medical_history": "未曾有类似心理问题；既往未接受其他心理治疗；无重大躯体疾病",
+      "language_features": "略显紧张但态度积极，表达清晰、逻辑性较好，能具体描述困扰与想法，配合度高"
+    },
+    "main_problem": "我后悔成为素食者，并坚信我会因为这一饮食选择而很快因营养不良而死亡。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到对营养不良的恐惧影响了我享受用餐的能力，并带来不必要的压力，因此决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "不吃肉意味着无法获得必需营养",
+        "我会因营养不良而很快死亡"
+      ],
+      "special_situations": [
+        {
+          "event": "在用餐时，会想到自己是否获得了所有必需营养",
+          "conditional_assumptions": "如果我不吃肉，就会缺乏必需营养，从而危及健康与安全",
+          "compensatory_strategies": "在饮食中过度关注蛋白质和铁，难以享受用餐",
+          "automatic_thoughts": "我很快会因营养不良而生病甚至死亡",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在网上看到关于素食营养的相互矛盾信息",
+          "conditional_assumptions": "如果信息相互矛盾，就说明风险更高且无法保证营养安全",
+          "compensatory_strategies": "频繁查阅网络文章，试图寻找绝对确定的答案",
+          "automatic_thoughts": "素食对健康是危险的",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "当注意到餐食中没有肉类时",
+          "conditional_assumptions": "餐食没有肉就等于营养不足与不健康",
+          "compensatory_strategies": "将是否吃肉作为健康与安全的主要标准",
+          "automatic_thoughts": "没有吃肉就不健康",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在工作时被关于营养的担忧占据注意力",
+          "conditional_assumptions": "如果继续素食，我的身体会逐渐垮掉，工作能力也会受损",
+          "compensatory_strategies": "反复自我监控并在脑中演练最坏情况",
+          "automatic_thoughts": "事情会越来越糟，我可能会倒下",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持健康与安全，能安心地进食",
+        "fear": "害怕因素食导致营养不良甚至死亡",
+        "defense_goal": [
+          "通过持续监控与理性分析来降低焦虑并确保安全"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被担忧困住、容易被误解的素食者",
+          "object_representation": "不理解且无法提供确定答案的他人/信息来源",
+          "linking_affect": "焦虑、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及饮食健康或阅读冲突的营养信息时",
+          "interpretation": "认为只有数据与专家意见才能保证安全，否则就会出事",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以中性、分析性的语气交流，引用数据与逻辑，淡化情绪体验，不急于触碰恐惧感受。"
+        },
+        {
+          "trigger_condition": "当朋友或他人表示“不理解”其营养担忧时",
+          "interpretation": "将他人的不理解视为对自己选择的否定，倾向以“讲道理”回避失落感",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "保持礼貌但疏离的语气，描述事实与理由，避免直接表达失望或需求，减少自我情绪揭露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "六个月前转为素食后，几乎每日在用餐时反复出现“会因营养不良而死”的想法",
+            "将素食视为对健康与幸福的威胁",
+            "睡眠被对营养与死亡的担忧所打扰"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "睡眠障碍",
+            "人际关系紧张",
+            "工作注意力下降",
+            "难以享受用餐"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "用餐时反复审视是否摄入足够营养",
+            "在工作时不断关注身体状态与营养是否足够",
+            "过度担心自己的选择是否正确"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "谈到恐惧时转向讨论文章与理论以弱化情绪",
+            "用较为泛化或理性的方式描述，回避直接体验焦虑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有清晰的价值动机（出于动物福利与环境考量选择素食）",
+          "愿意求助并接受专业指导（态度积极）",
+          "能关注营养要素（留意蛋白质与铁）",
+          "具备基本社会支持（有少数朋友可倾诉）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白等认知偏差显著",
+          "过度关注不确定性与矛盾信息，增强焦虑",
+          "睡眠受扰与专注力下降形成负强化循环",
+          "朋友不理解导致外部支持弱化与自我怀疑增强"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对素食会导致营养不良与死亡的反复担忧（焦虑）",
+          "antecedent": [
+            "用餐时",
+            "阅读关于素食营养的相互矛盾信息",
+            "注意到餐食中没有肉类",
+            "与朋友讨论饮食并被“不理解”时"
+          ],
+          "core_reason": "将不吃肉与营养不良直接等同，并对未来健康结果进行灾难化与预测性推断",
+          "function": "通过持续担忧与自我监控来获得安全感与控制感，避免不确定感",
+          "consequence": "难以享受用餐、睡眠受扰、工作表现下降、人际关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1301
+}

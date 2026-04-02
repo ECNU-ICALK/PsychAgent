@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "夏可宁",
+      "gender": "女",
+      "occupation": "未就业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与家人关系紧张且疏离",
+      "social_status": "社会支持薄弱",
+      "medical_history": "无重大躯体疾病；既往未接受过心理治疗",
+      "language_features": "略紧张但抱有希望；配合度高；能清晰表达并逻辑连贯"
+    },
+    "main_problem": "对日常生活感到失望，常常白日梦自己成为动物或在太空生活，这些想法使我认为不该追求结婚和生育。",
+    "topic": "自我探索",
+    "core_demands": "我想了解自己为什么会有这种感觉，并看看是否有可以改变的地方。",
+    "growth_experiences": [
+      "青少年时期因家庭冲突和学业压力而首次出现对日常生活的强烈失望感，这种感受延续至成年；在家庭压力或冲突加剧时反复出现。",
+      "与家人关系长期紧张、疏离，缺乏有力的社会支持，影响其人际互动与情感安全感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "普通生活不会带来满足",
+        "进入婚姻和生育会束缚我、让我失去自由",
+        "我与社会的传统期待格格不入"
+      ],
+      "special_situations": [
+        {
+          "event": "看到传统家庭单元（如夫妻带孩子出行）或接触关于婚姻与生育的社会期待",
+          "conditional_assumptions": "如果我进入这种传统家庭角色，就会失去自由与自我",
+          "compensatory_strategies": "避免亲密关系与婚育话题；以白日梦（成为动物/太空生活）来逃避现实",
+          "automatic_thoughts": "那样的生活是一个陷阱，我会失去自由",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在日常生活中面对琐碎例行事务（自我照料、家务、工作/求职）",
+          "conditional_assumptions": "如果这些常规事务无法给我带来显著的快乐，说明普通生活本质上没有意义",
+          "compensatory_strategies": "减少投入与自我照料；沉浸科幻/太空主题以获得短暂安慰",
+          "automatic_thoughts": "普通生活没有意义，做这些事只是浪费生命",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "听到他人讨论或暗示“应当结婚生子”等社会规范",
+          "conditional_assumptions": "如果我不遵循这些‘应该’，就证明我不正常、没有归属",
+          "compensatory_strategies": "用“我不应该结婚生子”来确立自我规则并与主流保持距离；回避与家人的相关谈话",
+          "automatic_thoughts": "我不应该结婚生子，这不是属于我的生活",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "回想家庭冲突与学业压力时期的经历",
+          "conditional_assumptions": "如果过去的压力一直存在，未来也不会改善，传统道路只会加重痛苦",
+          "compensatory_strategies": "通过幻想理想化的逃离（太空/动物）来对冲无力感；不主动寻求现实中的改变策略",
+          "automatic_thoughts": "我的未来也会像过去一样令人失望",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持自由与自我选择，被理解与接纳而无需符合传统期待",
+        "fear": "害怕被传统角色吞没、失去自我与自由，被评判为“不正常”",
+        "defense_goal": [
+          "通过保持疏离与回避婚育来确保自主感",
+          "以幻想/白日梦缓冲现实压力与失望感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被理解、与主流格格不入的局外人",
+          "object_representation": "社会与传统家庭角色是限制自由的评判者/控制者",
+          "linking_affect": "失望、焦虑、无力感"
+        },
+        {
+          "self_representation": "在家庭冲突中疲惫且缺乏支持的女儿",
+          "object_representation": "令人紧张、充满冲突且难以提供支持的家庭",
+          "linking_affect": "紧张、疏离、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及婚姻、生育或遵循社会规范的议题时",
+          "interpretation": "潜意识将他人/社会视为会强行把自己纳入传统角色的控制者（移情：将过往家庭压力投射到当下关系）",
+          "defense_mechanism": "sring",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "以疏离且轻描淡写的语气转向谈论太空、科幻等话题，减少情感卷入，强调“自由”“不被束缚”的价值词。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其具体化现实改变方案或进行常规活动监测时",
+          "interpretation": "将探索现实改变理解为被迫顺从常规，从而感到被控制与失去自主",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用条理化的解释强调“那样的生活没有意义”“我不适合”，以理性理由回避行动承诺；语气冷静、字词抽象。"
+        },
+        {
+          "trigger_condition": "当被询问情绪体验细节并聚焦当下感受时",
+          "interpretation": "担心暴露脆弱会引来评判或被要求改变",
+          "defense_mechanism": "sring",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用客观化的描述，减少第一人称情感词，保持平稳语气并避免细节。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "将婚姻与生育视为“陷阱”与“失去自由”的生活",
+            "在看到传统家庭与社会期待时产生强烈不适与回避",
+            "倾向以幻想（成为动物/太空生活）来维护自由感"
+          ],
+          "outcomes": [
+            "回避亲密关系与未来规划",
+            "动力不足、日常自我照料受影响",
+            "持续的失望与疏离感"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对普通生活与常规事务缺乏乐趣与满足",
+            "日常活动中难以找到价值感",
+            "社会期待被体验为空洞或压迫"
+          ],
+          "outcomes": [
+            "低愉悦感与情绪低落",
+            "求职与日常功能受损",
+            "社会支持进一步减弱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。语言表现为：“说起来就…哈哈开个玩笑吧”，“理论上……”等",
+          "manifestations": [
+            "在触及婚育/传统生活话题时，转而谈论太空、科幻或理想化的逃离",
+            "以幻想来避免直接感受失望与焦虑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "认为自己“不正常”、对自我价值苛责",
+            "在讨论现实改变时过度担心失去自主，谨慎而犹疑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对日常家务与自我照料等常规事务时，来访者通常会感到强烈失望并缺乏动力，常以幻想逃避。",
+          "unique_outcome": "在晚上独自阅读科幻小说或观看太空纪录片时，她没有像往常那样陷入失望情绪，而是体验到些许宁静与兴趣，能持续投入一段时间。",
+          "reason": "不同做法：选择与个人兴趣高度匹配的内容；不同情境：安静的独处环境、任务可控，外界社会期待线索较少，因此情绪负荷降低。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对科幻与探索主题有稳定兴趣，能在相关活动中获得宁静与专注",
+          "求助意愿与态度积极，愿意尝试观察与记录自身体验",
+          "表达清晰、配合度高，有一定自我觉察动机"
+        ],
+        "negative_force": [
+          "持续的失望与无意义感，情绪化推理强化消极信念",
+          "以幻想/白日梦作为主要回避策略，现实参与度低",
+          "社会支持薄弱，家庭关系紧张",
+          "对婚育与社会规范持“应该/不应该”的僵化信念，害怕失去自由"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "以白日梦（成为动物/太空生活）逃避现实",
+          "antecedent": [
+            "看到传统家庭或想到社会期待",
+            "面对日常自我照料与琐碎事务"
+          ],
+          "core_reason": "对传统生活“失去自由”的恐惧与“普通生活无意义”的信念促发负性情绪，借幻想缓解失望与焦虑",
+          "function": "逃避不受欢迎的事物（现实压力与负性情绪），获得短暂安慰",
+          "consequence": "现实参与度下降，求职与日常功能受损，强化对普通生活的消极认知"
+        },
+        {
+          "behavior": "回避婚恋与未来规划",
+          "antecedent": [
+            "他人讨论婚姻与生育",
+            "家人/社会对传统角色的期待"
+          ],
+          "core_reason": "担心被传统角色吞噬、失去自主与自由",
+          "function": "维持安全感与自我边界，避免被控制的主观体验",
+          "consequence": "亲密关系与社会支持弱化，未来选择受限，加剧孤独与失望感"
+        },
+        {
+          "behavior": "自我照料与日常任务执行不足",
+          "antecedent": [
+            "持续的失望感与低动机",
+            "面对重复、缺乏即时回报的任务"
+          ],
+          "core_reason": "对“普通生活无意义”的认知导致动机低落，避免投入",
+          "function": "逃避耗能任务与负性情绪",
+          "consequence": "生活质量下降、功能受损，进一步强化无意义感与自我否定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 465
+}

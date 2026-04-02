@@ -1,0 +1,15 @@
+name: before_rft
+family: specific_llm
+backend: openai_api
+model: default
+base_url: http://10.102.252.187:30000/v1
+api_key_env: SGLANG_API_KEY
+temperature: 0.9
+max_tokens: 8196
+memory_mode: public_recap
+max_sessions: 20
+max_counselor_turns: 45
+end_token: "</end>"
+timeout_sec: 120
+max_retries: 16
+retry_sleep_sec: 1.0

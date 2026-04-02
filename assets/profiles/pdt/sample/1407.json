@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "高文",
+      "gender": "男",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "独自与一只宠物猫生活，母亲曾是护士；朋友或家人支持有限",
+      "social_status": "更倾向独处，社交支持系统有限",
+      "medical_history": "既往未接受心理治疗；无显著躯体疾病；此前未经历过类似的财务压力",
+      "language_features": "态度中立；表达清晰，能具体描述困扰与证据；配合度较好；在谈及财务与未来时呈现焦虑与悲观"
+    },
+    "main_problem": "因咖啡馆服务员的低收入而产生财务不安全与压力，进而对未来和储蓄能力感到绝望；这些感受在过去一个月因储蓄计划进展不如预期而加剧。",
+    "topic": "职业发展",
+    "core_demands": "因为财务压力影响心理健康与整体福祉，寻求咨询支持与指导，减轻压力并获得更平衡的看法。",
+    "growth_experiences": [
+      "六个月前开始在咖啡馆担任服务员后，首次经历持续的财务不安全与压力；最初压力中等，近一个月因储蓄计划未如预期推进而显著升级，几乎每天在思考财务与未来时出现这些感受。",
+      "家庭与社会支持较为有限：目前独居，仅与一只宠物猫相伴；母亲曾是护士；更倾向独处，与朋友或家人联系有限，在讨论财务困境时常感到不堪。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的未来注定无望",
+        "我无法实现财务安全"
+      ],
+      "special_situations": [
+        {
+          "event": "查看银行账户余额偏低",
+          "conditional_assumptions": "如果账户余额过低，就说明我无法实现财务安全，未来会很糟糕",
+          "compensatory_strategies": "通过加班与严格预算来试图重新掌控局面",
+          "automatic_thoughts": "我永远存不够，未来完了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "意识到储蓄计划近期没有明显进展",
+          "conditional_assumptions": "如果短期内看不到清晰进度，就等于计划被毁，说明我做得很失败",
+          "compensatory_strategies": "频繁检查储蓄与收入、主动多接加班班次",
+          "automatic_thoughts": "我的储蓄计划已经毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "思考自己的未来职业前景",
+          "conditional_assumptions": "如果目前收入低且看不到改善，就会一直被困在低薪工作里，无法改变",
+          "compensatory_strategies": "回避与他人讨论财务与未来、减少社交",
+          "automatic_thoughts": "我会永远当服务员",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "忙碌周末收入增加并比预期多存了一些钱",
+          "conditional_assumptions": "偶发的好转不算数，只有稳定且持续的大幅提升才意味着真正改善",
+          "compensatory_strategies": "淡化正面结果以避免期望过高后失望",
+          "automatic_thoughts": "这次只是运气，并没有意义",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与支持，并获得稳定的安全感与可预期的未来",
+        "fear": "害怕公开自身困境后遭遇评判或失望；害怕失败与失控感",
+        "defense_goal": [
+          "通过保持距离与自我隔离减少脆弱暴露",
+          "依赖理性与数据来控制情绪、降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤立、无助的压力承受者",
+          "object_representation": "可能不理解或会施压/评判的他人",
+          "linking_affect": "焦虑、羞愧、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被他人询问财务状况或需要讨论未来计划时",
+          "interpretation": "倾向认为他人难以理解自己，并可能带来压力或评判，因而转向理性与数据以降低情绪强度",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以数据和事实为主进行回答，语气平静、减少情感用词，回避表达内在感受。"
+        },
+        {
+          "trigger_condition": "看到银行账户余额偏低或想到账单堆积时",
+          "interpretation": "将强烈的无助与恐惧情绪与情境分离，优先呈现干巴巴的事实以避免被情绪压倒",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "简要叙述数字与支出，快速转向行动或任务细节，不触及恐惧或羞耻等情绪体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对未来感到“无望”“被困住”，认为储蓄无法增长、努力不产生意义"
+          ],
+          "outcomes": [
+            "绝望与焦虑加重",
+            "工作表现下降",
+            "失眠与进食改变"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "更倾向独处，讨论财务困境时感到不堪而回避与他人接触",
+            "社会支持有限"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "主观支持感降低，压力维持与放大"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在财务压力下不向他人表达与求助，选择自我隔离",
+            "把精力转向加班与自我克制（如在压力下跳过进食）以独自承受困境"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在日常收入偏低的情况下，来访者通常会灾难化地认为储蓄无法增长、对未来感到绝望，并出现失眠与工作分心。",
+          "unique_outcome": "上个月一个周末因客流量很大而收入增加，比预期多存了一些钱；其后几天心情稍有好转、压力相对缓解。",
+          "reason": "情境不同：周末客流量大、收入波动向好；做法不同：主动加班与多接班次。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "能够主动尝试预算与多接班次（有行动策略）",
+          "在高峰期收入有提升的可能（外部条件存在波动空间）",
+          "愿意寻求咨询支持并探索思维模式（改变动机与自我觉察）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、过度概括、预测未来等认知偏误维持无望感",
+          "否定积极事件的影响，难以将短期好转整合进整体评估",
+          "社交隔离与支持不足导致压力循环",
+          "睡眠与饮食受损降低精力，进一步影响工作与情绪"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "关于财务的灾难化与预测未来的自动思维",
+          "antecedent": [
+            "查看银行账户余额",
+            "思考未来职业前景",
+            "看到账单或支出增加"
+          ],
+          "core_reason": "低收入引发的财务不安全感与认知偏误（灾难化、非黑即白、过度概括、预测未来）",
+          "function": "通过预警最坏结果来尝试获得控制并降低不确定性（逃避失望）",
+          "consequence": "焦虑与绝望加重，失眠增加，工作注意力与绩效下降"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "被他人询问财务困境",
+            "需要讨论未来计划或寻求支持的情境",
+            "想到与他人分享压力时的不堪体验"
+          ],
+          "core_reason": "讨论财务困境时感到不堪与压力，倾向避免外界接触以减少情绪负荷",
+          "function": "逃避不适情绪与可能的他人反应",
+          "consequence": "支持减少、孤独感上升，问题在自我循环中强化"
+        },
+        {
+          "behavior": "睡眠受损（失眠）与进食改变（跳过餐食）",
+          "antecedent": [
+            "夜间反复担忧财务与未来",
+            "压力升高的时段（如查看账户或预估账单后）"
+          ],
+          "core_reason": "持续的压力与负性自动思维引发生理反应与行为改变",
+          "function": "短期避免与减轻不适（逃避性反应），但并未真正解决问题",
+          "consequence": "精力与体力下降，工作表现与情绪调节能力进一步受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1407
+}

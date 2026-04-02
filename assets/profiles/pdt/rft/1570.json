@@ -1,0 +1,196 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "赵丹妮",
+      "gender": "女",
+      "occupation": "图书管理员",
+      "educational_background": "图书情报学硕士",
+      "marital_status": "单身",
+      "family_status": "独居，养两只猫",
+      "social_status": "与同事的关系受到其自我批评影响；有一位亲密朋友，但未分享作为馆员的无能感",
+      "medical_history": "无重大躯体疾病；无其他心理问题治疗史；既往未出现类似问题",
+      "language_features": "表达清晰、配合度高，略显紧张但开放；能与咨询师合作设定目标与计划"
+    },
+    "main_problem": "因在工作中将一本书放错书架而认为自己是“糟糕的馆员”，事件后开始出现无能感、过度思考与焦虑，影响工作与生活。",
+    "topic": "职业发展",
+    "core_demands": "希望重拾工作中的自信，停止过度焦虑和自我怀疑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个糟糕的馆员",
+        "我不称职/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在图书馆将一本书放回了错误的书架",
+          "conditional_assumptions": "如果我在工作中犯错，就证明我不称职，是一个糟糕的馆员",
+          "compensatory_strategies": "加倍小心、强化整理与检查流程，反复自我审查以避免再犯错",
+          "automatic_thoughts": "我把书归错架，所以我是个糟糕的馆员",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "负责大型书籍陈列任务时担心组织不当",
+          "conditional_assumptions": "只有做到完全正确、没有任何差错，才说明我称职",
+          "compensatory_strategies": "在任务过程中持续过度思考细节、反复确认，投入过多时间以追求“零错误”",
+          "automatic_thoughts": "我肯定会把陈列搞砸",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对图书馆的多项任务并行、压力增大",
+          "conditional_assumptions": "当任务很多且压力大时，我一定会控制不住并犯更多错误",
+          "compensatory_strategies": "尝试更严格的组织与安排，事前过度准备与检查",
+          "automatic_thoughts": "任务太多我会继续犯错，证明我不胜任",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次在工作中出现错误或遇到挑战性情境",
+          "conditional_assumptions": "一旦感到不安或怀疑，就说明我确实不称职",
+          "compensatory_strategies": "立即进行自我批评、不断回放细节，以期通过自责来避免再犯错",
+          "automatic_thoughts": "我感觉很糟糕，所以我真的很糟糕",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为专业、称职并保持工作中的自信与价值感",
+        "fear": "害怕被同事或他人视为无能、被批评或否定，从而失去工作满意感",
+        "defense_goal": [
+          "通过高度自我监控与自我批评来避免错误与外界评价",
+          "保持谨慎与回避暴露脆弱以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时可能犯错的员工",
+          "object_representation": "挑剔、会注意并评价错误的同事",
+          "linking_affect": "焦虑、羞耻"
+        },
+        {
+          "self_representation": "容易被认为在夸大问题的人",
+          "object_representation": "可能认为我“反应过度”的朋友",
+          "linking_affect": "担心、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其更直接地表达脆弱感受、探讨自我怀疑来源时",
+          "interpretation": "担心暴露脆弱会被视为“反应过度”或不被理解",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用温和、肯定的语气；多使用情感反映与身体感受询问，引导其停留于情绪体验而非仅用理性解释。"
+        },
+        {
+          "trigger_condition": "当谈及是否向亲密朋友分享感受时",
+          "interpretation": "认为表达会打扰他人或被否定",
+          "defense_mechanism": "回摄",
+          "defense_definition": "将原本针对外部的冲动或需求转而对自己进行克制或自我处理。",
+          "response_instruction": "以支持性语气鼓励微量试探性分享，提供小步骤与选择权，降低其自我克制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且未与亲密朋友分享关于工作无能感的情绪",
+            "担心他人认为自己“反应过度”，因此保持沉默"
+          ],
+          "outcomes": [
+            "情绪焦虑加重",
+            "自我怀疑持续",
+            "与同事关系受影响、社交支持利用不足"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "事件后工作中的自我效能感与满意度下降",
+            "反复质疑自己的专业价值"
+          ],
+          "outcomes": [
+            "工作满意度降低",
+            "睡眠和饮食节律受扰",
+            "动机与专注度下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作中对每个动作过度思考与反复检查",
+            "持续自我批评、将注意力放在可能的错误上",
+            "在咨询中对计划持谨慎态度，表达“仍有些怀疑但愿意尝试”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向亲密朋友分享自身的无能感与焦虑",
+            "将对外寻求支持的冲动压回并转为自责与自我克制"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "预设朋友会认为自己‘反应过度’，从而不去表达",
+            "在职场中担心同事正在注意并评价自己的错误"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意尝试并与咨询师合作（开放与配合）",
+          "具备良好的组织意识与改进意愿（主动更谨慎、加强条理）",
+          "过去在工作中一直较为自信，具备专业能力基础",
+          "拥有一位可倾诉的亲密朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "过度概括与灾难化倾向，易将一次错误贴上全局性标签",
+          "持续过度思考与自我批评，依赖外部评价来定义自我价值",
+          "对错误与挑战性任务的高预期威胁，产生强烈焦虑",
+          "回避寻求支持，导致社交支持利用不足",
+          "睡眠与饮食节律被打乱，进一步削弱情绪调节"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中持续过度思考与自我怀疑（焦虑加重）",
+          "antecedent": [
+            "在工作中犯错（如将书放错书架）",
+            "面对复杂或重要的任务（如大型陈列）",
+            "多任务并行、压力增大"
+          ],
+          "core_reason": "将一次错误过度概括为全面无能，并以灾难化方式预测未来失败，形成“必须零错误才称职”的僵化标准",
+          "function": "逃避被批评与再犯错的风险，追求外部认可与安全感",
+          "consequence": "工作压力与耗竭增加、绩效受影响，与同事关系受损，睡眠与饮食节律紊乱"
+        },
+        {
+          "behavior": "回避向亲密朋友表达与寻求支持",
+          "antecedent": [
+            "想到分享感受时担心被认为“反应过度”",
+            "情绪低落或焦虑加剧时"
+          ],
+          "core_reason": "对他人评价的过度担心与个人化解读，害怕自我暴露带来否定",
+          "function": "避免潜在的羞耻与被否定的风险",
+          "consequence": "孤立感增加、支持系统未被利用，负性情绪维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1570
+}

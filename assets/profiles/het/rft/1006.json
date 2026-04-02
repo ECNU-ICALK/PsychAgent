@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "刘娜",
+      "gender": "女",
+      "occupation": "研究生",
+      "educational_background": "硕士在读",
+      "marital_status": "未婚",
+      "family_status": "独居",
+      "social_status": "与同伴关系较疏，难以建立亲密关系；有少数朋友可倾诉，但对其困扰理解有限",
+      "medical_history": "无显著躯体疾病；无以往类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、能具体描述体验；初始态度较为怀疑；常使用绝对化与否定性表述（如“最差”“永远不会成功”）；配合度一般，能尝试但信心不足"
+    },
+    "main_problem": "我几乎一直觉得自己是最糟糕的研究生，这导致持续的自我怀疑与无能感。",
+    "topic": "学业压力",
+    "core_demands": "持续的自我怀疑与负面自我认知已开始影响学业表现与心理健康，希望通过咨询加以改善。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不如同龄人",
+        "我注定会失败"
+      ],
+      "special_situations": [
+        {
+          "event": "拿到低于预期的成绩",
+          "conditional_assumptions": "如果成绩不达预期，就说明我不适合这个领域、不会成功",
+          "compensatory_strategies": "回避继续学习或开始作业，陷入自我贬低和退缩",
+          "automatic_thoughts": "我永远不可能在这个领域成功，我该现在就退学",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在课堂或挑战性学术时期看到同学更自信、熟练",
+          "conditional_assumptions": "如果别人看起来更自信或更懂，就证明我不行",
+          "compensatory_strategies": "频繁与他人比较，减少与同学的深入交流",
+          "automatic_thoughts": "他们都知道在做什么，而我在瞎忙，我是最差的研究生",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在开始做作业之前",
+          "conditional_assumptions": "必须一次就完美，否则就是失败",
+          "compensatory_strategies": "拖延与回避启动任务",
+          "automatic_thoughts": "我会把它搞砸，开始也没用",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到好成绩或教授的正面反馈",
+          "conditional_assumptions": "正面结果只是偶然，不具参考价值",
+          "compensatory_strategies": "否定正面证据，维持自我怀疑与负面自我评价",
+          "automatic_thoughts": "这只是侥幸，不代表我有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为胜任、被看见其价值与能力",
+        "fear": "害怕被证明无能、被同伴或导师否定",
+        "defense_goal": [
+          "通过自我批评、否定积极反馈与回避困难任务来降低被评判与失败的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、失败的学生",
+          "object_representation": "挑剔的评判者或更优秀的同伴/导师",
+          "linking_affect": "羞耻、焦虑、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注正向证据或建议质疑负性信念时",
+          "interpretation": "认为这些是自欺或不真实，积极反馈只是偶然，咨询师不理解她的真实不足",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚决的语气强调“这只是运气/侥幸”，列举反例来削弱积极证据，同时表示“可以尝试但我不抱期待”。"
+        },
+        {
+          "trigger_condition": "当面临开始困难的学术任务或被要求尝试新方法时",
+          "interpretation": "将任务视为只能成功或彻底失败的考验，若不完美则证明自己无能",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化表述（如“要么成功要么失败”），推迟或回避行动，拒绝分步尝试。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居；难以与同伴建立亲密关系；在课前后与作业期间频繁自我怀疑并与他人比较，主观上感到与群体疏离"
+          ],
+          "outcomes": [
+            "焦虑与回避学业任务",
+            "睡眠与饮食习惯受影响",
+            "学业表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须优秀/不能失败”的标准评价自我",
+            "一旦不达标即自责与否定"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定与贴标签（如“最差”）",
+            "启动任务前反复审视不足并因此回避",
+            "面对积极反馈时贬低为“侥幸”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在具有挑战性的学业任务或收到低于预期成绩时，来访者通常会灾难化思维、产生强烈焦虑并回避开始或持续完成作业，导致表现下降。",
+          "unique_outcome": "在某些课程作业或考试中，来访者取得了好成绩并收到教授的正面评论；当时能够完成任务并获得认可，呈现出与平时不同的更好结果。",
+          "reason": "线索：不同情境（任务更匹配能力）；不同做法（更为专注或按计划完成任务）；不同支持（教授的明确正向反馈增加了可见的成就证据）。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾获得好成绩与教授的正面反馈，存在胜任力的客观证据",
+          "愿意尝试咨询与现实检验，具备改变意愿",
+          "拥有少数可倾诉的朋友，具备一定社会支持",
+          "曾尝试积极自我对话与正念练习，具备自助意识"
+        ],
+        "negative_force": [
+          "持续的他人比较与对外部认可的依赖",
+          "灾难化与全或无思维强化负面自我概念",
+          "启动任务的回避与拖延，短期缓解焦虑但损害表现",
+          "将积极证据归因为侥幸，否定正向体验",
+          "睡眠与饮食受影响，降低精力与专注"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "学业任务的启动回避与拖延（伴随强烈焦虑与自我否定）",
+          "antecedent": [
+            "在开始作业前",
+            "在挑战性学术时期",
+            "收到低于预期的成绩后",
+            "在课前或课后回顾笔记时"
+          ],
+          "core_reason": "对失败的灾难化认知与全或无标准，加之与同伴比较引发的自卑与无能感",
+          "function": "逃避预期的失败与负性评价，短期降低焦虑",
+          "consequence": "学业表现下降，难以与同伴建立关系，睡眠与饮食习惯受影响，持续的自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1006
+}

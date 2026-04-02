@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "陈凯",
+      "gender": "男",
+      "occupation": "远程计算机相关工作",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，与10只猫同住",
+      "social_status": "社交退缩，避免与朋友和家人交谈；有少数朋友但难以向其倾诉",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗；无类似心理问题史",
+      "language_features": "表达清晰、合作度高、语气平稳；能描述“我失败了/我是糟糕的主人”等自动化思维；存在反复的内疚与自责性反刍；注意力不集中，工作任务易感到压倒；愿意尝试正念与认知重构"
+    },
+    "main_problem": "在一只猫一个月前去世后，持续出现强烈的内疚与自责，影响日常功能与情绪健康。",
+    "topic": "情绪管理",
+    "core_demands": "希望缓解强烈的内疚与自责，改善工作表现和整体心理健康。",
+    "growth_experiences": [
+      "一个月前，一只猫去世；在居家远程工作高压力下照料10只猫，自觉压力可能导致照护不到位并对此承担高度责任；此后在想到亡猫、与其他猫互动或进入亡猫曾居住的房间时，都会加重内疚与自责；为缓解情绪曾尝试分散注意力和增加自我照护，但效果不佳；随后出现社交退缩、避免与朋友和家人交流、日常作息与自我照料被打乱、工作专注力和绩效下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的猫主人",
+        "发生不好的事情都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "看到或照料其他猫时",
+          "conditional_assumptions": "如果我不能完全避免任何风险或差错，就说明我是不称职的主人",
+          "compensatory_strategies": "过度谨慎、加班式监控与照看、提高警觉以防万一",
+          "automatic_thoughts": "如果我再不够细心，其他猫也可能出事",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "进入亡猫曾睡的房间，被环境线索触发回忆",
+          "conditional_assumptions": "只要我被提醒到这件事，就意味着我确实失败了",
+          "compensatory_strategies": "回避房间或迅速离开、加重自责来“提醒自己不能再犯”",
+          "automatic_thoughts": "我失败了，这一切都是我的错",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到居家工作压力大、要照顾10只猫的负荷",
+          "conditional_assumptions": "如果我因为压力而忽略任何细节，就等于我让悲剧发生",
+          "compensatory_strategies": "将责任全部归因于自己、反复自我检讨与内疚",
+          "automatic_thoughts": "是我的疏忽害了他",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回顾自己为猫提供食物、水并定期看兽医",
+          "conditional_assumptions": "除非做到尽善尽美，否则任何努力都不算数",
+          "compensatory_strategies": "否定正面证据、继续放大不足以逼迫自己更用力",
+          "automatic_thoughts": "这些都不够，我还是一个糟糕的主人",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望成为有能力、负责任的照料者，被认可为“好主人”，并确保所爱之物的安全",
+        "fear": "害怕因自己的失误或不称职而再次失去猫、被指责与羞耻",
+        "defense_goal": [
+          "通过自责与高度警觉来预防再次失败",
+          "保持社交距离以避免他人的评价与否定",
+          "强化控制与谨慎以获得安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "负罪的、失败的照料者",
+          "object_representation": "他人（朋友/家人）被体验为潜在的评判者或否定者",
+          "linking_affect": "羞耻、内疚、焦虑"
+        },
+        {
+          "self_representation": "必须时刻负责与防范的监护者",
+          "object_representation": "猫被体验为脆弱、需要绝对保护的客体",
+          "linking_affect": "高度警觉、担忧、负担感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当看到其他猫或进入亡猫曾居住的房间，被失去的线索触发时",
+          "interpretation": "将悲剧完全个人化，认为自己必须绝对控制与防范，否则就是失败（移情：自责强化）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与否定自我价值的表述（如“都是我的错”），语气压低、少用第一时间的求助语言，强调要更严格管理自己。"
+        },
+        {
+          "trigger_condition": "当朋友或家人试图与其谈论近况或提供支持时",
+          "interpretation": "主观认为对方会看不起或责备自己（移情：将内在的批判投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避话题、缩短回答长度，用谨慎语气表达“不想麻烦别人/不方便谈”，减少自我揭露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "亡猫事件成为持续性的情绪触发源",
+            "进入亡猫的房间即被提醒“失败”",
+            "围绕死亡的意义与责任做强烈反刍"
+          ],
+          "outcomes": [
+            "强烈的内疚与自责",
+            "焦虑与担忧加重",
+            "工作专注力下降与绩效受损",
+            "日常作息与自我照料被打乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且社交退缩",
+            "难以向少数朋友和家人敞开内疚与自责感受"
+          ],
+          "outcomes": [
+            "社会支持减弱",
+            "反刍与自我批评加重",
+            "情绪困扰维持与功能受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“主人必须绝不出错”作为绝对标准",
+            "将任何疏忽等同为“失败”",
+            "语言中出现“我必须/应该做到更好”等自我要求"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本面向外部的行为冲动，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "将悲伤与愤怒转向自责与自我惩罚",
+            "社交退缩、避免与他人谈论感受",
+            "对自己施加更严格的监控与谨慎"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "担心朋友或家人会看不起/责备自己",
+            "因此避免与他人直接接触或深入谈论"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对猫有持续照料的责任心（提供食物、水并定期就诊）",
+          "具备求助意愿与改变动机（主动寻求咨询）",
+          "一定的自我觉察能力，能识别与描述内疚、自责的自动化想法"
+        ],
+        "negative_force": [
+          "个人化倾向强，将悲剧完全归因于自身",
+          "非黑即白思维与过度苛责自我",
+          "对未来的灾难化担忧与高度警觉导致精力透支",
+          "社交退缩、难以获取支持",
+          "注意力不集中，工作功能下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的内疚与自责性反刍思维",
+          "antecedent": [
+            "想到亡猫",
+            "看到或照料其他猫",
+            "进入亡猫曾睡的房间"
+          ],
+          "core_reason": "将猫的死亡个人化为自身失败，并内化绝对化的照护规则（必须零差错）",
+          "function": "通过自责获得短期的控制感与警觉（自我惩罚以“防止再犯”）",
+          "consequence": "情绪痛苦加重、专注力下降、工作绩效受损、日常作息混乱"
+        },
+        {
+          "behavior": "社交回避与撤退",
+          "antecedent": [
+            "朋友或家人主动交流近况",
+            "想到可能被他人评判或责备"
+          ],
+          "core_reason": "羞耻与恐惧被否定的预期，使其将内在批判投向他人",
+          "function": "逃避被评价与情绪激活，维持脆弱自我感的安全边界",
+          "consequence": "社会支持减少、孤独与反刍加重、问题维持"
+        },
+        {
+          "behavior": "对其他猫过度谨慎与监控",
+          "antecedent": [
+            "与其他猫互动或执行照护任务时",
+            "在居家高压力工作情境下"
+          ],
+          "core_reason": "对未来灾难的预测与对责任的全控需求（担心再次出事）",
+          "function": "逃避潜在风险、获取短期安全感",
+          "consequence": "精力与时间透支、疲惫加剧、工作与自我照料进一步受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 287
+}

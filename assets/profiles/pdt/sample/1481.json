@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "宋凯",
+      "gender": "男",
+      "occupation": "医生办公室前台接待",
+      "educational_background": "在本地大学学习放射学",
+      "marital_status": "未婚/单身",
+      "family_status": "未提及",
+      "social_status": "与同事关系因自我责备而有所紧张；有少数朋友可交谈，但难以与他们讨论内疚与自责感受",
+      "medical_history": "否认既往心理治疗/咨询经历；无显著躯体疾病；此前无类似心理问题",
+      "language_features": "表达清晰、逻辑连贯，能够描述内心体验；显著的自责与内疚，情绪基调偏消极；可合作并愿意尝试探索与小实验；语速与音量未提及"
+    },
+    "main_problem": "因为错过了替上司接的重要电话，我觉得自己毁了一整天，这导致了强烈的内疚与自我责备。",
+    "topic": "情绪管理",
+    "core_demands": "压倒性的内疚与自责影响日常生活与工作表现，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不胜任这份工作/我是个失败者",
+        "犯错就等于彻底失败，会让所有人失望"
+      ],
+      "special_situations": [
+        {
+          "event": "在医生办公室担任前台时，错过了上司交代的重要电话",
+          "conditional_assumptions": "如果我在工作中犯错，就说明我无能，并且让所有人失望",
+          "compensatory_strategies": "不断道歉并努力补救，反复回放并自责以“防止再犯”",
+          "automatic_thoughts": "我把一切都搞砸了，一整天都被毁了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同一天中依然完成了部分工作任务（帮助患者、完成若干事项），但注意力始终被错误占据",
+          "conditional_assumptions": "除非表现完美，否则任何成绩都不算数",
+          "compensatory_strategies": "忽视做得好的部分，持续盯住错误来鞭策自己",
+          "automatic_thoughts": "做得好的也没意义，因为我犯了错",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到同事或上司未来会如何看待这次失误",
+          "conditional_assumptions": "若我犯一次错，别人会一直记着并否定我",
+          "compensatory_strategies": "减少与朋友交流、维持自我批评以示“负责”",
+          "automatic_thoughts": "他们肯定不再信任我了，这份工作可能保不住",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在工作中出现任何小失误",
+          "conditional_assumptions": "一旦犯错，就说明我根本不适合这份工作",
+          "compensatory_strategies": "过度努力与加班，自我苛责以避免再次犯错",
+          "automatic_thoughts": "我不适合这份工作",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被信任，证明自己称职可靠",
+        "fear": "害怕因一次失误被否定、被责怪或被拒绝，进而失去他人信任与位置",
+        "defense_goal": [
+          "通过自我苛责与完美追求来避免错误、维持控制与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "让人失望的失败者、需要不断自我监督的人",
+          "object_representation": "苛刻的评价者/容易失望与否定我的他者（如上司、同事）",
+          "linking_affect": "内疚、羞耻与焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行行为实验、尝试新方法时",
+          "interpretation": "认为尝试没有意义，错误已无法挽回（“我已经搞砸了”）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气消极、谨慎，强调“这可能没用”“意义不大”，对改变持保留态度。"
+        },
+        {
+          "trigger_condition": "在工作中被指出或回想起自己的失误时",
+          "interpretation": "他人会因此失望或否定我，关系与位置会受威胁",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "强化自责语言（“都是我的错”），弱化外界因素，语气压抑并回避表达不满。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有少数朋友可谈，但不愿向他们倾诉内疚与自责，避免“给别人添麻烦”"
+          ],
+          "outcomes": [
+            "焦虑与内疚加重",
+            "注意力受损，学习与日常功能下降",
+            "人际关系紧张与疏离感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我否定（“我不适合这份工作”）",
+            "不愿与朋友谈内疚以免“麻烦别人”",
+            "会谈中对新尝试保持高度谨慎与保留"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "将“必须无错/完美”视为自我标准",
+            "相信“需要强烈内疚才能保持表现”这一规则"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中犯错时，来访者通常会持续反刍与强烈自责，认为“一整天都被毁了”，并难以专注完成任务。",
+          "unique_outcome": "在错过电话的那一天，尽管强烈自责，他仍然帮助了其他患者并完成了一些任务，说明“整天被毁”的叙事并非全然成立。",
+          "reason": "线索：在工作情境中仍有明确的岗位任务需要处理，且来访者具备责任心与基本能力，这使其在强烈情绪下仍能完成部分工作。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备基本岗位能力与责任心，犯错后仍能完成部分任务",
+          "愿意尝试新的视角与小实验，具备反思能力",
+          "已采取补救行为（道歉、弥补），显示问题应对动机",
+          "拥有一定的社会支持（有几位朋友可谈）"
+        ],
+        "negative_force": [
+          "灾难化与全或无等认知歪曲显著（过度概括、心理过滤、否定积极）",
+          "强烈自我苛责与羞耻/内疚驱动",
+          "回避向他人求助，担心负担他人，导致支持不足",
+          "反复反刍导致注意力与工作/学习表现受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "因犯错后反复反刍并伴随强烈内疚与自我责备",
+          "antecedent": [
+            "在工作中出现失误（如错过重要来电）",
+            "事后回想与触景联想到该错误"
+          ],
+          "core_reason": "形成了“犯错=失败/不被信任/让所有人失望”的灾难化与全或无信念，并以自责维持控制与避免再犯",
+          "function": "逃避内在焦虑并以自责作为自我驱动的方式（试图通过苛责来预防错误）",
+          "consequence": "注意力下降、工作与学习表现受损，人际关系紧张，焦虑与内疚情绪维持甚至加重"
+        },
+        {
+          "behavior": "回避向朋友倾诉与寻求支持",
+          "antecedent": [
+            "出现强烈内疚/自责情绪时",
+            "担心给他人添麻烦或被评价"
+          ],
+          "core_reason": "内摄的严格规则（应独自承担、不能给他人添麻烦）与对他人负面评价的预测",
+          "function": "短期内避免羞耻/暴露与被评价的不适",
+          "consequence": "支持系统利用不足，孤独感与压力累积，负性情绪维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1481
+}

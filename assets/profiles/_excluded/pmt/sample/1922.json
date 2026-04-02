@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "苏珊",
+      "gender": "女",
+      "occupation": "咖啡师",
+      "educational_background": "毕业成绩良好；通晓阿拉伯语、英语和法语",
+      "marital_status": "单身",
+      "family_status": "阿尔及利亚背景，未提供具体家庭细节",
+      "social_status": "有几位朋友可交流但未分享不自足感；与同事关系因对工作持负面想法而受影响",
+      "medical_history": "无重要躯体疾病；此前未接受心理治疗；过去未出现与工作满意度相关的类似问题",
+      "language_features": "表达清晰，能进行自我反思；语句中常出现“应该”与自我否定；情绪基调偏负面；对咨询略显怀疑但愿意尝试，配合度中等"
+    },
+    "main_problem": "我在当前咖啡师的工作上感到不自足，并不断想着我现在本该拥有一份更好的工作。",
+    "topic": "职业发展",
+    "core_demands": "这些感受对我的自尊和心理健康产生了影响，我意识到需要支持来应对这些消极想法。",
+    "growth_experiences": [
+      "约在一年前毕业后未能在本专业找到工作，经济压力和社会期望显著增加，开始持续感到不自足与失败。此后在工作中的忙碌时段以及被顾客询问职业时，这些感受几乎每天出现；看到同伴升职或事业进展时尤为加重。曾尝试申请其他职位并寻求职业咨询，但不自足感仍持续存在。",
+      "学业成绩良好，能够使用阿拉伯语、英语和法语三种语言，这是其既往努力与能力的体现，但在当前叙事中常被其否定或弱化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我在浪费自己的潜力"
+      ],
+      "special_situations": [
+        {
+          "event": "在咖啡店的忙碌时段工作并与顾客互动时，顾客询问其职业或未来规划",
+          "conditional_assumptions": "如果现在仍是咖啡师，就说明我落后、失败，不如同龄人",
+          "compensatory_strategies": "加倍自我要求和自我批评；尝试频繁求职与寻求职业咨询以证明自己",
+          "automatic_thoughts": "我应该早就有更好的工作，我是失败者",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "看到朋友或同龄人晋升、加薪或职业发展顺利",
+          "conditional_assumptions": "如果他们进展更好，就证明我不如他们、我落后了",
+          "compensatory_strategies": "强化社会比较、给自己更高压力、减少与朋友谈论自身感受",
+          "automatic_thoughts": "我不如他们，永远追不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "求职受挫（投递无果或被拒）",
+          "conditional_assumptions": "如果无法在本专业找到工作，就证明我没有能力",
+          "compensatory_strategies": "否定自身成就与资源（成绩与多语言能力）",
+          "automatic_thoughts": "我永远找不到本领域的工作，这些努力都没有意义",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在别人或自己提及其成就与资源（好成绩、会三种语言）时",
+          "conditional_assumptions": "只有拥有更好的职位，其他成绩与优势都不算数",
+          "compensatory_strategies": "主动忽视或贬低积极证据以维持自我评价",
+          "automatic_thoughts": "这些成就不重要，我仍然只是一个咖啡师",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过符合专业背景的工作获得认可与自我价值的实现",
+        "fear": "害怕被同伴与社会视为落后或失败，担心被评判与羞耻",
+        "defense_goal": [
+          "通过强烈自我批评与不表露脆弱来避免外界评价和羞耻",
+          "以“应该”的自我要求来维持控制感与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后且不如人的失败者",
+          "object_representation": "成功并带有评判意味的同龄人/朋友",
+          "linking_affect": "羞耻、自卑、焦虑"
+        },
+        {
+          "self_representation": "被审视的从业者",
+          "object_representation": "好奇但可能挑剔与评判的顾客",
+          "linking_affect": "紧张、压力、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当顾客询问其职业规划或为何仍是咖啡师时",
+          "interpretation": "将对方的好奇理解为评判与否定（移情：将社会期待投射到他人身上）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以简短、回避细节的方式回答，语气谨慎，避免眼神接触，快速结束话题。"
+        },
+        {
+          "trigger_condition": "在社交媒体或现实中看到同龄人升职或取得进展时",
+          "interpretation": "将他人的成功理解为对自身价值的否定，倾向以极端方式看待自我与他人",
+          "defense_mechanism": "sring",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
+          "response_instruction": "使用绝对化语言评估自己与他人（如“他们都成功，我完全失败”），语气激烈，拒绝探索中间地带。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人强调其成就与资源时",
+          "interpretation": "以看似合理的理由否定积极信息，以维持“我不够好”的自我图式",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "平静但坚决地以“但是”“虽说…但…”句式否认积极证据，保持理性语气，避免深入情感。"
+        },
+        {
+          "trigger_condition": "想到向朋友分享内心感受或寻求支持时",
+          "interpretation": "将表达脆弱视为会给他人添麻烦或引来评判，从而压下表达的冲动",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "轻描淡写地回避谈及感受，转移话题，保持礼貌与距离。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为当前作为咖啡师是在“浪费潜力”，积极成就被视为不重要",
+            "求职受挫后对职业前途与个人价值的意义产生怀疑"
+          ],
+          "outcomes": [
+            "持续的自我否定与低落情绪",
+            "工作动机下降",
+            "职业倦怠感与不满"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有朋友但选择不分享内心感受，担心给他人添麻烦或显得抱怨",
+            "与同事关系因负面想法而紧张"
+          ],
+          "outcomes": [
+            "社交支持减少",
+            "自尊与情绪进一步受损",
+            "在工作环境中的疏离感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "反复以“我应该有更好的工作”自我要求",
+            "将社会期待内化为评价自我价值的唯一标准"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "不向朋友分享真实感受，选择“算了我忍着”",
+            "将外向的求助冲动压回自己，独自承受压力"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "用分心方式暂时逃避负面思维",
+            "在被提醒自身成就时迅速转向强调不足或失败"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "强烈的自我批评与自责，认为“都是我不行”",
+            "过度在意他人看法，谨慎到不敢表达需求"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "学业成绩良好，具备多语言能力（阿拉伯语、英语、法语）",
+          "持续在职工作，基本生活与工作功能维持",
+          "已尝试求职与寻求职业咨询，具备一定行动经验",
+          "拥有少数朋友，存在潜在的社交支持资源"
+        ],
+        "negative_force": [
+          "否定正面思考与“应该”句式的僵化信念",
+          "频繁进行社会比较并由此感到落后",
+          "财务压力与社会期待加剧认知负荷",
+          "自我批评强、低自尊与动机下降，影响工作表现",
+          "回避向朋友寻求支持，导致支持系统未被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "负性自动化思维与自我否定言语（如“我是失败者”“我应该早就有更好的工作”）",
+          "antecedent": [
+            "工作忙碌时段",
+            "顾客询问职业或未来规划",
+            "看到同龄人升职或事业进展",
+            "求职投递受挫或被拒"
+          ],
+          "core_reason": "内化的社会期待与强烈比较导致的条件性信念（将职业地位等同于个人价值）",
+          "function": "通过自我批评试图获得控制与激励改变，但实则逃避面对复杂情绪与不确定性",
+          "consequence": "情绪低落与压力上升；工作表现受影响；与同事关系紧张"
+        },
+        {
+          "behavior": "回避表达与寻求支持（不向朋友分享真实感受）",
+          "antecedent": [
+            "担心给朋友添麻烦或显得抱怨",
+            "对被评判与羞耻的恐惧"
+          ],
+          "core_reason": "将求助与表达脆弱解读为会遭到负面评价，从而压抑表达冲动以维持安全感",
+          "function": "逃避潜在的负面反馈与被评判的风险",
+          "consequence": "社交支持缺乏、孤独感加重，负面情绪与不自足感持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1922
+}

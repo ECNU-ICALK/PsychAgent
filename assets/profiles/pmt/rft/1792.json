@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "李安明",
+      "gender": "男",
+      "occupation": "私人厨师",
+      "educational_background": "烹饪学校文凭",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有几位可以倾诉的亲密朋友，但尚未充分分享自己的困境",
+      "medical_history": "未出现类似心理问题，未接受过心理治疗；无显著躯体疾病",
+      "language_features": "配合度良好，表达清晰，思路较为逻辑，语气谨慎；倾向个体化他人反馈、忽视正面信息"
+    },
+    "main_problem": "我正为与我的烹饪相关的一条负面评价引发的不足感与失望而苦恼，这些感受自收到该负面反馈后持续存在，并显著影响我的信心和情绪，我常常沉湎于这条负面评论并忽视正面反馈。",
+    "topic": "职业发展",
+    "core_demands": "我需要一些方法来帮助我走出这件事。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "一次料理服务中，除了一位年长女士外，其他顾客都表示菜品很棒，该女士给出负面评价",
+          "conditional_assumptions": "如果哪怕有一个顾客不喜欢我的菜，就说明我不够好/我失败了",
+          "compensatory_strategies": "尝试提升烹饪技巧，并努力让所有顾客满意",
+          "automatic_thoughts": "她不喜欢我的菜=我失败了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在一场餐会中，有客人评价菜品“调味不足”，而其他客人给予了称赞",
+          "conditional_assumptions": "只要出现负面评论，就证明我的能力不足，并可能毁掉我的职业梦想",
+          "compensatory_strategies": "在每次反馈中追求完美、加倍练习改进菜品",
+          "automatic_thoughts": "我让他们失望了/我不够好",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "每次收到对菜品的负面反馈或评论",
+          "conditional_assumptions": "负面评价比正面更真实，必须优先关注",
+          "compensatory_strategies": "忽视赞美、更加关注批评以防再出错",
+          "automatic_thoughts": "他们只是客气，正面反馈不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "看到那条负面评价/评论",
+          "conditional_assumptions": "顾客的批评等于对我这个人的否定",
+          "compensatory_strategies": "不断自我检视、试图找到并纠正“错误”",
+          "automatic_thoughts": "这在说我不够好、我个人不行",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与肯定（希望所有顾客都喜欢并赞赏自己的料理）",
+        "fear": "害怕自己不够好、害怕失败与被否定",
+        "defense_goal": [
+          "通过不断改进与取悦所有人来维持自我价值与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被否定的、不够好的厨师",
+          "object_representation": "严苛、难以取悦的评判者（顾客）",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师指出其存在“个体化”倾向或邀请其探索替代观点时",
+          "interpretation": "倾向认为理性分析难以改变感受，隐含地体验到“我的情绪不会被真正理解”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气平静、谨慎，强调理由与逻辑，淡化情绪体验，避免深入探讨内在感受。"
+        },
+        {
+          "trigger_condition": "当谈到顾客的负面评价或回忆被批评的具体情境时",
+          "interpretation": "将顾客的偏好视为对自身整体能力与价值的全面否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与否定性措辞（如“我失败了”），语气低落，弱化自我价值的表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "负面评价后对烹饪的乐趣下降、动力减弱",
+            "将单一批评视为确认“我不够好”，削弱职业追求的意义感"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "睡眠受影响",
+            "职业目标动摇",
+            "对反馈过度敏感导致人际紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在会谈中频繁自我质疑，将批评内化为自我否定",
+            "对他人反馈过度敏感与谨慎，担忧任何不满即意味着失败"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "将他人的正面反馈解释为“他们只是客气”",
+            "推断他人动机为“敷衍/不真诚”，从而否定正面信息"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "专业训练背景（烹饪学校文凭）",
+          "多数顾客与同伴的正面反馈存在",
+          "对烹饪充满热情并拥有开餐馆的职业梦想",
+          "有几位亲密朋友可提供支持"
+        ],
+        "negative_force": [
+          "自我价值高度依赖外部评价，强烈的取悦他人倾向",
+          "负性认知偏差：心理过滤、否定正面、个人化、灾难化",
+          "过度反刍与自我批评导致情绪低落与睡眠受影响",
+          "对负面反馈高度敏感，职业与人际受到干扰"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对负面评价的过度反刍并忽视正面反馈",
+          "antecedent": [
+            "收到关于菜品的反馈，尤其负面评论",
+            "在餐会中看到客人未吃完或出现批评用语"
+          ],
+          "core_reason": "将单一负评视为对自我价值的确认（“我不够好”），并以个人化、灾难化等认知维持反刍",
+          "function": "逃避被否定的威胁、通过自我批评获取控制感并试图改进以避免再次负评",
+          "consequence": "信心下降、情绪低落、睡眠受影响；与同事和潜在客户关系紧张，职业动力减弱"
+        },
+        {
+          "behavior": "睡眠模式受损（入睡困难/睡眠质量下降）",
+          "antecedent": [
+            "在收到或回想负面反馈后夜间反复思考评论"
+          ],
+          "core_reason": "负面评价引发焦虑与反刍，难以停止思绪",
+          "function": "通过反复回顾与担忧来试图获得掌控感与避免再次失误",
+          "consequence": "次日精力下降、心情更差，工作动机与表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1792
+}

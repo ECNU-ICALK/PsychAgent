@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37岁",
+      "name": "张磊",
+      "gender": "男",
+      "occupation": "卡车司机",
+      "educational_background": "高中学历",
+      "marital_status": "已婚",
+      "family_status": "与妻子育有两个孩子",
+      "social_status": "与棒球联赛队友的关系因自我负面评价而紧张；拥有妻子与孩子的支持但未向其分享不足感",
+      "medical_history": "未出现类似心理问题；未接受心理治疗；无显著躯体疾病",
+      "language_features": "能清晰表达困扰与情绪，态度积极、配合度高；倾向使用负性自我评价（如“我没用”“我不够好”），易聚焦失败、忽视积极反馈"
+    },
+    "main_problem": "因为在自己最喜欢的爱好——休闲棒球——中表现不佳而感到“无用”和“不够好”，这些想法导致无价值感与低自尊，并影响情绪与日常动机。",
+    "topic": "情绪管理",
+    "core_demands": "这些感受对我的自尊与日常功能的影响不断加剧，因此希望通过咨询改善我对自我与棒球表现的看法，提升自尊与心情。“我愿意尝试任何能改善我对自己和棒球技能感受的方法”。",
+    "growth_experiences": [
+      "几年前加入休闲棒球联赛后，因一次比赛表现不佳（最初由一场糟糕的比赛触发，中等强度压力），此后在每次参赛或想到棒球时反复聚焦失败、忽视进步，逐渐加重无价值感与低自尊；与队友关系因此紧张，情绪与日常动机受影响；虽加练并向队友请教，但不足感未缓解；未向妻子与孩子分享这类感受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无用的",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在休闲棒球联赛的比赛中出现失误（例如上周被三振）",
+          "conditional_assumptions": "如果我在我最喜欢的爱好上表现不好，就说明我这个人没用",
+          "compensatory_strategies": "加倍练习并向队友请教以证明自己，同时持续盯着错误不放",
+          "automatic_thoughts": "我永远不会变好",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "赛后或想到棒球时只关注失败，忽略好的击打或防守",
+          "conditional_assumptions": "只有做到完美才算成功；不完美就等于失败",
+          "compensatory_strategies": "否定积极反馈、轻描淡写好表现以自我鞭策",
+          "automatic_thoughts": "那些好的瞬间不重要，我总是搞砸",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与队友接触或准备与队友互动时，担心被他们评判",
+          "conditional_assumptions": "如果队友看到我的失误，他们就会看不起我",
+          "compensatory_strategies": "回避队友、减少交流以避免被评价",
+          "automatic_thoughts": "他们都在看我笑话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到是否向妻子和孩子分享自己的不足感时",
+          "conditional_assumptions": "如果把这些感受说出来，会成为家人的负担、让我更丢脸",
+          "compensatory_strategies": "保持沉默、不寻求家人支持",
+          "automatic_thoughts": "我不该麻烦他们",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，证明自身价值（尤其在所热爱的棒球领域）",
+        "fear": "害怕被评判、被羞辱与被否定为“没用的人”",
+        "defense_goal": [
+          "通过回避暴露与亲密分享来降低被评判的风险",
+          "以自我贬低与过度练习维持对失控与羞耻的防护感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无用、失败的队员",
+          "object_representation": "挑剔的评判者（更优秀、可能看不起自己的队友）",
+          "linking_affect": "羞耻、焦虑、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问是否与妻子分享这些感受或建议向家人寻求支持时",
+          "interpretation": "认为表达会给家人带来负担，并让自己更丢脸（把分享等同于麻烦他人）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以委婉但坚定的语气拒绝分享，强调“别麻烦他们”，回避进一步探讨羞耻感。"
+        },
+        {
+          "trigger_condition": "当讨论队友的反馈或被邀请具体检视证据时",
+          "interpretation": "把自我羞耻与不被接纳的感受投到队友身上，认为他们在看不起自己",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用猜测性语言（如“他们肯定觉得……”），语气不安，回避具体事实与正向反馈。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值过度绑定在棒球表现上；一次失败被体验为“我这个人没用”；忽视爱好本身的乐趣与联结意义；羞耻使其不与家人分享内心困扰"
+          ],
+          "outcomes": [
+            "低自尊与无价值感",
+            "情绪低落与动机下降",
+            "人际回避（与队友关系紧张、与家人疏离分享）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，克制对他人提出需求或表达，与“冲动”对应。",
+          "manifestations": [
+            "说“我不该麻烦别人”，不向妻子和孩子分享不足感与情绪",
+            "把需要的支持转向自我独自承受"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为队友会看不起自己、在看自己笑话",
+            "把自我羞耻归因于队友的假定评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具有稳定的家庭支持资源（妻子与两个孩子）",
+          "队友中有人给予鼓励与正面反馈",
+          "持续练习并主动寻求队友建议",
+          "愿意尝试认知重构与行为实验（求助动机明确）"
+        ],
+        "negative_force": [
+          "自我价值过度依附于棒球表现，非黑即白的完美标准",
+          "心理过滤与否定积极，持续聚焦失败",
+          "预测未来与过度概括，加重无助感",
+          "担心他人评判与羞耻，回避人际与家人求助",
+          "贴标签式自我贬低（“我没用”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在棒球相关情境中进行消极自我言语与自我贬低（如“我没用”“我永远不会变好”）",
+          "antecedent": [
+            "在比赛中出现失误或表现不如预期",
+            "赛后回想失败片段",
+            "仅仅想到棒球与自己的表现"
+          ],
+          "core_reason": "将自我价值与爱好表现绑定，形成非黑即白的完美标准，并受灾难化、过度概括与心理过滤等认知偏差驱动",
+          "function": "逃避被评判与羞耻的情绪，获得短期的控制感与自我保护",
+          "consequence": "自尊受损、情绪低落与动机下降；与队友关系紧张"
+        },
+        {
+          "behavior": "回避与队友交流及向家人寻求支持",
+          "antecedent": [
+            "担心被队友评判或看到自己的失误",
+            "想到向妻子与孩子分享不足感时的羞耻与“造成负担”的担忧"
+          ],
+          "core_reason": "羞耻感与对他人评判的恐惧；将表达需求视为“麻烦别人”",
+          "function": "逃避可能的负面评价与内疚感，短期降低焦虑",
+          "consequence": "人际关系紧张、社会支持未被利用，负面情绪维持与加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1456
+}

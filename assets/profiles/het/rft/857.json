@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "陈瑶",
+      "gender": "女性",
+      "occupation": "退休的学校教师",
+      "educational_background": "教育学学士",
+      "marital_status": "已婚",
+      "family_status": "丈夫将于明年退休",
+      "social_status": "与前学生关系良好，部分学生会定期来探访；丈夫为主要支持，但她对与其讨论这些想法犹豫",
+      "medical_history": "未出现类似心理问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述情绪与身体感受（如胸口发紧）；配合度较高；整体语气焦虑但理性"
+    },
+    "main_problem": "我相信作为一名退休的学校教师会因孤独而早逝，这一想法正导致我的痛苦与焦虑。",
+    "topic": "情绪管理",
+    "core_demands": "这些关于孤独与早逝的想法影响了我的日常生活并引发显著焦虑，因此寻求咨询以减轻焦虑并应对这些想法。",
+    "growth_experiences": [
+      "退休这一重大人生转折后开始出现对孤独与早逝的担忧；起初对未来感到不确定，随着丈夫退休日期临近而加重；这些想法几乎每天出现，尤其在思考未来与旅行计划时加剧；曾尝试通过散步和保持活动来分心，但念头反复回归。",
+      "在教师生涯中与前学生建立了良好关系，退休后仍有前学生来访并带来快乐与联结感，但她仍担心这些连接不足以在长期避免孤独。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "孤独会导致早死",
+        "退休后不可避免地会长期孤独"
+      ],
+      "special_situations": [
+        {
+          "event": "想到与丈夫的退休旅行计划时",
+          "conditional_assumptions": "如果我在退休后无法维持充足的社交互动，即使与丈夫一起出行也会感到孤独，孤独会损害健康并缩短寿命",
+          "compensatory_strategies": "通过提前担忧与规划来试图掌控未来；暂时用散步和活动来分心",
+          "automatic_thoughts": "我们退休后的日子会很孤独，最后会影响健康并让我早死。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "独处思考退休后的日常生活时",
+          "conditional_assumptions": "如果没有足够的社交互动，我将彻底孤立，生活会变得没有意义",
+          "compensatory_strategies": "通过散步、保持忙碌来减少思考",
+          "automatic_thoughts": "我会日复一日地独自坐着，没有目的。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "意识到丈夫的退休时间临近时",
+          "conditional_assumptions": "如果我们都退休，社交圈会缩小，情况只会更糟",
+          "compensatory_strategies": "犹豫与丈夫讨论这些担忧，避免引发失望或冲突",
+          "automatic_thoughts": "随着丈夫退休临近，我的孤独会加重，甚至危及健康。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "当前学生来访提供正向联结的证据时",
+          "conditional_assumptions": "这些联系只是暂时的，长期来看仍不足以避免孤独",
+          "compensatory_strategies": "弱化积极证据的稳定性，继续担心长远问题；同时考虑加入读书与园艺俱乐部以增加社交",
+          "automatic_thoughts": "这还不够，长远看我还是会孤独。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被稳定地陪伴与联结，在退休后仍有意义的生活",
+        "fear": "害怕被孤独吞噬、被长期遗弃，最终走向早逝",
+        "defense_goal": [
+          "通过分心、提前担忧与避免与丈夫谈论脆弱来降低焦虑，维持安全感与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被孤独吞噬的退休日者",
+          "object_representation": "他人/关系是短暂的、不能长久支撑的陪伴者",
+          "linking_affect": "焦虑、恐惧、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调现有的积极连接（如前学生来访）并邀请设定具体的社交目标时",
+          "interpretation": "她认为这些连接终究不够长久，未来仍不可避免地孤独（将长期孤独视为必然）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "重复提出对长期后的担忧，使用多个‘如果……’的假设性问题，语气谨慎克制，将谈话引向风险评估与预案。"
+        },
+        {
+          "trigger_condition": "当独自思考退休后的生活或进行未来计划时",
+          "interpretation": "将自己想象为长期被孤立、无目的的老人，认为现实将按负面场景发展",
+          "defense_mechanism": "sring",
+          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
+          "response_instruction": "详细描述负面场景，以画面化语言铺陈‘一个人坐着’的日常，情绪浓度升高，忽略现实中的反例。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "退休后担心缺乏社交互动，想象自己日复一日地独处、无目的",
+            "犹豫与丈夫沟通担忧，倾向独自承受"
+          ],
+          "outcomes": [
+            "持续焦虑与恐慌感",
+            "胸口发紧等躯体不适",
+            "日常活动与退休生活的享受受影响"
+          ]
+        },
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "将孤独与早逝直接关联，认为退休后会因孤独而早死"
+          ],
+          "outcomes": [
+            "灾难化思维加剧",
+            "回避与丈夫讨论担忧",
+            "整体安全感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，或放弃向外寻求别人为其做某事，转而对自己做，即将原欲对外发出的能量转向自身。",
+          "manifestations": [
+            "对与丈夫讨论孤独与早逝的担忧犹豫不决，选择不表达而自己承受",
+            "在焦虑升高时用散步和自我分心来处理，而非主动寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在独处或思考退休与未来时，来访者通常会陷入对孤独和早逝的焦虑，出现胸口发紧，并减少对退休生活的享受。",
+          "unique_outcome": "在前学生来访的几次互动中，来访者体验到喜悦与联结，没有像往常那样被孤独感主导，焦虑明显减轻。",
+          "reason": "不同支持：既有的师生关系网络带来实际社交互动；不同做法：来访者接受并参与到交流中；不同情境：面对面互动提供了情绪上的连接与意义感。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与前学生保持良好关系并获得探访与支持",
+          "愿意保持活动（散步、参与兴趣）以对抗消极思维",
+          "对加入读书会、园艺俱乐部等社交活动持开放态度"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括等认知模式强化孤独与早逝的主导叙事",
+          "对与丈夫沟通的犹豫，导致支持系统未被充分利用",
+          "持续的焦虑与躯体紧张（胸口发紧）削弱生活品质与行动意愿"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对退休后因孤独而早逝的持续性灾难化担忧与焦虑",
+          "antecedent": [
+            "想到未来与退休后的生活",
+            "计划与丈夫的旅行时",
+            "意识到丈夫将于明年退休",
+            "独处时"
+          ],
+          "core_reason": "退休后的身份转变引发对社交断裂的灾难化信念（将孤独视为必然并与健康风险直接相连）",
+          "function": "逃避不确定性并试图通过提前担忧来获得控制与预防潜在风险",
+          "consequence": "日常活动和退休生活的享受下降，出现胸口发紧等躯体反应，回避与丈夫沟通担忧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 857
+}

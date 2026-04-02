@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "周建国",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "近半年因负性想法而与朋友和家人疏离，未向朋友倾诉感受",
+      "medical_history": "无重大躯体疾病；过去未出现类似心理问题；未接受过心理治疗",
+      "language_features": "表达清楚、能反思，配合度较好；情绪低落、语气中性"
+    },
+    "main_problem": "我因为参加NFL梦幻橄榄球联盟而觉得这一生都不会有任何成就。这种自卑与无价值感在大约6个月前开始，压力来自在业余爱好与现实责任之间的平衡。我几乎每天在进行梦幻橄榄球或其他休闲活动时都会感到情绪低落和无价值，并伴随动力下降。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到这些自卑感影响了整体情绪和完成日常任务的动力，因此寻求咨询以获得支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是注定失败的",
+        "我没有价值/不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在梦幻橄榄球投入数小时设置阵容后，球队在上个周末仍然输掉比赛",
+          "conditional_assumptions": "如果连一个“游戏”都做不好，就说明我在现实生活中也不会成功",
+          "compensatory_strategies": "加倍投入排阵以求避免失败；赛后反复自责；用阅读转移注意力",
+          "automatic_thoughts": "我连这种游戏都做不好，现实中更不可能做好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在工作、责任与业余爱好之间感到难以兼顾、压力增大",
+          "conditional_assumptions": "如果我不能在各方面都做到完美平衡，就等于全面失败",
+          "compensatory_strategies": "减少与人接触、把休闲压缩或用努力控制安排来求“完美平衡”",
+          "automatic_thoughts": "我在所有方面都失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "进行梦幻橄榄球或其他休闲活动时",
+          "conditional_assumptions": "把时间花在兴趣上就是浪费，说明我不够上进",
+          "compensatory_strategies": "强迫自己减少或回避休闲、用阅读分心、持续自我批评",
+          "automatic_thoughts": "我不该把时间浪费在这些事情上",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "想到是否要向朋友倾诉当下的自卑与无价值感",
+          "conditional_assumptions": "如果把这些感受告诉朋友，会给他们增加负担",
+          "compensatory_strategies": "保持沉默、不求助、与朋友家人隔离",
+          "automatic_thoughts": "我会麻烦到他们/他们不想听这些",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被认可为有价值的人，并能自在地享受兴趣而不被否定",
+        "fear": "害怕被视为无能和失败、成为他人的负担，从而被贬低或疏远",
+        "defense_goal": [
+          "通过不求助与保持距离避免被评判或给他人增加负担",
+          "以自我苛责和追求完美来预防失败带来的羞耻",
+          "用理性理由解释不寻求支持，以降低暴露脆弱的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无价值、容易失败的人",
+          "object_representation": "可能会评判我、被我拖累的人",
+          "linking_affect": "羞耻、沮丧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议向朋友/家人寻求支持或在咨询中更深入表达脆弱时",
+          "interpretation": "认为表达需求会给对方增添负担、被认为麻烦",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以客观、淡化情绪的口吻强调“不要麻烦别人”的理由，弱化自身需要，避免进一步情感暴露。"
+        },
+        {
+          "trigger_condition": "当想到要与朋友分享当前困扰或寻求安慰时",
+          "interpretation": "相信他人会觉得自己麻烦或看低自己（将内在担忧归于他人的想法）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用猜测对方想法的表述（如“他们不想听”），随后选择沉默或回避联系。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将在梦幻橄榄球等休闲中失败泛化为“这一生不会有任何成就”",
+            "把兴趣等同为“浪费时间”，难以在活动中体验意义与价值"
+          ],
+          "outcomes": [
+            "持续的自我贬低与无价值感",
+            "动力下降、情绪低落，日常功能受损"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在自由选择休闲与承担责任之间感到矛盾和内疚",
+            "倾向以僵化的规则衡量自我（不该把时间花在兴趣上）"
+          ],
+          "outcomes": [
+            "完美化要求与自我苛责",
+            "回避休闲、体验受限"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因负性想法而与朋友和家人疏离",
+            "不愿表达需要，害怕“麻烦他人”"
+          ],
+          "outcomes": [
+            "社会支持减少，负性情绪被放大",
+            "加重无助与孤立感"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "反复自我否定（“我一事无成”），以严格规则约束自己",
+            "在分享需要时过度顾虑他人负担，压抑求助冲动"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "将本可向外寻求的支持转为对自己苛责和自我消耗",
+            "选择沉默与疏离而非联系朋友求助"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在工作中有几个让自己感到自豪的项目经历，说明具备能力与成就的证据",
+          "具备一定的自我调节尝试（通过阅读转移注意力）",
+          "拥有可联络的朋友资源（虽未启用）",
+          "能觉察负性思维模式并愿意尝试记录和调整（求助动机明确）"
+        ],
+        "negative_force": [
+          "过度概括与非黑即白思维加剧失败感",
+          "将休闲等同为“浪费/不该”，形成僵化的价值规则",
+          "社交退缩与不求助，导致支持减少、情绪恶化",
+          "灾难化的自我评价与持续的自责，降低动力与功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "负性自动思维与自我贬损（如“我一事无成”“我不够好”）",
+          "antecedent": [
+            "进行梦幻橄榄球或其他休闲活动时",
+            "在任务/角色冲突（工作与爱好平衡）感到压力时",
+            "梦幻橄榄球比赛失利后"
+          ],
+          "core_reason": "对失败的过度概括与非黑即白规则，将局部挫折等同整体无价值",
+          "function": "短期内通过自我批评获得控制感并避免再投入以规避潜在失败和被评判",
+          "consequence": "情绪低落、动力下降、工作表现受损，强化无价值感的恶性循环"
+        },
+        {
+          "behavior": "社交退缩与不求助（避免与朋友和家人联系/倾诉）",
+          "antecedent": [
+            "想到向朋友分享自卑与低落时",
+            "感到自己会“麻烦到他人”时"
+          ],
+          "core_reason": "担心暴露脆弱被评判，将内在不安投射为他人的负担感受",
+          "function": "避免被拒绝或被贬低的可能性，短期降低焦虑与羞耻",
+          "consequence": "社会支持减少、孤立加重，负性情绪维持与恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1214
+}

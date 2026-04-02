@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "33",
+      "name": "林雪婷",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "单身",
+      "family_status": "父母来自日本",
+      "social_status": "与朋友关系有所紧张，常为省钱而婉拒社交；有几位可谈心的朋友，但尚未向他们谈及财务困扰",
+      "medical_history": "无显著躯体疾病；既往未有类似问题；此前未接受过心理治疗",
+      "language_features": "表达清晰、有条理；能具体描述诱因—情绪—行为的循环；自我评价苛刻、倾向消极；合作度良好，能接受探索与练习建议"
+    },
+    "main_problem": "我在购物时会过度消费，随后产生强烈的内疚，并相信自己永远无法存下钱。",
+    "topic": "情绪管理",
+    "core_demands": "反复出现的“过度消费—内疚”循环已经影响到我的心理健康和财务稳定，因此我来寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我无法信任自己去控制消费",
+        "我永远也存不下钱"
+      ],
+      "special_situations": [
+        {
+          "event": "在经历压力或糟糕的一天后，看到喜欢的商品",
+          "conditional_assumptions": "如果我不立刻犒劳自己，负面情绪就难以缓解；购物是让我好受的唯一办法",
+          "compensatory_strategies": "用购物来调节情绪、短暂提升心情",
+          "automatic_thoughts": "我受够了，我应该对自己好一点，买了会让我开心",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "制定预算并坚持几天或几周后，出现诱惑或压力",
+          "conditional_assumptions": "只要出现一次破功，就证明我完全失败、无法自控",
+          "compensatory_strategies": "破罐子破摔式地放弃预算并冲动消费",
+          "automatic_thoughts": "我又失败了，我根本做不到",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "最近一次购物狂欢后查看账单或回想消费记录",
+          "conditional_assumptions": "如果我不能像别人那样自律理财，就说明我是不负责任的失败者",
+          "compensatory_strategies": "自我苛责、回避与朋友外出以减少花销",
+          "automatic_thoughts": "别人都管理得很好，只有我在失败",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到未来的财务状况与储蓄目标",
+          "conditional_assumptions": "现在控制不住消费就意味着未来一定会一团糟、我一辈子都存不下钱",
+          "compensatory_strategies": "尝试更严格的预算和自我限制",
+          "automatic_thoughts": "我的财务未来会崩盘，我永远也存不下钱",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看作有自律、可信赖且能掌控财务的人，并获得肯定与安全感",
+        "fear": "害怕失控与失败被他人视为不负责任，从而带来羞耻、被评价和未来不安全",
+        "defense_goal": [
+          "通过严苛的自我批评与严格预算来维持控制感",
+          "回避社交以减少支出与外界评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无法信任自己的冲动、容易失败的人",
+          "object_representation": "他人是自律而评判的旁观者（“他们都比我更有条理”）",
+          "linking_affect": "羞耻、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请她尝试练习、进行现实检验或制定改变计划时",
+          "interpretation": "担心自己又会失败，觉得改变要求过高、难以做到",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "先充分共情其担忧，语气温和、具体化目标；用小步聚焦、强调可试错的实验性语言，邀请其提出能做到的最小改变。"
+        },
+        {
+          "trigger_condition": "在回顾一次过度消费经历与随之而来的内疚时",
+          "interpretation": "将失败完全归咎于自己，把愤怒与挫败转向自身",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "降低评判、命名羞耻与内疚，使用温柔的反映与澄清，辅助区分“行为与价值”，引导自我慈悲与功能性纠偏。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "为省钱而回避与朋友外出",
+            "尚未向朋友透露财务困扰",
+            "报告感到被孤立"
+          ],
+          "outcomes": [
+            "孤独感增强",
+            "焦虑与内疚加剧"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在选择与责任之间感到两难：渴望自律却被冲动牵引",
+            "担忧无法掌控未来的财务稳定"
+          ],
+          "outcomes": [
+            "决策瘫痪与自我责备循环",
+            "压力与焦虑上升"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我否定（如“我做不到”“我总会回到旧习惯”）",
+            "对尝试改变持怀疑与谨慎态度",
+            "担心他人都比自己做得好"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "为省钱而回避与朋友外出，将压力向内压抑",
+            "在内疚时苛责自己而非寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在感到压力或看到喜欢的商品时，来访者通常会冲动消费，随后内疚并破坏存钱计划。",
+          "unique_outcome": "在制定预算后的前几天至几周内，来访者能够按计划消费、减少冲动购买，并报告内疚感相对减轻。",
+          "reason": "线索：因为提前制定了具体预算并进行自我监测，同时在短期内压力相对较低、目标足够清晰，所以出现了对冲动的更好控制。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备预算与支出跟踪的尝试经验，能在短期内坚持并见效",
+          "愿意尝试新的练习与方法，动机明确（希望摆脱“过度消费—内疚”循环）",
+          "能识别触发情境与自动化思维（如“我值得犒劳自己”）",
+          "拥有一定的社会支持资源（有几位可谈心的朋友）"
+        ],
+        "negative_force": [
+          "灾难化、全或无等认知偏差强化无助感（如“我永远存不下钱”）",
+          "以购物作为情绪调节的主要方式，导致短期缓解、长期反弹",
+          "强烈的羞耻与自责，倾向把失败完全归因于自己",
+          "为省钱而回避社交，削弱支持并加重孤独",
+          "对自身可控性的怀疑与负性预测（“注定会失败”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "冲动性过度消费",
+          "antecedent": [
+            "压力增大或经历糟糕的一天",
+            "看到喜欢的商品",
+            "出现“我值得犒劳自己/买了会更开心”的想法",
+            "在执行预算几天后遭遇诱惑或挫折"
+          ],
+          "core_reason": "将购物作为主要的情绪调节手段；对失败的灾难化与全或无解释加剧“破罐子破摔”的反弹",
+          "function": "获得即时的情绪缓解与短期奖励",
+          "consequence": "无法稳定储蓄、对未来财务感到担忧，并伴随强烈的内疚与自责"
+        },
+        {
+          "behavior": "为省钱而回避社交",
+          "antecedent": [
+            "想到近期消费导致的内疚与紧张",
+            "担心社交场合的花销与失控"
+          ],
+          "core_reason": "为避免进一步支出和被评价，将压力向内收缩而非寻求外部支持",
+          "function": "逃避潜在的花费与被他人评价的风险",
+          "consequence": "与朋友关系紧张、孤独感增强、情绪支持减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1182
+}

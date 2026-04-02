@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "19",
+      "name": "凯拉",
+      "gender": "女",
+      "occupation": "汽车销售",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "妻子从事美发师工作",
+      "social_status": "未提及",
+      "medical_history": "既往未出现类似心理问题；无心理治疗史；无重大躯体疾病",
+      "language_features": "表达清晰、配合度高，能具体描述触发情境与自动化思维"
+    },
+    "main_problem": "在工作中丢失一笔销售后出现强烈的负性情绪与恐惧，倾向于灾难化并对未来作出负性预测（如担心家人将迎来糟糕的圣诞节），导致工作表现受影响、与同事关系紧张以及睡眠、食欲受影响。",
+    "topic": "情绪管理",
+    "core_demands": "持续的对未来事件的负性预期和灾难化开始影响我的心理健康并影响工作表现，这促使我寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法摆脱失败",
+        "未来会变得很糟糕"
+      ],
+      "special_situations": [
+        {
+          "event": "今天在工作中丢失一笔大单",
+          "conditional_assumptions": "如果我今天丢单，接下来就会持续失败，并且会影响家庭的节日与生活",
+          "compensatory_strategies": "试图保持积极，专注下一个机会",
+          "automatic_thoughts": "我再也成交不了下一单了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "午休的安静时刻，在丢单后独自思考",
+          "conditional_assumptions": "如果我不立刻阻止这些想法，它们会吞噬我，让一切更糟",
+          "compensatory_strategies": "通过散步或听音乐分散注意力，防止负面思维螺旋",
+          "automatic_thoughts": "从现在开始一切都会走下坡路",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到圣诞节的家庭支出与收入压力，与当天丢单联动",
+          "conditional_assumptions": "如果业绩下降，就会直接导致家庭度过糟糕的圣诞节",
+          "compensatory_strategies": "提前预演最坏情形以获得心理准备与控制感",
+          "automatic_thoughts": "这会让我们的圣诞节很糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "出现或被提醒到正向证据（例如曾丢单后次周成交更大的单）",
+          "conditional_assumptions": "如果积极结果无法持续，就不值得被纳入评估",
+          "compensatory_strategies": "淡化或否定正面结果，以维持谨慎与对风险的警惕",
+          "automatic_thoughts": "那只是侥幸，这次不会好转",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、获得稳定的工作表现与生活保障",
+        "fear": "害怕失败导致收入下降、让家人失望并被同事否定",
+        "defense_goal": [
+          "通过预先想象最坏结果来获得控制感与心理准备",
+          "维持高度警觉以避免再次失败"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易失败并被评判的员工",
+          "object_representation": "挑剔、会否定自己的同事或客户",
+          "linking_affect": "焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问这些负面预测的现实性或被要求回忆正向证据时",
+          "interpretation": "倾向认为积极例证只是侥幸，无法改变整体走向（移情：将希望视为不可靠）",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和、支持性，先验证其情绪，再以具体化追问引导其区分事实与推测，鼓励列举反例与证据。"
+        },
+        {
+          "trigger_condition": "在与同事互动时察觉他人情绪或眼神后",
+          "interpretation": "认为同事都能感受到并否定自己的能力（移情：投射）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用澄清与界定边界的提问，邀请区分事实与推测；语气稳定、不评判，鼓励具体化描述同事的实际言行。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在工作挫败后对未来作出绝望化预测（“一切都会走下坡路”）",
+            "将单次失败视为整体走向的恶化",
+            "担心家庭节日将变糟，感到前景阴郁"
+          ],
+          "outcomes": [
+            "焦虑与恐惧加剧",
+            "睡眠与食欲受影响",
+            "工作表现下降",
+            "与同事关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在工作中对自身表现过度苛责并放大负面结果",
+            "失单后反复内心审视并预期最坏",
+            "在与同事互动中过度在意他人对自己的看法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在丢失一笔销售后，来访者通常会灾难化并预测持续失败，导致情绪低落、注意力分散，工作表现受影响。",
+          "unique_outcome": "几个月前，她丢失一笔销售，但在下一周成交了一笔更大的单，结果明显好于她当时的预测。",
+          "reason": "不同做法：尝试保持积极并专注于下一个机会的跟进；因此这次出现了与以往灾难化预期不同的结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意保持积极并专注下一次机会",
+          "能够回忆并承认过去的正向例外（丢单后次周成交更大单）",
+          "愿意尝试具体策略（记录正向结果、午休散步/听音乐）",
+          "配合度高、对改变持希望态度"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、否定积极的认知模式",
+          "对失败的恐惧与对未来的负性预期",
+          "业绩与收入压力导致整体压力水平升高",
+          "睡眠与食欲受影响，降低复原力",
+          "与同事关系紧张，形成负性循环"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作挫败后出现灾难化思维与对未来的极度负性预期，伴随焦虑与担忧",
+          "antecedent": [
+            "在工作中丢失一笔销售",
+            "午休的安静时刻容易陷入负面思维",
+            "连续多次丢单后的业绩与收入压力"
+          ],
+          "core_reason": "过度关注失败的后果，并将单次挫败泛化为持续性失败，预测家庭将因此遭遇糟糕的节日与生活",
+          "function": "逃避潜在失望与不确定性，试图通过预演最坏情形获得心理上的控制感",
+          "consequence": "工作表现受影响、与同事关系紧张、睡眠与食欲受影响，整体心理健康下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 603
+}

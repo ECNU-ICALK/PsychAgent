@@ -1,0 +1,170 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "陈思凯",
+      "gender": "男",
+      "occupation": "教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "单身",
+      "family_status": "独居于一座大城市，身边无直系亲属",
+      "social_status": "有几位亲近的朋友可谈个人问题；因回避游戏，与同好朋友的关系受影响；朋友可能不完全理解他对游戏的情感意义",
+      "medical_history": "无重大身体疾病；无类似心理问题史；既往未接受心理治疗或咨询",
+      "language_features": "表达清晰、逻辑性较好、配合度高；语气消沉；常用灾难化、过度概括、非黑即白、预测未来与心理过滤等认知模式"
+    },
+    "main_problem": "在最近一次购买的电子游戏带来失望后，我陷入失望情绪，并相信自己再也找不到好玩的游戏。",
+    "topic": "情绪管理",
+    "core_demands": "因为对游戏的兴趣减退已经开始影响我的情绪和整体对休闲活动的享受，所以决定寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我再也找不到让我快乐的事物（游戏不再能带来愉悦）",
+        "失望是不可避免的，未来的尝试只会浪费时间与精力"
+      ],
+      "special_situations": [
+        {
+          "event": "最近购买并高度期待的电子游戏最终令人失望（投入金钱与时间，结果不如预期）",
+          "conditional_assumptions": "如果一次高度期待的体验以失望告终，那么之后的类似体验也会如此；如果一款游戏让我失望，其他游戏也会让我失望",
+          "compensatory_strategies": "回避玩游戏，尝试用其他爱好分散注意但难以坚持",
+          "automatic_thoughts": "再尝试也只会失望，玩游戏已经没有意义了",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "下班后想到要玩游戏或尝试新游戏的时刻",
+          "conditional_assumptions": "如果我再次尝试，必然会浪费时间和金钱；只有完美的体验才值得投入",
+          "compensatory_strategies": "回避或拖延尝试新游戏，减少接触游戏相关内容",
+          "automatic_thoughts": "这又会是一场浪费，不值得尝试",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与热爱游戏的朋友相聚或谈及游戏的社交情境",
+          "conditional_assumptions": "如果我无法享受游戏，就会破坏气氛或使关系尴尬；参与只会暴露我的问题",
+          "compensatory_strategies": "回避与游戏同好朋友的社交活动，减少互动",
+          "automatic_thoughts": "我现在感觉很糟，去也不会有任何乐趣",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "回想过去对游戏的积极体验（沉浸与成就感）",
+          "conditional_assumptions": "过去的美好只是偶然，未来不太可能再发生；只有复制同等水平的好体验才算有意义",
+          "compensatory_strategies": "贬低正面记忆以降低期待，保持回避",
+          "automatic_thoughts": "那些好的体验只是运气，今后不会再有",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过游戏获得稳定的愉悦与放松，重拾沉浸与成就感",
+        "fear": "害怕再次失望与浪费投入，担心失去主要的放松方式导致空虚与情绪低落",
+        "defense_goal": [
+          "通过回避与贬低正面经历来控制期待与情绪波动，维持表面的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失去乐趣、感到无助的疏离者",
+          "object_representation": "不理解其情感意义的同好朋友（可能继续热衷游戏）",
+          "linking_affect": "失落、孤独、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出“并非所有游戏都会令人失望”或邀请其尝试以小步检验信念时",
+          "interpretation": "将咨询师的建议体验为过于乐观、可能低估自己的情绪痛苦，从而担心被迫重复失败",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和而稳定，先共情其失望与恐惧；避免过度讲理，邀请其关注当下身体与情绪体验，使用开放式提问与具体化引导（如“当你想到尝试时，身体哪里最紧？”），逐步承接其犹疑。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "失去主要休闲方式后的“空缺感”“一切显得徒劳”",
+            "对未来游戏体验的怀疑与无望感"
+          ],
+          "outcomes": [
+            "情绪低落与烦躁不安",
+            "对游戏与相关社交的回避",
+            "休闲与自我照护节律被打乱"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避开与游戏同好的朋友相处",
+            "认为朋友难以理解自己对游戏的情感意义"
+          ],
+          "outcomes": [
+            "社会支持利用度下降",
+            "关系疏离与孤独感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "以“逻辑上我能理解，但情感上做不到”的方式讨论，弱化直接情绪接触",
+            "以观看评测/视频替代直接投入游戏体验以降低风险",
+            "在谈及失望时更多用理性分析而非细致地感受当下情绪"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备稳定职业功能（工作未受影响）",
+          "有几位亲近朋友可提供情感支持",
+          "过往在游戏中有沉浸与成就的正向经验，证明其具备获得乐趣的能力",
+          "在其他领域能通过转移注意来应对失望，具备一定的自我调节策略"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、非黑即白与预测未来等负性认知模式强化失望预期",
+          "回避行为维持问题循环，进一步削弱兴趣与社交",
+          "对再次失望的强烈恐惧导致意义感下降与虚无体验",
+          "情绪化推理使负面体验覆盖正面记忆与证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避玩电子游戏",
+          "antecedent": [
+            "想到或尝试接触游戏的时刻",
+            "下班后原本用于放松的时间段"
+          ],
+          "core_reason": "最近一次高度期待的游戏体验以失望告终，引发对未来体验的灾难化与过度概括，害怕再次浪费时间与金钱",
+          "function": "逃避不愉快情绪与潜在失败感，维持短期心理安全",
+          "consequence": "失去主要的放松方式，情绪低落与不安增加，休闲与自我照护节律被打乱"
+        },
+        {
+          "behavior": "回避与游戏同好朋友的社交互动",
+          "antecedent": [
+            "朋友邀请一起玩或谈论游戏",
+            "与同好聚会的社交场景"
+          ],
+          "core_reason": "担心无法享受导致尴尬或被看出“有问题”，并以情绪化推理预设负面结果",
+          "function": "避免社交中的不适与潜在评价，降低暴露于触发线索的机会",
+          "consequence": "关系疏离与孤独加重，社会支持利用度下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1510
+}

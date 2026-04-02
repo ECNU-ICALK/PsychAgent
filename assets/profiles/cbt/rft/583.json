@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "陈珊",
+      "gender": "女",
+      "occupation": "咖啡师",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有几位朋友可以倾诉，但尚未向他们充分分享自己的负性思维困扰；与同事的关系因其对错误的负面反应而紧张。",
+      "medical_history": "未经历类似心理问题；未接受过心理治疗或咨询；无重大躯体疾病。",
+      "language_features": "表达清晰，能具体描述事件与情绪；愿意配合并尝试练习；态度略消极但开放；存在焦虑与紧张，容易陷入反刍与自我苛责。"
+    },
+    "main_problem": "我倾向于将小错误灾难化，导致强烈的痛苦和负面情绪。",
+    "topic": "情绪管理",
+    "core_demands": "在意识到负性思维模式正在影响我的工作表现和整体幸福感后，我决定寻求咨询。",
+    "growth_experiences": [
+      "约一年前在工作中将顾客的订单弄错，虽已当场道歉并立即修正，但当日持续反刍并强烈担忧会被投诉或被老板责备，首次出现高强度压力与对失业的恐惧，此后类似负性思维几乎每日在咖啡馆的高压情境中被激发。",
+      "曾在工作中把咖啡洒出，当时认为会被持续责备或嘲笑，但实际他人只是淡然应对、很快就过去；尽管结果并不严重，仍在当时产生“会一直被说”的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不胜任自己的工作",
+        "犯错就意味着灾难"
+      ],
+      "special_situations": [
+        {
+          "event": "在咖啡馆工作时把顾客的订单弄错",
+          "conditional_assumptions": "如果我犯了错误，就说明我不称职，可能会被责备甚至丢掉工作。",
+          "compensatory_strategies": "立即道歉并修正订单；之后试图用理性和强调积极面来安抚自己，但仍反复思考错误。",
+          "automatic_thoughts": "整天都毁了；老板会生气；我可能会被解雇。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "犯错后老板未明显表态或沉默，自己揣测对方态度",
+          "conditional_assumptions": "如果他人没有立即给出正面反馈，往往是在不满或生气。",
+          "compensatory_strategies": "减少与同事互动、陷入自责和担忧，以避免被评价。",
+          "automatic_thoughts": "老板在生我的气；同事会看低我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在高压时段出现轻微失误（如手忙脚乱、流程小差错）",
+          "conditional_assumptions": "只要出现任何错误，就证明我不够好、不适合这份工作。",
+          "compensatory_strategies": "对自己提出完美要求、过度自我监控；一旦失误便持续反刍。",
+          "automatic_thoughts": "这证明我不胜任这份工作。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "洒了咖啡后担心会被持续责备，但他人实际上淡然处理并很快过去",
+          "conditional_assumptions": "一旦出错，后续会一直被责备、事件会持续影响我。",
+          "compensatory_strategies": "在事件后反复回想细节、放大负面后果，难以关注实际的平稳结果。",
+          "automatic_thoughts": "我会一直被说这件事，后果会持续很糟。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在工作中被认可与接纳、被视为胜任且安全",
+        "fear": "害怕被否定、被责备或被解雇，失去稳定与自我价值感",
+        "defense_goal": [
+          "通过保持高标准与自我警惕来避免批评和惩罚，以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错并可能被否定的员工",
+          "object_representation": "潜在会不满、批评或惩罚自己的权威者/同事",
+          "linking_affect": "焦虑、羞愧、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在犯错后对方未给予明确的正面反馈或保持沉默时",
+          "interpretation": "将自身焦虑投射为他人不满或生气，认为老板或同事正在责备自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以支持性与共情的语气，温柔澄清假设与事实的差距，邀请其检视证据并回到当下体验；避免评价与对抗性语言，使用开放式提问帮助其区分他人态度与自身感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居；与同事关系紧张；虽有朋友但未充分分享自身困扰，情感支持有限"
+          ],
+          "outcomes": [
+            "焦虑与紧张加重",
+            "自我怀疑与负面自评",
+            "情绪低落与动机下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在犯错后频繁自我批评与反刍",
+            "担心无法做好而自我设限",
+            "难以向朋友与同事直接表达真实困扰"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在工作中犯小错误时，来访者通常会灾难化思维、持续反刍并强烈担忧被老板责备或被解雇。",
+          "unique_outcome": "某次把顾客订单弄错后，来访者当场道歉并立刻修正；顾客接受并平静离开，老板之后未提出批评，实际后果较轻。",
+          "reason": "不同做法：立即道歉并修正；不同情境/支持：顾客态度平和、老板未责备，从而未出现预期的严重后果。"
+        },
+        {
+          "target_problem": "在突发小失误（如洒咖啡）时，来访者通常会预期长期被责备并陷入反刍与消极情绪。",
+          "unique_outcome": "一次洒咖啡的事件中，同事与他人只是淡然处理并很快过去，未出现持续责备或负面追究。",
+          "reason": "不同情境：他人反应平静且包容，事件得到快速解决，减少了延续性的负面反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在错误发生时具备及时修正与道歉的能力",
+          "愿意寻求咨询并尝试自我同情与认知重构练习",
+          "能够识别自身的灾难化模式并承认可能过度反应",
+          "拥有一定的社会支持（有几位朋友可谈话）"
+        ],
+        "negative_force": [
+          "灾难化、非黑即白、心理过滤与否定积极的思维倾向",
+          "过度担心他人评价与工作安全，倾向读心与负性预测",
+          "反刍与自我苛责维持焦虑与低落",
+          "高压工作情境频繁触发负性认知与生理紧张反应"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在犯小错误后出现灾难化思维与强烈焦虑，持续反刍并自我苛责",
+          "antecedent": [
+            "咖啡馆高压时段",
+            "出现轻微失误（如订单错误、洒咖啡）",
+            "担心顾客投诉或老板不满"
+          ],
+          "core_reason": "对失去工作与被责备/否定的高度担忧，将小错误解读为严重后果的征兆（灾难化认知）。",
+          "function": "逃避被批评或被解雇的威胁（通过过度警觉与自我批评来试图自我保护）。",
+          "consequence": "工作表现受影响；与同事关系紧张；整体情绪与动机下降；几乎每日被负性思维困扰。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 583
+}

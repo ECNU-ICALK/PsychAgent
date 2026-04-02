@@ -1,0 +1,169 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "陈凯文",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有少数朋友可以交流，但难以与他们讨论自己的社交焦虑；人际关系因负面想法与避免眼神接触而受影响",
+      "medical_history": "无重大躯体疾病；未接受其他心理治疗；其他心理问题史未提及",
+      "language_features": "表达清晰、能说明自身想法与感受；态度积极，配合度高；主观感到紧张；能接受作业与建议"
+    },
+    "main_problem": "在社交互动中难以进行眼神接触，并相信朋友认为自己很奇怪、只是出于同情才与自己交往。",
+    "topic": "人际关系",
+    "core_demands": "意识到社交焦虑与对友谊的负面想法影响日常生活与心理健康，因此寻求咨询。",
+    "growth_experiences": [
+      "在青少年时期经历过几次尴尬的社交事件；自那以后在社交场合尽量避免眼神接触，逐步形成对群体互动的社交焦虑与对他人负面评价的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个很奇怪、让人同情的人",
+        "别人并不真正喜欢我，他们只是出于同情与我做朋友"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交聚会与朋友交谈时，注意到有人给出“奇怪的眼神”",
+          "conditional_assumptions": "如果我不能维持眼神接触或看到别人露出不寻常的表情，就说明他们觉得我很奇怪",
+          "compensatory_strategies": "尽量回避眼神接触，在群体场合减少发言与互动",
+          "automatic_thoughts": "他们在评判我，只是可怜我才和我做朋友",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到要与朋友坦诚沟通并寻求澄清",
+          "conditional_assumptions": "如果我暴露自己的担忧与不安，别人会觉得我反应过度并开始更怜悯我",
+          "compensatory_strategies": "回避与朋友讨论社交焦虑与眼神接触的问题",
+          "automatic_thoughts": "他们会开始以不同的方式对待我，会更可怜我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想朋友曾经支持与理解的经历后",
+          "conditional_assumptions": "即使出现积极互动，也不代表他们真正喜欢我，这些好表现只是出于同情",
+          "compensatory_strategies": "忽视积极证据，继续以消极视角解释关系",
+          "automatic_thoughts": "他们只是同情我才支持我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实接纳、被理解并与他人建立自然舒适的连接",
+        "fear": "害怕被评判、被羞辱，担心他人只是出于同情而非真正喜欢自己",
+        "defense_goal": [
+          "通过减少自我暴露与保持一定距离来降低被评判与羞辱的风险",
+          "回避眼神接触以维持安全感与可控性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被评判、令人同情的自己",
+          "object_representation": "会评判、只会同情而不真正接纳的他人（朋友）",
+          "linking_affect": "羞耻、焦虑、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与朋友寻求澄清、开放谈论担忧时",
+          "interpretation": "来访者倾向认为这样会让朋友更看低自己、只会更可怜自己（将内在的羞耻与不被接纳的担忧投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以支持性、温和的语气充分共情其担忧，再通过具体事实与例证进行苏格拉底式提问，温柔挑战“他们会看不起我”的推断，避免对抗或评判。"
+        },
+        {
+          "trigger_condition": "当咨询师询问“是否有具体证据表明朋友负面看法”时",
+          "interpretation": "来访者强调他人的眼神与“看起来奇怪”，将其作为不与朋友沟通的理由，忽视积极证据",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持中性与好奇的语气，引导其具体化“奇怪眼神”的细节与情境，同时共同列出正反证据与替代解释，减少防御强度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在群体场合因避免眼神接触而感到与他人疏离",
+            "担心朋友只是出于同情与自己相处而不敢坦诚交流"
+          ],
+          "outcomes": [
+            "社交焦虑",
+            "自尊受损",
+            "回避亲密互动"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将他人的眼神与表情解释为对自己的评判",
+            "认为朋友只是出于同情而与自己交往"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省，包含过多自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑“我很奇怪”",
+            "过度关注他人眼神与反应，避免眼神接触",
+            "担心坦诚后会被视为“反应过度”而选择不交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与朋友或群体交流时，来访者通常会回避眼神接触，并假设他人对其有负面评价，从而感到更焦虑、关系疏远。",
+          "unique_outcome": "有几次与朋友相处时，来访者感到比较舒适，朋友表现出理解与支持，他没有像往常那样强烈回避，互动更顺畅。",
+          "reason": "不同支持：朋友在这些时刻表达了理解与接纳；不同情境/做法：来访者当时主观感到更舒适，从而更愿意接触。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求咨询且态度积极",
+          "能够识别并表达自身的负面自动化思维",
+          "拥有少数可以交流的朋友，且曾体验到他们的支持"
+        ],
+        "negative_force": [
+          "在群体情境中社交焦虑显著",
+          "读心术与个人化倾向，易忽视积极证据",
+          "回避眼神接触导致互动质量下降与自尊受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交互动中回避眼神接触",
+          "antecedent": [
+            "与朋友交谈",
+            "社交聚会",
+            "工作交流场景"
+          ],
+          "core_reason": "青少年时期的尴尬社交经历后形成对被评判的担忧与读心倾向，进而回避眼神接触",
+          "function": "逃避被评判/羞耻的潜在风险，短期降低焦虑",
+          "consequence": "人际关系疏远，工作表现受影响，自尊降低"
+        },
+        {
+          "behavior": "在群体场合出现显著社交焦虑",
+          "antecedent": [
+            "群体社交场景",
+            "需要公开互动或被关注的时刻"
+          ],
+          "core_reason": "基于过去尴尬经历与对他人负面评价的预期，倾向灾难化解释社交线索",
+          "function": "避免被他人注意与评价，寻求安全感",
+          "consequence": "减少表达与参与，难以维持亲密关系，日常互动受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 509
+}

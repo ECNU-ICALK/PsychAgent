@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "由于回避结交新朋友，人际关系受到影响，日常互动减少，感到孤立",
+      "medical_history": "无重大躯体疾病；既往未有类似心理问题；未接受过心理治疗",
+      "language_features": "表达清晰、有自我反思能力、配合度高，但在谈及人际问题时显得紧张与内疚"
+    },
+    "main_problem": "我觉得自己不是一个好人，因为我不想和主动接近我的人做朋友，这让我感到内疚并质疑自我价值。",
+    "topic": "人际关系",
+    "core_demands": "我想了解自己为何会这样想，并找到不再一直感到内疚的方法；希望把设定界限看作健康选择，能够把自己看作一个好人。",
+    "growth_experiences": [
+      "以往的友谊中曾遇到他人并不总是友善的经历，形成对友谊的信任问题；因此在面对新的朋友关系时难以信任他人。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个坏人/我不够好",
+        "我的价值取决于他人是否喜欢我"
+      ],
+      "special_situations": [
+        {
+          "event": "当有人表达想与她成为朋友时",
+          "conditional_assumptions": "如果我拒绝或不想与对方做朋友，就会伤害他们，也说明我不是好人",
+          "compensatory_strategies": "回避社交与互动，提前远离可能的接近以避免让人受伤",
+          "automatic_thoughts": "我会伤害他们；我是不友善的坏人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "注意到最近有很多人愿意接近、称赞她并想与她交友",
+          "conditional_assumptions": "一个好人应该对每个人都友好并愿意成为朋友；如果我做不到，就证明我不好",
+          "compensatory_strategies": "自责并反复检视自己是否“够好”，压抑拒绝的意愿",
+          "automatic_thoughts": "我应该和所有人做朋友，否则我就是个不好的人",
+          "cognitive_pattern": "\"Should\" Statements"
+        },
+        {
+          "event": "回想过去的友谊经历里，有人对她并不友善",
+          "conditional_assumptions": "新朋友也很可能不友善或不可信，拒绝更安全",
+          "compensatory_strategies": "收紧边界，减少接触，避免建立新关系",
+          "automatic_thoughts": "他们大概也不会对我好，还是别开始",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到如果不回应他人的好意，别人可能不再喜欢自己",
+          "conditional_assumptions": "我的价值取决于是否让他人满意并被喜欢",
+          "compensatory_strategies": "通过退避来减少让他人失望的可能，内心反复寻找“我是好人”的证明",
+          "automatic_thoughts": "如果我不迎合他们，他们就会不喜欢我，我也不值得",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳并拥有安全、可信赖的友谊",
+        "fear": "害怕再次被不友善对待、被伤害，同时害怕因拒绝而伤害他人、被视为坏人",
+        "defense_goal": [
+          "通过保持距离与回避社交来降低受伤与内疚的风险",
+          "以自我指责维持对“好人”标准的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚而需要迎合的“不好的人”",
+          "object_representation": "容易被伤害、也可能不友善并会评判自己的人",
+          "linking_affect": "内疚、焦虑、不信任、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因回避社交而与人疏离，不愿与主动接近者建立友谊",
+            "不把感受告诉任何熟人，倾向于独自承受"
+          ],
+          "outcomes": [
+            "感到孤立与悲伤",
+            "内疚与自我怀疑增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“好人应该和所有人成为朋友”的外在规则约束自我，难以行使选择与设定界限的自由"
+          ],
+          "outcomes": [
+            "价值条件化与自我不一致",
+            "持续的内疚与自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“好人应该对所有人友好并且想交朋友”作为自我评判标准",
+            "用“我必须/应该……”来要求自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将自己贴上“坏人”的标签，强烈内疚与自我怀疑",
+            "面对人际接近时过度谨慎，害怕伤害他人而回避"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设对方会因被拒绝而受伤或不喜欢自己，未验证对方实际想法"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在他人表达想与其交友时，来访者通常会产生强烈内疚并回避互动，进而与人疏离。",
+          "unique_outcome": "有时在回忆过去不愉快的友谊经历时，来访者会短暂地觉得自己保持距离是正确的选择，因此当下的内疚感相对减轻，能够更肯定自己的边界决定。",
+          "reason": "线索：当带着对以往受伤经历的理解来审视当前关系时，将设限视为自我保护而非“不友善”，因此出现了内疚减轻与自我肯定的偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助且态度积极，愿意尝试重构认知与做作业",
+          "具备自我反思能力，能够识别与描述自动化想法与内疚感",
+          "有明确的自我保护与边界需求",
+          "同伴关系资源潜在充足（有人愿意接近与称赞）"
+        ],
+        "negative_force": [
+          "“应该化”与非黑即白的自我要求导致持续自责",
+          "个人化与读心倾向，过度为他人情绪负责",
+          "过度概括导致对新关系缺乏信任",
+          "回避社交维持问题循环并加剧孤立与悲伤",
+          "缺乏可诉说的支持对象，倾向独自承受"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避社交互动与拒绝建立新友谊",
+          "antecedent": [
+            "当有人表达想与其交友",
+            "注意到他人对自己友好或称赞时"
+          ],
+          "core_reason": "过去友谊中被不友善对待的经历引发信任问题，并担心拒绝会伤害他人、被视为“坏人”。",
+          "function": "逃避潜在人际伤害与内疚情绪",
+          "consequence": "人际关系受影响、感到孤立与悲伤、日常互动减少"
+        },
+        {
+          "behavior": "自我负面贴标签（将自己视为“坏人”）并伴随强烈内疚",
+          "antecedent": [
+            "想到自己不愿与每个人做朋友时",
+            "准备拒绝他人时"
+          ],
+          "core_reason": "内摄的“好人应该对所有人友好”的规则与对外部认可的依赖。",
+          "function": "通过自责维持对道德标准的控制与警醒，试图避免被他人否定。",
+          "consequence": "自我价值感下降，加剧内疚与回避，进一步影响人际与日常生活"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1343
+}

@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "林可欣",
+      "gender": "女",
+      "occupation": "小学教师",
+      "educational_background": "教育学学士",
+      "marital_status": "未婚",
+      "family_status": "父母来自日本，来访者独自在加拿大多伦多生活",
+      "social_status": "与朋友的关系因对金钱的焦虑而紧张；虽有亲密朋友可倾诉，但难以谈及财务恐惧",
+      "medical_history": "无重大躯体疾病；此前无类似财务焦虑问题；既往未接受心理咨询或治疗",
+      "language_features": "表达清晰、条理较好，能具体描述感受与情境；配合度高；情绪紧张但可反思与讨论目标"
+    },
+    "main_problem": "因一次购买昂贵鞋子导致超支后，持续害怕“破产并不得不回到父母家同住”，在购物前后出现明显焦虑与内疚，影响睡眠、饮食、工作与人际关系。",
+    "topic": "情绪管理",
+    "core_demands": "希望减轻对财务状况的恐惧与焦虑，保持独立且不成为父母负担；通过设定“可承受的每周花费上限”、记录支出、制作购物清单等方式减少冲动消费并获得对支出的掌控感。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法信任自己妥善管理金钱，一旦出错就会失去独立。",
+        "如果我花钱不当，我会成为父母的负担。"
+      ],
+      "special_situations": [
+        {
+          "event": "在购买那双昂贵的鞋子后意识到超支",
+          "conditional_assumptions": "如果一次消费失控，就可能迅速走向财务崩溃并失去独立",
+          "compensatory_strategies": "采取严格预算、只带少量现金、限制购物以避免再次出错",
+          "automatic_thoughts": "我会把钱花光，不得不搬回父母家。",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在准备购买任何物品（如一杯咖啡）之前",
+          "conditional_assumptions": "如果我不能每次都完美控制支出，就会滑向更糟糕的后果",
+          "compensatory_strategies": "回避购物场景、反复检查是否“真的需要”，压抑欲望",
+          "automatic_thoughts": "如果现在买了，接下来会越来越失控，我会陷入经济困境。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "查看账单或余额，注意到近期支出",
+          "conditional_assumptions": "负面数字证明我财务管理很差，说明未来也会出问题",
+          "compensatory_strategies": "进一步削减社交性支出，减少非必要消费",
+          "automatic_thoughts": "你看，我理财很糟，这迟早会出大问题。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "即使按预算执行一段时间后回顾自己的消费",
+          "conditional_assumptions": "这些做得好也不算数，稍有放松就会失败",
+          "compensatory_strategies": "否定已有成效、继续加码限制与监控",
+          "automatic_thoughts": "这些不算什么，我做得还远远不够。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望保持经济与生活的独立，得到认可而不成为负担",
+        "fear": "害怕失去独立、被迫回到父母身边并被视为负担",
+        "defense_goal": [
+          "通过严格自我控制与理性规划来降低不确定性与焦虑，避免再次“失控”的消费"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、需要高度自我约束以免拖累他人的人",
+          "object_representation": "可能要求依赖或会评判自己消费失当的父母",
+          "linking_affect": "内疚、恐惧、羞愧"
+        },
+        {
+          "self_representation": "因金钱焦虑而退缩的朋友中“难以开口的人”",
+          "object_representation": "难以理解自己焦虑、可能因此疏远的朋友",
+          "linking_affect": "焦虑、疏离"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦于金钱焦虑的感受本身，或被邀请停下过度控制、尝试更灵活策略时",
+          "interpretation": "将放松控制等同于“失控”和危险，认为只有更多计划与规则才安全",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "优先使用客观、策略性与步骤化的语言，罗列计划与数据，尽量避免探讨脆弱情绪，语气平稳克制。"
+        },
+        {
+          "trigger_condition": "当谈及那次买鞋的超支与由此带来的后果时",
+          "interpretation": "下意识将责任过多归于自身，担心被评价为“不负责任”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与道歉式措辞，弱化自身成就与合理需求，语气压低、强调“我不应该”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "强烈强调维持经济独立与自我决定权；担心因金钱问题而被迫回到父母身边"
+          ],
+          "outcomes": [
+            "持续性焦虑与内疚",
+            "过度自我控制与回避消费",
+            "工作注意力受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有亲密朋友，但难以分享财务恐惧；与朋友关系因焦虑而紧张"
+          ],
+          "outcomes": [
+            "社交退缩与疏离感",
+            "焦虑维持与加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“不能成为父母负担、必须保持独立”视为绝对标准",
+            "以严格预算与限制作为自我要求，难以允许弹性"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我检视与内疚感",
+            "对小额消费也高度警觉与自责",
+            "在表达需求与与友人沟通金钱话题上过分谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有稳定工作与功能水平（小学教师）",
+          "愿意求助并配合咨询，能设定并接受具体目标",
+          "愿意尝试预算、记录支出与购物清单等策略",
+          "身体健康、无严重躯体疾病",
+          "具备一定社会支持（有亲密朋友）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、心理过滤与预测未来等消极思维维持焦虑",
+          "对“成为负担”的高度恐惧与内疚感",
+          "过度自我监控与僵化的规则感降低弹性",
+          "对金钱话题的回避导致人际支持利用不足",
+          "睡眠与饮食受损、工作注意力下降，反过来加重担忧"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "与购物相关的高强度焦虑与反复担忧（伴随回避与过度控制）",
+          "antecedent": [
+            "在购买前想到要花钱（如买咖啡）",
+            "购买后回顾消费记录",
+            "查看账单或账户余额",
+            "回忆那次买鞋的超支事件"
+          ],
+          "core_reason": "一次超支事件被灾难化与过度概括，触发对失去独立、成为父母负担的强烈恐惧与内疚",
+          "function": "逃避不确定与内疚、寻求安全感与控制感",
+          "consequence": "睡眠与饮食紊乱、工作受影响，与朋友关系紧张，生活品质下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 91
+}

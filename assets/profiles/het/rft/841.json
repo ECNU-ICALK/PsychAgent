@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "陈曼迪",
+      "gender": "女",
+      "occupation": "办公室职员",
+      "educational_background": "高中毕业（High School Diploma）",
+      "marital_status": "单身",
+      "family_status": "独居，与一只名为Speckles的猫一起生活",
+      "social_status": "有一位要好的朋友可谈一般问题，但因害怕被评判而回避与朋友和家人讨论购物",
+      "medical_history": "无显著躯体疾病；无以往类似心理问题；未接受过心理治疗或咨询",
+      "language_features": "表达清晰，合作度高，能进行自我反思；情绪略显焦虑；能识别并描述自身自动化思维"
+    },
+    "main_problem": "我因享受购物和花钱而感到内疚，认为他人把我看作浪费。",
+    "topic": "情绪管理",
+    "core_demands": "这些内疚感已经开始影响我的日常生活和心理健康。我真的想克服这种内疚，更好地享受生活。",
+    "growth_experiences": [
+      "童年时期家中对金钱话题十分敏感；来访者认为当前问题的根源与此有关，相关感受延续至今。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不负责任、浪费的人",
+        "他人的评判决定我的价值"
+      ],
+      "special_situations": [
+        {
+          "event": "在进行购物/消费的当下",
+          "conditional_assumptions": "如果我花钱享受自己，别人就会认为我浪费和不负责任",
+          "compensatory_strategies": "通过制定预算、减少开支来证明自己不是浪费的人",
+          "automatic_thoughts": "他们会觉得我很浪费、很不负责任",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "与朋友或家人谈论购物或近期消费时",
+          "conditional_assumptions": "如果我谈论购物，别人就会评判我，从而否定我的人品与价值",
+          "compensatory_strategies": "回避相关话题，减少与亲友的互动以避免被评价",
+          "automatic_thoughts": "如果他们不认可我的消费，我就不值得",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "在工作中回想起自己的花费并因此注意力分散",
+          "conditional_assumptions": "如果我感到强烈内疚，说明我确实做错了",
+          "compensatory_strategies": "自我批评并强迫自己更严格地克制消费，以缓解内疚",
+          "automatic_thoughts": "我感觉很内疚，这一定说明我做错了",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "夜间入睡前想到当天的花销",
+          "conditional_assumptions": "如果我继续这样花钱，别人迟早会看不起我",
+          "compensatory_strategies": "反复检视账单、计划更严格的节制来预防他人负面看法",
+          "automatic_thoughts": "以后大家会觉得我很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被他人接纳、无需为消费被评判",
+        "fear": "害怕被视为浪费或不负责任，从而被否定或疏远",
+        "defense_goal": [
+          "通过克制消费与回避相关话题来维持安全感与自我价值",
+          "以自我批评来预防外界批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚、担心被评判的被责备者",
+          "object_representation": "苛责、爱评判的他人/旁观者",
+          "linking_affect": "内疚、焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询或日常中被邀请谈及购物/消费选择时",
+          "interpretation": "来访者潜意识认为对方会像过去家庭一样评判或责备自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气略显防御，使用“他们在看不起我”之类的假设性表述，避免具体事实与细节。"
+        },
+        {
+          "trigger_condition": "当消费后体验到强烈内疚与焦虑时",
+          "interpretation": "将内疚视为确凿证据，认为自己做错了，必须更严格约束自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责语句（如“我不该那样做”），语气苛刻，并提出自我惩罚式的控制计划（如严控预算）。"
+        },
+        {
+          "trigger_condition": "当咨询师探讨其信念的证据或有效性时",
+          "interpretation": "倾向用道理证明自己不是浪费的人，以逻辑化方式淡化情绪",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以理性、低情感的语气陈述大量“因为/所以”的解释，强调预算与节制的合理性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "家中对金钱的敏感使其内摄了“应该/必须克制消费”的规则",
+            "担心他人评判而自我约束过度，难以自在地选择与享受购物"
+          ],
+          "outcomes": [
+            "持续内疚与焦虑",
+            "行为回避与自我限制",
+            "生活乐趣下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "避免与朋友和家人谈论购物与消费",
+            "未与任何人讨论该具体问题，社交话题收缩"
+          ],
+          "outcomes": [
+            "感到孤立",
+            "睡眠受影响",
+            "与兴趣疏离"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“我不应该/我必须克制”类的应该句式",
+            "将家庭过去对金钱的敏感内化为僵化的消费规则"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "假设别人认为她浪费或不负责任",
+            "在没有直接证据时仍认为他人正在评判自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我检视支出，制定严苛预算",
+            "睡前反刍消费并自责，强化内疚"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "回避与他人谈购物，把表达与沟通的冲动转而自我克制与自我批评"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求咨询，改变化的意愿较强",
+          "能识别并命名自己的自动化思维（如读心术），具有自我反思能力",
+          "工作表现总体稳定，生活有基本结构",
+          "具备预算与控制开支的能力",
+          "有一位可靠的朋友可提供一般性支持"
+        ],
+        "negative_force": [
+          "过度依赖他人评价（寻求外部验证），容易产生内疚",
+          "读心术与仓促下结论，假定他人必然评判自己",
+          "回避社交话题与自我克制，导致孤立与乐趣下降",
+          "睡眠受影响、注意力下降，情绪化推理强化负性认知",
+          "童年对金钱的敏感内摄为僵化的“应该”规则"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在消费后出现强烈的内疚与焦虑反应",
+          "antecedent": [
+            "进行购物或花钱",
+            "想到自己的消费记录"
+          ],
+          "core_reason": "童年时期家庭对金钱高度敏感，内化为严格的“花钱就不负责任/不应该花钱”的规则，并担心他人评判。",
+          "function": "逃避被批评与被否定的感受，通过自责与克制获得短暂的控制感",
+          "consequence": "睡眠受影响、难以专注工作、生活乐趣下降"
+        },
+        {
+          "behavior": "回避与他人谈论购物或消费",
+          "antecedent": [
+            "朋友或家人提及购物话题",
+            "社交场合涉及消费讨论"
+          ],
+          "core_reason": "读心术推断他人会评判自己，害怕被视为浪费或不负责任。",
+          "function": "逃避可能的社交评价与羞耻感",
+          "consequence": "社交退缩与孤立感增加，无法开放分享兴趣"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 841
+}

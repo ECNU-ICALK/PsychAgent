@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "陈思远",
+      "gender": "男",
+      "occupation": "全职在家妈妈",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "丈夫和孩子",
+      "social_status": "未提及",
+      "medical_history": "未有类似心理问题的既往史；过去未接受心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰、能自我觉察，态度较为消极但愿意尝试改变；在叙述中反复体现预期性焦虑与控制倾向；与咨询师互动合作度尚可"
+    },
+    "main_problem": "我一直害怕和担心家人会把我整理好的东西弄乱，导致我感到挫败和焦虑。这一问题在成为全职在家妈妈后不久开始出现，当家人不遵循我的组织系统时这种恐惧逐渐加重。我几乎每天都会担心，尤其是在家人即将接触已整理好的区域之前。我尝试与家人沟通，但未找到持久的解决方案。",
+    "topic": "家庭关系",
+    "core_demands": "我意识到我的焦虑和对控制的需求正在影响我的关系和整体幸福感，因此寻求咨询。",
+    "growth_experiences": [
+      "角色转换事件：成为全职在家妈妈后不久，开始出现对“家人会弄乱自己组织系统”的持续恐惧与担忧；在家人接触已整理区域前就提前焦虑与挫败，认为若不按自己的方式执行，事情会失控并最终责备到自己；尝试通过提醒家人“应该/不应该”如何做来维持秩序，但频繁引发争执与紧张；随着时间推移，关系受损、日常难以放松与享受活动。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有完美的组织与控制才能让我感到安全与稳定",
+        "如果家里不是完全按我的方式来做，事情会崩溃并且我会被责备"
+      ],
+      "special_situations": [
+        {
+          "event": "晚上在厨房将物品按自己的系统摆放后，丈夫把碗碟放到“错误”的位置",
+          "conditional_assumptions": "如果家人不按我的组织系统来做，局面就会失控，后果会很糟糕",
+          "compensatory_strategies": "立刻提醒并纠正他人该怎么做、用“应该/不应该”规则要求对方",
+          "automatic_thoughts": "事情要被弄乱了，接下来会一团糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "每天在家人即将接触已整理好的区域之前",
+          "conditional_assumptions": "如果不事先控制并设定规则，结果一定会变糟并归咎到我身上",
+          "compensatory_strategies": "提前反复叮嘱、强化规则和流程以试图防止混乱",
+          "automatic_thoughts": "他们一接触就会把一切破坏掉",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "家人未按自己的组织系统放置物品的情境",
+          "conditional_assumptions": "事情必须按照我的方式进行，偏离就意味着失败与失控",
+          "compensatory_strategies": "提出严格标准并坚持由自己主导摆放位置",
+          "automatic_thoughts": "只要不是按我的方式，后面就会出问题",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "想到“自己保持整洁的努力会被浪费”的情境",
+          "conditional_assumptions": "如果以前曾被弄乱，未来也会一直被弄乱",
+          "compensatory_strategies": "加倍检查与重新整理，试图用更严格的规则避免重复错误",
+          "automatic_thoughts": "我所有的努力都会被毁掉",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过秩序与被遵从来获得安全感与被认可",
+        "fear": "害怕失控与混乱，担心因此被指责与归罪",
+        "defense_goal": [
+          "通过维持严格的规则与控制来降低焦虑、避免被责备"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "必须维持秩序的掌控者、对混乱高度敏感的人",
+          "object_representation": "会破坏秩序、不遵从规则的他者（家人）",
+          "linking_affect": "焦虑、愤怒、无助、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议挑战负性思维、尝试更灵活的看法或进行行为实验时",
+          "interpretation": "认为改变“没什么用”或“这就是我的本性”，以此减少面对失控感的焦虑",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以谨慎、克制的语气强调过去尝试无效的经历，提出诸多理由说明改变困难；礼貌回应但不明确承诺改变。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对家庭成员自主做法与自由选择感到不安，试图以规则与完美组织来限制不确定性",
+            "在不可控的家庭互动面前体验强烈的焦虑与预期性担忧"
+          ],
+          "outcomes": [
+            "持续焦虑与紧张",
+            "家庭关系冲突与疏离感增加",
+            "难以放松与享受生活"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/不应该”对家人进行规范与提醒",
+            "把完美组织的标准当作绝对真理，难以容许差异与弹性",
+            "在咨询中强调“这就是我”的固定自我陈述以维护既有规则"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对问题有一定自我觉察，愿意尝试小步实验与认知重构",
+          "具备秩序与结构的组织能力，可转化为合作与协商的资源",
+          "拥有一定的社会支持（有朋友可倾诉，虽尚未讨论该问题）"
+        ],
+        "negative_force": [
+          "完美主义与强控制需求，难以容许差异",
+          "灾难化与跳跃性结论的认知模式（预期最坏、泛化）",
+          "与家人沟通以规则为主，易引发争执与紧张",
+          "预期性焦虑在家人接触已整理区域前就被激活"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在家庭整理与物品摆放情境下出现预期性焦虑并采取过度控制行为（强行提醒与规范），进而发生争吵",
+          "antecedent": [
+            "家人即将或正在接触已整理好的区域",
+            "看到家人未按自己的组织系统放置物品"
+          ],
+          "core_reason": "对混乱与失控的高度恐惧，伴随对被责备的担心；以完美主义与控制需求来获取安全感",
+          "function": "逃避不确定性与潜在混乱，获得短暂的掌控感并试图避免被归责",
+          "consequence": "家庭关系紧张与争执增多；个人难以放松、焦虑加重，影响日常生活的愉悦与休息"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 686
+}

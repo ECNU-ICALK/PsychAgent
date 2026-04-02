@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "李明川",
+      "gender": "男",
+      "occupation": "写作者/作家",
+      "educational_background": "高中毕业（High school diploma）",
+      "marital_status": "单身",
+      "family_status": "独居，与父母关系疏远",
+      "social_status": "有两位朋友可交谈，但难以就自卑与不足坦诚表达；近期与亲友疏远",
+      "medical_history": "既往轻度过敏，无重大躯体疾病；无以往心理问题与治疗经历",
+      "language_features": "配合度高，表达清晰，思路连贯，能识别并描述内心体验；语气平和，态度积极"
+    },
+    "main_problem": "我认为我的写作很差且没有天赋，这导致了无价值感和自我怀疑。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这些想法开始影响我的写作能力和整体心理健康。",
+    "growth_experiences": [
+      "约一年前在遭遇多次出版社拒稿后收到一次负面写作反馈，引发强烈挫败感与自我怀疑；此后在写作场景中反复想起该反馈与拒稿经历，情绪压力逐步加重。",
+      "长期与父母关系疏远，独居，社会支持相对薄弱；虽有两位朋友可交流，但因自我价值感低而不易向他人坦诚表达不足与脆弱，逐渐社交回避。",
+      "曾有作品被小型刊物录用，且一位资深爱读者的朋友曾正向评价其短篇小说；然而这些正向经历常被负面反馈所掩盖，难以内化为稳定的自我能力证据。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有天赋",
+        "我没有价值/不值得"
+      ],
+      "special_situations": [
+        {
+          "event": "坐下来开始写作时，想起过往的负面反馈与多次拒稿",
+          "conditional_assumptions": "如果作品被拒或被批评，就证明我没有天赋，是失败者",
+          "compensatory_strategies": "寻求他人认同、报名写作课程以证明自己；有时减少写作以避免再度被否定",
+          "automatic_thoughts": "我的写作很差，我根本没有天赋",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "将自己与成功作家进行比较",
+          "conditional_assumptions": "如果达不到他们的水平，就不配称为作家，也没有价值",
+          "compensatory_strategies": "不断比较与自我苛责，回避展示与分享作品",
+          "automatic_thoughts": "我永远比不过他们，我不如人",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到出版社拒稿或回想那次负面反馈",
+          "conditional_assumptions": "一次或几次负面反馈就能证明我没有天赋，将来也不会成功",
+          "compensatory_strategies": "反复回放批评内容，忽视或淡化正向证据",
+          "automatic_thoughts": "看吧，这证明了我不行",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "从朋友或小型刊物获得正向反馈与认可",
+          "conditional_assumptions": "只有来自权威或大刊物的认可才算数，其他的不作数",
+          "compensatory_strategies": "通过贬低来源或解释为“只是安慰”来否定积极反馈，以维持原有信念",
+          "automatic_thoughts": "他们只是安慰我/小刊物不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看见为有才华并得到肯定",
+        "fear": "害怕被否定与被拒绝，担心被评价为无能与没有价值",
+        "defense_goal": [
+          "通过回避暴露与降低写作产出来减少被否定的机会",
+          "通过寻求外部验证来暂时缓解自我怀疑",
+          "淡化正向反馈以维持可预测的自我图式从而降低不确定性带来的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "没有天赋、容易失败与被否定的人",
+          "object_representation": "挑剔、苛刻、易拒绝与贬低的他者（如编辑/读者/权威）",
+          "linking_affect": "羞耻、焦虑、无价值感"
+        },
+        {
+          "self_representation": "孤立而不被理解的个体",
+          "object_representation": "情感上疏远或不回应的他人/家庭",
+          "linking_affect": "孤独、失落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师强调正向证据或邀请以更平衡的视角重构自我评价时",
+          "interpretation": "认为这些正面证据“并不算数”，体验到“对方不理解现实的严苛”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气礼貌但坚持，用“不过/但是”等词淡化正向证据、强化负面解释。"
+        },
+        {
+          "trigger_condition": "当讨论分享作品、寻求反馈或设定具体写作目标时",
+          "interpretation": "预期他人会否定或嘲笑自己，将潜在拒绝视为确定结局",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以回避或推迟的方式回应，强调“时机未到/准备不够”，减少实际暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，与父母关系疏远",
+            "主动与亲友疏离，难以向朋友敞开心扉",
+            "在写作受挫时更倾向于自我隔离"
+          ],
+          "outcomes": [
+            "社会支持减少，寂寞与无助感增加",
+            "无价值感加重，自尊下降",
+            "睡眠与食欲紊乱"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将写作成功与“天赋”视为自我价值的唯一依据",
+            "在遭遇拒稿与批评后体验“我在浪费时间”的空心感"
+          ],
+          "outcomes": [
+            "写作动力下降与产出减少",
+            "自我怀疑与低落加剧，难以内化正向经验"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "内化“只有权威认可才算数、没有天赋就不配写作”的标准",
+            "在被指出正向反馈时说“这些不算数/只是安慰”，否定积极证据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我苛责、标签化自我（无才/无能）",
+            "比较中持续贬低自己，回避分享作品以防被评价"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在写作或面对反馈时，来访者通常会聚焦负评、否定正向证据，并产生“我没有天赋”的自我怀疑，从而减少写作产出。",
+          "unique_outcome": "某次作品被小型刊物接受发表，获得客观正向评价，与以往的自我否定不同，这次带来一段时间的信心提升。",
+          "reason": "线索：获得客观的正向外部反馈与录用结果，为能力提供了直接证据，短期减轻了自我怀疑。"
+        },
+        {
+          "target_problem": "在与他人谈及写作时，来访者通常会预期被否定而回避深入交流，维持孤立与自卑。",
+          "unique_outcome": "一次由资深爱读者的朋友对其短篇故事给予具体称赞，当下能短暂接纳并感到鼓舞，与平时自动否定不同。",
+          "reason": "线索：来自可信赖读者的具体化正向反馈提供了不同视角，增强了可被认可的体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动寻求改善：曾参加写作课程并愿意尝试行为实验",
+          "具备一定成功经验（小型刊物录用、朋友的正向反馈）",
+          "动机尚在，愿意设定写作目标并收集证据做出评估"
+        ],
+        "negative_force": [
+          "认知偏差显著（否定正向、过度概括、非黑即白、比较与绝望）",
+          "过度依赖外部验证，难以内化积极经验",
+          "社交回避导致支持系统弱化，加剧无价值感",
+          "自尊低下与自我标签化，增加写作情境中的焦虑与回避"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "写作时反复出现“我写得很差、没有天赋”的自我贬低思维并减少写作",
+          "antecedent": [
+            "坐下开始写作",
+            "回想或收到负面反馈/拒稿",
+            "与成功作家进行比较"
+          ],
+          "core_reason": "将“天赋=自我价值”内化为僵化标准，并对负面反馈进行心理过滤与过度概括",
+          "function": "逃避失败与羞耻感，短时降低焦虑与不确定感",
+          "consequence": "写作产出下降，职业发展受阻，自尊进一步降低"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "想到要谈论作品或寻求反馈",
+            "感到自我不足与无价值"
+          ],
+          "core_reason": "害怕被否定与羞辱，将潜在拒绝视为确定结果",
+          "function": "逃避可能的负面评价与情绪痛苦",
+          "consequence": "社会支持减少、孤独感增加，睡眠与食欲被影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1712
+}

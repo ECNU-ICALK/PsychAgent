@@ -1,0 +1,133 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "55",
+      "name": "朱丽安",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "过去未接受心理治疗或心理干预；无显著躯体疾病。",
+      "language_features": "配合度高，表达清晰，有自我观察能力；语气略显紧张但态度积极、开放，能逻辑化描述触发情境与情绪。"
+    },
+    "main_problem": "我有把自己消极贴标签并把小错误个人化的倾向，导致觉得自己没用。这些不够好的感觉从记事起就存在，最近更明显。最初的压力程度较轻，可能由一次购物失误触发。问题发展到我会因微小错误不断给自己贴负面标签，影响自尊。我在每次犯错时都会出现这些感觉，尤其是购物时。我尝试提醒自己人人都会犯错，但负面感受依旧。",
+    "topic": "情绪管理",
+    "core_demands": "我注意到持续的消极自我贴标签影响了我的情绪和自我感受，因此希望通过咨询减少这种负面模式并改善自我认知。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是没用的",
+        "我在生活的任何方面都不行"
+      ],
+      "special_situations": [
+        {
+          "event": "在超市结账时忘记使用奖励卡/积分（购物情境中的小失误）",
+          "conditional_assumptions": "如果在购物中犯小错，就说明我是个没用的购物者，并且我做任何事都做不好",
+          "compensatory_strategies": "尝试用“人人都会犯错”来安抚自己，但效果不佳；随后进行严厉的自我批评",
+          "automatic_thoughts": "我是个没用的购物者；我什么都做不好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在家做菜时弄错配方（家务情境中的小失误）",
+          "conditional_assumptions": "如果我不能把每件小事都做对，就说明我整体是不行的",
+          "compensatory_strategies": "用苛刻的自我评价来逼迫自己避免再犯错",
+          "automatic_thoughts": "我总是把事情搞砸",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在社交场合出现轻微的失礼（社交情境中的小失误）",
+          "conditional_assumptions": "如果我在社交中犯错，别人就会看不起我，觉得我很笨",
+          "compensatory_strategies": "避免与亲密朋友谈论自己的负性贴标签模式，独自消化焦虑",
+          "automatic_thoughts": "他们一定觉得我很笨；我又让大家失望了",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被接纳，并看到自己是有价值和能力的",
+        "fear": "害怕因为小错误被否定、被看不起，整体被评价为“无能”",
+        "defense_goal": [
+          "通过严苛的自我批评与自我贴标签来先行控制与预防外界评价，以获得一种对失误的“掌控感”"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无能、容易把事情搞砸的失败者",
+          "object_representation": "他人会批评、看不起并以小错否定我的人群",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询中谈到购物或生活中的小错误时，或被邀请观察并记录当下情绪与想法",
+          "interpretation": "将小错等同于整体无能，认为错误会导致他人否定自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责，使用绝对化用语（如“总是”、“完全”），强调自身过错并贬损自我价值。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未与亲密朋友讨论自己的负性自我贴标签模式",
+            "友谊因自我贴标签而受影响"
+          ],
+          "outcomes": [
+            "情绪低落与自尊受损",
+            "在犯错后体验到更强的孤立感与自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在描述错误时频繁使用自责与绝对化语句（如“我总是把事情搞砸”）",
+            "以严苛的自我评价限制自我表达与寻求支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "求助态度积极，愿意尝试行为实验并收集数据",
+          "具备自我观察与记录的意愿与能力",
+          "拥有一位可倾诉的亲密朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "习惯性消极自我贴标签与过度概括、个人化",
+          "自尊受损、情绪波动，对小错反应过度",
+          "回避与朋友讨论自身模式，导致社会支持利用不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在小错误后进行负性自我贴标签与严厉自我批评",
+          "antecedent": [
+            "购物结账时忘记使用奖励卡",
+            "做菜时配方出错",
+            "社交场合出现轻微失礼"
+          ],
+          "core_reason": "将小错误等同于整体无能的深层信念，并伴随过度概括与个人化的认知扭曲",
+          "function": "以自我批评来短暂缓解不确定与焦虑感、试图通过自我惩罚获得对错误的“控制感”",
+          "consequence": "自尊降低、情绪低落，友谊出现紧张，影响日常活动与自我感受"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 386
+}

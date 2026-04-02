@@ -1,0 +1,181 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "26",
+      "name": "刘凯",
+      "gender": "男",
+      "occupation": "纸制品销售员",
+      "educational_background": "高中毕业",
+      "marital_status": "离异",
+      "family_status": "与女儿同住",
+      "social_status": "有几位亲密朋友但未分享与厨艺相关的不安；因不安回避需带菜或共同用餐的社交场合",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑性较好、语气平和（总体态度中性）；能描述焦虑与自我怀疑的体验，配合度高"
+    },
+    "main_problem": "我觉得女儿不喜欢我做的饭，因为她没有吃我准备的那顿饭，尽管别人称赞我的厨艺。",
+    "topic": "家庭关系",
+    "core_demands": "这件事影响了我的自尊并造成不必要的压力，这促使我寻求咨询；希望改善晚餐时的情况并改善与女儿的关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的价值取决于他人的认可（尤其是女儿）"
+      ],
+      "special_situations": [
+        {
+          "event": "女儿在前一晚完全没有动我做的晚餐",
+          "conditional_assumptions": "如果女儿不吃我做的饭，就说明我的厨艺很差、我不够好",
+          "compensatory_strategies": "不断更换菜谱、做饭时过度担忧结果以求避免被否定",
+          "automatic_thoughts": "她一定觉得我的菜很难吃；我不是好厨师",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "朋友们称赞我的厨艺",
+          "conditional_assumptions": "只有女儿喜欢才算数，其他人的夸奖不算数",
+          "compensatory_strategies": "反复向朋友求证但内心持续否定正面反馈",
+          "automatic_thoughts": "他们只是安慰我，这些夸奖不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "每当女儿对某顿饭表示不喜欢或吃得很少",
+          "conditional_assumptions": "只要有一次她不喜欢，就说明我的厨艺总体不行",
+          "compensatory_strategies": "抓住一次负面体验反复反刍、不断怀疑自身能力",
+          "automatic_thoughts": "她又不喜欢了，这说明我厨艺很烂",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "被邀请参加需要带菜或一起用餐的社交聚会",
+          "conditional_assumptions": "如果被拿来比较或被评价为不好，就会丢脸并证明我不够好",
+          "compensatory_strategies": "回避带菜聚会，减少与人一起吃饭以躲避评价",
+          "automatic_thoughts": "我做得不如别人，大家会看不起我",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被女儿认可与欣赏，作为照顾者被需要与接纳",
+        "fear": "害怕被拒绝与否定，担心因此感到羞耻与失去价值感",
+        "defense_goal": [
+          "通过回避直接沟通来避免被拒绝的痛苦",
+          "将注意力转向技巧与外部评价以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的提供者/失败的“厨师”",
+          "object_representation": "苛刻的评判者/拒绝者（女儿或重要他人）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与女儿沟通或询问其饮食偏好时",
+          "interpretation": "担心对方会像“评判者”一样直接否定自己，等同于“我不够好”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象与理性分析来避免情感卷入和焦虑。",
+          "response_instruction": "避免谈及被拒绝的感受，转而细化菜谱与步骤，用冷静、客观的语气讨论“应该怎么做”。"
+        },
+        {
+          "trigger_condition": "当咨询师探询其负面自我评价与情绪体验的来源时",
+          "interpretation": "将紧张与失败全归因于自己，认为“都是我的问题”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或失望转向自己，表现为自责与贬低自我。",
+          "response_instruction": "使用自责性表述，降低自我价值评价，语气内疚、谨慎。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与女儿关系因用餐冲突而出现疏离感",
+            "在社交场合因害怕比较而回避带菜或共同用餐",
+            "将自我价值过度绑定他人评价带来的内在隔离感"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑增强",
+            "沟通回避导致关系紧张",
+            "社交退缩、意义感受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制原本想对外表达或行动的冲动，将能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "不敢直接向女儿表达失落或询问真实偏好",
+            "把对他人（女儿）的不满转为自责与内耗"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在咨询与社交中频繁自我否定与比较",
+            "过度担忧被评价而回避社交聚餐"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "获得他人对厨艺的正向反馈，存在现实能力证据",
+          "有几位可依赖的朋友（潜在支持网络）",
+          "愿意头脑风暴并采取具体步骤（计划询问女儿喜好）",
+          "工作功能稳定，生活结构良好",
+          "重视与女儿的关系，具备改善动机"
+        ],
+        "negative_force": [
+          "过度在意他人评价，将自我价值与女儿反应绑定",
+          "认知偏差显著（读心术、心理过滤、否定积极）",
+          "回避关键沟通，倾向以自责或理智化应对情绪",
+          "社交回避与比较，进一步削弱自信",
+          "自尊脆弱，易因单次事件全局化否定自我"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "晚餐情境下对女儿是否吃自己做的饭产生高度焦虑与自我怀疑",
+          "antecedent": [
+            "做饭前预期女儿可能不喜欢",
+            "看到女儿不吃或吃得很少"
+          ],
+          "core_reason": "将自我价值过度绑定于女儿的即时反应，伴随读心术与过度概括等认知偏差",
+          "function": "逃避被否定的痛苦、寻求控制与确定感",
+          "consequence": "持续焦虑与自尊下降，晚餐气氛紧张，亲子关系受损"
+        },
+        {
+          "behavior": "回避需要带菜或共同用餐的社交活动",
+          "antecedent": [
+            "接到聚餐邀请",
+            "需要带菜或在朋友面前展示厨艺"
+          ],
+          "core_reason": "担心被比较和负面评价，进行消极预测",
+          "function": "逃避评判与焦虑",
+          "consequence": "社交减少，支持系统利用不足，孤立感增加"
+        },
+        {
+          "behavior": "回避与女儿直接沟通其口味与用餐感受",
+          "antecedent": [
+            "想到要询问女儿偏好",
+            "被他人建议与女儿沟通"
+          ],
+          "core_reason": "害怕被直接拒绝引发羞耻与失落，个人化他人反应",
+          "function": "避免即时的情绪痛苦",
+          "consequence": "信息缺失、误解维持，问题循环持续"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1096
+}

@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "林安宁",
+      "gender": "女",
+      "occupation": "医疗档案员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "母亲是芭蕾舞演员，父亲情况未提及",
+      "social_status": "目前社会支持系统薄弱，感到孤立；与同事关系因自我怀疑而紧张",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史；此前未有类似心理问题报道",
+      "language_features": "表达清晰、有条理；合作度高，态度积极；在谈及错误时略显紧张和不安，能进行自我反思并愿意按结构记录数据"
+    },
+    "main_problem": "最近在工作中犯了一次错误后，持续出现自我怀疑与不足感，认为自己不胜任这份工作，且将这次错误视为能力的定义，导致日常在处理重要文件时均感到焦虑与不安。",
+    "topic": "职业发展",
+    "core_demands": "这些不足感影响了我在工作的自信并造成显著困扰，我希望通过咨询减轻这种不胜任感，恢复在工作中的信心。",
+    "growth_experiences": [
+      "原生家庭：母亲为芭蕾舞演员，父亲信息缺失。成长史中未报告重大身心疾病或既往心理治疗经历。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不胜任/不够好的",
+        "犯错等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "几周前在医疗档案工作中发生一次归档错误",
+          "conditional_assumptions": "如果我犯一次错，就证明我不胜任这份工作",
+          "compensatory_strategies": "此后在工作中过度谨慎、反复检查并放慢速度以避免再犯错误",
+          "automatic_thoughts": "这一错足以说明我不合格",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每天在处理重要文件或关键任务时",
+          "conditional_assumptions": "如果再次犯错，会带来严重后果并进一步证明我能力不足",
+          "compensatory_strategies": "回避复杂或自认为高风险的任务、拖延提交以减少暴露在评估之下",
+          "automatic_thoughts": "我可能又要搞砸了，后果会很糟",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与同事互动或接受反馈时",
+          "conditional_assumptions": "如果他们注意到我的错误，他们就会看轻我",
+          "compensatory_strategies": "减少与同事接触，保持低调以避免被评价",
+          "automatic_thoughts": "他们会觉得我不专业、在看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "独自回想那次工作失误、在脑海中反复重播错误情节时",
+          "conditional_assumptions": "只有完全不犯错才算合格；好的表现不算数",
+          "compensatory_strategies": "不断自我批评、集中注意于负面细节以强迫自己改进",
+          "automatic_thoughts": "我只看到错误，其他都不重要",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，证明自己胜任且有价值",
+        "fear": "害怕因犯错而被贬低、羞辱或被排斥",
+        "defense_goal": [
+          "通过自我批评与过度谨慎来控制风险、避免暴露不足",
+          "与他人保持一定距离以减少被评判的机会"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、容易出错、需要格外小心的人",
+          "object_representation": "苛刻的评判者（随时发现并放大错误的同事/上级）",
+          "linking_affect": "羞耻、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行“可控的小错误”行为实验时",
+          "interpretation": "将此理解为对能力的检验：如果失败就会暴露自己的不胜任（移情为对权威评判的担忧）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "以客观、步骤化的语气回应，反复确认流程与细节，减少情绪表达，以控制不确定性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "目前缺乏强有力的社会支持，感到独自面对工作压力",
+            "因自我怀疑与同事关系紧张，减少互动"
+          ],
+          "outcomes": [
+            "持续的自我怀疑与焦虑",
+            "工作效率下降、错误反而增多",
+            "在需要支持时犹豫求助"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论实验时反复确认步骤以确保“做对”",
+            "在工作中过度谨慎、放慢速度",
+            "频繁自我审查和自我批评"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“不能犯错/必须完美”视为硬性自我要求",
+            "把一次错误等同于整体能力的否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意求助并积极配合咨询，动机良好",
+          "具备自我观察与记录的意愿（愿意进行行为实验并收集数据）",
+          "能够识别负性自动思维并愿意挑战它们",
+          "有责任心，能主动纠正错误并寻求改进"
+        ],
+        "negative_force": [
+          "过度自我批评与过高标准，倾向将错误等同于失败",
+          "认知偏差：过度概括、标签化、个人化、心理过滤",
+          "对再犯错误的灾难化预期引发强烈焦虑",
+          "社会支持薄弱，感到孤立，关系受压",
+          "为避免错误而过度谨慎，导致效率下降并可能引发二次失误"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作中因焦虑而过度谨慎、反复检查并放慢速度",
+          "antecedent": [
+            "回想起几周前的那次归档错误",
+            "处理重要文件或关键任务时",
+            "与同事互动或接受反馈时"
+          ],
+          "core_reason": "将一次错误过度概括为“我不称职”，并对再次犯错持灾难化预期",
+          "function": "逃避被评判与再犯错误的感知风险，短时缓解焦虑",
+          "consequence": "工作速度变慢、注意力受损，错误反而增多；自我怀疑加剧、与同事关系紧张"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1883
+}

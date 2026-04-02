@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "35岁",
+      "name": "陈志安",
+      "gender": "男性",
+      "occupation": "奥里斯军队将军",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与一位不希望他搬出去的人同住，思念父亲",
+      "social_status": "未提及",
+      "medical_history": "无明确重大躯体疾病史；既往未接受心理治疗；此前无类似认知歪曲问题",
+      "language_features": "表达清晰，反复使用绝对化与灾难化表述；能描述触发与过程；对改变持怀疑态度"
+    },
+    "main_problem": "来访者被负性想法淹没，尤其是与失败和灾难相关的念头；最近一次小规模战斗失利触发了对全面失败的强烈预期，问题随时间加重并影响其决策与日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "希望缓解灾难化等负性思维对心理健康与决策能力的影响，学习识别并改变这些思维模式。",
+    "growth_experiences": [
+      "几个月前一场小规模战斗失利后，来访者在高压状态下出现灾难化与“注定失败”的念头；此后每次挫败都会强化该信念，问题逐渐加重，影响工作决策与日常生活；曾尝试以积极自我对话应对但无效。",
+      "长期与不希望其搬离的同住者一起生活；未提到可依靠的具体支持者，并表达对父亲的思念。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会失败",
+        "我不胜任领导/不适合当将军",
+        "一切都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "在小规模战斗失利之后",
+          "conditional_assumptions": "如果一次战斗失败，就意味着后续整个战役必然失败",
+          "compensatory_strategies": "过度谨慎、反复自我怀疑、回避关键决策以避免再犯错",
+          "automatic_thoughts": "我们会输掉整个战役；一切都会崩坏",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在任何小错误或小失误发生之后",
+          "conditional_assumptions": "如果出现一点点失误，就证明我总体能力不足，之后必然一路下滑",
+          "compensatory_strategies": "反复回放失败细节、尝试用积极暗示压过负面想法但难以维持",
+          "automatic_thoughts": "这只是全面崩溃的开始",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "上周一次小规模冲突中所做的决策未见成效",
+          "conditional_assumptions": "如果某次决策没有立刻产生理想结果，未来更大失败一定会到来",
+          "compensatory_strategies": "预演最坏情境以“做好准备”，因此后续更加犹豫与回避",
+          "automatic_thoughts": "接下来一定会连连失利",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在战斗或失误后想到可能被他人指责",
+          "conditional_assumptions": "如果出现失败，必然是因为我不够好、都是我的责任",
+          "compensatory_strategies": "将责任尽量揽到自己身上以维持对局势的控制感",
+          "automatic_thoughts": "都是我的错，我让大家失望了",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为可靠的领袖、带领部队取得胜利并不被质疑",
+        "fear": "害怕失败、被指责与让所有人失望",
+        "defense_goal": [
+          "通过高度谨慎与回避降低犯错风险",
+          "把责任归于自身以维持对局势的控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败且会让人失望的领导者",
+          "object_representation": "苛责并期待我完美的他人（上级/部属/公众）",
+          "linking_affect": "恐惧、羞愧、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出探索与重构灾难化思维时",
+          "interpretation": "来访者认为谈论没有用，负性想法就是真实事实，改变不可能",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以高共情、低对抗的语气，承认其感受的真实与责任压力；使用开放式提问与证据检视，邀请进行小步尝试与实验。"
+        },
+        {
+          "trigger_condition": "当谈及战斗失利或最近的失误，并讨论可能的外在因素与责任边界时",
+          "interpretation": "来访者将外部压力与指责感转为自我责备，认为“都是我的错”",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持温和稳定的语调，强调区分事实与评价；引导外归因与多因素视角，鼓励自我同情与现实的责任边界。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未提到可依靠的具体支持者",
+            "与不希望其搬出的同住者相处",
+            "思念父亲"
+          ],
+          "outcomes": [
+            "无助与绝望感增强",
+            "灾难化与过度概括加剧",
+            "决策犹豫与回避"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "生活安排受同住者意愿限制（不希望其搬出）",
+            "身为将军在高责任下面对艰难选择"
+          ],
+          "outcomes": [
+            "对错误高度恐惧",
+            "通过灾难化预期寻求控制",
+            "回避关键决策"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "质疑谈话的作用（“我不觉得谈论会改变任何事”）",
+            "将话题迅速回到失败与最坏结果，避免具体证据检视"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "在工作中反复自我怀疑、过度谨慎与犹豫",
+            "担心被指责，过多自我限制"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "主动寻求心理咨询，愿意探索并记录思维",
+          "能够识别触发情境与思维升级过程",
+          "具备领导职责与目标导向的价值观"
+        ],
+        "negative_force": [
+          "灾难化、过度概括与预测未来的认知模式",
+          "强烈的自责与外部责备预期",
+          "犹豫与回避决策，降低行动力",
+          "缺乏明确的社会支持"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "灾难化预测并反复回放失败",
+          "antecedent": [
+            "在战斗失利后",
+            "在任何小错误发生后",
+            "在某次决策未立刻见效时"
+          ],
+          "core_reason": "小规模战斗失利被解释为整体能力不足与未来必败的“证据”，形成灾难化、过度概括与预测未来的认知链条",
+          "function": "逃避潜在失败与被指责的威胁，并通过预演最坏结果获得暂时的控制感",
+          "consequence": "焦虑与绝望加剧，领导决策受损，工作与日常生活被影响"
+        },
+        {
+          "behavior": "犹豫并回避关键决策",
+          "antecedent": [
+            "在出现挫败或失误后",
+            "想到可能被他人指责时"
+          ],
+          "core_reason": "对失败与被指责的强烈恐惧，将“一次失误=全面失败”的条件性假设内化",
+          "function": "避免犯错与外在负面评价",
+          "consequence": "决策效率下降、绩效受损，并进一步强化“我注定会失败”的信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1739
+}

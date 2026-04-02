@@ -1,0 +1,178 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "罗兰",
+      "gender": "女",
+      "occupation": "学校心理学家",
+      "educational_background": "心理学硕士",
+      "marital_status": "未婚",
+      "family_status": "家中四个兄弟姐妹中的最小",
+      "social_status": "与同事关系因负面自我认知而紧张；有支持性的朋友与家人，但尚未与他们讨论工作相关的不安全感",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗且无类似问题史",
+      "language_features": "配合度较好，能够清晰表达负性自动思维与情绪；语气偏消极、用词具有绝对化倾向（如“我一定做错了”“我不适合这份工作”）；在咨询中愿意尝试现实检验与探索其他解释"
+    },
+    "main_problem": "我因为学生不来找我寻求帮助而觉得自己是个糟糕的心理学家。",
+    "topic": "职业发展",
+    "core_demands": "这些不足感正在影响我的自信与工作表现；我想了解为什么我会有这种感受以及我能做些什么来改变。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕/不胜任的心理学家",
+        "我的价值取决于学生是否来访与给予正向反馈"
+      ],
+      "special_situations": [
+        {
+          "event": "学生来访数量在几个月内明显下降",
+          "conditional_assumptions": "如果学生不主动来找我寻求帮助，就说明我不被信任、能力不足",
+          "compensatory_strategies": "主动开展团体辅导、发放匿名问卷、举办咖啡聊天以证明自己有用",
+          "automatic_thoughts": "他们不信任我，甚至可能讨厌我；我一定做错了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "长期未收到学生对工作的反馈",
+          "conditional_assumptions": "如果没有正向反馈，就代表我的工作没有价值、我很糟糕",
+          "compensatory_strategies": "反复等待或收集反馈来确认自我价值",
+          "automatic_thoughts": "我不被需要，我的工作没有意义",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "新策略（团体、问卷、咖啡聊天）参与度低、反馈多为中性或沉默",
+          "conditional_assumptions": "如果参与度低，就说明策略失败、我不适合这份工作",
+          "compensatory_strategies": "不断更换并加码策略尝试提高参与",
+          "automatic_thoughts": "看吧，我不适合这份职业，可能选错了事业道路",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回顾过去曾被学生感谢但近期缺乏类似反馈",
+          "conditional_assumptions": "只有持续收到感谢与来访才说明我有能力；偶发的成功不算数",
+          "compensatory_strategies": "贬低和否定过去的正面反馈以维持当前的负性自我图式",
+          "automatic_thoughts": "那只是运气或学生礼貌，不代表我真的有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被学生信任与认可，感到自己的工作有意义并能真正帮助他人",
+        "fear": "害怕不被需要、被拒绝与证明自己无价值/不胜任",
+        "defense_goal": [
+          "通过追求外部反馈与不断加码策略来维持安全感，避免直面“无价值/失败者”的自我感受"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不被需要、无效的工作者/失败者",
+          "object_representation": "冷漠的拒绝者或严苛的评价者（学生/同事）",
+          "linking_affect": "羞愧、挫败、不安"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当学生不来访或反馈沉默时",
+          "interpretation": "倾向将外界沉默解读为对自己能力的否定，认为学生不信任或讨厌自己（移情：将自我批评投射为他人的负面看法）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用绝对化、泛化的自我贬低语句（如“我不适合这份工作”），语气低落；减少探询其他情境因素，强调“都是我做错了”。"
+        },
+        {
+          "trigger_condition": "当被提醒或回忆起以往学生的感谢与正向反馈时",
+          "interpretation": "将积极经验解释为“运气”或“礼貌”，以维持负性自我图式的稳定性",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平淡但固执的语气否定正面证据，使用“那只是运气/他们只是礼貌”一类表达，回避深入感受正向经验的价值。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在工作中感觉“我没有产生影响”“像在浪费时间”",
+            "学生来访减少与缺乏反馈使其对工作的价值与意义产生怀疑"
+          ],
+          "outcomes": [
+            "自信心下降",
+            "工作绩效受损",
+            "与同事关系紧张",
+            "情绪低落与挫败感增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "将学生的不来访与沉默理解为他们“不信任/讨厌我”",
+            "把内在的自我否定体验归于外界评判"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我批评（如“我不适合这份工作”）",
+            "在面对低参与度时迅速将责任归咎于自身能力不足"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“应持续获得学生来访与正向反馈”视为能力与价值的唯一标准",
+            "出现“如果没有反馈就说明我不行”的僵化内在规则"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在学生较少来访或缺乏反馈的情境下，罗兰通常会自我否定并认为自己不胜任，导致工作表现与自信下降",
+          "unique_outcome": "去年曾收到学生的感谢与正向反馈，体验到自己的介入有效并被需要",
+          "reason": "线索：当时有直接的积极反馈与明确的学生回应，使其更容易看到自身工作的价值与成效"
+        },
+        {
+          "target_problem": "当推出新策略后，罗兰通常会将低参与度解读为“自己能力不足”，并进一步自我怀疑",
+          "unique_outcome": "部分学生有参加团体辅导（尽管数量不多），显示并非完全无效",
+          "reason": "线索：仍存在一定程度的参与与回应，为修正“全或无”的结论提供具体证据"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "主动尝试多种接触策略（团体、问卷、咖啡聊天）",
+          "具备心理学硕士与专业岗位身份",
+          "曾有成功经验与直接的正向反馈",
+          "拥有支持性的朋友与家人网络"
+        ],
+        "negative_force": [
+          "过度依赖外部验证、倾向否定正面证据",
+          "读心术与过度泛化等认知偏差强化自我怀疑",
+          "自我批评加剧，影响工作表现与同事关系",
+          "未将工作不安全感与支持系统沟通，导致主观孤立感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作场景中出现强烈的自我否定与失败感（如“我是糟糕的心理学家”“我不适合这份工作”）",
+          "antecedent": [
+            "学生来访减少",
+            "缺乏或未收到正向反馈",
+            "新策略参与度低、反馈中性或沉默"
+          ],
+          "core_reason": "将外界沉默与低参与度个人化、过度依赖外部验证并使用过度泛化与读心术的认知方式",
+          "function": "通过自责与负性结论来逃避不确定与焦虑，寻求一种看似确定的解释与控制感",
+          "consequence": "自信心下降、工作绩效受损、与同事关系紧张、休闲与兴趣活动受影响、持续负性情绪"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 337
+}

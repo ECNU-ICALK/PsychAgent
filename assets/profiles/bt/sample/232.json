@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "柯文",
+      "gender": "男性",
+      "occupation": "餐厅服务员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "有5个兄弟姐妹，与母亲关系因近期事件而紧张",
+      "social_status": "有几位亲密朋友可倾诉，但尚未与他们讨论此事，担心他们无法理解",
+      "medical_history": "无显著身体疾病；既往未接受心理治疗或咨询",
+      "language_features": "在对话中表达清晰，能描述情绪与想法；语气焦虑与紧张；配合度积极，能在引导下考虑替代性结果并制定具体目标"
+    },
+    "main_problem": "我感到母亲更偏爱我的兄弟姐妹，尤其是她上周为探访姐姐而错过了我的生日，这让我产生了被拒绝感和自卑感。",
+    "topic": "家庭关系",
+    "core_demands": "我决定寻求咨询是在意识到这些被拒绝的感受正在影响我的心理健康和自尊，使我难以应对日常生活之后。",
+    "growth_experiences": [
+      "上周生日当天，母亲为探访姐姐而未出席我的生日，这一事件令我感到被忽视与不被爱，强化了我对母亲长期偏爱兄弟姐妹的感受，并在之后的互动中反复触发被拒绝与自卑。",
+      "几天前发现自己黑色钱包的缝线裂开，因为它具有强烈的情感价值，我担心无法找到相同的替代品，持续在网上搜索却无果，引发显著焦虑、注意力难以集中和对不可承受损失的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被爱",
+        "我不重要",
+        "我不如兄弟姐妹"
+      ],
+      "special_situations": [
+        {
+          "event": "母亲为探访姐姐而错过我的生日",
+          "conditional_assumptions": "如果我在重要时刻得不到母亲的陪伴与关注，就证明她不爱我、我不如兄弟姐妹",
+          "compensatory_strategies": "直接与母亲沟通并争论，试图获得解释和确认",
+          "automatic_thoughts": "她永远不会像爱兄弟姐妹那样爱我；我不重要",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与母亲的交谈经常围绕兄弟姐妹",
+          "conditional_assumptions": "如果谈话总是关于兄弟姐妹，说明我被忽视、不重要",
+          "compensatory_strategies": "减少与母亲深入交流以避免再次感到被拒绝，同时不与朋友讨论这些感受",
+          "automatic_thoughts": "她更在乎他们，我在她心里并不重要",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "黑色钱包的缝线裂开且难以找到完全相同的替代品",
+          "conditional_assumptions": "失去具有情感价值的物品等同于不可承受的损失，我将无法适应",
+          "compensatory_strategies": "不断在网上寻找替代品，反复关注和担忧",
+          "automatic_thoughts": "我永远找不到同样的，我无法面对这份失去",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "尝试与母亲谈论自己的感受却引发争吵与误解",
+          "conditional_assumptions": "如果我表达需求和感受，别人会误解我并否定我",
+          "compensatory_strategies": "今后避免与他人讨论内心感受以减少冲突",
+          "automatic_thoughts": "说了也没用，只会更糟糕",
+          "cognitive_pattern": "Jumping to Conclusions"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被母亲平等地爱与看见，获得稳定的关注与认可",
+        "fear": "害怕被拒绝与被忽视，担心永远不如兄弟姐妹",
+        "defense_goal": [
+          "通过回避分享与减少深入交流来保持安全、避免再次受伤",
+          "通过争论与寻求保证来证明自身价值并缓解不安"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、不被爱的孩子（不重要的自我）",
+          "object_representation": "偏心、忽视自己的母亲",
+          "linking_affect": "被拒绝感、自卑、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人询问母亲偏爱与被忽视的经历，或触及关系议题时",
+          "interpretation": "来访者潜意识将关系性痛感转移到更安全的主题（如钱包损坏），以避免直接面对被母亲拒绝的感受（移情：将丧失感与焦虑投向物品）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
+          "response_instruction": "语气温和且稳定，先肯定其对钱包的情感价值，再逐步连结到人际被拒主题；使用开放式问题，避免逼问，允许停顿。"
+        },
+        {
+          "trigger_condition": "在表达自身需求或与母亲讨论感受时遭遇争吵或被误解",
+          "interpretation": "认为表达情感会带来否定与伤害，从而将愤怒与失望转向自身，以维持关系的表面稳定",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以支持性语气标注其自我苛责，邀请其区分事实与感受；提供情绪命名与地面化练习，鼓励以“我—陈述”表达而非自责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到母亲偏爱兄弟姐妹、自己不被理解与看见",
+            "每日在与母亲相关的互动中体验被拒绝与不重要",
+            "避免与朋友分享真实感受，担心他们不理解"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑加重",
+            "睡眠受影响",
+            "工作表现下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触。",
+          "manifestations": [
+            "将谈话重心从母亲关系的痛点转向钱包损坏与替代问题",
+            "通过不断搜索替代品来转移焦虑",
+            "在社交中避免向朋友谈及真正的困扰"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意主动寻求心理咨询（态度积极）",
+          "能在引导下考虑替代性结果并设定具体目标",
+          "拥有一定的社会支持（有几位亲密朋友）"
+        ],
+        "negative_force": [
+          "倾向灾难化、非黑即白、过度概括、读心术与预测未来等认知偏差",
+          "自尊受损，常感到不被爱与不重要",
+          "回避向朋友寻求支持，担心他人不理解",
+          "与母亲交流常陷入争吵与误解"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在与母亲相关的情境中出现强烈的焦虑与自我否定",
+          "antecedent": [
+            "母亲为探访姐姐而错过生日",
+            "与母亲互动话题围绕兄弟姐妹"
+          ],
+          "core_reason": "对被拒绝与被忽视高度敏感，形成“我不被爱/不重要”的核心信念，遇到相关线索即启动自我否定",
+          "function": "逃避被拒体验、寻求自我保护与对关系的控制感",
+          "consequence": "与母亲关系进一步紧张，自尊下降，影响工作表现与睡眠"
+        },
+        {
+          "behavior": "对失去具有情感价值的物品产生灾难化担忧与持续搜索",
+          "antecedent": [
+            "发现黑色钱包缝线裂开",
+            "在网上找不到完全相同的替代品"
+          ],
+          "core_reason": "将情感与安全感过度寄托于物品，一旦损坏即灾难化并预测无法适应",
+          "function": "试图通过控制与替代来缓解焦虑、避免面对失落感",
+          "consequence": "注意力分散、任务难以专注，焦虑加剧"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 232
+}

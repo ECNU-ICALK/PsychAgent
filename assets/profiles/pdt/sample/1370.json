@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "30",
+      "name": "林骁",
+      "gender": "男",
+      "occupation": "马拉松运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "有朋友可倾诉一般问题，但未与其讨论关于游泳的疑虑；与游泳朋友的关系因回避共同活动而受影响",
+      "medical_history": "无类似问题史；未接受过心理治疗或辅导；无重大躯体疾病",
+      "language_features": "态度积极，表达清晰且配合度高，能识别并描述情绪与思维"
+    },
+    "main_problem": "我对随着年龄增长能否继续游泳产生怀疑，尽管我很喜欢游泳。这些疑虑已持续约一年，并逐渐加重到让我完全回避游泳。",
+    "topic": "情绪管理",
+    "core_demands": "这次寻求咨询的决定性因素是这些疑虑对我的心理健康和生活方式的影响。",
+    "growth_experiences": [
+      "约一年前目睹年长的家人在体力活动上明显吃力，这一经历触发了对自身能力随年龄增长而下降的担忧。随后每当想到去游泳或看到他人游泳时，担忧被激活并逐步加重。既往未出现过类似心理问题，也未接受过心理治疗；身体状况良好。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "老去意味着我的身体能力会不可避免地下降，最终无法继续游泳",
+        "如果我不能像过去一样完成训练，就说明我不行"
+      ],
+      "special_situations": [
+        {
+          "event": "想到要去游泳或制定游泳计划",
+          "conditional_assumptions": "如果我不能像以前那样完成一整次游泳训练，就意味着我已经不行了，不该继续游泳",
+          "compensatory_strategies": "干脆不去游泳，以避免失败和尴尬",
+          "automatic_thoughts": "我会很快就累垮，无法完成训练",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "看到他人在泳池里游泳",
+          "conditional_assumptions": "如果我跟不上他人，就会丢脸和被看轻",
+          "compensatory_strategies": "回避与朋友一起游泳，减少去泳池的次数",
+          "automatic_thoughts": "我肯定比他们差，去了只会难堪",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "意识到自己作为马拉松运动员体能良好或想到年长成功泳者的例子",
+          "conditional_assumptions": "即便有积极证据，也不足以推翻“老了就不行”的判断",
+          "compensatory_strategies": "否定或贬低正面证据以维持回避策略",
+          "automatic_thoughts": "这些正面例子不适用于我",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回想年长亲属在体力活动中的吃力表现",
+          "conditional_assumptions": "看到他们吃力，说明任何人年纪大了都无法保持运动能力",
+          "compensatory_strategies": "将“变老=不能游”的结论当作自我保护的理由，继续避免游泳",
+          "automatic_thoughts": "老了就一定游不动",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在变老的过程中仍能胜任并被接纳地继续游泳，保持能力感与愉悦",
+        "fear": "害怕失败与在他人面前丢脸，担心老化导致能力丧失",
+        "defense_goal": [
+          "通过回避游泳来避免失败与羞耻",
+          "与同伴保持距离以减少被评判的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "可能跟不上、容易失败的自己",
+          "object_representation": "会评判我、让我尴尬的他人（朋友/同伴）",
+          "linking_affect": "焦虑、羞耻、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到与朋友一起去游泳或收到朋友的游泳邀请时",
+          "interpretation": "他们会看出我不行并评判我（移情：将自身的羞耻与自我怀疑投向他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以温和但回避的语气拒绝邀请，含糊其辞并转移话题，减少自我暴露；避免表达内心不安。"
+        },
+        {
+          "trigger_condition": "当被指出积极证据（体能良好、见到年长成功泳者）时",
+          "interpretation": "积极证据不适用于我，别人只是例外",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用理性化语言（如“每个人情况不同”“我年龄增长会更快疲劳”）来维持回避，语气平稳、情感压低。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "目睹年长家人身体机能下降并在体力活动中吃力",
+            "担忧随年龄增长失去能力与被接纳感",
+            "每当想到去游泳或看见他人游泳时焦虑上升"
+          ],
+          "outcomes": [
+            "焦虑与自我怀疑",
+            "回避游泳",
+            "总体身体活动和乐趣下降",
+            "与游泳朋友关系紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为朋友会看不起自己或评判自己是否能跟上",
+            "因此不与朋友讨论游泳疑虑"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“变老=能力必然下降”视为绝对规则",
+            "以此自我限制并作为不游泳的理由"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "避免参加与朋友的游泳活动",
+            "在社交中回避谈论自己的疑虑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "体能基础良好（马拉松运动员，身体状况佳）",
+          "能够识别并提及反证（看到年长成功泳者）",
+          "愿意寻求专业帮助并坦诚表达内心",
+          "具备朋友支持网络（虽未就此议题沟通）"
+        ],
+        "negative_force": [
+          "对衰老的灾难化与预测未来倾向",
+          "过度概括与心理过滤，忽视正面证据",
+          "否定正面思考，难以整合积极信息",
+          "回避行为强化疑虑，导致活动与社交减少",
+          "对他人评价的担忧引发羞耻与关系紧张"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避游泳及与朋友一起游泳的活动",
+          "antecedent": [
+            "想到要去游泳",
+            "看到他人游泳",
+            "被朋友邀请参与游泳活动"
+          ],
+          "core_reason": "目睹年长家人在体力活动中吃力后形成“变老=无法保持运动能力”的信念，并对可能失败或丢脸产生灾难化与预测未来的担忧",
+          "function": "逃避潜在的失败与羞耻，维持短期安全感",
+          "consequence": "总体身体活动和乐趣下降；与游泳朋友关系紧张；自我效能感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1370
+}

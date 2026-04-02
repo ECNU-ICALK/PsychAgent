@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "32",
+      "name": "刘伟",
+      "gender": "男",
+      "occupation": "大学生",
+      "educational_background": "正在攻读学士学位",
+      "marital_status": "单身",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "与朋友关系良好（共同动漫兴趣）；尚未与朋友讨论学习困扰；人际目前未受明显影响。",
+      "medical_history": "无显著躯体疾病；既往无心理治疗或心理问题史。",
+      "language_features": "表达清晰、有条理，能提供具体例子；愿意配合与自我反思，态度积极。"
+    },
+    "main_problem": "在学习日语时难以记住简单汉字，进而相信在需要时自己“永远记不住任何日语”。",
+    "topic": "学业压力",
+    "core_demands": "持续的学习日语困难与伴随的负性想法导致显著痛苦与挫败，促使其寻求咨询；其明确表示“我愿意努力改变这种模式”“我期待取得进展”。",
+    "growth_experiences": [
+      "开始在大学学习日语后，逐渐出现记忆简单汉字困难；在观看无字幕动漫时，回忆词汇与字符的失败更为明显，负性预期与挫败感逐步增强。",
+      "在一次打斗中取得胜利，但仍持续关注被击中腹部的负面细节；此后每当取得成就（如项目完成并获经理表扬），都倾向于被少量失误所主导，难以享受成功。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够有能力（我并不像别人认为的那样有能力）"
+      ],
+      "special_situations": [
+        {
+          "event": "在日语学习课堂或自学中遇到记不住简单汉字、词汇的情况",
+          "conditional_assumptions": "如果连简单汉字都记不住，就说明我不够有能力，未来需要时也记不住。",
+          "compensatory_strategies": "加练、使用各类记忆技巧与闪卡以弥补不足。",
+          "automatic_thoughts": "我永远也记不住任何日语。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "赢得一场打斗后仍想到被击中腹部的细节",
+          "conditional_assumptions": "只要出现任何失误或被击中，就说明整体表现不佳，胜利不值得庆祝。",
+          "compensatory_strategies": "反复回想失误、忽视积极部分，强化自我批评。",
+          "automatic_thoughts": "我其实不够好，这次胜利也没什么值得高兴的。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "完成工作项目并获得经理表扬",
+          "conditional_assumptions": "一旦过程中出现错误，就证明我不称职、能力不足。",
+          "compensatory_strategies": "忽视正面反馈、强调错误细节，否定积极结果。",
+          "automatic_thoughts": "我并没有大家以为的那么有能力。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "观看无字幕动漫时频繁出现回忆失败（词汇与字符）",
+          "conditional_assumptions": "一次记忆失败意味着以后也会失败。",
+          "compensatory_strategies": "降低期待、回避与朋友讨论困扰以避免被评价。",
+          "automatic_thoughts": "我就是记不住日语。",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为有能力、允许自己安心享受成就与正面反馈",
+        "fear": "害怕被他人发现自身不足而遭到否定或质疑",
+        "defense_goal": [
+          "通过持续自我批评与高度谨慎来避免暴露弱点、预防失败与否定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够有能力、需要不断纠错的人",
+          "object_representation": "他人（如上级、同伴）被想象为苛刻的评判者，随时会挑出错误并否定自己",
+          "linking_affect": "紧张、压力、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人强调其成功、给予肯定或邀请其关注积极面时",
+          "interpretation": "将对方视为可能发现自己不足的评判者，认为小失误会完全否定能力（移情：把他人看作苛刻的挑错者）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用共情与支持性的语气，具体、温和地邀请其描述当下感受与正面证据；鼓励短暂停顿与呼吸，使用非评判性用词，帮助其平衡看待错误与成就。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "难以享受胜利与成就、成功被少量负面细节掩盖",
+            "对生活整体看法趋于消极，难以感到满足"
+          ],
+          "outcomes": [
+            "压力与沮丧增加",
+            "成就感与幸福感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自责性自我对话（如“我不如大家认为的有能力”）",
+            "面对赞扬时谨慎且难以接纳正面信息",
+            "未与支持性朋友讨论学习困扰，抑制寻求支持的行为"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友群体（共同动漫兴趣）",
+          "明确表达愿意付出努力改变模式并期待进展",
+          "曾完成工作项目并获经理表扬，存在客观能力证据",
+          "已主动尝试记忆技巧与闪卡等学习策略",
+          "学业目前未受明显影响，基本功能稳定"
+        ],
+        "negative_force": [
+          "认知歪曲显著（心理过滤、否定积极、过度概括、预测未来、个人化）",
+          "对错误的非黑即白评估与完美倾向",
+          "未主动寻求同伴支持，导致资源未被利用",
+          "压力与沮丧增加，影响日常（尤其观看动漫）",
+          "在无字幕观看与回忆失败情境中易触发灾难化与自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在取得成就后专注负面、否定正面反馈与赞扬",
+          "antecedent": [
+            "完成项目并获得表扬",
+            "比赛或打斗中获胜",
+            "他人肯定自己的表现"
+          ],
+          "core_reason": "对能力的焦虑与认知偏差（心理过滤、否定积极、非黑即白），将小失误视为整体失败。",
+          "function": "自我保护与避免被否定（通过自我批评保持警觉与控制感）",
+          "consequence": "压力与不满增加，难以享受成功，生活满意度下降。"
+        },
+        {
+          "behavior": "在日语学习中出现灾难化与过度概括的负性思维（如“我永远记不住任何日语”）",
+          "antecedent": [
+            "日语课程学习与自学时记忆失败",
+            "观看无字幕动漫时难以回忆词汇与字符",
+            "尝试使用记忆技巧与闪卡后仍遇到挫败"
+          ],
+          "core_reason": "对记忆失败的灾难化预测与过度概括，伴随个人化与能力自我怀疑。",
+          "function": "通过降低期待与自我贬低来避免失望或外部评价（逃避失败感）",
+          "consequence": "学习效率下降、日常活动受扰（动漫观看受影响）、持续挫败与沮丧。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1338
+}

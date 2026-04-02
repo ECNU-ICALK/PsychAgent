@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "林悦",
+      "gender": "女性",
+      "occupation": "零售销售助理",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "与父母和一个年幼的兄弟姐妹同住",
+      "social_status": "家庭支持度较好，但家人不完全理解其焦虑；社交方面因焦虑受阻，回避新关系与社交活动",
+      "medical_history": "无类似问题史；无既往心理治疗经历；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述起始事件与影响；语气偏消极；存在自我贴标签倾向（如“我是个焦虑的人”）；能配合讨论并愿意尝试小步计划"
+    },
+    "main_problem": "我在社交情境中（尤其是结识新朋友时）体验到极度的焦虑，这在与我最喜欢的乐队Guns N' Roses见面并因激动而昏倒后开始并持续加重。",
+    "topic": "人际关系",
+    "core_demands": "我意识到焦虑正在影响我的日常生活和社交互动，这促使我寻求咨询支持。",
+    "growth_experiences": [
+      "约一年前，在与最喜欢的乐队Guns N' Roses见面时因过度兴奋而昏倒。该事件成为显著转折点；此后来访者开始持续将自己贴上“我是一个焦虑的人”的标签，将该经历解释为自身无法应对社交场合的证据。伴随而来的影响包括：回避社交活动、在拥挤场所感到不堪重负、想到结识新朋友或参加社交聚会即产生强烈焦虑；工作中的顾客互动也受影响；睡眠与饮食节律被打乱。尝试过深呼吸与听音乐以缓解，但效果有限。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个很焦虑的人",
+        "我无法应对社交场合"
+      ],
+      "special_situations": [
+        {
+          "event": "一年前与最喜欢的乐队Guns N' Roses见面时因过度兴奋而昏倒",
+          "conditional_assumptions": "如果在重要社交场合失控或出现明显生理反应，就证明我本质上是个焦虑的人",
+          "compensatory_strategies": "为自己贴上“焦虑者”的标签，并尽量避免类似的社交情境",
+          "automatic_thoughts": "我就是个焦虑的人，处理不好社交场合",
+          "cognitive_pattern": "Labeling and Mislabeling"
+        },
+        {
+          "event": "只要想到要结识新朋友或参加社交聚会",
+          "conditional_assumptions": "我必须在社交场合表现得完美，否则人们会评判我",
+          "compensatory_strategies": "回避社交活动，减少出席人多的场合",
+          "automatic_thoughts": "如果我不完美，他们会看不起我",
+          "cognitive_pattern": "Should"
+        },
+        {
+          "event": "在工作中与顾客互动或身处拥挤的环境",
+          "conditional_assumptions": "如果我看起来不够自信，别人会认为我有问题并因此责备我",
+          "compensatory_strategies": "用深呼吸、听音乐来缓解不适，同时减少与陌生人的交流",
+          "automatic_thoughts": "顾客会注意到我的焦虑并评价我不好，都是我的错",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回忆并评价与乐队见面那次经历",
+          "conditional_assumptions": "一次负面经历就足以定义我这个人",
+          "compensatory_strategies": "只关注那次失控，忽略积极面（如见到喜爱的乐队）",
+          "automatic_thoughts": "我那次搞砸了，这说明我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在他人面前被接纳、被视为自信与从容",
+        "fear": "害怕在社交中失控而被他人评判与羞辱",
+        "defense_goal": [
+          "通过回避与自我贴标签来维持控制、减少被评判的可能性"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易失控且必须完美以避免评判的自我",
+          "object_representation": "他人是挑剔的评判者，随时会发现并指责我的不足",
+          "linking_affect": "羞耻、恐惧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议将“必须不焦虑”的规则改为“希望能更好地管理兴奋”，并邀请其进行自我同情练习时",
+          "interpretation": "倾向认为这些建议“并不解决问题”，担心自己仍会在社交中失控",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉但保留的语气表达质疑，如“这好像不能真正解决问题”，强调现实困难，并将话题拉回自身焦虑的合理性。"
+        },
+        {
+          "trigger_condition": "当咨询师要求其识别并称赞自身的韧性与优点时",
+          "interpretation": "将积极反馈视为“不习惯或不真实”，以保持距离避免自我肯定带来的不适",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用客观、平静的语气，如“我可以试试，但不确定有没有用”，避免表达积极情绪与自我赞美。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“必须完美、不许焦虑”的僵化规则约束自己",
+            "在社交中以规则而非体验引导行为"
+          ],
+          "outcomes": [
+            "自我贴标签与内在冲突加剧",
+            "社交焦虑与回避增加"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因焦虑回避社交活动与拥挤场所",
+            "与他人建立和维持关系受阻"
+          ],
+          "outcomes": [
+            "人际联结减少",
+            "工作与生活质量下降",
+            "睡眠与饮食节律被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "反复强调“我必须在社交场合表现完美，否则会被评判”",
+            "将他人表面从容当成自己的标准"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在与顾客或陌生人互动时，预设他人会注意到并评判自己的焦虑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "给自己贴上“焦虑的人”的标签并持续自我批评",
+            "不习惯赞美自己，觉得“称赞自己很奇怪”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在需要与陌生人互动或参加社交活动的情境下，来访者通常会极度焦虑并回避，导致表现受损。",
+          "unique_outcome": "在工作日里，来访者仍然按时上班并与顾客互动，尽管感到焦虑，依然坚持完成当天的工作任务。",
+          "reason": "线索：不同做法——尝试深呼吸与听音乐以自我安抚；不同情境——固定的工作职责与日程为其提供结构与动力，使其在焦虑下也能坚持。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "韧性与责任心（在焦虑下仍坚持上班并完成任务）",
+          "具备一定的自我调节尝试（深呼吸、听音乐）",
+          "有一定的家庭支持（虽不完全理解其焦虑）",
+          "愿意寻求咨询并接受小步计划"
+        ],
+        "negative_force": [
+          "自我贴标签为“焦虑的人”，自我否定",
+          "僵化的完美规则与对他人评判的恐惧",
+          "社交回避与在人群中的压倒感",
+          "心理过滤与否定积极经验（忽视积极事件）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交场合中的极度焦虑与回避",
+          "antecedent": [
+            "想到要结识新朋友",
+            "参加社交聚会",
+            "处在拥挤的环境",
+            "在工作中与顾客互动"
+          ],
+          "core_reason": "一年前与喜爱乐队见面时因兴奋而昏倒的事件被解释为“我本质上是焦虑的人”，并伴随“必须完美否则会被评判”的僵化信念与自我贴标签。",
+          "function": "逃避被评判与羞耻的风险、在短期内获得安全与控制感",
+          "consequence": "回避社交活动、人际关系受损、工作表现下降、睡眠与饮食节律被打乱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 858
+}

@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "周莉",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一位住得近的挚友，但未与其讨论当前困扰",
+      "medical_history": "无重大躯体疾病；此前未出现类似心理问题；既往无心理治疗/咨询史",
+      "language_features": "表达清晰、逻辑连贯；情绪基调焦虑；能具体描述生动意象与触发情境；对改变持怀疑但愿意尝试，配合度尚可"
+    },
+    "main_problem": "自从一次徒步时摔倒后，我对外出时绊倒并再次把脚踝摔断感到强烈的恐惧与焦虑，几乎每次外出散步或徒步都会出现，导致显著痛苦与回避。",
+    "topic": "情绪管理",
+    "core_demands": "因为恐惧和焦虑已经开始干扰日常生活与对户外活动的享受，使我难以进行散步或徒步，所以决定寻求咨询。",
+    "growth_experiences": [
+      "一次徒步时发生摔倒，伴随身体疼痛与强烈的尴尬体验。此后逐渐出现对“外出会再次绊倒并把脚踝摔断”的持续恐惧与焦虑；每当想到散步或徒步时，脑中都会浮现生动的再次摔倒画面，症状随时间加重；为避免风险而减少甚至回避户外活动，并在不得不外出时不断检查周围环境。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "外界环境充满危险，意外随时可能发生",
+        "我很脆弱且不安全，无法有效保护自己免受伤害"
+      ],
+      "special_situations": [
+        {
+          "event": "想到要出门散步（如上周准备外出）",
+          "conditional_assumptions": "如果我外出行走，跌倒几乎是必然的",
+          "compensatory_strategies": "干脆待在家中以完全回避风险",
+          "automatic_thoughts": "无论怎样我都会再摔倒，留在家更安全",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在路面看到小石头或不平整的地方",
+          "conditional_assumptions": "只要稍微一绊就会导致严重伤害（如脚踝骨折）",
+          "compensatory_strategies": "放慢步伐、目不转睛地检查地面，只选择看起来极其平坦的路线",
+          "automatic_thoughts": "绊一下就会把脚踝摔断",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回想起那次徒步摔倒的经历与痛感/尴尬",
+          "conditional_assumptions": "一次摔倒意味着我以后都会摔倒",
+          "compensatory_strategies": "放弃徒步与多数户外活动，避免触发相似情境",
+          "automatic_thoughts": "我就是会一直摔倒的人",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "不得不外出时全程扫描环境、寻找潜在危险",
+          "conditional_assumptions": "到处都是隐患，必须时刻盯着不安全的细节才勉强可以避免灾难",
+          "compensatory_strategies": "过度警觉与持续环境检查，难以享受行走本身",
+          "automatic_thoughts": "满地都是会让我再次出事的东西",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望安全与可控，能无忧无虑地享受户外活动",
+        "fear": "害怕再次受伤与失控，并因意外而感到羞耻与被他人评价",
+        "defense_goal": [
+          "通过回避外出与过度检查来维持安全感",
+          "通过不披露与不求助来避免被视为软弱或夸张"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、容易受伤与被评判的个体",
+          "object_representation": "他人可能会认为我软弱、在夸大其词的人",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "需要时刻防范危险的易受害者",
+          "object_representation": "外部世界/环境是充满潜在威胁的场所",
+          "linking_affect": "恐惧、警觉"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请探索与挑战灾难化想法、讨论可能的改变时",
+          "interpretation": "认为“谈了也不会改变什么”，改变是徒劳无功",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "以低落、怀疑的语气简短回应，强调“没什么用”，减少展开细节。"
+        },
+        {
+          "trigger_condition": "当被询问是否愿意与挚友分享困扰、寻求支持时",
+          "interpretation": "预设他人会把自己视为软弱或反应过度（他人会评判我）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "回避披露，强调“不想显得软弱/过度反应”，语气克制，可能转移到事实性描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "一次意外后将“外出行走/徒步”的选择显著收缩",
+            "以回避与过度控制来对抗不确定性与风险"
+          ],
+          "outcomes": [
+            "生活范围受限、户外乐趣减少",
+            "焦虑维持与自我效能感下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "明知有挚友在身边仍选择不分享、不求助",
+            "独自承受恐惧与羞耻感"
+          ],
+          "outcomes": [
+            "社会支持难以发挥作用，情绪负担加重",
+            "问题维持时间延长"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "担心“显得软弱/反应过度”，在分享与求助上格外谨慎",
+            "在会谈中先表达“谈了也没用”的怀疑态度，谨小慎微地尝试改变"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "明明有挚友却选择不求助、独自承受焦虑与恐惧",
+            "以自我压抑与回避来处理外界接触（减少外出）"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "预设他人会把自己看作软弱或夸张，从而避免披露",
+            "在社交接触前即假定负面评价而退缩"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有一位住得近的挚友（潜在社会支持资源）",
+          "愿意尝试探索与挑战想法，能接受循证方法的建议",
+          "对触发线索与生动意象有较清晰的自我觉察",
+          "曾热爱户外活动，具备恢复参与的内在动机"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来、心理过滤等认知偏差显著",
+          "回避外出与过度检查维持焦虑与不安全感",
+          "羞耻与自我污名化（担心被视为软弱）阻碍求助与支持动员",
+          "摔倒相关的痛苦记忆与生动意象频繁触发强烈恐惧",
+          "对改变的悲观信念（“谈了也没用”）降低尝试动力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避外出散步/徒步",
+          "antecedent": [
+            "想到或计划要出门散步/徒步",
+            "回想起曾经摔倒的经历与画面"
+          ],
+          "core_reason": "徒步摔倒后形成的灾难化/预测未来的信念与痛苦记忆（疼痛与尴尬）强化了风险评估偏差",
+          "function": "逃避潜在危险与强烈焦虑，暂时获得安全感",
+          "consequence": "户外活动显著减少、生活乐趣下降、身体锻炼减少，整体压力增加"
+        },
+        {
+          "behavior": "外出时的过度环境检查与高度警觉",
+          "antecedent": [
+            "在户外行走时看到不平整路面或小石头",
+            "出现再次摔倒的生动意象"
+          ],
+          "core_reason": "对意外风险的高估与对控制的过度需求（由一次摔倒经验泛化而来）",
+          "function": "寻求控制与降低不确定性以缓解焦虑",
+          "consequence": "行走过程紧张费力、无法享受活动，焦虑难以自然消退并被维持"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1984
+}

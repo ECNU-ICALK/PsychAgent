@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "36岁",
+      "name": "李洁",
+      "gender": "女",
+      "occupation": "作家",
+      "educational_background": "创意写作学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居（密苏里州斯普林菲尔德）",
+      "social_status": "有少数朋友可倾诉，但因与新房相关的压力而减少社交聚会",
+      "medical_history": "无重大躯体疾病史；既往无心理治疗或求助史",
+      "language_features": "表达有条理，配合积极；能描述触发情境与影响；反复强调担忧内容，存在灾难化、预测未来、非黑即白等认知倾向"
+    },
+    "main_problem": "自购买首套房以来一直感到不堪重负与压力。得知屋顶维修需花费2500美元后，开始相信这套房子会接二连三出现问题，常常预期和害怕下一个问题，焦虑加重并影响日常生活。",
+    "topic": "情绪管理",
+    "core_demands": "与新房相关的持续压力和焦虑已影响心理健康与写作专注力，因此寻求咨询以缓解焦虑、恢复专注。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "世界充满不可预测的问题，我终将无法应对",
+        "一次重大错误或代价高昂的问题意味着我做出了错误决定"
+      ],
+      "special_situations": [
+        {
+          "event": "得知屋顶维修需支付2500美元",
+          "conditional_assumptions": "如果出现一笔高额维修费，就说明这套房子会不断出问题",
+          "compensatory_strategies": "立刻上网查找DIY方案并做详细预算，反复担忧以尝试提前预防最坏情况",
+          "automatic_thoughts": "这房子会成为无底洞，接下来会更糟，我扛不住",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "处理与房屋相关的任务或账单时",
+          "conditional_assumptions": "如果我不能把所有潜在风险都消除，问题就一定会发生且超出我承受范围",
+          "compensatory_strategies": "反复检查与预演最坏情景，推迟或回避社交活动以腾出精力盯防问题",
+          "automatic_thoughts": "下一次灾难就要来了，我可能应付不了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "想到炉子可能会坏",
+          "conditional_assumptions": "家里一旦出现问题通常都会发展到最糟并且代价高昂",
+          "compensatory_strategies": "在脑中反复演练昂贵维修情景，紧张储蓄与预算以备不时之需",
+          "automatic_thoughts": "炉子大概率会坏而且需要大修，费用会压垮我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想购房决定并与当前问题对照",
+          "conditional_assumptions": "如果出现一次重大问题，就说明整个决定是错误的",
+          "compensatory_strategies": "反复自我质疑与后悔，减少对写作等其他领域的投入",
+          "automatic_thoughts": "买这套房是个巨大的错误",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定与可控、希望生活安全可预测",
+        "fear": "害怕失控与被接连而来的问题压垮、害怕承担不起后果",
+        "defense_goal": [
+          "通过过度担忧与提前设防来降低不确定性",
+          "通过理性分析、预算与查找DIY等方式维持控制感",
+          "通过减少社交来节省情绪与精力以应对潜在风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤立无援、需要独自承担一切的焦虑照料者",
+          "object_representation": "不可预测、随时可能出问题并带来高成本的环境/房子",
+          "linking_affect": "焦虑、紧张、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面对突发的大额维修费用或想到未来可能出现的房屋故障时",
+          "interpretation": "将情境解读为即将发生的灾难，认为自己终将被压垮（将环境视作持续威胁）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑，将情绪与事件分离。",
+          "response_instruction": "先以温和、共情的语气承认其压力与不安，再引导其识别情绪并进行限时、结构化的现实检验与概率评估，帮助在感受与事实之间建立桥梁。"
+        },
+        {
+          "trigger_condition": "当想到潜在风险并预期“下一件坏事”会发生时",
+          "interpretation": "相信必须提前为所有坏结果做准备，否则就会失控",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "认可其前瞻性优势，语气稳定、具体化引导其将准备聚焦在高概率、可控的小步骤，同时限制灾难化的情景演练。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "首次购房后需独自承担维修决策与经济后果",
+            "对不确定性的高度敏感与强控制需求",
+            "不断预演最糟糕情景以避免犯错"
+          ],
+          "outcomes": [
+            "广泛性焦虑与灾难化思维增加",
+            "睡眠与饮食受影响",
+            "写作专注力下降"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居，较少与他人讨论焦虑程度",
+            "因压力而减少社交聚会、趋向自我隔离"
+          ],
+          "outcomes": [
+            "社会支持减少，焦虑维持与放大",
+            "负性思维回路更难被外界修正"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在处理与房屋相关的任务或支出时，来访者通常会灾难化预期并持续焦虑，进而回避社交、写作注意力下降。",
+          "unique_outcome": "曾独自修好漏水的水龙头，问题得到解决并带来成就感，与以往陷入反复担忧不同，体现出可控与胜任的体验。",
+          "reason": "线索：采取了具体可操作的步骤并即时看到成效；任务难度适中、边界清晰，因此这次没有陷入灾难化循环。"
+        },
+        {
+          "target_problem": "在想到可能出现新的房屋故障时，来访者通常会预期最坏结果并持续反刍担忧，难以投入日常活动。",
+          "unique_outcome": "重新粉刷房间并获得满意效果，过程专注、结果积极，未被“下一场灾难”思维主导。",
+          "reason": "线索：关注当下任务、分解步骤并付诸行动；可见的进展提供正向反馈，从而弱化了负性预测。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备一定的问题解决与动手能力（曾修好水龙头、成功粉刷房间）",
+          "愿意寻求帮助并尝试结构化方法（接受去灾难化训练与行为实验）",
+          "具备预算与资料检索的习惯，可转化为现实检验与计划能力",
+          "拥有一定的潜在社会支持（有几位朋友可沟通）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、非黑即白与过度概括等认知偏差显著",
+          "因压力而减少社交，导致外部支持与正向反馈不足",
+          "持续的高警觉与反刍担忧侵占注意力，写作专注力下降",
+          "睡眠与饮食受影响，进一步削弱情绪调节与复原力"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复灾难化担忧与预期最坏结果",
+          "antecedent": [
+            "看到与房屋相关的账单、维修通知或进行家务维护时",
+            "回想屋顶维修费用2500美元",
+            "想到可能的设备故障（如炉子）"
+          ],
+          "core_reason": "一次高额维修支出触发对未来持续问题的信念，将单次事件泛化为长期灾难性趋势。",
+          "function": "通过提前担忧与设防来获得控制感、试图避免损失与不确定性",
+          "consequence": "焦虑加剧、睡眠与饮食受影响、注意力被占用而难以专注写作"
+        },
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "在高压力时期收到社交邀请或计划外出时",
+            "需要同时处理房屋事务与社交安排时"
+          ],
+          "core_reason": "为节省认知与情绪资源以应对潜在房屋问题，担心社交会加重失控感。",
+          "function": "逃避不适与减少负担，以暂时降低焦虑水平",
+          "consequence": "社会支持减少、负性思维缺乏外界修正，孤独与焦虑维持"
+        },
+        {
+          "behavior": "过度查找DIY方案与精细化预算（安全行为）",
+          "antecedent": [
+            "出现关于房屋问题的焦虑想法时",
+            "计划或预计可能的维修支出时"
+          ],
+          "core_reason": "试图通过信息与计划来完全掌控不确定性，以避免最坏情境。",
+          "function": "短期缓解焦虑并获得控制感",
+          "consequence": "时间与精力被占用、担忧循环被强化，导致写作效率下降且焦虑难以从根本缓解"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 586
+}

@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "罗杰",
+      "gender": "男",
+      "occupation": "博物馆工作人员",
+      "educational_background": "艺术史学士学位",
+      "marital_status": "未婚",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交互动有限，因轮椅与自信不足而退缩；有一位支持性的同事可倾诉",
+      "medical_history": "几年前被诊断的医学状况导致需要依赖轮椅；除该状况外无其他显著身体疾病；此前未接受心理治疗",
+      "language_features": "坦诚、配合度较好；自我反思能力较强；情绪上有紧张但抱有希望"
+    },
+    "main_problem": "尽管大量阅读，但我觉得自己不是一个好的读者，这让我感到痛苦和自卑。",
+    "topic": "情绪管理",
+    "core_demands": "这些不足感开始影响我的自尊与整体幸福感，并影响我在博物馆的工作表现。我想停止这种不够好的感觉，重新享受阅读而不再被负面想法困扰。",
+    "growth_experiences": [
+      "几年前被诊断的医学状况使我不得不依赖轮椅，身体活动受限。此后，阅读成为逃避与消遣的主要方式，但随着我越来越依赖阅读，我开始更频繁地将自己的阅读速度与他人比较，尤其在面对复杂文本时更易触发自我怀疑与自卑。这段经历逐步加重了压力与焦虑，影响了我的工作表现与社交互动（社交减少、更多自我怀疑）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个不够好的读者",
+        "我不如他人/我能力不足"
+      ],
+      "special_situations": [
+        {
+          "event": "与朋友讨论书籍、比较阅读速度与理解表达时",
+          "conditional_assumptions": "如果我的阅读速度和表达不如同伴，就说明我不够好、低人一等",
+          "compensatory_strategies": "报名速读技巧与线上课程，试图证明自己并提升速度",
+          "automatic_thoughts": "我永远不会像他们那样好。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "面对复杂文本时阅读变慢、理解吃力",
+          "conditional_assumptions": "如果我不能轻松应对复杂文本，就说明我不是一个好读者",
+          "compensatory_strategies": "倾向回避挑战性文本，减少接触以降低挫败感",
+          "automatic_thoughts": "我就是很慢，跟不上。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "在工作中需要大量阅读并向访客解释内容时",
+          "conditional_assumptions": "如果我在工作上理解/表达不够快，就证明我不称职",
+          "compensatory_strategies": "产生回避倾向，减少尝试更难的材料或任务",
+          "automatic_thoughts": "不管我怎么做，我都不会变好。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "被医学状况限制活动后，阅读成为主要消遣与自我寄托",
+          "conditional_assumptions": "既然阅读是我主要的事情，我就应该读得更快、更好，否则就不合格",
+          "compensatory_strategies": "给自己施加压力，持续练习技巧、严苛自我评估",
+          "automatic_thoughts": "我应该读得更快，否则就说明我不够好。",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看作有能力、被认可的读者与专业人士",
+        "fear": "害怕被比较后显得低人一等、被评价为不称职，从而自尊受损与被疏离",
+        "defense_goal": [
+          "通过回避挑战性文本与社交比较来降低被评价的风险",
+          "通过不断训练与理性解释来维持可控感与自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、缓慢的读者",
+          "object_representation": "朋友是轻松自如、更加优秀并可能评判自己的他者",
+          "linking_affect": "自卑、焦虑、失望"
+        },
+        {
+          "self_representation": "在工作中容易被质疑的解释者",
+          "object_representation": "访客/他人是要求严格、可能挑错的评价者",
+          "linking_affect": "紧张、担心、退缩"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当与朋友讨论书籍、进入比较情境时",
+          "interpretation": "把他人视为更优秀的评判者，认为自己不配被认可",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "倾向使用自贬语句，语气压低、避免主张观点，表达“我不如他们”。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人探询造成差异的原因时",
+          "interpretation": "通过强调练习、教育差异等外在因素，将情感退居二线以获得心智上的掌控感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用客观分析的语气，列举可能因素，减少情绪词汇与主观感受的表达。"
+        },
+        {
+          "trigger_condition": "当需要直面负性自动思维并进行认知重构时",
+          "interpretation": "通过提前思考与准备未来的调整以减轻当前焦虑",
+          "defense_mechanism": "预期",
+          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
+          "response_instruction": "使用前瞻性与计划性语言，设定小步目标，语气平稳且务实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "医学状况导致身体活动受限，需要依赖轮椅",
+            "将阅读作为主要的逃避与消遣，感到“必须”在阅读上表现更好"
+          ],
+          "outcomes": [
+            "焦虑与压力增加",
+            "自我价值与能力感受限",
+            "工作表现受影响"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "社交互动有限，因自信不足与轮椅使用而退缩",
+            "主要与一位支持性同事交流，整体人际支持匮乏"
+          ],
+          "outcomes": [
+            "自卑与自我怀疑加重",
+            "社交退缩与负性情绪维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我比较与自我否定（“我不如他们”）",
+            "面对复杂文本时过度关注不足与失败感",
+            "在工作与社交中犹疑、退缩"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "对阅读速度与理解设定僵硬的“应该”标准（觉得必须更快、更好）",
+            "以他人表现为绝对参照，未根据自身情况调整标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "阅读量大，具备持续投入的习惯",
+          "能进行自我反思并识别压力与思维模式的影响",
+          "态度积极、愿意尝试改变（愿意进行重构与练习）",
+          "在工作中有一位支持性的同事可倾诉"
+        ],
+        "negative_force": [
+          "过度比较并否定积极面（心理过滤与否定正面）",
+          "自我价值过度绑定于阅读速度与表现",
+          "社交退缩、支持系统薄弱",
+          "医学状况限制活动，带来持续性压力与焦虑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避阅读或回避挑战性（复杂）文本",
+          "antecedent": [
+            "与他人比较阅读速度或讨论书籍时",
+            "面对复杂文本时",
+            "在工作中需要快速理解并向访客解释时"
+          ],
+          "core_reason": "将阅读速度与个人价值直接等同；在医学状况与压力背景下，对“慢”做负性归因并触发自我怀疑",
+          "function": "逃避被比较与被评价带来的焦虑与羞耻感",
+          "consequence": "阅读体验进一步受损，能力提升受阻，工作表现下降"
+        },
+        {
+          "behavior": "社交退缩、减少与他人互动",
+          "antecedent": [
+            "在与朋友讨论书籍时感到不如人",
+            "自信不足与轮椅使用带来的不适感"
+          ],
+          "core_reason": "害怕被看作不称职、被比较后显得低人一等，因而自我保护性退缩",
+          "function": "避免外界负面评价与自尊受损",
+          "consequence": "人际支持减少，孤独感与自我怀疑加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1879
+}

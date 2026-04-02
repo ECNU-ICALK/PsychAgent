@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈静",
+      "gender": "女",
+      "occupation": "农民",
+      "educational_background": "高中学历",
+      "marital_status": "未婚",
+      "family_status": "独居，与两只宠物狗一起生活",
+      "social_status": "有少数朋友可交流，但因自我隔离减少社交，未向朋友表达绝望与无助感",
+      "medical_history": "无显著躯体疾病；以往未接受心理治疗",
+      "language_features": "未提及"
+    },
+    "main_problem": "我持续相信因为财务限制，我永远无法去环游世界，这让我感到绝望和无助。",
+    "topic": "情绪管理",
+    "core_demands": "意识到“我永远无法旅行”的信念正在影响我的整体幸福感和生活动力，因此寻求咨询。",
+    "growth_experiences": [
+      "几年前，陈静的农场业务遭遇财务挫折，压力水平显著升高，开始持续担忧未来的财务稳定性。此后，她逐渐形成“因财务限制无法实现环游世界”的信念，并在看到他人旅行或想到自己探索世界的愿望时反复触发绝望与无助感。该事件对其生活产生深远影响：工作动力下降、人际关系受损、自我照料减弱，且尽管尝试更严格预算与寻找更便宜的旅行选项，仍难见显著财务改善，从而加固了无望感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远无法实现旅行的梦想",
+        "我的财务困境不会改善",
+        "我总是没钱"
+      ],
+      "special_situations": [
+        {
+          "event": "看到他人去旅行时",
+          "conditional_assumptions": "如果我不能像他们一样负担旅行，就说明我无法实现梦想",
+          "compensatory_strategies": "减少与朋友外出和社交，以避免比较与失落感被触发",
+          "automatic_thoughts": "我不如他们，我永远也去不了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "想到自己探索世界的渴望时",
+          "conditional_assumptions": "只有出国旅行才算真正实现梦想；如果不能出国，就不算达成",
+          "compensatory_strategies": "搁置计划、维持现状以避免失望",
+          "automatic_thoughts": "这不算真正的旅行，我仍然被困住",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想几年前的农场财务挫折并担忧未来财务稳定时",
+          "conditional_assumptions": "如果过去出现财务问题，未来也会持续不稳定，会阻断旅行的可能",
+          "compensatory_strategies": "持续焦虑并避免进一步投入旅行规划，以减少不确定感",
+          "automatic_thoughts": "我的未来财务会一直不稳定，我的旅行梦想永远不会实现",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "注意到财务状况有所改善但仍觉得不足以旅行时",
+          "conditional_assumptions": "除非达到能负担海外旅行的标准，否则任何改善都不算数",
+          "compensatory_strategies": "否定积极变化、维持“被困住”的叙事以保持心理一致性",
+          "automatic_thoughts": "这点改善没意义，我还是去不了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由地探索世界并实现自我满足",
+        "fear": "害怕被财务困境长期困住并失去未来稳定性",
+        "defense_goal": [
+          "通过谨慎消费和回避社交来降低焦虑",
+          "维持悲观叙事以避免失望感加剧"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被困住且无力改变处境的人",
+          "object_representation": "能够负担旅行、令自己产生比较的他人",
+          "linking_affect": "绝望、羞愧、羡慕"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出查看相反证据或探索替代可能性（如更小规模旅行）时",
+          "interpretation": "来访者倾向于将财务限制视为不可改变的现实，并以此否定新的可能（移情：坚持悲观解释以维持心理一致性）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和且共情，承认其担忧；使用开放式问题与具体化追问，邀请其举出支持与反驳的证据；避免对抗，用反思式总结帮助其同时看见改善与限制。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "反复感到被财务困境“困住”，难以追求旅行的自由",
+            "看到他人旅行时强烈触发无力感与自我比较"
+          ],
+          "outcomes": [
+            "绝望与无助感加重",
+            "工作动力下降与自我照料不足",
+            "社交回避与孤立"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "自我隔离，不与朋友讨论绝望与无助的感受",
+            "减少参与社交活动，避免谈及旅行相关话题"
+          ],
+          "outcomes": [
+            "人际关系受损",
+            "获得社会支持的机会减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "将绝望与无助的感受压在心里，未与朋友沟通求助",
+            "减少外出和社交，转而自我消化负面情绪"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "财务状况较几年前有所改善（虽不显著）",
+          "具备一定的主动性与现实策略（尝试预算与寻找更便宜的旅行方案）",
+          "拥有少数可倾诉的朋友（潜在社会支持）"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维倾向，放大最坏结果",
+          "非黑即白的标准（认为只有出国旅行才算实现梦想）",
+          "否定积极改变（财务改善被视为“无意义”）",
+          "社交回避与自我隔离，减少外部支持与资源利用"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "看到他人去旅行",
+            "想到自己探索世界的愿望"
+          ],
+          "core_reason": "因财务挫折后形成的灾难化与比较思维，认为自己无法负担旅行，进而回避与旅行相关的社交情境以减少痛苦。",
+          "function": "逃避被比较与无力感所带来的焦虑与羞愧",
+          "consequence": "人际关系受损、社会支持减少，进一步加剧绝望体验"
+        },
+        {
+          "behavior": "工作动力下降与自我照料不足",
+          "antecedent": [
+            "回想财务挫折并担忧未来财务稳定",
+            "思考旅行目标时触发无望感"
+          ],
+          "core_reason": "对财务与旅行的悲观信念导致情绪低落与无助，从而降低任务启动与维持能力。",
+          "function": "短期内减少压力与失败感以自我保护",
+          "consequence": "农场工作表现下滑、日常生活与自我照料受影响，形成负性循环"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 878
+}

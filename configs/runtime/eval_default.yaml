@@ -1,0 +1,28 @@
+data_root: data/eval
+output_root: data/eval_outputs
+input_format: auto
+
+api_model: gemini-3-flash-preview
+method_concurrency: 8
+file_concurrency: 4
+api_concurrency: 64
+api_rps: null
+api_rps_period: 1.0
+
+resume: true
+overwrite: false
+case_limit: null
+
+supported_modalities:
+  - bt
+  - cbt
+  - pmt
+  - het
+  - pdt
+
+method_by_modality:
+  bt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, Dialogue_Planning, MITI, STAI]
+  cbt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, Dialogue_Planning, CTRS, BDI_II]
+  pmt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, Dialogue_Planning, EFT_TFS, SFBT]
+  het: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, Dialogue_Planning, TES, CCT]
+  pdt: [PANAS, RRO, SRS, Custom_Dim, HTAIS, WAI, Dialogue_Planning, PSC, IPO]

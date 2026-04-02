@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "52",
+      "name": "张瑞森",
+      "gender": "男性",
+      "occupation": "退休",
+      "educational_background": "高中毕业",
+      "marital_status": "丧偶",
+      "family_status": "有5个孙辈，独居在偏远小木屋",
+      "social_status": "与孙辈关系良好，但日常人际互动较少，尤其在夜晚常感到孤独",
+      "medical_history": "未接受过心理治疗，无重大躯体疾病；退休与配偶去世后曾有轻度孤独感",
+      "language_features": "首次求助略紧张；表达清晰、合作度高；思路有条理；能识别并讨论自身的消极思维模式；态度积极"
+    },
+    "main_problem": "我持续相信“因为我独自住在小木屋，所以我会一直孤独”，这一思维模式导致我感到孤独与悲伤。",
+    "topic": "人际关系",
+    "core_demands": "我意识到这些孤独感正在影响我的心理健康和整体福祉，促使我现在寻求咨询。",
+    "growth_experiences": [
+      "五年前配偶去世后，孤独感明显加剧；夜晚回到空荡的小木屋时最为强烈，逐渐形成“我会一直孤独”的信念。",
+      "退休后日常社交频率减少，居住在偏远小木屋带来的地理隔离使孤独感随时间加重；此前主要通过钓鱼、划船以及与孙辈相处来应对，但效果有限；未曾主动寻求心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我注定会一直孤独"
+      ],
+      "special_situations": [
+        {
+          "event": "夜晚独自回到偏远小木屋、活动结束后屋内一片寂静",
+          "conditional_assumptions": "如果我独自住在偏远小木屋，就意味着我的孤独是永久且无法改变的",
+          "compensatory_strategies": "通过白天外出钓鱼或乘船来分散注意力以逃避夜晚的孤独感",
+          "automatic_thoughts": "我会永远一个人，没有出路",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "当天与外界几乎没有社交互动",
+          "conditional_assumptions": "如果一天都没有与人互动，就证明我被孤立、无人可依",
+          "compensatory_strategies": "犹豫联系孙辈以免增加他们的负担，转而独自消化情绪",
+          "automatic_thoughts": "没有人愿意陪我，我只能自己熬过去",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到配偶去世后的生活与当下的独居状态",
+          "conditional_assumptions": "失去伴侣意味着我将永久失去亲密陪伴",
+          "compensatory_strategies": "用个人爱好（钓鱼、划船）转移对失去伴侣的悲伤与孤独",
+          "automatic_thoughts": "我不可能再拥有亲密关系",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "居住环境偏远，出行与社交不便",
+          "conditional_assumptions": "住得偏远就注定难以建立或维持社交联系",
+          "compensatory_strategies": "尚未主动了解当地钓鱼群体或木工社群，主要以独处活动应对",
+          "automatic_thoughts": "我没有社交机会，这里只会让我更孤独",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定的亲密陪伴与情感连接",
+        "fear": "害怕成为家人的负担；害怕无尽的孤独",
+        "defense_goal": [
+          "通过自我克制减少对他人的依赖，避免主动求助以维持内在安全感",
+          "以环境与现实理由解释不寻求支持的选择，降低被拒绝或打扰他人的内疚感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不愿麻烦他人的孤独者/丧偶者",
+          "object_representation": "亲人们很忙、支持有限（探望频率不高）",
+          "linking_affect": "孤独、犹豫、歉疚"
+        },
+        {
+          "self_representation": "失去亲密关系的悲伤者",
+          "object_representation": "环境是冷清而隔离的空间（偏远小木屋）",
+          "linking_affect": "悲伤、空虚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论向孙辈寻求更多支持或增加社交联系时",
+          "interpretation": "来访者认为主动联络会给对方添麻烦，因而倾向于自我克制",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气委婉、强调对方很忙且不应打扰；避免直接提出具体请求，使用含糊表述与礼貌性的自我否定来弱化求助。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "丧偶后独居在偏远小木屋，夜晚寂静时孤独感最强",
+            "社交频率低、与外界互动减少；在当天缺乏互动时孤独感更重",
+            "犹豫向家人表达与寻求支持，担心成为负担"
+          ],
+          "outcomes": [
+            "持续的孤独与悲伤",
+            "对未来社交可能性的悲观预期",
+            "晚间日常受影响（情绪低落、动力下降）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "犹豫联系孙辈以免成为负担，将求助冲动压回自己",
+            "通过独处活动（钓鱼、划船）来内部消化孤独与悲伤，而非外向寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "对求助保持过度谨慎，限制与家人互动的频率",
+            "以“他们很忙”的理由约束自己表达需要"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在夜晚独处于小木屋时，来访者通常会陷入“我将永远孤独”的反刍思维并感到强烈的孤独与悲伤。",
+          "unique_outcome": "在与孙辈相聚的那天晚上，来访者没有像往常那样沉浸在“永远孤独”的念头中，而是感到开心、孤独感明显减轻。",
+          "reason": "不同支持：与家人互动带来情感连接；不同情境：当日有社交交流；做法不同：主动与家人相聚，获得积极体验。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与孙辈关系良好，存在情感支持来源",
+          "拥有钓鱼、划船和木工等兴趣爱好，可作为行为激活与社会参与的切入点",
+          "愿意寻求帮助与改变，态度积极",
+          "能识别并愿意挑战消极思维模式"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维，倾向于将孤独视为永久状态",
+          "过度概括与预测未来，降低对社交可能性的期待",
+          "居住环境偏远导致客观社交机会有限",
+          "犹豫寻求支持，担心成为家人的负担"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "夜晚反复陷入“我会一直孤独”的消极反刍并体验显著的孤独与悲伤",
+          "antecedent": [
+            "夜晚回到偏远小木屋后屋内安静",
+            "当天与他人互动较少",
+            "想到配偶去世与当下独居状态"
+          ],
+          "core_reason": "丧偶与退休后社交减少、居住环境隔离，以及对孤独的灾难化与非黑即白认知导致的负性自动思维维持反刍。",
+          "function": "通过自我论断来获得“确定性”，在短期内回避外向寻求支持的焦虑与不确定；以反刍替代现实接触。",
+          "consequence": "孤独与悲伤加重，晚间生活质量下降，维持并强化“我注定一直孤独”的信念。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1855
+}

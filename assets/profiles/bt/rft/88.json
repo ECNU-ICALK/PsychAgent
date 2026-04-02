@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "林璐",
+      "gender": "女",
+      "occupation": "退休",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有成年子女和孙辈",
+      "social_status": "未提及",
+      "medical_history": "未接受过心理问题治疗；未经历过类似问题；无重大躯体疾病",
+      "language_features": "首次咨询，感到紧张但态度积极；表达清晰，能自我反思；配合度良好"
+    },
+    "main_problem": "我在做决定方面很挣扎，尤其是像在辣味玉米热狗和奶酪热狗之间选择这样简单的事情。我的优柔寡断让我相信自己在决策方面很糟糕，影响了我的自信和自尊。",
+    "topic": "情绪管理",
+    "core_demands": "因长期决策困难影响到日常生活与关系，希望获得指导与支持，改善决策能力。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个在做决定方面很糟糕的人",
+        "若做错选择就会带来负面后果并被他人评判"
+      ],
+      "special_situations": [
+        {
+          "event": "在餐馆与家人用餐时，需要在辣味玉米热狗与奶酪热狗之间做选择",
+          "conditional_assumptions": "如果我选错了，就会破坏这顿饭并让家人失望",
+          "compensatory_strategies": "反复权衡、拖延做决定，向家人寻求建议以减少发生错误的概率",
+          "automatic_thoughts": "如果我选错，这顿饭就被我搞糟了，大家会不开心",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "伴侣因我优柔寡断而感到沮丧、对我表达不满",
+          "conditional_assumptions": "如果我做不到迅速而正确的决定，就说明我不成熟、很糟糕",
+          "compensatory_strategies": "避免做决定或让他人来定，以减少被评价的风险",
+          "automatic_thoughts": "他一定认为我很糟糕、不会做决定",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在日常生活中被问到意见或需要做选择（如安排活动、决定做什么饭）",
+          "conditional_assumptions": "如果选项不是完美的，那就是错误；我必须做出正确选择",
+          "compensatory_strategies": "制作利弊清单、不断比较，试图找到“唯一正确”的答案",
+          "automatic_thoughts": "要么选对要么选错，我不能犯错",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回想以往犹豫不决的经历并面对新的选择情境",
+          "conditional_assumptions": "我以往常常做不好决定，所以以后也会如此",
+          "compensatory_strategies": "预先回避选择情境，减少面对决定的次数",
+          "automatic_thoughts": "我总是做不好决定，这次也不会例外",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳、被视为能做出“好决定”的人",
+        "fear": "害怕做错选择被评判、令他人失望并破坏关系",
+        "defense_goal": [
+          "通过回避与拖延决策、让他人来决定来降低被评价与犯错的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "犹豫不决、容易犯错并会被评判的自己",
+          "object_representation": "对方（伴侣/家人）是批判性、容易失望的观察者",
+          "linking_affect": "焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被他人（含咨询师或家人）要求给出明确选择或意见时",
+          "interpretation": "对方在评判我是否做出“正确”的决定，若不完美就会否定我",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以分析性语气罗列利弊、不断比较细节，延长决策过程；尽量不触及感受与不确定性。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对选择时体验到高度压力与责任感，担心错误选择带来后果与他人评判",
+            "将日常小决定视为高风险事件、追求“完美选择”"
+          ],
+          "outcomes": [
+            "回避或拖延做决定",
+            "持续焦虑与自我怀疑",
+            "自尊受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制、苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自责并给自己贴负性标签（“我很糟糕”）",
+            "过度在意他人可能的评判而缩减自发表达"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "未经消化地把外界规则与期望当作自己的标准或绝对真理。",
+          "manifestations": [
+            "以“必须做出正确/完美选择”为标准审视日常决定",
+            "用他人可能的评价作为自我价值衡量"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在计划家庭活动时，来访者通常会犹豫不决、拖延并担心做错选择，导致压力增大并与伴侣产生紧张。",
+          "unique_outcome": "某次决定组织家庭去公园外出时，她没有像往常那样过度纠结细节，而是专注于大家的享受；结果全家度过了愉快的时光，她感到轻松与自信提升。",
+          "reason": "不同理解：将注意力从“完美选择”转向“整体体验与他人享受”；不同做法：更快做出决定、减少反复比较。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的伴侣与成年子女可沟通",
+          "曾有成功组织家庭活动的经验，能转向关注体验",
+          "态度积极、愿意尝试与练习决策"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维主导决策过程",
+          "读心与个人化导致过度在意他人评判",
+          "过度依赖利弊清单与他人意见，形成回避与拖延模式",
+          "自尊受损，负性自我标签（“我很糟糕”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "面对选择时的优柔寡断与回避/拖延伴随明显焦虑",
+          "antecedent": [
+            "餐馆点餐情境（在两种餐食间选择）",
+            "被伴侣或家人询问意见",
+            "需要安排家庭活动或日常任务的选择"
+          ],
+          "core_reason": "对“选错会带来负面后果并被评判”的灾难化与完美化认知，伴随过度关注他人可能看法。",
+          "function": "逃避被评判与犯错的潜在风险，短时缓解焦虑与不确定感。",
+          "consequence": "影响日常任务与安排、与伴侣关系产生紧张；自信与自尊下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 88
+}

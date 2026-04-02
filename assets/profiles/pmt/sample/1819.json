@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "李婉婷",
+      "gender": "女",
+      "occupation": "业余厨师",
+      "educational_background": "自学并有烹饪经验",
+      "marital_status": "恋爱中",
+      "family_status": "独居",
+      "social_status": "有一位亲密朋友支持，但尚未与其讨论烹饪失败感；与女友的关系出现紧张",
+      "medical_history": "无重要躯体疾病；无既往心理治疗经历；既往未出现类似心理问题",
+      "language_features": "表达清晰、能自我反思与描述情绪；配合度较高；情绪低落并倾向自我怀疑与关注负性反馈"
+    },
+    "main_problem": "因为女友不喜欢我在三道菜晚餐中准备的甜点，我觉得自己是个失败的厨师。",
+    "topic": "情绪管理",
+    "core_demands": "该次晚餐事件及随后的失败感显著影响了我的自尊与对烹饪的享受，因此我寻求咨询以获得指导与支持。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败的厨师",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "为女友准备三道菜的晚餐时，女友不喜欢甜点",
+          "conditional_assumptions": "如果甜点这一关键环节不被喜欢，那么整顿饭就是失败，我作为厨师也不合格",
+          "compensatory_strategies": "尝试做更复杂的菜来弥补这次失败，并把更多精力投入甜点以求完美",
+          "automatic_thoughts": "这顿饭是失败的",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在为重要的人烹饪并收到负面反馈时",
+          "conditional_assumptions": "如果重要的人不喜欢某道菜，就说明我不够好，而且这会破坏关系",
+          "compensatory_strategies": "加倍努力、追求完美以避免再次失败",
+          "automatic_thoughts": "她不喜欢甜点等于否定我，这会毁掉我对烹饪的信心",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "同时收到正面与负面反馈（前菜和主菜被喜欢，但甜点被不喜欢）",
+          "conditional_assumptions": "如果出现负面评价，正面反馈就不算数",
+          "compensatory_strategies": "忽视或否定正面反馈，反复思考负评",
+          "automatic_thoughts": "那条负评才是关键，其他好的都不重要",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "准备甜点时因上次经历而持续担忧",
+          "conditional_assumptions": "如果甜点不够完美，就证明我不擅长甜品并且不配当厨师",
+          "compensatory_strategies": "回避向朋友表达失败感，尝试用更复杂的菜来证明自己",
+          "automatic_thoughts": "这次甜点很可能又会失败，我会再次搞砸",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被重要他人（女友）认可与接纳，并通过烹饪获得肯定",
+        "fear": "害怕被拒绝、被否定与被视为不够好",
+        "defense_goal": [
+          "通过加倍努力与追求完美来避免失败与否定，以维持自尊与关系的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易被否定的被评价者",
+          "object_representation": "关键他人（女友）作为挑剔的评判者，其反馈决定我的价值",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当面对负面反馈或被提醒甜点“不被喜欢”的细节时",
+          "interpretation": "将对菜品的否定等同于对整个人的否定（移情：将评价赋予决定自我价值的力量）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以温和、共情的语气验证其情绪；使用开放式问题引导其具体化事实与证据；点亮被忽略的积极面并区分“事件评价”与“自我价值”。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "烹饪曾是减压与成就感来源，但在事件后变成压力与自我怀疑",
+            "将他人评价置于核心，自身对烹饪的内在意义与享受被动摇"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "焦虑与自我怀疑增加",
+            "动机下降与回避烹饪"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "认为“甜点理应是亮点”，一处不完美即视为整体失败",
+            "以他人标准衡量自我价值而非自我体验"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "忽视正面反馈、过度关注负评",
+            "担心被视为软弱而不与支持性的朋友分享感受",
+            "不断自我怀疑并降低烹饪动机"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "曾经在烹饪中体验到创造与成就感",
+          "自学并具有持续精进的动机与经验",
+          "对前菜与主菜获得了正面反馈",
+          "愿意寻求咨询与改变思维模式",
+          "拥有支持性的朋友可作为潜在资源"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、心理过滤与否定积极的思维模式",
+          "自我价值高度依赖他人评价",
+          "强烈的自我批评与羞耻感",
+          "因担忧失败而降低动机与回避分享",
+          "在重要他人面前追求完美导致高压"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在烹饪（尤其甜点）相关情境中出现焦虑与自我怀疑，并降低烹饪动机",
+          "antecedent": [
+            "为重要的人（女友）准备餐食",
+            "想到或回忆女友不喜欢甜点的情节",
+            "准备甜点或面对甜点评价时",
+            "同时收到正面与负面反馈的情境"
+          ],
+          "core_reason": "将一次负面反馈灾难化并过度概括为整体失败，且将他人评价作为决定自我价值的核心标准",
+          "function": "逃避潜在的失败与被否定（负性情绪与关系风险），试图通过回避或完美主义来维持自尊",
+          "consequence": "自尊下降、烹饪动机减少、关系紧张、日常生活愉悦感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1819
+}

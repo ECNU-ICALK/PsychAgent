@@ -1,0 +1,191 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "49",
+      "name": "林娜",
+      "gender": "女性",
+      "occupation": "退休学校教师",
+      "educational_background": "教育学学士学位",
+      "marital_status": "已婚",
+      "family_status": "与丈夫同住，丈夫将于明年退休，无子女",
+      "social_status": "前学生与同事常来探访并给予支持，但目前难以向他们敞开谈及困扰",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗或心理问题相关治疗；以往职业生涯未出现类似心理问题",
+      "language_features": "表达清晰，能识别并描述反复的负性想法；态度积极，愿意合作"
+    },
+    "main_problem": "因为一位前学生没有按约来探访，我感到自己是个无用的老师，进而产生无价值感与自责。",
+    "topic": "情绪管理",
+    "core_demands": "当这些不足感开始影响我的日常生活和对退休计划的享受时，我决定寻求咨询。",
+    "growth_experiences": [
+      "长期担任教师并已退休；在职业生涯中，许多学生曾感谢她、描述其为“投入且让学习有趣、富有意义”，并有不少学生学业表现良好。",
+      "摄影爱好：退休后曾在散步时携带相机拍摄，捕捉美好瞬间会令她感到平静与成就。",
+      "社会支持：有前学生与同事时常来访、给予支持，但她目前难以就当下困扰向他们敞开。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是个无用的老师",
+        "我不重要，不被学生重视"
+      ],
+      "special_situations": [
+        {
+          "event": "一位前学生未按约来探访",
+          "conditional_assumptions": "如果学生不履行承诺，就说明我不重要、我作为教师是失败的",
+          "compensatory_strategies": "试图理性化并提醒自己对其他学生的积极影响，但内心仍反复自责",
+          "automatic_thoughts": "我不是好老师，他们不在乎我",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "回想与前学生的互动或思考自己的教学生涯",
+          "conditional_assumptions": "如果无法持续获得学生的肯定与来访支持，就证明我没有价值",
+          "compensatory_strategies": "反复检视过往经历、试图寻找证据来反驳负性想法（认知重评）",
+          "automatic_thoughts": "我没有真正影响过学生",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到丈夫即将退休带来的生活变化",
+          "conditional_assumptions": "如果没有明确的角色与他人需要，我的价值就会降低",
+          "compensatory_strategies": "提前担忧并反复思考“无所事事”的情境，试图为变化做心理准备",
+          "automatic_thoughts": "我们都会没事做，我会更无用",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "独自散步时被关于教学生涯的负面念头打断日常活动",
+          "conditional_assumptions": "如果我不能证明自己持续被学生支持，那我就是失败者",
+          "compensatory_strategies": "减少散步与摄影，回避触发这些念头的场景",
+          "automatic_thoughts": "我不值得被支持",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被学生与重要他人认可、被看见并被需要（维持作为教师的价值感）",
+        "fear": "害怕被忽视、不被重视，进而体验到无价值与被抛弃的感受",
+        "defense_goal": [
+          "通过自我检视与自责来获得控制感并防止更大的失望",
+          "以理智化方式回避直接感受失落与空虚",
+          "维持外部评价与联系以确保自我价值"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "无用、不被重视的老师",
+          "object_representation": "不守承诺、可能冷漠的学生",
+          "linking_affect": "失望、羞耻、无价值感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当提及那位未按约来访的学生或讨论自己“是否是好老师”时",
+          "interpretation": "将他人的失约理解为对自己的否定，认为“学生不来访＝我没有价值”",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与否定性的表述，语气低落；将不快与失望归咎于自己，避免表达对学生的愤怒或失望。"
+        },
+        {
+          "trigger_condition": "当被邀请关注当下情绪或积极证据时",
+          "interpretation": "把注意力转向列举事实与逻辑，避免触及失落与空虚的感受",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以客观、分析式的语言回应，强调“证据”“逻辑”，淡化情绪用词与感受的描述。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "质疑自己是否真正影响过学生",
+            "把学生一次失约视为对职业意义的否定",
+            "担心退休后无所事事"
+          ],
+          "outcomes": [
+            "无价值感与自我怀疑",
+            "情绪低落",
+            "减少散步与摄影等日常活动",
+            "对与丈夫的关系造成压力"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "感到不被前学生支持或重视",
+            "难以向前学生和同事敞开谈及当前困扰"
+          ],
+          "outcomes": [
+            "失落与被忽视感",
+            "在人际互动中退缩",
+            "主观支持感降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "难以向前学生和同事敞开当前困扰",
+            "将对学生失约的愤怒或失望转向自责和内耗"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁的自我否定（如“我不是好老师”）",
+            "过度从自我价值评估的角度审视人际互动，难以表达真实需要"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "将自身的“不被看见”体验外归因为“他们不重视我”“他们不支持我”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在想到前学生未按约来访或反思教学生涯时，来访者通常会陷入“我是无用的老师”的负性循环，情绪低落并影响散步与生活安排。",
+          "unique_outcome": "在过去的某些散步摄影时刻，来访者没有像往常那样陷入自我否定，而是专注于拍摄并在拍到满意的照片后感到平静与成就。",
+          "reason": "不同做法：开展摄影活动并将注意力转向具体的拍摄任务；不同情境：在户外自然环境中行走拍摄，减少了对教学生涯的反刍；不同理解：将当下体验与结果视为可带来价值与满足的来源。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有前学生与同事的现实支持（经常来访与表达感谢）",
+          "具备能带来成就感的兴趣爱好（摄影）",
+          "能觉察并口述重复的负性想法，愿意寻求帮助并尝试重构认知"
+        ],
+        "negative_force": [
+          "过度个人化与过度概括，易将单一事件视为全面否定",
+          "依赖外部验证来评估自我价值（学生来访/肯定）",
+          "对退休过渡的担忧加重无意义感与自我怀疑",
+          "聚焦负面线索、忽略正面证据（心理过滤）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复的自我否定与无价值感（如“我是无用的老师”）伴随情绪低落",
+          "antecedent": [
+            "前学生未按约来探访的事件回想",
+            "想到或谈论教学生涯与与前学生的互动",
+            "想到丈夫即将退休的生活变化",
+            "独自散步时出现关于职业的负面念头"
+          ],
+          "core_reason": "将他人的一次失约个人化并过度概括，自我价值过度依赖外部肯定；对退休过渡引发的无意义感与不确定性缺乏内在调节框架",
+          "function": "逃避面对失落与无意义的情绪，通过自责与标签化获得暂时的控制感与解释；寻求外部认可以缓解不安",
+          "consequence": "日常散步与摄影减少，退休生活满意度下降；与丈夫关系受影响；持续的情绪低落与自我怀疑"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 576
+}

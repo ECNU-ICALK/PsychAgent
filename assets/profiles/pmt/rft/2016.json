@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "58",
+      "name": "叶欣",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；其余未提及",
+      "language_features": "表达清晰、逻辑性较好；语速平稳；配合度高、愿意改变；倾向自我怀疑与过度谨慎；情绪略紧张但可控"
+    },
+    "main_problem": "我倾向于否定自己或经历中的积极方面，导致自我无效感和自我怀疑。这种否定的模式长期存在，并在社交情境或谈论兴趣偏好时尤为明显。",
+    "topic": "人际关系",
+    "core_demands": "我希望能在不感到内疚的情况下识别并欣赏自己的积极面，提升自信，并与他人建立真诚的连接。",
+    "growth_experiences": [
+      "童年时期被灌输“显得自大或寻求注意是不被认可的特质”的规则与评价，这类信息长期影响了自我表达与自我评价的方式，使我在成年后形成“表达积极面=炫耀”的担忧，并在社交中易产生被评判的恐惧与对赞美的回避。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不值得被赞赏",
+        "表达自己的积极面会招致他人的负面评价"
+      ],
+      "special_situations": [
+        {
+          "event": "在社交场合谈及自己喜欢结交新朋友时",
+          "conditional_assumptions": "如果表达自己的喜好与渴望，就会显得在炫耀或寻求注意",
+          "compensatory_strategies": "轻描淡写或否定积极陈述，避免直接表达真实喜好",
+          "automatic_thoughts": "这话很蠢，大家都喜欢交朋友，我不该说出来",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "朋友称赞我完成的项目时",
+          "conditional_assumptions": "如果接受称赞会被认为自负或自我吹嘘",
+          "compensatory_strategies": "立即贬低项目并拒绝夸奖，以示谦逊",
+          "automatic_thoughts": "他们只是客套，项目并不怎么样",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在与他人讨论自己的兴趣和偏好时",
+          "conditional_assumptions": "表达个人兴趣会被解读为在吸引注意或炫耀",
+          "compensatory_strategies": "回避谈论个人喜好，尽量保持低调与中性表述",
+          "automatic_thoughts": "我不该谈论自己的喜好，别人会觉得我在卖弄",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在被关注或接收赞美的情境中",
+          "conditional_assumptions": "我应该保持谦逊，接受赞美就等于自大",
+          "compensatory_strategies": "以规则化语言约束自己，拒绝或淡化赞美",
+          "automatic_thoughts": "我不该接受赞美",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见、被认可，并能自在地表达真实的自己",
+        "fear": "害怕被他人评判为自大或爱出风头，从而遭到拒绝或负面评价",
+        "defense_goal": [
+          "通过贬低自我与回避赞美来保持安全感",
+          "维持低调以避免引发他人的负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要谨慎自我表达、易被评判的个体",
+          "object_representation": "随时可能挑剔或贴标签的审视者/评判者",
+          "linking_affect": "羞愧、焦虑、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人给予赞美或关注时",
+          "interpretation": "对方只是客套，若接受赞美会被视为自大（移情：将他人视为苛刻评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以自贬和强调不足的方式回应赞美，语气轻描淡写，突出瑕疵以否定夸奖。"
+        },
+        {
+          "trigger_condition": "在社交场合需要表达个人兴趣或积极愿望时",
+          "interpretation": "认为表达自我会被他人解读为炫耀（移情：把他人当作挑剔的评判者）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "使用概念化、抽象的语言，尽量避免情感词；将个人偏好描述为“普遍现象”，以降低自我暴露。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在社交场合因害怕被评判而撤退或保持低调",
+            "难以在被赞美时承认自己的努力与价值",
+            "难以自在地表达真实兴趣与偏好"
+          ],
+          "outcomes": [
+            "自我怀疑与低自尊",
+            "人际连接浅、难以建立深层关系",
+            "社交焦虑与不适感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交中对自我表达过度谨慎，频繁使用“我不该/不配”之类的内在规则约束自己",
+            "收到赞美时先自检是否显得自大，随后选择否认或淡化"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "把他人对赞美的善意理解为“只是客套”",
+            "预设他人会把自己的表达解读为炫耀，从而提前自我否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并投入改变，动机明确",
+          "拥有少数可信赖的朋友资源",
+          "能够识别并描述自身的思维模式",
+          "曾尝试在生活中自我挑战负性思维",
+          "愿意实践现实检验与行为实验"
+        ],
+        "negative_force": [
+          "长期的否定积极（Disqualifying the Positive）与过度泛化",
+          "对被评判为自大的强烈担忧，过分在意他人看法",
+          "社交场合回避自我表达，导致连接受限",
+          "自信不足与自我怀疑",
+          "倾向以规则化语言约束自我（“不该接受赞美/不该表达”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在收到赞美或认可时立即贬低并拒绝",
+          "antecedent": [
+            "他人对其项目或表现的称赞",
+            "被他人关注、被认可的时刻"
+          ],
+          "core_reason": "成长中被灌输“不可自我炫耀/不可寻求注意”的规则，担心接受赞美会被视为自大并遭到评判",
+          "function": "逃避被负面评价与羞耻感，维持心理安全与自我形象的一致性",
+          "consequence": "自尊降低、积极体验被剥夺、难以建立深层人际连接"
+        },
+        {
+          "behavior": "在社交情境中回避表达真实兴趣与积极愿望",
+          "antecedent": [
+            "与他人讨论个人兴趣或偏好",
+            "结识新朋友、需要自我介绍的场合"
+          ],
+          "core_reason": "将自我表达与“炫耀/寻求注意”等同，害怕被他人贴上负面标签",
+          "function": "避免引发他人评判，降低社交风险与不适",
+          "consequence": "人际互动流于表面、孤独感增加、整体幸福感下降"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2016
+}

@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "13",
+      "name": "格蕾丝·雷诺兹",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "本科",
+      "marital_status": "未婚",
+      "family_status": "与父母和兄弟姐妹同住",
+      "social_status": "拥有支持性的朋友群体和亲密的家庭，但尚未与他们讨论关于旅行的焦虑",
+      "medical_history": "未曾出现类似问题；既往未接受心理治疗；无重大躯体疾病",
+      "language_features": "对话中表达清晰、逻辑性较好；配合度高、态度积极；能进行自我反思"
+    },
+    "main_problem": "因无法旅行而感到不堪重负和焦虑，担心这正在影响我的心理健康。",
+    "topic": "情绪管理",
+    "core_demands": "由于旅行限制导致的室内困顿与焦虑加剧，寻求咨询以更好地管理心理健康。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "无法旅行会毁掉我的心理健康",
+        "没有旅行，生活会变得无聊且不充实"
+      ],
+      "special_situations": [
+        {
+          "event": "COVID-19 疫情导致的旅行限制实施",
+          "conditional_assumptions": "如果我不能自由旅行，我的心理健康就会受损，生活也会变得没有意义",
+          "compensatory_strategies": "通过分散注意力和正念练习来缓解焦虑",
+          "automatic_thoughts": "我可能再也不能旅行了；这会毁了我的心理健康",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在社交媒体上看到他人旅行或谈论旅行计划",
+          "conditional_assumptions": "如果别人能旅行而我不能，说明我在生活中错过了重要体验",
+          "compensatory_strategies": "减少与亲友讨论焦虑、独自承受；尝试分散注意力",
+          "automatic_thoughts": "我不如他们；我的生活正在远离我",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "长期被困在室内、无法进行户外探索",
+          "conditional_assumptions": "如果一直待在室内，我的人生会一直无聊且不充实",
+          "compensatory_strategies": "尝试用其他在家活动填充时间以转移注意力",
+          "automatic_thoughts": "我会一直被困在室内，生活很无聊",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望自由探索、获得充实与活力（通过旅行）",
+        "fear": "害怕被限制与困住，生活失去意义并导致心理健康受损",
+        "defense_goal": [
+          "通过不与他人谈论焦虑来维持表面稳定",
+          "以分散注意力和正念压制焦虑体验"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被限制、无助的被困者",
+          "object_representation": "自由且在旅行的人群（令我感到被排除）",
+          "linking_affect": "焦虑、羡慕、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当想到要向家人或朋友谈及自己的旅行相关焦虑时",
+          "interpretation": "他们可能不会理解或不重视，因此我需要自己处理情绪",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
+          "response_instruction": "以简短、礼貌的方式回应，避免透露细节；转移话题到学习或日常安排，强调“我能自己处理”，保持一定距离感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "疫情期间旅行限制导致无法外出探索，主观体验为“被困在室内”"
+          ],
+          "outcomes": [
+            "焦虑加剧",
+            "易怒与坐立不安",
+            "睡眠与饮食紊乱",
+            "人际关系紧张",
+            "学业受影响"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为没有旅行生活会无聊且不充实"
+          ],
+          "outcomes": [
+            "持续担忧与焦虑",
+            "注意力下降",
+            "睡眠与饮食习惯被打乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己",
+          "manifestations": [
+            "没有向家人朋友表达旅行相关的焦虑，选择独自承受",
+            "在焦虑来临时转而自我压抑、用分散注意力或正念自我调整"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友群体与亲密家庭（潜在支持资源）",
+          "态度积极，愿意尝试策略（分散注意力、正念）",
+          "具备自我反思能力，能够采纳更为平衡的观点"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维，担忧“永远无法旅行”",
+          "过度概括与社会比较（看到他人旅行时自我贬低）",
+          "回避与重要他人沟通，独自承受焦虑",
+          "长期室内困顿导致生理节律紊乱（睡眠、饮食）并影响学业"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕无法旅行的持续焦虑与反复担忧",
+          "antecedent": [
+            "想到疫情期间的旅行限制",
+            "在社交媒体上看到他人旅行或谈论旅行计划"
+          ],
+          "core_reason": "将旅行与心理健康和生活意义直接等同，并灾难化地预测未来“无法再旅行”",
+          "function": "逃避不确定性与失控感，试图通过担忧维持心理上的警觉与控制",
+          "consequence": "学业表现受影响、人际关系紧张、睡眠与饮食被打乱"
+        },
+        {
+          "behavior": "不向家人和朋友表达与旅行相关的焦虑",
+          "antecedent": [
+            "感到焦虑或被问及近况时",
+            "考虑是否向家人朋友谈及焦虑时"
+          ],
+          "core_reason": "倾向独自处理情绪（未与支持系统讨论旅行焦虑）",
+          "function": "避免暴露脆弱、暂时减少外部压力与不适",
+          "consequence": "支持系统难以介入，焦虑持续并影响关系"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1198
+}

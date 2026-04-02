@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39岁",
+      "name": "周伟",
+      "gender": "男",
+      "occupation": "暂未就业",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "社交意愿下降、结识新朋友的动力减弱；有一位提供实际支持的朋友，但不愿与其讨论个人感受",
+      "medical_history": "有肢体残疾（无法行走），无其他显著躯体疾病；此前无心理问题就诊/治疗史",
+      "language_features": "表达清楚，能描述自动化思维与情绪；态度中性且带有怀疑，但愿意合作与探索"
+    },
+    "main_problem": "我想讨论的主要问题是：我相信我的残疾会阻碍我找到伴侣，这一信念导致我感到孤独和悲伤。",
+    "topic": "人际关系",
+    "core_demands": "我之所以现在寻求咨询，是因为我注意到这个信念已显著影响我的日常生活和总体幸福感。",
+    "growth_experiences": [
+      "三年前经历了一段感情的结束，由此触发了“因为残疾找不到伴侣”的信念；此后在约会中的多次不顺利强化了该信念，看到幸福情侣或想到未来时负面情绪更强烈（孤独、悲伤）。",
+      "长期存在的身体残疾导致无法行走；在社交与亲密关系领域，周伟倾向将残疾视为主要障碍，逐渐减少社交与自我照顾。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是有缺陷的，因此不值得被爱",
+        "我注定找不到伴侣"
+      ],
+      "special_situations": [
+        {
+          "event": "在街上或社交媒体上看到幸福的情侣",
+          "conditional_assumptions": "如果别人都有伴侣而我没有，就说明我的残疾决定了我不可能拥有亲密关系",
+          "compensatory_strategies": "减少社交、避免去认识新朋友以规避比较与可能的拒绝",
+          "automatic_thoughts": "我永远找不到伴侣；我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试约会但不顺利（如网络约会受挫）",
+          "conditional_assumptions": "如果一次约会失败，原因一定是我的残疾；一次失败就意味着以后都会失败",
+          "compensatory_strategies": "短暂尝试后迅速退缩，减少继续尝试约会的频率",
+          "automatic_thoughts": "果然没有人会愿意和像我这样的人在一起",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到自己的未来与亲密关系",
+          "conditional_assumptions": "如果我现在找不到伴侣，将来也不会找到；孤独会一直持续",
+          "compensatory_strategies": "降低投入、减少自我照顾以避免再度失望",
+          "automatic_thoughts": "我会一直孤独下去",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "回想三年前那次分手经历",
+          "conditional_assumptions": "如果关系破裂，说明我本质上不值得被爱，且残疾是关键原因",
+          "compensatory_strategies": "回避亲密与情感投入以避免再次被拒与受伤",
+          "automatic_thoughts": "那次分手证明了我没有希望",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳与被爱，建立稳定的亲密伴侣关系",
+        "fear": "害怕因残疾被拒绝、被贬低并持续孤独",
+        "defense_goal": [
+          "通过回避社交与亲密来降低被拒绝的风险",
+          "以悲观预期和自我贬低来降低失望感、获得伪控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、不值得被爱的个体",
+          "object_representation": "可能会评判或拒绝自己的他人/潜在伴侣",
+          "linking_affect": "羞耻、无望、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出进行现实检验、邀请查看与信念相反的证据时",
+          "interpretation": "认为咨询师可能在否定自己的现实感受，并坚信“证据都支持我的看法”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以客观证据的口吻坚持“事实如此”，语气礼貌但保留，弱化对新观点的接纳。"
+        },
+        {
+          "trigger_condition": "当咨询师将朋友的支持与个人优点作为积极证据时",
+          "interpretation": "认为友谊中的支持与恋爱无关，从而与情感保持距离",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "使用概念区分（如“友情≠恋爱”），语气平静，拉开情感距离以避免被触动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "分手后长期感到孤独与悲伤",
+            "看到幸福情侣时痛苦加剧",
+            "认为残疾导致无法建立亲密关系"
+          ],
+          "outcomes": [
+            "日常孤独感持续",
+            "无望与自卑感增加",
+            "减少社交与自我照顾"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "因身体残疾无法行走，主观体验到“被限制、被阻碍”",
+            "将残疾理解为影响恋爱选择与机会的核心障碍"
+          ],
+          "outcomes": [
+            "回避外出与社交，感到选择受限",
+            "对未来形成悲观、宿命式预期"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在谈及约会挫折时，预设潜在伴侣会因为自己的残疾而拒绝（缺乏直接证据）",
+            "看到情侣时自动判断自己不会被接纳，将他人的假想评价内化为事实"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在与他人建立亲密关系的情境下，周伟通常会因“没人会要我”的想法而减少社交并退缩，进一步加剧孤独。",
+          "unique_outcome": "在与一位长期支持他的朋友的关系中（如那次朋友买车赠与），他体验到被重视与被接纳，关系稳固且积极，呈现出与主导故事不同的连结经验。",
+          "reason": "不同支持：朋友提供持续的情感与实际支持；不同理解：朋友欣赏他“善于倾听、幽默”；关系不同：非浪漫关系降低评价焦虑，使其更能接收正向反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友网络（朋友给予重大实际支持，如赠车）",
+          "具备被他人认可的优点（善于倾听、有幽默感）",
+          "愿意寻求帮助并尝试新方法（求助咨询、阅读治疗书籍）",
+          "能在咨询中进行反思并愿意逐步尝试现实检验"
+        ],
+        "negative_force": [
+          "根深蒂固的负性核心信念（“我有缺陷/我注定找不到伴侣”）",
+          "灾难化、过度概括、读心术等认知歪曲维持问题",
+          "社交回避与自我照顾下降，减少正向经验的获得",
+          "对被拒绝与羞耻的恐惧",
+          "失业与独居状态减少日常社交接触与外界反馈"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交与约会回避",
+          "antecedent": [
+            "看到幸福情侣",
+            "尝试约会不顺利",
+            "想到关于未来的负面预期"
+          ],
+          "core_reason": "相信“残疾将阻碍我找到伴侣”，为避免被拒与羞耻而回避",
+          "function": "逃避不受欢迎的结果（被拒绝、被比较）与情绪痛苦",
+          "consequence": "减少结识新人的机会，孤独维持或加重"
+        },
+        {
+          "behavior": "自我照顾与日常活动投入减少",
+          "antecedent": [
+            "反复出现的孤独与悲伤",
+            "在社交与约会受挫后的无望感"
+          ],
+          "core_reason": "认为努力也无用的无望体验，导致动力下降",
+          "function": "短期内减少面对失败与失望的痛苦",
+          "consequence": "日常功能受损、心境低落维持或恶化"
+        },
+        {
+          "behavior": "反复进行负性自我对话（灾难化、读心术、过度概括）",
+          "antecedent": [
+            "看到情侣",
+            "约会挫折",
+            "回想分手经历",
+            "思考未来"
+          ],
+          "core_reason": "负性核心信念被激活，自动化思维主导信息加工",
+          "function": "通过悲观预期获得伪控制感，避免再次抱有希望后失望",
+          "consequence": "无望与自卑感强化，进一步削弱社交尝试与自我照顾"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 455
+}

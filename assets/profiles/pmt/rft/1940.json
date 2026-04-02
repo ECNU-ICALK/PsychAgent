@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "41",
+      "name": "明凯",
+      "gender": "男",
+      "occupation": "果昔店员工",
+      "educational_background": "就读本地大学（在读）",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "与同事关系：自事件后疏远；社交支持：有几位亲密朋友可倾诉，但尚未与他们讨论此次事件。",
+      "medical_history": "此前未出现类似心理问题；未接受心理治疗或咨询；无重大躯体疾病。",
+      "language_features": "紧张但愿意求助与配合；表达清晰、逻辑较好；能够反思与自我检视；存在自我批评倾向；语速与语言风格未提及。"
+    },
+    "main_problem": "因为今天在工作中把一位顾客的订单弄错了，我觉得自己是个糟糕的员工，产生了无能感与自责，并持续反复回放该错误。",
+    "topic": "职业发展",
+    "core_demands": "此次工作事件触发了强烈的负面情绪与自我批评，希望通过咨询来应对并缓解这些感受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的员工",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "在工作中把顾客的订单弄错，被经理发现并当场纠正",
+          "conditional_assumptions": "如果我在工作中犯错，就说明我不称职、不适合这份工作",
+          "compensatory_strategies": "强迫自己更加谨慎、反复检查订单以避免再犯错",
+          "automatic_thoughts": "我就是个糟糕的员工",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "经理未多说话、表情严肃并迅速处理错误",
+          "conditional_assumptions": "如果上级没有正面反馈或显得不高兴，就代表他们对我失望并认定我无能",
+          "compensatory_strategies": "与同事保持距离，避免被评价；回避与经理沟通",
+          "automatic_thoughts": "她一定觉得我不称职，我让她失望了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "事后不停回想这次错误，忽略以往自己在工作中的良好表现",
+          "conditional_assumptions": "一次错误足以否定我过去的能力与表现",
+          "compensatory_strategies": "持续聚焦错误细节来提醒自己避免再犯",
+          "automatic_thoughts": "这次错误说明我不行",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "想到未来继续与顾客互动或再次上班",
+          "conditional_assumptions": "这次犯错意味着我以后会不断犯错并让所有人失望",
+          "compensatory_strategies": "过度谨慎、反复核对以试图预防所有错误",
+          "automatic_thoughts": "我以后会一直出错，会让大家失望",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被上级与同事认可、被视为称职并得到接纳",
+        "fear": "害怕被批评、被视为无能、被拒绝或失去信任",
+        "defense_goal": [
+          "通过与同事保持距离来减少被评判的风险",
+          "通过自我批评与过度谨慎来维持控制与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易犯错的员工",
+          "object_representation": "沉默但可能失望与评判的管理者",
+          "linking_affect": "羞愧、焦虑、自责"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈到经理当场纠正订单且未明确表态，或面对他人沉默/严肃表情时",
+          "interpretation": "将对方的沉默解读为对自己失望，认为自己被视为无能（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气温和与尊重，先验证来访者的感受，再以开放式提问区分感受与证据，邀请其生成其他可能解释；避免评判与对抗。"
+        },
+        {
+          "trigger_condition": "当反复回想错误并体验强烈羞愧时",
+          "interpretation": "把本应指向情境的失望/怒气转向自身，认为“都是我的错”",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用支持性与共情的语气；帮助区分外部与内部责任边界；鼓励自我同情与可行的改进计划，降低自我惩罚。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "自事件后与同事保持距离",
+            "尚未向亲密朋友倾诉此次事件",
+            "在工作场景中感到与他人隔离"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "自我怀疑",
+            "工作动力下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与给自己贴标签（“我是糟糕的员工”）",
+            "在工作中过度谨慎、反复核对以避免再犯错",
+            "担心被评价而压抑真实感受"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "与同事保持距离、不主动沟通求助",
+            "将对经理的担心和不满转为自我批评与羞愧",
+            "不与朋友讨论事件而独自承受压力"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "通常工作认真谨慎、错误较少（具备基本的岗位能力与策略）",
+          "愿意求助并参与咨询，能够反思自己的思维模式",
+          "具备一定的社会支持（有几位亲密朋友）",
+          "能考虑多种可能解释，开放于证据与反馈"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维倾向",
+          "读心术与预测未来导致过度担忧",
+          "自我标签化与过度自责",
+          "因害怕被评价而与同事疏离，减少外部支持",
+          "对被批评的恐惧影响工作表现与情绪"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自责与否定自我（将一次错误等同于不称职）",
+          "antecedent": [
+            "想到当天的工作错误",
+            "看到经理当场纠正订单且未明确评价",
+            "与顾客互动或准备上班时"
+          ],
+          "core_reason": "灾难化、非黑即白思维与读心术；对被批评的恐惧与羞愧感驱动自我惩罚式思考",
+          "function": "逃避被他人负面评价的风险、通过自我惩罚来获得控制感",
+          "consequence": "情绪低落与焦虑；工作表现受影响；持续反刍错误、自我效能感下降"
+        },
+        {
+          "behavior": "与同事保持距离、回避沟通求助",
+          "antecedent": [
+            "工作中发生错误之后的班次与休息时间",
+            "担心被认为不称职或被经理失望"
+          ],
+          "core_reason": "羞愧与个人化倾向，将他人可能的反应解读为对自身的负面评价",
+          "function": "逃避被评价与被批评的潜在不适",
+          "consequence": "人际支持减少、孤独感增加；焦虑与自我怀疑维持甚至加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1940
+}

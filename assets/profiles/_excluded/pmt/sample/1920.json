@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "陈静雯",
+      "gender": "女",
+      "occupation": "遛狗员",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "社交支持有限；最好的朋友在日本，身边缺少可面对面倾诉的人",
+      "medical_history": "无类似问题史；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "开场紧张、略显不确定但表达清晰；能举例并自我观察，配合度高；倾向自责与寻求保证；夜间反刍焦虑影响睡眠"
+    },
+    "main_problem": "我经常觉得自己是个糟糕的遛狗员，尤其当我注意到我带的狗出现任何不适迹象时。",
+    "topic": "职业发展",
+    "core_demands": "我决定来咨询，因为这种自我不足感已经开始影响我的工作表现并加剧了焦虑。",
+    "growth_experiences": [
+      "约六个月前的一次经历：遛狗结束后其中一只狗显得非常疲惫。此后每当看到犬只不适（如喘气、无精打采），陈静雯都会自动将原因归结为自己的失误，逐渐形成持续的自我怀疑与焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的遛狗员",
+        "出现问题一定是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "一次遛狗后看到狗大口喘气",
+          "conditional_assumptions": "如果狗在遛完后出现任何不适，必然是我操作不当导致",
+          "compensatory_strategies": "缩短路线、降低强度、在途中频繁检查狗的状态并过度自我监控",
+          "automatic_thoughts": "我把狗弄坏了；我是个糟糕的遛狗员",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "狗在散步后显得没有平常有活力",
+          "conditional_assumptions": "如果狗没有持续兴奋，就说明我不称职",
+          "compensatory_strategies": "回避稍具挑战的路线，并在事后长时间反刍寻找自己的错误",
+          "automatic_thoughts": "这肯定是我做错了",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "高温天气或行程较长后，狗出现喘气或疲惫",
+          "conditional_assumptions": "专业的遛狗员应当避免任何不适，否则就是失败",
+          "compensatory_strategies": "自责并在之后的遛狗中过度谨慎，反复调整步速以避免任何异常",
+          "automatic_thoughts": "糟了，会出大问题，都是我造成的",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "从狗主人处收到积极反馈或感谢",
+          "conditional_assumptions": "如果反馈不是100%由客观证据支持，就不可信",
+          "compensatory_strategies": "继续向主人反复确认表现，并否定积极反馈的价值",
+          "automatic_thoughts": "他们只是客气，这不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为合格、可靠的遛狗员，并确保犬只安全无虞",
+        "fear": "害怕自己不称职、会伤害到狗并被认为无能",
+        "defense_goal": [
+          "通过自责与过度自我监控来获得控制感",
+          "通过向狗主人反复寻求保证来降低被指责的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、随时会犯错的服务提供者",
+          "object_representation": "挑剔、评判性的狗主人（需要我不断证明能力）",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注情绪体验，或讨论“感觉”和不确定性时",
+          "interpretation": "认为只谈感受会显得不专业、不负责任，必须用数据证明自己",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "先肯定其求证愿望与专业心，语气温和；在继续数据记录的同时，邀请以1-10量表标注当下情绪与身体感受，逐步连接情绪。"
+        },
+        {
+          "trigger_condition": "当咨询师指出外部因素（天气、路线长度等）可能影响狗的状态并探讨责任边界时",
+          "interpretation": "感觉这是在为自己开脱，若不把责任全揽在身上就会被视为不负责任",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "保持支持与不评判，使用苏格拉底式提问区分可控与不可控因素；强化“共同承担/系统因素”的视角，减少过度自责。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居、无兄弟姐妹",
+            "最好的朋友在日本，身边缺少可面对面支持",
+            "遇到工作困扰时缺乏即时倾诉与情感承载"
+          ],
+          "outcomes": [
+            "焦虑加剧与夜间反刍",
+            "频繁向狗主人寻求保证",
+            "自我价值过度依赖外部评价"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "会谈开场紧张，不确定从何说起，担心自己“说不好”",
+            "反复自我怀疑与自责，强调“我做错了什么”",
+            "偏好用数据与证据讨论以避免情绪暴露",
+            "倾向向他人（狗主人/咨询师）寻求再保证"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "热爱工作、关心犬只安全（内在动机充足）",
+          "能够识别多种影响因素（温度、步程、时间段、饮食等）",
+          "愿意尝试行为实验与记录数据（改变意愿与执行力）",
+          "来自狗主人的积极反馈多次出现"
+        ],
+        "negative_force": [
+          "自我怀疑显著，倾向将不适完全归因于自己（个人化）",
+          "否定积极信息、过度关注负面迹象（心理过滤）",
+          "频繁寻求保证，维持焦虑循环",
+          "夜间反刍影响睡眠，降低次日功能",
+          "线下社交支持有限，缺少情绪疏导通道"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在遛狗后或看到狗不适时频繁向狗主人寻求保证",
+          "antecedent": [
+            "狗在散步后喘气",
+            "狗显得疲惫或不活跃",
+            "与狗主人交接时谈及当次遛狗情况"
+          ],
+          "core_reason": "将犬只的不适完全归因于自己并害怕不称职被评判",
+          "function": "获得外部安慰以暂时降低焦虑与不确定感",
+          "consequence": "与狗主人的关系受影响、被视为不自信；强化自我怀疑与依赖外部评价，焦虑循环持续"
+        },
+        {
+          "behavior": "睡前反复反刍当天遛狗细节并焦虑，导致入睡困难",
+          "antecedent": [
+            "夜间独处",
+            "回想当天遛狗中犬只的不适迹象"
+          ],
+          "core_reason": "对错误零容忍与自我否定，希望通过过度思考获得控制感",
+          "function": "试图通过不断回想找到“问题所在”以预防下次出错",
+          "consequence": "睡眠受损，次日精力下降与自信进一步降低，工作表现受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1920
+}

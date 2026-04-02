@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "53",
+      "name": "陈瑾",
+      "gender": "女",
+      "occupation": "退休",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "与丈夫同住于乡村地区",
+      "social_status": "有几位朋友可进行日常交流，但未向朋友谈及其负性思维；与丈夫的关系因其负性思维与反应出现紧张",
+      "medical_history": "无显著躯体疾病；无既往心理问题和治疗史",
+      "language_features": "表达清晰、思路连贯，能自我反思与配合，情绪体验可被识别与表达，语气中性略显焦虑"
+    },
+    "main_problem": "倾向忽视积极、聚焦负面并将个别不如意泛化为整体失败；如为丈夫做晚餐时若其中一道甜点不合口味，便把整餐评价为“灾难”。退休后该模式更突出，导致对做饭与各类活动产生焦虑与回避。",
+    "topic": "情绪管理",
+    "core_demands": "“我想找到方法，阻止这些负面想法占据生活的乐趣；希望改善情绪和与丈夫的关系。”",
+    "growth_experiences": [
+      "近几年逐渐出现并强化的负性思维模式：在事件中忽视积极、聚焦负面并贴上整体失败标签；退休后由于希望与丈夫多相处、感觉自己需要在生活各方面表现出色，该模式更为显著。由此在烹饪与社交活动中出现对失败的恐惧、焦虑与回避，影响情绪与关系满意度。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "只有在各方面都表现出色，我才有价值/才值得被认可",
+        "一旦犯错，我就是失败者"
+      ],
+      "special_situations": [
+        {
+          "event": "为丈夫准备了一顿晚餐，他喜欢大部分菜品，但甜点不合口味",
+          "conditional_assumptions": "如果某个环节出了问题，就说明整件事失败，证明我不够好",
+          "compensatory_strategies": "避免再次做饭；过度关注自己的失误；尝试用“想想积极面”来压制失望但效果有限",
+          "automatic_thoughts": "整个晚餐都是灾难；我又失败了",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与丈夫互动时对方对某个细节未明确表达称赞（反应平淡/沉默）",
+          "conditional_assumptions": "如果他没有明确称赞，就说明他不喜欢，说明我做得不好",
+          "compensatory_strategies": "过度关注他人的细微反应并据此评价自己；为避免被否定而减少尝试",
+          "automatic_thoughts": "他不说话就是不喜欢；我做得不够好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在参加或准备社交活动前，预先担心可能出现的小失误",
+          "conditional_assumptions": "只要有一个环节出错，就会毁掉整个活动并被他人否定",
+          "compensatory_strategies": "提前焦虑、回避参加活动以避免失败",
+          "automatic_thoughts": "只要有一点不顺，整个活动就完了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "退休后有更多时间反复琢磨日常互动与细节",
+          "conditional_assumptions": "如果不能在新生活中处处表现优秀，就说明我没有价值",
+          "compensatory_strategies": "不断回想负面细节、忽略积极反馈以逼自己改进",
+          "automatic_thoughts": "我做得还不够好；我不配享受退休生活",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被重要他人（丈夫）认可与亲近，在日常生活中获得肯定与价值感",
+        "fear": "害怕失败被否定、被批评或让对方失望，从而破坏关系",
+        "defense_goal": [
+          "通过追求完美来避免被否定",
+          "通过回避可能失败的活动来降低焦虑与自责"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "苛求完美、害怕失败的“并不够好”的自我",
+          "object_representation": "潜在的评判者（沉默或反应平淡即被解读为否定）",
+          "linking_affect": "焦虑、羞耻、挫败"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "退休后角色与时间结构变化，试图以“在各方面都要做得出色”来维系价值感",
+            "一旦出现小失误即否定整段经历，主观上感到努力“没有意义”"
+          ],
+          "outcomes": [
+            "焦虑增加与回避行为",
+            "与丈夫关系紧张",
+            "对活动与社交的乐趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把“在每个方面都要表现优秀”内化为硬性标准，自我苛求",
+            "以全或无标准评价一顿饭的成败",
+            "将他人的反馈（如丈夫是否称赞）内化为衡量自我价值的核心依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求专业帮助并积极配合，愿意尝试行为实验",
+          "能识别并表达自身的自动化思维与情绪体验",
+          "具备一定的社会支持（有几位朋友可交流）",
+          "与丈夫的互动中存在积极时刻（如大部分菜品被认可）"
+        ],
+        "negative_force": [
+          "完美主义与全或无思维倾向明显",
+          "否定积极与心理过滤，过度关注负面细节",
+          "对他人反应的读心与对外部认可的依赖",
+          "对失败的强烈恐惧导致回避烹饪与活动",
+          "退休后时间增多引发的过度反刍与自我评估"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在烹饪与日常活动中的焦虑与回避",
+          "antecedent": [
+            "在准备做饭或活动前担心可能出现的小失误",
+            "在完成后获得或感知到一点负面反馈（如甜点不合口味）"
+          ],
+          "core_reason": "对失败与被否定的恐惧，加之全或无思维与过度概括，导致将个别差错等同整体失败",
+          "function": "逃避潜在的失败与负性评价，以暂时降低焦虑",
+          "consequence": "减少参与喜爱的活动，生活乐趣下降；与丈夫关系紧张"
+        },
+        {
+          "behavior": "将个别不如意贴上“整体失败/灾难”的评价（言语或内心自评）",
+          "antecedent": [
+            "某个环节未达预期或对方反应平淡/沉默",
+            "社交或与丈夫互动后的自我回顾与反刍"
+          ],
+          "core_reason": "内化的高标准与外部认可取向，伴随否定积极与心理过滤",
+          "function": "通过严苛自评与控制感来防止未来错误（表面上的自我保护）",
+          "consequence": "情绪低落与挫败感增加，进一步加剧焦虑与回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2022
+}

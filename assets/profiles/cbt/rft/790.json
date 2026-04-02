@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "27",
+      "name": "周莉",
+      "gender": "女",
+      "occupation": "职业滑雪运动员（竞速）",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "家庭支持度高，但尚未与家人讨论内在恐惧",
+      "social_status": "未提及",
+      "medical_history": "曾在滑雪中摔断手臂，已完全康复；无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、能具体描述经历与想法；首次来访略显紧张，但配合度高、愿意探索与反思"
+    },
+    "main_problem": "我一直在与自我不足感以及“我可能永远无法赢得滑雪比赛”的恐惧作斗争，即便我经常获得第二名。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些负面想法正在影响我在滑雪比赛中的表现和享受。",
+    "growth_experiences": [
+      "一次滑雪事故导致手臂骨折。尽管身体完全康复，但该事件成为心理层面的重要拐点，之后在比赛相关情境中产生持续的恐惧与自我怀疑；近一次接近胜利的比赛仍获第二名，这进一步强化了“赢不了”的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有赢得比赛的天赋",
+        "我不够好/不够胜任"
+      ],
+      "special_situations": [
+        {
+          "event": "最近一次势均力敌的比赛中获得第二名",
+          "conditional_assumptions": "如果我不是第一名，就说明我不够好、没有天赋",
+          "compensatory_strategies": "通过更严格的自我要求与可视化训练来试图提升表现以赢得冠军",
+          "automatic_thoughts": "你又失败了；第二名不算什么",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "每次比赛开始前的准备阶段",
+          "conditional_assumptions": "如果赛前出现恐惧和怀疑，说明我不适合这项运动、最终也赢不了",
+          "compensatory_strategies": "赛前反复思考与与同伴交流以寻求确认，但仍坚持以“是否夺冠”作为唯一标准",
+          "automatic_thoughts": "我永远赢不了；我没有天赋",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到自己在滑雪的未来时",
+          "conditional_assumptions": "如果未来不能成为冠军，那么现在的努力都没有意义",
+          "compensatory_strategies": "将目标单一地聚焦在“必须夺冠”，忽略过程中的成就与进步",
+          "automatic_thoughts": "如果赢不了，努力没有意义",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "家人和队友对最近比赛的积极反馈与肯定",
+          "conditional_assumptions": "如果我没有夺冠，他人的称赞不算数、不能说明我足够好",
+          "compensatory_strategies": "质疑他人的评价，只以名次作为衡量标准",
+          "automatic_thoughts": "他们只是安慰我；第二名不值得被称赞",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为“胜者”，证明自己有能力与天赋",
+        "fear": "害怕失败与被认为不够好，担心永远无法赢得比赛",
+        "defense_goal": [
+          "通过维持严格的二元化标准（不赢即失败）与自我苛责来试图掌控不确定性、降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的竞争者、随时可能失败的人",
+          "object_representation": "善意但无法真正理解自己内在挣扎的他人（家人/队友）",
+          "linking_affect": "焦虑、羞愧、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师鼓励其关注积极面并重构对第二名的看法时",
+          "interpretation": "认为“不赢就不值得被肯定”，把第二名视为失败（移情：把外界肯定视为不真实）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "采用探询式、温和支持的语气，先共情其对“失败”的主观体验，再逐步引导其区分事实与解释、回到具体证据与进步指标。"
+        },
+        {
+          "trigger_condition": "当被问及是否愿意与支持性的家人讨论比赛恐惧时",
+          "interpretation": "担心家人无法理解或会弱化她的感受，因而选择不表达",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以安全、非评判的方式邀请其识别被压抑的情绪与需要，使用温和开放式问题，允许沉默，鼓励以“我感到……”的陈述练习逐步表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在获得第二名后反复出现“如果赢不了，努力没有意义”的想法",
+            "把胜负视为唯一价值，忽略过程与成长"
+          ],
+          "outcomes": [
+            "赛前与赛后焦虑增强",
+            "睡眠障碍",
+            "比赛的享受感下降、动力受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "拥有支持性家庭但不与其讨论内在恐惧与自我怀疑",
+            "在团队积极反馈下仍难以接纳认可，内在体验与外界评价割裂"
+          ],
+          "outcomes": [
+            "主观支持感低于客观支持水平",
+            "自我怀疑持续、负性自我评价维持"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须夺冠才算好”为绝对标准",
+            "将“第二名=失败”内化为自我评判规则，忽视其他正向证据（如个人纪录提升）"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不向家人表达恐惧与担忧，将压力与自责转向自身",
+            "在焦虑时更自我批评而非寻求外部支持"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "家庭支持度高",
+          "在高水平竞争中多次获得第二名，具备稳定竞技水平",
+          "赛后能识别到个人纪录提升与进步",
+          "主动寻求咨询、尝试可视化与与同伴交流"
+        ],
+        "negative_force": [
+          "非黑即白的完美化标准（不赢即失败）",
+          "过度概括与心理过滤，忽略积极证据",
+          "对“永远赢不了”的持续担忧与情绪化推理",
+          "睡眠障碍与焦虑导致状态与表现受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "赛前及赛后出现强烈的自我否定性自动思维与焦虑",
+          "antecedent": [
+            "每次比赛开始前",
+            "比赛结束后尤其是获得第二名时",
+            "想到自己的滑雪职业未来时"
+          ],
+          "core_reason": "滑雪受伤史成为心理拐点后形成“必须夺冠”的僵化评价标准，伴随过度概括、心理过滤与非黑即白思维，导致对自我能力的灾难式解读",
+          "function": "逃避与压制不确定性与失败感，试图通过自我苛责来维持控制与动力",
+          "consequence": "比赛享受度下降、表现受影响，焦虑加剧并持续，强化负性自我概念"
+        },
+        {
+          "behavior": "睡眠障碍（因担忧“永远赢不了”与自我否定思想入睡困难）",
+          "antecedent": [
+            "临近比赛的夜晚",
+            "夜间反复思考“赢不了”的情境",
+            "赛后对名次过度反刍"
+          ],
+          "core_reason": "对失败的过度担心与认知偏差（心理过滤、过度概括、非黑即白）造成高唤醒与持续反刍",
+          "function": "在主观上试图通过思考与预演来获得控制感，但实际加重焦虑",
+          "consequence": "睡眠质量下降、白天疲惫与焦虑增加，进一步影响训练与比赛表现"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 790
+}

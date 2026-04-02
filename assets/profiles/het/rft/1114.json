@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "林曼宁",
+      "gender": "女",
+      "occupation": "咖啡馆服务员",
+      "educational_background": "高中毕业文凭",
+      "marital_status": "未婚",
+      "family_status": "与一只宠物猫独居",
+      "social_status": "人际关系：偏好独处，缺乏亲密关系；社会支持系统较弱，但在需要时可向少数同事寻求帮助。",
+      "medical_history": "无重大躯体疾病；既往未有类似心理问题；未接受过心理治疗/咨询。",
+      "language_features": "表达清晰，能具体描述事件与情绪；配合度高、态度积极；语速平稳；存在自我批评与灾难化倾向。"
+    },
+    "main_problem": "我倾向于对自己的工作表现产生负面想法，尤其是在我犯错（如把订单弄错）时，这导致不足感和自我怀疑。",
+    "topic": "职业发展",
+    "core_demands": "最近在工作中的事件让我意识到这些负面想法正在影响我的工作表现和身心健康，因此我寻求咨询。",
+    "growth_experiences": [
+      "在一次繁忙班次中不小心将两位顾客的订单对调，其中一位顾客很生气并向经理投诉；自此在忙碌时段负面自动思维明显增多，常在尚未犯错前就预测会再出错，担心被解雇；负面思维影响睡眠与饮食，并加重自我怀疑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不胜任工作",
+        "我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "繁忙班次中把顾客订单弄错，顾客向经理投诉",
+          "conditional_assumptions": "如果我犯任何错误，就说明我不胜任工作，并会被他人否定",
+          "compensatory_strategies": "对自己更加严苛，反复担忧与自我批评，试图通过更紧张与持续警觉来避免再次出错",
+          "automatic_thoughts": "我把事情搞砸了，我永远也不会把工作做好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在繁忙时段尚未发生错误前就开始紧张与担忧",
+          "conditional_assumptions": "如果我感到不堪重负，就必然会犯错并引发严重后果",
+          "compensatory_strategies": "提前预演最坏情形、不断自我监控以寻求控制",
+          "automatic_thoughts": "我一定又要出错了，后果会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "顾客表达不满或经理关注错误",
+          "conditional_assumptions": "他人的态度和评价决定我的价值，他们不满就说明我不行",
+          "compensatory_strategies": "加剧自责与紧张、过度自我审查以争取外部认可",
+          "automatic_thoughts": "他们一定觉得我不行/经理在看不起我",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被视为胜任",
+        "fear": "害怕失败被否定甚至被解雇",
+        "defense_goal": [
+          "通过自我苛责与高度谨慎来避免错误和批评，以维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易犯错、需要不断纠正自己的服务员",
+          "object_representation": "挑剔、会否定自己的顾客或经理",
+          "linking_affect": "焦虑、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及或回想工作中的错误、尤其是忙碌班次和他人不满反馈时",
+          "interpretation": "他人会认为我不行，我的价值取决于他们的评价（移情：将外部不满视为对自身整体否定）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "在对话中先承认其自责感受，以温和、支持性的语气回应；使用开放式提问与具体事实核查，避免强化自我攻击；引导其区分事件与自我价值。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "偏好独处，缺乏亲密关系",
+            "社会支持系统较弱，仅在需要时向少数同事求助"
+          ],
+          "outcomes": [
+            "在工作压力情境中缺乏情绪缓冲与支持，负面思维更易循环",
+            "焦虑增加并影响睡眠与饮食"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在叙述错误时频繁自我否定（如“我不够好/不胜任”）",
+            "忙碌时过度谨慎与担忧、不断自我审查",
+            "对潜在批评高度敏感，把他人态度视为自身价值的依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "当工作中出现疏漏时，来访者通常会持续自责并担心再次犯错，导致在后续班次中更加焦虑、表现受影响、睡眠被扰动。",
+          "unique_outcome": "有一次忘记补充咖啡台后遭到顾客不满，她随后建立“定期检查咖啡台”的习惯，类似问题未再发生，并体验到信心提升。",
+          "reason": "不同做法：将错误视为改进线索并实施检查流程；任务拆解与提前准备让她获得可控感，从而减少灾难化与焦虑。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "态度积极、愿意尝试自助策略（深呼吸、正向自我对话、写日记）",
+          "能将错误转化为改进措施（建立检查习惯）",
+          "曾成功应对过忙碌班次的经验可供回忆与强化",
+          "在需要时可向同事寻求帮助"
+        ],
+        "negative_force": [
+          "灾难化、跳结论、过度概括与个人化的认知模式",
+          "自我苛责与低自我价值感",
+          "社会支持薄弱、偏好独处",
+          "压力高时对错误高度敏感，导致睡眠与饮食受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "工作情境中的灾难化担忧与自我否定（如“我不够好/会被解雇”）",
+          "antecedent": [
+            "繁忙班次",
+            "发生或回忆起订单错误",
+            "顾客表达不满或经理关注错误"
+          ],
+          "core_reason": "一次订单错误事件后，将失误泛化为能力不足的核心信念，并对未来以灾难化方式进行预测（担心被解雇/永远做不好）。",
+          "function": "逃避潜在失败与批评以获取控制感与安全感（通过过度担忧和自我监控）。",
+          "consequence": "焦虑增加、工作表现受影响、睡眠与饮食被扰动、社交退缩。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1114
+}

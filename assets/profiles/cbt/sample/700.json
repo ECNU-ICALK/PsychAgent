@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "郭立成",
+      "gender": "男",
+      "occupation": "律师",
+      "educational_background": "法学学位",
+      "marital_status": "最近分居",
+      "family_status": "独自居住",
+      "social_status": "有几位密友，但尚未与他们讨论自我怀疑；分居后社交与支持系统受影响",
+      "medical_history": "无显著既往身心疾病史；无既往心理咨询或治疗史",
+      "language_features": "表达清晰、逻辑性强、配合度高；能识别并描述自身的认知偏差（如否定积极、心理过滤）；态度积极，愿意尝试新方法"
+    },
+    "main_problem": "尽管作为律师赢得了第一个大案，我仍在与自我怀疑和不够好的感受作斗争，并且总是否定自己成就中的积极面。",
+    "topic": "情绪管理",
+    "core_demands": "我真的想改变自己的心态，停止贬低自己的成就。这已经过多地影响到我的工作和个人生活。",
+    "growth_experiences": [
+      "约6个月前妻子离开后开始出现并加重自我怀疑与不够好的感受；分居与工作压力被视为诱因；社交与支持系统受影响（虽有几位密友但未谈及自我怀疑）；日常生活受损（跑步兴趣下降、变得像任务）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不配拥有现在的成功"
+      ],
+      "special_situations": [
+        {
+          "event": "赢下职业生涯中的第一个大案后",
+          "conditional_assumptions": "如果成功并非完美或完全归因于我的能力，那就不算真正的成功，说明我仍然不够好",
+          "compensatory_strategies": "寻求同事的认可、放大瑕疵以自我鞭策，从而避免面对“自己不够好”的威胁感",
+          "automatic_thoughts": "这案子谁都能赢/只是运气好",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "同事对其工作给予表扬时",
+          "conditional_assumptions": "如果别人夸奖我，他们多半只是出于礼貌而非真心；若我接受赞美就会暴露自己的不足",
+          "compensatory_strategies": "贬低、回避内化积极反馈，口头上淡化赞美以保护自我",
+          "automatic_thoughts": "他们只是客套，我其实并没有做得好",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在专业场合、特别是重大成就之后回顾工作",
+          "conditional_assumptions": "只要有任何错误或瑕疵，就说明整体是失败，我就不够格",
+          "compensatory_strategies": "聚焦问题和失误、反复自我批评以逼迫自己更努力",
+          "automatic_thoughts": "有这些失误，我就不配得到称赞",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "婚姻分居后在工作场合出现的自我评价",
+          "conditional_assumptions": "如果伴侣离开了我，说明我不值得被爱，我在其他方面也不够好",
+          "compensatory_strategies": "在工作中过度追求外界认可、用成就证明自我价值",
+          "automatic_thoughts": "她离开是因为我不够好",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与被爱（在亲密关系与职业中被真实地肯定）",
+        "fear": "害怕被否定与被抛弃，担心自身不值得被爱",
+        "defense_goal": [
+          "通过贬低成就与外归因来避免面对被揭穿“并不够好”的恐惧",
+          "寻求外部验证以减轻被拒绝与不被爱的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、随时会露馅的自我",
+          "object_representation": "苛刻的评判者（同事/上级/外界）",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "被遗弃/不被需要的人",
+          "object_representation": "会离开和拒绝自己的重要他人（伴侣）",
+          "linking_affect": "悲伤、无价值感、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当在咨询或工作中收到正面反馈/赞扬时",
+          "interpretation": "认为对方只是出于礼貌或敷衍，真实态度是质疑与否定（移情：将自我不接纳投射到他人）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用轻描淡写或自嘲的语气否定赞美，强调“只是运气/他们太客气”，避免情感接触。"
+        },
+        {
+          "trigger_condition": "当谈及自己的成绩或被要求总结成功要素时",
+          "interpretation": "将成功归因为外部偶然或他人帮助，以维持“我不够好”的内在图式",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "强调外部条件、运气或程序有利，避免谈论自身能力与努力，语气理性克制。"
+        },
+        {
+          "trigger_condition": "当被邀请关注自身感受或积极面（如咨询师聚焦成就体验）",
+          "interpretation": "将情感与事件分离，转向抽象分析以避免脆弱感",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用分析性语言替代情感描述，保持客观语气，回避自我欣赏或脆弱表达。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "婚姻分居后独自居住，社交与支持系统受影响",
+            "有密友却不愿谈及自我怀疑，担心给他人增添负担"
+          ],
+          "outcomes": [
+            "自我价值感降低与自我怀疑加剧",
+            "职业与日常活动动力下降，情绪低落"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "赢得大案却难以内化成就，否定积极反馈",
+            "曾经喜欢的跑步变得像任务，乐趣减退"
+          ],
+          "outcomes": [
+            "快感缺失与成就感丧失",
+            "对工作与生活的投入与信心下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在会谈中谈到他人称赞时认为“只是礼貌”，难以接受积极反馈",
+            "将内心的不接纳归因为他人不真诚"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在描述工作表现时反复自责、放大错误",
+            "对自我表达保持谨慎，担心显得“不够好”"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "具备专业能力并取得客观成就（赢得首个大案）",
+          "态度积极，愿意尝试新方法并进行记录练习",
+          "拥有一定的社会支持基础（有几位密友）"
+        ],
+        "negative_force": [
+          "分居事件导致的被抛弃感与孤独感",
+          "过度依赖外部验证，难以内化积极反馈",
+          "否定积极与心理过滤的认知偏差",
+          "持续的自我怀疑与自我贬低影响工作与日常"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在取得成就后持续自我贬低并否定积极反馈，反复寻求他人认可",
+          "antecedent": [
+            "在专业场合取得显著成就（如赢下大案）",
+            "收到同事或他人的表扬",
+            "回想婚姻分居事件"
+          ],
+          "core_reason": "婚姻分居后自我价值受损，形成“我不够好/不配成功”的负性核心信念，并通过否定积极与心理过滤维持该信念",
+          "function": "避免面对被否定或“露馅”的恐惧，同时通过外部认可短期缓解不安",
+          "consequence": "工作表现与自信受损，兴趣活动（如跑步）乐趣下降，日常功能受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 700
+}

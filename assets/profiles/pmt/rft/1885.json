@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "12",
+      "name": "林浩然",
+      "gender": "男",
+      "occupation": "",
+      "educational_background": "",
+      "marital_status": "",
+      "family_status": "独生子，家中养有3只猫",
+      "social_status": "",
+      "medical_history": "无重要躯体疾病史；此前未有类似问题，未接受过心理咨询/治疗",
+      "language_features": "表达清晰，略显保留，倾向聚焦错误与自我怀疑，配合度尚可"
+    },
+    "main_problem": "我觉得我的舞蹈能力不重要，因为任何有两只脚的人都能做到，这导致我感到被否定并低估自己的能力。",
+    "topic": "自我探索",
+    "core_demands": "我决定寻求咨询，因为这种被否定的感觉开始影响我对舞蹈的享受和我的自尊。",
+    "growth_experiences": [
+      "几年前开始频繁收到对舞蹈的称赞，同时经历搬到新城市（新学校、新朋友、环境骤变）的压力；在此过程中逐渐产生对称赞的不信任与被否定感，认为“任何人都能跳舞”，在被表扬时自我怀疑加重并不断强化。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的优点和成就不算数/不值得被认可",
+        "我不够好，称赞不真实"
+      ],
+      "special_situations": [
+        {
+          "event": "舞蹈汇演结束后，有人当面称赞其表演“很棒/很精彩”",
+          "conditional_assumptions": "如果表演中有任何失误或不完美，就不配得到称赞，称赞一定不真实",
+          "compensatory_strategies": "表面微笑接受，内心贬低积极反馈，回避承认自己的优点",
+          "automatic_thoughts": "他们只是客气，我其实在欺骗他们。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "平时别人夸赞其舞蹈能力时",
+          "conditional_assumptions": "如果别人夸奖，往往只是出于礼貌或社交需要，不可信",
+          "compensatory_strategies": "猜测他人动机、否定正向信息，避免产生正面自我评价",
+          "automatic_thoughts": "他们只是说好听的，并不是真的这么想。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "演出后自我回顾表现，注意到自己出现几处失误",
+          "conditional_assumptions": "有错误就意味着整体表现很一般甚至失败",
+          "compensatory_strategies": "只关注错误与不足，忽略完成好的部分",
+          "automatic_thoughts": "我表现得很尴尬，失误说明我不行。",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "搬到新城市后面对新学校、新朋友和新环境",
+          "conditional_assumptions": "在新环境里如果我感到格格不入，说明我的舞蹈并不特别，也不会被真正认可",
+          "compensatory_strategies": "降低自我评价，对称赞持怀疑，减少舞蹈动机以避免失望",
+          "automatic_thoughts": "在这里我的舞蹈不算什么，大家都能做到。",
+          "cognitive_pattern": "Emotional Reasoning"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地看见与肯定，作为舞者被欣赏",
+        "fear": "害怕称赞不真实、被揭穿为“并不够好”的羞耻与否定",
+        "defense_goal": [
+          "通过贬低正向反馈与聚焦错误来降低被揭穿与羞耻的风险",
+          "保持心理上的安全距离，避免依恋与期待带来的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "有缺陷、可能是“冒牌者”的表演者",
+          "object_representation": "表面友善但不可靠、出于礼貌随口称赞的评判者",
+          "linking_affect": "羞耻、不信任、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人邀请其承认优点、回顾做得好的部分时",
+          "interpretation": "认为承认优点等同自欺，会被他人看穿而更羞耻",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
+          "response_instruction": "语气克制、强调事实与错误细节，弱化情感表达，用“客观分析”来否定积极面。"
+        },
+        {
+          "trigger_condition": "在收到直接称赞或积极反馈时",
+          "interpretation": "将他人的好意理解为礼貌性的虚假夸奖",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以平淡语气表示“大家都会/这不算什么”，用社会礼仪或普遍性解释来淡化称赞。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为“任何人有两只脚都能跳舞”，由此否定自身技能的独特性与价值",
+            "在被称赞时感到像“骗子”，难以体验到被看见与被肯定的意义",
+            "搬家后对自我定位与价值产生动摇，觉得舞蹈“不算什么”"
+          ],
+          "outcomes": [
+            "自尊受损与自我怀疑加重",
+            "舞蹈动机下降、日常作息受影响",
+            "回避接受正面反馈，体验被否定与不真实"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将自己的不接纳归因为“对方只是礼貌/客套”，否定称赞的真实性",
+            "在被表扬时假定他人动机不真诚"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度关注错误与不足，害怕被认为“钓赞”，不愿向朋友表达不安",
+            "在回顾表现时主要强调失误，压低自我肯定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "舞蹈技能得到他人多次正向反馈",
+          "能觉察并表达自身困扰，愿意寻求帮助",
+          "有几位可以倾诉的朋友（虽暂时难以开口）"
+        ],
+        "negative_force": [
+          "否定正向信息的认知风格（Disqualifying the Positive）",
+          "读心式推断他人动机、只关注错误（Mental Filtering）",
+          "搬家与新环境带来的不适与不安全感",
+          "自我怀疑在受表扬情境下加重，影响动机与日常"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在被称赞舞蹈时自动否定积极反馈，产生“像骗子”的感受并减少练习/表演意愿",
+          "antecedent": [
+            "他人对其舞蹈的称赞或积极反馈",
+            "演出结束后的自我回顾",
+            "搬到新城市后面对新环境与新同伴"
+          ],
+          "core_reason": "搬迁与适应压力下自我价值感动摇，形成“否定正面”的认知偏差与对羞耻/被揭穿的担忧",
+          "function": "逃避潜在的羞耻与被揭穿风险，维持“我并不特别”的自我一致感",
+          "consequence": "自尊降低、舞蹈动机下降并影响日常作息"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1885
+}

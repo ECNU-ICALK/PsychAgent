@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "温德琳",
+      "gender": "女性",
+      "occupation": "护理学校学生",
+      "educational_background": "正在攻读护理学位",
+      "marital_status": "单身",
+      "family_status": "原生家庭：独生女；母亲为主日学老师；未提及父亲情况与其他家庭成员",
+      "social_status": "与护理学校的同学与导师关系受其贬低自我成就的倾向影响；与朋友关系较亲近，但尚未就此议题与朋友讨论",
+      "medical_history": "无显著躯体疾病；无既往心理治疗或相关求助经历；此前未报告类似心理问题",
+      "language_features": "表达清晰、配合度良好，能具体举例；在被赞美时倾向于快速转移话题并淡化成就；情绪体验为“压力大、感到不适”；语速与逻辑结构未提及"
+    },
+    "main_problem": "我倾向于贬低自己的成就，尤其是我在芭蕾方面获得的奖项，这使我感到不足并降低我对成功的评价。在收到赞美或认可时尤为明显，影响我的自我价值与动力。",
+    "topic": "个人成长",
+    "core_demands": "希望能不再贬低自己的成就，更加全面、现实地看待与欣赏自己的成功，提升自我价值感与学习动力。",
+    "growth_experiences": [
+      "原生家庭信息：独生女，母亲为主日学老师（其他家庭成员与成长事件未提及）。",
+      "曾在芭蕾方面获得过奖项（具体次数与时间未提及）。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不值得被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在获得芭蕾奖项后被他人赞美与认可",
+          "conditional_assumptions": "如果我的表现不是顶尖或完美，就不值得被认可；他人的赞美可能只是礼貌而非真实评价",
+          "compensatory_strategies": "迅速转移话题、淡化或否定成就，将成功归因于运气",
+          "automatic_thoughts": "这只是运气，任何人都能做到；他们只是客套",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在护理考试中取得良好成绩后收到肯定",
+          "conditional_assumptions": "如果不是满分或远超他人，就说明不够好、不值得自我肯定",
+          "compensatory_strategies": "刻意贬低成绩，不允许自己停留在正面体验中",
+          "automatic_thoughts": "这不算什么，永远不够好",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "朋友或同伴对其在团队中的贡献表达赞赏",
+          "conditional_assumptions": "如果他人比我更优秀，我的贡献就微不足道",
+          "compensatory_strategies": "比较他人的长处并否定自身价值，减少自我表达",
+          "automatic_thoughts": "总有人更好，我的贡献不重要",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在平衡护理学业、个人生活与芭蕾训练的高压力时期",
+          "conditional_assumptions": "如果无法把所有领域都兼顾到高标准，就说明我不够能力",
+          "compensatory_strategies": "加重自我苛责，淡化已取得的进步与成果",
+          "automatic_thoughts": "我配不上这些赞美，不值得被认可",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被真实地看见与认可，期望自己的努力与成就被正当评价",
+        "fear": "害怕被认为不配被认可、被揭穿“只是运气”的感觉，担心他人评价并否定自己",
+        "defense_goal": [
+          "通过否定或淡化成就来保持谦逊与安全感，避免暴露“不配”的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的成就者/学生，容易自我贬低",
+          "object_representation": "他人是礼貌性夸赞者或潜在的严苛评判者",
+          "linking_affect": "不适、焦虑、羞愧"
+        },
+        {
+          "self_representation": "在关系中贡献不足的人",
+          "object_representation": "同伴与导师对自己的赞美不可靠/可能只是敷衍",
+          "linking_affect": "自卑、怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人赞美其芭蕾获奖或学业表现时",
+          "interpretation": "将他人的赞美理解为不真诚的客套，认为自己的成功靠运气（移情：将内在的“不配感”投射到他人的意图）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气温和与共情，使用开放式提问探究其努力与证据，避免直接反驳；邀请具体例子以连接实际付出与成果。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其停留在被赞美的积极感受中",
+          "interpretation": "将停留在积极体验理解为不适与危险，担心暴露“不够好”",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以低强度、循序渐进的方式邀请命名感受，使用短时停留练习与安全界限，逐步扩大对积极体验的容许度。"
+        },
+        {
+          "trigger_condition": "在学习与生活压力增大且需要他人肯定时",
+          "interpretation": "将自我价值系于高标准，认为未达完美即“不够好”",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "减少抽象评判，转向具体化与当下体验的描述；鼓励识别努力的行为证据，并以温和语气连接情感与事实。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对芭蕾获奖与学业成绩的意义感降低，认为“这不算什么/只是运气/任何人都能做到”",
+            "难以停留在自我肯定的体验中，倾向于淡化与否认正面的自我叙事"
+          ],
+          "outcomes": [
+            "自我价值感下降",
+            "动力减弱",
+            "人际关系受影响（与同学与导师的互动变差）",
+            "自我照顾与整体幸福感受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与“接受”对应。",
+          "manifestations": [
+            "在收到赞美时快速转移话题",
+            "对积极反馈不做停留，回避当下的正面体验"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须更好/永远不够”的高标准评判自我",
+            "将完美主义标准当作唯一可被认可的准则"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对自己的贡献与成绩过度苛责",
+            "在关系中低估自我价值，谨慎到难以接受正向反馈"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "在护理学习中的表现尚可（学业功能满意）",
+          "芭蕾方面获得过奖项，具备投入与技能",
+          "与朋友关系亲密，存在潜在支持资源",
+          "主动寻求咨询并愿意尝试改变（动机与开放性）"
+        ],
+        "negative_force": [
+          "倾向于否定与贬低正向结果（Disqualifying the Positive）",
+          "自我要求过高，非黑即白的标准与频繁比较",
+          "在被赞美时感到不适并回避（快速转移话题）",
+          "学业与生活压力增大，导致自我照顾与幸福感下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在获得成就或被赞美时，自动化地贬低与否认自我成就（如称其为运气、快速转移话题）",
+          "antecedent": [
+            "获得芭蕾奖项后被他人赞美",
+            "护理考试取得良好成绩并受到肯定",
+            "朋友或同伴对其贡献表达赞赏"
+          ],
+          "core_reason": "受“我不够好/不值得被认可”的核心信念与高标准比较驱动，为避免暴露“不配”的焦虑而回避正向自我评价",
+          "function": "逃避不适情绪与被评价的感受，维持表面上的安全与谦逊感",
+          "consequence": "自我价值感与动力下降、人际关系受影响、自我照顾与整体幸福感降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1485
+}

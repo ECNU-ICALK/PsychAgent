@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "16",
+      "name": "李莉",
+      "gender": "女性",
+      "occupation": "公司高管职位",
+      "educational_background": "商业学士学位",
+      "marital_status": "已婚",
+      "family_status": "父亲曾经是出租车司机；叔叔曾在佛罗里达的渔船工作",
+      "social_status": "未提及",
+      "medical_history": "无类似问题史；无既往心理治疗经历；无明显躯体疾病",
+      "language_features": "表达清晰、逻辑性较强，能进行自我反思；配合度良好；情绪以内疚和自我怀疑为主，语气平稳"
+    },
+    "main_problem": "在与叔叔分享升职与成功后，由于叔叔反应不如预期而产生内疚与自我怀疑，认为对方把自己看作夸耀和傲慢之人，进而在寻求家人认可的场景中不断自我否定。",
+    "topic": "家庭关系",
+    "core_demands": "这些负性想法影响了自尊和身心健康，我意识到需要专业帮助来处理内疚与自我怀疑。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的人",
+        "我不配拥有并享受自己的成就",
+        "我的价值取决于家人的认可"
+      ],
+      "special_situations": [
+        {
+          "event": "与叔叔分享升职与薪资（收入是其过去的三倍）后，叔叔仅简单回应并迅速转移话题",
+          "conditional_assumptions": "如果别人没有明显的高兴或赞赏，就说明他们在否定我、认为我在炫耀",
+          "compensatory_strategies": "反复检讨并为分享道歉，减少与叔叔交流，避免谈论成就",
+          "automatic_thoughts": "他觉得我在炫耀，我是个坏人",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在与家人互动、寻求对晋升的认可时，反馈不如预期热烈",
+          "conditional_assumptions": "只有得到家人的认可，我的成就才算数",
+          "compensatory_strategies": "不断寻求确认、强调谦逊以避免被认为自夸",
+          "automatic_thoughts": "如果他们不热情认可，就说明我不配这次晋升",
+          "cognitive_pattern": "External Validation"
+        },
+        {
+          "event": "工作中收到积极绩效评估与上司的认可，但因叔叔的冷淡反应而忽视这些正面证据",
+          "conditional_assumptions": "负面或冷淡反馈比正面事实更可信",
+          "compensatory_strategies": "贬低或忽略正向评价，强化自我怀疑",
+          "automatic_thoughts": "这些好评不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "叔叔的反应不如预期，来访者据此判断自己的品格与价值",
+          "conditional_assumptions": "如果别人没有完全肯定我，那就说明我是坏人、在炫耀",
+          "compensatory_strategies": "避免谈论收入与成就、过度道歉以保持“谦逊”形象",
+          "automatic_thoughts": "我做错了，我是坏人",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被家人无条件认可、为自己的成就被看见与感到骄傲",
+        "fear": "害怕被视为炫耀与傲慢、被批评或被疏离",
+        "defense_goal": [
+          "通过自责与贬低自我来避免他人指责",
+          "减少主动分享成就以维持关系的安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要他人认可、容易自责的晚辈",
+          "object_representation": "冷淡、可能批评的家庭长辈（叔叔）",
+          "linking_affect": "内疚、失望、焦虑"
+        },
+        {
+          "self_representation": "努力上进却不被看见的人",
+          "object_representation": "不表达赞赏的他者",
+          "linking_affect": "失落、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问分享升职与收入的动机，或谈及他人（家人）反应冷淡的话题时",
+          "interpretation": "将询问或冷淡反应解读为对自己“炫耀”的批评与否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责与降低自我价值的表述，语气歉疚，强调“我不该说这些”，减少对成就的正面阐述。"
+        },
+        {
+          "trigger_condition": "当他人（如咨询师）邀请其以多元视角理解叔叔的反应时",
+          "interpretation": "认为为自己寻找其他解释像是在为自己开脱，不被允许",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "强调“应该”保持谦逊与克制，语气谨慎，避免为自身成就辩护或表达自豪。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "家人（叔叔）反应冷淡引发关系紧张与疏离感",
+            "高度在意家人的认可以确认自我价值"
+          ],
+          "outcomes": [
+            "内疚与自我怀疑加重",
+            "睡眠受影响与整体情绪低落",
+            "工作表现下降"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "当未被家人认可时，成就与自豪感变得难以体验",
+            "将自我价值与外在反馈强绑定，意义感动摇"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "对成就的快乐与意义感降低",
+            "自我否定"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责与贬低自我（如“我不配”）",
+            "过度在意他人对自己意图的评价",
+            "在分享成就时高度谨慎、害怕被视为炫耀"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为叔叔把自己当作炫耀和傲慢的人",
+            "将他人的冷淡反应解释为对自己人格的否定"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“应该谦逊、不能谈收入/成就”为内在规则",
+            "用外界（家人）认可作为评价自我价值的唯一标准"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "工作努力且有良好绩效记录与上司认可",
+          "具备一定的自助资源（与朋友交流、写日记）",
+          "伴侣支持：有一位愿意倾听的配偶"
+        ],
+        "negative_force": [
+          "过度依赖外部认可来确认自我价值（寻求家人验证）",
+          "认知歪曲显著（读心术、非黑即白、否定积极）",
+          "自责与内疚倾向，易将他人反应归因于自身过错",
+          "关系紧张导致情绪困扰与睡眠受影响"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复反刍叔叔的冷淡反应并进行自我否定",
+          "antecedent": [
+            "与家人分享成就后未获期望反应",
+            "独处或夜间回想当时情景",
+            "在需要他人认可的情境"
+          ],
+          "core_reason": "将自我价值与家人认可高度绑定，害怕被视为炫耀，产生持续的内疚与不确定感",
+          "function": "试图通过反刍寻求确定与自我纠正，以避免被批评",
+          "consequence": "睡眠受影响、情绪低落、自尊下降、工作表现受扰"
+        },
+        {
+          "behavior": "过度回避分享成就或主动寻求家人验证",
+          "antecedent": [
+            "即将谈及晋升或收入的话题",
+            "家族聚会或与家人交流场景"
+          ],
+          "core_reason": "担心被视为傲慢或伤害他人，依赖外部认可来界定自我价值",
+          "function": "逃避潜在的负面评价，或通过寻求验证获得安全感",
+          "consequence": "关系紧张与误解加深，无法稳定体验对成就的正向感受"
+        },
+        {
+          "behavior": "睡眠问题（入睡困难、睡眠质量下降）",
+          "antecedent": [
+            "夜间回想叔叔反应与相关负性思维",
+            "对自我价值与成就的持续怀疑"
+          ],
+          "core_reason": "内疚与焦虑性反刍导致生理唤醒增加",
+          "function": "无明显适应功能（伴随的反刍意在获得确定与自我修复）",
+          "consequence": "白天情绪与精力下降，影响工作表现与整体身心状态"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1601
+}

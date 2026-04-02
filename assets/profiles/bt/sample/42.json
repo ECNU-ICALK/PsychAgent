@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "张晨",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "未提及",
+      "medical_history": "无显著躯体疾病；未有心理治疗史；此前未出现类似问题",
+      "language_features": "表达清晰、思路有条理，能自我反思并积极配合；语气中性，能够识别并描述自己的想法与感受"
+    },
+    "main_problem": "我在观看我最喜欢的电视剧《行尸走肉》时总是感到失望，这种感觉在过去六个月里逐渐加重，发展到在每一集开始前就预期自己会失望，影响了我对该剧的享受。",
+    "topic": "情绪管理",
+    "core_demands": "我意识到对失望的持续预期正在夺走我观看《行尸走肉》的乐趣，希望能重新享受这部剧、减少消极想法的影响。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "美好的事物最终会让我失望"
+      ],
+      "special_situations": [
+        {
+          "event": "坐下来准备观看《行尸走肉》的一集之前",
+          "conditional_assumptions": "如果一集达不到我的期待，我就会失望；为避免更大的落差，需要提前做好心理准备",
+          "compensatory_strategies": "在观看前预设“会失望”，以自我保护",
+          "automatic_thoughts": "这集肯定不会好，会让我失望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "观看过程中注意到小瑕疵或不合心意的细节",
+          "conditional_assumptions": "如果出现瑕疵，就说明整集不值得或不够好",
+          "compensatory_strategies": "挑剔并放大不足，忽略可取之处",
+          "automatic_thoughts": "这些问题证明这一集很差",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "观看结束后对整集进行评价",
+          "conditional_assumptions": "一次不佳体验可以证明我的整体判断是正确，并预示之后也会如此",
+          "compensatory_strategies": "用“看吧，我就知道”来确认并巩固原有负面评价",
+          "automatic_thoughts": "看吧，我就知道这一集不会好",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "过去六个月中对剧情方向提高期待并更批判性地关注可能出错之处",
+          "conditional_assumptions": "剧集应符合我较高且具体的期待，否则就算失败",
+          "compensatory_strategies": "设定高标准并据此评判每一集",
+          "automatic_thoughts": "如果不按我期待发展，这一集就很糟糕",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "",
+        "fear": "",
+        "defense_goal": []
+      },
+      "object_relations": [],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对该剧仍有喜爱与投入的动机",
+          "愿意寻求帮助并接受认知重构的建议",
+          "能够识别并描述自己的自动化思维",
+          "有一位可以谈心的亲密朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "在观看前持续进行负面预测（预期会失望）",
+          "过度关注瑕疵、忽视积极片段",
+          "否定正面体验、用单次不佳体验推及整体",
+          "提高且僵化的期待导致评判更严苛",
+          "未与朋友分享此困扰，缺乏外部视角的修正"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在观看《行尸走肉》前后持续出现失望与消极预期，并在观看过程中挑瑕疵",
+          "antecedent": [
+            "坐下来准备观看剧集",
+            "在开始前想到“这一集可能不会好”",
+            "对剧情方向抱有更高、更具体的期待并关注可能出错之处"
+          ],
+          "core_reason": "认知偏差（预测未来、心理过滤、否定积极、过度概括、非黑即白）驱动的预期性失望，使其在观看时选择性关注负面线索",
+          "function": "通过预设失望与挑瑕疵来进行心理自我保护，试图减少落差感并维持主观控制感",
+          "consequence": "观剧乐趣明显下降，心情受影响，整体活动的享受度降低"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 42
+}

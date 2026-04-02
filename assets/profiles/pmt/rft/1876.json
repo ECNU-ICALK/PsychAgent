@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "34",
+      "name": "林薇",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母是律师",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；无既往心理治疗或心理问题的治疗经历；问题于青少年时期开始并持续至今",
+      "language_features": "表达清晰，能具体描述焦虑与回避；在谈及朋友可能的看法时表现出犹疑与担心；配合度较好，语气中性"
+    },
+    "main_problem": "我常常回避需要穿泳装的社交情境，因此认为朋友可能不喜欢我不参加活动；这带来孤立感和焦虑。",
+    "topic": "人际关系",
+    "core_demands": "“我希望知道自己对被评判的焦虑是否真的有依据，还是我一直在不必要地担心。我也想更好地理解朋友的视角。”",
+    "growth_experiences": [
+      "青少年时期因朋友邀请海滩出游而首次明显感到紧张与不适（当时压力水平为中等），随后逐渐在所有涉及泳装的社交情境中反复体验到对他人评判的担忧，开始频繁回避此类活动；长期回避带来社交互动减少、与朋友关系可能受影响，并伴随孤立感与持续的焦虑。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我很怪/不正常",
+        "别人会不喜欢我/会评判我"
+      ],
+      "special_situations": [
+        {
+          "event": "上周朋友组织的海滩出游，我因不喜欢穿泳装而未参加",
+          "conditional_assumptions": "如果我不参加需要穿泳装的活动，朋友就会讨厌我、觉得我很怪",
+          "compensatory_strategies": "回避此类活动并自我合理化（“这不重要”）以减轻不适",
+          "automatic_thoughts": "他们现在一定恨我，并且觉得我很怪",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "收到涉及泳装的社交活动邀请（如海滩/泳池聚会）",
+          "conditional_assumptions": "只要出现穿泳装的场景，我就会被他人评判、被看轻",
+          "compensatory_strategies": "提前拒绝或找理由不参加，以避免被评判",
+          "automatic_thoughts": "他们会看我笑话、觉得我不合群",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "多次拒绝朋友此类活动后，想到朋友们对自己的看法",
+          "conditional_assumptions": "只要我多次说不，就证明我是个糟糕/怪异的朋友，关系会因此变差",
+          "compensatory_strategies": "减少与朋友联系，避免谈及真实顾虑",
+          "automatic_thoughts": "我们的关系会越来越疏远",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在自我反思中将自身不适归因为“我很怪”",
+          "conditional_assumptions": "如果我不能像别人那样自在地穿泳装，就说明我整体上有问题/不正常",
+          "compensatory_strategies": "用“这不重要”的说法淡化困扰，同时持续回避",
+          "automatic_thoughts": "我就是很怪、不正常",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被朋友接纳、理解与不被评判",
+        "fear": "害怕被评判、被贴负面标签而遭到拒绝或关系受损",
+        "defense_goal": [
+          "通过回避穿泳装的场景来降低被评判的风险，从而维持安全与表面的关系稳定"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被评判的局外人/被拒绝者",
+          "object_representation": "可能会嫌弃或不理解自己的评判者（朋友）",
+          "linking_affect": "焦虑、孤独、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与朋友直接沟通或开展行为实验以确认朋友真实看法时",
+          "interpretation": "来访者倾向于认为对方可能像想象中的评判者一样不理解自己（移情：将被评判的期待投射到他人）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、中性的语气强调“现在开口不太合适/这不重要”，给出许多理由弱化尝试的必要性，避免明确承诺进行实验。"
+        },
+        {
+          "trigger_condition": "当谈及朋友对其不参加活动的可能反应与看法时",
+          "interpretation": "来访者将自己的担心与负面评价归于朋友，认为他们会看轻或讨厌自己（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持谨慎语气，频繁使用“他们可能……”等推测性表达，避免细化证据与具体事实，侧重主观担心。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因回避涉及泳装的社交活动而与朋友互动减少",
+            "担心被评判导致不愿表达真实感受与需求"
+          ],
+          "outcomes": [
+            "社交联系下降、主观孤立感增强",
+            "持续的焦虑与自我怀疑"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "认为朋友会讨厌自己或觉得自己很怪",
+            "未与朋友沟通真实困扰，却预设他们的负面看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "想表达不适与需求但收回，不提出请求或说明原因",
+            "通过自我压抑与回避来管理焦虑"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人评价，担心被看轻而不敢主动沟通",
+            "以“我不配/他们会觉得我夸张”为理由限制行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有一定的社会支持（朋友总体善良、支持）",
+          "具备自我觉察：意识到回避行为影响社交生活",
+          "愿意探索与尝试行为实验以检验信念"
+        ],
+        "negative_force": [
+          "长期的回避行为与自我合理化维持焦虑",
+          "对他人看法的“读心术”与灾难化预测",
+          "自我标签化（“我很怪”）与过度在意他人评价",
+          "害怕被评判导致沟通迟疑、社交参与减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避一切涉及穿泳装的社交活动并在相关情境中出现显著焦虑",
+          "antecedent": [
+            "朋友发出海滩/泳池等需要穿泳装的邀请",
+            "想到需要穿泳装参与社交",
+            "预设他人会对自己产生负面评价"
+          ],
+          "core_reason": "对被评判与被贴负面标签的强烈担忧；将自我不适归因为“我很怪”，并以读心术与预测未来的方式推断他人不喜欢自己",
+          "function": "逃避不受欢迎的事物（潜在评判与羞耻感），获得短期情绪缓解",
+          "consequence": "社交互动减少、与朋友关系可能受影响，持续的孤立感与焦虑，日常决策受困于回避"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1876
+}

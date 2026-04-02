@@ -1,0 +1,216 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "运动员",
+      "educational_background": "高中毕业",
+      "marital_status": "未婚",
+      "family_status": "与父母及一名年幼的兄弟姐妹同住",
+      "social_status": "与队友的关系因自我感觉被拒绝而紧张；家庭支持存在但尚未充分分享感受",
+      "medical_history": "无类似心理问题经历；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "态度中性；愿意探索与反思自己的想法；能清晰描述具体情境；常使用绝对化、负性标签化的表述（如“绝对失败者”）"
+    },
+    "main_problem": "“我很喜欢跑得快，但我不是世界上最快的跑者，所以整体来说我是一个绝对的失败者（被拒绝者）。”这一信念正在影响我的自尊和整体自信。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询来处理这些消极想法并提升自尊，因为它们正影响我的运动表现和整体幸福感。",
+    "growth_experiences": [
+      "两年前在一场比赛中表现不如预期后开始与其他运动员比较，最初为中等强度的压力，随后逐步发展为：只要没拿第一名就怀疑自己的能力并感觉自己是失败者；这些感受主要在训练与比赛中被激发，并进一步影响动力、训练乐趣与睡眠。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个彻底的失败者（被拒绝者）",
+        "只有成为最好的（最快的）才算有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "比赛中未获得第一名或表现不如预期",
+          "conditional_assumptions": "如果我不是最快的，就说明我一无是处、是失败者",
+          "compensatory_strategies": "加倍训练、进行积极自我对话、设定较小目标来证明自己（但仍以“必须第一”为标准）",
+          "automatic_thoughts": "我又失败了，我就是个绝对的失败者",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在训练中与更快的运动员进行对比",
+          "conditional_assumptions": "如果别人跑得比我快，说明我不行、我的价值更低",
+          "compensatory_strategies": "用比较来激励自己但结果强化自责与自我否定，有时减少与他人接触",
+          "automatic_thoughts": "我不如他们，我永远赶不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与队友互动时想着他们会如何看待我的成绩",
+          "conditional_assumptions": "如果队友看到我表现一般或不是第一，他们会觉得我无用",
+          "compensatory_strategies": "回避与队友深入交流，减少分享以避免被评价",
+          "automatic_thoughts": "他们都在看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "夜间准备入睡时反复回想比赛与训练表现",
+          "conditional_assumptions": "如果我现在还不够快，将来也会一直表现糟糕",
+          "compensatory_strategies": "通过不断思考与自我监控来试图获得掌控感",
+          "automatic_thoughts": "我以后比赛也会失败，根本不可能成为最快的",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "曾有少数几次如期或更早到达活动/比赛现场，但总体印象仍是经常迟到或失误",
+          "conditional_assumptions": "如果不是每次都做到最好，偶尔的成功就不算数",
+          "compensatory_strategies": "忽视正面证据，专注于负面例外以维持高标准的自我要求",
+          "automatic_thoughts": "那次只是运气好，不能说明我有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被接纳，并以优异表现证明自身价值",
+        "fear": "害怕被评判为不够好或失败者，从而被拒绝、被看不起",
+        "defense_goal": [
+          "通过维持极端标准与自我标签化来保护自尊",
+          "减少与他人分享脆弱以避免被贬低的风险"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "自我体验为“被拒绝的失败者”、不可靠的人",
+          "object_representation": "他人（队友、家长、观众）被体验为挑剔、评判性的观察者",
+          "linking_affect": "羞耻、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其关注正面时刻或检视“绝对失败者”等标签时",
+          "interpretation": "潜意识担心自己客观失败会被淡化，或被像他人一样评判（移情：他人=评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和且理性化的语气强调“我可能天生不擅长时间管理/组织”，就事论事、弱化情感表达，避免深入羞耻与恐惧。"
+        },
+        {
+          "trigger_condition": "当被邀请将真实感受与家庭或队友分享、寻求支持时",
+          "interpretation": "认为分享脆弱会被视为找借口或被看轻，从而带来拒绝和羞耻",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以中性、简短的方式仅描述安排与时间问题，避免表达“被拒绝”的内在情绪，保持距离感。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自我价值高度依赖于是否是“最快/第一”，非此即彼的标准主导意义感",
+            "当表现不达标时体验到整体性失败与空洞感"
+          ],
+          "outcomes": [
+            "自尊显著下降",
+            "训练与比赛中的焦虑与压力增加",
+            "睡眠受损",
+            "动力与训练乐趣降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与队友关系紧张",
+            "担心他人评判而减少分享与互动"
+          ],
+          "outcomes": [
+            "社交回避与紧张",
+            "获得支持减少，负性循环加剧"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "以“必须是第一/最快”作为自我价值的绝对标准",
+            "用“我应该……”等规则性语言要求自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "认为队友或其他家长在看不起自己、在评判自己",
+            "在互动前预设他人对自己持负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我批评（“我不可靠/无用”）",
+            "小心避免暴露脆弱，减少与他人分享真实感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在带孩子去体育活动的情境中，来访者通常会高度紧张并担心迟到，认为自己不可靠，从而更容易出现迟到与自我否定。",
+          "unique_outcome": "上个月有一次提前到达比赛现场，来访者感到宽慰与自豪，没有出现以往的自我否定与焦虑加剧。",
+          "reason": "线索：当时更为放松、不过度思虑；来访者也提到有部分“运气”因素，说明节奏与心理负荷较轻，从而减少了迟到与负面循环。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家庭较为支持，具备潜在的支持资源",
+          "来访者愿意探索与识别负性思维模式（合作度较好）",
+          "有过提前到达与表现良好的时刻，存在正面证据",
+          "已尝试积极自我对话与设定较小目标"
+        ],
+        "negative_force": [
+          "将自我价值外部化并与“第一名/最快”高度捆绑",
+          "非黑即白思维与标签化自我否定",
+          "比较与绝望、读心与个人化导致人际紧张",
+          "忽视正面证据、强化失败体验",
+          "睡眠受损、训练乐趣与动力下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在训练与比赛中出现强烈的自我否定与焦虑，伴随动力下降与回避积极投入",
+          "antecedent": [
+            "比赛未获第一名或表现不如预期",
+            "在训练中与更快的运动员比较",
+            "赛后回顾失误时"
+          ],
+          "core_reason": "核心信念“如果不是最快就一无是处”，并通过外部评价决定自我价值，形成非黑即白与比较型认知偏差。",
+          "function": "逃避失败感与羞耻，试图通过自我批评维持控制与动力（不良强化）。",
+          "consequence": "成绩与训练质量下降、训练乐趣减少、负性循环加剧。"
+        },
+        {
+          "behavior": "在人际互动（队友、其他家长）前后产生被评判的焦虑并回避交流",
+          "antecedent": [
+            "活动/比赛现场的社交场景",
+            "看到他人表现更好时",
+            "出现迟到或自认失误时"
+          ],
+          "core_reason": "对他人评价高度敏感，将他人视为评判者，出现读心与个人化认知。",
+          "function": "逃避可能的批评与拒绝，短期减轻焦虑。",
+          "consequence": "人际关系紧张，获取支持减少，孤独感增强。"
+        },
+        {
+          "behavior": "入睡困难（睡前反复思考负面表现与担忧未来）",
+          "antecedent": [
+            "夜间就寝时",
+            "比赛前后处于高度关注成绩的阶段"
+          ],
+          "core_reason": "通过反复思考试图获得确定性与掌控感，伴随灾难化/预测未来式担忧。",
+          "function": "企图以认知控制情绪与结果（不良的自我安抚策略）。",
+          "consequence": "睡眠质量下降，次日精力与表现受损。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 486
+}

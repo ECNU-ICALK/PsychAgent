@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "10",
+      "name": "李拉",
+      "gender": "女",
+      "occupation": "英语文学辅导老师",
+      "educational_background": "英语文学学士学位",
+      "marital_status": "单身",
+      "family_status": "有一位从事吉他演奏的姐妹",
+      "social_status": "与同事的关系因自责而有所紧张；拥有支持性的家庭资源（姐妹），但尚未主动求助",
+      "medical_history": "未有类似心理问题史；无既往心理治疗；无明显身体疾病",
+      "language_features": "表达清晰、逻辑性较好、能进行自我反思、配合度高；态度中性"
+    },
+    "main_problem": "因为一位学生的英语文学考试不及格，我觉得自己是个无用的老师，出现无能感与自责。",
+    "topic": "职业发展",
+    "core_demands": "这些无能感影响了我的自尊和有效教学能力，因此寻求咨询。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的价值取决于学生的成绩",
+        "我是一个无用的老师"
+      ],
+      "special_situations": [
+        {
+          "event": "该学生的英语文学考试不及格",
+          "conditional_assumptions": "如果学生考试失败，就说明我是无能且不称职的老师",
+          "compensatory_strategies": "立即反思并否定自己的教学方法，寻求同事反馈并计划更换教学策略",
+          "automatic_thoughts": "这都是我的错，我是个无用的老师",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "考试成绩发布后看到不及格结果",
+          "conditional_assumptions": "一次失败就能证明我整体教学能力不足",
+          "compensatory_strategies": "加倍工作、尝试更多一对一辅导以弥补“失败”",
+          "automatic_thoughts": "一名学生不及格就说明我不称职",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在教学中遇到学生表现不佳或成绩下滑",
+          "conditional_assumptions": "如果任何学生表现不好，就代表我作为老师的价值归零",
+          "compensatory_strategies": "减少休闲与放松，把全部精力投入改进教学",
+          "automatic_thoughts": "我不够好/我失败了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同时存在成功学生的积极反馈与一位学生失败的情况",
+          "conditional_assumptions": "只有所有学生都表现良好才能证明我合格，个别成功不算数",
+          "compensatory_strategies": "反复关注失败案例，忽视积极反馈",
+          "automatic_thoughts": "那些成功不重要，我仍然是个无用的老师",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为称职且有价值的教师，学生能在我的指导下取得进步",
+        "fear": "害怕被评价为无能、被责备或失去他人的尊重与职业价值",
+        "defense_goal": [
+          "通过过度承担责任与自我苛责来维持控制感、避免他人批评"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "因为学生失败而自责、担心自己是无能的老师",
+          "object_representation": "学生的成绩与他人评价被体验为对自己能力的严厉评判者",
+          "linking_affect": "羞愧、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论或面对学生考试失败与成绩反馈时",
+          "interpretation": "认为他人会把失败归咎于自己，自己必须为学生的成绩负全责",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以低沉、自责的语气表述，反复强调“都是我的错”，减少对外部因素的探讨，主动承担责任。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "在学生不及格后感到“所有努力都毫无意义”",
+            "认为自己的教学投入被失败结果否定"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "工作效能下降",
+            "难以享受编织等休闲活动"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有支持的姐妹但迟迟未向其倾诉",
+            "与同事关系因自责而紧张"
+          ],
+          "outcomes": [
+            "社会支持未被利用",
+            "压力感增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "将“学生成绩好坏=老师好坏”视为必须遵循的标准",
+            "自述“我应该为学生的成绩负责”"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做，将原欲对外发出的能量转向自身，与“冲动”对应。",
+          "manifestations": [
+            "没有向支持性的姐妹求助，转而自责",
+            "通过减少休闲与自我惩罚来应对失败感"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责，反复检视自己的教学方法",
+            "在同事给予正面反馈时仍强烈怀疑自我"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "有成功学生并给予积极反馈",
+          "同事提供正面评价与支持",
+          "愿意反思并尝试新教学方法（如一对一辅导、调整材料）",
+          "拥有支持性的姐妹可提供情感支持"
+        ],
+        "negative_force": [
+          "过度个人化学生成绩为自身过错",
+          "过度概括一次失败为整体无能",
+          "心理过滤：忽视积极证据与成功案例",
+          "自我否定导致与同事关系紧张并减少休闲"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在学生表现不佳或考试失败后出现强烈自责与“我是无用的老师”的自我否定思维",
+          "antecedent": [
+            "学生英语文学考试不及格",
+            "课堂上学生表现不佳",
+            "收到考试成绩或负面反馈"
+          ],
+          "core_reason": "将自我价值与学生成绩强绑定，存在过度概括与个人化的认知扭曲",
+          "function": "维持控制感并试图通过自责促使自身改变，避免面对不确定性与外部因素",
+          "consequence": "工作表现下降、与同事关系紧张、情绪低落、自尊受损"
+        },
+        {
+          "behavior": "难以放松、减少或无法享受编织等休闲活动",
+          "antecedent": [
+            "在自责与无能感持续时",
+            "想到学生的失败"
+          ],
+          "core_reason": "自我惩罚与内疚驱动的回摄倾向",
+          "function": "通过限制自我享受来“弥补过错”，缓解内疚",
+          "consequence": "生活质量下降、恢复力降低、压力积累"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 53
+}

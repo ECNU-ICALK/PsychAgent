@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "18",
+      "name": "娜塔莉",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "高中",
+      "marital_status": "单身",
+      "family_status": "未提及",
+      "social_status": "有朋友可倾诉，但未与朋友分享自己的恋爱情感；社交与表达受困难影响",
+      "medical_history": "无显著躯体疾病；未接受过心理治疗；此前恋爱关系无类似心理困扰",
+      "language_features": "表达清晰、配合度高；开场略感紧张但态度积极；能描述自动化思维与触发情境；愿意执行记录与家庭作业"
+    },
+    "main_problem": "我因一段浪漫关系相关的负性思维而困扰。我相信这个夏天我爱上的人并不回应我的感情，并且永远不会爱我。",
+    "topic": "人际关系",
+    "core_demands": "我厌倦了这种感觉，只想找到一些平静，并且在与TA相处时不再如此焦虑；同时改善情绪和学习表现。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我不值得被爱"
+      ],
+      "special_situations": [
+        {
+          "event": "在学校看到心仪对象或尝试与其互动",
+          "conditional_assumptions": "如果对方没有立刻热情回应或表现出明显兴趣，就说明他们不在乎我/讨厌我",
+          "compensatory_strategies": "回避表达真实感受、压抑和分散注意以试图控制负性思维",
+          "automatic_thoughts": "她一定讨厌我；她永远不会爱我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "心仪对象没有及时回复消息",
+          "conditional_assumptions": "如果信息未被及时回复，就代表对方不在乎我或在疏远我",
+          "compensatory_strategies": "减少主动联系、压抑表达冲动、通过分散注意力来避开情绪",
+          "automatic_thoughts": "她不在乎我",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "与心仪对象交谈时对方显得分心或注意力不集中",
+          "conditional_assumptions": "如果对方聊天时不够专注，就说明对我没有任何感觉",
+          "compensatory_strategies": "立刻退缩、减少接近与互动以避免被拒绝",
+          "automatic_thoughts": "她对我没有任何感觉",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "开学后压力增大且不知如何表达感情",
+          "conditional_assumptions": "如果我不能完美地表达感受，就一定会被拒绝并让关系变得尴尬",
+          "compensatory_strategies": "放弃表白或推进关系、压抑情感并选择不去面对",
+          "automatic_thoughts": "不管我怎么做，她都不会爱我",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢、被接纳并建立亲密关系",
+        "fear": "害怕被拒绝、被讨厌以及关系变得尴尬",
+        "defense_goal": [
+          "通过保持疏离与压抑表达来降低被拒绝的风险，维持表面安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的追求者/可能被拒绝者",
+          "object_representation": "冷漠、可能拒绝我的他者",
+          "linking_affect": "焦虑、悲伤、绝望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被询问是否表达感受或面对鼓励进行现实检验与行为实验时",
+          "interpretation": "来访者将表达需要视为高风险事件，潜意识相信表达会带来拒绝与尴尬",
+          "defense_mechanism": "sring",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气温和且验证其恐惧，先从低风险的间接表达练习（如写下未发送的信息、角色扮演）入手，避免逼迫其立即表白；使用短句、慢节奏，强调可控与选择权。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "担心对方不爱自己、未向朋友分享真实感受、害怕表达后被拒绝导致关系疏远"
+          ],
+          "outcomes": [
+            "焦虑与情绪低落",
+            "社交退缩",
+            "与重要他人建立联系的困难"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对原本喜欢的活动（夏天的散步、阅读）兴趣下降"
+          ],
+          "outcomes": [
+            "快感缺失",
+            "生活满足感下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "不表达对心仪对象的喜欢，强行压抑和分散注意力以“自己处理”",
+            "在互动中选择退缩而非寻求外部支持"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将自己的不安与不值得被爱的感受，归因为对方“讨厌我”“不在乎我”",
+            "据少量线索（未及时回复、分心）认定他人负面态度"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自我怀疑与“我不够好”的自责叙事",
+            "过度谨慎，担心表达会引发尴尬而限制自身行动"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在学校看到或与心仪对象互动时，来访者通常会陷入灾难化与读心术的负性思维，随之情绪低落并回避表达。",
+          "unique_outcome": "在暑假里有几次一起外出或相处的情境中，来访者没有像往常那样完全退缩，而是与对方互动并注意到对方并未回避自己，这让她的心情稍有缓解。",
+          "reason": "线索：不同情境（暑假较为放松的环境）、不同支持（对方有积极回应：会回复消息并愿意相处）、不同做法（来访者主动参与互动而非完全回避），因此这次负性思维的强度降低。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求心理咨询并配合记录任务",
+          "存在积极互动证据（对方会回复消息、愿意与其相处）",
+          "有朋友可作为潜在支持资源",
+          "态度积极，对改变抱有希望"
+        ],
+        "negative_force": [
+          "灾难化、读心术与非黑即白等认知偏差显著",
+          "害怕被拒绝导致回避表达",
+          "反刍与压抑策略维持负性情绪",
+          "新学年压力增加触发频率",
+          "自信不足、过度自我怀疑"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "反复陷入与恋爱情境相关的负性自动思维并回避表达情感",
+          "antecedent": [
+            "在学校看到或接近心仪对象",
+            "心仪对象未及时回复信息",
+            "与心仪对象交谈时对方显得分心",
+            "开学压力与不知如何表达感受"
+          ],
+          "core_reason": "对被拒绝的强烈恐惧与“非黑即白/灾难化”等认知偏差维持了负性反刍与回避",
+          "function": "逃避可能的拒绝与尴尬，从而短时缓解焦虑",
+          "consequence": "情绪持续低落与焦虑，学习成绩下降，社交受限，对原本喜欢的活动兴趣减退"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1774
+}

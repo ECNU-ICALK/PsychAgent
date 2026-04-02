@@ -1,0 +1,182 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "李静",
+      "gender": "女性",
+      "occupation": "托儿所工作人员",
+      "educational_background": "本科在读，主修工商管理",
+      "marital_status": "恋爱中（2年）",
+      "family_status": "父亲为牙医，母亲为教师",
+      "social_status": "有支持性的伴侣与亲密朋友可倾诉，但他们未必完全理解其与职业相关的焦虑；因压力与不确定感，伴侣关系出现一定紧张",
+      "medical_history": "无类似心理问题史，无心理治疗史；无显著躯体疾病史",
+      "language_features": "表达清晰、逻辑性较强，能识别并描述负性自动思维；配合度高，愿意尝试家庭作业；语气中带有焦虑、自我怀疑；思维中存在“必须/应该”式规则化表述"
+    },
+    "main_problem": "我相信在托儿所工作会阻碍我获得与工商管理专业相关的工作，这让我对职业前景感到不确定与害怕。这种感受从我两年前开始在托儿所工作时就出现，并随着时间加重，常在思考职业与求职时引发自我怀疑和负性情绪。",
+    "topic": "职业发展",
+    "core_demands": "我决定来咨询是因为这些想法让我非常痛苦，并影响到我的学业和工作功能；我愿意尝试各种方法让自己感觉好一些，并对未来有更清晰的认识。",
+    "growth_experiences": [
+      "两年前开始在托儿所工作。最初在“积累工作经验”和“寻求与专业相关的职业路径”之间感到矛盾与拉扯，随后逐渐形成“托儿所工作会阻碍专业相关就业”的信念，随时间加重为不确定与恐惧。此后在思考职业前景时反复出现自我怀疑和负性情绪。",
+      "在校期间看到同学获得商科相关的实习或工作机会时，感到自己被“落下”，这一社会比较触发了更强的焦虑与压力感。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我在职业上可能会失败",
+        "如果现在没有本专业相关经验，我将无法进入本专业岗位"
+      ],
+      "special_situations": [
+        {
+          "event": "看到同学获得商科相关的实习或工作机会",
+          "conditional_assumptions": "如果我没有像同学那样及时获得与专业相关的经验，就说明我落后或失败",
+          "compensatory_strategies": "加紧投递商科相关实习、强化与同伴的比较来督促自己",
+          "automatic_thoughts": "我不如他们，我已经被落下了。",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "收到实习申请的拒信或长期没有回复",
+          "conditional_assumptions": "如果被拒或没有回音，就证明我不可能进入本专业领域",
+          "compensatory_strategies": "扩大负面证据的解释力度，减少对其他可能性的关注",
+          "automatic_thoughts": "这证明我以后也进不去这个行业。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回顾自己已在托儿所工作两年",
+          "conditional_assumptions": "如果当下的工作与专业不直接相关，这段经历就没有价值",
+          "compensatory_strategies": "制定僵化的时间线与规则，对自己施加强烈的时间压力",
+          "automatic_thoughts": "我在浪费时间，我的学位会变得毫无用处。",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "独自思考职业和未来求职前景",
+          "conditional_assumptions": "如果现在没有相关经验，将来就不可能进入本专业岗位",
+          "compensatory_strategies": "通过反复预演最坏结果来寻求控制感",
+          "automatic_thoughts": "我永远也找不到和我专业相关的工作。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在职业上被认可并获得确定的前景，尽快把专业学习转化为成就",
+        "fear": "害怕失败、被同伴抛在后面，以及多年学业投入变得无意义",
+        "defense_goal": [
+          "以严格的规则和时间线维持控制感，降低对不确定性的焦虑",
+          "通过自我施压与自我约束来避免感受到“被落下”的痛苦"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "落后且不够好的追赶者",
+          "object_representation": "同伴/行业像挑剔的评判者与把关者",
+          "linking_affect": "焦虑、羞愧、自我怀疑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及职业时间线、规则或看到同学获得实习/工作时",
+          "interpretation": "将“尚未获得相关经验”理解为“已经失败/被定型”，把外界的标准视为唯一评判",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以规则与逻辑为主进行回应，强调“必须/应该”，语气克制而少触及情绪层面。"
+        },
+        {
+          "trigger_condition": "在比较同学的进展或收到拒信后独自反刍时",
+          "interpretation": "将他人的进展等同为自己的失败，产生自我责备与否定",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责的口吻复盘自身不足，降低自我价值的表述，语气黯淡、少用自我关怀用语。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "认为若不能尽快进入商科岗位，自己的学位会“变得无用”",
+            "把在托儿所的工作时光视为“浪费机会”"
+          ],
+          "outcomes": [
+            "焦虑升级、睡眠与饮食节律紊乱",
+            "学业专注受损、伴侣关系出现紧张"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“必须/应该”式规则限制职业路径，害怕做出“错误选择”",
+            "将多元可能性收缩为单一路径（必须立即获得相关经验）"
+          ],
+          "outcomes": [
+            "体验到强烈压力与自我苛责",
+            "思维僵化、难以体验灵活性与选择的空间"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁以“必须/应该”来谈论职业时间线与经验要求",
+            "将行业与同伴标准直接当作自身唯一的评判依据"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在比较中强化自我批评并降低自我价值",
+            "担心“落后”，以自我施压维持控制感"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的伴侣与朋友网络，能够在困难时倾诉",
+          "主动性：曾尝试申请商科相关实习以挑战消极信念",
+          "专业背景明确（工商管理专业），具备可转移的能力基础"
+        ],
+        "negative_force": [
+          "灾难化与预测性思维（Fortune Telling），对未来就业作出最坏假设",
+          "过度概括与非黑即白思维，否定非专业相关工作的积极价值",
+          "社会比较导致的自我否定与焦虑加重",
+          "持续反刍引发的睡眠与饮食节律紊乱，进一步削弱功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "围绕职业前景的持续性焦虑与反刍（伴随灾难化思维）",
+          "antecedent": [
+            "思考职业与求职前景",
+            "看到同学获得商科相关的实习或工作",
+            "收到实习申请拒信或长期无回复",
+            "觉察到自己已在托儿所工作较长时间"
+          ],
+          "core_reason": "对未来就业的预测性负性偏差与僵化规则（如“现在没有相关经验就永远进不去”）维持了焦虑",
+          "function": "通过预演最坏结果与设定严格规则来寻求控制感、暂时逃避不确定性带来的焦虑",
+          "consequence": "焦虑加重、学业专注下降、伴侣关系紧张、睡眠与饮食节律被打乱"
+        },
+        {
+          "behavior": "睡眠与饮食节律紊乱",
+          "antecedent": [
+            "在夜间或独处时反复担忧职业与未来",
+            "白天经历社会比较或求职受挫后继续反刍"
+          ],
+          "core_reason": "高唤醒的焦虑与反刍打乱生理节律",
+          "function": "以改变作息或饮食来分散注意、暂时缓冲焦虑",
+          "consequence": "精力与专注下降，进一步影响学业与情绪稳定性"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1003
+}

@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "李一鸣",
+      "gender": "男",
+      "occupation": "朋克乐队歌手",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，未提供更多家庭细节",
+      "social_status": "有少数朋友可倾诉，但谈及诗歌相关的自我怀疑会感到不适，关系中存在对他人评价的顾虑",
+      "medical_history": "此前无类似心理问题经历；未接受过心理治疗；无显著身体疾病",
+      "language_features": "表达清晰、逻辑性较好、配合度高且态度积极；能进行自我反思并识别负性自动思维；对被评判较敏感；语速与具体表达风格未提及"
+    },
+    "main_problem": "提交诗歌参加比赛后未收到反馈，由此认为评审不喜欢作品且不愿意提供点评，引发并加重了自我怀疑与无价值感，持续影响创作与整体身心状态。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为自我怀疑和负性想法正在影响我的创造力和整体幸福感，我想处理这些问题。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的作品不值得被欣赏/我没有价值"
+      ],
+      "special_situations": [
+        {
+          "event": "提交诗歌参加比赛后，三个月未收到任何反馈",
+          "conditional_assumptions": "如果没有收到反馈，就说明作品很糟糕/他们讨厌我的诗",
+          "compensatory_strategies": "向朋友寻求认可以缓解自我怀疑",
+          "automatic_thoughts": "他们讨厌我的作品，不想费心提供点评。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "想到再次写诗或参加未来比赛",
+          "conditional_assumptions": "如果我的作品不够好，人们就不会欣赏它，我不应该继续创作",
+          "compensatory_strategies": "通过分散注意力暂时回避负性想法，并犹豫甚至回避投稿与创作",
+          "automatic_thoughts": "有什么意义？作品只会很差，没人会在乎。",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与朋友谈论关于诗歌的自我怀疑时",
+          "conditional_assumptions": "如果我表达脆弱与不安，就会被朋友评判或看不起",
+          "compensatory_strategies": "减少与朋友谈论相关话题，回避被评价的场景",
+          "automatic_thoughts": "他们会觉得我的作品糟糕，并且评判我。",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "一次乐队演出前认为准备不足",
+          "conditional_assumptions": "如果准备不充分，演出一定会灾难",
+          "compensatory_strategies": "在演出前反复担心并自我否定以求掌控",
+          "automatic_thoughts": "这场演出会很糟糕。",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望作品被欣赏与认可、被认真对待",
+        "fear": "害怕被评判与被否定，从而感到无价值",
+        "defense_goal": [
+          "通过回避暴露（减少投稿与谈论）来维持安全感",
+          "通过寻求外部认可短期缓解不安与自我怀疑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的创作者、容易被否定的人",
+          "object_representation": "评审/他人是冷漠或苛刻的评判者",
+          "linking_affect": "羞耻、焦虑、自我怀疑"
+        },
+        {
+          "self_representation": "在朋友面前的脆弱者",
+          "object_representation": "朋友可能会评判或看不起自己",
+          "linking_affect": "紧张、害怕被拒绝"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师邀请其检查证据、提出替代解释或建议进行现实检验（如跟进投稿或主动寻求反馈）时",
+          "interpretation": "潜意识将探索理解为他人可能要评判作品，担心被否定（移情：将他人视为潜在评判者）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用温和、支持性的语气先肯定其感受；避免直接否定其担忧；以开放式问题引导其区分事实与推测，鼓励其以小步进行现实检验。"
+        },
+        {
+          "trigger_condition": "当谈到公开展示作品或向朋友表达自我怀疑与不安时",
+          "interpretation": "认为暴露脆弱会导致他人拒绝或嘲笑（移情：他人作为苛刻的评判者）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以同理的语气邀请其用具体情绪词标注当下体验；提供选择性的轻量表达（如“愿意说一点点你此刻的担心吗？”），允许停顿与沉默，逐步提升情感容许度。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "难以向朋友敞开，害怕被评判",
+            "在创作中感到与他人疏离（认为无人欣赏）"
+          ],
+          "outcomes": [
+            "自我怀疑增强",
+            "回避表达与投稿",
+            "睡眠紊乱",
+            "创造力下降"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "创作选择受外部评价牵制，依赖比赛与他人反馈来确认价值",
+            "面对写作与投稿时难以自主选择继续尝试"
+          ],
+          "outcomes": [
+            "选择受限",
+            "焦虑强化",
+            "行为回避增加"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "将自我否定归因为“他们讨厌我的诗”“不愿意点评”",
+            "谈及朋友或评审时预设对方持负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "反复自我怀疑，认为作品不够好、不配提交",
+            "与朋友谈论时过度顾虑他人看法而缩减表达"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "通过分散注意力来回避直接面对自我怀疑与不安",
+            "转移话题或减少触及创作相关的敏感内容"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将比赛反馈（或缺乏反馈）视为评估作品价值的绝对标准",
+            "将外界评价未经加工地内化为自我价值判断"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在演出前，来访者通常会因觉得准备不足而预测最坏结果，导致显著自我怀疑与紧张，进而影响上台表现。",
+          "unique_outcome": "有一次认为准备不足的演出，结果却成为乐队最好的表演之一，实际效果显著好于其负性预测。",
+          "reason": "线索：尽管事前自觉准备不足，但事实结果与负性预测相背离，提示其灾难化思维并非必然；这一经历为其提供了可借鉴的反例与信心来源。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "曾在负性预期下取得良好表现的经历（一次乐队演出效果出乎意料地好）",
+          "有一定社会支持（有几位朋友可倾诉）",
+          "态度积极，愿意识别并挑战负性思维",
+          "能提出合理的替代解释（如评审忙、投稿量大）"
+        ],
+        "negative_force": [
+          "寻求外部验证，价值感依赖他人反馈",
+          "灾难化预测、跳跃性下结论与读心术的认知偏差",
+          "对被评判高度敏感，倾向回避投稿与谈论作品",
+          "过度思虑导致睡眠紊乱，进一步削弱情绪调节",
+          "持续的自我怀疑与无价值感"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对创作与投稿的灾难化预测与回避",
+          "antecedent": [
+            "想到自己的诗或未来比赛",
+            "回忆未收到反馈的经历",
+            "与朋友谈论作品与自我怀疑"
+          ],
+          "core_reason": "将缺乏反馈解读为作品糟糕，价值依赖他人评价，产生读心与预测未来的认知偏差",
+          "function": "逃避被评判与失败的可能性，暂时降低焦虑",
+          "consequence": "创作与职业表现受损（乐队表现下降），自我价值感降低，睡眠紊乱"
+        },
+        {
+          "behavior": "频繁寻求外部认可以对抗不安",
+          "antecedent": [
+            "出现自我怀疑与无价值感",
+            "想到比赛或写作时的焦虑"
+          ],
+          "core_reason": "条件性假设：只有得到他人认可才证明我有价值",
+          "function": "获得安慰与短期安全感",
+          "consequence": "对他人评价的依赖加重，难以建立内在标准，负性思维未被根本改变"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1994
+}

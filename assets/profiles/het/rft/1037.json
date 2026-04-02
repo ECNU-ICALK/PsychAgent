@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "71",
+      "name": "韩娜",
+      "gender": "女",
+      "occupation": "诗人",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有一群关系密切的朋友一起打高尔夫，但未与他们讨论此恐惧",
+      "medical_history": "未经历类似心理问题；未接受其他心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，能具体描述担忧与假设；配合度较好，愿意尝试作业与现实检验"
+    },
+    "main_problem": "我害怕如果养除了斗鱼之外的其他宠物，会不小心让它死亡，这让我很痛苦。",
+    "topic": "情绪管理",
+    "core_demands": "我决定寻求咨询，因为这种对无意伤害宠物的恐惧开始影响我的日常功能和决策。",
+    "growth_experiences": [
+      "约一年前在与之前的宠物相处中经历了一次负面事件，此后因照料宠物的责任感被触发而产生中度压力；问题逐步发展为避免再养其他宠物并持续担心其安危，几乎每天在谈及宠物或动物照料时都会出现恐惧和担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我无法妥善照顾宠物（我不够可靠）",
+        "一旦我犯错就会导致严重后果"
+      ],
+      "special_situations": [
+        {
+          "event": "想到要养一只新的宠物（非斗鱼）或看到他人讨论养宠物",
+          "conditional_assumptions": "如果我不能做到零失误，宠物就会受伤或死亡",
+          "compensatory_strategies": "避免养除斗鱼外的宠物；不断在脑中预演最坏情景以求“防范”",
+          "automatic_thoughts": "我会不小心让它死掉／我一定会搞砸",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "回忆一年前与旧宠物的负面经历",
+          "conditional_assumptions": "一次错误意味着我将来还会再犯同样的错误",
+          "compensatory_strategies": "以过去一次失败推断未来、主动回避类似情境（不再养其他宠物）",
+          "automatic_thoughts": "既然以前发生过，这次也会发生",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与朋友或他人谈到宠物／动物照料话题时",
+          "conditional_assumptions": "如果我表露这种恐惧，别人会觉得我奇怪、不会理解我",
+          "compensatory_strategies": "不向朋友提起相关话题，保持沉默以避免被评价",
+          "automatic_thoughts": "他们会觉得我很奇怪／不会理解我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "回想过去宠物也曾健康快乐，但负面记忆持续占据头脑",
+          "conditional_assumptions": "负面经验更能说明真实风险，正面经历不重要",
+          "compensatory_strategies": "过度关注潜在风险信号，忽略和贬低正面证据",
+          "automatic_thoughts": "好的都不算数，坏的才是关键",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望能够安心养宠并成为可靠的照护者，维持对生命的安全与掌控",
+        "fear": "害怕自己的失误会导致宠物受伤或死亡，从而引发强烈的内疚与自责",
+        "defense_goal": [
+          "通过回避来维持安全感并降低焦虑",
+          "保持高度控制与谨慎以减少犯错的可能"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不可靠、可能造成伤害的照护者",
+          "object_representation": "脆弱且需要被保护、容易受伤的生命体（宠物）",
+          "linking_affect": "焦虑、恐惧、内疚"
+        },
+        {
+          "self_representation": "担心被评判的异类",
+          "object_representation": "可能不理解或觉得自己奇怪的他人（朋友）",
+          "linking_affect": "羞耻、担心"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询中聚焦于“可能忘记喂食、没注意到生病”等失误话题时",
+          "interpretation": "将失误等同于灾难性后果，把自己视为潜在加害者（移情：自我贬抑）",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "语气温和且具支持性，邀请其回到具体经验与情绪感受，减少抽象解释；用开放式问题引导其描述当时的感觉与身体反应。"
+        },
+        {
+          "trigger_condition": "当谈及向朋友分享这份恐惧或担忧他人反应时",
+          "interpretation": "假定他人会认为自己奇怪或不理解（移情：投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "保持共情与不评判，使用澄清与验证技术；轻声鼓励其区分假设与证据，建议小步尝试分享并记录实际反馈。"
+        },
+        {
+          "trigger_condition": "当被问到“不再养其他宠物”的选择及其理由时",
+          "interpretation": "为回避行为提供看似合理的解释以缓解焦虑",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "保持中性稳定的语调，肯定其自我保护意图，同时温柔挑战其推理链条；邀请其进行成本-收益分析与现实检验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "持续担心宠物会因自己的失误而死亡",
+            "负面记忆主导对生命脆弱性的认知"
+          ],
+          "outcomes": [
+            "回避养除斗鱼外的其他宠物",
+            "长期焦虑与担忧，决策受限"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "对照料责任的焦虑与不确定性",
+            "在选择是否养宠物时感到为后果承担的压力"
+          ],
+          "outcomes": [
+            "犹豫与回避，缩减行为选择范围",
+            "对自我效能感的动摇"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "未向亲密朋友分享恐惧，担心被误解或觉得奇怪"
+          ],
+          "outcomes": [
+            "缺乏外部支持与校准信息，焦虑循环得不到修正",
+            "自我监控增强"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "认为朋友会觉得自己奇怪或不理解，从而不愿谈及恐惧",
+            "将内在的羞耻与担心归因于他人的可能反应"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "对照料失误的可能性过度谨慎与自我苛责",
+            "在谈及宠物与责任时反复自我检查与预想错误"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "以“必须不能犯错”“必须零失误”的标准要求自己",
+            "将“照料中任何错误都不可接受”视为绝对准则"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "热爱动物，具备养宠动机",
+          "曾经有宠物健康快乐的时光，表明存在一定照护能力的证据",
+          "拥有一群关系密切的朋友（潜在社会支持）",
+          "主动寻求咨询，愿意练习现实检验与作业"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来、心理过滤等认知偏差显著",
+          "对错误零容忍与高控制需求，加剧焦虑与回避",
+          "回避行为（不再养其他宠物、不向朋友谈及恐惧）维持问题循环",
+          "自我怀疑与对被评判的担心，限制求助行为"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对养宠物的强烈焦虑与回避",
+          "antecedent": [
+            "想到要养新宠物或接触与宠物照料相关的讨论",
+            "回忆一年前的负面宠物经历"
+          ],
+          "core_reason": "负面养宠经历触发对失误将导致严重后果的灾难化认知与强烈内疚预期，进而形成对责任的高警觉",
+          "function": "逃避潜在危险与内疚，维持控制感与安全感",
+          "consequence": "避免养除斗鱼外的其他宠物；日常决策受限；持续担忧并不与朋友讨论该恐惧"
+        },
+        {
+          "behavior": "反复预测最坏情况并进行过度担忧（反刍）",
+          "antecedent": [
+            "被问及养宠相关计划或听到宠物照料话题",
+            "独自思考可能的照料失误"
+          ],
+          "core_reason": "对未来错误的确定性假设与过度概括导致持续的威胁监控",
+          "function": "试图通过预演风险来获得控制感、降低不确定性",
+          "consequence": "焦虑维持或加重，难以进行现实检验与小步尝试"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1037
+}

@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "林佩琪",
+      "gender": "女",
+      "occupation": "医生",
+      "educational_background": "医学学位",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有朋友与同事可交谈，但难以分享自责与不足感；与同事关系因自责倾向而紧张",
+      "medical_history": "无重大躯体疾病；无既往心理问题治疗史",
+      "language_features": "表达清晰、逻辑性良好，情绪低落与疲惫感明显；语气消极并带有自我怀疑，但合作度较高，能够接受作业尝试"
+    },
+    "main_problem": "我持续被自我不足与自责感压垮，尤其是在作为医生的角色中；几乎每天都会在工作中遇到挑战时自责，认为一切都是我的错。",
+    "topic": "职业发展",
+    "core_demands": "我只想再次感到胜任，不再一直觉得自己是失败者。我知道这影响了我的工作和身心健康，我需要改变。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不称职的/我不够好",
+        "发生错误就等于我是个失败者",
+        "出现问题都是我的错"
+      ],
+      "special_situations": [
+        {
+          "event": "因照看病人而开会迟到几分钟",
+          "conditional_assumptions": "只要出现迟到等小差错，就证明我不称职并让大家失望",
+          "compensatory_strategies": "对自己严苛要求、反复检视并努力避免任何迟到",
+          "automatic_thoughts": "我是个糟糕的医生",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "工作中出现小的差错或意外",
+          "conditional_assumptions": "如果发生任何问题，责任都在我身上",
+          "compensatory_strategies": "反复自我检查、向同事寻求肯定与安慰",
+          "automatic_thoughts": "都是我的错/我让大家失望了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "工作节奏紧张、任务堆积、时间被压缩",
+          "conditional_assumptions": "必须在任何情境下都达到完美与高标准，否则就是失败",
+          "compensatory_strategies": "持续自我怀疑与过度自我监控，难以放松",
+          "automatic_thoughts": "我总是达不到要求/我在失败",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "向同事寻求认可以缓解不安",
+          "conditional_assumptions": "只有得到他人的认可，我才算合格和值得被接纳",
+          "compensatory_strategies": "频繁向他人求证与寻求安慰",
+          "automatic_thoughts": "如果他们不认可，我就不称职",
+          "cognitive_pattern": "External Validation"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可并被视为胜任、可靠的专业人士",
+        "fear": "害怕让他人失望、被批评为不称职、被否定",
+        "defense_goal": [
+          "通过把责任内化并对自己苛责来避免外界指责",
+          "以过度负责与自我监控来维持可控与安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚且不称职、容易让人失望的自己",
+          "object_representation": "苛刻评判、容易失望的他人（同事与团队）",
+          "linking_affect": "羞耻、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当谈及工作中的迟到或小差错，或被咨询师询问具体例子时",
+          "interpretation": "将他人（包括咨询师）体验为可能的评判者，认为必须先自责以避免被责备",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气自责、频繁使用“都是我的错/我不行”之类表述；降低自我价值的用词，避免为自己辩护。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "虽有朋友与同事可谈，但难以分享自责与不足感",
+            "在高压与失误后独自承受内疚与羞耻"
+          ],
+          "outcomes": [
+            "人际疏离与与同事关系紧张",
+            "持续自我怀疑与精力耗竭"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在团队互动中过度道歉与求证",
+            "持续二次猜测自己的决定，难以直接表达需要",
+            "将小失误上纲为整体不称职"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有朋友与同事的支持网络（可倾诉）",
+          "愿意求助并尝试记录思维与情境",
+          "能够识别负性自动思维并愿意挑战与改变"
+        ],
+        "negative_force": [
+          "工作压力与高期待加剧自我苛责",
+          "习惯性个人化归因，将责任全部揽到自己身上",
+          "过度依赖外部认可来确认自我价值",
+          "持续自我怀疑导致注意力受损与绩效下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "过度自责与自我否定",
+          "antecedent": [
+            "工作节奏紧张、时间被压缩",
+            "出现小的差错或不便（如开会迟到几分钟）",
+            "面对挑战性任务或同事期望"
+          ],
+          "core_reason": "在高压力与高期待情境下，将小差错等同于整体不称职，并内化为“都是我的错/我是不称职的医生”的信念",
+          "function": "逃避被批评与不确定感，通过先行自责寻求控制；并通过向同事求证以获得安慰与认可",
+          "consequence": "工作专注度下降，患者与同事互动受影响；与同事关系紧张，日常自我照料受损"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1857
+}

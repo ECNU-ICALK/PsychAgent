@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "42",
+      "name": "陈思敏",
+      "gender": "女",
+      "occupation": "未提及",
+      "educational_background": "硕士学位",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有支持性的家人和朋友可倾诉，但不完全理解其求职困境；失业压力导致与家人朋友关系紧张",
+      "medical_history": "既往无类似心理问题；此前未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑性较好；能识别并讨论自身认知模式；配合度高、态度积极"
+    },
+    "main_problem": "尽管拥有硕士学位，但我相信自己永远无法获得一份“正经”工作，这种信念引发了无望和绝望感。",
+    "topic": "职业发展",
+    "core_demands": "由于资历仍无法获得工作显著影响心理健康与整体人生观，寻求咨询支持。",
+    "growth_experiences": [
+      "完成硕士学位后开始求职，求职过程屡遭拒绝或无回复，压力显著升高并引发经济困难；随着时间推移，问题加剧，自信心下降；在人际方面，失业带来与家人朋友的关系紧张；在日常生活上，求职不确定性打乱作息并导致睡眠障碍。来访者为改善现状曾多次修订简历、进行人脉拓展、寻求职业建议，但负性信念仍然持续。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我不够好",
+        "没有人会雇用我"
+      ],
+      "special_situations": [
+        {
+          "event": "在投递岗位后收到拒信或未被回复",
+          "conditional_assumptions": "如果没有获得正面反馈或录用，就证明我不够好，且永远找不到“正经工作”",
+          "compensatory_strategies": "修订简历、拓展人脉、寻求职业建议、加强面试准备",
+          "automatic_thoughts": "我永远也找不到正经工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "收到面试邀请但最终未获得录用",
+          "conditional_assumptions": "如果面试没有转化为录用，说明我的能力不足、努力毫无意义",
+          "compensatory_strategies": "将失败归因于自身不足，进一步练习面试、系统更新简历以突出优势",
+          "automatic_thoughts": "我不够好，面试失败证明我没有希望",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "在查看求职邮箱或招聘平台时，注意到大量拒绝或未回复的信息",
+          "conditional_assumptions": "如果出现拒绝，就意味着整体求职进展失败，其他积极迹象都不算数",
+          "compensatory_strategies": "反复回想负面结果、忽视面试邀请等积极信号",
+          "automatic_thoughts": "我的努力毫无意义",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "面临持续的经济压力与求职不确定性",
+          "conditional_assumptions": "如果当前经济吃紧，就意味着我无法自立，未来只会更糟",
+          "compensatory_strategies": "增加投递与尝试，但内心持续做最坏打算以降低失望",
+          "automatic_thoughts": "我的前途已经被毁了",
+          "cognitive_pattern": "Fortune Telling"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与接纳，获得稳定体面的工作以证明自身价值",
+        "fear": "害怕持续被拒绝与被评判为不够好，陷入经济不安全与无望",
+        "defense_goal": [
+          "通过提前预期失败与自我否定来降低期待，以避免更大的失望"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的失败者/被拒绝的求职者",
+          "object_representation": "雇主或他人是挑剔的评判者/拒绝者",
+          "linking_affect": "绝望、羞愧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或他人询问求职进展、或谈到被拒绝的经历时",
+          "interpretation": "倾向将失败全归因于自身“不够好”，并将他人（包括雇主）理解为持续否定和拒绝自己",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "语气温和支持，承认其努力与处境；引导其具体化证据、区分事实与评价，减少自我指责，并邀请其同时看到积极迹象。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "觉得读硕士像是被浪费、努力毫无意义",
+            "面对求职拒绝时体验到强烈的无望与绝望"
+          ],
+          "outcomes": [
+            "自尊下降",
+            "无望与绝望感",
+            "动力降低"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "家人和朋友虽支持但不完全理解其求职困境，交流时感到关系紧张"
+          ],
+          "outcomes": [
+            "关系紧张",
+            "情绪负担加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。语言表现为：“我必须/应该…”，“大家都这样”等。",
+          "manifestations": [
+            "坚持“必须找到一份正经工作”的内在标准",
+            "以社会期望的工作标准衡量自我价值"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责：“我不够好/我是失败者”",
+            "在求职与面试交流中因自我怀疑而不够自信"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在投递求职与等待反馈的情境下，来访者通常会因频繁被拒或无回复而产生绝望与自我否定，认为自己永远找不到“正经工作”。",
+          "unique_outcome": "在几次投递后收到了面试邀请，未完全像往常那样全盘否定自己，并承认获得面试意味着资历被认可，体验到一定的希望。",
+          "reason": "线索：由于修订简历、拓展人脉、寻求职业建议等不同做法，提高了机会，因此出现了面试邀请这一偏离点。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "受过良好教育（硕士学位），具备专业资质",
+          "能采取建设性行动（修改简历、拓展人脉、练习面试、寻求职业建议）",
+          "有一定社会支持（家人与朋友支持）",
+          "能识别并讨论认知偏差，愿意进行重构与现实检验"
+        ],
+        "negative_force": [
+          "灾难化的未来预测与仓促下结论（“我永远找不到正经工作”）",
+          "心理过滤与否定积极证据（忽视面试邀请的积极意义）",
+          "自我价值过度依赖外部录用与他人认可",
+          "持续压力导致睡眠受扰，降低整体功能与韧性",
+          "频繁自责与失败认同（“我是失败者”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "求职受挫时的自我否定与强烈绝望情绪",
+          "antecedent": [
+            "在投递岗位后收到拒信或未被回复",
+            "面试未转化为录用"
+          ],
+          "core_reason": "负性核心信念（“我是失败者/我不够好”）与灾难化未来预测，将个别拒绝泛化为整体失败",
+          "function": "通过降低期待来回避失望与不确定性，短期降低焦虑",
+          "consequence": "自尊下降、动力减弱、持续绝望，求职效率与表现受损"
+        },
+        {
+          "behavior": "睡眠障碍（入睡困难或睡眠被打断）",
+          "antecedent": [
+            "求职不确定性加剧与财务压力升高",
+            "反复思考被拒与没有回复"
+          ],
+          "core_reason": "高压力与焦虑维持负性自动思维，夜间反刍增强生理唤醒",
+          "function": "无显著适应功能（不良的生理反应）",
+          "consequence": "整体健康受损、白天精力下降，进一步影响求职与情绪稳定"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1908
+}

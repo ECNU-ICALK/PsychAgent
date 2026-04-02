@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "48",
+      "name": "李凯文",
+      "gender": "男",
+      "occupation": "业余厨师",
+      "educational_background": "烹饪学校毕业",
+      "marital_status": "单身",
+      "family_status": "独居",
+      "social_status": "有几位朋友可交谈，但难以向他们表达自己的“不够好”感受",
+      "medical_history": "无显著躯体疾病史；无既往心理治疗史；此前未经历类似问题",
+      "language_features": "态度中性；能清楚描述困扰；愿意尝试行为实验"
+    },
+    "main_problem": "近几个月在玩电子游戏时强烈感到无能与不够好，比较他人后自尊受到显著影响。",
+    "topic": "情绪管理",
+    "core_demands": "识别并挑战诸如“我永远比不上别人”的负性信念，设计并实施行为实验以检验与修正这些信念，从而缓解自卑感、改善自我评价与身心福祉。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我永远比不上别人"
+      ],
+      "special_situations": [
+        {
+          "event": "在游戏中与其他玩家比较成绩或表现",
+          "conditional_assumptions": "如果我的进步不如他人或水平不及他人，就说明我不够好",
+          "compensatory_strategies": "不断与他人比较、寻求外部认可来证明自己",
+          "automatic_thoughts": "我不如他们/我不行",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "在游戏中收到其他玩家的负面反馈或批评",
+          "conditional_assumptions": "如果他人对我有负面评价，就说明我确实很差",
+          "compensatory_strategies": "避免与朋友讨论自卑感受；加倍练习以避免再次被批评",
+          "automatic_thoughts": "他们肯定觉得我很差",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在游戏中多次失败或短期内没有看到明显进步",
+          "conditional_assumptions": "如果我现在做不好，未来也不会变好",
+          "compensatory_strategies": "预设最坏结果、用压力鞭策自己持续练习",
+          "automatic_thoughts": "我以后也不会变好/我永远比不上别人",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "即便有小幅进步（例如连续通关曾经困难的关卡），仍被失败记忆所覆盖",
+          "conditional_assumptions": "只有达到与他人同等或更高的水平才算数，其他进步不值得被看见",
+          "compensatory_strategies": "忽视正向证据、聚焦失败以推动自己继续用力",
+          "automatic_thoughts": "这些小进步不算数",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可、被看作有能力与足够好",
+        "fear": "害怕被评价为无能、被贬低或被排斥",
+        "defense_goal": [
+          "通过寻求外部认可来降低不安与自我怀疑",
+          "避免在亲友面前表露脆弱以保护自我形象"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易出错的学习者/玩家",
+          "object_representation": "苛刻评判、比自己更优秀的他人",
+          "linking_affect": "羞耻、焦虑、自卑"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "难以与朋友讨论自己的“不够好”与自卑感",
+            "在游戏场域中依赖他人评价来界定自我价值"
+          ],
+          "outcomes": [
+            "自我价值感对他人评价高度依赖",
+            "情绪低落与自尊下降",
+            "对兴趣活动（如弹吉他）的动机减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁将自己与他人比较、以他人评价定义自我价值",
+            "收到负面反馈时强化自我苛责",
+            "难以向朋友表达脆弱与不足感受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在玩电子游戏遇到困难或失败时，来访者通常会陷入“我很差/永远比不上他人”的想法，情绪低落并失去动力。",
+          "unique_outcome": "在连续练习某些曾经困难的关卡时，来访者能够持续通关并看到小幅进步，这与以往“一直失败、没有改观”的体验不同。",
+          "reason": "不同做法：聚焦于具体关卡的持续练习并积累熟练度；情境线索：有可观察的目标与进步证据，短期内反馈更明确。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对基于证据的练习与“行为实验”持开放态度",
+          "能觉察并承认自身存在小幅进步（如连续通关曾经困难的关卡）",
+          "工作与基本功能稳定（厨房工作未受影响）",
+          "具备一定的社会支持（有几位朋友可交谈）"
+        ],
+        "negative_force": [
+          "习惯性与他人比较，依赖外部验证来评估自我价值",
+          "存在灾难化、过度概括、否定积极信息等认知偏差",
+          "在负面反馈与失败后易自我否定、情绪低落",
+          "难以向朋友表达脆弱，支持资源难以有效发挥"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在电子游戏情境下出现强烈的自卑与自我否定",
+          "antecedent": [
+            "在游戏中失败",
+            "收到其他玩家的负面反馈",
+            "与他人比较水平与进步"
+          ],
+          "core_reason": "将能力与自我价值等同，受灾难化、过度概括、否定积极等认知偏差驱动，并依赖外部认可。",
+          "function": "逃避被否定的不适感，试图通过自我批评与加倍练习获得控制与认可。",
+          "consequence": "自尊下降、情绪低落、对其他兴趣（如弹吉他）动力减少，但工作表现未受影响。"
+        },
+        {
+          "behavior": "减少参与其他兴趣活动（如弹吉他）",
+          "antecedent": [
+            "在游戏后体验挫败与低落情绪"
+          ],
+          "core_reason": "负性情绪泛化导致动机下降，对失败的预期增强。",
+          "function": "短期回避可能的失败与挫败体验，减轻不适。",
+          "consequence": "休闲与恢复机会减少，进一步加重低落与自我评价下降的循环。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 590
+}

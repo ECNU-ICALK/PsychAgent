@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "张凯",
+      "gender": "男性",
+      "occupation": "",
+      "educational_background": "",
+      "marital_status": "",
+      "family_status": "婴儿时期被收养；有六个兄弟姐妹；养父在惠普工作",
+      "social_status": "与兄弟姐妹的关系因常取消或推迟拜访而受影响；有一些兄弟姐妹和朋友可讨论，但未深入谈及焦虑程度",
+      "medical_history": "无重大躯体疾病；未接受过心理治疗；过去在压力情境中出现与旅行/未来相关的焦虑与恐惧",
+      "language_features": "未提及"
+    },
+    "main_problem": "我对未来的恐惧，特别是由于担心航班频繁延误，导致我害怕前往探望兄弟姐妹。",
+    "topic": "情绪管理",
+    "core_demands": "与旅行相关的恐惧和焦虑变得难以承受，影响我的心理健康和关系，促使我寻求咨询。",
+    "growth_experiences": [
+      "婴儿时期被收养，自那以后对未来与不确定性的恐惧持续存在；现有六个兄弟姐妹，养父在惠普工作，长期在与家人往来与旅行的情境中容易激发对不确定性的担忧。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "未来不可控且充满威胁",
+        "我无法应对不确定性"
+      ],
+      "special_situations": [
+        {
+          "event": "为探望兄弟姐妹而安排行程，查阅航班与天气信息，看到“航班频繁延误”的报道",
+          "conditional_assumptions": "只要存在延误的可能，我就无法按时到达，最终会陷入麻烦",
+          "compensatory_strategies": "周密计划：反复研究航班、天气与细节，以期通过完美安排来控制结果",
+          "automatic_thoughts": "无论我怎么计划，还是会迟到，可能根本赶不到",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "临近出发日，准备前往机场",
+          "conditional_assumptions": "一旦出现任何不确定因素，情况就会变糟，我会被困在机场且无法掌控",
+          "compensatory_strategies": "取消或推迟行程以避免压力和不确定性",
+          "automatic_thoughts": "航班一定会延误，我会被困在机场，很无助",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "兄弟姐妹邀请他探望并确定具体日期",
+          "conditional_assumptions": "只有完全按计划准时抵达才算成功，否则就是失败并会破坏关系",
+          "compensatory_strategies": "把行程规划到几乎完美；若感到无法确保准时，则直接不出发",
+          "automatic_thoughts": "只要出现一点意外，这次探亲就彻底失败",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "回顾过往或媒体中关于航班延误的信息",
+          "conditional_assumptions": "出现过延误这一负面细节意味着未来也会如此",
+          "compensatory_strategies": "只关注可能的风险与坏情况，忽视积极证据",
+          "automatic_thoughts": "航班总是延误，靠谱的选择几乎没有",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望与兄弟姐妹保持亲近，并在可预测、可掌控的环境中获得安全感",
+        "fear": "害怕不确定性导致失控与被困，从而让关系受损或让人失望",
+        "defense_goal": [
+          "通过保持高度控制与周密计划来降低不确定性",
+          "通过回避旅行以防止可能的失控和焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "需要做到完美与准时才能被接纳的焦虑者",
+          "object_representation": "被体验为对我有期待、但可能因我迟到而失望的兄弟姐妹/亲人",
+          "linking_affect": "焦虑、内疚、无助"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询聚焦旅行的不确定性或被邀请辨识与表达焦虑、无助等感受时",
+          "interpretation": "倾向认为只要制定更完善的计划就能控制问题，探讨情绪会让事情更不确定，理性方案更“有效”",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "采用冷静、分析性的语气，强调数据与步骤，回避对恐惧、无助等感受的深入表达；以问题分解、方案评估的方式作答。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "面对旅行中的选择与不可预测性时感到强烈焦虑",
+            "希望通过完美计划来掌控结果"
+          ],
+          "outcomes": [
+            "持续的焦虑与紧张",
+            "过度计划与控制",
+            "回避旅行"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因取消或推迟探亲导致与兄弟姐妹的关系紧张",
+            "较少参与与家人的面对面互动"
+          ],
+          "outcomes": [
+            "关系受损与疏离感增强",
+            "内疚与孤独感上升"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "愿意寻求帮助并保持积极态度",
+          "具备问题解决与计划能力",
+          "拥有兄弟姐妹与朋友的社会支持（虽未深入沟通）"
+        ],
+        "negative_force": [
+          "对未来与不确定性高度恐惧",
+          "灾难化与预测未来的思维倾向（认为航班必然延误）",
+          "非黑即白的准时要求导致回避行为",
+          "在旅行计划情境下压力显著升高，常取消或推迟出行"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避出行（取消或推迟探望兄弟姐妹）",
+          "antecedent": [
+            "制定或即将制定旅行计划",
+            "收到兄弟姐妹的邀请或安排具体日期",
+            "查看航班延误或天气等不确定信息"
+          ],
+          "core_reason": "对不确定性与延误的灾难化认知，以及“若不能完全按计划准时抵达就等于失败”的信念；长期的未来恐惧加重了对控制的需求",
+          "function": "逃避不确定与焦虑，短期缓解压力",
+          "consequence": "与兄弟姐妹关系紧张，减少旅行与活动的乐趣，日常生活受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1264
+}

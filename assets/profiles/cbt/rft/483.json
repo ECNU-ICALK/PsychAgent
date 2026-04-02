@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "15",
+      "name": "陈杰",
+      "gender": "男",
+      "occupation": "公共事务联络员兼国民警卫队军官",
+      "educational_background": "传播学学士",
+      "marital_status": "未婚",
+      "family_status": "无抚养人",
+      "social_status": "与国民警卫队同伴的关系因自我否定而有所紧张，但有支持性的同伴群体；陈杰难以向他们敞开心扉谈内疚与自责",
+      "medical_history": "既往无类似心理问题史，未接受过心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、逻辑性强、配合度高，能进行自我反思；语气坦诚但自我苛责，愿意尝试建议与练习"
+    },
+    "main_problem": "我觉得自己在国民警卫队的工作做得很糟糕，尽管我们在自然灾害中救了很多人，但我对没能救下的那个人耿耿于怀，这引发了强烈的内疚和自责。",
+    "topic": "情绪管理",
+    "core_demands": "这些内疚感正在影响我的心理健康和工作表现，使我难以专注于职责。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "失败是不可接受的；若不能拯救所有人，我就是无能/失败者",
+        "我必须为他人的安危承担全部责任，否则就证明我不够好"
+      ],
+      "special_situations": [
+        {
+          "event": "自然灾害救援行动中未能救下一名受灾者",
+          "conditional_assumptions": "如果我没有救下每一个人，就说明我是失败者并且有过错",
+          "compensatory_strategies": "反复回放细节、过度自我检讨，给自己设定更高更苛刻的标准以“防止再犯”",
+          "automatic_thoughts": "都是我的错，我失败了",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "任务总结时团队获得整体正向评价与多名受灾者获救",
+          "conditional_assumptions": "只有完美无缺地救下所有人才能算成功，任何缺憾都等于失败",
+          "compensatory_strategies": "否定积极成果，把注意力全部集中在那个未能挽回的结果上",
+          "automatic_thoughts": "这些成功不算什么，因为我没能救那个人",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "与同伴互动并想到要谈及内疚与自责时",
+          "conditional_assumptions": "如果暴露脆弱与内疚，同伴会认为我软弱无能",
+          "compensatory_strategies": "回避表达、保持沉默，维持“强硬/能干”的外在形象",
+          "automatic_thoughts": "他们会觉得我很软弱",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "事后在脑海中不断回放救援细节和失误",
+          "conditional_assumptions": "只要不断反思和盯住错误，就能避免未来再次失败",
+          "compensatory_strategies": "沉浸在负面片段中、忽略成功片段，牺牲睡眠与食欲",
+          "automatic_thoughts": "我本可以做得更好，错过的就是失败",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可为可靠且有能力的救援者，并尽力守护他人生命不受损失",
+        "fear": "害怕被视为软弱/无能、被评判或责备；害怕失控与再次面对死亡和失去",
+        "defense_goal": [
+          "通过自我苛责与高标准来维持控制感与道德感",
+          "保持克制与沉默以避免暴露脆弱、减少被评价的风险",
+          "以理性分析覆盖强烈情绪以降低焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "内疚而苛责自我的救援者，必须对结果负责",
+          "object_representation": "强大且可能评判的他人/同伴，对我有完美要求",
+          "linking_affect": "羞耻、内疚、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被鼓励与同伴或咨询师分享内疚与脆弱时",
+          "interpretation": "认为表达情绪等同于软弱，会被他人轻视（移情：把他人看作严苛评判者）",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "以简短含糊的方式回应情绪问题，迅速转向任务和事实，减少第一人称情感表述。"
+        },
+        {
+          "trigger_condition": "当谈及未能救下的个体或被询问“责任归因”时",
+          "interpretation": "将本不可控因素内化为个人过失，觉得必须独自承担全部后果",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "使用自责、承担全部责任的语句；弱化环境限制与团队因素。"
+        },
+        {
+          "trigger_condition": "当咨询师或他人强调正向贡献并给予肯定时",
+          "interpretation": "将肯定视为忽视问题的“安慰”，担心因此放松警惕而再次失败",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "用冷静客观的语气强调流程、数据与标准，回避主观感受与自我接纳的讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "直接面对灾害中的死亡与无力挽回的事实",
+            "因个体生命的逝去而产生强烈的负罪感与道德困扰"
+          ],
+          "outcomes": [
+            "内疚与自责加剧",
+            "睡眠不佳与食欲下降",
+            "反复回放创伤性片段"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在高责任情境下以为自己“必须对一切结果负责”",
+            "对不可控因素（时间、资源、现场条件）感到无能为力"
+          ],
+          "outcomes": [
+            "自我苛责与完美主义期待",
+            "持续的焦虑与专注受损"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以向同伴谈论内疚，担心被视为软弱",
+            "主观体验上与团队的心理距离拉大"
+          ],
+          "outcomes": [
+            "支持获取受限",
+            "关系紧张与退缩"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度自责，反复检讨自身不足",
+            "担心被同伴评判而不敢表达感受",
+            "对自我暴露保持高度谨慎"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "假设同伴会把情绪表达当作软弱",
+            "预设他人对自己表现的负面评价而回避对话"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的国民警卫队同伴网络",
+          "具备自我反思与逻辑分析能力，能识别团队成功与个人贡献",
+          "愿意求助并进入咨询，动机积极",
+          "对职责与救援使命高度投入"
+        ],
+        "negative_force": [
+          "个人化归因与过度负责的思维模式",
+          "否定积极结果与心理过滤，执着于单一负面事件",
+          "读心式担忧他人评价，导致表达受阻",
+          "完美主义与不切实际的绩效期待",
+          "反复回放事件引发的睡眠与饮食紊乱，进一步削弱功能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "强烈的内疚与自责反应",
+          "antecedent": [
+            "自然灾害任务后未能救下所有人",
+            "事后反复回放任务细节",
+            "在总结或被问及结果时聚焦于未能挽回的个案"
+          ],
+          "core_reason": "将不可控的负面结果个人化，内化为自身失败，并以“必须救下所有人”的绝对标准评价表现",
+          "function": "维持道德与控制感、试图通过自责“防止再犯”",
+          "consequence": "注意力与工作表现下降，睡眠与食欲受损，情绪负担加重"
+        },
+        {
+          "behavior": "回避向同伴表达情绪与求助",
+          "antecedent": [
+            "想到要与同伴谈论内疚与自责",
+            "看到同伴被视为“强大能干”的形象"
+          ],
+          "core_reason": "担心情绪表达被解读为软弱，害怕被评判与失去尊重",
+          "function": "逃避潜在的负面评价，维持“专业/强硬”的自我形象",
+          "consequence": "与同伴关系紧张、支持获取受限，孤立感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 483
+}

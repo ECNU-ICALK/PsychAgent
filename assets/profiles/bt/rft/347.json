@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "37",
+      "name": "陈博文",
+      "gender": "男性",
+      "occupation": "退休",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与潜在伴侣的关系受拒绝感影响；有朋友可谈，但未与朋友讨论具体的拒绝与不足感。",
+      "medical_history": "无显著躯体疾病；无心理治疗史；以往约会中未出现类似问题。",
+      "language_features": "表达清晰，能具体回忆情境；语气消极与怀疑；在约会前与约会后情绪化程度高；在咨询中愿意尝试但持保留态度，配合度一般。"
+    },
+    "main_problem": "我想讨论的问题与我的约会生活有关，当约会没有成功时会出现拒绝感和不足感。这些感觉在过去几个月一系列不成功的约会后变得突出；我把原因归于自己被女性不喜欢的性格缺陷。问题发展到在约会前就感到焦虑和不安，预期被拒绝，并且每次约会没有形成关系就会出现这些感受。",
+    "topic": "人际关系",
+    "core_demands": "这些拒绝与不足感正在影响我的自尊，阻止我享受约会与社交活动，因此希望通过咨询减轻这些感受、恢复自尊与社交的乐趣。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够好",
+        "我的性格让女性不喜欢我"
+      ],
+      "special_situations": [
+        {
+          "event": "在一次约会后，对方不再回复我的跟进短信",
+          "conditional_assumptions": "如果对方保持沉默，必然是我的性格有问题，让她不喜欢我",
+          "compensatory_strategies": "撤退、停止外出和社交以避免再次被拒绝",
+          "automatic_thoughts": "她觉得我无聊、没有吸引力；她讨厌我的性格",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在约会开始前的准备阶段",
+          "conditional_assumptions": "如果这次约会不成功，就证明我不够好或性格有缺陷",
+          "compensatory_strategies": "提前灾难化、降低期待，甚至考虑不去约会以自我保护",
+          "automatic_thoughts": "这次肯定又会失败；她不会喜欢我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "对方表示“没有感觉”或“没有连接”",
+          "conditional_assumptions": "如果对方没有立刻产生连接，就说明问题都在我身上",
+          "compensatory_strategies": "过度自我反省并向朋友寻求“我是否做错了”的反馈，但不表达真实的受伤感受",
+          "automatic_thoughts": "都是我的错；我不够有趣/不够吸引人",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "过去几个月出现一系列不成功的约会",
+          "conditional_assumptions": "多次失败就意味着我今后也会一直失败",
+          "compensatory_strategies": "将约会整体定义为“灾难”，逐渐减少社交与外出",
+          "automatic_thoughts": "我的约会都会变成一场灾难；我注定不行",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢、被接纳并建立稳定的亲密关系",
+        "fear": "害怕被拒绝与被否定，担心自己的“不够好”被暴露",
+        "defense_goal": [
+          "通过回避社交来降低再次受伤的风险",
+          "提前预期失败以减轻焦虑",
+          "将结果归因于自身性格缺陷以获得可解释性与控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的被拒者",
+          "object_representation": "挑剔且会拒绝自己的潜在伴侣",
+          "linking_affect": "焦虑、羞耻、悲伤"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师提出以不同心态或挑战负性思维的建议时",
+          "interpretation": "认为改变思维没用，因为无法控制他人的反应，等同于必然失败",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以支持性、肯定的语气承认其怀疑，使用具体化与证据检验的提问，设计小步行为实验，避免对抗与评判，邀请其共同验证不同解释的可能性。"
+        },
+        {
+          "trigger_condition": "当被邀请深入表达被拒后的受伤感与脆弱体验时",
+          "interpretation": "倾向以概括性叙述事件、减少情绪细节来谈论经历",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "缓慢节奏、情感标注与共情性回应，邀请描述具体情绪强度、身体感受与当下需要，提供安全边界与停顿空间以促进情感接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "约会失败后撤退、避免社交",
+            "在约会前预期被拒导致自我隔离",
+            "将连接缺失完全归因于自身缺陷"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "焦虑与不安全感增加",
+            "社交与活动的乐趣下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "自我否定：认为自己“不够好/不够有趣”",
+            "约会前过度谨慎与不安，预期失败",
+            "在失败后强化自责，减少外出与社交"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应。",
+          "manifestations": [
+            "读心式假设女性不喜欢自己（她觉得我无聊/没有吸引力）",
+            "将他人的沉默直接解释为对自己性格的否定"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在约会不顺或对方不回应时，来访者通常会将失败完全归因于自身性格缺陷，并陷入自卑与退缩，减少社交活动。",
+          "unique_outcome": "在一些约会片段中，双方有愉快互动（对方会笑他的笑话、称赞他“很友善”），当下体验到被接纳的时刻。",
+          "reason": "不同支持/线索：来访者在互动中展现了幽默与友善的品质，形成初步连接，这些积极反馈提示其具备可被喜爱的特质。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "在约会中能展现幽默与友善并获得正向反馈",
+          "有一定的朋友支持网络",
+          "愿意尝试认知层面的检验与改变（接受挑战负性思维的建议）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、读心术与个人化的认知偏差",
+          "在受挫后撤退与回避社交，预期失败",
+          "自尊受损与持续的自我否定"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "约会受挫后撤退并回避社交活动",
+          "antecedent": [
+            "约会后对方不再回复信息",
+            "对方表示“没有感觉/没有连接”",
+            "约会前预期被拒导致焦虑与不安"
+          ],
+          "core_reason": "将约会不成功灾难化并个人化归因为自身性格缺陷，形成“我不够好”的核心信念与失败预期。",
+          "function": "逃避再次被拒的可能性与随之而来的羞耻与痛苦情绪",
+          "consequence": "社交减少、无法享受原本喜欢的活动，自尊进一步下降，约会机会减少"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 347
+}

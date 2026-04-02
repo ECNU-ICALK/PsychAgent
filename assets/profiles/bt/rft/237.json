@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "51",
+      "name": "李梅",
+      "gender": "女",
+      "occupation": "酒店员工",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，无兄弟姐妹",
+      "social_status": "与同事关系受影响（因频繁寻求保证与认可）；有几位朋友可交谈但常犹豫分享自己的担忧",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗；过去未出现类似心理问题",
+      "language_features": "表达清晰、能具体描述触发情境与后果；整体语气消极，倾向灾难化与预测未来；在咨询中持怀疑态度但愿意尝试；有寻求他人保证的倾向"
+    },
+    "main_problem": "我一直担心会被酒店解雇，并且相信一旦被解雇我将再也找不到新工作。这些念头在过去几个月反复出现，已影响我的工作表现和身心状态。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为对失去工作的持续恐惧显著影响我的心理健康和工作表现。",
+    "growth_experiences": [
+      "几个月前在工作中犯了一次错误，触发了高强度的压力。从那之后，她在面对工作中具有挑战性的任务或压力情境时，反复出现“任何错误都意味着被解雇”的想法，逐渐发展为持续的焦虑与对最坏结果的预期；这影响到工作专注度与产出，并延伸到生活层面（睡眠与进食困难），同时因频繁寻求同事的保证与认可而使同事关系受损。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "在这个年龄没有人愿意雇用我",
+        "如果我被解雇，我将再也找不到工作"
+      ],
+      "special_situations": [
+        {
+          "event": "在酒店面对高压或具有挑战性的工作任务时",
+          "conditional_assumptions": "如果我在压力下犯错，就会被解雇",
+          "compensatory_strategies": "向同事频繁寻求保证与认可以缓解不确定感",
+          "automatic_thoughts": "我会把事情搞砸然后被解雇",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "工作中出现小错误或在困难任务结束后的时段",
+          "conditional_assumptions": "任何错误都等于失去工作",
+          "compensatory_strategies": "过度谨慎、如履薄冰般保持高度警惕",
+          "automatic_thoughts": "如果有任何差错，我就完了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "在家中反复回想白天的工作事件、夜间入睡困难",
+          "conditional_assumptions": "工作中的问题必然走向最坏结果",
+          "compensatory_strategies": "犹豫向朋友分享担忧，独自承受并反复思考",
+          "automatic_thoughts": "我会没工作、付不起账单，最后无家可归",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "与同事互动、需要请教或协作时",
+          "conditional_assumptions": "如果得不到同事的保证，我更可能犯错并被解雇",
+          "compensatory_strategies": "不断寻求他人的保证与验证以降低焦虑",
+          "automatic_thoughts": "他们可能已经厌烦我了",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望稳定、安全的工作与被同事认可",
+        "fear": "害怕犯错后被拒绝与解雇，最终失去生计与安全感",
+        "defense_goal": [
+          "通过保持高度警惕并频繁寻求他人保证来降低不确定性与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑、易被评判的求生者（担心被解雇与不被雇用）",
+          "object_representation": "可能会不满、评判并拒绝自己的他者（如同事、雇主）",
+          "linking_affect": "恐惧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被建议减少寻求保证、尝试行为实验或面对不确定性时",
+          "interpretation": "倾向认为自己无法应对而会失败，进而担心这会导致被解雇（将他者视为随时可能拒绝或惩罚的权威）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以温和、支持性的语气回应，承认其怀疑与不安；使用具体化与引导式提问，邀请其描述感受与证据，对灾难化推论进行温和检视，避免对抗性语言。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居且无兄弟姐妹",
+            "有朋友但常犹豫分享自己的恐惧与焦虑",
+            "在家中反复思虑工作问题、夜间难以入睡"
+          ],
+          "outcomes": [
+            "工作焦虑加剧",
+            "情绪支持不足",
+            "睡眠与饮食紊乱"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "对错误高度敏感、如履薄冰般谨慎",
+            "频繁寻求他人保证与认可",
+            "在压力任务面前过度担心最坏结果"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "过往在出现错误的情况下仍能保住工作，说明具备一定的应对与恢复能力",
+          "自我觉察：能辨认灾难化思维对情绪的影响，并愿意尝试新方法",
+          "拥有一定的社会支持（同事与少数朋友）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来与过度概括的思维模式",
+          "对外部验证的依赖（频繁寻求保证）",
+          "年龄相关的自我怀疑（认为51岁难以被雇用）",
+          "睡眠与进食受影响导致精力与专注下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在工作情境中出现强烈焦虑并频繁寻求他人保证/验证",
+          "antecedent": [
+            "面对具有挑战性的任务或高压工作情境",
+            "工作中出现小错误或刚完成困难任务之后",
+            "在家中反复回想白天的工作事件、夜间难以入睡"
+          ],
+          "core_reason": "一次工作失误后形成的灾难化与预测未来的认知（错误=被解雇；被解雇=永远无法再就业且无家可归），并伴随年龄相关的自我怀疑（认为51岁难被雇用）",
+          "function": "逃避不确定性与焦虑，通过外部安抚/保证来获得短暂的安全感",
+          "consequence": "工作表现下降、专注度与产出受损；与同事关系紧张；睡眠与饮食受影响，整体身心健康恶化"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 237
+}

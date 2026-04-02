@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "44",
+      "name": "李维",
+      "gender": "男性",
+      "occupation": "研究生（毕业前最后一年）",
+      "educational_background": "研究生在读（最后一年）",
+      "marital_status": "单身",
+      "family_status": "无直系亲属，但与宠物狗及外甥/外甥女关系密切",
+      "social_status": "有少量亲密朋友与亲属可交谈，但尚未向他们倾诉此问题",
+      "medical_history": "无类似心理问题史；未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰、条理较好；能描述情绪与事件；语气偏消极，常用自责与绝对化表述；配合度良好；存在完美主义与自我批评倾向"
+    },
+    "main_problem": "与烹饪技能相关的自我怀疑与不充分感，源于一次将意面做得过咸的失误后开始加重，并逐渐认为烹饪失败反映了自己缺乏自豪感与努力。",
+    "topic": "情绪管理",
+    "core_demands": "因为这些感受影响了自尊与对烹饪的享受而寻求咨询。",
+    "growth_experiences": [
+      "几周前一次烹饪失误（意面做得过咸）成为转折点：此前，烹饪是自我表达与创造力的来源并令其感到自豪；事件后，每次下厨都感到必须做到完美，一旦不如预期便产生强烈自我怀疑与自我批评，将一次失误泛化为能力不足与缺乏自豪感/努力，进而影响学业专注与对烹饪、海边休闲等活动的享受。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是无能的",
+        "我不值得被肯定"
+      ],
+      "special_situations": [
+        {
+          "event": "一次将意面做得过咸的烹饪失误",
+          "conditional_assumptions": "如果菜品失败，就说明我没有自豪感/不够努力/不具备能力",
+          "compensatory_strategies": "通过追求完美与加剧自我批评来逼迫自己改进",
+          "automatic_thoughts": "这说明我不够努力、没有能力。",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "菜品整体表现不错时仍挑出瑕疵并否定成就",
+          "conditional_assumptions": "只要有一点缺陷，就可以证明我是个糟糕的厨师",
+          "compensatory_strategies": "持续自我监控与挑错，主动忽视或否定积极反馈",
+          "automatic_thoughts": "这道菜不够好，我仍然不行。",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "烹饪不如预期后对学业专注与表现造成影响",
+          "conditional_assumptions": "在厨房的失败意味着我在其他领域也会失败",
+          "compensatory_strategies": "反复担忧与反刍，通过控制烹饪表现来恢复自我价值感",
+          "automatic_thoughts": "我在各方面都不行。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "每次下厨都感到必须做到完美，否则就是失败",
+          "conditional_assumptions": "只有达到完美才算有价值；不完美等于失败",
+          "compensatory_strategies": "提高标准、施加巨大压力、追求零错误",
+          "automatic_thoughts": "我必须做到完美，否则就是一无是处。",
+          "cognitive_pattern": "Should"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过能力与完美表现获得认可与自尊",
+        "fear": "害怕失败被视为无能、失去自我价值与骄傲",
+        "defense_goal": [
+          "通过完美主义与自我批评维持控制，避免失败与羞耻"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、需要靠完美证明价值的人",
+          "object_representation": "他人（泛化的评价者）会苛刻地以成败衡量我",
+          "linking_affect": "羞耻、焦虑"
+        },
+        {
+          "self_representation": "失去自豪感的厨者",
+          "object_representation": "烹饪作为严苛的考核场域、容错率低的对象",
+          "linking_affect": "挫败、失落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当菜品不如预期或回想“过咸的意面”失误时",
+          "interpretation": "将一次失误视为自身无能与不努力的证据（把失败内化为稳定缺陷）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "使用自责、苛刻的语气评价自己，忽略积极面，强调“我不够努力/没有能力”。"
+        },
+        {
+          "trigger_condition": "面对不完美或细微瑕疵时",
+          "interpretation": "将好与坏完全分裂，非黑即白地认定“不完美=失败”",
+          "defense_mechanism": "分裂",
+          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
+          "response_instruction": "以绝对化措辞（如“要么完美要么失败”）回应，拒绝中间立场。"
+        },
+        {
+          "trigger_condition": "当被询问失误原因或需要解释表现时",
+          "interpretation": "以看似合理的因果推断为自我贬低辩护，如“因为我不够努力/没有自豪感所以失败”",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "采用理性、冷静语气给出“努力不足”等解释，弱化情感层面的体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "烹饪曾是自我表达与创造力的来源与自豪感；失误后意义感下降，难以再次享受烹饪与休闲（如去海边）"
+          ],
+          "outcomes": [
+            "自尊受损",
+            "享受感降低",
+            "兴趣与动机减退"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "被“必须完美”的内在规则束缚，难以自我慈悲与放松"
+          ],
+          "outcomes": [
+            "压力增大",
+            "持续自我批评",
+            "焦虑与紧张"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "自述“必须做到完美”，以结果为唯一标准",
+            "将“不完美=失败”视为绝对规则"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出的行为冲动，放弃向外寻求别人为其做某事，转而对自己做，与“冲动”对应。",
+          "manifestations": [
+            "未向朋友或家人倾诉不充分感，转而进行自我批评与内耗"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制与自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "几乎每次做饭都进行苛刻自我审查",
+            "即使表现良好也挑出缺点并否定积极体验"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与宠物狗及外甥/外甥女的亲密关系提供情感安慰与支持",
+          "对烹饪投入努力与热情，愿意持续尝试",
+          "愿意求助并接受咨询",
+          "过去曾对烹饪充满自信与乐趣，具备一定技能与经验基础"
+        ],
+        "negative_force": [
+          "完美主义与“应该”规则强烈，容错率低",
+          "认知歪曲（过度概括、个人化、非黑即白、否定积极）",
+          "持续自我批评与将失败内化为人格缺陷",
+          "反刍担忧导致学业专注下降与压力增加"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "烹饪后持续的自我批评与自我贬低",
+          "antecedent": [
+            "菜品不如预期",
+            "回想“过咸的意面”的失误"
+          ],
+          "core_reason": "将一次失误个人化并过度概括为稳定的无能，伴随“应该完美”的内摄规则",
+          "function": "通过自我惩罚与强化控制感来试图避免再次失败（逃避羞耻）",
+          "consequence": "自尊下降、压力升高、享受感减少，进一步影响学业专注"
+        },
+        {
+          "behavior": "在烹饪过程中的过度完美主义与苛刻自我监控",
+          "antecedent": [
+            "开始准备或进行烹饪",
+            "预期结果可能不完美"
+          ],
+          "core_reason": "相信只有完美才算有价值，任何缺陷即失败",
+          "function": "避免批评与失败、维持自我价值感",
+          "consequence": "紧张与焦虑增加，过程体验受损，错误容忍度降低"
+        },
+        {
+          "behavior": "围绕烹饪的反复担忧与反刍影响学业专注",
+          "antecedent": [
+            "烹饪失败后",
+            "计划或预期下一次烹饪"
+          ],
+          "core_reason": "将烹饪表现等同于总体能力并担心未来再次失败",
+          "function": "试图通过过度思考来预防错误与获得控制感",
+          "consequence": "学习效率下降、注意分散与疲惫感增加"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 967
+}

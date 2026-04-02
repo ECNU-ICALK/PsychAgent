@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "周一凡",
+      "gender": "男",
+      "occupation": "著名设计学院学生",
+      "educational_background": "攻读时装设计学位",
+      "marital_status": "未婚",
+      "family_status": "独自居住在纽约，离家生活",
+      "social_status": "在校与同伴建立联系困难，觉得同学和教授忽视自己的作品；有少数同学可交谈，但不愿分享不安与自卑",
+      "medical_history": "无类似问题经历；无既往心理治疗/咨询史；无重大躯体疾病",
+      "language_features": "能清晰描述感受与情境，思路连贯；情绪低落，倾向自我贬低与社会比较；对正向反馈持怀疑态度；配合度尚可"
+    },
+    "main_problem": "我认为学校的人都觉得我没有天赋，这种想法正在影响我追求成为时装设计师的信心和动力。",
+    "topic": "职业发展",
+    "core_demands": "我决定寻求咨询，因为这些感受正在阻碍我对时装设计的热情并影响我的学业表现。",
+    "growth_experiences": [
+      "开学初从外地搬到纽约并进入名校新环境，过渡压力大；课堂评审时常看到同学频繁获赞，而教授很少点评或关注自己的作品，感到“像是隐形的”；不足感自学期初开始并持续至今，几乎每天在上课与评审时反复出现；尝试忽视这些负面想法但难以压制，影响创作灵感与流程。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我没有天赋/我不够好",
+        "我的价值取决于他人的评价",
+        "我不属于这所学校"
+      ],
+      "special_situations": [
+        {
+          "event": "课堂评审时，同学频繁获赞而教授很少关注或点评我的作品",
+          "conditional_assumptions": "如果我得不到明确的表扬或关注，就说明我没有天赋、作品一文不值",
+          "compensatory_strategies": "过度与同学比较，降低自我期待，在评审中减少发言与曝光以避免被评价",
+          "automatic_thoughts": "他们都觉得我没天赋，我是个笑话",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "偶尔收到来自课堂或网络的正面反馈与点赞",
+          "conditional_assumptions": "如果正面反馈不持续且不是来自权威，就不算数",
+          "compensatory_strategies": "将积极反馈解释为客套话或安慰话，迅速否定并忽略",
+          "automatic_thoughts": "他们只是出于礼貌，不是真心的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "开学初独自搬到纽约、进入名校新环境并感到适应压力",
+          "conditional_assumptions": "如果我不能很快证明自己，就不配待在这里",
+          "compensatory_strategies": "把注意力集中在他人的优势与自己的短板，避免向同伴透露不安以维持“体面”",
+          "automatic_thoughts": "大家都比我强很多，我不够格",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "同伴在课堂上被老师重点点评与表扬",
+          "conditional_assumptions": "别人的成功意味着我的失败",
+          "compensatory_strategies": "给自己贴上“没天赋”的标签，减少投入与尝试以避免再度受挫",
+          "automatic_thoughts": "我根本不如他们，怎么努力也赶不上",
+          "cognitive_pattern": "Comparing and Despairing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被看见并被认可自己的才华，获得接纳与归属",
+        "fear": "害怕被否定与羞辱，担心自己不配而被排斥",
+        "defense_goal": [
+          "通过先行自我贬低降低被他人否定的打击",
+          "保持情感与人际距离以避免暴露脆弱",
+          "否定积极反馈以维持心理一致性和可控感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被忽视、不够格的学生/旁观者",
+          "object_representation": "苛刻挑剔、忽视我的评判者（教授与同学）",
+          "linking_affect": "羞耻、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当课堂评审中老师沉默或较少点评其作品、同学得到表扬时",
+          "interpretation": "把老师的沉默理解为否定，把同学的优秀等同于自己的失败（将内在自我否定投射到他人评价）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用肯定句描述他人想法（如“他们觉得我没天赋”），语气笃定但缺乏证据，回避具体事实核查。"
+        },
+        {
+          "trigger_condition": "当收到积极反馈或线上作品得到点赞时",
+          "interpretation": "认为对方只是出于礼貌或安慰，正面评价不真实",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以轻描淡写和自嘲的语气否定积极信息，使用“只是…而已/客套话”等表述。"
+        },
+        {
+          "trigger_condition": "当咨询师邀请其关注自身进步、列举成就时",
+          "interpretation": "感到被要求证明价值，担心暴露不足而引发羞耻",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "转向抽象的比较与分析，减少情感词汇，语气冷静克制，避免谈及羞耻与脆弱体验。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独自在纽约生活，离开家人",
+            "在校难以与同伴建立连接，感觉“像是隐形的”"
+          ],
+          "outcomes": [
+            "情绪低落与无助",
+            "自我怀疑与自我价值感下降",
+            "回避表达不安、减少社交"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "负面想法干扰创作流程与灵感，热情被削弱"
+          ],
+          "outcomes": [
+            "学习动力下降、学业受影响",
+            "对职业梦想的怀疑与动摇"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "频繁自责“我不配/不够好”",
+            "在他人面前拘谨，不愿暴露不安",
+            "对自身成就苛刻审视，难以接纳进步"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "把自我怀疑归因为“大家都觉得我没天赋”",
+            "将他人沉默解读为否定或轻视"
+          ]
+        },
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "把“名校/导师的表扬=价值”的标准未经消化地内化",
+            "以他人评价作为唯一自我评估依据"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在课程项目创作与截止期前，来访者通常因自我怀疑与害怕被负面评价而拖延、动力不足，作品难以推进。",
+          "unique_outcome": "在上一份项目中，来访者仍然完成了作品，尽管并不完全满意。",
+          "reason": "线索：在压力之下仍选择完成任务，显示持续投入与坚持的能力。"
+        },
+        {
+          "target_problem": "在接受他人评价时，来访者通常会忽视或否定积极反馈，进一步加重自我怀疑。",
+          "unique_outcome": "一次将草图发布到网络后，来访者收获了正面评论与点赞，短暂感到被看见。",
+          "reason": "线索：不同情境（线上陌生人评价）可能降低对熟人评判的焦虑，更容易接纳积极反馈。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对时装设计具有明确的热情与长期目标",
+          "在情绪低落时仍能完成项目，具备坚持与执行力",
+          "曾获得同伴或网络的正向反馈，存在可用外部资源",
+          "愿意求助与尝试新方法（主动寻求咨询、愿意进行现实检验）",
+          "具备一定自我观察能力，能识别负性想法的影响"
+        ],
+        "negative_force": [
+          "过度依赖外部评价决定自我价值（寻求外部验证）",
+          "读心术、心理过滤、比较与绝望等认知偏差显著",
+          "自信心不足，倾向自我贬低与贴标签",
+          "在社交中回避表达脆弱，难以获得支持",
+          "新城市/新学校的过渡压力持续，环境适应不足"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在课堂评审与创作任务中的自我怀疑与回避（减少发言、降低投入）",
+          "antecedent": [
+            "课堂评审/同学获赞",
+            "教授较少关注其作品",
+            "新环境适应期压力",
+            "在发布或展示作品之前"
+          ],
+          "core_reason": "新环境与名校比较引发的自我价值脆弱，伴随读心术与社会比较导致自我效能感降低与害怕被否定",
+          "function": "逃避潜在的羞耻与负面评价以暂时降低焦虑，并通过自我保护维持安全感",
+          "consequence": "学习动力下降、创作受阻、学业表现受影响，与同伴连接困难"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1597
+}

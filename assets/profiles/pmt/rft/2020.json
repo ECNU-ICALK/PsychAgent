@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "39",
+      "name": "陈洁",
+      "gender": "女",
+      "occupation": "手工艺品店店主",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "与伴侣同住（伴侣支持但对其负面想法的程度理解有限）；有孩子（需协调男孩们的体育活动与母职）",
+      "social_status": "与供应商和顾客的关系因其消极与缺乏热情受到影响；与朋友群体互动感觉表面化且疏离，不愿表达真实感受",
+      "medical_history": "无显著躯体疾病；无既往心理治疗史",
+      "language_features": "表达清晰，配合度高，态度积极；能反思自身状态并接受建议，但存在明显的消极自动思维与灾难化倾向"
+    },
+    "main_problem": "我不断觉得自己永远无法让我的手工艺品店取得成功，这让我感到绝望和无助。",
+    "topic": "职业发展",
+    "core_demands": "由于店铺缺乏进展与持续的负面想法，希望获得专业帮助与指导。",
+    "growth_experiences": [
+      "开店后在高压力下开始出现对店铺前景的消极预测；在销售低迷或遇到经营挑战时几乎每天都体验到绝望与无望，难以看到积极或成长可能；虽已尝试多种营销与促销策略仍未达预期，导致工作表现受影响、人际（供应商与顾客）受波及，睡眠与饮食节律被打乱；伴侣给予情感支持但难以完全理解其困扰；过去一年在朋友群体中感到疏离与身份迷失，自我照料时间明显减少。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我无法让事业成功"
+      ],
+      "special_situations": [
+        {
+          "event": "当日销售低迷或营收不佳",
+          "conditional_assumptions": "如果短期销售低迷，就意味着未来也不会好，我大概率会失败",
+          "compensatory_strategies": "焦虑驱动下加大促销与营销投入，反复刷数据以寻求控制感",
+          "automatic_thoughts": "这家店永远不会成功，我以后也好不了",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "遇到具体经营挑战（如客户投诉、供应延误等）",
+          "conditional_assumptions": "如果我不能把问题处理得完美，就说明我不适合做生意",
+          "compensatory_strategies": "减少与供应商和顾客的互动，热情下降以避免暴露“无能”",
+          "automatic_thoughts": "我就是个失败者，不适合做老板",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "出现一些正面反馈或小幅度的销售提升",
+          "conditional_assumptions": "如果不是显著且持续的成功，就不算真正的进展",
+          "compensatory_strategies": "主动忽视或解释掉积极信息，继续自我批评以维持对失败的警戒",
+          "automatic_thoughts": "这不算什么，只是运气好而已",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "对营销活动效果的监测未达预期",
+          "conditional_assumptions": "如果我努力却看不到立刻成效，那就意味着再努力也没用",
+          "compensatory_strategies": "牺牲睡眠与饮食去加班思考或调整方案，放弃自我照料",
+          "automatic_thoughts": "一切只会越来越糟，我根本扭转不了",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与理解，渴望把事业经营好并被他人肯定",
+        "fear": "害怕失败与被否定，害怕被看成不称职或不被理解",
+        "defense_goal": [
+          "降低期望以回避失望",
+          "通过保持疏离减少被评价的风险",
+          "用自我批评先发制人以获得控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不称职、容易失败的经营者",
+          "object_representation": "挑剔、可能否定自己的他人（顾客/供应商/旁人）",
+          "linking_affect": "羞耻、焦虑、无助"
+        },
+        {
+          "self_representation": "不被理解、易被忽视的朋友/母亲",
+          "object_representation": "不理解且关系表面化的同伴",
+          "linking_affect": "孤独、失落"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当销售低迷或他人询问经营进展时",
+          "interpretation": "他人会认为我不称职、我做不好",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自责与否定性的语气描述自己，弱化外部因素；减少表达需求，避免寻求帮助。"
+        },
+        {
+          "trigger_condition": "与朋友相处时感到疏离但被问及近况",
+          "interpretation": "如果我表达真实感受会被误解或使关系更糟",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "回避深入话题，保持表面寒暄；语气克制，简短回答，转移到中性话题。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友聚会时不再觉得属于其中，互动越来越表面化",
+            "不愿表达真实感受，担心他人不理解"
+          ],
+          "outcomes": [
+            "持续的孤立感与疏离感",
+            "身份与自我感薄弱、迷失"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对店铺前景持续悲观，难以看到积极与成长可能",
+            "质疑自身价值与是否是好朋友/好母亲"
+          ],
+          "outcomes": [
+            "绝望与无望感增强",
+            "动机下降与自我怀疑"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "在母职与经营之间难以为自己留出时间",
+            "自我照料被放在次要位置"
+          ],
+          "outcomes": [
+            "内疚与两难加剧",
+            "难以为自我需求作出选择，进一步压抑自我"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对他人做出的表达或请求的冲动，将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "与朋友相处时不表达疏离与失落感受",
+            "在需要支持时选择忍耐、不求助"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人。",
+          "manifestations": [
+            "预设朋友不会理解、表达会让关系更糟",
+            "在业务互动中假定他人会否定自己"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁质疑自我价值，担心被评价",
+            "在交流中谨小慎微，避免暴露脆弱"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在压力与负面思维高涨时，来访者通常会陷入持续的消沉与无助，难以进行自我照料。",
+          "unique_outcome": "在某些时刻，来访者选择进行短暂散步或阅读，情绪得到片刻缓解，状态较以往稍有改善。",
+          "reason": "线索：采取了不同做法（主动进行短时自我照料，如散步/阅读），短时间脱离压力情境，因而出现了情绪的轻度缓解。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "伴侣具备一定的情感支持作用",
+          "主动寻求专业帮助与指导",
+          "曾多次尝试营销与促销策略以改进经营",
+          "能识别并尝试短暂的自我照料（阅读/散步），愿意从小处开始",
+          "在会谈中态度积极、配合度高"
+        ],
+        "negative_force": [
+          "灾难化与预测未来的思维模式强化无望感",
+          "否定积极证据与过度标签化自我",
+          "角色过载导致自我照料不足、精力消耗",
+          "社交疏离与不表达需求使支持系统难以发挥作用",
+          "睡眠与饮食被打乱，进一步削弱情绪与认知资源"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对店铺前景的灾难化预测与反复负性思考（伴随绝望感）",
+          "antecedent": [
+            "当日销售低迷或营收不佳",
+            "遭遇经营挑战（客户投诉、供应延误）",
+            "查看营销数据或促销成效不达预期"
+          ],
+          "core_reason": "受“我是失败者/无法成功”的核心信念驱动，以极端化的方式解释当前信息。",
+          "function": "通过预设最坏结局来回避希望与再度失望，获得短暂的控制与确定感",
+          "consequence": "工作表现下降；与供应商和顾客关系受影响；睡眠与饮食节律紊乱，整体生活质量降低"
+        },
+        {
+          "behavior": "回避向朋友表达真实感受与需求（社交退缩）",
+          "antecedent": [
+            "与朋友聚会或互动时感到疏离",
+            "担心表达会被误解或使关系变差"
+          ],
+          "core_reason": "担心被否定与不被理解，对人际评价高度敏感",
+          "function": "逃避潜在冲突或尴尬，维持表面安全感",
+          "consequence": "关系进一步疏离，孤独感增加，自我价值感被削弱"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 2020
+}

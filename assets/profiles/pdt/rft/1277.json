@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "22",
+      "name": "王睿",
+      "gender": "男",
+      "occupation": "教会食物救济站志愿者",
+      "educational_background": "未提及",
+      "marital_status": "已婚",
+      "family_status": "已婚，有3个存活的子女",
+      "social_status": "有支持的丈夫，但在教会的社交场合常感到被排斥与不被接纳",
+      "medical_history": "无显著躯体疾病；过去未接受心理治疗",
+      "language_features": "配合度较好，态度积极；表达清晰，能描述感受与认知；思维逻辑基本清楚，但存在负性自动化思维与过度概括等认知模式；语气略显不安与犹疑"
+    },
+    "main_problem": "我觉得教会的同事不喜欢我，因为她没有回复我的消息，这让我感到被拒绝和孤立。",
+    "topic": "人际关系",
+    "core_demands": "我因拒绝与孤立的感受不堪重负，促使我寻求咨询支持。",
+    "growth_experiences": [
+      "在经历子女的丧失之后，王睿长期感到被排斥与孤立，这一丧亲事件加深了他在社交场合的敏感与脆弱；其后未接受过心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不被喜欢/不值得被接纳",
+        "他人会排斥我"
+      ],
+      "special_situations": [
+        {
+          "event": "在教会食物救济站协调班次时，给同事发送消息却未获回复",
+          "conditional_assumptions": "如果别人不回复我的消息，就说明我做错了事，或者他们不喜欢我",
+          "compensatory_strategies": "回避社交、减少主动沟通，更多等待他人先来接触",
+          "automatic_thoughts": "她不喜欢我，我一定做错了",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在教会的社交聚会中，感觉自己没有被邀请或被热情回应",
+          "conditional_assumptions": "如果无人主动与我互动，就代表我不属于这里、没人接纳我",
+          "compensatory_strategies": "在聚会中保持沉默与边缘化，尽量不引起注意",
+          "automatic_thoughts": "我不属于这里",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "在缺乏任何直接负面反馈的社交场合",
+          "conditional_assumptions": "如果没有明确的正面反馈，就等同于他人不喜欢我",
+          "compensatory_strategies": "过度自我监控，时刻揣测他人态度，减少表达自我",
+          "automatic_thoughts": "大家都不喜欢我",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与丈夫沟通前，因害怕被评判而选择不谈及自己的被排斥感受",
+          "conditional_assumptions": "如果我表达脆弱与不安，就会被认为反应过度、被评判",
+          "compensatory_strategies": "避免与丈夫讨论相关感受，压抑表达",
+          "automatic_thoughts": "他会觉得我在夸张/我不该说这些",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、获得归属与稳定的亲密连接",
+        "fear": "害怕被拒绝与被评判；害怕再度经历失去带来的痛苦",
+        "defense_goal": [
+          "通过保持距离与减少主动表达来降低被伤害的可能",
+          "以自我批评与预先否定来避免外界拒绝"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被排斥、不被喜欢的外来者",
+          "object_representation": "冷漠或拒绝的他人（同事、教会群体）",
+          "linking_affect": "孤立、羞耻、悲伤、不安"
+        },
+        {
+          "self_representation": "脆弱、容易被评判的人",
+          "object_representation": "可能评判与否定自己的重要他人（如丈夫）",
+          "linking_affect": "担忧、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师探询“消息未回复”的事件并邀请辨别他人意图、要求举证时",
+          "interpretation": "来访者倾向将他人的沉默理解为对自己的排斥，认为自己做错了事（移情：将外界态度视为对自我的否定）",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "以笃定但缺乏证据的语气断言“他们不喜欢我”，忽略相反线索；若被追问证据，重复“就是感觉得到”。"
+        },
+        {
+          "trigger_condition": "当咨询师提出尝试新的社交行为或鼓励与丈夫沟通时",
+          "interpretation": "来访者下意识认为表达脆弱会招致评判，倾向把潜在的外部批评转为自我批评",
+          "defense_mechanism": "sring",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "用自责和犹疑的语气表达“我不该麻烦别人/我可能反应过度”，降低自我价值并放弃行动。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在教会社交聚会中经常感到被排斥与不属于",
+            "避免主动交流，担心被评判，难以向丈夫表达真实感受"
+          ],
+          "outcomes": [
+            "持续的被拒绝感与孤立感",
+            "社交焦虑与互动受限",
+            "工作协作与功能受影响"
+          ]
+        },
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "曾经历子女的丧失，丧亲后长期体验到被排斥与孤立"
+          ],
+          "outcomes": [
+            "对关系的敏感与不安全感增强",
+            "倾向将他人行为解读为拒绝"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等。",
+          "manifestations": [
+            "在感到被排斥时不主动澄清或沟通，而是压抑表达",
+            "与丈夫沟通时因害怕被评判而选择不谈"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等。",
+          "manifestations": [
+            "将同事未回复解释为对自己不喜欢",
+            "在社交场合把模糊的“气场”解读为他人的排斥"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等。",
+          "manifestations": [
+            "在社交场合过度在意他人反应，减少自我表达",
+            "出现“我一定做错了”的自责性思维"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持性的配偶可作为情感支持资源",
+          "持续参与教会志愿服务，保有稳定的社会接触场域",
+          "愿意寻求专业帮助与尝试新的思维与行为方式"
+        ],
+        "negative_force": [
+          "过度在意他人评价，倾向读心与仓促下结论",
+          "过度概括与非黑即白的认知模式，易将单一线索解释为普遍排斥",
+          "丧亲创伤增加对拒绝的敏感与警觉",
+          "因害怕被评判而回避表达与沟通，导致社交机会减少"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合回避主动交流、倾向等待他人靠近",
+          "antecedent": [
+            "在教会的社交聚会",
+            "与同事合作或需要协调班次时"
+          ],
+          "core_reason": "担心被评判与拒绝，源自丧亲后的排斥经历与认知偏差（读心、非黑即白、过度概括）",
+          "function": "逃避可能的拒绝与不适，以短期维持安全感和自尊",
+          "consequence": "社交参与减少，归属感进一步下降，工作协作受影响"
+        },
+        {
+          "behavior": "将他人未回复或模糊线索解释为对自己的不喜欢，并陷入自我否定与强烈被拒绝感",
+          "antecedent": [
+            "给同事发送消息未获回复",
+            "缺乏明确正面反馈的互动情境"
+          ],
+          "core_reason": "以情绪化推理与仓促下结论来解读他人行为，核心信念为“我不被喜欢”",
+          "function": "为不确定性寻找确定解释以缓解焦虑（认知上的控制），同时为避免进一步接触提供理由",
+          "consequence": "产生持续的孤立与抑郁样情绪，影响工作与人际关系"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1277
+}

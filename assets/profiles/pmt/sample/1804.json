@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "24",
+      "name": "林珂",
+      "gender": "女",
+      "occupation": "学生",
+      "educational_background": "正在攻读学位",
+      "marital_status": "未婚",
+      "family_status": "与家人同住，家庭支持度较高",
+      "social_status": "与同学关系因悲观与自我批评而紧张；尚未与家人讨论学业困境与负面想法",
+      "medical_history": "无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、逻辑尚可，语气犹疑并伴有焦虑；能配合讨论，愿意尝试新方法"
+    },
+    "main_problem": "尽管重返校园攻读学位，但我在许多课程中表现不佳，并对学业表现与未来就业前景产生了不足感与悲观情绪。",
+    "topic": "学业压力",
+    "core_demands": "希望在这些问题进一步影响心理健康之前加以解决（处理学业表现下降与对未来就业的负性想法）。",
+    "growth_experiences": [
+      "本学期开始收到低于预期的成绩，引发并加重了自我怀疑与悲观；在作业与考试反馈前后尤其容易出现焦虑与担忧，同时需要在学业与其他责任之间平衡，压力显著上升。",
+      "过去在几门课程中，曾以为会失败但最终取得了良好成绩；然而来访者倾向将这些成功视为“例外”，未能将其整合为自我效能的证据。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我不够聪明/不够好",
+        "我可能永远找不到体面的工作"
+      ],
+      "special_situations": [
+        {
+          "event": "在作业或考试中收到低于预期的分数",
+          "conditional_assumptions": "如果成绩不高，就说明我不够聪明、未来没有前途",
+          "compensatory_strategies": "尝试改进学习习惯并寻求学术支持",
+          "automatic_thoughts": "这下完了，我可能找不到工作了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "在成绩公布前或刚收到成绩的时刻",
+          "conditional_assumptions": "一旦出现一次不佳表现，之后也会持续不佳",
+          "compensatory_strategies": "尝试改进学习习惯并寻求学术支持，但仍反复担忧",
+          "automatic_thoughts": "这次一定又会考差，结果会很糟糕",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与同学互动、比较学习表现",
+          "conditional_assumptions": "如果我不如同伴，就不值得被接纳",
+          "compensatory_strategies": "在同学面前退缩、减少交流以避免被比较",
+          "automatic_thoughts": "他们都比我强，我不如他们",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "回想过去曾经取得的好成绩",
+          "conditional_assumptions": "只有持续、全面的成功才算真正有能力",
+          "compensatory_strategies": "忽视积极证据，将成功视为“例外”",
+          "automatic_thoughts": "那些成功不算数，不能说明我有能力",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在学业与职业上被认可与支持，并被接纳",
+        "fear": "担心让他人（家人/同伴）担忧或看轻自己",
+        "defense_goal": [
+          "保持一定距离以维持安全感、避免被评价或增加他人负担"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、容易失败的学生",
+          "object_representation": "同学是更优秀并可能评判自己的他者",
+          "linking_affect": "羞耻、焦虑、自卑"
+        },
+        {
+          "self_representation": "不想给他人添麻烦的子女",
+          "object_representation": "家人是会担心、可能看轻自己的他者",
+          "linking_affect": "担忧、犹疑、内疚"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师询问是否与家人分享学业困境并寻求支持时",
+          "interpretation": "来访者认为表达困难会让家人担心或看轻自己（将自身羞耻与担忧投向他人反应）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "语气犹疑、谨慎，用“我不想让他们担心/觉得我不行”来回应，避免明确承诺与家人沟通。"
+        },
+        {
+          "trigger_condition": "当被邀请回顾过往成功经验以平衡当前负面认知时",
+          "interpretation": "将积极事实解释为不具代表性的例外，以维护“我不够好”的自我图式",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用看似理性的表述如“那只是例外，这次不一样”，语气平淡且带自我怀疑，以否定积极证据。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在同学面前退缩、减少交流",
+            "对家人犹豫求助，担心成为负担"
+          ],
+          "outcomes": [
+            "自我怀疑加重",
+            "情绪低落与压力上升",
+            "获得的社会支持减少，进一步加剧学业困境"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "对未来就业前景悲观，认为“可能永远找不到工作”"
+          ],
+          "outcomes": [
+            "动力下降",
+            "绝望感与悲观加剧",
+            "学习投入与专注度降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做。",
+          "manifestations": [
+            "犹豫向家人寻求支持，将压力与担忧内化为自责",
+            "在同伴面前退缩，减少直接交流"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "频繁自我批评如“我不够聪明/不够好”",
+            "担心“会让别人担心/看轻我”，在求助与互动中格外谨慎"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对作业与考试等学业情境时，来访者通常会灾难化预期、难以集中，且在成绩公布前后陷入自我怀疑与悲观。",
+          "unique_outcome": "在过去的几门课程中，尽管最初觉得会失败，最终取得了良好成绩，与平时的悲观预期不同。",
+          "reason": "不同做法与支持：采取了更有效的学习方法并曾获得学术支持；任务拆分与节奏更为适配，使得焦虑可被承受，结果出现偏离。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "家人总体支持、可成为潜在资源",
+          "过往成功经验表明具备胜任与成长的可能性",
+          "愿意尝试新方法（对行为实验持开放态度）",
+          "已主动改进学习习惯并寻求学术支持"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括与否定积极等认知偏差",
+          "自我怀疑与自我批评显著",
+          "与同学关系紧张导致获取同伴支持受限",
+          "学业与其他责任的平衡压力升高"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "学习时持续担忧并难以集中",
+          "antecedent": [
+            "在成绩公布前后",
+            "收到作业或考试反馈时",
+            "备考与完成任务的阶段"
+          ],
+          "core_reason": "因一次或数次低于预期的成绩触发灾难化与预测失败的认知，导致专注受损与焦虑维持。",
+          "function": "逃避失败与被评判的风险、试图获得主观控制感（通过担忧与自我保护）",
+          "consequence": "学习效率与成绩进一步下降，情绪低落加剧，饮食习惯受影响"
+        },
+        {
+          "behavior": "在同学面前退缩、回避交流",
+          "antecedent": [
+            "与同学互动或比较学习表现的场景",
+            "课后讨论与同伴交流作业反馈的情境"
+          ],
+          "core_reason": "比较与绝望的认知模式及自我价值感低，担心被看轻或暴露不足。",
+          "function": "避免社交评价与羞耻感，减少焦虑触发",
+          "consequence": "人际关系紧张、社会支持减少，进而加剧学业压力与负性情绪"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1804
+}

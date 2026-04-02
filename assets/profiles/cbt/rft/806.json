@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "25",
+      "name": "陈伟",
+      "gender": "男",
+      "occupation": "药剂师",
+      "educational_background": "药学学位",
+      "marital_status": "未提及",
+      "family_status": "与孙子关系亲近",
+      "social_status": "未提及",
+      "medical_history": "无类似心理问题史；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "合作、态度积极、表达清晰、能反思自身思维模式"
+    },
+    "main_problem": "在听到一首令人不快的古典乐作品后，我对古典音乐产生了负面看法，认为今后所有古典音乐都会很糟糕。这影响了我对曾经热爱的事物的享受。",
+    "topic": "情绪管理",
+    "core_demands": "我真的想重新享受古典音乐，并且再次与我的孙子们在古典音乐上建立联结。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "一次不好的经历意味着以后都会很糟糕"
+      ],
+      "special_situations": [
+        {
+          "event": "听到一首高度推荐但令人失望的古典音乐作品（约一月前）",
+          "conditional_assumptions": "如果一首被高度推荐的作品都很糟糕，那么整个古典音乐类型都不值得期待",
+          "compensatory_strategies": "停止接触古典音乐，转而用其他活动分散注意力",
+          "automatic_thoughts": "古典音乐都很糟，我再听只会失望",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "在考虑要试听新的古典音乐作品时",
+          "conditional_assumptions": "如果我再次尝试，就会再次失望并让心情更差",
+          "compensatory_strategies": "预先回避，拒绝开始播放，延迟或取消聆听",
+          "automatic_thoughts": "这首肯定也会很糟",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "与孙子们一起听古典音乐的机会出现时",
+          "conditional_assumptions": "如果我表现失望，会破坏与孙子的联结",
+          "compensatory_strategies": "拒绝或避免与孙子们一起听，保持距离以避免尴尬",
+          "automatic_thoughts": "我会让他们失望，这样的相处只会变得糟糕",
+          "cognitive_pattern": "Personalization"
+        },
+        {
+          "event": "别人向我推荐新的古典乐曲目",
+          "conditional_assumptions": "如果之前的推荐都让我失望，那么新的推荐也会一样糟糕",
+          "compensatory_strategies": "否定或忽视推荐，拒绝尝试",
+          "automatic_thoughts": "推荐不可信，我会再次失望",
+          "cognitive_pattern": "Mental Filtering"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望重新享受古典音乐并与家人（孙子们）保持亲密联结",
+        "fear": "害怕再次失望、情绪低落",
+        "defense_goal": [
+          "通过回避和降低期待来保护自己免受失望与负面情绪"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被一次负面体验影响的犹疑聆听者",
+          "object_representation": "古典音乐（或推荐者）是可能令我失望的来源",
+          "linking_affect": "失望、焦虑、沮丧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请或建议去聆听新的古典音乐作品，或与孙子们一起听音乐时",
+          "interpretation": "来访者潜意识将“再次尝试”等同于“必然再次失望”，把建议理解为对自身情绪的潜在威胁",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以委婉且谨慎的语气强调过去那次负面经历，提出“以后可能都很糟”、“现在不是合适的时机”等理由，避免承诺尝试；语速平稳、情感强度低，保持礼貌但不深入讨论。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "曾经珍爱的古典音乐失去吸引力与意义",
+            "在休闲生活中感到乐趣减少"
+          ],
+          "outcomes": [
+            "情绪低落",
+            "回避喜爱的活动"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与孙子们因不再一起听古典音乐而联结感下降",
+            "感觉共同爱好被切断"
+          ],
+          "outcomes": [
+            "关系疏离感增强",
+            "社交互动减少"
+          ]
+        }
+      ],
+      "contact_model": []
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "多年对古典音乐的正向经历与记忆",
+          "与孙子关系亲近、存在情感支持",
+          "对自身思维模式有觉察，愿意尝试改变（态度积极）"
+        ],
+        "negative_force": [
+          "灾难化、过度概括、预测未来、心理过滤、否定积极等认知偏差",
+          "回避行为导致进一步强化负面期待",
+          "在新体验前预设负面结果，降低尝试动机"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避古典音乐的聆听",
+          "antecedent": [
+            "想到要试听新的古典音乐作品",
+            "他人推荐古典音乐",
+            "与孙子们计划一起听音乐",
+            "回想起那次令人失望的作品"
+          ],
+          "core_reason": "将一次不喜欢的作品过度概括为对整个类型的负面判断，并对未来聆听做灾难化预测以避免再次失望",
+          "function": "逃避可能的失望与负面情绪，维持短期心理安全感",
+          "consequence": "乐趣与心情下降，避免聆听导致与孙子们的联结受影响；但工作表现未受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 806
+}

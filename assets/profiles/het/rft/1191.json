@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "28",
+      "name": "李航",
+      "gender": "男",
+      "occupation": "未披露；工作表现受抑郁影响",
+      "educational_background": "未披露",
+      "marital_status": "单身",
+      "family_status": "未提及家庭结构；因回避社交与家人关系受影响",
+      "social_status": "有少数朋友但未向其敞开，因回避社交与朋友关系紧张",
+      "medical_history": "既往在高压时期出现过抑郁发作，但未持续如此之久；未接受过心理治疗；无重大躯体疾病",
+      "language_features": "配合度高、表达清晰连贯；起始时略显焦虑但抱有希望；能识别并描述自身负性思维模式"
+    },
+    "main_problem": "我觉得自己喜欢独处，因为我严重抑郁，并相信自己永远无法康复。",
+    "topic": "情绪管理",
+    "core_demands": "我想找到更好地管理这些感受的方法。我厌倦了它们控制我的生活并影响我的工作和人际关系，我只想找回原来的自己。",
+    "growth_experiences": [
+      "几年前经历极度压力的时期，抑郁在此期间开始并逐渐加重；认为过去的创伤与持续的日常压力共同促成当前抑郁。",
+      "以往在高压阶段也出现过抑郁发作，但从未持续这么久；此前未接受过任何心理治疗或干预；无显著身体疾病。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我永远不会好起来"
+      ],
+      "special_situations": [
+        {
+          "event": "夜晚独处时（尤其一个人待着时）",
+          "conditional_assumptions": "如果我在夜晚独处时感到痛苦和绝望，就意味着我永远不会好起来",
+          "compensatory_strategies": "选择隔离、减少社交来尽量避免触发情绪",
+          "automatic_thoughts": "我永远无法康复，未来没有希望",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在经历压力很大的工作日之后",
+          "conditional_assumptions": "如果工作表现受抑郁影响，说明我已经被抑郁彻底控制，无法改变",
+          "compensatory_strategies": "下班后回避与朋友家人互动，独自待着",
+          "automatic_thoughts": "我的工作只会越来越糟，我不会好转",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "想到过去创伤与持续的日常压力时",
+          "conditional_assumptions": "如果我曾遭遇创伤并且现在仍有压力，那就表示我不可能恢复",
+          "compensatory_strategies": "依赖分散注意与自助书寻求短暂缓解",
+          "automatic_thoughts": "我注定被抑郁困住",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "考虑向朋友倾诉或接受社交邀请时",
+          "conditional_assumptions": "如果我把问题告诉朋友，就会给他们增添负担，我不应该麻烦别人",
+          "compensatory_strategies": "避免向朋友敞开、拒绝或减少社交",
+          "automatic_thoughts": "我不应该麻烦别人",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与支持并从抑郁中恢复",
+        "fear": "害怕给他人带来负担、被拒绝或被评判",
+        "defense_goal": [
+          "通过保持疏离与独处来降低焦虑并避免给他人增加负担",
+          "以理性化和自我限制来控制情绪波动"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "孤独而无望的受困者",
+          "object_representation": "他人是可能被我拖累、并可能拒绝我的人",
+          "linking_affect": "内疚、羞耻、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当讨论是否向朋友求助或收到社交邀请时",
+          "interpretation": "认为向他人表达需求会给对方造成负担，可能引来拒绝或评判",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气礼貌但回避，重复强调“不想麻烦别人”，以委婉方式推迟或拒绝互动。"
+        },
+        {
+          "trigger_condition": "当夜间情绪加重、咨询师邀请其识别和表达当下情感时",
+          "interpretation": "将强烈的情绪体验视为危险或难以承受，担心失控",
+          "defense_mechanism": "sring",
+          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "以理性、概括性的语言描述经历，降低情感色彩，避免深入到具体感受层面。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期偏好独处并回避社交",
+            "独处的夜晚抑郁和无望感最强",
+            "未向朋友敞开谈论困境，担心成为负担"
+          ],
+          "outcomes": [
+            "社会隔离加剧",
+            "人际关系紧张",
+            "抑郁情绪维持或加重"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复出现“我永远无法康复”的信念",
+            "对未来感到绝望",
+            "自我照料与工作投入下降"
+          ],
+          "outcomes": [
+            "无望感增强",
+            "动机与功能下降（工作表现受损、睡眠与自我照料受影响）"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "在咨询中谈到求助时，反复表示“不该麻烦别人”，将求助冲动压回自身并选择独处",
+            "减少社交而非寻求支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在讨论向朋友敞开时，担心给他人带来负担而过度约束自己",
+            "对表达需要持谨慎态度"
+          ]
+        },
+        {
+          "mode": "偏转",
+          "definition": "个体忽略或避开来自内部或外部环境的某个刺激，有意避免直接接触，与”接受“对应。",
+          "manifestations": [
+            "倾向使用分散注意和自助书来回避直接体验痛苦情绪",
+            "在夜间情绪高涨时通过自我隔离来分散注意"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在夜晚独处时，来访者通常会陷入无望感并选择隔离，情绪低落难以缓解。",
+          "unique_outcome": "某次与一位密友相处时，情绪变得轻一些，未陷入以往的无望感，能够投入当下互动。",
+          "reason": "不同支持：有可信赖的陪伴与情感支持，使注意力从负性思维转向当下互动。"
+        },
+        {
+          "target_problem": "在工作压力增大或独处时，来访者通常会反复灾难化思考“我永远不会好起来”，导致情绪进一步恶化。",
+          "unique_outcome": "有一次专注投入于自己的兴趣爱好时，短时体验到情绪变轻、思维不再持续灾难化。",
+          "reason": "不同做法：沉浸式参与兴趣活动，带来专注与愉悦；情境不同：当下无强压情境。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有少数可信赖的朋友可提供支持",
+          "在兴趣爱好中能够专注投入，情绪有短暂改善",
+          "求助动机明确，态度积极，愿意尝试练习",
+          "能识别并描述自身负性思维模式（如灾难化、黑白思维）"
+        ],
+        "negative_force": [
+          "灾难化、预测未来、过度概括、非黑即白的认知模式强",
+          "社交回避与自我隔离，未向朋友敞开",
+          "夜间独处时情绪加重与反刍",
+          "将求助视为“麻烦他人”，过度自我限制",
+          "工作表现受损、睡眠与自我照料下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "社交回避与自我隔离",
+          "antecedent": [
+            "独处的夜晚",
+            "收到社交邀请或想到向朋友倾诉",
+            "经历压力很大的工作日后"
+          ],
+          "core_reason": "基于“我永远不会好起来”的核心信念与“不能麻烦别人”的规则，灾难化与黑白思维驱动回避以减轻短期焦虑",
+          "function": "逃避不受欢迎的刺激（负性情绪、他人评价与被视为负担），获得短期的心理安全感",
+          "consequence": "人际关系紧张、孤独加剧，抑郁维持或恶化，支持资源利用不足"
+        },
+        {
+          "behavior": "夜间反刍与绝望性思维（如“我永远不会康复”）",
+          "antecedent": [
+            "夜晚独处",
+            "经历工作压力后回到家",
+            "回想过去创伤与日常压力"
+          ],
+          "core_reason": "受灾难化、预测未来与过度概括等认知模式驱动，将当前痛苦当作永久状态",
+          "function": "试图通过思维控制和预演未来来获得确定感，但实际强化无望感",
+          "consequence": "睡眠受损、情绪低落加重、第二天功能下降（注意力与工作表现受损）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1191
+}

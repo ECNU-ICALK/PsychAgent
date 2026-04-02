@@ -1,0 +1,175 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "75",
+      "name": "刘曼华",
+      "gender": "女性",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "父母早逝，由兄长抚养长大；目前与兄长关系支持性，但尚未谈及此具体困扰",
+      "social_status": "未提及",
+      "medical_history": "无重大躯体疾病；无既往心理问题或治疗史",
+      "language_features": "表达清晰，逻辑连贯，配合度较好；语气中性但带有怀疑；倾向自我贬损与负性标签（如“我是失败者”）"
+    },
+    "main_problem": "每当要去新的地方时，我都会担心在哪里停车，这让我感到自卑并进行自我批评，已经发展到回避去新地方或活动的程度。",
+    "topic": "情绪管理",
+    "core_demands": "我想摆脱对停车的持续担忧，能享受新的体验，减少因此带来的痛苦。",
+    "growth_experiences": [
+      "早年经历父母去世，由兄长抚养长大；兄长以往给予支持，但来访者习惯独自承担问题、未就当前困扰与其沟通。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者",
+        "我无法胜任和应对新的情境"
+      ],
+      "special_situations": [
+        {
+          "event": "在计划去一个陌生地点前，一想到停车就开始紧张和担忧",
+          "conditional_assumptions": "如果不能迅速、顺利地找到车位，就证明我不胜任新情境，会浪费大量时间并出丑",
+          "compensatory_strategies": "回避陌生地点或活动，尝试分散注意和放松练习以降低不适",
+          "automatic_thoughts": "我会找不到车位，会闹笑话，我很无能",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "实际外出时偶尔能顺利找到车位并未出现问题",
+          "conditional_assumptions": "偶发的顺利不代表能力提升，好的结果不算数",
+          "compensatory_strategies": "将成功归因为运气，继续维持原有担忧模式",
+          "automatic_thoughts": "这只是碰巧，下次我还是会不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到去新地方可能会多花时间寻找车位",
+          "conditional_assumptions": "如果因为停车耽误时间，就说明我是失败者/笨拙",
+          "compensatory_strategies": "对自己进行苛刻的自我评价并减少外出",
+          "automatic_thoughts": "我在浪费时间，我是个失败者",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "被问及是否与兄长谈起此困扰或寻求支持",
+          "conditional_assumptions": "我应该自己解决问题，不该麻烦家人，否则会显得幼稚和无能",
+          "compensatory_strategies": "隐瞒困扰，避免寻求他人帮助",
+          "automatic_thoughts": "我不该麻烦他，我应该自己扛着",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被理解与支持，同时在新情境中被看作有能力、体面且可掌控",
+        "fear": "害怕暴露无能被羞辱或被他人评判、给他人添麻烦而被拒绝",
+        "defense_goal": [
+          "通过回避与自我批评来预防失败和羞耻",
+          "保持自立以避免依赖或被视为负担"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "容易被看作无能、需要帮助却不敢开口的人",
+          "object_representation": "可能嫌麻烦、会评判或拒绝自己的他人",
+          "linking_affect": "羞耻、焦虑与孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请考虑向兄长寻求支持或谈及困扰时",
+          "interpretation": "认为寻求帮助等同于麻烦他人、会显得幼稚无能（移情：将他人视作评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "语气带有自责与克制，强调“我已经75岁了、这点小事应该自己解决”，以礼貌但坚定的方式婉拒求助建议。"
+        },
+        {
+          "trigger_condition": "当被要求想象自己能有效处理停车时",
+          "interpretation": "将情境拆解为步骤进行说明，但避免接触无力与恐惧的情绪",
+          "defense_mechanism": "情感隔离",
+          "defense_definition": "将痛苦的情感与相关事件或想法分离开，理智地谈论而缺乏情感反应。",
+          "response_instruction": "使用客观描述与条件句，减少情绪词汇，语气平静，强调“步骤”和“逻辑”，弱化主观感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "因担忧停车回避去新地方和社交活动，导致生活范围缩小",
+            "未与支持性的兄长沟通当前困扰，倾向独自承受"
+          ],
+          "outcomes": [
+            "焦虑与回避增多，体验到孤立感",
+            "生活质量下降、对新体验的兴趣受损"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁以“我应该自己处理、不该麻烦别人”为准则自我要求",
+            "把自立等同于不求助，难以接纳他人支持"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与反省能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "将停车困难归因为自身能力差，使用自我贬损标签（如“失败者”）",
+            "在社交与出行前过度预演失败情境，以避免出丑"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在准备去陌生地点时，来访者通常会对停车产生强烈担忧并倾向回避，导致取消外出或高度痛苦。",
+          "unique_outcome": "在几次去陌生地点的经历中，来访者顺利找到车位并完成停车，未出现想象中的“出丑”，情绪较为可控。",
+          "reason": "线索：情境不同（当时停车位较充足/交通较缓）；因此这几次担忧未被强化，出现了较顺利的结果。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "兄长过去提供支持的潜在资源",
+          "曾有顺利停车的成功经验可供利用",
+          "愿意尝试记录与挑战负性思维，具备改变动机",
+          "能描述内心体验、与咨询师合作的能力较好"
+        ],
+        "negative_force": [
+          "灾难化与过度概括的认知风格，自我贴标签（“失败者”）",
+          "心理过滤与否定积极证据，削弱自我效能",
+          "回避新情境与社交，强化焦虑循环",
+          "内摄的“应该”规则与自我苛责，减少寻求支持的可能"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "对在陌生地点停车的强烈焦虑与灾难化想象",
+          "antecedent": [
+            "计划或想到要去一个新的地点",
+            "预期需要寻找停车位"
+          ],
+          "core_reason": "担心无法有效应对新情境、害怕出丑与被评价（由“我不胜任/我是失败者”的核心信念驱动）",
+          "function": "逃避不确定性与潜在羞耻，获得短期的安全感与控制感",
+          "consequence": "出现强烈焦虑与自我批评，往往延迟或取消外出计划"
+        },
+        {
+          "behavior": "回避去新地方和社交活动",
+          "antecedent": [
+            "想到可能需要在陌生环境中停车",
+            "预期可能“浪费时间”或“找不到位置”"
+          ],
+          "core_reason": "为避免可能的失败、尴尬与外界评价，将负性预期泛化为回避选择",
+          "function": "通过回避迅速降低焦虑与紧张",
+          "consequence": "生活范围缩小、社交减少，孤独感与失落感加重"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 414
+}

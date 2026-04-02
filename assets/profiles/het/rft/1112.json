@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "63",
+      "name": "林瑞娜",
+      "gender": "女",
+      "occupation": "研究生",
+      "educational_background": "心理学硕士学位",
+      "marital_status": "单身",
+      "family_status": "与侄子、侄女关系密切",
+      "social_status": "总体有支持性的朋友与家人，但因对求职的担忧而与亲友关系一度紧张，难以与他们讨论职业不确定性",
+      "medical_history": "未曾出现类似心理问题，未接受心理治疗；无重大躯体疾病",
+      "language_features": "表达清晰，能具体描述焦虑与自我怀疑；语速平稳；配合度良好，愿意探索并尝试现实检验"
+    },
+    "main_problem": "我对即将毕业与求职感到焦虑，怀疑自己能否在本专业找到工作。",
+    "topic": "职业发展",
+    "core_demands": "我希望对自己的前途更有信心，不再被怀疑吞噬。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的学位没有价值",
+        "我可能无法找到工作"
+      ],
+      "special_situations": [
+        {
+          "event": "临近毕业，现实的求职与转变压力不断加大",
+          "conditional_assumptions": "如果我的学位不被雇主认可，我就无法获得工作机会，说明我不够胜任",
+          "compensatory_strategies": "强迫自己保持积极、专注于既往成就以缓冲焦虑",
+          "automatic_thoughts": "我肯定找不到工作",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "面对竞争激烈的就业市场信息，意识到很多人有相似资历",
+          "conditional_assumptions": "必须比他人更突出才算成功，否则就是失败",
+          "compensatory_strategies": "自我批评、提高内在标准，同时减少与他人讨论以避免被比较",
+          "automatic_thoughts": "我不可能脱颖而出",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "尝试回忆与面对正向证据（如项目好评）时",
+          "conditional_assumptions": "这些正面反馈不足以证明我的能力，不能代表未来求职结果",
+          "compensatory_strategies": "忽视或贬低积极反馈，快速转回对未来的担忧",
+          "automatic_thoughts": "这些好评不算数/只是运气",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "想到要与亲友讨论职业担忧或在社交情境中提及不确定性",
+          "conditional_assumptions": "如果我表达担忧，就会给他人添麻烦，说明我不够坚强",
+          "compensatory_strategies": "回避与亲友谈论职业问题，默默承受焦虑",
+          "automatic_thoughts": "我会给他们增添负担",
+          "cognitive_pattern": "Personalization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认可与看见自己的能力，顺利找到有价值的工作并让亲友放心",
+        "fear": "害怕被评判与拒绝，担心学位不被认可、自己不够胜任，从而让他人失望",
+        "defense_goal": [
+          "通过回避讨论与贬低自我来降低被拒绝与给他人增负的风险",
+          "压抑焦虑与脆弱以维持表面稳定与自我控制感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "焦虑、可能不够资格的求职者",
+          "object_representation": "挑剔、可能拒绝与不认可的评判者（如雇主/他人）",
+          "linking_affect": "焦虑、羞愧、孤独"
+        },
+        {
+          "self_representation": "会给他人添麻烦的人",
+          "object_representation": "可能被自己负担的亲友",
+          "linking_affect": "内疚、回避"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被咨询师或亲友询问未来计划、职业前景或情绪感受时",
+          "interpretation": "认为表达担忧会给他人带来负担，或引来评判与拒绝",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "使用简短、含糊的回答，尽量不触及情绪层面，轻微转移话题，语气平稳以维持表面控制感。"
+        },
+        {
+          "trigger_condition": "当咨询师强调其成就或要求其举例说明成功经验时",
+          "interpretation": "将正向反馈视为不可靠或不足以证明自身能力，担心被“揭穿”不够好",
+          "defense_mechanism": "理智化",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以概括、技术性语言描述经历，避免谈及自豪或脆弱感受，保持客观疏离的语气。"
+        },
+        {
+          "trigger_condition": "当出现“与他人比较/竞争”的话题或信息时",
+          "interpretation": "自动认定自己不如他人，认为失败不可避免",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "自我贬低、强调自身不足，语气自责、降低期待以预先减少失望。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与支持性的亲友讨论职业不确定性，选择独自承受焦虑",
+            "在求职忧虑中感到“一个人面对”的孤立体验"
+          ],
+          "outcomes": [
+            "焦虑加重",
+            "人际关系紧张",
+            "自我怀疑持续"
+          ]
+        },
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "将自己的学位评价为“没有价值/可笑”，质疑学习成果的意义"
+          ],
+          "outcomes": [
+            "动机与自信下降",
+            "负性自我评价",
+            "对未来的悲观推断"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己。",
+          "manifestations": [
+            "难以向亲友表达职业焦虑与需要支持",
+            "把担忧与压力向内承受，减少外界接触与求助"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎。",
+          "manifestations": [
+            "过度自我批评与否定积极证据",
+            "在谈及职业话题时小心谨慎、担心“给他人添麻烦”",
+            "对未来的负面预期导致回避交流"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在面对求职与职业前景的不确定时，来访者通常会焦虑、自我怀疑并忽视正面证据，导致行动受阻与人际紧张。",
+          "unique_outcome": "在上学期完成了一项大型研究项目，获得了很好的反馈并为自己的投入与能力感到自豪，与平时的自我怀疑不同，体验到胜任与价值感。",
+          "reason": "不同做法：任务目标清晰、运用研究与数据分析技能并持续投入；不同支持：获得积极反馈与认可；不同情境：学业任务与能力高度匹配，更易体现优势。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "拥有支持性的朋友与家人网络",
+          "具备扎实的研究与数据分析能力（成功完成大型项目并获好评）",
+          "能够识别并回忆自身成就，具备一定自我激励与希望感"
+        ],
+        "negative_force": [
+          "对未来的负面预测与仓促下结论",
+          "否定正面证据的认知习惯",
+          "高水平的焦虑与自我批评",
+          "回避与亲友讨论职业担忧，减少外部支持获取"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在求职相关情境中出现显著焦虑、消极自我对话与回避与他人沟通职业担忧",
+          "antecedent": [
+            "临近毕业",
+            "想到未来的求职与职业路径",
+            "接触到竞争激烈的就业市场信息"
+          ],
+          "core_reason": "形成“学位没有价值、无法找到工作”的消极核心信念，并将竞争信息灾难化、否定积极证据以预先避免失望与评判。",
+          "function": "逃避不受欢迎的结果与他人评判，降低被拒绝与“给他人增负”的感受。",
+          "consequence": "学业表现受影响；与朋友和家人关系紧张；日常生活与自我照料被焦虑与自我怀疑干扰。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1112
+}

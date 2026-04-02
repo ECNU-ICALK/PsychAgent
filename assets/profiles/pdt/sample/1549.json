@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "29",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "未提及",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "与朋友的关系因其持续的自我批评而变得紧张；有一位支持性的朋友，但尚未就徒步相关的自我怀疑充分敞开",
+      "medical_history": "未接受过心理治疗；无重要躯体疾病；此前未出现与徒步相关的类似问题",
+      "language_features": "首次来访有些焦虑；表达清晰，逻辑性良好；能进行自我反思；配合度高，态度积极"
+    },
+    "main_problem": "我对徒步有强烈热情，但我不断怀疑自己的徒步能力，并给自己贴上“糟糕的徒步者”的标签。这些不够好的感受始于几年前一次在高难度徒步路线中的挣扎。最初压力程度中等，触发点来自将自己与经验丰富的徒步者进行比较。随着时间推移，计划与朋友一起徒步时自我怀疑加重。我在徒步前与徒步中都会出现这些负性想法，使体验变得不那么愉快。我尝试通过寻求他人认可来挑战这些想法，但并未感觉好转。",
+    "topic": "自我探索",
+    "core_demands": "我意识到负性自我标签正在影响我的徒步体验与整体享受，因此寻求咨询以改变这一状况。",
+    "growth_experiences": [
+      "几年前在一条难度较高的徒步路线中表现挣扎，此后开始将那次经历视为自己“不是好徒步者”的证据，并逐渐形成稳定的自我怀疑与负性自我标签。",
+      "上个月的一次徒步中，从出发前就担心自己无法跟上朋友的节奏；在到达陡坡时自我怀疑升级，担心拖慢队友并将该片段视为“我是差劲徒步者”的进一步确认，导致当次徒步的愉悦感显著下降。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的徒步者",
+        "我徒步方面不如那些经验更丰富的同行"
+      ],
+      "special_situations": [
+        {
+          "event": "几年前在一条困难的徒步路线中出现明显挣扎",
+          "conditional_assumptions": "如果我在困难路段表现吃力，就说明我不是一个好徒步者",
+          "compensatory_strategies": "向朋友寻求认可与评价以缓解自我怀疑",
+          "automatic_thoughts": "那次挣扎证明我不擅长徒步",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "与更有经验的朋友一起计划徒步时进行比较",
+          "conditional_assumptions": "如果我跟不上朋友的节奏，就会拖累大家并证明我不行",
+          "compensatory_strategies": "在出发前反复比较与担心，徒步中更频繁休息与自我监控",
+          "automatic_thoughts": "我会拖慢大家的进度",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "徒步过程中遇到陡坡或更具挑战性的路段",
+          "conditional_assumptions": "如果在难点路段表现不佳，就证明我是一个“坏”徒步者",
+          "compensatory_strategies": "咬牙硬撑但持续进行负性自我评价，难以享受过程",
+          "automatic_thoughts": "这就是我不够好的证据",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "朋友给予正面反馈（说我表现不错）",
+          "conditional_assumptions": "除非持续获得他人肯定，否则我的能力不成立",
+          "compensatory_strategies": "持续向他人寻求认可，但对正向反馈不予采纳",
+          "automatic_thoughts": "他们只是安慰我，实际上我不行",
+          "cognitive_pattern": "Disqualifying the Positive"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望在群体中被认可、被接纳为可靠的同行者",
+        "fear": "害怕拖累他人、被评判为不够好或不胜任",
+        "defense_goal": [
+          "通过自我批评与谨慎监控表现来避免他人否定",
+          "通过寻求外部认可缓解焦虑、维持安全感"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好的、可能拖累他人的同行者",
+          "object_representation": "评判性强、标准严格的更有经验的他人/朋友",
+          "linking_affect": "焦虑、羞耻"
+        }
+      ],
+      "behavioral_response_patterns": []
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "与朋友关系因持续自我批评而紧张",
+            "难以向支持性的朋友充分敞开关于徒步相关的自我怀疑"
+          ],
+          "outcomes": [
+            "加重焦虑与自我怀疑",
+            "徒步体验的乐趣降低"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "徒步前过度自我怀疑与比较",
+            "徒步过程中频繁自我评估与自我批评",
+            "担心拖慢队友、过度关注自己的表现而降低享受"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "对徒步有强烈热爱",
+          "曾完成多次徒步（包括较难路线），具备一定胜任证据",
+          "有一位支持性的朋友",
+          "愿意寻求咨询与尝试认知重构，具备自我反思能力"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白思维",
+          "过度比较与个人化倾向",
+          "否定正向反馈、依赖外部认可却难以内化",
+          "稳定的负性自我标签与自我怀疑使体验受损"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在徒步相关情境中的强烈自我怀疑与负性自我标签（如“我是糟糕的徒步者”），伴随焦虑与回避享受当下",
+          "antecedent": [
+            "与更有经验的朋友一起计划徒步",
+            "徒步开始前的预期与比较",
+            "徒步过程中遇到陡坡或困难路段",
+            "回忆几年前在困难路线的挣扎"
+          ],
+          "core_reason": "几年前在高难度路线的挣扎被过度概括为稳定的无能证据；与他人比较与担心拖累加剧个人化与灾难化；对外部认可的依赖导致无法内化正向信息",
+          "function": "逃避被评判与失败的感受；通过自我监控与寻求他人认可来暂时缓解不确定性",
+          "consequence": "徒步的愉悦度下降、与朋友关系紧张、对其他生活领域的自信受影响（工作未直接受损）"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1549
+}

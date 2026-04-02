@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "38",
+      "name": "李明",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "未披露",
+      "social_status": "未披露",
+      "medical_history": "此前未出现类似心理问题；未接受过心理治疗；无显著躯体疾病",
+      "language_features": "表达清晰，配合度较高，语气平和，能进行自我反思，偶有自我苛责与“应该”式表述"
+    },
+    "main_problem": "每当错过一次锻炼或未达成健身目标时，我就觉得自己在保持身材方面很糟糕，并因此产生内疚和自卑感。",
+    "topic": "情绪管理",
+    "core_demands": "这些内疚与自卑感正在影响我的心理健康和自尊，使我难以享受自己喜欢的活动（例如在树林里散步）；我希望能减轻这种负面情绪，重新享受生活。",
+    "growth_experiences": [
+      "约一年前开始更专注于健身目标，并依据社交媒体上的健身网红设定了不切实际的严格目标；此后压力增加，每当错过锻炼或吃不健康食物便强烈自责，与他人（网红）比较导致自我评价下降；曾尝试不同训练和饮食方案，但内疚感持续存在。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是失败者/不够好",
+        "只有完美达成目标才有价值，否则就是失败"
+      ],
+      "special_situations": [
+        {
+          "event": "错过一次健身房锻炼（例如昨天未去健身房）",
+          "conditional_assumptions": "如果我没能严格按计划完成锻炼，就说明我是失败者，甚至会毁掉此前所有进展",
+          "compensatory_strategies": "设定更严格的目标或加倍训练与控制饮食，试图用更高标准来证明自己",
+          "automatic_thoughts": "我在保持身材方面很糟糕，这次又全毁了",
+          "cognitive_pattern": "Catastrophizing"
+        },
+        {
+          "event": "放纵吃不健康食物",
+          "conditional_assumptions": "如果我不完全遵守饮食计划，就说明我缺乏自控力，不配达成健身目标",
+          "compensatory_strategies": "进一步收紧饮食与规则，避免任何“偏离”计划的饮食行为",
+          "automatic_thoughts": "我不自律，我这样做就全盘失败了",
+          "cognitive_pattern": "Should Statements"
+        },
+        {
+          "event": "在社交媒体上看到健身网红的训练与饮食展示",
+          "conditional_assumptions": "我必须达到他们同等甚至更高的标准才算合格，否则就证明我不如人",
+          "compensatory_strategies": "照搬网红的训练与饮食安排，持续与其进行横向比较",
+          "automatic_thoughts": "他们都能轻松做到，我却做不到，我是个失败者",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "外出散步等休闲时想到自己“应该在健身房训练”",
+          "conditional_assumptions": "任何偏离计划的行为都不被允许，我必须随时保持训练，否则不够好",
+          "compensatory_strategies": "压缩或取消休闲活动，把时间与注意力都转向训练计划",
+          "automatic_thoughts": "我现在应该在健身房，否则我就是不自律",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过自律与达标来获得认可与自尊，成为“合格/值得”的人",
+        "fear": "害怕被视为失败、不如人，进而失去自我价值感",
+        "defense_goal": [
+          "以严格自我要求与高标准维持控制与安全感",
+          "回避向他人暴露脆弱与羞耻（不与朋友谈及健身困扰）以避免负面评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不够好、容易失败的自我",
+          "object_representation": "完美、设定高标准且让人望而却步的“他者”（社交媒体网红/榜样）",
+          "linking_affect": "自卑、羞愧、焦虑"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被问及是否把健身困扰分享给亲密朋友，或想到向朋友倾诉时",
+          "interpretation": "若暴露弱点会被看不起或感到羞辱，因此最好压下不说",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "使用简短、事实化的回答，减少情绪词与细节，语气平稳，回避深入情感表达。"
+        },
+        {
+          "trigger_condition": "当未达成严格设定的健身或饮食目标时",
+          "interpretation": "把由比较与高标准激发的愤怒与失望指向自身（自己不够好）",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
+          "response_instruction": "以自我苛责的语气表述（如“都是我不行”），频繁使用否定性标签，降低寻求外部支持的意愿。"
+        },
+        {
+          "trigger_condition": "当接触到网红的训练/饮食标准并据此设定目标时",
+          "interpretation": "将外界的高标准与评价未经消化地纳入自我要求",
+          "defense_mechanism": "摄入/内向投射",
+          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
+          "response_instruction": "强调“应该/必须”式规则，引用他人标准作为自我评判依据，语气坚硬但紧张。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“应该/必须”的僵化规则约束自己",
+            "将休闲时间（如散步）视为不被允许的偏离",
+            "将他人标准内化为自我评判依据"
+          ],
+          "outcomes": [
+            "失去选择的自主感与弹性",
+            "内疚与自我否定加剧",
+            "难以体验当下与享受生活"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "有亲密朋友但不愿分享健身困扰，因感到尴尬与羞耻"
+          ],
+          "outcomes": [
+            "社会支持不足",
+            "自我批评循环强化",
+            "情绪负担难以外化与被共情"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "频繁使用“应该/必须”式表述",
+            "照搬网红的训练与饮食标准作为自我评判依据",
+            "将达标视为唯一可接受结果"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "错过锻炼后持续自我批评与标签化",
+            "过度关注失误而忽略进步",
+            "担心让自己“失望”，因此迟疑于调整目标"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "具备持续提升自我的动机与意愿",
+          "能进行一定的自我反思（提出记录进步的想法）",
+          "拥有一位可谈心的亲密朋友（虽尚未分享健身困扰）",
+          "喜爱并渴望回归自然散步等健康休闲活动"
+        ],
+        "negative_force": [
+          "灾难化与全或无思维显著",
+          "与网红比较并寻求外部验证",
+          "设定不切实际且刚性化的目标",
+          "强烈的自我苛责与羞耻感",
+          "常用“应该/必须”式规则限制自我，忽视弹性与正向证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在错过锻炼或吃不健康食物后出现强烈的内疚与自我否定（情绪+自我言语）",
+          "antecedent": [
+            "错过一次锻炼",
+            "放纵吃不健康食物",
+            "浏览社交媒体上的健身网红内容",
+            "设定并回想未达成的严格目标"
+          ],
+          "core_reason": "将外界高标准内化为自我唯一评判标准，并对单次失误进行灾难化与全或无解读",
+          "function": "通过自我惩罚与苛责来维持“控制与自律”的幻觉，暂时回避承认目标不切实际所带来的焦虑",
+          "consequence": "自尊降低、压力与焦虑增加、难以享受散步等休闲活动，整体生活质量受损"
+        },
+        {
+          "behavior": "回避向亲密朋友分享健身困扰（社交回避）",
+          "antecedent": [
+            "想到或被建议向朋友倾诉健身方面的压力与困扰",
+            "感到尴尬与羞耻时"
+          ],
+          "core_reason": "担心暴露脆弱后被看不起或受到评价，因羞耻而回避求助",
+          "function": "逃避潜在的负面评价与羞辱感，维持表面自我形象",
+          "consequence": "社会支持减少，孤独感增加，问题持续循环而难以缓解"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 314
+}

@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "40",
+      "name": "林楠",
+      "gender": "男",
+      "occupation": "初中美术教师",
+      "educational_background": "美术学学士学位",
+      "marital_status": "单身",
+      "family_status": "无直系亲属，独居",
+      "social_status": "与朋友的关系因害怕失败与回避活动而受到影响；有两位要好的朋友但未与其讨论失败与失望的感受",
+      "medical_history": "无既往心理咨询或治疗史，无重大躯体疾病；既往未出现类似问题",
+      "language_features": "表达清晰，能描述情绪与体验并配合记录自动化思维；逻辑较为连贯但倾向灾难化与非黑即白思维；对改变持谨慎与怀疑态度但愿意尝试"
+    },
+    "main_problem": "最近一场桌球比赛失利后，觉得自己不该再玩，产生失败与失望感并逐渐升级，开始回避打桌球及其他活动、疏远朋友，害怕失败；此类感受在面对挫折时都会出现。",
+    "topic": "情绪管理",
+    "core_demands": "希望识别并改变对挫折的灾难化反应与非黑即白信念，挑战负性信念，恢复对活动的享受。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的自我价值取决于胜负与表现",
+        "不完美就等于失败"
+      ],
+      "special_situations": [
+        {
+          "event": "最近的桌球比赛中失利",
+          "conditional_assumptions": "如果我不能赢，就说明我不行、不该再玩",
+          "compensatory_strategies": "回避再次打桌球以避免失败与尴尬",
+          "automatic_thoughts": "我永远不该再玩桌球了",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "考虑是否再次尝试打桌球",
+          "conditional_assumptions": "如果不能确保成功，再次尝试只会证明我不行并让我很丢脸",
+          "compensatory_strategies": "避免任何不确定能成功的活动",
+          "automatic_thoughts": "我会再输，这会证明我不行，而且很尴尬",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "朋友邀请或社交活动场合",
+          "conditional_assumptions": "如果在朋友面前表现不佳，他们会看不起我",
+          "compensatory_strategies": "回避与朋友见面和参与活动",
+          "automatic_thoughts": "他们会觉得我很差，最好别去",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "工作压力增大、未达到自设高标准",
+          "conditional_assumptions": "如果达不到自己的高期待，就等于个人失败",
+          "compensatory_strategies": "降低投入与热情、回避挑战以减少失败风险",
+          "automatic_thoughts": "我本来应该做得更好，没做到就是失败",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望通过良好表现与胜利来获得自我价值感与认可",
+        "fear": "害怕失败引发羞耻与被他人贬低、被评判",
+        "defense_goal": [
+          "通过回避尝试与维持高控制标准来避免失败与羞耻，保护自尊"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "易被失败定义的“不够好的人”",
+          "object_representation": "随时可能评判与贬低自己的他人/观众",
+          "linking_affect": "羞耻、焦虑、失望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当被邀请尝试可能存在失败风险的活动，或在咨询中被鼓励挑战负性信念与开展行为实验时",
+          "interpretation": "若尝试就会失败并被羞辱，因此避免是更安全的选择（移情：将他人视为潜在评判者）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以委婉、谨慎的语气强调“安全”“没把握”，提出诸多理由解释不尝试或暂缓，减少明确承诺。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "独居",
+            "因害怕失败而回避活动与朋友",
+            "未与亲密朋友讨论失败与失望的感受"
+          ],
+          "outcomes": [
+            "社交退缩",
+            "焦虑与自我怀疑增加",
+            "主观孤立感增强"
+          ]
+        },
+        {
+          "theme": "自由",
+          "manifestations": [
+            "以“必须/应该”式高期待约束自己",
+            "在不确定能成功时选择不尝试以求“安全”"
+          ],
+          "outcomes": [
+            "选择受限、回避新体验",
+            "生活乐趣与热情下降"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "使用“我应该做得更好”的自我要求",
+            "以胜负与完美标准定义自我价值"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制本欲对外做出的行为冲动，转而对自己做，将能量向内转化，与“冲动”对应。",
+          "manifestations": [
+            "明知活动能带来快乐却选择不参加，将能量转为自我怀疑与自我批评",
+            "避免尝试以减少潜在失败带来的羞耻"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "意识到灾难化思维并主动求助咨询",
+          "愿意尝试记录并观察自动化思维",
+          "工作表现基本未受影响，仍有稳定的职业功能",
+          "拥有两位可以交谈的朋友（潜在支持资源）"
+        ],
+        "negative_force": [
+          "灾难化与非黑即白认知模式显著",
+          "将自我价值与胜负/表现强绑定",
+          "对失败的强烈羞耻与预测性担忧导致回避",
+          "社交退缩与活动回避，热情下降"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在面对可能失败的活动和社交时进行回避（包括不再打桌球、减少与朋友互动）",
+          "antecedent": [
+            "想到可能会失败或表现不佳",
+            "朋友邀请参与活动",
+            "工作压力增大、未达自设高标准",
+            "回忆最近桌球比赛失利"
+          ],
+          "core_reason": "将自我价值与胜负绑定、对失败进行灾难化预测并伴随羞耻感",
+          "function": "逃避潜在失败与尴尬，短期保护自尊与减少焦虑",
+          "consequence": "兴趣与热情下降、社交关系受损、自我怀疑增强、生活乐趣减少"
+        },
+        {
+          "behavior": "在挫折后出现极端化言语与认知表达（如“我永远不再玩桌球”）并伴随焦虑",
+          "antecedent": [
+            "经历失败或未达期望",
+            "面对不确定能成功的任务"
+          ],
+          "core_reason": "非黑即白思维与灾难化倾向，高期待触发的自我否定",
+          "function": "通过极端化结论来获得控制感、避免再次尝试带来的焦虑",
+          "consequence": "问题被固化、减少练习与改进机会，加重失望与退缩"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 353
+}

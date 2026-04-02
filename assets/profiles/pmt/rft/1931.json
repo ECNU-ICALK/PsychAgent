@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "63",
+      "name": "王茉莉",
+      "gender": "女",
+      "occupation": "古董汽车修复师",
+      "educational_background": "未提及",
+      "marital_status": "未提及",
+      "family_status": "未提及",
+      "social_status": "有康复计划中的赞助者可以交流，但在谈及自己的焦虑与被评判的恐惧时感到困难；重返社交圈时因担忧评价而受阻",
+      "medical_history": "过去有酒精成瘾史，已完成康复计划；未有显著的躯体疾病；此前未针对与酒精史相关的焦虑与被评判恐惧接受专门治疗",
+      "language_features": "表达清晰、逻辑性尚可；语气谨慎、带负性预期；能与咨询师合作但持怀疑态度；倾向于通过理性化尝试自我安抚并推测他人想法"
+    },
+    "main_problem": "我觉得人们会因为我是康复中的酒精成瘾者而一直看不起我，这让我在社交中产生焦虑和害怕被评判。",
+    "topic": "人际关系",
+    "core_demands": "我意识到焦虑和被评判的恐惧正在影响我社交与建立人际连接的能力，因此寻求咨询。",
+    "growth_experiences": [
+      "曾长期与酒精成瘾斗争并成功完成康复计划；在完成康复后重返社交圈的数月里，持续感到来自酒精史的污名与他人可能的负面评价，导致社交中的焦虑与回避，难以建立新的人际连接。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "因为我曾酗酒并正在康复，别人会一直看不起我",
+        "我是软弱的，不值得被接纳"
+      ],
+      "special_situations": [
+        {
+          "event": "重返社交圈并结识新朋友",
+          "conditional_assumptions": "如果他人知道我曾经的酒精成瘾史，他们一定会轻视并疏远我",
+          "compensatory_strategies": "减少社交参与、在聚会上尽量保持沉默、尝试理性化来压制担忧",
+          "automatic_thoughts": "他们不会想和我来往，会看不起我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在小型聚餐中考虑向熟悉的几位分享自己的康复经历",
+          "conditional_assumptions": "如果我公开谈及康复经历，就会被贴上软弱或不可靠的标签",
+          "compensatory_strategies": "避免披露或仅在极少数情况下对最信任的人简短分享",
+          "automatic_thoughts": "他们会看我不一样，之后会避免我",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "他人在社交场合中的沉默或中性反应",
+          "conditional_assumptions": "如果他们没有明确表示支持，说明他们暗地里看不起我",
+          "compensatory_strategies": "过度解读他人反应、不断自我监控以避免“犯错”",
+          "automatic_thoughts": "他们心里肯定在贬低我",
+          "cognitive_pattern": "Jumping to Conclusions"
+        },
+        {
+          "event": "与新认识的人比较身份背景（自认为“康复中的酒精成瘾者”）",
+          "conditional_assumptions": "如果我有过成瘾史，就注定比别人差、不会被真正接纳",
+          "compensatory_strategies": "给自己贴负面标签并降低互动意愿",
+          "automatic_thoughts": "我不如别人，注定被看轻",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被接纳、被尊重并建立真实的人际连接",
+        "fear": "害怕被评判、羞辱或被拒绝（因自己的成瘾与康复史）",
+        "defense_goal": [
+          "通过谨慎与隐藏过去维持安全感，避免在社交中暴露脆弱以免受伤"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "被污名化、容易被看轻的弱者",
+          "object_representation": "挑剔且会贬低自己的评判者",
+          "linking_affect": "焦虑、羞耻、恐惧"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议进行行为实验、并提议在即将到来的聚餐中分享康复经历时",
+          "interpretation": "潜意识里将“分享”理解为暴露弱点，担心他人与咨询师会像评判者一样看轻自己",
+          "defense_mechanism": "sring",
+          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
+          "response_instruction": "以谨慎而克制的语气回应，强调分析与预测“如果……会怎样”，不断提出担忧与保留意见，尽量不触及羞耻与恐惧的感受。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "重返社交与结识新朋友时因害怕被评判而退缩或沉默",
+            "难以敞开谈及焦虑与恐惧，阻碍真实连接"
+          ],
+          "outcomes": [
+            "社交焦虑与回避",
+            "人际关系受限、连接减少",
+            "自我污名化加深"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在缺乏证据的情况下假设他人会看不起自己",
+            "将内在的羞耻与恐惧归因于他人的负面看法"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "在社交场合高度紧张，谨慎观察与预测他人反应，难以自发表达",
+            "难以敞开谈及自己的焦虑与被评判恐惧"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [],
+      "force_field": {
+        "positive_force": [
+          "已完成酒精成瘾的康复计划，具备坚持与自我修复的能力",
+          "拥有赞助者等社会支持资源可供求助",
+          "愿意在咨询中尝试行为实验，具备一定的改变意愿",
+          "能够识别并表述自己的自动化思维与担忧"
+        ],
+        "negative_force": [
+          "对成瘾史的自我污名化与低自我价值感",
+          "读心术与过度概括等认知扭曲导致对他人反应的负面预测",
+          "对披露康复经历的灾难化预期",
+          "在社交情境中难以敞开与表达，焦虑显著"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在社交场合出现显著焦虑并倾向回避互动或隐匿康复经历",
+          "antecedent": [
+            "参加社交聚会",
+            "结识新朋友",
+            "考虑谈及自己的康复经历"
+          ],
+          "core_reason": "对来自酒精史的污名与被评判的恐惧；存在读心术、过度概括与灾难化等认知偏差",
+          "function": "逃避被评判与潜在拒绝，保护自我免受羞耻与不适",
+          "consequence": "减少参与社交与难以建立新的人际连接，持续焦虑并强化负性信念"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1931
+}

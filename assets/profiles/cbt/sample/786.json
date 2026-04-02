@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "14",
+      "name": "刘茜",
+      "gender": "女性",
+      "occupation": "服装零售商员工",
+      "educational_background": "高中毕业",
+      "marital_status": "已婚",
+      "family_status": "有一个孩子；配偶支持，但因来访者的绝望情绪关系受影响",
+      "social_status": "与配偶关系紧张；在家庭聚会时感到孤立；总体社交未提及更多细节",
+      "medical_history": "无重大躯体疾病；无类似问题既往史；未接受其他心理治疗",
+      "language_features": "表达清晰，能具体描述情绪与触发情境；能与咨询师合作并愿意尝试新策略；态度积极；思维中出现“非黑即白”“过度概括”“心理过滤”“否定积极”的倾向"
+    },
+    "main_problem": "我一直觉得因为只有一个孩子，人生已经被毁了；这引发绝望与悲伤的情绪，且在过去几年持续存在，常被家庭聚会或社交媒体上关于大家庭的内容触发。",
+    "topic": "情绪管理",
+    "core_demands": "这些绝望的感受正影响我的日常生活和整体幸福感，因此我来寻求咨询，希望能好起来、更加充分地享受生活。",
+    "growth_experiences": [
+      "在生育后不久开始出现强烈的绝望与悲伤情绪，并在随后的几年中持续；认为社会对多孩家庭的期待与压力是成因。该信念在家庭聚会和社交媒体上看到多子女家庭时被不断强化，逐渐形成“至少两个孩子才算完整/成功”的标准；由此影响到婚姻关系、兴趣爱好（如园艺）及睡眠。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我的人生被毁了",
+        "我是失败的/不完整的母亲",
+        "如果没有至少两个孩子，我就不被认可"
+      ],
+      "special_situations": [
+        {
+          "event": "在家庭聚会上看到亲友的多子女家庭",
+          "conditional_assumptions": "如果我只有一个孩子，别人会怜悯我、看不起我，我不合群",
+          "compensatory_strategies": "与配偶倾诉，尝试通过专注工作和爱好来分散注意力",
+          "automatic_thoughts": "我不合群，大家肯定在怜悯我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "在社交媒体上看到关于大家庭的帖子和图片",
+          "conditional_assumptions": "拥有多个孩子才是常态与成功，我与“正常”和“成功”无缘",
+          "compensatory_strategies": "刻意去做爱好或投入工作来降低不适",
+          "automatic_thoughts": "我的人生已经被毁了",
+          "cognitive_pattern": "Comparing and Despairing"
+        },
+        {
+          "event": "与配偶关系因该问题而紧张的时刻",
+          "conditional_assumptions": "只要不是两个孩子，就意味着失败与不完整",
+          "compensatory_strategies": "将精力投入工作以维持功能、暂时回避冲突话题",
+          "automatic_thoughts": "我就是失败的",
+          "cognitive_pattern": "All-or-Nothing Thinking"
+        },
+        {
+          "event": "想到社会对多孩家庭的期待与压力",
+          "conditional_assumptions": "我应该至少有两个孩子，这样才算合格和被认可",
+          "compensatory_strategies": "不断用外界标准评判自己，忽略已有的积极面（支持的配偶、孩子带来的喜悦）",
+          "automatic_thoughts": "我本来就应该有不止一个孩子",
+          "cognitive_pattern": "\"Should\" Statements"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望拥有更完整的家庭、获得“合格母亲”的身份认同与外界认可",
+        "fear": "害怕因不符合社会期待而被评判、被怜悯与排斥，甚至“人生被毁”",
+        "defense_goal": [
+          "以僵化的标准（至少两个孩子）维持自我价值的稳定感",
+          "通过自我苛责与否定积极面来避免面对不确定性或被拒绝的焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "不完整、失败、被怜悯的母亲",
+          "object_representation": "他人/社会是苛刻的评判者（随时可能看不起或怜悯我）",
+          "linking_affect": "羞耻、悲伤、孤立感"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "在咨询或生活中谈及家庭聚会与他人的孩子话题时",
+          "interpretation": "他人会怜悯或看不起我（将内在的自我贬低投射到他人态度上）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "用谨慎的语气强调“他们都在想我很可怜”，并以此回避探讨自身感受的依据与证据。"
+        },
+        {
+          "trigger_condition": "当咨询师探索“有哪些积极证据能反驳负性信念”时",
+          "interpretation": "积极面不重要或不算数，核心信念才是事实",
+          "defense_mechanism": "压抑",
+          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
+          "response_instruction": "语气平稳但忽略或轻描淡写积极经历，迅速回到负面主张。"
+        },
+        {
+          "trigger_condition": "当被问及“为什么坚持多孩才算正常”并引导检验信念时",
+          "interpretation": "社会规范就是对的，我的悲伤有正当理由（以外界标准解释情绪）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "使用一般化表述（如“大家都这样”），以社会期望为依据进行解释，降低对个人经验的探究。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "无意义",
+          "manifestations": [
+            "反复自述“我的人生被毁了”“人生不完整”",
+            "积极体验被负面信念遮蔽（忽视配偶支持与孩子带来的喜悦）"
+          ],
+          "outcomes": [
+            "绝望与悲伤情绪",
+            "兴趣降低（园艺等爱好减少）",
+            "睡眠紊乱",
+            "与配偶关系紧张"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "在家庭聚会中看到多子女家庭时感到孤立与被排斥",
+            "主观体验“大家都在怜悯我”"
+          ],
+          "outcomes": [
+            "社交场合中的疏离感与自我否定",
+            "增强负性自我关注与比较"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "内摄",
+          "definition": "个体未经消化地把外界规则、期望当作自己的标准或绝对真理，与“拒绝”对应。",
+          "manifestations": [
+            "将“至少两个孩子才算正常/合格”视为自我标准",
+            "使用“应该”类陈述评判自己"
+          ]
+        },
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "在没有直接证据的情况下认为“大家都在怜悯我/看不起我”",
+            "社交场景中将自我羞耻体验归因于他人态度"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在看到多子女家庭的情境下，来访者通常会陷入“人生被毁”的反刍与强烈悲伤",
+          "unique_outcome": "在与孩子互动、观看孩子成长学习的具体时刻，来访者体验到明显的喜悦与满足，负性思维的强度下降",
+          "reason": "不同做法：将注意力聚焦于当下亲子互动的细节与价值；不同理解：承认“已有的一个孩子也带来意义与快乐”。"
+        },
+        {
+          "target_problem": "在日常生活中，负面情绪常干扰休闲与睡眠，导致整体幸福感受损",
+          "unique_outcome": "在工作场景中，来访者能保持投入，工作表现未受影响",
+          "reason": "不同情境：工作任务结构化、节奏明确、注意力集中于具体目标，有助于降低反刍与比较。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有支持的配偶可以倾诉",
+          "与孩子的连接带来真实的喜悦与满足",
+          "在工作中的稳定投入与功能维持",
+          "愿意尝试新策略并进行记录和观察负性思维"
+        ],
+        "negative_force": [
+          "内摄外界的多孩标准，将其视为自我价值的唯一准绳",
+          "比较与绝望的习惯性思维模式",
+          "读心术与非黑即白思维导致自我否定",
+          "心理过滤与否定积极经验",
+          "社会期待与家庭聚会/社交媒体刺激持续触发负性认知"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "每日反刍“我的人生被毁了/我失败了”的自动化思维并伴随强烈悲伤",
+          "antecedent": [
+            "看到或接触多子女家庭（家庭聚会）",
+            "浏览社交媒体上关于大家庭的内容",
+            "想到社会对多孩的期待与压力"
+          ],
+          "core_reason": "将社会期待内摄为自我标准并进行比较与读心，形成非黑即白与过度概括的认知偏差，进而诱发灾难化的自我陈述。",
+          "function": "短期内宣泄情绪与寻找外界标准以维持控制感，回避面对不确定性与自我接纳的挑战。",
+          "consequence": "与配偶关系紧张；兴趣爱好减少；睡眠紊乱；整体幸福感下降。"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 786
+}

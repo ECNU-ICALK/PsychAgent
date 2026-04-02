@@ -1,0 +1,167 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "11",
+      "name": "陈昊然",
+      "gender": "男",
+      "occupation": "瑜伽教练",
+      "educational_background": "瑜伽教练认证培训",
+      "marital_status": "恋爱中",
+      "family_status": "与伴侣同住，有两只吉娃娃",
+      "social_status": "有朋友与家人可倾诉，但尚未就此事与任何人沟通；与女友关系因不安而受到影响",
+      "medical_history": "无重大躯体疾病；无既往类似心理问题或治疗史",
+      "language_features": "表达清晰、逻辑性较强、配合度高，能进行自我反思，语气平和"
+    },
+    "main_problem": "我一直对自己收集贝壳的爱好感到焦虑和不自信，因为我认为女友觉得这很奇怪。几个月前注意到女友的表情后开始紧张，尤其当我把她的表情解读为不赞同时，压力上升；目前发展到在谈及爱好时会感到不安，不敢与她或他人分享。",
+    "topic": "人际关系",
+    "core_demands": "我意识到焦虑和不自信正在影响我的亲密关系并造成痛苦，因此寻求心理咨询以缓解困扰、改善关系。",
+    "growth_experiences": []
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是不被接纳的",
+        "与众不同等于被否定"
+      ],
+      "special_situations": [
+        {
+          "event": "向女友展示贝壳收藏时，注意到她困惑或不感兴趣的表情",
+          "conditional_assumptions": "如果对方露出困惑或不感兴趣，就代表她否定我和我的爱好",
+          "compensatory_strategies": "避免与女友谈论收藏，隐藏爱好以减少被否定的风险",
+          "automatic_thoughts": "她觉得我很奇怪、她不认可我",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "日常对话中出现“兴趣爱好”话题",
+          "conditional_assumptions": "如果我提到收集贝壳，别人都会觉得我怪异并看轻我",
+          "compensatory_strategies": "在社交场合回避分享兴趣、转移话题",
+          "automatic_thoughts": "大家都会觉得我很怪，最好不要说",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "回想女友曾出现的单次困惑/不感兴趣表情",
+          "conditional_assumptions": "负面线索比正面证据更可信；一旦出现不赞同，就说明整体被否定",
+          "compensatory_strategies": "忽视关系中的正向证据，只关注负面线索",
+          "automatic_thoughts": "她大概整体上都不喜欢我的这一面",
+          "cognitive_pattern": "Mental Filtering"
+        },
+        {
+          "event": "考虑是否与女友直接沟通关于爱好与感受",
+          "conditional_assumptions": "如果把这件事挑明，她会当场否认我、看轻我，关系会恶化",
+          "compensatory_strategies": "避免开启谈话以保护关系与自尊，继续保持沉默",
+          "automatic_thoughts": "一说就更糟，还是不要谈",
+          "cognitive_pattern": "Catastrophizing"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被伴侣如其所是地接纳与认可，能够自在分享真实兴趣",
+        "fear": "害怕因“与众不同”而被否定、被看轻，进而被疏远或抛弃",
+        "defense_goal": [
+          "通过隐藏与回避减少被评价和被羞辱的可能性",
+          "以合理化的方式压低羞耻与焦虑，维持自尊与关系的表面和谐"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "脆弱、易被评判、需要隐藏真实兴趣的自我",
+          "object_representation": "挑剔、可能否定或羞辱自己的重要他者（如女友）",
+          "linking_affect": "焦虑、羞耻、害怕被拒绝"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师建议与女友直接沟通或邀请其表达更真实的感受时",
+          "interpretation": "无意识地预期对方会像重要他人一样否定自己（移情：将内在的否定期待投向当下关系）",
+          "defense_mechanism": "合理化",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
+          "response_instruction": "以分析和解释为主，强调“现在不方便/不是合适时机”等理由，语气平和但回避直接表达焦虑与羞耻。"
+        },
+        {
+          "trigger_condition": "当看到对方（尤其是女友）露出困惑或不感兴趣的表情时",
+          "interpretation": "将自身的不安与羞耻感归因于对方“觉得我怪异”（移情/投射）",
+          "defense_mechanism": "投射",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
+          "response_instruction": "使用猜测他人想法的表述（如“她肯定觉得我怪”），减少自我感受表露，回避进一步求证。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "害怕暴露真实兴趣后被否定，选择隐藏自我",
+            "将他人的表情解读为否定，感到与人疏离",
+            "不愿与伴侣或他人讨论真实担忧，回避直接接触"
+          ],
+          "outcomes": [
+            "持续焦虑与不安全感",
+            "睡眠紊乱与食欲降低",
+            "亲密关系紧张、沟通减少"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与“拥有”对应。",
+          "manifestations": [
+            "根据女友的表情推测对方“觉得我很奇怪”，未直接核实",
+            "在对话中以他人可能的评价取代自身体验表达"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思与过度自我限制，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度在意他人评价，担心被看轻而回避分享兴趣",
+            "在谈及爱好时小心翼翼，倾向于压抑真实偏好"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "与伴侣共享多项积极兴趣（瑜伽、户外活动），关系存在正向基础",
+          "拥有朋友与家人的社会支持网络",
+          "主动求助、态度积极，愿意尝试重构认知与进行自我肯定",
+          "能够描述自动化思维与情绪体验，具备一定的自我觉察"
+        ],
+        "negative_force": [
+          "对他人评价高度敏感，过度依赖外部验证",
+          "读心术、过度概括、心理过滤等认知偏差显著",
+          "回避直接沟通以短期减轻焦虑，形成维持因素",
+          "睡眠与食欲受扰，降低情绪复原力与专注力",
+          "自我标签化（将“与众不同”等同于“怪异”）"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "在涉及爱好话题时出现明显焦虑并回避与他人（尤其是伴侣）分享收集贝壳的兴趣",
+          "antecedent": [
+            "向女友展示收藏时看到其困惑或不感兴趣的表情",
+            "谈话出现“兴趣/爱好”主题",
+            "在工作授课时想到伴侣可能不认可该爱好"
+          ],
+          "core_reason": "将对方表情解释为否定，自我贴上“很奇怪”的标签，伴随读心术与灾难化推理，触发对被拒绝与羞耻的强烈恐惧",
+          "function": "逃避被评价或被拒绝的可能性，短期内降低羞耻与焦虑以维护自尊",
+          "consequence": "减少自我暴露与分享，导致亲密关系紧张；睡眠紊乱、食欲下降；授课时注意力受影响"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1272
+}

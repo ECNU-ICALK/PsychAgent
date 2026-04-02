@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "60",
+      "name": "林莎",
+      "gender": "女性",
+      "occupation": "工厂工人",
+      "educational_background": "高中毕业",
+      "marital_status": "单身",
+      "family_status": "独居，未提供家庭成员信息",
+      "social_status": "有少数朋友可倾诉，但未与他们讨论自己对外貌的不安全感",
+      "medical_history": "十岁时鼻部受伤；除鼻部受伤外无重大躯体疾病；既往未接受心理治疗",
+      "language_features": "表达清晰、能具体描述情绪与经历；语气中性但自我批评明显；逻辑连贯；配合度较高；倾向否定正面反馈并对他人评价高度敏感"
+    },
+    "main_problem": "我认为自己因为十岁时摔伤鼻子而是“最丑的人”，这导致自尊心低下并回避约会与社交。",
+    "topic": "人际关系",
+    "core_demands": "希望改善低自尊对社交和幸福的影响，尤其是在约会方面。",
+    "growth_experiences": [
+      "十岁时鼻部受伤，外貌受到影响，随后产生强烈的“自己很丑”的自我认知；该事件引发高压与不安全感，开始回避社交场合与约会；随着时间推移，回避不断增加，负面自我形象被强化；尽管工作表现未受影响，但在建立与维持浪漫关系方面长期受阻；偶有来自朋友或陌生人的正面评价（如被称赞笑容）却难以相信，倾向将其解释为“只是礼貌”。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我很丑",
+        "没有人会想和我这样的人在一起"
+      ],
+      "special_situations": [
+        {
+          "event": "想到约会或参加社交活动",
+          "conditional_assumptions": "如果别人看到我的外貌（尤其是鼻子），他们就会认为我丑并拒绝我",
+          "compensatory_strategies": "回避约会和社交以减少被评判的风险",
+          "automatic_thoughts": "他们一定觉得我很丑；没人会愿意和我约会",
+          "cognitive_pattern": "Mind Reading"
+        },
+        {
+          "event": "计划去参加爵士音乐活动等社交娱乐",
+          "conditional_assumptions": "如果出现在人群中，我会被负面评价，情况只会很糟",
+          "compensatory_strategies": "取消或回避活动，留在家中以获得短期轻松",
+          "automatic_thoughts": "一去就会被嘲笑或拒绝",
+          "cognitive_pattern": "Fortune Telling"
+        },
+        {
+          "event": "在派对上被人称赞“笑容很美”",
+          "conditional_assumptions": "与我对自我外貌的负面看法不一致的正面反馈都不可信",
+          "compensatory_strategies": "否定或忽视赞美，把其解释为礼貌",
+          "automatic_thoughts": "他们只是出于礼貌，不是真的",
+          "cognitive_pattern": "Disqualifying the Positive"
+        },
+        {
+          "event": "回忆十岁时鼻部受伤的经历",
+          "conditional_assumptions": "一次外貌受损就意味着我此后一直都是丑陋和不可被爱的",
+          "compensatory_strategies": "以“全或无”的标准评价自己外貌，并通过回避关系来保护自己",
+          "automatic_thoughts": "从那次以后我就一直很丑，没人会喜欢我",
+          "cognitive_pattern": "Overgeneralization"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被喜欢与被接纳，建立亲密的浪漫关系",
+        "fear": "害怕因外貌被评判、拒绝或羞辱",
+        "defense_goal": [
+          "通过保持疏离与回避约会来降低被评判的风险与焦虑"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "丑陋、会被拒绝的自我",
+          "object_representation": "他人是苛刻的评判者或拒绝者",
+          "linking_affect": "羞耻、恐惧、无望"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当他人给予赞美或正面反馈时（如派对上被称赞笑容）",
+          "interpretation": "认为对方只是出于礼貌并不真诚，从而维持对自我外貌的负面认知",
+          "defense_mechanism": "sring",
+          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
+          "response_instruction": "以平静但坚决的语气解释“他们只是礼貌”，罗列看似合理的理由来淡化或否定赞美。"
+        },
+        {
+          "trigger_condition": "想到要参与约会或进入社交场合时",
+          "interpretation": "相信他人会盯着自己的鼻子并评判自己丑陋，将内在的自我批评体验归因于外界目光",
+          "defense_mechanism": "sring",
+          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
+          "response_instruction": "使用谨慎、笼统的表达（如“他们都会…”），回避具体证据，并以此为由拒绝参与。"
+        },
+        {
+          "trigger_condition": "被咨询师提出行为实验或挑战负性信念的建议时",
+          "interpretation": "对与既有负性信念相矛盾的正面证据保持不相信与怀疑",
+          "defense_mechanism": "sring",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
+          "response_instruction": "以轻度怀疑的语气强调“很难相信”，最小化正面信息并要求将步骤尽量缩小。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "长期回避约会与社交导致社交生活受限",
+            "短期回避带来轻松，随后感到孤独并加重自我批评",
+            "担心被他人评判外貌，难以接受正面反馈"
+          ],
+          "outcomes": [
+            "孤独感增强",
+            "自尊心低下",
+            "社交回避",
+            "对改变持悲观态度"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "投射",
+          "definition": "个体将自己难以接纳的感受归于他人，与”拥有“对应，语言表现为：“他在看不起我”，“他们想排挤我”等",
+          "manifestations": [
+            "在谈到社交或约会时，假定他人会认为自己很丑",
+            "将内在的自我批评体验归因于他人的看法"
+          ]
+        },
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。语言表现为：“算了我忍着”，“我不该麻烦别人”等",
+          "manifestations": [
+            "不向朋友谈及外貌不安与羞耻，选择独自承受",
+            "将本可向外部寻求支持的需求转为自我批评"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。语言表现为：“都是我害了他”，“我不配和他说话”等",
+          "manifestations": [
+            "过度自我批评，认为“没人会想和我在一起”",
+            "在尝试改变时持高度怀疑与谨慎，只愿意小步尝试"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "在社交聚会或考虑约会时，来访者通常会认为他人会评价自己丑陋，并因此回避或否定正面互动。",
+          "unique_outcome": "在一次派对上，有人真诚地称赞来访者“笑容很美”，来访者虽然难以完全相信，但注意到并记住了这次正面互动。",
+          "reason": "不同情境：在轻松的派对氛围中出现了友善互动；不同理解：赞美听起来真诚，从而被来访者留意并记录下来。"
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "有稳定工作与基本生活结构（工厂工作，工作表现未受影响）",
+          "保有社交兴趣（喜欢参加爵士音乐活动）",
+          "具备一定的自我观察能力，能识别“回避—孤独—自我批评”的循环",
+          "愿意尝试行为实验并记录正面反馈",
+          "有几位朋友可寻求支持"
+        ],
+        "negative_force": [
+          "自尊心低下、长期自我否定",
+          "读心术与全或无思维等认知偏差导致对他人评价的过度恐惧",
+          "否定正面反馈，难以整合积极证据",
+          "社交与约会的回避行为带来短期缓解但维持问题",
+          "对改变持怀疑态度，依附回避策略"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "回避约会与社交活动",
+          "antecedent": [
+            "想到恋爱或社交事件",
+            "计划参加爵士音乐活动",
+            "面对可能被他人关注的场景"
+          ],
+          "core_reason": "十岁鼻部受伤后形成的消极自我形象与对被评判、被拒绝的恐惧",
+          "function": "逃避不受欢迎的事物（他人评价与拒绝），以获取短期焦虑缓解",
+          "consequence": "孤独感增加，社交生活受限，自尊进一步降低"
+        },
+        {
+          "behavior": "否定他人的赞美与正面反馈",
+          "antecedent": [
+            "在社交场合收到他人的称赞或善意反馈（如派对上被赞美笑容）"
+          ],
+          "core_reason": "负性核心信念与认知失调，导致与自我形象不一致的正面信息被拒斥",
+          "function": "维持既有信念，避免情绪与认知的冲突",
+          "consequence": "积极证据难以累积，负性自我形象得到强化，进一步阻碍约会与社交"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 1599
+}

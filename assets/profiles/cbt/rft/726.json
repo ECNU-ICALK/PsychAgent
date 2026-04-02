@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "static_traits": {
+      "age": "21",
+      "name": "陈安",
+      "gender": "男",
+      "occupation": "未披露",
+      "educational_background": "未披露",
+      "marital_status": "未披露",
+      "family_status": "与父亲同住；家中有一只狗（Percy）；最近失去一只猫（自然死亡）",
+      "social_status": "未披露",
+      "medical_history": "无显著躯体疾病；此前未接受心理治疗或精神科治疗；在猫去世前无类似心理问题",
+      "language_features": "表达清晰、逻辑条理；合作度尚可（愿意尝试记录积极记忆）；明显的自责与负性自动思维（如“我应该做得更多”“都是我的错”）；倾向于回避与父亲讨论情绪；语速与具体表达风格未提及"
+    },
+    "main_problem": "自从猫去世后，我一直觉得自己是个糟糕的宠物主人，这种内疚与自责影响了我的日常生活和对自我的看法。",
+    "topic": "情绪管理",
+    "core_demands": "我到了情绪和思维的临界点，意识到它们正在对我的心理健康产生负面影响。",
+    "growth_experiences": [
+      "一次重要的丧失事件：猫因自然原因死亡。事件发生后，陈安持续产生强烈的内疚与自责（认为自己应该做得更多、未尽到保护和照料的责任），这些感受与想法未随时间减轻，反而影响到日常作息与自我照料；与父亲同住但难以与其讨论这类感受，且在看到家中狗（Percy）或独处时负性思维更为强烈。此前无类似心理困扰经历，也未接受心理治疗。"
+    ]
+  },
+  "theory": {
+    "cbt": {
+      "core_beliefs": [
+        "我是一个糟糕的宠物主人",
+        "一切都是我的错",
+        "我没有尽到自己应尽的责任"
+      ],
+      "special_situations": [
+        {
+          "event": "看到家中的狗（Percy）或需要进行与宠物相关的照料时",
+          "conditional_assumptions": "作为宠物主人，我必须时刻预防并避免任何不良结果；如果我未能保护好宠物，就说明我是失败的。",
+          "compensatory_strategies": "反复回放与反刍当时情境、加重自我批评；避免与父亲或他人讨论以躲避被评价和无助感。",
+          "automatic_thoughts": "我应该做得更多；如果我是更好的主人，他现在还会活着。",
+          "cognitive_pattern": "“Should” Statements"
+        },
+        {
+          "event": "独处时或在安静环境中回想猫的去世",
+          "conditional_assumptions": "只要我感到强烈的内疚，就证明我确实失败并且应当为结果负责。",
+          "compensatory_strategies": "陷入反刍、减少自我照料，把注意力聚焦于内疚感以维持“我应该受罚”的认知。",
+          "automatic_thoughts": "这都是我的错，我没尽到责任。",
+          "cognitive_pattern": "Emotional Reasoning"
+        },
+        {
+          "event": "回忆猫去世前的细节并试图寻找“遗漏的迹象”",
+          "conditional_assumptions": "一次失误或未注意到的细节就意味着我在整体上都是失败的主人。",
+          "compensatory_strategies": "不断自我检讨、否定既往的付出和良好照料，以期“防止再次失败”。",
+          "automatic_thoughts": "我在各方面都失败了；我哪里都做得不够。",
+          "cognitive_pattern": "Overgeneralization"
+        },
+        {
+          "event": "父亲尝试与我谈论感受或提供支持",
+          "conditional_assumptions": "他人不会真正理解我的感受，谈论只会让我更糟或让我显得在找借口。",
+          "compensatory_strategies": "回避交流、保持沉默以避免被误解或被否定。",
+          "automatic_thoughts": "说了也没用，没有人真的理解我。",
+          "cognitive_pattern": "Mind Reading"
+        }
+      ]
+    },
+    "pdt": {
+      "core_conflict": {
+        "wish": "渴望被认定为尽责、合格的照料者，并在丧失后被理解与安慰",
+        "fear": "害怕承认自身的有限性会等同于“坏主人”，被他人或自己否定与责备",
+        "defense_goal": [
+          "通过自我指责维持“我在掌控/我负全部责任”的感觉",
+          "回避与他人讨论以免暴露“失败”并避免被评价"
+        ]
+      },
+      "object_relations": [
+        {
+          "self_representation": "失败的、负罪的照料者",
+          "object_representation": "他人（包括父亲）是“无法理解或可能否定我的人”",
+          "linking_affect": "内疚、羞耻、孤独"
+        }
+      ],
+      "behavioral_response_patterns": [
+        {
+          "trigger_condition": "当咨询师或亲近的人邀请其承认曾对宠物的良好照料、回忆积极面并进行认知重构时",
+          "interpretation": "把他人的理解与重构视为“为自己找借口”，担心被否认失败或被评判",
+          "defense_mechanism": "否认",
+          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
+          "response_instruction": "坚持自责、否定积极证据；语气低落，使用诸如“那只是借口”的表述，缩短回应，减少展开。"
+        },
+        {
+          "trigger_condition": "当父亲尝试与其谈论感受或提供支持时",
+          "interpretation": "相信交流无意义、他人不会理解自己且可能评判，因而选择不表达",
+          "defense_mechanism": "转向自身",
+          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
+          "response_instruction": "回避谈话、转而进行自我批评与反刍；使用“没用/说了也没用”等语句，保持低能量、少眼神接触。"
+        }
+      ]
+    },
+    "het": {
+      "existentialism_topic": [
+        {
+          "theme": "死亡",
+          "manifestations": [
+            "宠物的自然死亡触发对生命有限与不可控的直面",
+            "在丧失后将责任全然归于自身，难以容纳有限性与无力感"
+          ],
+          "outcomes": [
+            "持续的内疚与自责",
+            "功能受损（自我照料下降、日常活动受影响）",
+            "加重的孤立感与退缩"
+          ]
+        },
+        {
+          "theme": "孤独",
+          "manifestations": [
+            "难以与父亲讨论感受，主观体验为“无人理解”",
+            "在独处时负性思维与内疚更为强烈"
+          ],
+          "outcomes": [
+            "社交回避与支持利用不足",
+            "反刍加剧，情绪困扰加重"
+          ]
+        }
+      ],
+      "contact_model": [
+        {
+          "mode": "回摄",
+          "definition": "个体克制想对其他人或物做出某个行为的冲动，或是放弃了向外寻求别人为其做某事，转而对自己做，即个体将原欲对外发出的能量转而对自己，与“冲动”对应。",
+          "manifestations": [
+            "避免与父亲谈论内疚与自责，压抑对外求助的冲动",
+            "将交流与表达转化为自我反刍与自责"
+          ]
+        },
+        {
+          "mode": "自我监控",
+          "definition": "个体存在不良的自我反思和反省的能力，包含过多的自我限制和自我苛责，对接触过于小心谨慎，与“自主性”对应。",
+          "manifestations": [
+            "过度自我苛责与自我否定（如“我应该做得更多”“都是我的错”）",
+            "将宠物的自然死亡完全个人化地归因于自身责任"
+          ]
+        }
+      ]
+    },
+    "pmt": {
+      "exception_events": [
+        {
+          "target_problem": "",
+          "unique_outcome": "",
+          "reason": ""
+        }
+      ],
+      "force_field": {
+        "positive_force": [
+          "对宠物有强烈的爱与责任心",
+          "拥有父亲这一潜在的支持资源（虽未充分利用）"
+        ],
+        "negative_force": [
+          "过度个人化归责与过度概括（将一次丧失等同于“我是坏主人”）",
+          "回避与亲人沟通，导致社会支持利用不足",
+          "持续反刍与自我惩罚，致使自我照料下降",
+          "使用“应该”式自我要求，否定积极证据"
+        ]
+      }
+    },
+    "bt": {
+      "target_behavior": [
+        {
+          "behavior": "持续的反刍与自责性思维",
+          "antecedent": [
+            "独处或安静环境",
+            "看到狗Percy或进行宠物照料",
+            "回想猫去世细节"
+          ],
+          "core_reason": "猫的自然死亡触发“都是我的错/我是坏主人”的核心信念与内疚情绪，维持自我惩罚倾向",
+          "function": "逃避无力感与丧失的痛苦，通过自我惩罚维持“我在承担责任”的感受",
+          "consequence": "情绪困扰加剧，注意力与功能下降，日常生活与自我照料受影响"
+        },
+        {
+          "behavior": "回避与父亲或他人谈论丧失与感受",
+          "antecedent": [
+            "父亲尝试沟通或提供支持",
+            "被邀请表达或分享情绪的情境"
+          ],
+          "core_reason": "担心被否定或被评判，体验“无人理解”，羞耻与内疚驱动回避",
+          "function": "逃避被评价和情绪激活，维持表面安全感",
+          "consequence": "社会支持利用不足、孤立感增加，反刍与内疚强化"
+        },
+        {
+          "behavior": "自我照料减少（饮食、作息、日常管理与宠物照料感到负担）",
+          "antecedent": [
+            "强烈内疚与自责思维涌现时",
+            "日常任务触发对“失败”的联想"
+          ],
+          "core_reason": "将自我惩罚视为对失败的“弥补”，并被反刍占据心理资源",
+          "function": "以降低自我照料作为自我惩罚与回避任务的方式",
+          "consequence": "生活质量下降、功能受损；照料狗Percy时感到更为压迫与负担"
+        }
+      ]
+    }
+  },
+  "source": "cactus_del_same_intake.json",
+  "user_id": 726
+}
