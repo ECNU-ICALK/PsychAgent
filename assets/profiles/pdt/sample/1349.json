@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师强调工作中的积极片段或建议重构看法时",
           "interpretation": "将积极片段理解为“微不足道、改变不了整体单调”的讯息，担心被要求“乐观”而忽视现实",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以冷静但否定的语气列举“为何无效”的理由（如“这只是偶然”），使用绝对化表述，弱化积极意义。"
         },
         {
           "trigger_condition": "当被邀请与朋友沟通、寻求支持时",
           "interpretation": "认为他人不会理解自己、会被自己拖累（将内部顾虑归于他人态度）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫、保留的方式回应，强调“他们不会理解/不想麻烦别人”，回避进一步探讨可获得的支持。"
         }
       ]

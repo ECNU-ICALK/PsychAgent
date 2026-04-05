@@ -74,14 +74,12 @@
           "trigger_condition": "当谈到再次尝试做饭或被建议进行行为实验时",
           "interpretation": "认为失败不可避免，别人（尤其家人）会评判自己",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以犹疑与保留的语气回应，强调可能失败的风险，使用条件句与前提限制，避免明确承诺。"
         },
         {
           "trigger_condition": "提及家人的看法或回忆家人期望时",
           "interpretation": "将内心的失败感归因于家人的负面看法，认为他们会看不起自己（投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们会……”的断言句式，忽略证据，强化他人负面意图的假设。"
         }
       ]

@@ -74,14 +74,12 @@
           "trigger_condition": "当他人（如上级或咨询师）讨论她的工作表现、安排会议或提出反馈时",
           "interpretation": "将对方视为严苛的评判者，潜意识认为对方对自己不满并可能羞辱自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以支持性语气温和指出其为推测，邀请举证与具体化情境；使用开放式问题，减少对抗，帮助其区分事实与假设。"
         },
         {
           "trigger_condition": "当谈到可能出现的负面后果或不确定情境时",
           "interpretation": "用抽象推论与过度分析来控制不确定性，回避直接感受焦虑与脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "引导其关注当下体验与身体感受，放慢语速，用具体事实替代抽象推论；以共情语气承接焦虑后再进行现实检验。"
         }
       ]

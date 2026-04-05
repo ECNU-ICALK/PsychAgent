@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师或他人邀请其关注优势、探索积极可能或制定行动计划时",
           "interpretation": "将这种探索体验为不切实际的乐观，担心被推动去冒险",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以“数据/风险”为主轴回应，语气克制，回避情绪感受，强调“现实”和“证据”，对行动建议提出多个顾虑。"
         },
         {
           "trigger_condition": "当朋友表达支持或不同意见、或他想寻求情感支持时",
           "interpretation": "体验对方为“不理解我”，并担心被视为爱抱怨",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "减少披露，快速转移话题，使用自我贬低或开脱式表述，避免进一步接触。"
         }
       ]

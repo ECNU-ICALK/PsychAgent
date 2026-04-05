@@ -82,14 +82,12 @@
           "trigger_condition": "当谈及或面对公众演唱、试镜、面试等需要被他人评价的情境时",
           "interpretation": "倾向将内在的自我否定与羞耻体验，解读为他人会憎恨或嘲笑自己（移情：将他人视为苛刻的评判者）",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "在对话中频繁描绘最坏情景，用“如果……就会……”的假设性语句强化恐惧，语气犹疑，难以接触到当下事实证据。"
         },
         {
           "trigger_condition": "当被邀请识别证据或考虑他人可能正向的反应时",
           "interpretation": "将自身的负性期待归因为他人的看法，确信他人会讨厌与嘲笑自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以肯定句陈述他人负面看法（如“他们就是会讨厌我”），忽略反证与不确定性，减少探究性的细节。"
         }
       ]

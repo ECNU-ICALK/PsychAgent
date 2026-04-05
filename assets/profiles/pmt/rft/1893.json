@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师提出检视证据、挑战自动化假设时",
           "interpretation": "认为自己的担忧是“事实”，若松动信念就会被否定或失去安全感",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "维持坚决的口吻强调“这就是真相”，对替代解释持否定/保留态度，减少深入探索。"
         },
         {
           "trigger_condition": "当被邀请设定改变目标或对改善持开放态度时",
           "interpretation": "担心期望落空导致更大失望，于是提前降低期待以保护自己",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "语气谨慎，强调“我不指望有什么奇迹”，对方案持有限尝试、缓慢推进的姿态。"
         }
       ]

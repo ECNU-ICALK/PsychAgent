@@ -77,14 +77,12 @@
           "trigger_condition": "当他人给予赞美或关注时",
           "interpretation": "对方只是客套，若接受赞美会被视为自大（移情：将他人视为苛刻评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以自贬和强调不足的方式回应赞美，语气轻描淡写，突出瑕疵以否定夸奖。"
         },
         {
           "trigger_condition": "在社交场合需要表达个人兴趣或积极愿望时",
           "interpretation": "认为表达自我会被他人解读为炫耀（移情：把他人当作挑剔的评判者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "使用概念化、抽象的语言，尽量避免情感词；将个人偏好描述为“普遍现象”，以降低自我暴露。"
         }
       ]

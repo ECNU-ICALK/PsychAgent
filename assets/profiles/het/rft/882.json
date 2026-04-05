@@ -79,14 +79,12 @@
           "trigger_condition": "当讨论是否向女友透露对蜘蛛的恐惧时",
           "interpretation": "将潜在的理解和支持想象为批评与轻视，认为暴露脆弱会被贬低",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "回避谈及脆弱细节，语气谨慎而简短，将话题转向日常或客观信息，降低情绪张力。"
         },
         {
           "trigger_condition": "当咨询师提出进行分级暴露/行为实验时",
           "interpretation": "将建议理解为可能导致失控和失败的压力测试，担心自己承受不住",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以分析和假设性语言回应（如“理论上”“也许”），强调步骤与条件，压低情绪表达并频繁提出顾虑以延后行动。"
         }
       ]

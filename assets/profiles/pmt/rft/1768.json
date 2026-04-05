@@ -77,21 +77,18 @@
           "trigger_condition": "当咨询师邀请其关注既往成就或积极面时",
           "interpretation": "认为除非实现特定目标，否则任何成就都不算数（将肯定视为无关紧要）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "先充分共情其失望，再温和点明具体事实与证据；使用开放式问题邀请其辨识积极面，语气平和、避免对立与评价"
         },
         {
           "trigger_condition": "当讨论“监督/行政岗位也可能是职业发展的另一条路径”时",
           "interpretation": "将当前岗位全盘视为“倒退/失败”，无法整合好坏并存",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用对比与连续谱提问，帮助其看到灰度与多维度；语气支持性、缓慢、给停顿以容纳情绪"
         },
         {
           "trigger_condition": "当谈到他如何处理失望与焦虑（其自述“试图理性化并专注积极”）时",
           "interpretation": "以抽象分析与逻辑自我说服来与情感保持距离",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "邀请回到当下体验，具体化身体感受与情绪词；减少解释性语言，用温和语气与慢速节奏促进情绪接触"
         }
       ]

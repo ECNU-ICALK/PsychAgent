@@ -84,14 +84,12 @@
           "trigger_condition": "当想到向朋友坦诚自己的挫败感与想放弃的念头，或面对被拒与比较时",
           "interpretation": "潜意识将他人视为可能的评判者，认为一旦暴露脆弱就会被看作软弱或无能",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "在对话中轻描淡写不适与挫败，避免直接表达需求与请求支持，语气谨慎、节制，用词模糊以回避情感深入。"
         },
         {
           "trigger_condition": "看到同伴成功或受到认可后产生强烈自我否定",
           "interpretation": "将外界的压力与不公平感转为对自我的批评与贬低",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "倾向使用自责性表述（如“都是我不行”），语气低落，减少与他人互动，避免讨论具体的支持或解决方案。"
         }
       ]

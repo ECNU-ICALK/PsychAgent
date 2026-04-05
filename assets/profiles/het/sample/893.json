@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师邀请检视证据或分析“他人是否在评判”时",
           "interpretation": "感觉需要通过理性分析来掌控局面，以避免再次感到羞耻或被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析性语气回应，强调逻辑与证据，淡化个人感受与情绪体验。"
         },
         {
           "trigger_condition": "当被鼓励肯定正面互动或记录积极体验时",
           "interpretation": "认为正面证据不足以保证安全，担心一旦放松警惕就会被评价",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "表达对未来负面情形的提前设想，语气谨慎，强调需要“做好准备”。"
         },
         {
           "trigger_condition": "当讨论‘独自徒步是否意味着不被接纳’并涉及自我价值时",
           "interpretation": "将潜在的外部否定转为自我批评，以避免与他人直接冲突",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式语言（如“可能是我不够合群”），降低对他人不满的表达，语气克制。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请关注积极面或练习认知重构时",
           "interpretation": "认为这些方法“对我没用/我也改变不了”，以维持对“自己不够好”的既有信念",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以无奈与消极的语气回应，如“我试过没用”，强调困难与限制，降低情感投入。"
         },
         {
           "trigger_condition": "当被询问关于与朋友分享感受或寻求支持的话题时",
           "interpretation": "将潜在的被评判/被比较的不适内收，避免对外表达与求助",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与否定性语句表达（如“都是我不行”），语气低落，减少开放与细节披露。"
         }
       ]

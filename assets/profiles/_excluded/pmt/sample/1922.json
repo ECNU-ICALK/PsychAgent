@@ -83,28 +83,24 @@
           "trigger_condition": "当顾客询问其职业规划或为何仍是咖啡师时",
           "interpretation": "将对方的好奇理解为评判与否定（移情：将社会期待投射到他人身上）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以简短、回避细节的方式回答，语气谨慎，避免眼神接触，快速结束话题。"
         },
         {
           "trigger_condition": "在社交媒体或现实中看到同龄人升职或取得进展时",
           "interpretation": "将他人的成功理解为对自身价值的否定，倾向以极端方式看待自我与他人",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化语言评估自己与他人（如“他们都成功，我完全失败”），语气激烈，拒绝探索中间地带。"
         },
         {
           "trigger_condition": "当咨询师或他人强调其成就与资源时",
           "interpretation": "以看似合理的理由否定积极信息，以维持“我不够好”的自我图式",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "平静但坚决地以“但是”“虽说…但…”句式否认积极证据，保持理性语气，避免深入情感。"
         },
         {
           "trigger_condition": "想到向朋友分享内心感受或寻求支持时",
           "interpretation": "将表达脆弱视为会给他人添麻烦或引来评判，从而压下表达的冲动",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "轻描淡写地回避谈及感受，转移话题，保持礼貌与距离。"
         }
       ]

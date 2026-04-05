@@ -72,14 +72,12 @@
           "trigger_condition": "当咨询师邀请其检视“别人为何不主动与我交谈”的证据时",
           "interpretation": "倾向将他人的不热情解读为对自己“不够好”的评判（认为别人觉得我不有趣）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用猜测他人想法的表述（如“他们觉得我不有趣”），语气略显犹疑并带自责，回避具体事实细节。"
         },
         {
           "trigger_condition": "当被谈及那次艰难分手及相关情绪体验时",
           "interpretation": "以概括性的人格标签（“我有缺陷”）来解释关系失败，弱化具体情绪细节以减轻焦虑",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用抽象分析的语言叙述原因（如“我的性格有缺陷”），轻描淡写情绪体验，语气平稳，避免涉及具体场景与感受。"
         }
       ]

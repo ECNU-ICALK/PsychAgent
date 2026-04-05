@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师建议向可信赖的朋友寻求支持或讨论被拒事件时",
           "interpretation": "来访者潜意识认为对方会像评判者一样看轻自己（移情：将自我贬低投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以温和、验证与探询的语气，邀请举证与现实检验；避免推进过快，先建立安全感与控制感。"
         },
         {
           "trigger_condition": "当谈及失败与不足的主题，或被要求回忆过往成就来平衡观点时",
           "interpretation": "将对外的失望与愤怒转向自身，强化自责以保持对关系的安全感",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持共情与接纳，使用温柔的澄清与命名情绪；减少评价性语言，鼓励自我同情与差异化视角。"
         }
       ]

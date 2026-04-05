@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师鼓励其关注积极面并重构对第二名的看法时",
           "interpretation": "认为“不赢就不值得被肯定”，把第二名视为失败（移情：把外界肯定视为不真实）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "采用探询式、温和支持的语气，先共情其对“失败”的主观体验，再逐步引导其区分事实与解释、回到具体证据与进步指标。"
         },
         {
           "trigger_condition": "当被问及是否愿意与支持性的家人讨论比赛恐惧时",
           "interpretation": "担心家人无法理解或会弱化她的感受，因而选择不表达",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以安全、非评判的方式邀请其识别被压抑的情绪与需要，使用温和开放式问题，允许沉默，鼓励以“我感到……”的陈述练习逐步表达。"
         }
       ]

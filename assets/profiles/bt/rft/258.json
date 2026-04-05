@@ -80,21 +80,18 @@
           "trigger_condition": "当回忆那场演出或面对他人对其工作的反馈时",
           "interpretation": "将少量负面反馈等同于对自我整体的否定（将“评判的观众/他人”体验泛化到所有评价者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析、列举证据的方式说话，语气平淡，回避表达羞耻与悲伤等情绪。"
         },
         {
           "trigger_condition": "当想到要向朋友倾诉这次受挫经历时",
           "interpretation": "预设朋友不会理解自己，且可能会评判自己（将内在担忧投射到关系中）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受或担忧归因于他人。",
           "response_instruction": "用确定性语言断言他人的想法（如“他们不会理解”），缩短回答，避免进一步探讨。"
         },
         {
           "trigger_condition": "当讨论是否继续表演或如何改进时",
           "interpretation": "把表现划分为“完美”或“彻底失败”，无法整合中间地带",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用非黑即白的语言（如“要么成功要么毫无意义”），语气绝对化。"
         }
       ]

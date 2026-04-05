@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师指出以往也曾有被欣赏或积极互动的时刻、鼓励承认其价值时",
           "interpretation": "认为咨询师过度乐观，忽视现实，这些正面时刻“没有用”",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以冷淡质疑的语气回应，强调“没意义”“没用”，用事实选择性论证来否定积极证据。"
         },
         {
           "trigger_condition": "当咨询师尝试挑战其“应该结婚”的内在规则并提出重构为更灵活的愿望",
           "interpretation": "将改变视为不可能或无意义，认为自己无法有不同的想法",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "使用绝对化表述（如“不会改变”“没希望”），语气坚决、简短，避免探讨可行性。"
         }
       ]

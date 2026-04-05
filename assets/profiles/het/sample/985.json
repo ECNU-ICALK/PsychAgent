@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师邀请其检视证据、挑战负性假设时",
           "interpretation": "潜意识担心被质疑或被否定，认为需要用理性来“弄清楚”以避免情绪暴露",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和稳定，先承认其思考能力，再轻柔邀请其描述当下情绪与身体感受，使用具体化追问，避免过度分析。"
         },
         {
           "trigger_condition": "当被鼓励向重要他人表达“被低估/不被看见”的需求时",
           "interpretation": "将表达需求等同于“给对方增加负担”，担心因此被拒绝或引发冲突",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "保持共情与安全边界，使用温柔的情感反映与命名（如“不安”“被替代感”），鼓励以第一人称表达需要，降低羞耻与负担感。"
         }
       ]

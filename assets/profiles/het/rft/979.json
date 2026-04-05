@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师探讨证据、邀请其在警觉与安心间寻找平衡时，或谈及对宠物安全的不确定性",
           "interpretation": "只有保持高度警惕与提前应对所有‘万一’，才算负责任且能确保安全",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "以列举潜在风险和应对方案的方式回应，频繁使用“万一/如果”表述，语气谨慎、略显焦虑，强调需要更多掌控。"
         },
         {
           "trigger_condition": "当被他人肯定写作进展或被邀请关注自己的积极努力时",
           "interpretation": "积极反馈“不算数”，因为“这事谁都能做、不需要聪明”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用冷静客观的语气把成就归因于“这很简单/运气/不需要能力”，以减少情绪卷入和被评价的压力。"
         }
       ]

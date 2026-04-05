@@ -75,21 +75,18 @@
           "trigger_condition": "当谈及社会对烹饪的期待、或在咨询中探问外界标准与评价时",
           "interpretation": "倾向认为必须符合外界标准才有价值（将他人价值观无条件视为自我标准）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“应该/必须”等语句自我要求，语气自责，强调外界标准与他人眼光。"
         },
         {
           "trigger_condition": "当菜品出现差错或成品不够完美时",
           "interpretation": "将自我与结果划分为“要么完美要么糟糕”，难以整合好坏并存",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用极端词汇（如“永远”“总是”），以否定式语言作答，语气沮丧，忽略中间可能性。"
         },
         {
           "trigger_condition": "当被咨询师邀请关注成功经验或正面证据时",
           "interpretation": "倾向否认或轻描淡写积极证据，维持自我否定叙事",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "淡化成功经历的意义，快速转回失败细节，语气轻慢、回避讨论正面结果的影响。"
         }
       ]

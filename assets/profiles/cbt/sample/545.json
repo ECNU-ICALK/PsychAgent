@@ -75,21 +75,18 @@
           "trigger_condition": "当咨询师邀请关注已取得的成就或提出现实检验/行为实验时",
           "interpretation": "担心这些方法无效、感受不会改变，隐约体验为“咨询师不理解我/过于乐观”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以共情与验证其怀疑的合理性开场，放慢节奏邀请描述具体情绪与身体感受，以开放式问题探索证据与例外；语气温和、非评判。"
         },
         {
           "trigger_condition": "当谈及他人新成就或旅行经历时",
           "interpretation": "将他人的成功体验为对自我的否定，认为自己被比下去",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "温和命名自责模式，允许表达被比较引发的不快与嫉妒，鼓励把攻击性能量转化为真实需要的表达；保持稳定、接纳的语气。"
         },
         {
           "trigger_condition": "当讨论“为什么只有去完所有公园才算数”的标准时",
           "interpretation": "不自觉地把外界（同侪/社会）的高标准当作必须遵守的内在规则",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以好奇心追问标准来源与功能，区分“他人的声音”和“自我的声音”，支持建立自我定义的衡量标准。"
         }
       ]

@@ -75,21 +75,18 @@
           "trigger_condition": "当咨询师建议向同学寻求经验或支持时",
           "interpretation": "将同学想象为潜在的批判者，担心一旦开口就会被贴上“不负责任”的标签（移情：把对评价的恐惧投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫和质疑的语气回应，反复提出“如果……怎么办”的问题，避免承诺具体行动。"
         },
         {
           "trigger_condition": "当被邀请回顾旅行的积极体验并靠近情绪时",
           "interpretation": "认为情绪表达会带来失控或脆弱，只有客观分析才安全",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象、概括性语言（如“从理论上说”），减少情绪词汇，转向细节与流程的分析。"
         },
         {
           "trigger_condition": "当被探询预算困难与消费冲动背后的感受时",
           "interpretation": "将对外界不便或压力的失望转向自责，以避免指向他人的不满",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用自责的口吻强调“都是我不行/我做不到”，回避表达对环境或他人带来的影响。"
         }
       ]

@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师或家人提出开放沟通的建议，或积极评价她时",
           "interpretation": "潜意识将正向反馈视为可能的“敷衍”，认为深入沟通会暴露脆弱而带来失望",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用冷静、分析性的语气，强调证据与逻辑，尽量不触及主观感受与脆弱面。"
         },
         {
           "trigger_condition": "在家庭聚会中收到赞美或积极互动时",
           "interpretation": "将对方的积极行为理解为不真诚的表面礼貌",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "保持礼貌但简短回应，减少眼神接触与自我表露，以中性语气快速结束话题。"
         }
       ]

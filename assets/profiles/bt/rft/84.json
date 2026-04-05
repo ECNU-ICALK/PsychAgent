@@ -83,14 +83,12 @@
           "trigger_condition": "当他人质疑其爱好的“生产力”，或咨询情境聚焦于价值/效率时",
           "interpretation": "对方在否定我，如果我享受爱好就会被看不起",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观分析与数据化语言谈论‘效率/产出’，淡化情绪用词，语气克制、条理化，回避深入主观感受。"
         },
         {
           "trigger_condition": "临近周末准备从事爱好时出现强烈内疚与自责",
           "interpretation": "如果我去享受爱好，就会失败或被认为不思进取",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用苛责、自贬式语句（如“我在浪费时间”），语气严厉，主动放弃或减少爱好行为以缓解焦虑。"
         }
       ]

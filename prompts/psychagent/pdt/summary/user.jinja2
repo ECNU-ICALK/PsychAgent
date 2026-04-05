@@ -75,7 +75,6 @@
     - 触发条件：{{ s.trigger_condition | default('未知', true) }}
     - 移情投射：{{ s.interpretation | default('未知', true) }}
     - 防御机制：{{ s.defense_mechanism | default('未知', true) }}
-    - 防御机制定义：{{ s.defense_definition | default('未知', true) }}
     - 响应指令：{{ s.response_instruction | default('未知', true) }}
   {% else -%}
   - 机制 {{ loop.index }}：{{ s }}

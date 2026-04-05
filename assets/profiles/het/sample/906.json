@@ -67,21 +67,18 @@
           "trigger_condition": "当咨询师或他人询问并评估她的工作失误时",
           "interpretation": "将评估体验为否定与不信任，认为必须做到零错误才不被否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责语句（如“都是我的错”），强调自身缺陷，语气内疚与低沉。"
         },
         {
           "trigger_condition": "当讨论如何改进并制定具体流程或清单时",
           "interpretation": "通过理性化流程来减少情绪暴露，认为只要足够谨慎就能避免被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、技术化的语言讨论步骤与规则，淡化情感用语，保持冷静中性语气。"
         },
         {
           "trigger_condition": "当被鼓励尝试新策略并接受可能的不完美时",
           "interpretation": "预期失败与被不信任的后果，试图以外在因素解释以减轻焦虑",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调工作繁忙、客观环境限制等理由，保留怀疑与担心的措辞（如“但我还是可能会出错”）。"
         }
       ]

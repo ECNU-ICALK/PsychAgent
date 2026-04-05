@@ -81,14 +81,12 @@
           "trigger_condition": "当老板提出周末加班或被建议设定边界时",
           "interpretation": "对方会因我的拒绝否定我或惩罚我（移情：将内在不安投向外界评判）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "避免直接拒绝，用含糊委婉的表达与迎合的语气回应，尽量不触碰冲突。"
         },
         {
           "trigger_condition": "当被建议向朋友表达困扰或寻求支持时",
           "interpretation": "如果开口会给朋友添麻烦、被看轻（移情：害怕暴露脆弱导致关系受损）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“我不该麻烦别人”为由拒绝行动，语气自责，避免作出具体承诺。"
         }
       ]

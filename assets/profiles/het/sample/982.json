@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师鼓励李承远向未婚妻/朋友表达困扰或寻求支持时",
           "interpretation": "认为求助会给对方添麻烦、显示自己不够坚强（移情：担心被视为软弱或负担）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用平静理性的语气强调“这是我的责任”，陈述时间不够、对方很忙等理由，回避表达脆弱和依赖需求。"
         },
         {
           "trigger_condition": "当咨询师肯定其已完成的步骤（课程、人脉拓展）并探索其意义时",
           "interpretation": "将客观进展与积极情绪分离，视为不重要或无关痛痒",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦或相关的情感与事件分离，以理性、冷静的方式谈论，缺乏相应情绪。",
           "response_instruction": "以客观陈述的方式淡化成就，语气平稳，避免连接正向感受或自我肯定。"
         }
       ]

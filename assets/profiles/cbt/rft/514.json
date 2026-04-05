@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其考虑“朋友可能真心喜欢她且不只因幽默”这一积极证据时。",
           "interpretation": "来访者倾向认为朋友只是出于礼貌（将不被喜欢的担忧投射到他人意图上）。",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和与共情，先验证其感受，再以具体事实温柔探询；使用开放式问题，避免对抗与评判，邀请来访者举例辨别“礼貌”与“真心”之间的差异。"
         },
         {
           "trigger_condition": "当咨询师建议尝试用“不同的看法”来减轻社交焦虑与自卑时。",
           "interpretation": "来访者以线性逻辑将“思维调整”与“变得更好笑”等同，借理性推论来回避情感层面的不安全感。",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持支持性与具体化，减少抽象争论；用体验式提问（当下感受/身体反应），引导其区分“变得搞笑”和“减轻焦虑”的不同目标。"
         }
       ]

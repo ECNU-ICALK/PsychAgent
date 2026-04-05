@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师邀请其考虑积极结果或进行小步尝试（如坚持一周的日程）",
           "interpretation": "将建议理解为必须“完美坚持”才算胜任，担心努力也不会足够",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以谨慎、保留的语气回应，用“也许/不确定”弱化承诺，强调计划可能不足。"
         },
         {
           "trigger_condition": "当想到向兄弟或朋友表达大学焦虑、寻求支持时",
           "interpretation": "认为自己的情绪会给他们造成负担，可能让他们不舒服或失望",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "回避开启相关话题，轻描淡写焦虑感受，转而自行消化。"
         },
         {
           "trigger_condition": "当听到在读学生谈课程强度与大量作业时",
           "interpretation": "将他人的困难视为对自己“必然失败”的预言，为退缩或不寻求支持提供理由",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“课程非常严苛、大家都很难”的叙述，以笃定的语气为自身悲观预期辩护。"
         }
       ]

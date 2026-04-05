@@ -83,21 +83,18 @@
           "trigger_condition": "当被询问或自己意识到“犯错”（如洒汤）并谈及其影响时",
           "interpretation": "把错误等同于“我不够好”，并预期他人会因此否定自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "先共情并命名羞耻与自责，语气温和、语速放缓；以反映-澄清的方式区分“错误”与“价值”，避免直接对抗，邀请其把愤怒指向具体事件而非自我。"
         },
         {
           "trigger_condition": "当咨询师提出“寻找证据、现实检验”等结构化探问时",
           "interpretation": "体验到被考核/被要求完美，担心自己回答不够好",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "降低解释密度，转向当下体验；使用开放式问题与温和停顿，邀请其关注身体感受与情绪词汇。"
         },
         {
           "trigger_condition": "当讨论“向朋友求助/表达脆弱”的话题时",
           "interpretation": "认为一旦表达就会给别人添麻烦、被看低",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "采用探询式、非评判语气，运用苏格拉底式提问区分“事实”与“担心”，并鼓励做小步实验。"
         }
       ]

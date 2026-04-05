@@ -73,14 +73,12 @@
           "trigger_condition": "当他人（如导师或咨询师）给予正面反馈或安慰时",
           "interpretation": "林若彬倾向认为这些正面信息不可靠，担心他人不理解她的恐惧程度或委员会会持相反看法",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "保持支持性与温和语气，邀请其具体化正面证据与担忧来源，用开放式问题探索“委员会看法”是推测还是事实；避免对抗式纠正。"
         },
         {
           "trigger_condition": "当想到答辩场景或在写作中出现小错误时",
           "interpretation": "将内在的失败恐惧投射到评审身上，预设他们会认为研究有缺陷并否定自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "标注其假设并区分事实与推测，鼓励描述可验证证据；语气稳定、慢速，避免评判。"
         }
       ]

@@ -82,7 +82,6 @@
           "trigger_condition": "当在咨询中回顾“小错误”或被邀请检视实际结果与证据时",
           "interpretation": "将小失误解读为全盘失败，并认为自己必须承担全部责任",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语句，强调自身过错，忽视他人理解与正向结果；语气沉重，重复“都是我的错”之类的表达。"
         }
       ]

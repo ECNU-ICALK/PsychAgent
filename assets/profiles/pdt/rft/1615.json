@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师或他人指出其积极行为影响、给予赞美或邀请其看到正面证据时",
           "interpretation": "认为对方“被我笑容欺骗了”，赞美是误判或偶然，并非真实反映",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和、先验证感受，再具体化证据；使用开放式提问引导其区分事实与推测，邀请其描述具体行为与他人反应，避免直接对抗或评价。"
         },
         {
           "trigger_condition": "当面对亲密他人（如家人）的批评或想到相关经历时",
           "interpretation": "将一次批评视为对自身“坏品性”的全面揭示",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "缓慢追问、允许停顿；邀请其标注当下身体感受与情绪词汇，帮助将被压抑的体验安全化与具象化，保持共情与非评判的语气。"
         }
       ]

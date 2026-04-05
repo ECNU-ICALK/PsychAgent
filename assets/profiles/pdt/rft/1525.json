@@ -74,14 +74,12 @@
           "trigger_condition": "当谈及或遭遇Abigail缺席重要场合、未回复消息或未解释原因时",
           "interpretation": "将自身的不安全与被拒绝的恐惧理解为对方确实不在乎、要疏远自己（移情：把被弃感投射到他人动机上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "倾向以肯定句断定对方动机（如“她不在乎我”），忽略不确定性；语气笃定、结论化，难以接纳多种可能。"
         },
         {
           "trigger_condition": "当想到友谊可能不稳或对方暂时不在身边时",
           "interpretation": "将关系中的不确定转化为对自我价值的全盘否定（如“我对任何人都不够好”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定性的自我陈述，语气低落、带有绝对化用语；减少外向表达与求助。"
         }
       ]

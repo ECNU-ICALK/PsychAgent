@@ -82,28 +82,24 @@
           "trigger_condition": "当咨询聚焦于“成功标准/早起”等规范话题，或被询问作息与自律",
           "interpretation": "担心咨询师或他人会评价自己不自律、不够好（移情：将社会评判投射到咨询关系）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气客观、强调“社会都这么说”，罗列事实与道理，尽量回避羞耻与焦虑等情感词汇。"
         },
         {
           "trigger_condition": "当被邀请将困扰与支持系统（朋友/同学）分享或表达需求",
           "interpretation": "若暴露困扰会被看轻或感到尴尬",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "回答简短含糊，快速转回“我会自己处理”，避免展开内心体验。"
         },
         {
           "trigger_condition": "当被建议进行行为实验、面对不确定的结果",
           "interpretation": "一旦结果不理想就证明自己没有希望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "提出多个“但是”，强调实验可能无效，以理性理由淡化尝试的意义与价值。"
         },
         {
           "trigger_condition": "谈及朋友关系紧张与自我价值感时",
           "interpretation": "将关系紧张归结为自身缺陷与晚睡行为",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "频繁使用“都是我的错”的表述，语气自责，降低对情境多因素的探讨。"
         }
       ]

@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师或他人给予表扬、肯定（提及奖项、老板称赞）时",
           "interpretation": "来访者倾向认为他人忽视错误、赞美不真诚（将自身怀疑投射到他人意图）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "淡化和质疑赞美的有效性，语气谨慎，强调他人“没看到我的错误”，并把成功归因为外在因素。"
         },
         {
           "trigger_condition": "当讨论错过截止日期或需要评估自我表现时",
           "interpretation": "将“迟交等于失败”的僵化标准视为客观真理，以此解释自己的不称职",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“应该/必须”句式强调按时的重要性，弱化作品质量的价值，语气自我批评、逻辑化说明迟交为何使一切不值。"
         }
       ]

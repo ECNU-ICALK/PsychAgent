@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师强调其过往成功或邀请其基于证据评价自己时",
           "interpretation": "将咨询师的关注理解为“在忽视真实风险”，担心放松警惕会导致失误",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和具体，邀请其描述一次成功的客观流程与质检数据，同时镜映其担忧；语速放缓，避免争辩式说服。"
         },
         {
           "trigger_condition": "当咨询师暂时沉默或未立即给予明确肯定时",
           "interpretation": "将沉默解读为否定或不认可，担心自己不被看好（投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以接纳语气澄清含义，命名其对“被否定”的担心，并透明化说明沉默用于思考与整理。"
         },
         {
           "trigger_condition": "当讨论“错误的可能性”与“无法永远完美”时",
           "interpretation": "担心一旦降低完美标准就会一败涂地",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先承认其对质量的责任感，再共同界定“足够好”的专业标准；使用苏格拉底式提问，引导其权衡证据。"
         }
       ]

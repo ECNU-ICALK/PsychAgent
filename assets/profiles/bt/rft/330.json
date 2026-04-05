@@ -74,14 +74,12 @@
           "trigger_condition": "当需要把车停在公共场所，或无法随时看见车辆时",
           "interpretation": "将他人和环境视为高威胁，认为事故几乎必然发生（移情：将外界放大为危险）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "语气稳定而共情，使用概率与证据语言，引导其进行现实检验；邀请列出证据与替代结果，提供结构化作业而不过度对抗。"
         },
         {
           "trigger_condition": "当咨询师探索其恐惧依据或指出“目前尚未发生损坏”时",
           "interpretation": "下意识担心自己的担忧被否定，于是转向强调各种可能的风险细节以维持警觉",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "温和切换到当下体验，帮助命名和容纳焦虑感受，减少过度解释，使用慢语速与开放式提问。"
         }
       ]

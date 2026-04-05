@@ -83,14 +83,12 @@
           "trigger_condition": "当看到其他猫或进入亡猫曾居住的房间，被失去的线索触发时",
           "interpretation": "将悲剧完全个人化，认为自己必须绝对控制与防范，否则就是失败（移情：自责强化）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定自我价值的表述（如“都是我的错”），语气压低、少用第一时间的求助语言，强调要更严格管理自己。"
         },
         {
           "trigger_condition": "当朋友或家人试图与其谈论近况或提供支持时",
           "interpretation": "主观认为对方会看不起或责备自己（移情：将内在的批判投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避话题、缩短回答长度，用谨慎语气表达“不想麻烦别人/不方便谈”，减少自我揭露。"
         }
       ]

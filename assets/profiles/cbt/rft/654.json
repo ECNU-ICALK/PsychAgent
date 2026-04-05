@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师或他人询问“是否有直接证据证明同学在评判你”时",
           "interpretation": "坚持认为他人的目光与谈话隐含负面评价（移情：将被评判的期待带入当前关系）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气略显犹豫但坚持“他们在评判我”的立场，用他人‘眼神’与‘气氛’作为依据，弱化缺乏直接证据的提示。"
         },
         {
           "trigger_condition": "当谈及自己居住在祖父母家“为何导致问题”时",
           "interpretation": "侧重宏观“社会污名”的解释以淡化个人脆弱体验",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、中性的语气，从社会规范与群体看法切入，避免触及羞耻、孤独等情绪细节。"
         }
       ]

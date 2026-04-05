@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询聚焦于将热爱转化为职业、或探索在评价场景下的可能性时",
           "interpretation": "将探索理解为走向再次被否定的情境，担心失败与羞辱",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以谨慎、带自嘲的口吻强调“现在还不是时候/这只是个笑话”，用条件与理由淡化愿望，避免进一步探索。"
         },
         {
           "trigger_condition": "当咨询师邀请回忆与整合正向反馈时",
           "interpretation": "把正向证据视为不重要或不真实，维持“被否定”的自我图式",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "用简短语句如“想不起来”“那已经很久了”结束话题，并迅速转回到负面评价的细节。"
         },
         {
           "trigger_condition": "当被建议与同住的手足沟通并寻求情感支持时",
           "interpretation": "将求助联想为“麻烦别人/可能被看轻”，因此保持距离更安全",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以理性、克制的语气说“我不想麻烦别人”，回避表达脆弱与需求，保持情感疏离。"
         }
       ]

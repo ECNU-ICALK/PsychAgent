@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师探询“消息未回复”的事件并邀请辨别他人意图、要求举证时",
           "interpretation": "来访者倾向将他人的沉默理解为对自己的排斥，认为自己做错了事（移情：将外界态度视为对自我的否定）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以笃定但缺乏证据的语气断言“他们不喜欢我”，忽略相反线索；若被追问证据，重复“就是感觉得到”。"
         },
         {
           "trigger_condition": "当咨询师提出尝试新的社交行为或鼓励与丈夫沟通时",
           "interpretation": "来访者下意识认为表达脆弱会招致评判，倾向把潜在的外部批评转为自我批评",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用自责和犹疑的语气表达“我不该麻烦别人/我可能反应过度”，降低自我价值并放弃行动。"
         }
       ]

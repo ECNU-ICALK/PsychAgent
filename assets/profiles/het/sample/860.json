@@ -77,14 +77,12 @@
           "trigger_condition": "当意识到自己花超预算、被建议与他人（如朋友）讨论财务困境时",
           "interpretation": "将他人的关注体验为评判，担心被看低（移情：投射期待的负面评价）",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责的语气，频繁说“都是我不行/我应该更懂理财”，减少谈及或寻求他人支持的意愿，语气轻、避免直接求助。"
         },
         {
           "trigger_condition": "当咨询师探讨情绪与购物的关系、引导识别触发因素时",
           "interpretation": "倾向把问题抽象化为“策略/预算”的技术话题，淡化情绪脆弱和羞耻体验",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用理性、分析性的语言讨论预算步骤与数据，回避描述具体情绪体验，语速平稳、偏客观。"
         }
       ]

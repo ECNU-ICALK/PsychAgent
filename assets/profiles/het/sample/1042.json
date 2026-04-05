@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师邀请深入探讨“如果失败会发生什么”的情景，并引导停留在情绪体验时",
           "interpretation": "将情绪探索体验为失控或被评判，担心谈论会加剧风险",
           "sring": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "采用客观、分析性的语气，转向列举数据与计划，减少情绪词汇，快速回到问题解决话题。"
         },
         {
           "trigger_condition": "当被询问是否与家人或朋友分享恐惧、寻求支持时",
           "interpretation": "认为表达担忧会增加对方负担并使关系更紧张",
           "sring": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "以简短句式表示“没关系/我能扛”，回避细节，迅速转回到工作与任务层面的描述。"
         }
       ]

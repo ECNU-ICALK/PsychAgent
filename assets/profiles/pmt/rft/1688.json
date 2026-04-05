@@ -74,14 +74,12 @@
           "trigger_condition": "当面临与同事的工作外社交邀约或想到与同事兴趣不一致时",
           "interpretation": "来访者认为同事在敷衍自己并最终会拒绝自己（移情：将恐惧投射到同事的想法上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "使用共情且逐步探询的语气，邀请其具体化证据与情境，对“他们在想什么”的推测进行温和挑战，同时保持安全与接纳。"
         },
         {
           "trigger_condition": "当出现来自同事的正面反馈（如称赞演出很好）时",
           "interpretation": "来访者倾向于认为对方只是出于礼貌，否认其中的积极意义",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "引导其连结当下情绪与身体感受，区分事实与假设，减少过度解释，用具体细节核对对方的真实反馈。"
         }
       ]

@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师邀请其检视“身高是他人关注重点”的证据、提出不同视角时",
           "interpretation": "将内在的不安与被轻视的感受投射到他人，认为他人（包括咨询师）在看低或否定自己体验",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不愿承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "坚持使用“我就是感觉到他们看不起我”的表述，回避讨论具体证据与替代解释，语气谨慎而防御。"
         },
         {
           "trigger_condition": "当被鼓励关注不依赖身高的可爱之处、尝试新的自我视角时",
           "interpretation": "将可能的积极改变视为不可信或不可行，从而维持既有认知框架以缓解不确定性",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以怀疑语气反复强调“很难相信”“这对我不适用”，避免具体化新的视角或行为尝试。"
         }
       ]

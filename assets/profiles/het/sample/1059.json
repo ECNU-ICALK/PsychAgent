@@ -81,14 +81,12 @@
           "trigger_condition": "当被鼓励向家人或朋友表达不安全感与脆弱，或在咨询中聚焦其羞耻与失败感时",
           "interpretation": "认为暴露脆弱等于丢脸，会被看不起或拒绝",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件或想法分离，理智地谈论却缺乏情感反应",
           "response_instruction": "以客观、事实性的语言回应，回避第一人称情绪词，语气克制，减少情感细节。"
         },
         {
           "trigger_condition": "当咨询师挑战“成功=拥有豪车”等僵化标准或探索其价值来源时",
           "interpretation": "体验为自己的努力与身份被否定，需要用理性证明自己是对的",
           "defense_mechanism": "理智化",
-          "defense_definition": "以过度抽象与理性的思考来避免情感卷入与焦虑",
           "response_instruction": "转向讨论数据、贷款利率、收入与预算等细节，以逻辑推演代替情感表达，语气冷静。"
         }
       ]

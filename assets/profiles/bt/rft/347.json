@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师提出以不同心态或挑战负性思维的建议时",
           "interpretation": "认为改变思维没用，因为无法控制他人的反应，等同于必然失败",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以支持性、肯定的语气承认其怀疑，使用具体化与证据检验的提问，设计小步行为实验，避免对抗与评判，邀请其共同验证不同解释的可能性。"
         },
         {
           "trigger_condition": "当被邀请深入表达被拒后的受伤感与脆弱体验时",
           "interpretation": "倾向以概括性叙述事件、减少情绪细节来谈论经历",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "缓慢节奏、情感标注与共情性回应，邀请描述具体情绪强度、身体感受与当下需要，提供安全边界与停顿空间以促进情感接触。"
         }
       ]

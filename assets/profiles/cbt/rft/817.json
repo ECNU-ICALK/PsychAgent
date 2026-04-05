@@ -78,14 +78,12 @@
           "trigger_condition": "当他被要求谈及并认可自己在成功交易中的能力与贡献时",
           "interpretation": "认可能力会让随后的失败更羞辱、更难承受（将他人的潜在评价与失败后果放大）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "轻描淡写成功、强调运气与不可控因素；语气谨慎克制，避免过度自我肯定，用“可能、也许、只是碰巧”等词汇。"
         },
         {
           "trigger_condition": "在讨论投资决策或面对下一次交易机会时",
           "interpretation": "相信未来结果会是负面的，并以理性分析来回避情绪不适",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调技术细节与市场不可预测性，减少情感用语；以冷静、分析性的语气描述风险，弱化个人能力与感受。"
         }
       ]

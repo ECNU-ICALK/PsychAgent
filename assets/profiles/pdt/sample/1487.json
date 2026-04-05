@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师邀请其回顾并整合过去的正面反馈与能力证据时",
           "interpretation": "将正面证据视为不可靠或侥幸，预测这次会失败（“这次不同”）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "坚持“这次不同”的解释，语气谨慎、带怀疑色彩，使用条件句与反问来抵消正面证据。"
         },
         {
           "trigger_condition": "当讨论是否向亲友表达焦虑、寻求支持时",
           "interpretation": "认为表达担忧会被评判为无能或麻烦他人，因此不愿开口",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "轻描淡写自身需求，转移话题到工作任务；语气收敛、减少情感外露。"
         }
       ]

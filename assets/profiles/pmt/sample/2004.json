@@ -77,14 +77,12 @@
           "trigger_condition": "在社交聚会上出现甜点或被他人劝食时",
           "interpretation": "把甜食视为会带来严重健康后果的危险刺激（“一口也不能吃”）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以健康风险为由进行坚定拒绝，语气果断，避免进一步讨论与接触相关食物。"
         },
         {
           "trigger_condition": "在进食甜食后出现强烈焦虑与内疚感时",
           "interpretation": "将当下的不安归因为“甜食已对身体造成伤害”，需要立即弥补",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "立即安排高强度运动或制定更严格的饮食计划，语速加快、强调“必须立刻行动”以缓解内疚与紧张。"
         }
       ]

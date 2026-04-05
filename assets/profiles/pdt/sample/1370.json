@@ -77,14 +77,12 @@
           "trigger_condition": "当想到与朋友一起去游泳或收到朋友的游泳邀请时",
           "interpretation": "他们会看出我不行并评判我（移情：将自身的羞耻与自我怀疑投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以温和但回避的语气拒绝邀请，含糊其辞并转移话题，减少自我暴露；避免表达内心不安。"
         },
         {
           "trigger_condition": "当被指出积极证据（体能良好、见到年长成功泳者）时",
           "interpretation": "积极证据不适用于我，别人只是例外",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性化语言（如“每个人情况不同”“我年龄增长会更快疲劳”）来维持回避，语气平稳、情感压低。"
         }
       ]

@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师强调其成功或正面证据（如通过期中、收到好评）时",
           "interpretation": "认为这些成功“不算数”，或觉得咨询师只是安慰，不能理解自己的处境",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气轻微否定，重复“这不够”“只是侥幸”，用例外解释来削弱成就的意义。"
         },
         {
           "trigger_condition": "当被邀请与朋友或他人分享、寻求支持时",
           "interpretation": "担心向他人倾诉会给对方添麻烦或被看轻（预设他人负面反应）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避承诺求助，使用“我不想麻烦别人”的措辞，语气犹豫，弱化自身需求。"
         },
         {
           "trigger_condition": "谈及未来学业和前途的不确定性时",
           "interpretation": "在心中构想最坏情境以避免面对现实的复杂性与不确定性",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "使用极端词汇（如“永远”“一辈子”），迅速描绘最坏剧本，语速略快、情绪化。"
         }
       ]

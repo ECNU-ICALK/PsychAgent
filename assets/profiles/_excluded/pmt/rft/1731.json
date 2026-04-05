@@ -74,14 +74,12 @@
           "trigger_condition": "当被建议向朋友寻求支持或谈及人际支持时",
           "interpretation": "潜意识将他人视为可能的评判者，认为他们会觉得自己夸张或无能（投射）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用温和的肯定与具体化提问，邀请举例与证据；语气平稳、关注当下体验与关系安全，避免对抗与评判。"
         },
         {
           "trigger_condition": "当咨询师强调其过往项目的积极证据与能力时",
           "interpretation": "将正面结果解释为“只是运气”，以维持对失败的预期与自我怀疑",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以合作式探询区分事实与解释，邀请其细化努力与技能清单；语气支持、不指责，逐步链接情感与事实。"
         }
       ]

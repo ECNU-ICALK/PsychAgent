@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师或他人邀请其承认优点、回顾做得好的部分时",
           "interpretation": "认为承认优点等同自欺，会被他人看穿而更羞耻",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "语气克制、强调事实与错误细节，弱化情感表达，用“客观分析”来否定积极面。"
         },
         {
           "trigger_condition": "在收到直接称赞或积极反馈时",
           "interpretation": "将他人的好意理解为礼貌性的虚假夸奖",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以平淡语气表示“大家都会/这不算什么”，用社会礼仪或普遍性解释来淡化称赞。"
         }
       ]

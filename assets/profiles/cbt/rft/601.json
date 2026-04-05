@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师引导权衡重返校园与在线课程的利弊、或讨论具体行动计划时",
           "interpretation": "来访者倾向以理性的利弊分析来与焦虑保持距离，将不确定性视为可能的拒绝（移情：将外界视为苛刻评判者）。",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用中性、分析性的语气，围绕成本与效益提出问题与论点，弱化情绪表达，避免涉及羞耻与恐惧的感受细节。"
         },
         {
           "trigger_condition": "当提及嫂子对其失业的反感或家庭对就业的期待时",
           "interpretation": "将他人的期待与评判未经消化地当作自己的标准：必须尽快就业才算有价值（移情：将家庭他者视为权威评判者）。",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "语气顺从、强调“会尽快找到工作/提升技能”，避免表达不同意见或内在不满，以减少关系张力。"
         },
         {
           "trigger_condition": "当谈及未来就业前景与可能的居住/经济风险时",
           "interpretation": "将不确定的未来视为灾难性结局，认为失败不可避免（移情：外部世界被体验为充满威胁）。",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "在表达担忧时加入具体准备步骤与应对计划，语气审慎但不过度渲染恐惧，保持现实可行性。"
         }
       ]

@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师建议更直接地向搭档核实原因并设计行为实验时",
           "interpretation": "来访者担心这样会让关系更糟、对方会证实自己“不够好”（将他人潜在反馈视为威胁）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "以犹豫、担心的语气表达顾虑，使用“如果/可能/会不会”等词，回避立即承诺并请求脚本或准备问题以获得掌控感。"
         },
         {
           "trigger_condition": "当咨询师强调缺乏证据、鼓励检视事实（如搭档确实因忙碌）",
           "interpretation": "来访者将自身“不被接纳”的感受归因于他人对自己的负面看法（认为对方只是找借口）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "强调“他们只是礼貌说忙”，坚持自己的解释，语气坚定但带不安，减少在事实证据上的深入讨论。"
         }
       ]

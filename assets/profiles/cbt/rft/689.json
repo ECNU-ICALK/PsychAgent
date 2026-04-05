@@ -77,14 +77,12 @@
           "trigger_condition": "当谈及行业高标准或与同学/同行比较时",
           "interpretation": "来访者倾向将他人体验为严苛的评判者，认为自己会被看不起（移情：将外部标准内化为持续的审判）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先共情其压力与比较的难受，语气温和；再具体化事实与感受，温柔指出将问题单纯归因于“行业压力”的倾向，邀请其辨别内在情绪与需求。"
         },
         {
           "trigger_condition": "当被邀请参加活动或需要展示穿搭时",
           "interpretation": "来访者假定他人会负面评价自己，将不被接受视为必然（移情：对他人投射批评与拒绝）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持稳定、中性语气；询问具体证据与反例，区分推测与事实；鼓励其命名此刻情绪而非推断他人想法。"
         }
       ]

@@ -76,7 +76,6 @@
           "trigger_condition": "当观察到植物异常（如黄叶）或被要求描述具体担忧时",
           "interpretation": "倾向将小的变化或咨询探问理解为“收成将失败”的信号，认为必须立即找到解决方案，否则会失控",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用事实导向、温和中性的语气，聚焦证据与可行步骤，避免情绪化表达。"
         }
       ]

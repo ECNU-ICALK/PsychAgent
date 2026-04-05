@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师强调其成功经验或邀请回忆正向反馈时",
           "interpretation": "认为这些成功是偶然且不可持续，担心咨询师过于乐观、不了解自己的“限制”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平缓但带有自我否定，使用“只是碰巧”“不算数”等词语轻描淡写地淡化成功。"
         },
         {
           "trigger_condition": "当咨询师建议与同行或朋友寻求支持、开放表达自我怀疑时",
           "interpretation": "担心暴露脆弱会被评判或被看轻，将内在自我批判归因于他人想法",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受归于他人。",
           "response_instruction": "婉转回避，强调“他们很忙”“说了也没用”，并尝试转换话题或聚焦技术性细节。"
         }
       ]

@@ -90,14 +90,12 @@
           "trigger_condition": "当话题涉及是否应探望父亲或接听父亲来电时",
           "interpretation": "来访者将他人的关切理解为对自己“不孝”的责备，认为自己的不作为必然伤害父亲（移情：自我否定的投射）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静但防御的语气解释工作距离和忙碌，列举客观障碍，弱化情感，回避深入讨论愧疚感。"
         },
         {
           "trigger_condition": "当被询问约会细节、对方感受或被拒的原因时",
           "interpretation": "来访者认为他人会像以往的约会对象一样挑剔、看不起自己（移情：将内在的自我否定投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用不确定性的措辞（如“他们肯定觉得……”），语气犹疑，避免承认自身需要，保持距离。"
         }
       ]

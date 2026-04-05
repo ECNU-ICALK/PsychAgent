@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师或他人肯定其优点或进步（如时间管理能力提升）时",
           "interpretation": "将肯定体验为“无关紧要或不算数”，担心对方只是安慰，迟早会看穿自己的“不聪明”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和但带有保留，先表示理解随即以“但是”开头举例否定积极反馈，突出其局限性与不可推广性。"
         },
         {
           "trigger_condition": "当被邀请将困扰与朋友分享或寻求支持时",
           "interpretation": "认为他人会把自己看作软弱并加以评判（移情：将内在羞耻投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "采用回避与简短回答，强调“我不想麻烦别人”，语气谨慎克制，回绝进一步自我暴露。"
         }
       ]

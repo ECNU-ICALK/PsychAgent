@@ -80,14 +80,12 @@
           "trigger_condition": "当被建议尝试新的教学策略或资源时",
           "interpretation": "倾向认为“这些方法也不会有效”，以避免再次面对失败感",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持共情与支持，温和追问具体证据与以往尝试细节；使用开放式问题帮助其进行小步评估与实验，避免直接否定其担忧。"
         },
         {
           "trigger_condition": "在看到学生低分或谈到考试失利后",
           "interpretation": "将失败完整归因于自己，认为“都是我的错”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以低强度、稳定语调进行责任再归因与事实检视，鼓励其区分可控与不可控因素，并引导形成具体、可实施的改进计划。"
         }
       ]

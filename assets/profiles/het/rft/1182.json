@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师邀请她尝试练习、进行现实检验或制定改变计划时",
           "interpretation": "担心自己又会失败，觉得改变要求过高、难以做到",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "先充分共情其担忧，语气温和、具体化目标；用小步聚焦、强调可试错的实验性语言，邀请其提出能做到的最小改变。"
         },
         {
           "trigger_condition": "在回顾一次过度消费经历与随之而来的内疚时",
           "interpretation": "将失败完全归咎于自己，把愤怒与挫败转向自身",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "降低评判、命名羞耻与内疚，使用温柔的反映与澄清，辅助区分“行为与价值”，引导自我慈悲与功能性纠偏。"
         }
       ]

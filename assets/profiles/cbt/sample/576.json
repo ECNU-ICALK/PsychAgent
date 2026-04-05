@@ -80,14 +80,12 @@
           "trigger_condition": "当提及那位未按约来访的学生或讨论自己“是否是好老师”时",
           "interpretation": "将他人的失约理解为对自己的否定，认为“学生不来访＝我没有价值”",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定性的表述，语气低落；将不快与失望归咎于自己，避免表达对学生的愤怒或失望。"
         },
         {
           "trigger_condition": "当被邀请关注当下情绪或积极证据时",
           "interpretation": "把注意力转向列举事实与逻辑，避免触及失落与空虚的感受",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、分析式的语言回应，强调“证据”“逻辑”，淡化情绪用词与感受的描述。"
         }
       ]

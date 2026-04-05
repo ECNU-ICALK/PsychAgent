@@ -77,21 +77,18 @@
           "trigger_condition": "当收到观众或同行的积极反馈时",
           "interpretation": "对方只是出于礼貌并不真的认可我（将内在怀疑投射到他人动机）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以同理和好奇的语气，邀请其举出具体证据，温和区分事实与推测，避免对抗式质疑。"
         },
         {
           "trigger_condition": "当需要向朋友/同行谈及自我怀疑或寻求支持时",
           "interpretation": "他们会看不起我或觉得我不够好",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "采用低强度、支持性的语气，允许停顿并邀请其命名感受，鼓励选择一个安全、具体的小片段来分享。"
         },
         {
           "trigger_condition": "当看到其他喜剧演员成功或自己演出不理想时",
           "interpretation": "他人是全好而我是全坏；他们的成功意味着我的失败",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用温和的标尺提问，帮助其辨识灰度与多维标准，提供双重验证的例子，避免评判性语言。"
         }
       ]

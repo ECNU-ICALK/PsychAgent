@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师邀请她更真诚地接纳称赞或聚焦正向反馈时",
           "interpretation": "她担心接纳称赞会让自己自我膨胀，从而被他人否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以理性分析的口吻强调“避免自满”的必要，列举潜在风险，轻描淡写正面信息。"
         },
         {
           "trigger_condition": "当咨询师对其洞见或努力给予肯定时",
           "interpretation": "她认为咨询师的肯定可能只是安抚或客套，类似客户的“礼貌称赞”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "礼貌回应但迅速转换话题，语气克制，减少自我暴露。"
         }
       ]

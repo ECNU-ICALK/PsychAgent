@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师或他人关注其能力表现、提出质询或建议时",
           "interpretation": "潜意识将对方体验为会像同事/同学一样评判自己；沉默或建议被理解为否定",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不被接纳的感受与不安归咎于他人，认为他人在评判或否定自己",
           "response_instruction": "语言上保持含糊、减少细节披露，语气谨慎，避免承诺；如被追问，通过强调“现实”“不要过度乐观”来回避情感表达。"
         },
         {
           "trigger_condition": "在考试、演示或新项目等高评价情境中",
           "interpretation": "相信一旦表现不完美就会被揭露不胜任并遭到否定",
           "defense_mechanism": "sring",
-          "defense_definition": "将本应指向外界的愤怒或紧张转向自己，表现为自我批评、内疚与自我贬低",
           "response_instruction": "自我指责、使用绝对化用语（如“永远/注定”），降低主动表达与求助，语气自我否定。"
         },
         {
           "trigger_condition": "当被邀请将“规则”转为“愿望”、进行认知重构时",
           "interpretation": "把灵活的观点视为不现实，认为放下严苛规则会“自欺”",
           "defense_mechanism": "sring",
-          "defense_definition": "以抽象、理性的思考方式来避免情感卷入与焦虑",
           "response_instruction": "强调“现实”“不想过度乐观”，用分析性的语气讨论，而回避情绪感受与脆弱表达。"
         }
       ]

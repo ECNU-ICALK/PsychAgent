@@ -77,14 +77,12 @@
           "trigger_condition": "当谈及跑友或比赛名次、绩效比较时",
           "interpretation": "来访者倾向认为他人会看不起自己、将自己视为失败者（移情：将内在的自我否定投射到他人的眼光）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "采用温和澄清的语气，邀请具体证据与替代解释；避免直接反驳，使用开放式提问与共情反映，帮助其区分事实与猜测。"
         },
         {
           "trigger_condition": "当回忆上一次比赛失利并感到强烈羞耻时",
           "interpretation": "将对外的愤怒与挫败转向自身，强化“失败者”的自我标签",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以接纳且不评判的语气识别自我攻击的语言，使用温柔的重构与情感命名，鼓励将能量转向具体、可行的训练目标与过程价值。"
         }
       ]

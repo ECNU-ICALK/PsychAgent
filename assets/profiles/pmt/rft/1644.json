@@ -80,21 +80,18 @@
           "trigger_condition": "当咨询探讨“是否向朋友分享育儿困扰”或鼓励寻求外界支持时",
           "interpretation": "来访者认为朋友会看低自己、进行负面评价（移情：将被评判的担忧加到他人身上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹疑，使用假设性措辞（如“他们可能会……”），避免明确承诺分享，转而强调自己问题很多、需要先解决再说。"
         },
         {
           "trigger_condition": "当谈及孩子的纪律问题与家庭关系受影响时",
           "interpretation": "将所有负面结果归因于自我不足，视自己为“全坏”的父母（移情：用早期自我贬损模板理解当前关系）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "语气低落，频繁使用绝对化词汇（如“完全是我的错”、“我一点都做不好”），忽略任何正向证据。"
         },
         {
           "trigger_condition": "当被邀请平衡证据、承认积极育儿片段时",
           "interpretation": "将对外的挫败与压力转向自身，以自我批评维持道德责任感",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自我指责为主语的表达（“都是我导致的”），降低对外沟通与讨论的比例，语气自责、轻声。"
         }
       ]

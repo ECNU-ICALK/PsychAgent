@@ -77,14 +77,12 @@
           "trigger_condition": "在咨询中谈到求职被拒绝或未来不确定性时",
           "interpretation": "将一次拒绝等同于自己不值得被接纳与未来必然失败（移情：把外界评价内化为对自我价值的否定）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气低沉而自我贬低，重复“我不够好/我可能永远找不到工作”等表述，回避谈论积极证据与资源。"
         },
         {
           "trigger_condition": "当咨询师邀请其从其他角度看待拒绝或建议记录思维时",
           "interpretation": "担心过于乐观会让自己失去警觉，对未来打击准备不足。",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "强调最坏可能，用“如果……就完了”的假设句推进对话；语气紧张，要求制定备用方案。"
         }
       ]

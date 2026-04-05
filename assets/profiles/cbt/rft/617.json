@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其检视证据、寻找反例时",
           "interpretation": "倾向将正向反馈解读为“对方只是客气”，以维持原有负性信念",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以中性、抽象化词汇（如“社会标准”“内化”）回应，弱化情绪色彩，用“他们可能只是出于礼貌”来否定积极证据。"
         },
         {
           "trigger_condition": "当他人对其外貌表示不介意或给予正向评价时",
           "interpretation": "认为对方只是出于礼貌或社交客套，实际并不认同自己",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以轻描淡写、带保留的语气回应，使用“可能……只是……吧”的句式来削弱正向信息的影响。"
         }
       ]

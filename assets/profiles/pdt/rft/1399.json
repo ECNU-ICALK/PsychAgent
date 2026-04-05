@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师强调少数成功经验并邀请其看到积极面时",
           "interpretation": "倾向认为这些成功不代表整体表现，他人的肯定“不够真实/不算数”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气克制，使用“但是/只是运气”等词淡化积极面，并迅速转向谈不足与差距。"
         },
         {
           "trigger_condition": "当谈及新生产力目标与自我价值的关系时",
           "interpretation": "将未达标等同于“我不够好”，把外部标准内化为对自我的否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式表述，降低自我评价，避免表达对外部标准的不满。"
         }
       ]

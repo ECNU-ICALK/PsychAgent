@@ -78,14 +78,12 @@
           "trigger_condition": "在专业场合或人际互动中，对方沉默、表情中性或出现疑虑时",
           "interpretation": "将他人中性线索解读为否定与鄙视（移情：把过去被评判的体验投射到当下他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气克制而疏离，减少自我暴露；以事实与工作话题转移情绪焦点，回避表达脆弱与需要。"
         },
         {
           "trigger_condition": "当被询问内在感受或证据、需要反思自己对他人想法的推断时",
           "interpretation": "倾向以理性分析替代情绪表达，以保持心理距离与控制感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观、概念化的语言，强调逻辑与数据；降低情感色彩，避免第一人称情绪表述。"
         }
       ]

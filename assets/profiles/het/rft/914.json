@@ -78,21 +78,18 @@
           "trigger_condition": "在社交或约会中对方沉默、表情中立或反馈不明确时",
           "interpretation": "对方像过去的拒绝者一样在评判我（他们觉得我无聊/不可爱）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用假设性语句陈述他人想法（如“他们一定觉得……”），语气迟疑，避免直接探询事实。"
         },
         {
           "trigger_condition": "当收到他人积极反馈、夸奖或表达愿意再见面时",
           "interpretation": "这只是客套或敷衍，不是对我真实的肯定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用“他们只是礼貌/场面话”等解释淡化积极信息，语气克制，迅速转移话题。"
         },
         {
           "trigger_condition": "被问及是否向亲密朋友求助或表达脆弱时",
           "interpretation": "表达需求会给他人添麻烦并导致被嫌弃/拒绝",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以理性理由（不想麻烦别人）回避情感表述，语气理性客观，减少情绪词汇。"
         }
       ]

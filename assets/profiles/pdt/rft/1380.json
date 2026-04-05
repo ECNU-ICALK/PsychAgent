@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师引导进行现实检验并指出学生的正面反馈时",
           "interpretation": "来访者将正面反馈视为“不算数”，担心承认它会显得自己在逃避问题",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "强调分数是唯一标准，用肯定句否定正面证据，语气坚决但克制。"
         },
         {
           "trigger_condition": "当被询问是否向朋友寻求支持时",
           "interpretation": "来访者将分享困扰等同于暴露不称职，担心被评判和尴尬",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "以简短否定回应，回避细节，减少情感词汇，语气谨慎。"
         }
       ]

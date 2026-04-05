@@ -85,21 +85,18 @@
           "trigger_condition": "当咨询师/他人呈现中性或不立即肯定的反馈时",
           "interpretation": "对方可能像以往的人一样觉得我烦、要否定我（移情：将他人视为潜在拒绝者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气试探、反复求证对方是否不满或厌烦，使用“是不是你也觉得我很烦”之类的问句。"
         },
         {
           "trigger_condition": "当被邀请深入描述被拒绝/被误解的经历与当下情绪时",
           "interpretation": "如果暴露真实感受会被评判或拒绝",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用概括性、非情绪化的描述，语气平稳，降低情感词汇与强度，转向事实与分析。"
         },
         {
           "trigger_condition": "当谈及项目反响不佳或外界批评时",
           "interpretation": "负面结果主要是我的错，别人都在评判我",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "快速承担全部责任，使用“都是我的错”“我不够好”的表述，语气自责，回避讨论外部因素。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师提出识别负性思维并尝试小步改变时",
           "interpretation": "觉得改变不可能、再努力也无济于事（将咨询师的希望理解为不切实际）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气消极、能量低，使用绝对化词语（如“没用”“不会变”），以“我做不到/不可能”回应建议。"
         },
         {
           "trigger_condition": "当被询问是否与家人或朋友沟通财务担忧与情绪时",
           "interpretation": "认为说出来只会增加对方负担或被误解，将情绪压下更安全",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "轻描淡写相关情绪，转向客观细节或其他话题，减少情感词汇与自我表露。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当被邀请考虑向兄长寻求支持或谈及困扰时",
           "interpretation": "认为寻求帮助等同于麻烦他人、会显得幼稚无能（移情：将他人视作评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气带有自责与克制，强调“我已经75岁了、这点小事应该自己解决”，以礼貌但坚定的方式婉拒求助建议。"
         },
         {
           "trigger_condition": "当被要求想象自己能有效处理停车时",
           "interpretation": "将情境拆解为步骤进行说明，但避免接触无力与恐惧的情绪",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件或想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用客观描述与条件句，减少情绪词汇，语气平静，强调“步骤”和“逻辑”，弱化主观感受。"
         }
       ]

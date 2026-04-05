@@ -57,6 +57,7 @@ The most important directories are:
 - [`src/sample/`](src/sample/): multi-session generation pipeline
 - [`src/eval/`](src/eval/): evaluation orchestration and metric implementations
 - [`src/rft/`](src/rft/): rollout generation and reward-based selection
+- [`src/web/`](src/web/): web workspace for demo and local interaction
 - [`src/shared/`](src/shared/): shared YAML and file utilities
 
 If you are new to the repository, start with:
@@ -157,6 +158,77 @@ python -m src.rft \
 
 To run `rft` on the bundled profile assets, switch `--dataset` to [`configs/datasets/profiles_rft.yaml`](configs/datasets/profiles_rft.yaml).
 
+### 4. Try the Web workspace
+
+If you want to experience the multi-session counseling flow in a browser, use the Web workspace under [`src/web/`](src/web/). For the full usage guide, see [`src/web/README.md`](src/web/README.md).
+
+The recommended startup order is:
+
+1. deploy the counselor model service
+2. start the web backend
+3. start the frontend
+
+You can launch the counselor model service with `sglang` like this:
+
+```bash
+nohup python -m sglang.launch_server \
+    --model-path /path/to/psychagent-checkpoint \
+    --trust-remote-code \
+    --port 30000 \
+    --tp 8 \
+    --host 0.0.0.0 \
+    > /path/to/logs/sglang_server.log 2>&1 &
+```
+
+Update `base_url` in [`configs/baselines/psychagent_sglang_local.yaml`](configs/baselines/psychagent_sglang_local.yaml) so it matches your model service endpoint.
+
+Then create a minimal `.env.local` in the project root:
+
+```bash
+SGLANG_API_KEY=your-sglang-key
+PSYCHAGENT_EMBEDDING_API_KEY=your-embedding-key
+BACKEND_PORT=8000
+FRONTEND_PORT=5173
+BACKEND_HOST=localhost
+```
+
+From the project root, start:
+
+```bash
+./run_backend.sh
+./run_frontend.sh
+```
+
+Default endpoints:
+
+```text
+Frontend: http://localhost:5173
+Backend:  http://localhost:8000
+Health:   http://localhost:8000/health
+```
+
+Typical usage flow:
+
+1. sign in or register
+2. choose a counseling school
+3. create a course
+4. start the session
+5. close the current session and continue to the next
+
+Example UI screenshots:
+
+#### Create Course
+
+![Create course](paper/web/新建疗程.png)
+
+#### Switch School
+
+![Switch school](paper/web/切换流派.png)
+
+#### Consultation View
+
+![Consultation view](paper/web/咨询.png)
+
 ## Configuration Guide
 
 The three main workflows use different config combinations:
@@ -176,7 +248,7 @@ Use [`configs/README.md`](configs/README.md) when you need field-level detail, s
 
 This repository already includes:
 
-- an initialization skill library under [`skills/sect/`](skills/sect/)
+- an initialization skill library under [`assets/skills/sect/`](assets/skills/sect/)
 - bundled profile assets under [`assets/profiles/`](assets/profiles/)
 - native evaluation examples under [`data/eval/`](data/eval/)
 - prompts for `bt`, `cbt`, `het`, `pdt`, and `pmt`

@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师强调其通过课程、教授正向反馈等成功证据时",
           "interpretation": "认为对方可能在忽视现实困难或只是安慰自己",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和而保留，把成功解释为运气或侥幸，弱化自身能力的作用。"
         },
         {
           "trigger_condition": "当谈到生父与“遗传智力不足”的话题时",
           "interpretation": "将当前自卑与焦虑抽象化为基因与先天因素，避免触及被遗弃与悲伤感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观、科学的术语讨论遗传与智力，保持情绪平淡，较少表达个人感受。"
         }
       ]

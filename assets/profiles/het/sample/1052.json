@@ -76,21 +76,18 @@
           "trigger_condition": "当被邀请或需要在团队/教练面前表达内心状态与困难时",
           "interpretation": "认为暴露脆弱会被视为不专业或不够格，从而被拒绝或贬低",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "使用简短、含糊的回答，转向谈训练细节或任务；减少情感词汇，语气克制，避免过多自我暴露。"
         },
         {
           "trigger_condition": "当取得显著成绩并受到他人肯定（如最后一分钟达阵）时",
           "interpretation": "将成功视为偶然或不具代表性，认为他人赞扬不可靠",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“只是运气”“不算什么”等语句轻描淡写成功，语气淡化并迅速转移话题。"
         },
         {
           "trigger_condition": "当在比赛或训练中发生错误并受到反馈或批评时",
           "interpretation": "将内心的不足感投射为他人对自己能力的负面评价与不接纳",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "预设对方持负面看法，提前自贬或道歉；用防御性语句回应，语气紧张、回避眼神接触。"
         }
       ]

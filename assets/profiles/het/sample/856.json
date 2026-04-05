@@ -76,21 +76,18 @@
           "trigger_condition": "当咨询师或他人建议将B视为学习机会，或提示看到正面证据时",
           "interpretation": "这是在为失败找借口，会让我变得松懈",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气坚决但平静，反复使用“但是”否定积极证据，强调“这只是找借口”，减少情感表达。"
         },
         {
           "trigger_condition": "当想到向朋友/同学表达自己的挫败感或寻求支持时",
           "interpretation": "他们会觉得我软弱并看不起我",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以迟疑、担忧的语气提出他人负面看法的假设，然后迅速闭口或转移话题，减少细节披露。"
         },
         {
           "trigger_condition": "当被B成绩激发出羞耻和焦虑时",
           "interpretation": "只有严厉批评自己才不会再次失败",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用苛刻的自我评价，如“我不够好/我就是失败者”，语气短促、强硬，回避探索更柔和的感受。"
         }
       ]

@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师肯定其成就或邀请其停留在积极证据上",
           "interpretation": "来访者视积极证据为“不足以证明能力”，并以极端标准衡量自己（移情：将外部高标准内化为唯一准则）",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "语气温和、以探询为主，邀请同时陈述成功与不足，帮助其看到灰度与两面性。"
         },
         {
           "trigger_condition": "谈及其他音乐人的成功或与同行互动的情境",
           "interpretation": "将对他人的嫉妒与不安转为自我指责，认为“都是我不够好”（自我贬低）",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持共情与接纳，点明自我攻击的模式，引导将比较转化为具体可操作的目标，而非全盘否定。"
         },
         {
           "trigger_condition": "讨论行业标准与“必须持续进步”的信念时",
           "interpretation": "未经消化地把他人/行业的高标准当作自我价值的唯一依据",
           "defense_mechanism": "sring",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "采用澄清与区分的语气，探询其个人价值与选择，鼓励自定可行的标准与节奏。"
         }
       ]

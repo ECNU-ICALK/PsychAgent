@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师建议练习积极自我对话或肯定句时",
           "interpretation": "潜意识将咨询师视作过度乐观、不能理解现实压力的人，认为这些方法不切实际",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以怀疑但礼貌的语气表达“这听起来有点俗气/不太现实”，列举现实压力作为理由，选择推迟尝试。"
         },
         {
           "trigger_condition": "当咨询师强调其过往工作成功与正面反馈以增强安全感时",
           "interpretation": "将积极反馈视为无关紧要，认为他人终将否定自己",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "轻描淡写地承认成功，随后快速转向潜在风险与最坏结果，语气平淡但紧张。"
         },
         {
           "trigger_condition": "当被询问是否愿意向朋友或母亲表达担忧时",
           "interpretation": "认为袒露脆弱会让他人失望并导致关系恶化",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答“没必要让他们担心”，避免深入细节，语气克制并转移话题。"
         }
       ]

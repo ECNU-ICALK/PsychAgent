@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师强调其成就或邀请其回忆正向时刻（如成功的集会）",
           "interpretation": "认为这些正面信息被过度美化、不够真实；担心被夸大后会被否定",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以怀疑语气回应，使用“这不算”“只是运气好”来否定正向信息，避免深入讨论个人贡献。"
         },
         {
           "trigger_condition": "当被具体追问“你做了什么让集会成功”时",
           "interpretation": "感到被要求自我夸耀、担心暴露不足而被评判",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "把成功主要归因于集体与外部因素（“大家一起努力”“媒体刚好关注”），回避谈及个人具体贡献。"
         },
         {
           "trigger_condition": "当被邀请列出近期的小成就或正向反馈时",
           "interpretation": "认为小成就不重要，只有大成果与持续认可才算价值",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
           "response_instruction": "使用“应该/必须”类语句强调高标准，弱化“鼓舞了一个人”等微小成果的重要性。"
         }
       ]

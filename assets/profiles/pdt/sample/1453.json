@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师邀请关注并停留在一次积极体验（如参观寺庙的放松与愉悦）",
           "interpretation": "积极体验“并不算数”，认为正面情绪不安全或终将被负面推翻",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件或想法分离，理智地谈论而缺乏情感反应",
           "response_instruction": "语气克制而理性化，快速转换到负面细节，淡化或否认积极感受，使用诸如“这不代表什么”的表述。"
         },
         {
           "trigger_condition": "当咨询师探询其对他人看法与社交情境的感受",
           "interpretation": "将内心的自卑与自我否定归因于他人的负面评价（他人在看不起我）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不被承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "用不确定但肯定性的词语描述他人负面意图（如“他们一定觉得…”），语气谨慎，避免被进一步澄清。"
         }
       ]

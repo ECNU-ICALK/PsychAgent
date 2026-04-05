@@ -77,14 +77,12 @@
           "trigger_condition": "当错过工作截止或在宗教实践中无法专注时",
           "interpretation": "他人会认为我无能或不虔诚，我的不足会被揭露",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以低沉语气快速自责，频繁使用“应该/必须”句式，缩短回答、减少细节披露，避免寻求外部支持。"
         },
         {
           "trigger_condition": "当把自己与父亲的职业成就作比较或想到外界的高标准时",
           "interpretation": "必须达成外在标准才算有价值，否则就是失败者",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "强调外界标准为绝对真理，反复使用“我必须/我应该”，贬低自身成绩并要求更高目标。"
         }
       ]

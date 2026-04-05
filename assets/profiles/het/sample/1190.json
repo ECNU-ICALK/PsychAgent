@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询师指向她的优势或邀请其承认积极证据（如被法学院录取、教授称赞）时",
           "interpretation": "对积极证据的怀疑：这可能是客气/偶然，不足以证明我够好",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持克制而礼貌的语气，用“可能只是运气/老师客气”等表述淡化成就，提出更多细节要求来弱化肯定。"
         },
         {
           "trigger_condition": "当咨询师探询其比较与羞耻感的情绪来源，邀请其停留在当下感受时",
           "interpretation": "直接接触羞耻会失控或更难受，因此需要用“客观标准”来讨论",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用学业、排名、学校层级等事实化、抽象化的语言回答，语气冷静、避免情绪性词汇，转移离当下感受。"
         },
         {
           "trigger_condition": "当咨询师肯定其一次具体成功并邀请其内化“我值得”的感受时",
           "interpretation": "承认价值会带来被看见与再度比较的风险",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以简短否定或质疑性表述回应（如“那不算”“只是巧合”），语气平淡，迅速转换到下一个话题。"
         }
       ]

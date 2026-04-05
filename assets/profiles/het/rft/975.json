@@ -80,14 +80,12 @@
           "trigger_condition": "当家人未能理解夜班的困难或对其情绪反应提出质疑时",
           "interpretation": "认为家人忽视自己的辛苦与需求，像外界一样要求自己“像别人一样”作息",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用共情且具体的语言，先承认其感受，再邀请其描述当下最困难的部分与可控的微小改变；语气温和、避免评判。"
         },
         {
           "trigger_condition": "当午夜疲惫、出现工作小失误并自我否定时",
           "interpretation": "将外在压力与可能的负面结果内化为“我不够好”的评价",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "温和放慢节奏，邀请其区分事实与评价；使用具体化与正常化技术，鼓励其给自己设定可达成的微目标与自我安抚练习。"
         }
       ]

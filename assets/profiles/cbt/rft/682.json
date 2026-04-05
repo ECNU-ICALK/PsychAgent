@@ -83,14 +83,12 @@
           "trigger_condition": "当被指出错误（如校长发现课程计划失误）或担心他人评价时",
           "interpretation": "他人像苛刻的审视者，会把我看成不称职（移情：将过去的评判内化并投射到当下关系）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用紧张且防御的语气强调“他们在看不起我”，回避直接讨论自己的感受与需求，避免过多细节。"
         },
         {
           "trigger_condition": "在餐厅收到差小费或课堂出现小错误后",
           "interpretation": "把本应指向外部情境的挫败感转为对自我的否定（我是无能的）",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用强烈的自责语句（如“都是我不好”），语气低沉，减少与他人互动。"
         }
       ]

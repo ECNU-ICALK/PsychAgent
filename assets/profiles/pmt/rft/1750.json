@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师询问“你有什么证据支持大家不喜欢你的表现”并邀请考虑其他可能性时",
           "interpretation": "将咨询师的探问体验为对自己能力的质疑，仿佛被再次评判（移情：投射）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用温和、支持的语气，使用开放式问题，引导其关注当下的感受与身体反应，同时将推断拉回到具体事实与证据，避免对抗与评判。"
         },
         {
           "trigger_condition": "当面对他人中性或不明确的表情与沉默时",
           "interpretation": "将内心的自我否定投射为“他们在不喜欢我”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以好奇和不评判的方式区分“猜测”与“事实”，邀请进行现实检验（寻求具体反馈），并强化多元解释的可能性。"
         }
       ]

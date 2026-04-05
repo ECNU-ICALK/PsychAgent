@@ -75,14 +75,12 @@
           "trigger_condition": "当被邀请尝试替代性的自我照料活动（如冥想、散步）时",
           "interpretation": "潜意识担心新活动无法达到与瑜伽同等的效果，会再次失望",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "语气温和，承认其担忧；引导分步尝试与设定现实预期；使用具体化提问，提供选择而非强行说服。"
         },
         {
           "trigger_condition": "当意识到自己的反应可能与事件不相称并尝试以理性视角审视时（如“从宏观来看这只是瑜伽课”）",
           "interpretation": "通过理性分析与抽象化来与情绪保持距离，以减少不适",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "肯定其自我觉察；温柔邀请其回到身体与当下感受；进行情绪标注与具体化，避免过度理论化。"
         }
       ]

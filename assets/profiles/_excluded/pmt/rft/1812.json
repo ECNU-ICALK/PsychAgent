@@ -82,21 +82,18 @@
           "trigger_condition": "当想到或被问及餐馆失败与经济损失时",
           "interpretation": "认为他人会看不起自己、自己不配求助（将外界潜在评价内化为对自我的否定）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责语气，如“都是我的错”，降低自我价值，避免表达需求或寻求支持。"
         },
         {
           "trigger_condition": "在与朋友、家人或业务伙伴接触时感到羞耻或紧张",
           "interpretation": "把他人可能的中性反应解读为批评或拒绝（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "通过假设他人负面意图来回避深入交流，语气犹疑，使用“他们肯定看不起我”之类的句式。"
         },
         {
           "trigger_condition": "面对未来复原的不确定性与求职压力时",
           "interpretation": "通过制定具体计划来降低不确定感与焦虑（成熟防御）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "语气务实、具体，提出可执行步骤与时间安排，强调阶段性目标与反馈。"
         }
       ]

@@ -77,21 +77,18 @@
           "trigger_condition": "当被询问缺席教会的原因或被建议与父母沟通时",
           "interpretation": "认为坦诚沟通会立刻招致父母的失望与评判",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "语气平静，强调工作忙与责任压力，弱化情绪内容，避免深入讨论与父母沟通的可行性。"
         },
         {
           "trigger_condition": "在周日、想到正在进行的礼拜时",
           "interpretation": "将未出席礼拜等同于“我是坏人”（自我标签化）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "简要承认内疚，但迅速转移到工作任务与事实清单，减少情绪表达。"
         },
         {
           "trigger_condition": "面对他人不理解其罪疚（如朋友认为其反应过度）",
           "interpretation": "将他人的不理解视为对自我价值的否定，强化自责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言指向自身缺陷，避免表达对他人反馈的失望或愤怒。"
         }
       ]

@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师提出探索替代性结果、挑战灾难化预测或建议进行行为实验时",
           "interpretation": "认为改变很难且可能无效（“投入很多也未必有用”），以理性理由弱化尝试的意义",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以犹疑与保留的语气回应，使用“可能”“不一定”“但很难”等限定词，提出多重顾虑以降低承诺。"
         },
         {
           "trigger_condition": "当被邀请将真实困扰与朋友分享，或谈到他人可能的看法时",
           "interpretation": "假设他人会认为自己“戏多/绝望”，因此不值得去表达",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以顾虑他人评价为由回避披露，强调“他们可能会觉得……”等表述，保持简短、含糊其辞。"
         },
         {
           "trigger_condition": "在讨论亲密关系相关情绪体验（如孤独、被拒的痛苦）时",
           "interpretation": "转向抽象分析、对比工作领域等理性解释以回避情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用分析性语言，聚焦概念与逻辑而非情感体验，语气平稳、情感色彩较弱。"
         }
       ]

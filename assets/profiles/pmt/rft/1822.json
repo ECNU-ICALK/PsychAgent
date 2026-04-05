@@ -74,14 +74,12 @@
           "trigger_condition": "在会谈中回忆社交聚会或他人评论“你怎么会不喜欢音乐？”的片段时",
           "interpretation": "将他人的惊讶理解为评判与拒绝（移情：把外界反应视作否定）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "先共情其被评判感，语气温和；用开放式提问与现实检验引导其区分推测与证据，鼓励具体化他人行为与自身感受。"
         },
         {
           "trigger_condition": "当咨询师提出替代解释或提供与其信念相矛盾的证据时",
           "interpretation": "倾向于把“喜欢音乐才被接纳”的规则当作自我价值的前提（将群体规范内化）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用温和对质与重述，邀请其区分他人规则与自我价值；鼓励举例非音乐场景的积极互动，强化多元自我认同。"
         }
       ]

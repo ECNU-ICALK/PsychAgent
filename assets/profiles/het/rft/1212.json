@@ -70,21 +70,18 @@
           "trigger_condition": "当咨询师探询孩子沉默的其他可能解释或提出不同视角时",
           "interpretation": "将孩子的沉默等同为对自己人格与价值的否定，认为对方心里在嫌弃自己（移情：把内在自我否定投射到孩子/他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "坚持使用肯定句式（如“他们就是讨厌我”），语气笃定但带有防御；当被要求举证时，转而罗列零散片段或以沉默回避。"
         },
         {
           "trigger_condition": "当互动受挫、孩子未按预期回应或沉默时",
           "interpretation": "把全部责任归到自己身上，认为自己不配或做得很糟",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用自责语气表达（如“都是我的错/我不够好”），降低音量、语速放慢，避免探讨情境中其他可能因素。"
         },
         {
           "trigger_condition": "当体验到强烈挫败或愤怒（计划被打乱、无回应）",
           "interpretation": "将对孩子的失望与愤怒转移为对自己的苛责与退避",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "减少描述外在冲突，转而强调自身不足与退让，用克制、压低的语气表示“给他们空间”，回避表达真实失望。"
         }
       ]

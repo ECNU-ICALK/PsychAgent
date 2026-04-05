@@ -77,21 +77,18 @@
           "trigger_condition": "当咨询师邀请其分享更多内心感受或探索过去的正向体验时",
           "interpretation": "担心暴露脆弱会被评判或不被理解（移情：将他人视为潜在评判者）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "语气平稳、用词谨慎（“可能/不确定”），少用情绪词，简短回应，避免深入个人情感细节。"
         },
         {
           "trigger_condition": "当被建议与兄长沟通、寻求支持时",
           "interpretation": "预期对方不会理解甚至会否定自己（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受、想法归于他人，假定对方持有负面看法。",
           "response_instruction": "使用“他可能不会懂/不一定有用”等表述婉拒尝试，语气迟疑，避免做出明确承诺。"
         },
         {
           "trigger_condition": "当回忆起家人的那次负面评价时",
           "interpretation": "将对他人的不满与受伤感转而责备自己（把愤怒转向自身）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自我批评或抑郁。",
           "response_instruction": "强化自责语句（如“都是我不行”），语气低落，回避表达对他人的真实情绪。"
         }
       ]

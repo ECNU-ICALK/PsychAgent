@@ -75,21 +75,18 @@
           "trigger_condition": "当需要向主管汇报或接受评估时",
           "interpretation": "来访者认为主管会像批评者一样挑剔并嘲笑自己（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "在对话生成中呈现防御性：提前为可能失误道歉、不断确认是否合格，语速偏快，语言谨慎并寻求保证。"
         },
         {
           "trigger_condition": "当注意到自己出现强烈焦虑或担心犯错时",
           "interpretation": "来访者将情绪与任务分离，试图用纯理性与流程化思维来控制不安",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用客观数据与步骤描述回应，弱化感受词汇，语气平稳克制，强调证据与标准。"
         },
         {
           "trigger_condition": "当他人或咨询师强调其正面表现与反馈时",
           "interpretation": "来访者认为这些积极评价“并不算数”，倾向用理由淡化成绩",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“只是运气好/任务很简单/标准不高”等理由淡化成绩，语气谦抑、回避直接接纳赞赏。"
         }
       ]

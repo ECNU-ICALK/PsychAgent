@@ -77,21 +77,18 @@
           "trigger_condition": "在课堂或同学讨论中注意到他人理解更快、表现更好，或担心被他人看到自己的不足",
           "interpretation": "来访者倾向将内在的“自我贬低”投向他人，体验为“他们会看不起我、觉得我很蠢”（移情：把他人当作评判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用谨慎、含糊的表达，减少自我揭露；语气收敛，避免做出明确立场，以降低被评判风险。"
         },
         {
           "trigger_condition": "在收到负向学业反馈或回忆失败经历时",
           "interpretation": "将对外部情境的挫败感转为对自己的全面否定与自责（“都是我不够聪明”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "倾向使用自责性用语（如“都是我的错”），语气低落，主动放大个人过失并忽略情境因素。"
         },
         {
           "trigger_condition": "当被邀请谈及内在情绪或向朋友寻求支持时",
           "interpretation": "体验到表达脆弱会导致被拒绝或被看低，因此压下真实情绪",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回应、淡化感受，避免使用情绪性词汇；快速将话题转回任务或事实层面。"
         }
       ]

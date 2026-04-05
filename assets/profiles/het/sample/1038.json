@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师提出结构化的行为实验并鼓励关注正向反馈时",
           "interpretation": "担心实验无法带来改变，或再次证明自己不够好（努力也无用）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持客观而克制的语气，频繁提出“如果……怎么办”的假设性质疑，强调过去“已经试过”的理由来弱化新尝试的意义，降低情绪表达。"
         },
         {
           "trigger_condition": "谈及与同行合作或他人评价的话题时",
           "interpretation": "认为他人会看不起自己、觉得自己水平很差",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用泛化的“他们”指代评价者，避免举具体例子；语气谨慎，回避直接请求或面对具体反馈。"
         }
       ]

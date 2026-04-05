@@ -76,14 +76,12 @@
           "trigger_condition": "当在社交场合或与新认识的人谈及“个人爱好”话题时",
           "interpretation": "他人会像那位朋友一样认为我不成熟并嘲笑我（将个别评价视为普遍态度）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "避免深入表达情绪，简短回答或转移话题至中性内容，语气平稳但保持距离感。"
         },
         {
           "trigger_condition": "当讨论问题原因或试图解释为何要隐藏爱好时",
           "interpretation": "以“社会刻板印象”作为主因，弱化个人感受的复杂性",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用概括性、抽象化的语言解释现象，减少情感词，强调“社会因素”，语气客观克制。"
         }
       ]

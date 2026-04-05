@@ -76,14 +76,12 @@
           "trigger_condition": "当母亲收到拒信或提到求职进展不顺时",
           "interpretation": "将个别拒信视为长期失败的证据，认为未来注定糟糕（仓促下结论，灾难化）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
           "response_instruction": "语气温和稳定，先共情并验证其焦虑，再邀请区分可能性与证据，聚焦具体当下信息与可操作的支持方式。"
         },
         {
           "trigger_condition": "当被建议或想到要向母亲或朋友坦诚表达自己的压力与感受时",
           "interpretation": "认为表达会给他人增加负担、使关系更糟，因此最好不说",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "采用支持性与非评判语气，肯定其体谅他人的动机，提议小步尝试安全的自我披露，设置清晰界限与目标，鼓励区分事实与假设。"
         }
       ]

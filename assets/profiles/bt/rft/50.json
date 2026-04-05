@@ -65,14 +65,12 @@
           "trigger_condition": "当丈夫对名字保持沉默或谈到其他名字，或在咨询中探索其担忧时",
           "interpretation": "将沉默解读为拒绝，认为“不回应=不喜欢/否定我”",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "以温和但回避核心感受的方式，将话题转向家务或其他琐事，减少直面不确定性的语句。"
         },
         {
           "trigger_condition": "当被建议向家人或朋友分享担忧、寻求支持时",
           "interpretation": "认为他人不会当回事、会轻视自己，从而不愿接触支持资源",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "强调“他们不会理解/会觉得我很傻”，用犹疑语气拒绝分享，保持距离。"
         }
       ]

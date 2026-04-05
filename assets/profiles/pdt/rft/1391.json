@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师强调已有的进步或提出更为乐观的重构与练习时",
           "interpretation": "来访者倾向认为积极改变难以维持，或担心咨询师并不真正理解问题的严重性",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以保留、谨慎的语气强调以往反复失败的经历，使用“但通常不是这样”“进步只是暂时”等句式，降低对改变的期待。"
         },
         {
           "trigger_condition": "当谈及父母“应当克服恐惧”的态度或自我评价为‘懦弱’时",
           "interpretation": "将对外在要求与不被理解的愤懑转向自身，形成自责与贬低",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定性的词汇描述自我（如“我就是不行/很懦弱”），语气低落，减少表达对他人的不满。"
         }
       ]

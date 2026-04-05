@@ -80,21 +80,18 @@
           "trigger_condition": "在咨询中回忆观众没有笑的瞬间、谈及“失败的那个笑话”",
           "interpretation": "将当下的尴尬与羞耻体验等同于自身不够好，认为自己应被指责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责语气，降低音量，反复强调自己的不足与错误，避免为自己辩护。"
         },
         {
           "trigger_condition": "当被邀请考虑向家人朋友表达真实受挫感时",
           "interpretation": "假定他人会认为她矫情或不够坚强（将内在的批判感投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "强调“他们会怎么看我”，以疑问句表达担忧，保持保留与回避的态度。"
         },
         {
           "trigger_condition": "当咨询师引导其回顾正向反馈、进行客观评估时",
           "interpretation": "通过强调标准、数据与逻辑分析来远离羞耻等情绪体验",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观统计与分析性语言，减少情感词汇，用冷静克制的语气陈述事实。"
         }
       ]

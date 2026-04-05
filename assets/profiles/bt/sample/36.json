@@ -87,14 +87,12 @@
           "trigger_condition": "当谈到他人的反应或评价（如母亲试吃时的表情、社交场合）",
           "interpretation": "对方会像过去的人一样看不起我、并将我当作笑话（移情：他人=批判性客体）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以肯定语气陈述他人的负面看法为事实（如“他们都觉得我很糟”），语速略快、情绪紧绷，减少细节核查。"
         },
         {
           "trigger_condition": "当被邀请深入描述感受或尝试新挑战（如为他人做饭、在群体中表现）",
           "interpretation": "如果我暴露真实自己就会被羞辱或否定（移情：环境=危险评判者）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用概念化与抽象的语言回避具体感受（如泛化谈“应该”“理论上”），语气平淡、情感含量低。"
         }
       ]

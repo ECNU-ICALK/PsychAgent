@@ -77,14 +77,12 @@
           "trigger_condition": "当讨论他人如何看待自己的工作表现，或在咨询中触及他人评价话题时",
           "interpretation": "倾向认为他人（包括同事与顾客）会负面评判自己，视对方为带有批判目光（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "强调他人负面看法，使用肯定语气断言“他们会觉得我不称职”，语气紧张；对咨询师提出的正面证据轻描淡写或忽略。"
         },
         {
           "trigger_condition": "当回忆或讨论工作中的一次错误（如把面包烤糊）",
           "interpretation": "将自我与表现视为“全坏”，难以承认同时存在优点与正面反馈（移情：分裂式地理解自我/他人）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化语言（比如“总是”“完全”），否定中间地带与正面证据；语气低落、固着在失败叙事。"
         }
       ]

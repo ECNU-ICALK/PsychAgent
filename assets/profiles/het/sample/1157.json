@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师提出进行“有意制造小错误并观察后果”的行为实验时",
           "interpretation": "将潜在错误理解为会被他人看低或惩罚（把他人视为严苛的评判者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观分析和收集证据的语气回应，强调“数据/结果”，淡化情绪体验。"
         },
         {
           "trigger_condition": "在工作中出现失误被提及时",
           "interpretation": "认为他人会像权威一样苛责自己，等同于整体否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自责或自我批评。",
           "response_instruction": "使用自责与贬低的词语（如“我不行”），反复道歉，减少为自己辩护。"
         }
       ]

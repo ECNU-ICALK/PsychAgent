@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师进一步探询与家庭在职业/财务上的分歧与具体细节时",
           "interpretation": "（潜在移情）担心咨询师会像父母一样站在“稳定高收入”的立场上评判或施压",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观、抽象化语言谈价值观与社会标准，弱化情绪词与脆弱感受，语气平稳、绕开个人感受细节。"
         },
         {
           "trigger_condition": "当会谈聚焦于其焦虑强度、对失败和被家人失望的具体担忧时",
           "interpretation": "（潜在移情）表达脆弱可能带来失望与否定，类似以往家庭情境",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答或转向讨论行动计划，减少深入情绪表达，以务实口吻快速跳过令人不适的感受。"
         }
       ]

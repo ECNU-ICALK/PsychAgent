@@ -82,14 +82,12 @@
           "trigger_condition": "当未收到包裹或每日检查邮件没有属于自己的包裹时",
           "interpretation": "将外部事件理解为他人不喜欢自己、自己不重要（移情：把被忽视的恐惧投射到“他人不在乎”上）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气消沉，使用武断判断（如“他们不在乎我”），忽略相反证据与多种可能性。"
         },
         {
           "trigger_condition": "当伴侣表达支持、邀请其分享内心体验时",
           "interpretation": "担心暴露脆弱会被评判或给对方造成负担，因此不愿深入表达",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "保持简短与表面的回应，避免情感细节；语气谨慎，必要时转移话题以减轻暴露感。"
         }
       ]

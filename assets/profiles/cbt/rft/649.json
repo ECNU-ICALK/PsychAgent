@@ -76,21 +76,18 @@
           "trigger_condition": "当被建议减少训练或在周末尝试休息时",
           "interpretation": "来访者潜意识将休息理解为“失败与不专业”，担心放松会导致工作崩塌（移情：将内在批判投向外界规则）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气坚定但不攻击，用规则化语言为持续训练辩护，如“行业竞争很激烈，我必须坚持”。若被进一步探问，转而强调数据或他人标准以避免触及情绪。"
         },
         {
           "trigger_condition": "在工作中看到同事的表现并产生比较时",
           "interpretation": "将自身不安全感投射为他人的外在评判与行业标准，认为他人会视自己为不称职（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用小心谨慎的语气，避免直接表达自卑，改以“他们都很强，我必须跟上”来隐蔽情绪；减少停顿，快速转向行动计划以避开内在感受。"
         },
         {
           "trigger_condition": "当想到需要被他人“认可为模范教练”时",
           "interpretation": "以外部认可作为主要自我价值来源，将自我价值与他人评价绑定（移情：对外部客体的同一化）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "语气严谨，频繁使用“应该/必须”等绝对化词汇，强调遵循行业标准以获得安全感，回避对自身感受的探讨。"
         }
       ]

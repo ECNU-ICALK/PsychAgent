@@ -80,21 +80,18 @@
           "trigger_condition": "当被咨询师或亲友询问未来计划、职业前景或情绪感受时",
           "interpretation": "认为表达担忧会给他人带来负担，或引来评判与拒绝",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "使用简短、含糊的回答，尽量不触及情绪层面，轻微转移话题，语气平稳以维持表面控制感。"
         },
         {
           "trigger_condition": "当咨询师强调其成就或要求其举例说明成功经验时",
           "interpretation": "将正向反馈视为不可靠或不足以证明自身能力，担心被“揭穿”不够好",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以概括、技术性语言描述经历，避免谈及自豪或脆弱感受，保持客观疏离的语气。"
         },
         {
           "trigger_condition": "当出现“与他人比较/竞争”的话题或信息时",
           "interpretation": "自动认定自己不如他人，认为失败不可避免",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "自我贬低、强调自身不足，语气自责、降低期待以预先减少失望。"
         }
       ]

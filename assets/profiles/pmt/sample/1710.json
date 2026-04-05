@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询讨论制定行动计划或建议再次尝试旅行规划时",
           "interpretation": "潜意识将“再次尝试”理解为必然失败与压力增加（认为任何计划都会出错）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气谨慎而不过度对立，承认来访者的担忧，同时温和指出已存在的成功证据；使用具体事实提问与共情性反映，避免指责。"
         },
         {
           "trigger_condition": "被询问过往成功经验并探讨其可复用策略时",
           "interpretation": "将成功归因于运气，否定自身能力与方法的作用",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持支持性与好奇的语气，邀请举例说明具体做法；用开放式问题引导识别可复制的步骤，避免对抗。"
         }
       ]

@@ -74,14 +74,12 @@
           "trigger_condition": "当收到学术评价或批评（如对配色的负面反馈）",
           "interpretation": "他人会把我看作不够好，这些评价证明我不适合该领域",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用稳定而不评判的语气，先共情羞耻与焦虑；再区分事实与推测，邀请具体化证据，并温和地检视“他人在想什么”的依据。"
         },
         {
           "trigger_condition": "当咨询师或他人强调其成就与优点时",
           "interpretation": "理性上知道有成就，但情绪上无法相信或连接，感觉“空洞”",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "语气温和、节奏放慢；引导辨识身体感受与情绪标签，鼓励停留与体验（而非仅理性分析），用具体成功时刻进行情绪聚焦与接地练习。"
         }
       ]

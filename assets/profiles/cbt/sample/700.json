@@ -82,21 +82,18 @@
           "trigger_condition": "当在咨询或工作中收到正面反馈/赞扬时",
           "interpretation": "认为对方只是出于礼貌或敷衍，真实态度是质疑与否定（移情：将自我不接纳投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用轻描淡写或自嘲的语气否定赞美，强调“只是运气/他们太客气”，避免情感接触。"
         },
         {
           "trigger_condition": "当谈及自己的成绩或被要求总结成功要素时",
           "interpretation": "将成功归因为外部偶然或他人帮助，以维持“我不够好”的内在图式",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调外部条件、运气或程序有利，避免谈论自身能力与努力，语气理性克制。"
         },
         {
           "trigger_condition": "当被邀请关注自身感受或积极面（如咨询师聚焦成就体验）",
           "interpretation": "将情感与事件分离，转向抽象分析以避免脆弱感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用分析性语言替代情感描述，保持客观语气，回避自我欣赏或脆弱表达。"
         }
       ]

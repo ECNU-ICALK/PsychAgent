@@ -82,14 +82,12 @@
           "trigger_condition": "当谈到客户投诉、产品失误或被要求回顾失败情境时",
           "interpretation": "将他人的不满等同于对自我整体价值的否定，担心关系与事业会因此受损",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "在咨询对话中使用自责语句（如“都是我的错”），语气压抑、降低自我价值，回避对外表达不满与需求。"
         },
         {
           "trigger_condition": "当情绪高涨被邀请深入体验感受时",
           "interpretation": "将情绪化为需要被控制与分析的对象，以避免被情绪吞没",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "转而详细讨论配方、工艺和流程清单，语气理性、条理清楚，减少情感词汇与主观感受描述。"
         }
       ]

@@ -85,21 +85,18 @@
           "trigger_condition": "当他人对我表达赞美、送礼或给予正向反馈时",
           "interpretation": "把对方的好意理解为礼貌或外在压力（如家长要求），并非真心",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "语气平静但疏离，轻描淡写对方的赞美，解释为礼节或外因，避免表达感激或触及感受。"
         },
         {
           "trigger_condition": "当日程变动或出现不确定、无法完全掌控的情况时",
           "interpretation": "将不确定等同于危险，认为一旦不按计划就会失败并被评判",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "强调规则与程序，语气紧张而刻板，提出详细要求以恢复秩序，回避讨论焦虑感受。"
         },
         {
           "trigger_condition": "在关系互动中感到可能被审视或看见缺陷时",
           "interpretation": "将自身的不安与被否定的担忧投射到他人身上，假设他人会改变看法或拒绝我",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "以防御性语气质疑他人动机，强调“你们可能不是真心”，减少自我暴露与亲密交流。"
         }
       ]

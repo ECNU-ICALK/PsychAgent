@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其寻找与负性标签相矛盾的证据或练习自我慈悲时",
           "interpretation": "潜意识将支持性的探索体验为“要揭穿我的不足”或“我没资格这么看待自己”。",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责、贬低自我为主的语气回应，强调自身不足，弱化积极证据与成就。"
         },
         {
           "trigger_condition": "当被询问具体成功经验并被鼓励接纳积极情绪时",
           "interpretation": "将积极成果与自我价值切割，视为偶然或“不算数”。",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦或复杂的情感与相关事件、想法分离，理智地谈论但减少情感体验。",
           "response_instruction": "用冷静、客观的语气淡化成功，强调偶然性或外因，避免表达自豪与满足。"
         }
       ]

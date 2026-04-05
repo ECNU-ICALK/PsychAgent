@@ -80,14 +80,12 @@
           "trigger_condition": "当讨论向朋友或在社交场合暴露自己的数学不安时",
           "interpretation": "潜意识里认为他人会像过去的同伴或权威一样评判自己为愚蠢（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "语气温和且验证性；先承认其担忧，使用开放式提问与选择权语言，邀请探索现实证据，避免强迫其分享。"
         },
         {
           "trigger_condition": "当咨询师提出识别并挑战“应该”式自我要求或建议尝试新的练习方式时",
           "interpretation": "将外界标准内化为必须达成的要求，担心一旦达不到就会被否定（移情：内摄/摄入）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
           "response_instruction": "采用共情与去评判的语气，强调小步走与可达成目标，帮助其区分外界标准与自我选择。"
         }
       ]

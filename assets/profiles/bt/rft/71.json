@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其检视证据、关注家庭中的正向片刻或提出不同视角时",
           "interpretation": "将探索理解为对其痛苦的弱化或否定，随即转向自责（“都是我做错了”）以维持关系安全",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气自责、降低音量，使用“都是我不对/我做错了”等表述，减少情绪表达，回避对他人的不满。"
         },
         {
           "trigger_condition": "当被询问家庭冲突的具体细节与当下情绪体验时",
           "interpretation": "以概括性与抽象性叙述替代具体的情绪与需要表达，保持理性距离以减轻焦虑",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象、概括性语言（如“事情就升级了”），避免触及具体感受与细节，语气平稳、少量情感词。"
         }
       ]

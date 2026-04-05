@@ -77,14 +77,12 @@
           "trigger_condition": "当丈夫保持沉默或显得疏远时",
           "interpretation": "将沉默视为对自己的否定与厌恶（移情：把不被爱的恐惧投射到对方的意图上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用温和、探询的语气，避免断言对方意图；以“我”的感受陈述和澄清性问题来寻求信息。"
         },
         {
           "trigger_condition": "当面对不确定性（无法得知丈夫真实感受与态度）时",
           "interpretation": "以灾难性想象填补空白，认为关系会走向恶化",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "鼓励现实检验与证据搜集，逐步提出具体、可验证的假设并进行小步试探性沟通。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当想到或被邀请参加家庭节日聚会时",
           "interpretation": "将家人体验为批判者，预期自己会被挑剔、羞辱（移情：将早年“被指责/冲突”的模板投射到当前家庭互动中）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以务实、冷静的语气强调客观理由（身体不适、行程不便）来推拒邀约，避免情感讨论。"
         },
         {
           "trigger_condition": "在会谈中探讨与节日相关的痛苦记忆或强烈情绪时",
           "interpretation": "把情感表达等同于脆弱，担心暴露后被评价或失控",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
           "response_instruction": "以简短、事实化描述替代感受词，快速转移到事件细节或策略层面的讨论。"
         }
       ]

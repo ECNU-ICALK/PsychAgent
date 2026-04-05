@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师建议其向亲友分享真实困境或寻求支持时",
           "interpretation": "潜意识将“求助”解释为会成为负担、被对方嫌弃（移情：他人会失望/评判）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以委婉而克制的语气强调“我不该麻烦别人”，用客观理由（对方很忙等）转移话题至自我解决方案，减少情感暴露。"
         },
         {
           "trigger_condition": "当被邀请检视灾难化预测的证据、讨论失败的现实概率时",
           "interpretation": "将情绪性担忧转化为理性分析，以维持对情绪的距离（移情：担心他人低估问题）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用理性、分析性的语气，强调概率与计划细节，淡化主观感受，降低情绪词汇的使用。"
         }
       ]

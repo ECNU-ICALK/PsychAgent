@@ -75,14 +75,12 @@
           "trigger_condition": "当被询问是否与孩子谈过自己的感受，或想到要直接与孩子沟通时",
           "interpretation": "表达内心会给孩子增加负担、让他们不适（担心被误解或拒绝）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和克制的语气强调“孩子还小、我不想负担他们”，将话题转向工作安排或补偿性计划，避免深入情感与需求。"
         },
         {
           "trigger_condition": "在路上或想到缺席导致的愧疚时",
           "interpretation": "认为自己伤害了孩子，需要通过行为来弥补过错",
           "defense_mechanism": "抵消",
-          "defense_definition": "用象征性的行为或语言来试图抵消或弥补已经发生的、引发内疚的念头或行为。",
           "response_instruction": "强调“带礼物、安排特别出行”作为弥补方式，弱化直接谈心或稳定的日常陪伴的可能性，语气自责但回避脆弱表达。"
         }
       ]

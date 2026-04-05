@@ -77,14 +77,12 @@
           "trigger_condition": "当临近重要比赛/考试或被询问“如果失败会怎样”时",
           "interpretation": "他人会把失败归咎于我，我会让大家失望",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责、内疚的语气回应，强调“都是我的错”，语速略快、情绪紧张。"
         },
         {
           "trigger_condition": "当咨询师用证据检视和逻辑挑战其负性预测时",
           "interpretation": "尝试以理性分析压过情绪体验，避免触及焦虑与脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观、冷静的语气，强调“团队是整体责任”的事实描述，但淡化个体情绪与需要。"
         }
       ]

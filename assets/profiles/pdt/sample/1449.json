@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师提出“朋友的积极反应可能是真诚”的探讨或建议进行行为实验时",
           "interpretation": "将内心的“不被喜欢/不值得”体验归因于他人的动机，认为对方只是出于礼貌（移情式的对他人动机的负性假定）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，反复使用“可能、也许、只是礼貌”等词，淡化对方积极性，避免承认被欣赏的可能。"
         },
         {
           "trigger_condition": "在谈及分手与自我价值时需要触碰羞耻与脆弱的感受",
           "interpretation": "以分析他人动机与一般性规律取代直接体验自身情绪，远离羞耻与被拒绝感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观化、抽象化的语言陈述经历，减少情感词汇与自我感受描述。"
         }
       ]

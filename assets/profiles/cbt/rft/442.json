@@ -76,21 +76,18 @@
           "trigger_condition": "当在社交媒体上看到朋友的度假或奢侈消费时",
           "interpretation": "认为别人过得更好且在评判自己：我们被落下了，我是失败者",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "轻描淡写情绪，不展开讨论，快速转向其他话题或实际事项，语气平淡、避免使用情绪词。"
         },
         {
           "trigger_condition": "当与妻子讨论财务并出现紧张或争吵时",
           "interpretation": "认为谈情绪只会加剧冲突，只有数字与计划才可控",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以预算、开支明细与计划作为回应核心，减少情感表达，使用客观术语与逻辑链条。"
         },
         {
           "trigger_condition": "当被提及改变思维或尝试新方法时（心中充满怀疑）",
           "interpretation": "觉得处境久已成型、改变不切实际",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用“我们一直这样”“现实不允许”等理由表达怀疑，语气克制，强调外部限制。"
         }
       ]

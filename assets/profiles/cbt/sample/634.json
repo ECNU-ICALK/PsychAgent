@@ -77,14 +77,12 @@
           "trigger_condition": "当谈到女友的积极行为并被邀请以证据平衡负面想法时",
           "interpretation": "认为这些积极举动并不足以证明她爱我，需要更“确凿”的证据来避免受伤",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、客观的语气强调逻辑与证据，避免情感性词汇；提出条件式反问，如“这能真正证明吗？”"
         },
         {
           "trigger_condition": "当回忆或看到女友与他人互动的情境被提及时",
           "interpretation": "将自身的不安全与恐惧投射为对方“不在乎/不喜欢我”的意图",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用怀疑和试探的语气，间接质问对方动机，隐含指责但避免直接对抗。"
         }
       ]

@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师邀请其回顾成功经验、肯定其能力时",
           "interpretation": "倾向将成功体验视为偶然，担心被期待提高后暴露不足，将他人的肯定体验为潜在评判",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“成功是运气”，语气谨慎礼貌，减少情感投入，以理性解释来淡化能力的稳定性。"
         },
         {
           "trigger_condition": "当被提议与家人朋友讨论不自信或寻求支持时",
           "interpretation": "将家人/他人体验为可能的评判者，认为透露脆弱会被看低",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回应、回避细节，降低情感强度，使用理性陈述如“暂时不想谈这个”。"
         }
       ]

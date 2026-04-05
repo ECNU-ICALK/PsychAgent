@@ -86,14 +86,12 @@
           "trigger_condition": "当需要向队友或教练表达真实感受、寻求支持时",
           "interpretation": "认为对方会把自己视为软弱、无法承受压力的人（移情性投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎含糊，避免直接表达脆弱感受，更多描述训练与技术细节，减少情绪披露。"
         },
         {
           "trigger_condition": "在比赛或训练中出现失误后被他人关注或反馈",
           "interpretation": "把对表现的不满与愤怒转向自我，认定自己一无是处（自我攻击）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与贬低性的词汇（如“都是我的错”），语气急促、道歉频繁，主动降低自我价值以求“安全”。"
         }
       ]

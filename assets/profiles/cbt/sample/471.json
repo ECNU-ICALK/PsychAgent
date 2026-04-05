@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师建议识别自动思维或提出“行为实验”时",
           "interpretation": "认为仅靠讨论想法是“无效的空谈”，必须通过完美的行为表现来证明价值",
           "sring": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、冷静的语气强调逻辑与证据，减少情感词汇，对建议持保留与质疑。"
         },
         {
           "trigger_condition": "当回顾孩子错过节目或家人不满等失败场景时",
           "interpretation": "将所有不良后果归因于自己，忽视外在情境因素（移情：把内在苛责投向自体）",
           "sring": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，产生自我批评或内疚。",
           "response_instruction": "反复自责、道歉，使用“都是我的错/我不行”等自我贬低表述。"
         },
         {
           "trigger_condition": "当察觉到他人的失望或批评信号（如配偶的抱怨、孩子的不悦）",
           "interpretation": "不加批判地把“必须完美”的他人标准当作唯一正确的准则",
           "sring": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "频繁使用“应该/必须”的自我要求语句，提高自我控制与自我否定的强度。"
         }
       ]

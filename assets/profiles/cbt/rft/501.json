@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其回顾并承认自己处理复杂问题的成功经验时",
           "interpretation": "若承认成功，会显得自我夸耀，最终仍会被识破为“其实不行”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平淡语气淡化成绩，将成功归因为“运气/巧合/外因”，回避体验自豪与能力感。"
         },
         {
           "trigger_condition": "当谈及客户事件的失误与其造成的影响时",
           "interpretation": "错误完全归因于自己“能力不够”，忽略情境与客观因素",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式语言（如“都是我的错”“我太笨了”），承担全部责任，否定任何外部影响。"
         }
       ]

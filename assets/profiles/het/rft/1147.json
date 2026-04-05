@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师提出通过谈话探索与重新框架其焦虑与信念时",
           "interpretation": "倾向认为“谈话帮助不大”，以维持对问题的控制感",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以怀疑与冷淡的语气简短回应，强调“我不觉得这能帮上忙”，回避深入情绪层面讨论。"
         },
         {
           "trigger_condition": "当被邀请探讨向朋友寻求支持与分享困扰时",
           "interpretation": "预设他人不会理解或会评价自己，从而避免接近与暴露脆弱",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用泛指与推测性的表述（如“他们不会理解”），减少具体细节，维持人际距离与话题表层化。"
         }
       ]

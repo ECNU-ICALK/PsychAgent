@@ -77,14 +77,12 @@
           "trigger_condition": "当与朋友讨论橄榄球或超级碗、他人表达强烈的主流偏好时",
           "interpretation": "来访者认为若不随众就会被视为“奇怪”，关系会受损（将评判性意图归于他人）",
           "defense_mechanism": "反向形成",
-          "defense_definition": "表现出与真实（且不被接受的）感受完全相反的态度和行为。",
           "response_instruction": "使用迎合的语气，强调自己“也很喜欢橄榄球”，避免透露真实兴趣；尽量赞同他人观点以维持和谐。"
         },
         {
           "trigger_condition": "当被直接问到最喜欢的体育项目或被邀请谈论个人偏好时",
           "interpretation": "预设对方会看不起或否定自己，感觉表达真实偏好就等于被拒绝",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "通过转移话题、自嘲或轻描淡写来规避深入交流；语气谨慎，避免明确表达立场。"
         }
       ]

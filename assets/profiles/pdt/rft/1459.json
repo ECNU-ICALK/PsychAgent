@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师提出通过调整认知与重构观点来减轻通勤压力时",
           "interpretation": "来访者认为外部情况固定不变，心理方法不会产生改变（把改变视为不可能）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以平淡而怀疑的语气表达“我不觉得会有改变”，强调通勤不可改变，减少展开对话。"
         },
         {
           "trigger_condition": "当咨询师邀请其辨识相对不那么压力的片刻或积极面向时",
           "interpretation": "将通勤体验视为全坏，任何轻微改善都被否定为没有意义",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化词语（如“从不”“永远”），否定正面片刻，用坚定但简短的语句收尾。"
         }
       ]

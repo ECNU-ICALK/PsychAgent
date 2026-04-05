@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师提出进行在家练习并记录的行为实验时",
           "interpretation": "担心这会成为能力的“测验”，一旦失败就会被负面评价",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "语气稳定且接纳，先共情其担心，再将实验框定为“学习而非测验”，使用具体、可实现的小步骤，强调失败也提供信息。"
         },
         {
           "trigger_condition": "当被邀请去描述尴尬和羞耻等强烈感受时",
           "interpretation": "认为暴露脆弱会带来不适或被看作“软弱”",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "放慢节奏，使用温和提问，引导命名感受；适度沉默留出体验空间，验证其安全感并允许部分表达。"
         }
       ]

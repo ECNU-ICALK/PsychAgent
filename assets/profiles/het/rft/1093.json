@@ -78,21 +78,18 @@
           "trigger_condition": "当需要进行求职、预算或面对突发开销等高压任务时",
           "interpretation": "认为无论怎么做都无济于事，未来必然变糟，于是为不行动寻找“合理理由”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用温和、共情的语气，先反映其焦虑与无力感，再以具体化提问引导其区分事实与推断，鼓励拆分任务与小步实验。"
         },
         {
           "trigger_condition": "当被提醒与父母关系紧张或涉及向亲人求助的话题时",
           "interpretation": "将关系恶化完全归因于自己的求助行为，强化自责与内疚",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "采用接纳与支持性的语气，帮助其识别多因素情境，区分个人责任与外部因素，邀请进行证据检视与更公平的自我评估。"
         },
         {
           "trigger_condition": "当他人试图靠近或发出社交邀请时",
           "interpretation": "将亲近视为必然导致受伤或冲突，因而提前撤退以自保",
           "defense_mechanism": "回摄",
-          "defense_definition": "将原本欲对外发出的能量转而对自己，克制或放弃对他人或外界的行为冲动。",
           "response_instruction": "保持温柔而不逼迫的语调，鼓励其识别欲望与恐惧的并存，设计可控的微接触步骤与界限练习，逐步扩大容许度。"
         }
       ]

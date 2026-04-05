@@ -77,14 +77,12 @@
           "trigger_condition": "当主管或同事强调产出速度，或出现新任务/新批次时",
           "interpretation": "潜意识里将他人视为只会用速度评判并随时淘汰自己的权威者（移情：将被评判/被否定的恐惧投到他人）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己难以接纳的感受、欲望或焦虑归于他人，认为他人怀有负面意图或评价",
           "response_instruction": "以共情且探询的语气回应，先验证焦虑感受，再温和澄清事实与证据；使用开放式问题区分事实与推测，避免对抗与评判。"
         },
         {
           "trigger_condition": "当自我评价陷入“要么足够快、要么就是失败”的状态时",
           "interpretation": "将自我与工作表现以全好/全坏来理解，忽视中间地带与其他价值维度",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事物极端化地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "语气稳定、具体化地邀请其寻找灰色地带与例外证据；使用对比与具体事例来重建连续谱，避免贴标签式语言。"
         }
       ]

@@ -80,14 +80,12 @@
           "trigger_condition": "在家庭聚会或被问及婚姻与孩子时",
           "interpretation": "他人（尤其母亲）正在评判自己不及格，认为自己失败（移情：将自我羞耻体验投射到他人评判上）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以礼貌、简短回应，迅速转移话题到工作或日常，避免情绪深入与细节暴露。"
         },
         {
           "trigger_condition": "与朋友谈及婚恋或想到朋友与孩子的场景时",
           "interpretation": "他们会看不起我、认为我不够好（移情：将自我否定归因于他人看法）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊与含糊其辞的语句，减少自我揭露，必要时以时间或事务为由结束话题。"
         }
       ]

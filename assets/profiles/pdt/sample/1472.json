@@ -78,14 +78,12 @@
           "trigger_condition": "当被邀请表达与金钱相关的情绪或寻求他人支持时",
           "interpretation": "如果表达担忧会被看作不自立或被责备（如同父亲的标准）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "用简短、事实性的描述带过情绪，避免深入谈感受，迅速转到计划与细节。"
         },
         {
           "trigger_condition": "在讨论未来的不确定性与职业路径时",
           "interpretation": "必须以理性分析来控制风险，否则会失控并受伤",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "大量使用数据、假设和逻辑推演的语气，弱化个人情绪词汇与主观体验。"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当谈及饮食或日常作息中的轻微偏差，或被询问当天有哪些做得好的地方时",
           "interpretation": "将轻微偏差视为全盘失败，并担心被评价，倾向忽视积极面",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责语气回顾当天，放大错误、降低自我价值，弱化或不提积极行为。用词刻板、强调失败。"
         },
         {
           "trigger_condition": "当讨论或设定与健康与作息相关的标准与目标时",
           "interpretation": "将外界健康标准视为绝对真理，忽视个体差异与情境弹性",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“应该/必须”等绝对化措辞，强调遵规而非体验，回避讨论个人需要与喜好。"
         }
       ]

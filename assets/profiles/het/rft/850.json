@@ -78,14 +78,12 @@
           "trigger_condition": "当被询问或谈及未能获得第一、或被邀请放松“必须赢”的标准时",
           "interpretation": "将他人的探询体验为对自己不够努力或不够好的否定（担心被评判）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责语气聚焦自身不足，忽略外部情境因素；语句中频繁使用“应该/必须”，降低情感表达，强化自我批评。"
         },
         {
           "trigger_condition": "当注意到自己情绪高涨（挫败、羞耻）而被邀请关注感受或意义时",
           "interpretation": "把情绪理解为需要被控制的风险，倾向用规则与目标取代情感接触",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用目标、数据、规则性语言谈论表现与改进，回避主观情绪体验与脆弱表达。"
         }
       ]

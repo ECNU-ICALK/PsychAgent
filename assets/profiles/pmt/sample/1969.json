@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师建议联系成功的化妆师寻求建议或导师支持时",
           "interpretation": "来访者认为对方会看不起自己、不会给予帮助（移情：将内在自我否定投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和、共情验证；以开放式提问澄清证据与可能性，避免对抗；邀请具体尝试的小步行动。"
         },
         {
           "trigger_condition": "当讨论参加社交活动或尝试新的求职策略时",
           "interpretation": "来访者以“这可能又是死胡同”为由降低行动，倾向用表面合理的理由解释不行动",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持支持性语气；使用具体化与行为细分的语言，帮助识别可执行的最小步并评估真实障碍。"
         },
         {
           "trigger_condition": "在遭遇重复拒信或反馈“经验不足”后谈及自我感受时",
           "interpretation": "将对外的挫败与不满转为自责与自我攻击（如“我不够好”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "采用接纳与慈悲的语气；鼓励情绪标记与外化挫败，区分事实与自我价值；引导功能性自我支持语言。"
         }
       ]

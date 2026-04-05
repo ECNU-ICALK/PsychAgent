@@ -76,21 +76,18 @@
           "trigger_condition": "当咨询师邀请其探讨正向证据或小的进步时",
           "interpretation": "认为这些进步‘不够大’，无法改变自身的失败处境",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平稳语气强调“从长远看没有意义”等理由，使用抽象化表述来削弱积极意义。"
         },
         {
           "trigger_condition": "当讨论与朋友或家人的互动、可能涉及比较与被评价的话题时",
           "interpretation": "感觉他人会因其经济状况而看低自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "避免深入细节，使用模糊化表达（如“他们都会看不起我”），并提出减少接触的理由。"
         },
         {
           "trigger_condition": "当被鼓励尝试做出具体财务决策或进行小规模尝试时",
           "interpretation": "一旦行动就会暴露无能并导致灾难性后果",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用逻辑推演、假设性语言（如“理论上…长期来看…”）转移到抽象层面，回避当前感受与行动承诺。"
         }
       ]

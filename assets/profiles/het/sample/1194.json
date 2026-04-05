@@ -80,21 +80,18 @@
           "trigger_condition": "当他人（包括咨询师）邀请其分享感受或建议其寻求支持时",
           "interpretation": "潜意识认为他人会否定或觉得自己反应过度（移情：将内在自我否定投射到他人身上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹疑与防御的语气回应，使用模糊化表达（如“他们大概会说我夸张”），避免深入情绪与细节。"
         },
         {
           "trigger_condition": "当被鼓励去分析考试与教学策略并采取具体行动时",
           "interpretation": "若不能确保立竿见影的改善，行动就没有意义；担心再失败会加剧羞耻与评判",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以消极语气列举不行动的理由（如“这可能也没用”），用假设性担忧来推迟或回避具体步骤。"
         },
         {
           "trigger_condition": "面对与同事的互动或想到同事对自己的看法时",
           "interpretation": "把同事视为批判性的他人，预设他们会看不起自己，从而强化自我指责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用强烈自责的表述（如“都是我的错”），语气内向、沉重，减少对他人的真实感受表达。"
         }
       ]

@@ -79,14 +79,12 @@
           "trigger_condition": "当家人对自己缺席保持沉默或气氛紧张、或被询问缺席原因时",
           "interpretation": "认为他们在生气、觉得自己自私（将自己的担忧投射到对方）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以讨好与解释为主，语气急切、频繁强调“我真的在乎”，通过买礼物与安排活动来示好，避免直接探询对方真实感受。"
         },
         {
           "trigger_condition": "谈到错过家庭活动或需要优先工作时",
           "interpretation": "把错过事件等同于人格失败，强化自我贬责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“都是我的错”），语气低沉，提出补偿方案（送礼物/花钱安排活动），弱化自身需求。"
         }
       ]

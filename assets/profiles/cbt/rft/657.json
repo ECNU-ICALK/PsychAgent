@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师强调“个人一票只是更大图景的一部分”、尝试减轻其过度责任感时",
           "interpretation": "来访者可能体验为：如果放松责任感，就是不够认真或不负责任",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调数据、政策细节与逻辑推演，回避主观感受表达；语气严肃克制，减少情绪词。"
         },
         {
           "trigger_condition": "当被建议减少政治新闻摄入、设定信息边界时",
           "interpretation": "担心减少信息会导致错误选择，从而造成严重后果",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“必须充分了解/这是我的责任”为理由反对限制信息；语速偏快、语气紧张，持续给出反例。"
         }
       ]

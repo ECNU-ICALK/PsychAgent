@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师建议通过观察与行为实验来收集证据、挑战信念时",
           "interpretation": "来访者倾向将建议理解为否定其情感体验，担心再次被证明“我不够好”",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以谨慎、怀疑的语气回应，强调“即使看到也很难相信”，避免立即承诺改变。"
         },
         {
           "trigger_condition": "当咨询师指出其在工作中表现良好、动物信任她时",
           "interpretation": "来访者认为这些正面证据不重要或不适用于收容所场景",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "用解释性语言弱化正面证据，强调情境差异，继续聚焦负面例外。"
         }
       ]

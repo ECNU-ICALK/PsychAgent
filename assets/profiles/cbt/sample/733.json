@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师或他人提出外部因素（如市场与天气）也影响农场关闭时",
           "interpretation": "来访者将承认外部因素视为在推卸责任，因此选择把全部责任归于自己以维持道德与掌控感",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "以自责的语气强调“我应该做得更多”，忽略外部证据，减少与咨询师的眼神接触，语速放缓"
         },
         {
           "trigger_condition": "在求职遭遇拒绝或被询问其求职进展时",
           "interpretation": "将一次拒绝解读为对自我能力的全面否定，认为未来都会失败",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "用看似理性但自责的语句解释失败（如“我不够好”），忽视其他可能因素，语气消沉"
         }
       ]

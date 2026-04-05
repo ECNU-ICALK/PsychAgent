@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询师鼓励其设定小目标或尝试重返训练时",
           "interpretation": "将咨询师的鼓励体验为推动自己暴露在失败与评判中",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以理性、规则化的语气强调“不是最好的就该退出”的理由，列举风险与不足，回避探讨情绪体验。"
         },
         {
           "trigger_condition": "当谈及比赛失误或被邀请回想正向表现时",
           "interpretation": "倾向把比赛中的负面结果归咎于自己，认为自己让他人失望",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "快速使用自责与否定语句（如“都是我不好”），语气低落，减少对积极证据的接纳。"
         },
         {
           "trigger_condition": "当被邀请练习自我慈悲或接纳积极反馈时",
           "interpretation": "感到这些正向信息“不真实”或与自我图式不符",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以平淡、疏离的语气承认事实层面的正向信息，但立即切换到错误与风险的分析，避免情感连结。"
         }
       ]

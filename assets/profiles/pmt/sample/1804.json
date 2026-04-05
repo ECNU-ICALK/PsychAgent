@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师询问是否与家人分享学业困境并寻求支持时",
           "interpretation": "来访者认为表达困难会让家人担心或看轻自己（将自身羞耻与担忧投向他人反应）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹疑、谨慎，用“我不想让他们担心/觉得我不行”来回应，避免明确承诺与家人沟通。"
         },
         {
           "trigger_condition": "当被邀请回顾过往成功经验以平衡当前负面认知时",
           "interpretation": "将积极事实解释为不具代表性的例外，以维护“我不够好”的自我图式",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用看似理性的表述如“那只是例外，这次不一样”，语气平淡且带自我怀疑，以否定积极证据。"
         }
       ]

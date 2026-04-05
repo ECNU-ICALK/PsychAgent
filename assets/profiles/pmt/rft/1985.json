@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师提出通过行为实验与认知重构来挑战“我不会再找到爱情”的信念时",
           "interpretation": "倾向以理性理由强调方法可能无效（如“我已经困住很久”），以减少情感暴露与不确定性",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静理性语气表达怀疑，强调过去的持续困境作为论据，回避深入讨论情绪体验与脆弱面。"
         },
         {
           "trigger_condition": "当咨询师建议与亲密朋友分享感受、寻求社会支持时",
           "interpretation": "将“寻求支持”理解为会给对方带来负担，从而否定外界支持的可用性",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "礼貌但坚定地拒绝向外求助，使用“我不想麻烦别人”的表述，保持自我封闭与自我承担的姿态。"
         }
       ]

@@ -75,21 +75,18 @@
           "trigger_condition": "当咨询师询问支持系统或建议开始监测与记录负面想法时",
           "interpretation": "认为谈论这些会显得自己很可笑、问题太琐碎，从而不愿寻求支持（移情：担心被轻视）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以轻描淡写和自我贬低的语气给出理由，避免深入探讨或寻求支持。"
         },
         {
           "trigger_condition": "清洁中出现瑕疵或需要评价清洁成果时",
           "interpretation": "将局部瑕疵理解为整体失败，并把攻击性转向自己（“都是我不好”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用强烈的自我否定词语（如“我很差”），加重自我指责。"
         },
         {
           "trigger_condition": "被要求区分清洁中的好与坏、细节与整体时",
           "interpretation": "将结果看作非黑即白的“全好或全坏”，无法整合中间地带",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用“要么……要么……”的绝对化表述，坚持否定灰色地带。"
         }
       ]

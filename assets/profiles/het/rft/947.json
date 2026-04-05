@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其考虑向亲密朋友分享这一具体恐惧时",
           "interpretation": "担心他人会认为自己夸张、被自己问题所累，从而不愿敞开",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和，优先共情与验证，使用开放式问题与小步策略，鼓励评估潜在收益与界限，不施压。"
         },
         {
           "trigger_condition": "在会谈中聚焦“独生子=孤独终老”的主题时",
           "interpretation": "倾向以抽象推理谈论问题，减少情感卷入以避免不适",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持稳定、共情的语调，放慢节奏，邀请其关注当下的身体与情绪感受，帮助其在可承受范围内连接情绪。"
         }
       ]

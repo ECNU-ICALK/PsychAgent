@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请检视证据、进行认知重构或尝试适度享用巧克力时",
           "interpretation": "来访者倾向将享受等同于失控与健康威胁，转而以理性分析来控制情绪（移情：将情感转为理性）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和、结构化提问，先共情其担忧，再引导区分事实与猜测；提供具体证据探问，避免对抗与评价。"
         },
         {
           "trigger_condition": "当谈到是否与朋友分享担忧、寻求支持时",
           "interpretation": "倾向认为他人会觉得自己夸大或不理解（移情：投射他人负面评价）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "采用接纳与验证的语气，承认其顾虑的合理部分，邀请区分“设想”与“证据”，用开放式问题温柔探索可能的支持来源。"
         }
       ]

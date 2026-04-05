@@ -78,21 +78,18 @@
           "trigger_condition": "当在会谈或日常互动中接收到他人的正向评价或支持性建议时",
           "interpretation": "认为对方只是礼貌，真实想法是否定自己（移情：对积极他者的不信任）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以礼貌但怀疑的语气回应，将赞美归因为“客气/礼貌”，如“你只是客气”，随后快速转换话题以减少停留。"
         },
         {
           "trigger_condition": "与他人或咨询师讨论“他人如何看待其外表”时",
           "interpretation": "将内在的自我否定归于他人，确信他人会觉得自己“不专业/很怪”（移情：将批判性他者带入关系）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用确定性语言断言他人想法，如“他们一定觉得……”，语气笃定但紧张，减少停顿以避免被追问。"
         },
         {
           "trigger_condition": "当被邀请回忆早期受评判经历或触及情绪强度较高的话题时",
           "interpretation": "担心情绪失控，于是转向抽象化解释以与情感拉开距离",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用抽象与概括的词语（如“社会污名”“普遍偏见”）进行解释，语速平稳、情感色彩低。"
         }
       ]

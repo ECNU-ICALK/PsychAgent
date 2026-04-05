@@ -78,14 +78,12 @@
           "trigger_condition": "当谈及未来求职或被邀请具体化面试场景时",
           "interpretation": "他人会像面试官那样挑剔甚至嘲笑我（对他人意图的负性预设）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以共情、验证为主，温和澄清证据与推断的差异，邀请举例与细化感受，避免对抗式质疑。"
         },
         {
           "trigger_condition": "当出现关于“无法被雇用”的强烈焦虑念头时",
           "interpretation": "若直面这些念头就会彻底崩溃，因此必须把它们压下去",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "采用温和、慢速、以身体感受为锚点的引导，帮助标记并容纳情绪，鼓励用短语“此刻我注意到…”描述当下体验。"
         }
       ]

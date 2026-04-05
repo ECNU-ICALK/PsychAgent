@@ -76,14 +76,12 @@
           "trigger_condition": "当被邀请回顾具体失误及其影响、并探索相关感受时",
           "interpretation": "倾向把深入情绪体验视为不必要或令人不安，认为用理性分析即可解决问题",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以平静、客观语气聚焦事实与数据，减少情绪词汇和主观感受的表达。"
         },
         {
           "trigger_condition": "在谈及演出评价或理财决策时预期他人反应",
           "interpretation": "假设他人会将一次错误等同于全面失败并予以否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自我批评和内疚语气陈述，将问题责任全部归于自己，弱化外部因素。"
         }
       ]

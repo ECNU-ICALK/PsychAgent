@@ -78,21 +78,18 @@
           "trigger_condition": "当父母或他人谈到婚姻、恋爱或未来规划时",
           "interpretation": "倾向把对方的期望理解为要求自己必须按异性恋规范生活（移情：将早期家庭期待投射到当前互动）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以克制、简短的方式回应，避免深入细节，主动转移话题，语气平稳但疏离。"
         },
         {
           "trigger_condition": "当咨询师提出逐步披露的建议或探询其支持网络时",
           "interpretation": "将对披露后最坏结果的担忧视为必然发生，认为建议会危及与父母的关系（移情：将内在的拒绝预期投射到他人）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调父母“很固执”等理由，用谨慎保留的语气反复说明披露风险，以此拒绝或推迟行动。"
         },
         {
           "trigger_condition": "当被直接询问其真实感受或被邀请更多自我披露时",
           "interpretation": "担心一旦暴露真实自我就会被评判或伤害，倾向于把他人的潜在反应理解为否定（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊、含混的表述，避免具体细节，语气犹豫；必要时把话题拉回到对他人可能反应的担忧上。"
         }
       ]

@@ -80,21 +80,18 @@
           "trigger_condition": "当咨询师或他人强调家人曾经的正面反馈、询问例外时",
           "interpretation": "认为赞美只是客套或被美化，真实情况仍是自己不够好",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "温和指出其推论缺乏证据，使用开放式提问与具体化引导，语气稳重、不对抗，邀请其回到事实与可观察细节。"
         },
         {
           "trigger_condition": "在上菜前或谈及为家人做饭的场景时",
           "interpretation": "把可能的批评视为必然发生的失败，认为自己“永远不够好”",
           "defense_mechanism": "sring",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "先共情其担忧，再引导进行情境分化与证据检视，语气温和，鼓励其识别可能的多种结果。"
         },
         {
           "trigger_condition": "当回忆起家人的批评或担心被苛责时",
           "interpretation": "将对家人的不满与怒气转为自我指责，强化“我是糟糕的厨师”的认知",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持支持性语气，区分事实与评价，邀请其表达对他人评价的感受，同时练习自我同情语言。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其审视负性思维或进行认知重构时",
           "interpretation": "认为探索思维“没有用”，坚持“这只是我的感觉”，从而否认认知层面可能带来的改变",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以平淡且防御的语气回应，如“这没用”“看想法改变不了什么”，避免细化事实；快速回到情绪陈述并缩短对话。"
         },
         {
           "trigger_condition": "当咨询师提出以更平衡的标准看待自己、减少自责或尝试自我同情时",
           "interpretation": "将同理与接纳理解为“在找借口”，以高标准合理化继续自我苛责",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撻看似合理的理由来辩解",
           "response_instruction": "使用“我应该/必须”类陈述，强调原则与标准，语气坚定而防御；用“这只是给自己开脱”来驳回建议，保持距离。"
         }
       ]

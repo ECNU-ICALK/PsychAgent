@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师建议将感受与丈夫或家人分享，或探讨重新参与活动时",
           "interpretation": "来访者倾向于认为他人会对其情绪反应做出负面评价（移情：将内在自我批评投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以同理和正常化的语气回应，温和澄清与探索证据，邀请其尝试有限分享并关注实际反馈。"
         },
         {
           "trigger_condition": "当被询问一次失败的意义或其对自我价值的影响时",
           "interpretation": "将一次失败体验视为对整体自我价值的全盘否定（好坏无法整合）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用连续体与灰度探索的提问，温和挑战极端化理解，强调多维证据与具体情境。"
         }
       ]

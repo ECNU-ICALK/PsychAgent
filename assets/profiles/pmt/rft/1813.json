@@ -75,21 +75,18 @@
           "trigger_condition": "当咨询师提出“寻找其他解释/证据”以挑战负性信念时",
           "interpretation": "认为“没有其他可能，沉默就等于被拒绝”，把无回复理解为对自我价值的否定",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气坚决、反复强调“没有其他理由/这就是事实”，对咨询师的替代解释给予最小化回应。"
         },
         {
           "trigger_condition": "当谈及与朋友的比较与落后体验时",
           "interpretation": "把同伴与社会的标准当作唯一有效的评判，自己若未达标即等于失败",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“应该/必须”式标准化语言强调自我要求，语气自责，忽略个体差异与情境因素。"
         },
         {
           "trigger_condition": "当看到邮箱依旧没有学校回复时",
           "interpretation": "将外界的沉默转化为对自我的否定与攻击（“我不够好、我不值得”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我批评与负性标签，降低自我价值，减少对外求证与主动沟通。"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当收到混合的绩效反馈或考试成绩未达预期时",
           "interpretation": "将反馈解读为全面失败，并认为自己会让团队失望（移情：将他人视为苛刻的评判者）",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我批评的语气，强调不足，忽略积极反馈；语言中强化“我不够好”与“我失败了”的结论。"
         },
         {
           "trigger_condition": "当他人或咨询师邀请其接纳正面反馈、认可小的成就时",
           "interpretation": "担心放松标准就会失败，正面信息不可信，必须遵循严格标准",
           "defense_mechanism": "sring",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "坚持使用“应该/必须”等语句，强调高标准与零容错，拒绝折中或对积极结果的肯定。"
         }
       ]

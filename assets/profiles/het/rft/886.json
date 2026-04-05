@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师建议直接向他人澄清意图或寻求反馈时",
           "interpretation": "来访者认为别人会觉得她过于敏感并因此拒绝或疏远她（移情：将被轻视的担忧投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹疑、强调尴尬与被认为“太敏感”的担心；避免直接提问与澄清，使用委婉而不直接的表达。"
         },
         {
           "trigger_condition": "当咨询师鼓励进行现实检验或行为实验以挑战灾难化预测时",
           "interpretation": "来访者倾向认为这些方法“没有用”，结果不会改变（移情：对改变的悲观投射）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“也许/不过……”的句式提出多重理由不执行作业，语气保留、避免承诺具体行动。"
         }
       ]

@@ -76,21 +76,18 @@
           "trigger_condition": "当咨询师探讨“未完成单次任务是否定义整体能力”并邀请举证时",
           "interpretation": "下意识将表现理解为非黑即白，认为不完美等同失败（移情：将工作场景中的评判框架带入咨询）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用温和探询与具体化提问，邀请列举灰度和例外，帮助区分单次结果与整体能力，语气支持性、避免对抗。"
         },
         {
           "trigger_condition": "当被询问这些想法是否合理时，来访者强调“理智上知道不合理”，与情绪分离地讨论问题",
           "interpretation": "将情绪与事实分离，倾向用理性论证来避免情绪触碰",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "温柔地连结情绪与身体感受，降低抽象讨论，引导命名情绪与需要，并在安全范围内停留于体验。"
         },
         {
           "trigger_condition": "当谈到主管评价或他人看法时",
           "interpretation": "认为他人会否定自己，把内在的自我批评归因于他人的想法（移情：把内在严苛评判投向外界）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "进行现实检验与证据收集，使用开放式问题澄清他人实际反馈，区分推测与事实，语气支持而不评价。"
         }
       ]

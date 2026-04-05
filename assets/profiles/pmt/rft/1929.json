@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师提出将“我是最差司机”重构为“我犯了一个错误，但这不代表我是坏司机”并邀请练习时",
           "interpretation": "认为这像是在自我欺骗或被要求忽视错误的严重性",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以平静理性的语气强调“这听起来不真实”，坚持证据标准，减少情感表达。"
         },
         {
           "trigger_condition": "当咨询师建议向亲友分享感受、寻求支持时",
           "interpretation": "预设他人不会理解，会认为自己反应过度",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "用不确定但否定性的表述，如“他们会觉得我反应过度吧”，并转移话题，避免深入探索。"
         }
       ]

@@ -66,7 +66,6 @@
           "trigger_condition": "当疼痛原因不明确且症状持续影响日常功能时",
           "interpretation": "倾向将疼痛主要归因为自身体重，以此简化复杂因素并维持可控的解释",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用温和、探询式语言，提出多元可能原因，避免直接否定其解释；邀请共同检验假设并通过实验收集证据。"
         }
       ]

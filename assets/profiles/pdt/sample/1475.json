@@ -76,14 +76,12 @@
           "trigger_condition": "当工作或他人邀请的社交活动影响既定跑步安排时",
           "interpretation": "潜意识将外界要求体验为对自我平衡的威胁，认为若不跑步就会失控",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以坚定但礼貌的语气强调必须坚持跑步，详细列出不参加社交或调整安排的理由来证明其“合理性”。"
         },
         {
           "trigger_condition": "当意识到某天无法跑步、或在咨询中被邀请探讨跑步以外的应对策略时",
           "interpretation": "将“缺席一次跑步”解读为整周全坏（移情为对控制的强烈焦虑）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化与“非黑即白”的措辞（如“完了”“全毁”），语气紧张、结论化，弱化灰度与可能性讨论。"
         }
       ]

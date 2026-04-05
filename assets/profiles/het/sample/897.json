@@ -75,14 +75,12 @@
           "trigger_condition": "当办公室对话转向宠物或其他个人话题时",
           "interpretation": "将同事体验为会像曾经的负面评论者一样贬低自己（把他人视为批判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "迅速转回工作议题，使用简短、客观的语句；避免自我披露，减少眼神接触。"
         },
         {
           "trigger_condition": "当觉察到对方表情不够热情或沉默时",
           "interpretation": "将中性的沉默/疲惫理解为对自己的轻视与嫌弃",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件分离，理智地谈论而缺乏情感反应。",
           "response_instruction": "以理性汇报工作细节，回避感受表达，用平淡语气结束谈话。"
         }
       ]

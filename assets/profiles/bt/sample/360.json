@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师邀请其关注自我照料与休息、并挑战“应该”信念时",
           "interpretation": "将关注休息体验为在降低标准，可能影响未来成功",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以理性、目标导向的方式强调效率与竞争需要，频繁使用“必须/应该”字眼，淡化或略过内疚与疲惫等情绪体验。"
         },
         {
           "trigger_condition": "谈到他人（家人、社会）对成功的期待或成为医生的目标时",
           "interpretation": "把外界标准当作唯一正确的自我要求，认为偏离即是失败",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“大家都这样”“要成为医生就得这样”的表述，语气坚决，回避探索个人需要与界限。"
         }
       ]

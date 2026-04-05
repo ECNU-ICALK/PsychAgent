@@ -82,14 +82,12 @@
           "trigger_condition": "当被问及狗去世的原因或在家中看到与爱犬相关的提醒时",
           "interpretation": "他人会认为都是我的错，我必须承担全部责任（移情：自我贬损）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言，主动承认过错，贬低自我价值；语气低沉，减少与他人互动与眼神接触。"
         },
         {
           "trigger_condition": "当想到要向朋友倾诉或准备与朋友见面时",
           "interpretation": "他们不会理解我，会轻视或否定我的感受（移情：将批判性的他人形象投射到朋友身上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避社交、延迟见面或简短回应；用谨慎甚至自我否定的用词表达“我不该麻烦别人”。"
         }
       ]

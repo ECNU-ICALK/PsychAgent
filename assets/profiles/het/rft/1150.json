@@ -74,14 +74,12 @@
           "trigger_condition": "当在咨询中谈到一次未达成钓鱼目标的经历，或被邀请回看积极方面时",
           "interpretation": "将未达成等同于被否定，担心放松标准就失去价值（移情：把内在苛刻标准投射到咨询情境）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用温和、共情的语气，先验证其失望与压力，再邀请其观察证据、区分结果与价值，避免直接反驳或评判。"
         },
         {
           "trigger_condition": "当咨询师建议降低目标压力、关注过程体验时",
           "interpretation": "体验为不坚持高标准就会变得不重要或被看轻（移情：将外界要求内摄为绝对规则）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "承认其标准的重要性，同时探索这些标准的来源与适用情境，鼓励其以自身体验为依据灵活调整规则。"
         }
       ]

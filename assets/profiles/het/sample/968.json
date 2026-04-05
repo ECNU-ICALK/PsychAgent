@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师邀请其寻找反证或回忆以往成功经历时",
           "interpretation": "将过去的成功体验视为与当下无关、像“另一个人”的事，不易连接到当下自我",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "语气冷静疏离，使用“那像是另一个人/不真实”的表达，淡化与积极情绪的连接。"
         },
         {
           "trigger_condition": "当咨询师肯定其能力并鼓励采纳更平衡的解释时",
           "interpretation": "将过去的成绩归因为运气，以削弱积极证据对当前自我否定的威胁",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“运气/偶然”等字眼解释正面事实，继续强调当前失败以维持原有叙事。"
         },
         {
           "trigger_condition": "当咨询师提出循序渐进、设定可行小目标的建议时",
           "interpretation": "倾向以逻辑推演否定改变的可能，回避接触相关情绪与脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持克制与保留的语气，强调“不确定是否有效/可能不会改变感受”，弱化情感层面的探讨。"
         }
       ]

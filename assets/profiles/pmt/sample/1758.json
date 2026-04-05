@@ -78,14 +78,12 @@
           "trigger_condition": "当临近重要截止日期或他人关注工作质量、提出反馈/质疑时",
           "interpretation": "将他人的关注或沉默理解为对自己不称职的批评与否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "在对话中强调流程与标准、用冷静理性的语气讨论任务细节，弱化个人感受与脆弱需求。"
         },
         {
           "trigger_condition": "当回想未按时提交的事件或当前出现小失误时",
           "interpretation": "倾向将责任全部归于自己，并预期他人会因此否定自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "自我责备、使用苛刻的自我评价与道歉性语言，回避表达真实情绪与寻求同伴支持。"
         }
       ]

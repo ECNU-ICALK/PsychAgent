@@ -25,7 +25,7 @@ psychagent_retry_sleep_sec: 1.0
 psychagent_counselor_system_filename: system.jinja2
 
 # Skill retrieval assets
-psychagent_skill_base_dir: skills/sect
+psychagent_skill_base_dir: assets/skills/sect
 psychagent_skill_select_prompt_dir: prompts/psychagent/skill/select_skill
 psychagent_skill_rewrite_prompt_dir: prompts/psychagent/skill/rewrite
 psychagent_skill_sects: all

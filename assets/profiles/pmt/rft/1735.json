@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师邀请其看到成功与优势，或提出积极重构与实际准备建议时",
           "interpretation": "感觉咨询师在弱化自己的问题、无法理解其失败意味着“我不够好”（移情：将过去被否定的体验带入关系）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气低沉克制，强调“技术/能力才是问题”，回避羞耻与脆弱的情绪体验；使用“也许…但…”的句式来否定积极证据，聚焦技术层面细节。"
         },
         {
           "trigger_condition": "当被鼓励向朋友寻求支持或表达自我不足时",
           "interpretation": "认为他人会看不起自己、给出负面评价（将内在的自我批评预期投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用谨慎而回避的语气，表达“他们会觉得我不专业”；减少细节披露，转而强调潜在负面后果以合理化不求助。"
         }
       ]

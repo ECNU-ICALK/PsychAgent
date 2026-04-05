@@ -71,14 +71,12 @@
           "trigger_condition": "当朋友或咨询师邀请其平衡看法、考虑作者可能只是暂时挫折时",
           "interpretation": "将他人的平衡视角理解为在淡化自己的感受，担心接受乐观观点会再次被现实打脸",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、强调逻辑与证据的语气列举“质量下滑”的例证，弱化情绪表达，回避对失望感的直接体验。"
         },
         {
           "trigger_condition": "当有人提及作者以往的优点或对其新书的积极评价时",
           "interpretation": "将这些积极反馈视为自我安慰或不可靠的个案，认为不具备参考价值",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "通过挑出负面细节与反例来解释掉积极反馈，使用“所以这只能说明他走下坡路”的句式维持负面结论。"
         }
       ]

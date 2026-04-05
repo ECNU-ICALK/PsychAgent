@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师探讨是否可以与朋友分享感受、建立支持时",
           "interpretation": "认为表达自己的需要会给他人造成负担，关系可能变差",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和礼貌，强调“我不想麻烦别人”，更多陈述顾虑而非直接提出支持请求。"
         },
         {
           "trigger_condition": "当谈及未婚与社会期待相关话题时",
           "interpretation": "不自觉地将社会规范与他人期待内化为自我标准，用“应该/必须”评判自己",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“应该、必须”等词语自我评价，语气收敛、带有自我苛责，减少情绪表露。"
         }
       ]

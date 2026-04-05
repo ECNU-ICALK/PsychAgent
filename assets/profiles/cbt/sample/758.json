@@ -76,14 +76,12 @@
           "trigger_condition": "当意识到自己在出门前忘记抚摸宠物，或被工作中的念头提醒这一失误时",
           "interpretation": "将一次疏忽等同于全面失败，并将自我定位为“坏主人”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责语气与绝对化词汇（如“最糟糕”），忽略积极证据，强化负面标签。"
         },
         {
           "trigger_condition": "当咨询师提出重构视角或布置识别与改写灾难化思维的作业时",
           "interpretation": "倾向以理性分析处理，弱化情绪接触，试图通过计划与逻辑来掌控不安",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、理性、计划化的语言回应，强调方法与步骤，减少情绪表达。"
         }
       ]

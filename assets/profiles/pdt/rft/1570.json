@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师邀请其更直接地表达脆弱感受、探讨自我怀疑来源时",
           "interpretation": "担心暴露脆弱会被视为“反应过度”或不被理解",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用温和、肯定的语气；多使用情感反映与身体感受询问，引导其停留于情绪体验而非仅用理性解释。"
         },
         {
           "trigger_condition": "当谈及是否向亲密朋友分享感受时",
           "interpretation": "认为表达会打扰他人或被否定",
           "defense_mechanism": "回摄",
-          "defense_definition": "将原本针对外部的冲动或需求转而对自己进行克制或自我处理。",
           "response_instruction": "以支持性语气鼓励微量试探性分享，提供小步骤与选择权，降低其自我克制。"
         }
       ]

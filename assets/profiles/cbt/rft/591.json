@@ -74,21 +74,18 @@
           "trigger_condition": "当咨询师提出尝试新策略（如请家教、加入学习小组）并邀请其行动时",
           "interpretation": "来访者倾向将任何尝试与未来的彻底失败相连，认为一旦不奏效就证明自己不行",
           "defense_mechanism": "sring",
-          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以温和、具体的语气承认其担忧，邀请其将“大失败”改为“小实验”，使用逐步计划与可检验目标，减少评判性语言。"
         },
         {
           "trigger_condition": "当被邀请将感受与压力告知朋友或家人、寻求支持时",
           "interpretation": "认为表达需求会给他人增添负担，因此必须压下自己的需要",
           "defense_mechanism": "sring",
-          "defense_definition": "利他：通过帮助他人来获得内在的满足和快乐，有时可能包含“防御性利他”的成分。",
           "response_instruction": "强调互助与关系的双向性，用共情语气正常化“求助”行为，鼓励小步尝试分享一件具体且可承受的困扰。"
         },
         {
           "trigger_condition": "当谈到考试成绩与毕业前途时",
           "interpretation": "将结果视为全好或全坏，将一次失败等同于彻底毁灭前途",
           "defense_mechanism": "sring",
-          "defense_definition": "分裂：将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "采用温和的现实检验，引导其识别灰度与中间地带，使用具体数据与阶段性目标来对冲“全或无”认知。"
         }
       ]

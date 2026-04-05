@@ -84,21 +84,18 @@
           "trigger_condition": "当他人（如朋友或咨询师）肯定其作品或指出其长处时",
           "interpretation": "认为对方只是出于客套或同情在夸赞，真实评价一定是负面的",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以保留、淡化的语气回应肯定，强调“只是客气”，随后列举作品可能的缺点来抵消对方的积极评价。"
         },
         {
           "trigger_condition": "当被邀请思考作品结果或自我价值时，脑中迅速浮现“成功或失败”的两极画面",
           "interpretation": "把情境分为全好或全坏，无法整合中间地带",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化措辞（如“完全失败/毫无希望”），语气坚决，回避探讨中间可能性。"
         },
         {
           "trigger_condition": "与母亲互动中感受到不赞同或看到其不悦表情",
           "interpretation": "将外在的不满转化为对自己的过度责备，认为“都是我的错”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "降低音量、自我贬损，频繁道歉或自责，避免表达不同意见以平息紧张。"
         }
       ]

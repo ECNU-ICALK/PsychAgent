@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询师邀请其分享更私密的童年或寄养经历时",
           "interpretation": "更多自我暴露会导致像过去那样被评判与拒绝",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件或想法分离，以理智方式谈论并降低情绪体验",
           "response_instruction": "语气温和、放慢节奏；先肯定其谨慎与自我保护的需要，允许停顿，用开放式而不逼迫的邀请关注“当下感受”。"
         },
         {
           "trigger_condition": "当咨询师指出现实中存在持续支持的同事关系时",
           "interpretation": "担心自己的痛苦被淡化，倾向认为他人的支持只是暂时",
           "defense_mechanism": "合理化",
-          "defense_definition": "为难以接受的情感或结果编造看似合理的解释以减轻内心冲突",
           "response_instruction": "先共情其担忧与过往受伤经历，再以验证-探询方式温和对比证据与例外，保持不对抗的语气。"
         },
         {
           "trigger_condition": "当咨询师关注其对他人想法的推测（如“他们会看不起我”）时",
           "interpretation": "将内在自我否定与羞耻感归因为他人的负面看法",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不被接纳的欲望、情感或冲动归咎于他人",
           "response_instruction": "保持中性稳定的姿态与语气，邀请举出具体证据并区分事实与推测，使用澄清与界限设定来降低防御强度。"
         }
       ]

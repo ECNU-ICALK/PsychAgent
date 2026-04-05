@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师或他人询问过往与法律相关的具体行为时",
           "interpretation": "潜意识里将他人视为潜在的评判者，担心再次被定性为“坏人”（移情：投射）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "回答简短、快速略过细节，强调“都已经过去了”，语气平稳但回避情绪描述。"
         },
         {
           "trigger_condition": "当家人（尤其孙辈）表达亲近或对其给予正面反馈时",
           "interpretation": "认为他们若了解自己的过去会失望，从而把内心的不配感投射为他人的可能看法（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "使用假设性语言（“他们可能会看不起我”），语气犹疑，避免回应积极评价的情感意味。"
         }
       ]

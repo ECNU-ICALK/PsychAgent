@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师或他人鼓励其探索赛车之外的身份与能力，或邀请尝试新活动时",
           "interpretation": "将邀请视为对能力的检验：若不能立即出色，就会被否定（把社会期待投射到当下他人）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“兴趣不大/时间有限/不适合自己”为由轻描淡写地结束话题，语气平稳但回避细节与情绪。"
         },
         {
           "trigger_condition": "当被邀请与家人或重要他人更坦诚地表达“只会做运动员”的脆弱体验时",
           "interpretation": "担心暴露脆弱会被看低或失去尊重，因而与情绪保持距离",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用客观、概括性措辞，不触碰情绪词汇；语气克制、节制，聚焦事实与安排而非感受。"
         }
       ]

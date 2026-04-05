@@ -77,21 +77,18 @@
           "trigger_condition": "当上司分配任务却未表达认可或表扬时",
           "interpretation": "将对方的沉默理解为否认自己价值，把上司体验为冷漠的评判者",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以坚定的陈述语气快速下结论，强调“你不在乎/这不重要”，回避更深入的情绪表达。"
         },
         {
           "trigger_condition": "尝试进行友好交谈却遭遇简短或不感兴趣的回应时",
           "interpretation": "将失望转向自身，认为自己不值得被关心，增强自我批评",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬低的句式（如“都是我不够好”），语气低落，减少眼神接触，缩短回应。"
         },
         {
           "trigger_condition": "当咨询师提出探索替代解释或收集证据时",
           "interpretation": "将人际困扰转化为规则与逻辑的判断，以避免接触脆弱情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用“如果…那么…”的逻辑推演与事实罗列，语气中性，尽量不触及主观情绪词。"
         }
       ]

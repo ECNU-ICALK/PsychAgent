@@ -76,14 +76,12 @@
           "trigger_condition": "当面对突发的大额维修费用或想到未来可能出现的房屋故障时",
           "interpretation": "将情境解读为即将发生的灾难，认为自己终将被压垮（将环境视作持续威胁）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑，将情绪与事件分离。",
           "response_instruction": "先以温和、共情的语气承认其压力与不安，再引导其识别情绪并进行限时、结构化的现实检验与概率评估，帮助在感受与事实之间建立桥梁。"
         },
         {
           "trigger_condition": "当想到潜在风险并预期“下一件坏事”会发生时",
           "interpretation": "相信必须提前为所有坏结果做准备，否则就会失控",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "认可其前瞻性优势，语气稳定、具体化引导其将准备聚焦在高概率、可控的小步骤，同时限制灾难化的情景演练。"
         }
       ]

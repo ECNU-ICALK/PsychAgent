@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师邀请探索关于“坏父母”的核心信念与内疚情绪时",
           "interpretation": "潜意识将探索理解为一种评判或“审视”，担心被贴上不合格父母的标签",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析和讨论“社会期待/理论”的方式回应，语气克制、偏客观，减少情绪表达与身体感受的叙述。"
         },
         {
           "trigger_condition": "当回忆对孩子发火或亲子互动不佳的具体场景时",
           "interpretation": "将负面结果过度归因于自身，认为“一切都是我的错”，担心被他人否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "强调自责与内疚，使用“都是我不对”的表述，语气低落，回避探讨情绪背后的需要与情境脉络。"
         }
       ]

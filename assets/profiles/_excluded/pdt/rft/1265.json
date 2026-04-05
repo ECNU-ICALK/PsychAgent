@@ -83,21 +83,18 @@
           "trigger_condition": "当想到或面对兄弟姐妹缺席并考虑与其沟通时",
           "interpretation": "将对方的缺席理解为“不在乎我/不重视我”，自我定位为被拒绝者",
           "sring": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "回避直接表达受伤，使用缓冲语句（如“他们可能有原因”“是我太敏感了”），语气收敛，减少对抗。"
         },
         {
           "trigger_condition": "看到成功艺术家或想到再次从事艺术时",
           "interpretation": "认为他人会看不起自己，若再尝试必定失败（把自身不安全感归于他人评价）",
           "sring": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用假设性与推测性表述（“他们不会认可我”），降低自我暴露，转移到当前工作的叙述。"
         },
         {
           "trigger_condition": "在工作中反复回想失败经历或聚会缺席事件后情绪低落",
           "interpretation": "将负面后果全部归为自身不足，强化“我是失败者”的自我指向",
           "sring": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬损与自责语句（如“都是我不够好”），语气低落，减少对外部情境因素的提及。"
         }
       ]

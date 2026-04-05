@@ -77,14 +77,12 @@
           "trigger_condition": "当需要谈及亲密关系或表达真实自我（如性取向）的话题时",
           "interpretation": "倾向将他人的沉默或玩笑理解为潜在的否定与嘲笑（移情：将过往被误解的体验投射到当前关系）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "使用客观、结构化的语言，强调步骤与策略，回避强烈情绪词；语气平稳、克制。"
         },
         {
           "trigger_condition": "当置身群体对话并担心说错话时",
           "interpretation": "将社交结果看成非黑即白：一旦说错就会被全体否定（移情：将对他人的评价放大为全局性的拒绝）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化词语（如“永远”“一定”“不可能”），坚持僵化判断；语气谨慎、回避展开。"
         }
       ]

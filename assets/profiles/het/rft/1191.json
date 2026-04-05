@@ -77,14 +77,12 @@
           "trigger_condition": "当讨论是否向朋友求助或收到社交邀请时",
           "interpretation": "认为向他人表达需求会给对方造成负担，可能引来拒绝或评判",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气礼貌但回避，重复强调“不想麻烦别人”，以委婉方式推迟或拒绝互动。"
         },
         {
           "trigger_condition": "当夜间情绪加重、咨询师邀请其识别和表达当下情感时",
           "interpretation": "将强烈的情绪体验视为危险或难以承受，担心失控",
           "defense_mechanism": "sring",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以理性、概括性的语言描述经历，降低情感色彩，避免深入到具体感受层面。"
         }
       ]

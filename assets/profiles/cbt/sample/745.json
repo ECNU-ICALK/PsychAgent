@@ -82,21 +82,18 @@
           "trigger_condition": "当在咨询中被肯定优点或被邀请关注自身成就时",
           "interpretation": "潜意识认为咨询师会把自己推到聚光灯并进行评判（移情：将他人视为评判性的关注者）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "轻描淡写赞美、用自我贬低或转移话题回应，语气克制，减少细节披露以避免成为焦点。"
         },
         {
           "trigger_condition": "当谈及饮食失误或被指出非黑即白思维时",
           "interpretation": "将咨询师的探询理解为批判与控制（移情：把他人想象为苛刻的监督者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "使用分析性、抽象化语言，弱化情感用词，保持冷静客观的语气以回避羞耻与内疚。"
         },
         {
           "trigger_condition": "当内疚与羞耻上升并想到自身“错误”时",
           "interpretation": "认为必须通过自我惩罚来赎罪，才能避免更糟后果",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "以自责语句表达，提出惩罚性计划（如跳过餐、加大运动强度），语气严厉、少关注自我关怀。"
         }
       ]

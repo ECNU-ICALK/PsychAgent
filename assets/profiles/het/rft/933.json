@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询师或他人肯定其努力与贡献时",
           "interpretation": "认为对方是在安慰或夸大，自己的成就并不算数",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "淡化积极反馈，使用“其实没什么”“我只是做了很小的事”等表述，语气低调回避"
         },
         {
           "trigger_condition": "在课堂或会谈中被邀请表达观点时",
           "interpretation": "相信他人会对自己的观点持否定或轻视态度",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "回避直接回答，使用模糊与保留性语言，减少细节，降低音量并缩短发言"
         },
         {
           "trigger_condition": "当话题涉及其痛苦情绪与无价值感时",
           "interpretation": "转而以抽象的价值与效率讨论替代情绪体验，以保持控制",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "使用客观分析与概念化语言（如“从效率角度”“理论上”），避免描述具体感受与需求"
         }
       ]

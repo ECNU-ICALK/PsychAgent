@@ -77,14 +77,12 @@
           "trigger_condition": "当孩子询问为什么爸爸妈妈不能在一起时",
           "interpretation": "将孩子的理解性提问视为对自己的责怪与否定（移情：把孩子看作审判者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以平静、理性、解释性的语气回应，强调事实与保证，尽量减少情感性自我暴露，避免谈及自责感受。"
         },
         {
           "trigger_condition": "与孩子玩耍时突然涌起内疚与悲伤的情绪",
           "interpretation": "把孩子的普通表现误读为不满或拒绝（移情：自我贬低地解读他人立场）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "降低互动热情，保持表面正常的交流，语气轻淡、简短，回避表达内心情绪。"
         }
       ]

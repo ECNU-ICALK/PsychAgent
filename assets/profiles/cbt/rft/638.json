@@ -76,14 +76,12 @@
           "trigger_condition": "当被邀请回顾错误或讨论能力不足（如会谈中探索具体失误情境）",
           "interpretation": "可能将他人/咨询师视为评判者，担心暴露不足会被看轻",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、分析性的语气描述事件，强调“压力”“技巧”等事实，淡化羞耻与脆弱感受，少用情绪词。"
         },
         {
           "trigger_condition": "在犯错后感到强烈羞耻与焦虑",
           "interpretation": "将外界可能的批评内化为自我否定，认为自己“不配/不行”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“都是我的错”“我太糟糕了”），语气低落，减少与他人的互动。"
         }
       ]

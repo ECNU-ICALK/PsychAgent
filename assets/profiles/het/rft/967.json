@@ -81,21 +81,18 @@
           "trigger_condition": "当菜品不如预期或回想“过咸的意面”失误时",
           "interpretation": "将一次失误视为自身无能与不努力的证据（把失败内化为稳定缺陷）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "使用自责、苛刻的语气评价自己，忽略积极面，强调“我不够努力/没有能力”。"
         },
         {
           "trigger_condition": "面对不完美或细微瑕疵时",
           "interpretation": "将好与坏完全分裂，非黑即白地认定“不完美=失败”",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "以绝对化措辞（如“要么完美要么失败”）回应，拒绝中间立场。"
         },
         {
           "trigger_condition": "当被询问失误原因或需要解释表现时",
           "interpretation": "以看似合理的因果推断为自我贬低辩护，如“因为我不够努力/没有自豪感所以失败”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "采用理性、冷静语气给出“努力不足”等解释，弱化情感层面的体验。"
         }
       ]

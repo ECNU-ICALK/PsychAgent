@@ -75,21 +75,18 @@
           "trigger_condition": "当他人对其工作表示赞扬或当事实显示其表现良好（如修正错误后获得表扬）",
           "interpretation": "赞扬不真实、只是运气；成功不代表能力",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "淡化或否认积极反馈，用“只是运气”之类的自我贬低措辞，语气保留、避免接受赞赏"
         },
         {
           "trigger_condition": "在植物死亡、工作出错或练习失误等挫折发生时",
           "interpretation": "把局部失败视为整体失败，将自己或情境看作“全坏”",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用极端化结论（如“我就是个失败者”），语气绝对化，否定继续尝试"
         },
         {
           "trigger_condition": "当被邀请采用更为客观的解释或被鼓励进行现实检验时",
           "interpretation": "将合理解释视为“找借口”，坚持用逻辑辩解来维持原有观点",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "偏重讨论“理由”和“理论”，减少情绪表达，以冷静、理性语气强调自己的解释"
         }
       ]

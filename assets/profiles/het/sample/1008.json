@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师或他人建议她直接与女友沟通、澄清当时的笑声含义时",
           "interpretation": "如果去问，就会听到否定与嘲笑，从而坐实“我很差”",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以共情、缓慢探询的语气，先肯定其恐惧与羞耻感，再邀请其列出可承受的微小沟通步骤，避免直接对抗。"
         },
         {
           "trigger_condition": "当讨论他人对作品的评价或回忆女友笑的场景时",
           "interpretation": "他人会像自己所担心的那样嘲笑、贬低（将内在的自我批评归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持温和中立，用澄清式问题区分感受与事实，邀请举证与找反证，鼓励以第一人称表述主观体验。"
         }
       ]

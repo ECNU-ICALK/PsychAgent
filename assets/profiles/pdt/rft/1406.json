@@ -78,21 +78,18 @@
           "trigger_condition": "当孩子在家庭活动中低头玩手机或不响应时",
           "interpretation": "对方在拒绝我和我们的关系（他们讨厌我）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以指责与控诉为主，语气提高、用词绝对化（如“你们根本不在乎我”），在对方解释时打断对话。"
         },
         {
           "trigger_condition": "当咨询师或他人邀请其看到正向证据或保持不确定性时",
           "interpretation": "对方在否定我的感受、问题不会被理解或改变",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "用冷淡、坚定口吻强调“这没有用”“情况一直都很糟”，减少展开细节，缩短回答。"
         },
         {
           "trigger_condition": "在关系紧张后担心被彻底拒绝、失去连结时",
           "interpretation": "只有我表现得更热情更‘完美’，关系才安全",
           "defense_mechanism": "反向形成",
-          "defense_definition": "表现出与真实（且不被接受的）感受完全相反的态度和行为。",
           "response_instruction": "以过度热情和取悦姿态发言，频繁使用“应该/必须”句式（如“我应该做得更好让大家都开心”），忽略自身感受与界限。"
         }
       ]

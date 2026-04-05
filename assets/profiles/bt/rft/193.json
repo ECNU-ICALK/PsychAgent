@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师或他人询问其工作与自我价值的看法，或谈到周围人的职业成就时",
           "interpretation": "将他人的关注或沉默理解为潜在的评判与轻视（移情：把自我贬价值感投射到他人眼光）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "温和而谨慎地表达不安，使用模糊语句（如“可能”“也许”）保留空间，避免直接请求支持。"
         },
         {
           "trigger_condition": "当被要求检视证据、讨论工作中的正面资源与反馈时",
           "interpretation": "将强调正面理解为忽视现实的社会污名，担心因此被视为不清醒或自我欺骗",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观数据与社会评价为主进行解释，降低情感表达，语气平稳、偏冷静。"
         }
       ]

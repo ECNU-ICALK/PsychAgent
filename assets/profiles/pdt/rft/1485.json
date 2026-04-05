@@ -82,21 +82,18 @@
           "trigger_condition": "当他人赞美其芭蕾获奖或学业表现时",
           "interpretation": "将他人的赞美理解为不真诚的客套，认为自己的成功靠运气（移情：将内在的“不配感”投射到他人的意图）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和与共情，使用开放式提问探究其努力与证据，避免直接反驳；邀请具体例子以连接实际付出与成果。"
         },
         {
           "trigger_condition": "当咨询师邀请其停留在被赞美的积极感受中",
           "interpretation": "将停留在积极体验理解为不适与危险，担心暴露“不够好”",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以低强度、循序渐进的方式邀请命名感受，使用短时停留练习与安全界限，逐步扩大对积极体验的容许度。"
         },
         {
           "trigger_condition": "在学习与生活压力增大且需要他人肯定时",
           "interpretation": "将自我价值系于高标准，认为未达完美即“不够好”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "减少抽象评判，转向具体化与当下体验的描述；鼓励识别努力的行为证据，并以温和语气连接情感与事实。"
         }
       ]

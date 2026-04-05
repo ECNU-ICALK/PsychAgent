@@ -83,21 +83,18 @@
           "trigger_condition": "当被邀请向朋友或咨询师更具体地表达负面感受与需求时",
           "interpretation": "表达负面会给他人增添负担，可能被视为爱抱怨",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "语气克制、简短回应，快速转向事实与任务细节，减少情绪用词。"
         },
         {
           "trigger_condition": "当被询问失败经历的感受、或被挑战非黑即白的解释时",
           "interpretation": "对方在评判我是否足够好，需要我给出“合理理由”证明自己不是懒惰/无能",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持平静与理性，给出看似周全的解释以转移情绪焦点，如“我只是担心影响大家”。"
         },
         {
           "trigger_condition": "当被要求停下来体会此刻的失望与挫败情绪",
           "interpretation": "直接进入情绪会失控或显得软弱",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以客观、概括性语言复述事件经过，避免触及主观感受。"
         }
       ]

@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师或他人给予积极反馈、称赞或正常化失误时",
           "interpretation": "对方只是在安慰我或敷衍，我其实做得并不好（移情：把过往被评判的经验投射到当下）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "轻描淡写地回避赞美，使用含糊词（比如“还好吧”），迅速转向缺点或错误。"
         },
         {
           "trigger_condition": "当被邀请深入谈论自我怀疑与失败经历的情绪感受时",
           "interpretation": "如果暴露脆弱会被评判或看轻（移情：把他人当作挑剔的审判者）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
           "response_instruction": "以客观叙述替代情绪表达，语气平稳，使用分析性语言回避情绪词。"
         },
         {
           "trigger_condition": "在谈及最近的失败或小失误（如菜谱失败）时",
           "interpretation": "错在我，严厉指向自己才能防止更糟（移情：内化挑剔者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "自责性表述增多，用词苛刻；若被温和对质，可能以更强烈的自我批评回应。"
         }
       ]

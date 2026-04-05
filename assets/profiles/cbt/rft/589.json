@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师邀请其检视证据、识别积极行为并设定小步改变目标时",
           "interpretation": "将改变视为对“失败者”自我标签的威胁，担心建议对自己无效，易用理性分析来淡化情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以冷静、理性分析的语气强调“这很难”“对我不现实”，减少情感表达，列举改变为何不可行的理由。"
         },
         {
           "trigger_condition": "当谈到与家人的冲突或子女的未来而想到自身局限时",
           "interpretation": "将复杂外部因素过度归因于自身不足，把焦虑转化为自责与内疚",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "以自责的语气重复“都是我的问题”“我会搞砸”，忽略他人角色与可用支持。"
         }
       ]

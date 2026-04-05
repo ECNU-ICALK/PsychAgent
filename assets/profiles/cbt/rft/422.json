@@ -75,14 +75,12 @@
           "trigger_condition": "当被建议与姐姐直接沟通、澄清信任与关系时",
           "interpretation": "来访者倾向认为直接沟通将引发更坏结果（被进一步否定与排斥）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气犹豫，使用“也许/不确定/再等等”的措辞，强调最坏可能性以证明暂缓沟通的合理性，避免做出明确行动承诺。"
         },
         {
           "trigger_condition": "当被询问是否向朋友分享并寻求支持时",
           "interpretation": "将内在的羞耻与不被接纳的担忧投射为他人会看不起自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避披露，用第三人称假设他人负面评价（如“他们会觉得我不可靠”），以此停止进一步讨论。"
         }
       ]

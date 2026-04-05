@@ -67,7 +67,6 @@
           "trigger_condition": "当收到老板的邮件或在团队会议中预期他会犯错时",
           "interpretation": "将一次错误视为其整体不称职，并认为他将持续犯错（移情：以全好/全坏的视角看待他）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用温和、探询的语气，邀请其提供具体事实与正反两面例证；避免评判，帮助其看到复杂与灰度。"
         }
       ]

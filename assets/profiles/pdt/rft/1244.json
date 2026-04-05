@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师或他人强调其成功或给予积极反馈时",
           "interpretation": "认为这些正面评价“不算数”，只是外部偶然因素导致，与自身能力无关",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静、理性语气回应，将成功归因于“运气”或“对方失误”，淡化自身贡献。"
         },
         {
           "trigger_condition": "在讨论失败或回顾未如预期的庭审表现时",
           "interpretation": "将失败内化为自身缺陷，认为这说明自己整体不行",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用高度自责的语言，放大个人过错，忽略情境或外部因素。"
         }
       ]

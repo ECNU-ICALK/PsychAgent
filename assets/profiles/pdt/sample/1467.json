@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师或他人肯定她的优势、建议将阅读视为强项时",
           "interpretation": "认为肯定并不代表对“真实自我”的了解，接受夸奖会显得不谦虚",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以平和、客观的语气强调“这只是读得多”，用事实与普遍性淡化个人价值，回避直接表达被看见与被肯定的渴望。"
         },
         {
           "trigger_condition": "当被邀请表达自豪感或直接肯定自己时",
           "interpretation": "如果表达自豪会被评价为自夸，从而被贬低或疏远",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“只是/不过/其实”等词缩小成就，强调他人也能做到，或转移话题以避免深入。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师强调现有的积极连接（如前学生来访）并邀请设定具体的社交目标时",
           "interpretation": "她认为这些连接终究不够长久，未来仍不可避免地孤独（将长期孤独视为必然）",
           "defense_mechanism": "sring",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "重复提出对长期后的担忧，使用多个‘如果……’的假设性问题，语气谨慎克制，将谈话引向风险评估与预案。"
         },
         {
           "trigger_condition": "当独自思考退休后的生活或进行未来计划时",
           "interpretation": "将自己想象为长期被孤立、无目的的老人，认为现实将按负面场景发展",
           "defense_mechanism": "sring",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "详细描述负面场景，以画面化语言铺陈‘一个人坐着’的日常，情绪浓度升高，忽略现实中的反例。"
         }
       ]

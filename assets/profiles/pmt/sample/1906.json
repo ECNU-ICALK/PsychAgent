@@ -80,21 +80,18 @@
           "trigger_condition": "当咨询师邀请其关注积极反馈与小成就（如观众赞美、已预订的演出）",
           "interpretation": "认为这些只是微不足道，放在“大局”里不算数，是自我安慰",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平静但坚持，强调“行业竞争激烈、这些不重要”，举例说明他人更成功以支持自己的判断。"
         },
         {
           "trigger_condition": "当想到向支持性朋友敞露自我怀疑与恐惧、寻求情感支持时",
           "interpretation": "担心被评判或麻烦他人，认为不应开启这类话题",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回应如“我不太谈这些”，回避细节，语气克制，话题快速转移。"
         },
         {
           "trigger_condition": "在演出前被询问对表现或前景的期待时",
           "interpretation": "把失败视为必然，认为积极期待是自欺",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "使用绝对化陈述（如“永远不会有更大的事业”），语气坚决，直接否定可能性。"
         }
       ]

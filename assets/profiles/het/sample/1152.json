@@ -77,14 +77,12 @@
           "trigger_condition": "当想到要出售土地并需要与买家进行谈判时",
           "interpretation": "潜意识将潜在买家视为会拒绝并羞辱自己的权威性评判者",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和但犹疑的语气强调“我还没准备好/这是我第一次”，将话题引向信息搜集与准备，避免承诺具体行动。"
         },
         {
           "trigger_condition": "在咖啡馆注意到衣服上有猫毛或听到顾客关于猫毛的评论时",
           "interpretation": "把顾客的中性或随口评论理解为对自身品格的负面评判与否定",
           "defense_mechanism": "抵消",
-          "defense_definition": "用象征性的行为或语言来试图抵消或弥补已经发生的、引发内疚的念头或行为。",
           "response_instruction": "迅速道歉并解释，强调“我马上处理”，同时反复使用粘毛滚清理衣物，以降低内疚与焦虑。"
         }
       ]

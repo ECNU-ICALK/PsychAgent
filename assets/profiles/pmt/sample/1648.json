@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师建议以更平衡的视角看待收藏、关注其积极面时",
           "interpretation": "潜意识将建议理解为在否认现实，担心自己的不足被忽略但仍会被评判",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用绝对化与价值标准化的措辞（如“不管怎样都不够好”），语气偏冷淡，减少情感词汇，强调逻辑与规则。"
         },
         {
           "trigger_condition": "当看到他人拥有更有价值的邮票或谈及与他人比较时",
           "interpretation": "将比较后的挫败感转向自我，认为自己整体没有价值",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责、自我贬低的语气回应（如“我就是不行”），降低自我评价，回避表达对他人的不满。"
         },
         {
           "trigger_condition": "当听到或提及关于收藏价值的外部标准与评价",
           "interpretation": "不加批判地把他人的标准视为唯一正确的准则，认为必须拥有昂贵稀有邮票才算有价值",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "引用权威或他人观点作为依据，使用“应该/必须”的语句，语气坚定，对不同观点保持排除态度。"
         }
       ]

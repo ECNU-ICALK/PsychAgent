@@ -83,14 +83,12 @@
           "trigger_condition": "当父母提到找工作或敦促其尽快独立时",
           "interpretation": "将父母体验为控制者，认为建议等于剥夺自主（移情）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "强调“工作就是控制”，用坚定的陈述句拒绝建议，迅速转移话题至电子游戏，语气坚决但避免深入讨论。"
         },
         {
           "trigger_condition": "当生活或会谈中被提及自己出现小失误（如洒咖啡）时",
           "interpretation": "认为他人会视自己为不称职，随即将负面情绪转向自我攻击",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用强烈自责语句（如“我很笨”），否定积极反馈，语气低落，减少眼神接触。"
         }
       ]

@@ -83,14 +83,12 @@
           "trigger_condition": "当想到要与母亲讨论自己的内疚与担忧，或担心这样的谈话会给母亲增加负担时",
           "interpretation": "认为表达自我感受会伤害或加重母亲的压力，因此应当保持沉默以保护她。",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和、含蓄的语气表达担忧，强调“我不想麻烦别人”，避免直接提出自身需求，转而寻求第三方（咨询师）支持。"
         },
         {
           "trigger_condition": "当父母出现争吵或紧张氛围时",
           "interpretation": "将冲突归因于自己，认为自己必须承担责任并修复局面。",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“都是我的错”），快速道歉或过度承诺取悦他人，贬低自我以求缓和局势。"
         }
       ]

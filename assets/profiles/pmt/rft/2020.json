@@ -83,14 +83,12 @@
           "trigger_condition": "当销售低迷或他人询问经营进展时",
           "interpretation": "他人会认为我不称职、我做不好",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与否定性的语气描述自己，弱化外部因素；减少表达需求，避免寻求帮助。"
         },
         {
           "trigger_condition": "与朋友相处时感到疏离但被问及近况",
           "interpretation": "如果我表达真实感受会被误解或使关系更糟",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "回避深入话题，保持表面寒暄；语气克制，简短回答，转移到中性话题。"
         }
       ]

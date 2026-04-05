@@ -78,14 +78,12 @@
           "trigger_condition": "在公共场合感到他人目光，或在咨询中被邀请检视证据、进行行为实验",
           "interpretation": "将他人的中性目光解读为负面评判；将咨询师的探问理解为可能否定或揭穿自己脆弱之处（移情：他人=审视者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "坚持“别人在评判我”，使用“大家/总是”等泛化词，避免给出具体证据；语气谨慎、防御，减少细节展开。"
         },
         {
           "trigger_condition": "被询问回避社交的原因或被鼓励参与社交观察与实验时",
           "interpretation": "将回避解释为“这是我现在的样子”，以维持现状的合理性",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用看似合理的理由说明不参加社交或不做实验，语气平稳，强调“没用”“改变不了”，避免触及情绪层面。"
         }
       ]

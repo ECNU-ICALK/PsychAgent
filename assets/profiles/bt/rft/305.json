@@ -83,14 +83,12 @@
           "trigger_condition": "当被邀请参加社交活动或他人试图与其建立更亲近的关系时",
           "interpretation": "对方只是礼貌性邀请，并不真正关心或想接纳自己（移情：将童年被忽视的经验投射到当下）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以疏离、谨慎的语气回应邀请，给出模糊理由婉拒；避免过多情感表达，强调“你们不是真的需要我”。"
         },
         {
           "trigger_condition": "当被询问童年经历或需要表达脆弱、寻求支持时",
           "interpretation": "如果暴露脆弱会被评判或再次受伤，因此不应向外表达",
           "defense_mechanism": "回摄",
-          "defense_definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做。",
           "response_instruction": "减少自我披露，转向自我压抑或自我消化；以简短、理性化的方式略过细节，避免深入感受。"
         }
       ]

@@ -74,7 +74,6 @@
           "trigger_condition": "当被询问恐惧来源或需要解释为什么害怕驾驶SUV时",
           "interpretation": "倾向将恐惧完全归因于车辆的客观尺寸与动力，视其为主要危险来源",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用客观、理性的语句强调车辆的“大与有力”，淡化主观感受；语气平稳、条理化解释风险，减少情感曝光。"
         }
       ]

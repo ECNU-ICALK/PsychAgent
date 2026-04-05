@@ -85,21 +85,18 @@
           "trigger_condition": "当谈及“被评判”的经历或他人的反馈未能立刻缓解其焦虑时",
           "interpretation": "将他人的中性或建设性反馈理解为负面评判与否定（移情：将外界视为挑剔者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以温和澄清与共情的语气，承认其感受，区分事实与解释，避免评判用语，邀请具体证据与当下体验。"
         },
         {
           "trigger_condition": "当面临“展示自己”或被要求在训练/比赛中更主动时",
           "interpretation": "若不能完美表现就会被拒绝，因此将挫败转向自我批评与自责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用支持性与具体化的提问，降低自我苛责语气，强调过程与渐进目标，鼓励识别可控小步骤。"
         },
         {
           "trigger_condition": "当被安排在替补席或讨论上场资格时",
           "interpretation": "以“替补=失败、上场=成功”的二元方式看待自己与他人",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "采用温柔的对比与整合策略，指出灰度与多维表现，邀请其同时看到优点与需要改进之处，避免绝对化词语。"
         }
       ]

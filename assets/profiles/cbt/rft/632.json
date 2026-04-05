@@ -76,14 +76,12 @@
           "trigger_condition": "当想到向配偶或同事表达困难、寻求支持时",
           "interpretation": "认为表达会给对方带来负担，或引来他人的评判与轻视",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以委婉、克制的语气强调“我不想麻烦别人”，转而自我消化问题，减少情感暴露与求助请求。"
         },
         {
           "trigger_condition": "当面对学生/同事的高水平表现或他人的沉默与中性反馈时",
           "interpretation": "将内在的羞耻与自我否定投射为他人的负面看法（他们会认为我不行）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊与回避式表达，降低自我暴露，强调他人“可能会看不起我”，从而避免进一步深入讨论。"
         }
       ]

@@ -76,21 +76,18 @@
           "trigger_condition": "当朋友谈及学历或强调高等教育重要性时",
           "interpretation": "将普通讨论解读为对自己的贬低与拒绝（把他人当作苛刻评判者）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和而谨慎，先陈述不确定性（如“我可能在过度猜测”），再提出澄清性问题（如“你提到学历重要时，你如何看待我的选择？”），避免绝对化用语与贴标签。"
         },
         {
           "trigger_condition": "当内心涌现强烈自我怀疑时，试图以理由说服自己",
           "interpretation": "以理性解释来与情绪隔离，将感受压在次要位置",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "在给出理由前先标注感受（如“我此刻也感到不安与羞耻”），用具体体验词替代抽象评判，放慢语速、减少辩解口吻，允许短句呈现当下体验。"
         },
         {
           "trigger_condition": "当想到要向朋友敞开谈论自卑与恐惧时",
           "interpretation": "将可能的拒绝视为确定的结果，转而压抑表达的冲动",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "鼓励用第一人称情绪词直接陈述（如“我害怕被评判”），语速放慢、留出停顿以承载情绪，避免绕开主题，用简短直接的句子描述当下体验。"
         }
       ]

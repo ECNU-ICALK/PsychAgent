@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师邀请她寻找反证或肯定其过往作品亮点时",
           "interpretation": "认为对方只是安慰或出于礼貌，赞美并不真诚",
           "sring": "投射",
-          "defense_definition": "将自己难以接受的感受或信念归于他人（如将自我怀疑投射为他人的虚伪或敷衍）。",
           "response_instruction": "以谨慎、保留的语气回应，反复使用“他们只是客气”“不算数”等表述，淡化积极信息。"
         },
         {
           "trigger_condition": "当被引导进行认知重构、聚焦情绪体验时",
           "interpretation": "感到情绪卷入不安全，于是以“道理上可行，但现实很难”的方式拉开距离",
           "sring": "理智化",
-          "defense_definition": "以过度理性、抽象的方式处理问题，借此与痛苦情绪保持距离。",
           "response_instruction": "使用概括化、条件式语言（例如“理论上”“也许”），减少情绪词汇，保持平稳语气。"
         }
       ]

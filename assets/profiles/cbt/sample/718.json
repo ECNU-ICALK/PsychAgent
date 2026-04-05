@@ -75,21 +75,18 @@
           "trigger_condition": "当咨询师建议与学生沟通或询问来自学生/家长的反馈时",
           "interpretation": "潜意识将自我批评投射为他人的负面评价，认为对方会看不起自己或投诉",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，强调担忧与可能的负面结果，避免直接接触与开放沟通。"
         },
         {
           "trigger_condition": "当谈及自身职业能力或错误影响时",
           "interpretation": "将对外的愤怒/失望转向自身，强化自责与内疚",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我指责的表述，贬低自我价值，重复“都是我的错”的观点。"
         },
         {
           "trigger_condition": "当被引导用证据评估一次测验的实际影响时",
           "interpretation": "以理性分析淡化情绪卷入，但无法整合强烈内疚感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调逻辑与证据、语气平稳，同时承认“感觉仍很强烈”，保持情感距离。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当同事或咨询师指出/探讨他的错误，或邀请其检视证据时",
           "interpretation": "潜意识将对方视为评判者，认为自己会被贴上“不称职”标签",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析性语气罗列流程与细节，回避谈及羞耻与恐惧的感受，用客观术语淡化情绪。"
         },
         {
           "trigger_condition": "当咨询师或同事给予正面反馈或鼓励时",
           "interpretation": "认为这些肯定不真实或只是礼貌，推断他人其实看不起自己（投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用怀疑和质疑的语气，强调他人“真正的想法”是负面的，回避接纳正面信息。"
         }
       ]

@@ -76,14 +76,12 @@
           "trigger_condition": "当朋友或同事提起其飞行兴趣、询问考试或进展时",
           "interpretation": "认为对方会像评判者一样看不起自己（移情：把自我否定投射到他人意图）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避话题、简短回答，减少眼神接触，尽量结束对话并疏远社交。"
         },
         {
           "trigger_condition": "当需要决定是否重考飞行笔试或继续飞行课程时",
           "interpretation": "将“我会再次失败”的信念当作合理理由，视继续尝试为不智之举",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静但坚定的语气强调“现在不是时候/我不适合”，用多个理由为暂停行为正当化。"
         }
       ]

@@ -77,21 +77,18 @@
           "trigger_condition": "在咨询中回顾丢护照事件或谈到未来旅行安排时",
           "interpretation": "把一次失误视为性格缺陷，认为自己必须为全部后果承担责任（移情：将外界可能的评价内化为对自我的苛责）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "以自责的语气强调自己的错误，使用绝对化词语（如“都是我的错”“我就是不负责任”），降低对情境因素的讨论比例。"
         },
         {
           "trigger_condition": "当咨询师邀请其回忆以往的负责表现、或提供替代视角时",
           "interpretation": "认为正面例证不足以抵消这次错误，倾向于把这次事件视为决定性证据",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用“这次情况特殊”“那些不说明什么”等表述来淡化正面证据，继续强调事件的严重性。"
         },
         {
           "trigger_condition": "当情绪强烈时被要求更客观地看待事件",
           "interpretation": "用抽象、逻辑化的方式与情绪保持距离（如“我理性上知道道理，但还是觉得不行”）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "用分析性语言阐述因果与逻辑，语气平稳但情感投入低，承认‘知道’却难以‘感觉到’。"
         }
       ]

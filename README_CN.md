@@ -57,6 +57,7 @@ PsychAgent 是一个面向多 session AI 心理咨询的研究型代码仓库。
 - [`src/sample/`](src/sample/)：多 session 生成主流程
 - [`src/eval/`](src/eval/)：评测编排与指标实现
 - [`src/rft/`](src/rft/)：rollout 与 reward 选优
+- [`src/web/`](src/web/)：面向体验和联调的 Web 工作台
 - [`src/shared/`](src/shared/)：共享 YAML 与文件工具
 
 如果你第一次进入仓库，推荐先看：
@@ -157,6 +158,77 @@ python -m src.rft \
 
 如果你想直接基于仓库内置画像资产运行 `rft`，可以把 `--dataset` 改成 [`configs/datasets/profiles_rft.yaml`](configs/datasets/profiles_rft.yaml)。
 
+### 4. 体验 Web 工作台
+
+如果你希望直接在浏览器中体验多 session 咨询流程，可以使用 [`src/web/`](src/web/) 下的 Web 工作台。更完整的页面说明见 [`src/web/README.md`](src/web/README.md)。
+
+推荐启动顺序如下：
+
+1. 先部署咨询师模型服务
+2. 再启动 Web 后端
+3. 最后启动前端页面
+
+咨询师模型可按下面的方式启动：
+
+```bash
+nohup python -m sglang.launch_server \
+    --model-path /path/to/psychagent-checkpoint \
+    --trust-remote-code \
+    --port 30000 \
+    --tp 8 \
+    --host 0.0.0.0 \
+    > /path/to/logs/sglang_server.log 2>&1 &
+```
+
+请将 [`configs/baselines/psychagent_sglang_local.yaml`](configs/baselines/psychagent_sglang_local.yaml) 中的 `base_url` 修改为你的模型服务地址。
+
+然后可以在项目根目录准备一个简单的 `.env.local`：
+
+```bash
+SGLANG_API_KEY=your-sglang-key
+PSYCHAGENT_EMBEDDING_API_KEY=your-embedding-key
+BACKEND_PORT=8000
+FRONTEND_PORT=5173
+BACKEND_HOST=localhost
+```
+
+在项目根目录启动：
+
+```bash
+./run_backend.sh
+./run_frontend.sh
+```
+
+默认访问地址：
+
+```text
+前端：http://localhost:5173
+后端：http://localhost:8000
+健康检查：http://localhost:8000/health
+```
+
+页面使用顺序通常是：
+
+1. 登录或注册
+2. 选择咨询流派
+3. 创建疗程
+4. 开始会谈
+5. 结束当前会谈并继续下一次
+
+下面是 Web 工作台的几个界面示意：
+
+#### 创建疗程
+
+![创建疗程](paper/web/新建疗程.png)
+
+#### 切换流派
+
+![切换流派](paper/web/切换流派.png)
+
+#### 会谈界面
+
+![会谈界面](paper/web/咨询.png)
+
 ## 配置说明
 
 三个主工作流使用的配置组合不同：
@@ -178,7 +250,7 @@ python -m src.rft \
 
 仓库当前已经包含：
 
-- [`skills/sect/`](skills/sect/) 下的初始化技能库
+- [`assets/skills/sect/`](assets/skills/sect/) 下的初始化技能库
 - [`assets/profiles/`](assets/profiles/) 下的内置画像资产
 - [`data/eval/`](data/eval/) 下的评测样例
 - `bt`、`cbt`、`het`、`pdt`、`pmt` 五种 modality 的 prompt

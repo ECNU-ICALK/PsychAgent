@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师探问父母的真实反应或建议进行现实检验时",
           "interpretation": "来访者倾向把自身的失望与内疚投射为父母的失望与否定（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用肯定句断言他人的负面想法（如“他们肯定很失望”），避免提供证据；语气不安但坚称判断，减少对细节的探究。"
         },
         {
           "trigger_condition": "当被邀请与父母进行直接沟通、澄清假设时",
           "interpretation": "将潜在的不适与尴尬视为必然结果，认为沟通只会带来更多失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "给出多个推迟沟通的理由（“现在不是合适时机”“他们不会理解”），语气谨慎、强调风险，淡化可能的积极结果。"
         },
         {
           "trigger_condition": "当咨询师要求回顾具体证据、区分事实与假设时",
           "interpretation": "将情感与事件割裂，只陈述表层信息以避免触及羞愧与内疚",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用平淡、客观的语词，仅陈述事实，不谈感受；语气冷静、情感强度低。"
         }
       ]

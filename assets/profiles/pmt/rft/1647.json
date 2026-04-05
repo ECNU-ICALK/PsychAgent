@@ -76,14 +76,12 @@
           "trigger_condition": "当讨论出版社倒闭或收到负面反馈的话题时",
           "interpretation": "来访者将外部经营失败内化为自身能力不足，并将探询视为对其能力的否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与绝对化表述（如“都是我的错”），语气压低，少谈外部因素；强调自身不够好。"
         },
         {
           "trigger_condition": "当被邀请考虑向朋友分享感受或寻求支持时",
           "interpretation": "潜意识认为他人会像评审一样拒绝或责备自己（不被理解/被要求“赶紧振作”）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以假设性语言描述他人负面意图（如“他们会让我赶紧振作”），语气犹疑，避免具体求助请求。"
         }
       ]

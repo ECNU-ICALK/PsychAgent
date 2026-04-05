@@ -77,14 +77,12 @@
           "trigger_condition": "当在咨询或自我反思中谈到“失败/错误”与其带来的情绪冲击时",
           "interpretation": "把情绪视为软弱的标志，需要用逻辑覆盖情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以客观分析的口吻描述事件与证据，减少情绪词，强调“事实/数据”，回避主观感受的表达"
         },
         {
           "trigger_condition": "当考虑向朋友透露自己的负面思维与脆弱时",
           "interpretation": "相信对方会像评判者一样看低自己（移情式的投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "用“他们会/他们可能”来泛化他人动机，转而谈论训练细节或目标，回避直接表达需要与害怕"
         }
       ]

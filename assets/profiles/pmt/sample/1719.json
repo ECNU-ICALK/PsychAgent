@@ -85,21 +85,18 @@
           "trigger_condition": "当咨询师询问“是否有证据支持无人再信任你”或提出现实检验时",
           "interpretation": "将咨询师的探索体验为质疑与潜在评判，担心暴露无能而被拒绝",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "突出最坏情境的想象，语气沉重，继续强调“毁掉名声”的担忧，暂不承认正面证据。"
         },
         {
           "trigger_condition": "在谈及与同事或学生的互动、预期他人反应时",
           "interpretation": "认为他人会把自己视为不称职（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用推测性语言（如“他们会…”），聚焦他人看法而非自我感受，语气谨慎。"
         },
         {
           "trigger_condition": "当讨论“我必须完美才能被信任”的内在标准时",
           "interpretation": "将外界的苛刻评价与规则不加批判地内化为自我要求",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "频繁使用“应该/必须”句式，强调规则与标准，语气严苛且自我限制。"
         }
       ]

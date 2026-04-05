@@ -75,14 +75,12 @@
           "trigger_condition": "当谈到经理当场纠正订单且未明确表态，或面对他人沉默/严肃表情时",
           "interpretation": "将对方的沉默解读为对自己失望，认为自己被视为无能（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和与尊重，先验证来访者的感受，再以开放式提问区分感受与证据，邀请其生成其他可能解释；避免评判与对抗。"
         },
         {
           "trigger_condition": "当反复回想错误并体验强烈羞愧时",
           "interpretation": "把本应指向情境的失望/怒气转向自身，认为“都是我的错”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用支持性与共情的语气；帮助区分外部与内部责任边界；鼓励自我同情与可行的改进计划，降低自我惩罚。"
         }
       ]

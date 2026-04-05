@@ -78,21 +78,18 @@
           "trigger_condition": "当临近部署或谈论部署导致妻子情绪波动时",
           "interpretation": "认为妻子始终对自己生气，自己正在破坏婚姻（移情：将内在自责投向关系）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言、降低自我需求表达，避免直接提出请求或议题，以缓和冲突的语气交流。"
         },
         {
           "trigger_condition": "当尝试沟通却感到没有改善或对方反应不明确时",
           "interpretation": "将对方的沉默或不确定理解为拒绝与否定，进一步确认“都是我的错”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析与事实罗列的方式谈论问题，语气克制、减少情感词汇，回避直接表达脆弱与需求。"
         },
         {
           "trigger_condition": "在分离与孤独感升高、担心关系恶化的时刻",
           "interpretation": "将无法改变的部署事实作为关系恶化的唯一原因，以此巩固“无能为力”的自我图式",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“客观原因无法改变”，弱化自身可为之处，以冷静语气结束话题或转向日常事务。"
         }
       ]

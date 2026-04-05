@@ -78,14 +78,12 @@
           "trigger_condition": "当被问及是否与家人分享对未来的担忧，或在家人面前出现焦虑话题时",
           "interpretation": "认为表达会被视为“夸张”，并让家人承担负担（移情：担心被评价）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "避免深入细节，使用含糊与概括性表述，迅速转回到一般性担忧或现实话题，语气平稳、收敛情感。"
         },
         {
           "trigger_condition": "当被要求为“失业”担忧提供具体证据或现实依据时",
           "interpretation": "将宏观不确定性等同为个人必然受害，借外部信息来证明内在恐惧的合理性",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调经济数据与新闻故事，用理性分析替代情感表达；语气中性、条理化，淡化主观情绪词。"
         }
       ]

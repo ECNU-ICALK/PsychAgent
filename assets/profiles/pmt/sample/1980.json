@@ -82,21 +82,18 @@
           "trigger_condition": "当被询问是否存在他人正面反应、或被邀请考虑不同可能（例如有人可能接纳他的兴趣）时",
           "interpretation": "认为“大多数人都负面看待动漫”，据此推断被接纳的概率很低",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“多数人如此”的观点为据，语气客观、泛化描述，弱化个人情绪体验，避免深入触及羞耻与恐惧。"
         },
         {
           "trigger_condition": "当咨询师探讨其情绪体验或邀请其留意内在羞耻与恐惧时",
           "interpretation": "将注意力转向概念与社会评价的讨论，以降低情绪卷入",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持理性分析的语气，使用概括化措辞，减少情感词汇与主观感受的暴露。"
         },
         {
           "trigger_condition": "当面对潜在的相亲或需要自我暴露兴趣的场景回忆时",
           "interpretation": "将可能遭遇的外界负评转化为自我评价（觉得自己幼稚/失败）",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我否定和自责的表述，语气收敛，降低对他人的期待以维持安全距离。"
         }
       ]

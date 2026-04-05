@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师或他人建议与朋友谈及感受、寻求支持时",
           "interpretation": "来访者担心朋友会认为自己连基本技能都不会，从而看不起自己（将自我评判投射到他人）。",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹豫，使用模糊表述（如“他们可能会觉得……”），避免承诺立即与朋友沟通，轻度回避细节。"
         },
         {
           "trigger_condition": "当被邀请回顾烹饪失败或设定具体练习目标时",
           "interpretation": "将一次失败等同于整体无能，用自我贬低的方式巩固负性自我表象。",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自我否定语句回应（如“这说明我就是没用”），语气低落，忽视或贬低积极证据。"
         }
       ]

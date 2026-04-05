@@ -75,7 +75,6 @@
           "trigger_condition": "当咨询师提出将僵化的“必须/不能”规则转化为更灵活的“愿望/偏好”时",
           "interpretation": "如果不对自己保持严格规则，就会继续犯错并失败（将灵活性理解为风险）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以谨慎而理性的语气强调“若不严格就会继续犯错”的理由，弱化情感表达，围绕规则与后果进行解释。"
         }
       ]

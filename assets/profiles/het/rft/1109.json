@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师或他人指出其在试镜中的优点/收到的正向反馈时",
           "interpretation": "倾向将他人的肯定视为客套或不算数（移情地将他人体验成“并不真正认可我”的客体）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和而具体化，邀请举证与细化情境，先共情其羞耻与失落，再温柔整合正负证据，避免对抗式反驳。"
         },
         {
           "trigger_condition": "当谈及失败、被邀请讨论下一步计划或与人联络时",
           "interpretation": "将潜在对外的愤怒/失落转为自责，认为自己不配、不该表达需求",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "先验证与命名自我批评带来的痛感，使用温柔的反映与重述帮助外化“苛责的内在声音”，鼓励以第一人称表达需要并尝试小而可行的行动。"
         }
       ]

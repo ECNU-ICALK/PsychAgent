@@ -83,14 +83,12 @@
           "trigger_condition": "当与新认识的人交流、对方沉默或表情不明确时",
           "interpretation": "将对方的沉默视为对自己的否定与贬低（“他们在看不起我”）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气局促、缩短回答，使用“他们肯定……”之类推测句式，迅速结束或转移话题，避免眼神接触。"
         },
         {
           "trigger_condition": "当被问及个人兴趣或想到自己19岁仍喜欢儿童读物时",
           "interpretation": "认为表达情感会带来羞辱，于是以思辨方式与情绪保持距离",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用客观、抽离的语气讨论“兴趣是否符合年龄规范”的一般性话题，回避谈及自己的感受与需要。"
         }
       ]

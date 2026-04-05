@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师指出其“应该”句式并邀请采用其他视角时",
           "interpretation": "感觉一旦放松“应该”标准就会失去对职业生涯的控制，担心被视为不努力",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用泛化与分析性的语言回应，例如“现实就是这样”，避免深入探讨羞耻与无助的情绪。"
         },
         {
           "trigger_condition": "当咨询师邀请回顾和肯定早期的小型成功经验时",
           "interpretation": "认为这些成功“不算数”，担心承认它们会显得自我安慰",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先简短承认，再立即以“但是项目很小/付费很少”等理由贬低其价值。"
         }
       ]

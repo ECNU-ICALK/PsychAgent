@@ -76,14 +76,12 @@
           "trigger_condition": "当谈话触及恐怖小说或观鸟，或听到他人谈论/玩笑涉及相关兴趣时",
           "interpretation": "来访者倾向认为他人正在看不起或评判自己（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "采用回避与模糊表达，减少自我暴露；语气谨慎，避免细节分享，必要时自嘲以化解尴尬。"
         },
         {
           "trigger_condition": "当出现他人中性或正面的反应（如好奇、追问）",
           "interpretation": "来访者将其理解为“表面中立，内心仍在嫌弃”，难以整合正面信息",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "轻描淡写他人的积极反馈，转而强调潜在负面可能；保持低情感强度、用谨慎措辞回避承认正向经验。"
         }
       ]

@@ -84,7 +84,6 @@
           "trigger_condition": "当咨询聚焦于“失败意味着什么”或鼓励其面对情绪体验时",
           "interpretation": "将情绪探索体验为失控与再次受挫的风险，需要以逻辑分析来保持安全与掌控",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、分析性语气回应，罗列事实与推理，减少情绪词汇与感受描述，将话题转向技术细节或证据。"
         }
       ]

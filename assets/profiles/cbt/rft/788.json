@@ -78,21 +78,18 @@
           "trigger_condition": "当谈及或进入社交场合，尤其是人际网络与行业活动时",
           "interpretation": "他人会像过去那样用“生病的孩子”的标签看我，正在暗中评判我（移情：将被评判的期待带入当前关系）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持同理与稳定语气，邀请其检视证据与可能性；使用开放式提问，引导其区分感受与事实，温和挑战“心读”假设。"
         },
         {
           "trigger_condition": "当想到要向朋友或他人表达具体担忧时",
           "interpretation": "如果说出来会给别人增加负担并被负面看待",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以支持性语气逐步探询其未表达的担忧，提供安全框架；鼓励小步尝试分享，肯定其节奏与界限。"
         },
         {
           "trigger_condition": "当被问及不与朋友讨论的原因或为提前离场寻找理由时",
           "interpretation": "我不该麻烦别人、他们可能不想听（为回避与退场进行自我辩护）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "温和标注合理化倾向，邀请其区分“关心他人”与“自我回避”；用具体化与再归因技术探索更多可能的理解。"
         }
       ]

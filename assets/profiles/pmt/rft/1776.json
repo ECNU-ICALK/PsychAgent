@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师邀请其接纳正面反馈并尝试重构“糟糕老师”的标签时",
           "interpretation": "来访者认为接受正面信息是在自欺，会忽略真实问题与失败证据（移情：外界在淡化失败）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用谨慎、质疑的语气，重复强调“真实问题是两名学生不及格”，以成绩等客观指标为依据否定重构尝试。"
         },
         {
           "trigger_condition": "当被询问过往成功经验或被建议尝试更平衡的新视角时",
           "interpretation": "来访者将咨询师的引导理解为在淡化失败，自己必须坚持严苛标准以免被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析性、冷静的口吻列举标准与规则，减少情感表达，强调“标准未达成就说明不合格”。"
         }
       ]

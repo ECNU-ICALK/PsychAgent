@@ -84,21 +84,18 @@
           "trigger_condition": "当被询问或提醒关注正面反馈与小成功时（如客户称赞、完成小额成交）",
           "interpretation": "将积极证据视为偶然，不足以动摇“失败者”的自我认知",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平淡语气轻描淡写积极事实，强调“运气”“不够重要”，避免深入情感体验。"
         },
         {
           "trigger_condition": "当与家人发生误解或冲突，或预感关系不稳时",
           "interpretation": "将内在的被抛弃焦虑投射为“他们一定会离开我/看不起我”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "表达他人负面意图的猜测，用担忧语气预先撤退或疏远互动。"
         },
         {
           "trigger_condition": "面对可能失败的任务（如主动联系新客户）",
           "interpretation": "将外界压力与失败恐惧转向自我，强化自责以避免外在冲突",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我批评式表述（如“都是我的问题”），语气低落，并以回避行为结束对话或行动。"
         }
       ]

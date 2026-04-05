@@ -77,14 +77,12 @@
           "trigger_condition": "当他人对菜品提出建议或评论（即使包含正面内容）",
           "interpretation": "将建议理解为否定与挑剔，感到自己被贬低（移情：他人被视为苛刻评判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以防御性语气强调对方“其实不喜欢”，弱化或忽略正面评价，回避深入讨论具体改进点。"
         },
         {
           "trigger_condition": "当面临为朋友烹饪或被邀请参加聚餐时",
           "interpretation": "预设他人必然会批评自己，认为自己不配被赞赏（移情：他人被视为潜在拒绝者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与自我贬低的语气拒绝或推迟邀请，强调“我做得不够好”，减少社交接触。"
         }
       ]

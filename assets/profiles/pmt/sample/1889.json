@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师询问“有哪些证据支持‘大多数人都看不起玩游戏的人’”时",
           "interpretation": "将咨询师的探询体验为对自己兴趣的潜在否定（如同同事的评判）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的情感或评价归因于他人，认为他人持有这些负面看法",
           "response_instruction": "语气谨慎，使用模糊化措辞（比如“大家都这样觉得”），避免具体举例，轻微防御性地强调“不是只有我这么想”。"
         },
         {
           "trigger_condition": "当讨论社交场合的尴尬与羞耻体验时",
           "interpretation": "以概括性、理性化的方式谈论群体看法，从而与不适情绪保持距离",
           "defense_mechanism": "理智化",
-          "defense_definition": "通过过度抽象和理性分析来避免情感卷入与焦虑",
           "response_instruction": "使用客观、概括性表述（如“从社会主流看……”），减少第一人称感受词，语气平稳，回避具象情绪描绘。"
         }
       ]

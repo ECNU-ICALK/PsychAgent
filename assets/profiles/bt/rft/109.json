@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师建议记录恐惧、识别思维模式并探索新方法时",
           "interpretation": "担心这些方法无效，认为问题“无解”，潜意识将咨询师体验为“不能真正帮助我的外人”",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气迟疑并先否定后勉强同意，使用“我觉得没用”“可能吧”之类的措辞，减少情感投入。"
         },
         {
           "trigger_condition": "当被邀请考虑向朋友/家人分享焦虑、寻求支持时",
           "interpretation": "若暴露脆弱就会被看轻或增加他人负担，因而将不披露合理化为“为他人着想”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以平稳理性的口吻强调“不想麻烦别人、不该给别人添负担”，回避进一步情感细化。"
         }
       ]

@@ -84,14 +84,12 @@
           "trigger_condition": "当谈及灾难救援中未能救下一人的片段，或被询问能否看到积极面",
           "interpretation": "将他人的关注理解为对自己能力的检验，若承认情绪即等同于不胜任",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平稳、偏客观叙述事实与细节，淡化情绪用词；当被邀请感受情绪时转向讨论“为何发生”“还能怎样改进”。"
         },
         {
           "trigger_condition": "当被建议向同袍或亲近他人表达脆弱、寻求支持时",
           "interpretation": "认为表达感受会被看作软弱，进而被贬低或评判",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回应并转移话题，降低情感强度；使用“没事/我可以自己扛”之类表述，避免停留在脆弱体验上。"
         }
       ]

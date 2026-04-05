@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师邀请他检视并挑战“我不会成为伟大厨师”的信念、或建议进行行为实验时",
           "interpretation": "来访者倾向认为改变不会发生，尝试是徒劳（移情性地将失败预期带入当前关系）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用犹豫与怀疑的语气，强调“也许”“不过”“我觉得没用”，以此弱化尝试的必要性。"
         },
         {
           "trigger_condition": "当被问及是否愿意与家人或朋友分享真实感受与担忧时",
           "interpretation": "认为他人不会理解或会评判自己（把自身的羞耻与担心归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避直接回答，使用“他们不会理解”“说出来没意义”等语句，转而结束话题。"
         },
         {
           "trigger_condition": "当听到他人肯定其烹饪或被提醒家人喜欢他的菜时",
           "interpretation": "将正面信息视为无效或不算数",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以轻描淡写或否定语句回应，如“那不一样”“那些不算”，语气冷淡，迅速换话题。"
         }
       ]

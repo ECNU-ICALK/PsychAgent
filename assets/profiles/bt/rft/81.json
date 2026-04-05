@@ -83,14 +83,12 @@
           "trigger_condition": "当他人（如咨询师或朋友）强调她的设计优势或给予正向反馈时",
           "interpretation": "潜意识里将赞美视为“并不算数”，认为缺乏编码能力会抵消一切优点",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "淡化或否认积极反馈，语气犹疑，重复强调自己“不会编码”，从而把话题拉回缺陷。"
         },
         {
           "trigger_condition": "在编码练习中遇到困难或卡住时",
           "interpretation": "将一次挫折理解为整体不适合，认为持续努力没有意义",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以“我天生不适合编码”“这样做不现实”为由解释中止练习，语气理性但带有放弃色彩。"
         }
       ]

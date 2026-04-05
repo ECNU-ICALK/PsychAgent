@@ -82,21 +82,18 @@
           "trigger_condition": "当与朋友讨论书籍、进入比较情境时",
           "interpretation": "把他人视为更优秀的评判者，认为自己不配被认可",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "倾向使用自贬语句，语气压低、避免主张观点，表达“我不如他们”。"
         },
         {
           "trigger_condition": "当咨询师或他人探询造成差异的原因时",
           "interpretation": "通过强调练习、教育差异等外在因素，将情感退居二线以获得心智上的掌控感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用客观分析的语气，列举可能因素，减少情绪词汇与主观感受的表达。"
         },
         {
           "trigger_condition": "当需要直面负性自动思维并进行认知重构时",
           "interpretation": "通过提前思考与准备未来的调整以减轻当前焦虑",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "使用前瞻性与计划性语言，设定小步目标，语气平稳且务实。"
         }
       ]

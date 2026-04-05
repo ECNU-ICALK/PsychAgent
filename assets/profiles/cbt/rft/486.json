@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师邀请其关注正面时刻或检视“绝对失败者”等标签时",
           "interpretation": "潜意识担心自己客观失败会被淡化，或被像他人一样评判（移情：他人=评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和且理性化的语气强调“我可能天生不擅长时间管理/组织”，就事论事、弱化情感表达，避免深入羞耻与恐惧。"
         },
         {
           "trigger_condition": "当被邀请将真实感受与家庭或队友分享、寻求支持时",
           "interpretation": "认为分享脆弱会被视为找借口或被看轻，从而带来拒绝和羞耻",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以中性、简短的方式仅描述安排与时间问题，避免表达“被拒绝”的内在情绪，保持距离感。"
         }
       ]

@@ -79,21 +79,18 @@
           "trigger_condition": "当咨询师提出设定更小、更可实现的目标与重构思维时",
           "interpretation": "认为小步骤“没意义/走不远”，担心被要求做无用功（将现实困难解读为必然失败）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以犹疑和质疑的语气回应，反复使用“但是”“好像也没用”，弱化建议的可行性。"
         },
         {
           "trigger_condition": "想到要向朋友谈及无聊与停滞的感受或寻求支持时",
           "interpretation": "觉得朋友不会理解自己，甚至会暗中否定（将内在担忧赋予他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避联系与自我揭露，使用简短答复或转移话题以终止可能的深入交流。"
         },
         {
           "trigger_condition": "在学习中遭遇卡点、短期看不到成效时",
           "interpretation": "将挫败理解为自我能力的失败与羞耻，内在攻击转向自身",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与否定为主的语气（如“我不适合”“我就是不行”），随后中断练习以降低焦虑。"
         }
       ]

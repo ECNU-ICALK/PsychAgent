@@ -76,28 +76,24 @@
           "trigger_condition": "当被建议与朋友分享健康担忧、寻求社会支持时",
           "interpretation": "潜意识认为朋友不会理解或在乎自己（移情：将被忽视的期待投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用含糊和保留的表达，回避承诺分享，语气谨慎，减少细节披露。"
         },
         {
           "trigger_condition": "在努力减少咖啡因和改善饮食后，短期内症状仍存在",
           "interpretation": "将现实中的波动理解为“彻底失败”，认为损伤不可逆",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化词语（如“永远”“完全”“彻底”），拒绝看到渐进改善，语气坚定否定。"
         },
         {
           "trigger_condition": "在学校或个人生活压力增大时",
           "interpretation": "认为自己对行为没有控制力，只能依赖咖啡因和垃圾食品",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“没办法”“只能这样”为由结束对替代方案的探讨，语气无奈。"
         },
         {
           "trigger_condition": "出现身体不适（疲劳、头痛、消化问题）后",
           "interpretation": "将焦虑与不满转向自我，认为一切都是自己的错",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "强化自责语句，如“都是我的错”，语气低沉，并避免指向外界因素。"
         }
       ]

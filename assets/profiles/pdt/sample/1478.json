@@ -78,14 +78,12 @@
           "trigger_condition": "当需要向朋友或他人谈论约会困境时",
           "interpretation": "他会认为对方会像评判者一样看不起自己（移情：将他人视为会否定自己）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，回避深入披露，使用含糊与概括性表述，必要时转移话题。"
         },
         {
           "trigger_condition": "在约会尝试后遭遇拒绝或冷淡回应",
           "interpretation": "对方的拒绝等同于自己有缺陷、没人会喜欢自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性的语言描述经历，强调自身不足，语气低落。"
         }
       ]

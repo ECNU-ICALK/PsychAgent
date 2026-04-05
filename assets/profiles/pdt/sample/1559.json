@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师建议与妻子分享压力与不安，或探询其羞耻感时",
           "interpretation": "将表达需要等同于“给对方添麻烦”，担心会被嫌弃或令妻子失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气克制而客观，强调“不想麻烦她/她很忙”，以讨论事实和安排代替表达感受。"
         },
         {
           "trigger_condition": "当被问及进食背后的情绪体验（如羞耻、无助）时",
           "interpretation": "将情绪体验视为危险或尴尬，认为一旦触及会失控",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "转而讨论饮食计划、卡路里或工作安排，使用理性分析语气，回避情绪词。"
         }
       ]

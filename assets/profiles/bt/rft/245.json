@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师探询被解雇的细节或尝试对其能力进行澄清与界定时",
           "interpretation": "感觉自己正在被评判，担心咨询师也认为自己不够好",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气趋于谨慎，给出笼统概述，回避关键细节，使用模糊词（例如“可能”“应该”），减少眼神接触。"
         },
         {
           "trigger_condition": "当被邀请设定具体行动（如重新练习、投递简历）并跟进执行时",
           "interpretation": "一旦行动失败就会彻底证明自己一无是处",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "提出客观限制（时间、资源）作为理由推迟行动，以平静理性的语气作长篇解释，回避当下的情绪体验。"
         }
       ]

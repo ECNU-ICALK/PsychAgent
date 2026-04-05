@@ -83,14 +83,12 @@
           "trigger_condition": "当球队失利或他人强调“过程/乐趣”价值时",
           "interpretation": "将对过程的关注理解为在粉饰失败，认为不赢就等于浪费",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气坚定，使用“应该/必须”等词，强调结果至上，否定对过程的关注。"
         },
         {
           "trigger_condition": "当被邀请回忆比赛中的积极瞬间（如精彩接球）",
           "interpretation": "正向体验不重要，输球才决定一切",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "快速淡化积极情绪，以客观叙述回避感受，随即转回失败话题。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请识别自动化思维并尝试认知重构时",
           "interpretation": "体验为对自己真实困境的最小化，担心再次被“无效建议”忽视",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以理性质疑的口吻列举过去尝试无效的经历，强调“当下没用”，语气克制但防御。"
         },
         {
           "trigger_condition": "当他人（含咨询师/配偶）提出“放松/冷静”的劝告或保持沉默倾听时",
           "interpretation": "将内在的无力与愤怒投射为“你们不理解/在否定我”的外部态度",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用泛化与指责性表述（如“你们都不懂”），提高语气力度，转向抱怨他人行为以寻求同盟。"
         }
       ]

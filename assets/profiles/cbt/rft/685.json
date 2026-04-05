@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师建议探索新的社交机会或设定具体的小目标时",
           "interpretation": "担心尝试只会证实“没有人愿意和我做朋友”，觉得自己做不到",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以谨慎、犹豫的语气强调“我不外向/很难”，弱化尝试的必要性，避免明确承诺具体行动。"
         },
         {
           "trigger_condition": "当咨询师指出其曾在大学小组项目中成功结识朋友的经验时",
           "interpretation": "将积极经验视为不适用于现在，从而降低其意义",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "轻描淡写以往成功，用“那是很久以前/不算数”等表述否定其价值，语气平淡。"
         }
       ]

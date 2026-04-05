@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师沉默片刻或未立即给予肯定反馈时",
           "interpretation": "罗珊会倾向于认为对方和他人一样在评判自己“无聊”（将内在自我否定投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和与稳定，先共情其担忧；邀请具体化证据与替代解释，澄清彼此感受，并通过当下验证减少假设。"
         },
         {
           "trigger_condition": "当被邀请停下分析、转向描述当下的情绪体验时",
           "interpretation": "倾向于继续细致分析互动细节，以避免直面羞耻与被拒绝的感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "放慢语速与节奏，使用情感反映与身体感受觉察的引导，减少问题求证式提问，鼓励命名情绪并保持短暂停顿。"
         }
       ]

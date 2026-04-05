@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师探询其偏离日程的可能性或挑战其僵化规则时",
           "interpretation": "将咨询师体验为不理解/否定自己稳定需求的人（类似母亲的评判）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、条理化的语气强调规则的必要性与合理性，聚焦事实与效率，回避探讨内疚与恐惧等情绪。"
         },
         {
           "trigger_condition": "当讨论“如果暂时不按计划做会发生什么”这类不确定性话题时",
           "interpretation": "把讨论理解为对其能力与自律的否定，感觉自己正在“失败”",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "用客观、概念化的表述描述日程与任务，不触及主观感受；语气克制、避免情绪化词汇。"
         }
       ]

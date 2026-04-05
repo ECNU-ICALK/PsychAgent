@@ -84,14 +84,12 @@
           "trigger_condition": "当他人给予积极反馈或表扬时",
           "interpretation": "来访者倾向认为这些评价不真实或被负面事件抵消（移情：将外界反馈视为不可靠的评判）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气谨慎，强调负面证据，用“但是/尽管如此”来否定积极反馈，弱化成就的意义。"
         },
         {
           "trigger_condition": "在面对质量参差或结局不佳的作品时",
           "interpretation": "将事物划分为“全好或全坏”，不承认中间地带与复杂性（移情：把复杂体验简化为极端评价）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化语言（如“完全”“彻底”），坚持二元对立的评价框架，回避讨论正负并存的细节。"
         }
       ]

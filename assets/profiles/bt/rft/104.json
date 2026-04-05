@@ -83,14 +83,12 @@
           "trigger_condition": "当被询问是否愿意向朋友分享自己的恐惧与脆弱时",
           "interpretation": "如果我说出恐惧，朋友会认为我软弱并看不起我（移情：将内在的自我评判投向他人）",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以平静克制的语气简短回应，转移话题到中性内容，避免使用情绪性词汇与细节暴露。"
         },
         {
           "trigger_condition": "当谈及攀岩风险或回忆朋友事故、焦虑升高时",
           "interpretation": "认为只有用更多事实与规则才能保持掌控与安全（移情：将不安全感投向环境并用理性与规则对抗）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用专家式、数据化语言列出安全清单与概率，语气克制、避免触及感受层面，关注“事实”和“步骤”。"
         }
       ]

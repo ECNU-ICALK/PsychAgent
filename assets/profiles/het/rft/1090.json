@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师指出正面反馈（如陌生人的称赞）或建议以更平衡的视角看待试镜时",
           "interpretation": "认为这些证据不具代表性或带有偏见，只有正式比赛评委的评价才算数",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平静但坚持，强调“只是娱乐”“他们有偏见”等理由，回避正面评价带来的情感影响。"
         },
         {
           "trigger_condition": "当谈到与他人比较或可能失败的结果时",
           "interpretation": "将比赛情境视为非成即败，若不能赢则等同失败",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用非黑即白的措辞，如“要么赢、要么没意义”，语气坚决，拒绝探讨中间可能性。"
         }
       ]

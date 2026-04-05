@@ -84,14 +84,12 @@
           "trigger_condition": "当伴侣（上司）在场观察或评价工作表现时",
           "interpretation": "将自身的羞耻与不称职感投射为对方的负面评价与审视（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气紧张、过度解释与证明自己，避免请求帮助以免显得软弱。"
         },
         {
           "trigger_condition": "当被邀请以替代视角看待“能力与完美”的关系时（例如：不必完美也可胜任）",
           "interpretation": "倾向以理性分析方式讨论问题，淡化或隔离不适情绪以维持掌控感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用理性、分析性的语句回应，降低情感强度，避免深入情绪体验。"
         }
       ]

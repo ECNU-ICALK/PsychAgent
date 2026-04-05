@@ -70,14 +70,12 @@
           "trigger_condition": "当需要向他人（如朋友）公开表达对诗歌的失败感或寻求反馈时",
           "interpretation": "他人会像评判者一样轻视或不认真对待自己（倾向将内在的担忧归因于他人意图）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用含糊与防御性的表述（如“他们会觉得我太敏感”），回避具体细节；语气克制、降低情感暴露，以保护自我。"
         },
         {
           "trigger_condition": "当被建议更开放地寻求真实反馈或向信任的人表达脆弱时",
           "interpretation": "如果表现出需要或脆弱，会被视为“绝望或依赖”，从而失去尊重",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“不想显得绝望或需要”，以理性理由拒绝深入分享；语气平稳，以逻辑为主、减少情感接触。"
         }
       ]

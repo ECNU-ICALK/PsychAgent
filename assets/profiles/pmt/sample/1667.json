@@ -79,14 +79,12 @@
           "trigger_condition": "当谈及朋友疏远的原因或被邀请进一步表达自身需求时",
           "interpretation": "认为进一步表达会显得自己过度需要、可能被轻视或拒绝",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用概括性标签（如“我们没共同点/我是老灵魂”）进行解释，语气理性克制，减少触及脆弱情感的细节。"
         },
         {
           "trigger_condition": "当表达被忽视的感受后，外界反馈不明显或未见改变",
           "interpretation": "等同为自己的需求没有价值、再沟通也没有意义",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "自责并收回表达，用“我不该麻烦别人”的句式，语气压低情感强度，减少进一步请求。"
         }
       ]

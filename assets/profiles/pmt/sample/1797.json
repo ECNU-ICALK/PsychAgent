@@ -80,21 +80,18 @@
           "trigger_condition": "当想到或被提及电影票房失败时",
           "interpretation": "将失败归结为“都是我的错”，并预期他人会因此看轻自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气温和并先行共情其自责与压力；再邀请探索其他可能因素，用开放式问题扩展证据，避免直接反驳其感受。"
         },
         {
           "trigger_condition": "为减轻不安而反复重看并技术性分析自己的镜头",
           "interpretation": "相信只要通过理性分析就能控制焦虑，避免直面羞耻与悲伤",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "放慢节奏，邀请命名当下情绪与身体感受；在保持安全的前提下短时停留于情绪再回到思考，减少立即分析的倾向。"
         },
         {
           "trigger_condition": "在与他人谈及学业/成功等敏感话题时",
           "interpretation": "担心被比较与被否定，将情绪与话题切割，选择回避或简短回应",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "确保关系安全与节制的节奏，使用温和的反映与情感标注，给予选择权，鼓励小步暴露而非强推深入。"
         }
       ]

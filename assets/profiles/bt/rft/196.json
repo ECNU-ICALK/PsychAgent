@@ -75,14 +75,12 @@
           "trigger_condition": "当谈到让他人看到她的花园或建议其向他人寻求帮助时",
           "interpretation": "他人可能会像评判者一样看不起我，暴露会带来羞耻",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "先正常化羞耻与防御，语气温和稳定；以开放式提问邀请具体化担忧来源，逐步探询“被看见”的可承受范围，并提供安全边界选择。"
         },
         {
           "trigger_condition": "当咨询师强调其成功经验（如成功种植香草）并给予肯定时",
           "interpretation": "正面反馈不可靠，成功只是偶然，不能证明我有能力",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先共情其谨慎与不确定，语速放慢；再轻柔对质，引导区分“证据”与“解释”，邀请回看具体行为与结果，帮助其承认部分成功的有效性。"
         }
       ]

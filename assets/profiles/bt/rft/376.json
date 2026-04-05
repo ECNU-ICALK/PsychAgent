@@ -76,14 +76,12 @@
           "trigger_condition": "当被问及他人对她收藏的反馈，或他人给出礼貌性赞美时",
           "interpretation": "将他人的中性或正面反馈理解为敷衍或不真诚（将内心的不认可投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹疑，反复强调“他们只是说好听的”，对正面反馈提出质疑。"
         },
         {
           "trigger_condition": "当咨询师或他人追问其不安全感的原因与意义时",
           "interpretation": "用“社会都不认可娃娃收藏”来概括原因，回避触及自身被接纳的渴望与脆弱",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以客观、泛化的口吻谈“社会观念”，减少主观情绪与需要的表达。"
         }
       ]

@@ -77,21 +77,18 @@
           "trigger_condition": "当咨询师鼓励其尝试简单食谱或讨论具体行动计划时",
           "interpretation": "若尝试失败，咨询师也会看到我的无能（担心被评判）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和、具体化，邀请回到当下情绪体验（例如“此刻你的焦虑在身体里的感觉是什么？”），减少抽象讨论，采用反映与澄清。"
         },
         {
           "trigger_condition": "当家人或咨询师谈到家庭用餐、做饭责任时",
           "interpretation": "把压力与不满内收为自责，认为一切是自己的错",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用接纳与共情语言，区分“行为与价值”，肯定努力并探讨现实可行的小步尝试，避免强化羞耻。"
         },
         {
           "trigger_condition": "当回忆烧糊意大利面的事件并以“大家都应该会做饭”为标准评判自己时",
           "interpretation": "将外界的价值与规则直接内化为自我标准，难以容纳个体差异与学习过程",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以温和探询的方式松动“应该”规则，使用重新框定与例外提问，引导识别自我与外界标准的边界。"
         }
       ]

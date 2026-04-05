@@ -76,14 +76,12 @@
           "trigger_condition": "当面临社交邀请或需要与新群体接触时",
           "interpretation": "他人最终会不想要我在身边，我会被拒绝（将对方的可能反应视为确定的负面）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静、审慎的语气说明“只是更谨慎/不想麻烦别人”，强调现实理由来解释回避，与咨询师保持表面合作但不触及更深的被拒绝恐惧。"
         },
         {
           "trigger_condition": "当想到是否向亲密朋友表达收养相关的真实感受时",
           "interpretation": "表达脆弱会导致被看轻或被拒绝，因此最好不要说",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答并转向一般性话题，语气克制，减少情绪词汇，避免描述具体的伤心或害怕内容。"
         }
       ]

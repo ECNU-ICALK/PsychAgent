@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师引导进入更严肃/更情绪化的话题或要求具体探讨责任与贡献时",
           "interpretation": "若不用幽默保护自己，就会被当场评判或暴露“无能”",
           "defense_mechanism": "幽默",
-          "defense_definition": "用诙谐的方式面对困境或化解尴尬，而不带伤害性。",
           "response_instruction": "以轻松玩笑口吻回应，转移到不相关的轻松话题，减少情绪表达与眼神接触。"
         },
         {
           "trigger_condition": "当被询问感受与内在体验，而外界信息不确定（如传闻与线索相互矛盾）",
           "interpretation": "认为必须先弄清所有事实数据，否则表达感受会显得不可靠或被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以信息罗列、数据推演的方式作答，减少主观情绪词，语气冷静、分析化。"
         }
       ]

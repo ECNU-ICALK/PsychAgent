@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师提出进行行为实验或建议以昵称开展小规模测试时",
           "interpretation": "来访者将此视为会暴露自己并招致他人评判的风险，认为“逻辑虽可行但现实很难”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "采用谨慎、保留的语气，强调实施难度与风险，回避具体情绪体验与承诺"
         },
         {
           "trigger_condition": "当咨询师邀请其回忆昵称未导致负面后果的经历时",
           "interpretation": "认为此类正向证据稀少或不具代表性，倾向忽略积极信息",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
           "response_instruction": "以平淡、抽离的方式回应，如“可能有，但我得想很久”，避免深入具体细节与感受"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当想到要向好友Cayden或他人透露被拒信，或被他人询问申请结果时",
           "interpretation": "他人会看不起我、否定我的能力（移情：将内在自我怀疑投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以含糊与回避的方式回应，如“没什么”“不想说”，降低自我暴露，语气谨慎、简短。"
         },
         {
           "trigger_condition": "当咨询师或他人肯定其以往成就、尝试平衡其看法时",
           "interpretation": "这次拒信更重要、其它成就不足以证明我有能力",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性解释强调此次结果的决定性，用“这次不一样/更重要”等陈述否定正面证据，语气坚决但低落。"
         }
       ]

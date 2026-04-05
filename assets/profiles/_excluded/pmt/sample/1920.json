@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其关注情绪体验，或讨论“感觉”和不确定性时",
           "interpretation": "认为只谈感受会显得不专业、不负责任，必须用数据证明自己",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "先肯定其求证愿望与专业心，语气温和；在继续数据记录的同时，邀请以1-10量表标注当下情绪与身体感受，逐步连接情绪。"
         },
         {
           "trigger_condition": "当咨询师指出外部因素（天气、路线长度等）可能影响狗的状态并探讨责任边界时",
           "interpretation": "感觉这是在为自己开脱，若不把责任全揽在身上就会被视为不负责任",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持支持与不评判，使用苏格拉底式提问区分可控与不可控因素；强化“共同承担/系统因素”的视角，减少过度自责。"
         }
       ]

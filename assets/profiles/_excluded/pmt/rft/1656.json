@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师邀请其设定再次尝试在朋友间讲一个小笑话的目标时",
           "interpretation": "潜意识将咨询师理解为会推动自己暴露于尴尬情境的权威者，从而预设负面结果（移情：对他人反应的负面期待）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "采用温和、支持性的语气，先承认其紧张与担忧，再将目标切分为可管理的小步，强调允许不完美与逐步尝试。"
         },
         {
           "trigger_condition": "当提到朋友可能会‘不觉得好笑’或‘评判自己’的场景时",
           "interpretation": "将内心自我批评与羞耻体验投射为他人的负面评价（认为他人必然看不起自己）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以共情性的语气温和纠偏，邀请其区分事实与推测，鼓励举证和多种可能性，避免对抗式质疑。"
         }
       ]

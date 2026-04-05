@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师或他人指出他人对其穿着的正向反馈、或询问他人真实看法时",
           "interpretation": "认为他人称赞只是出于礼貌，内心依然在贬低或嘲笑自己（移情：将内在的负面评价加诸于他人）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "语气焦虑而笃定，使用肯定句断言他人的负面意图（如“他们只是礼貌”）；对积极反馈予以解释性否定，避免讨论具体证据。"
         },
         {
           "trigger_condition": "当被问及恐惧的原因或需要描述情绪体验时",
           "interpretation": "用“社会规范与刻板印象”的抽象解释来替代对自身情绪与需求的直接感受（移情：与情感保持距离）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以客观、中性术语说明，减少情感用词；语气平稳偏疏离，强调概念性解释而非主观感受。"
         }
       ]

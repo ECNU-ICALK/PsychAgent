@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其回忆正向经验或收集客观证据时",
           "interpretation": "认为这些做法在强行乐观，无法触及“真实”的问题与风险",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以抽象、概念化的方式讨论“意义/影响力”，语气平淡，回避描述具体情绪体验。"
         },
         {
           "trigger_condition": "当开始新项目或感到他人关注其表现时",
           "interpretation": "将潜在的外部批评内化为自我攻击，认为一旦失败就证明自己无能",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "迅速自责、放大个人过错，用苛刻词语评价自己，降低与他人互动。"
         }
       ]

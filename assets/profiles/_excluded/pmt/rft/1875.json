@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其深入回忆离婚中的具体情绪体验与依恋需要时",
           "interpretation": "深入谈情绪会让自己更脆弱，可能被看作软弱或被再次伤害",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、概念化的语言描述事件经过，回避感受词汇与细节；语气平稳、偏冷静，强调“事实”和结论而非情绪。"
         },
         {
           "trigger_condition": "当话题涉及是否与朋友联络或尝试新关系时",
           "interpretation": "靠近他人意味着更大风险与痛苦，保持距离更“合理”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调工作忙、需要“先调整好状态”等正当化理由，语气平和但坚定，以回避实际接触与尝试。"
         }
       ]

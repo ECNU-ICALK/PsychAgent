@@ -78,14 +78,12 @@
           "trigger_condition": "当同事或咨询师淡化错误、给予正向反馈或肯定时",
           "interpretation": "将他人的安慰理解为不真实或不可靠，认为他们不理解真实风险",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "坚持强调最坏结果，使用绝对化（“一定”“彻底”）措辞，忽略正面证据与安慰。"
         },
         {
           "trigger_condition": "当回想起那次小失误或在工作中面临关键决策时",
           "interpretation": "把一次失误等同于全面失败与职业毁灭，以此合理化持续焦虑与自我苛责",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以“风险”“后果”作为理由不断强调最坏可能，用条理化论证来维持负面结论并回避接纳不确定性。"
         }
       ]

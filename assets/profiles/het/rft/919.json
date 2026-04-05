@@ -80,21 +80,18 @@
           "trigger_condition": "当咨询师指出过往正面反馈或邀请辨别更多证据时",
           "interpretation": "认为这次失败是决定性的证据，过去的好评并不能代表真实能力",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静但坚定的语气重复失败的原因，将放弃描述为合乎逻辑的选择，弱化过去成功的相关性。"
         },
         {
           "trigger_condition": "当被询问是否与朋友分享感受、寻求支持时",
           "interpretation": "认为朋友会不理解或看不起自己的热情，因此分享无意义且会更糟",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用谨慎、回避性的语气，强调“他们不会懂”，避免深入讨论具体关系细节。"
         },
         {
           "trigger_condition": "当被提出进行小步行为实验或尝试新项目时",
           "interpretation": "把实验视为可能再次证实自己不够好的风险而感到害怕",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "先承认害怕，语气温和，提出把任务拆分为可掌控的微目标，并请求逐步推进。"
         }
       ]

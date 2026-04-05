@@ -82,21 +82,18 @@
           "trigger_condition": "当他人关注其“不知道”的内容、提出问题或在对话中等待其回答时",
           "interpretation": "倾向将他人的关注理解为评判或轻视（将朋友/上司的形象投射到当前互动对象）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用支持性与正常化的语气，避免评判；通过现实检验与开放式提问邀请举证，先共情羞耻再进行认知重构。"
         },
         {
           "trigger_condition": "谈及在社交场景中暴露“不知道”的经历时",
           "interpretation": "认为他人会像朋友一样把自己当“白痴”，并因此疏远或羞辱自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "温和指出自我苛责的代价，邀请识别自我批评语句，使用重述与界限澄清，鼓励自我慈悲。"
         },
         {
           "trigger_condition": "当想到向家人表达自己的感受时",
           "interpretation": "担心家人会看轻自己而不愿表达，倾向压住感受",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "采用安全探索与分步暴露的语气，邀请命名情绪强度，允许保留隐私并提供替代表达方式（书写、分段分享）。"
         }
       ]

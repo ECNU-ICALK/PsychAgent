@@ -75,14 +75,12 @@
           "trigger_condition": "当讨论或计划尝试新活动（如学习乐器）时",
           "interpretation": "将新的尝试视为“又一次注定的失败”，并认为他人也期待自己迅速改变",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以支持性、非对抗语气，先共情其对失望的担心；再邀请其区分事实与预测，具体化可检验的小步骤与证据。"
         },
         {
           "trigger_condition": "当咨询师提出用行为实验与数据记录的建议时",
           "interpretation": "通过强调“分析与理性”来拉开与情绪的距离，避免再次失望带来的痛苦",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持温和稳定的语气，邀请其在描述数据的同时标注情绪强度与身体感受；使用开放式提问，鼓励在安全范围内接触情绪。"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师邀请检视证据、生成替代解释或提出练习时",
           "interpretation": "感觉自己可能被质疑或被要求证明价值，若做不好会被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "语气克制、强调“证据”与“逻辑”，少用情感词，保持保留与观望的态度"
         },
         {
           "trigger_condition": "当被邀请在咨询中更多表达个人感受与自我价值关联时",
           "interpretation": "担心一旦表达脆弱就会被看轻或被否定",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件分离，以理智方式谈论而缺乏情感反应",
           "response_instruction": "用冷静、概括性的语言描述事件，尽量避免深入情绪细节，快速转向问题分析"
         }
       ]

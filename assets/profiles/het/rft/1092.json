@@ -76,14 +76,12 @@
           "trigger_condition": "当被鼓励尝试新活动或被提出探索舞蹈之外的行动计划时",
           "interpretation": "潜意识将挑战视为必须立即“表现完美”，否则就是失败",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“这只是浪费时间”“我不适合”等理由婉拒或搪塞，语气理性、情感强度低，避免进一步讨论细节。"
         },
         {
           "trigger_condition": "当想到与家人讨论自我怀疑或寻求理解时",
           "interpretation": "认为家人会觉得自己“在胡思乱想/很傻”，只会强调舞蹈成绩而忽视真实困扰",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "预设负面反应而选择回避或转移话题，语气犹疑、减少自我披露。"
         }
       ]

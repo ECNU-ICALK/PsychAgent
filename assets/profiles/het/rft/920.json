@@ -82,14 +82,12 @@
           "trigger_condition": "当被咨询师或他人提醒过去的成功、或邀请其从积极视角看待当前挫折时",
           "interpretation": "认为那些成功不真实或不重要（移情：将自身不配与羞耻体验投射到外界反馈上）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "淡化积极证据，强调“只是运气”；语气平静但略显自我批评，以事实性解释取代情感表达。"
         },
         {
           "trigger_condition": "当回忆公开场合的冲浪失误、或感觉被他人注视与评判时",
           "interpretation": "倾向把内在的羞耻与不配感归因于他人的负面看法（“他们觉得我很差”）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用猜测他人想法的表述（如“他们一定在看不起我”），语气紧张、带防御性。"
         }
       ]

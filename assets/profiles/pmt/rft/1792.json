@@ -73,14 +73,12 @@
           "trigger_condition": "当咨询师指出其存在“个体化”倾向或邀请其探索替代观点时",
           "interpretation": "倾向认为理性分析难以改变感受，隐含地体验到“我的情绪不会被真正理解”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平静、谨慎，强调理由与逻辑，淡化情绪体验，避免深入探讨内在感受。"
         },
         {
           "trigger_condition": "当谈到顾客的负面评价或回忆被批评的具体情境时",
           "interpretation": "将顾客的偏好视为对自身整体能力与价值的全面否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定性措辞（如“我失败了”），语气低落，弱化自我价值的表达。"
         }
       ]

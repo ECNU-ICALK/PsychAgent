@@ -79,21 +79,18 @@
           "trigger_condition": "当他人（如舞蹈老师或咨询师）给予正面评价或鼓励时",
           "interpretation": "她认为对方只是出于职责或客套，并不是真心认可自己",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的结果或感受编造看似合理的理由来辩解",
           "response_instruction": "语气温和、不对抗，邀请其具体化证据；使用探询式问题帮助区分“职责性客套”与“真实反馈”，同时肯定其谨慎态度以降低防御"
         },
         {
           "trigger_condition": "在群体场景（舞蹈班、同事群体）中表现不佳或与他人比较时",
           "interpretation": "她将自我批评外推为他人会看不起自己（尽管没有直接证据）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受或冲动归因于他人",
           "response_instruction": "保持接纳与好奇的语气，邀请其区分事实与推测，鼓励列举支持与反驳证据；避免评判，使用开放式问题"
         },
         {
           "trigger_condition": "被问及是否与朋友或同事分享自己的失败与羞耻时",
           "interpretation": "认为透露脆弱会导致丢脸或被拒绝，因此尽量压下表达",
           "defense_mechanism": "压抑",
-          "defense_definition": "不自觉地将难以接受的念头或情感压入潜意识并抑制表达",
           "response_instruction": "语气轻柔、节奏放慢，优先建立安全感；邀请以小步分享可承受的片段，使用正常化与共情降低羞耻"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当被询问情绪影响或人际受损细节时",
           "interpretation": "感觉自己会被当作不可靠的人而被评判（移情：将他人视为挑剔的评判者）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和稳定，先共情其压力与羞耻感，再用开放式问题温柔探询具体感受；放慢节奏、允许停顿，避免快速给建议以免加剧其自我批评。"
         },
         {
           "trigger_condition": "当出现大量“我应该/必须……”的自我要求时",
           "interpretation": "认为只有严格遵从内在规则才能避免被否定（移情：把外界标准内化为内在评判）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以接纳的语气邀请觉察“应该”的来源，区分外在标准与自我需要；使用温和的重述与正常化，鼓励以“我需要/我选择”替代“我应该”。"
         }
       ]

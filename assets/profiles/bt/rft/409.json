@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师引导辨识并承认正面反馈或过往成就时",
           "interpretation": "潜意识认为这些正面证据“不算数”或是在粉饰现实（移情：将他人视为不可靠的安慰者）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气平静但坚持负面框架，强调负面例子来否定积极证据。"
         },
         {
           "trigger_condition": "当被邀请为新项目设定目标或采取行动时",
           "interpretation": "将未来的不确定等同于必然失败，认为开始行动会导致被否定（移情：把外界视为潜在批判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调风险与条件不完备，提出多项假设作为不行动理由，语气谨慎、审慎。"
         },
         {
           "trigger_condition": "当被询问他人如何看待其作品并探索其感受时",
           "interpretation": "假设他人会看不起自己、对作品持负面评价（移情：投射他人为批判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们会觉得……”之类的表述，语气不确定但坚信他人负面看法。"
         }
       ]

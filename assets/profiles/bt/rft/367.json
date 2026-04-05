@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师探问比赛结果还可能取决于哪些客观因素时",
           "interpretation": "通过把注意力转向客观因素来与痛苦情绪保持距离，以获得可控感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气冷静、使用中性和分析性词汇（如“因素”“概率”），减少情感词与自我表露。"
         },
         {
           "trigger_condition": "当讨论与妻子和儿子的关系受影响、情绪失控后的后果时",
           "interpretation": "将外部不可控的挫折归结为自身缺陷，以自责维持一种可控的解释",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性表述（如“都是我的错”），语气低落，弱化外部多因素影响。"
         }
       ]

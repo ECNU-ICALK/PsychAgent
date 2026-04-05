@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师提出更为平衡的替代性观点、邀请其检视支持与反证时",
           "interpretation": "来访者倾向认为放松警惕会带来严重后果，感觉咨询师低估了风险（移情：将现实中的焦虑与灾难化期待带入咨询关系）",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "坚持强调最坏情况的可能性，语气焦虑，反复强调“这不现实”“我做不到”，避免承认积极证据。"
         },
         {
           "trigger_condition": "当谈到上司与同事对错误的反应而缺乏直接证据时",
           "interpretation": "认为他人会持续盯着自己的错误并否定自己（移情：将内在的批判性投射给他人）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用揣测性语言（如“他们肯定会…”），语气不安，回避具体证据的探讨。"
         },
         {
           "trigger_condition": "在临近发送邮件时讨论可能犯错的后果与应对",
           "interpretation": "把小错等同于灾难性后果，并以过度准备来缓解焦虑",
           "defense_mechanism": "sring",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑",
           "response_instruction": "强调需要不断检查与准备，列出详细步骤以降低风险，语气谨慎而紧绷。"
         }
       ]

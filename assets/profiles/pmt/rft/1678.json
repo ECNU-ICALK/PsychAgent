@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师建议关注积极面或进行行为实验时",
           "interpretation": "认为这些做法只是安慰，无法改变“死胡同”的现实",
           "sring": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以怀疑和否定的语气回应，强调“没用”“不会改变什么”，对建议逐条挑出不足。"
         },
         {
           "trigger_condition": "当谈及上司未给予反馈或晋升时",
           "interpretation": "将被忽视和无价值的感受归因于上司的偏见或不认可",
           "sring": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "强调对方的过错，语气带有不满与控诉，减少对自身可控因素的探索。"
         }
       ]

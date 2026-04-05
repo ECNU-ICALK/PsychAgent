@@ -74,21 +74,18 @@
           "trigger_condition": "当狗在家里发生意外时",
           "interpretation": "立即将一次意外等同于训练永久失败，并将失败归因于自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我否定的语句，语气低沉，反复强调“都是我的错”。"
         },
         {
           "trigger_condition": "当咨询师引导其关注正向进步或建议记录成功时",
           "interpretation": "认为正面证据不重要或不足以改变结论，继续坚持负面判断",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "提供看似理性的解释来否定正面证据，使用冷静但坚决的语气强调“这些成功不代表什么”。"
         },
         {
           "trigger_condition": "当日程被打乱、无法按时带狗外出导致意外",
           "interpretation": "将不可控的外部干扰视为灾难，并把情绪转移到狗身上",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "提高音量责备狗，情绪激烈；随后表达内疚与自责。"
         }
       ]

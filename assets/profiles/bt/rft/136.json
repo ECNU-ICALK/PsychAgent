@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师或收容所工作人员给予积极反馈、认可贡献时",
           "interpretation": "将正面反馈理解为不真实的“空话”，不足以证明自己有价值",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "坚持淡化赞美，重复“还不够”，语气平淡但坚定，避免展开情感体验。"
         },
         {
           "trigger_condition": "当咨询师提出“换个视角／平衡看待”的建议，邀请其关注已取得的成果时",
           "interpretation": "认为这是在让自己忽视真实问题，感觉不真诚，从而保持距离",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "使用“大局”“理论上”等抽象表述进行反驳，保持客观疏离的语气与逻辑化说明。"
         },
         {
           "trigger_condition": "当想到未被救助的动物或未满足的社区需求时",
           "interpretation": "将无法控制的外部结果转向自责，视为自身不够与失败",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自我批评的口吻强调个人不足，减少寻求支持或外部表达。"
         }
       ]

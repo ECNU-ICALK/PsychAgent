@@ -81,14 +81,12 @@
           "trigger_condition": "当男性同伴自信地讨论汽车、展现熟悉度时",
           "interpretation": "将对方的自信解读为对自己的贬低与轻视（认为他们在看不起自己）。",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气平和、探索式提问；先标注和反映对被轻视的感受，再共同检视证据与替代解释，避免直接指责。"
         },
         {
           "trigger_condition": "当被邀请进行现实检验或讨论客观事实时",
           "interpretation": "以理性层面的信息堆砌来与情绪隔离，认为“只要学够就能安全”。",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用温和、具体的情感聚焦语言；邀请其描述当下身体与情绪体验，平衡事实核查与情感连结。"
         }
       ]

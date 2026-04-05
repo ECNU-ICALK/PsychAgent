@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师建议向朋友适度分享感受、测试支持系统时",
           "interpretation": "如果表达脆弱，别人会觉得我矫情或看轻我（担心被拒绝/评判）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以简短、客观的语气回应，回避细节，表示“没必要麻烦别人”，并迅速转移到训练计划或数据上。"
         },
         {
           "trigger_condition": "当咨询师肯定其将跑量提升至5英里的成就时",
           "interpretation": "夸赞可能不真实或不足以证明自己不差，避免被看穿不足",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "淡化与贬低自己的进步，使用“这不算什么”“别人都能做到”的表述，语气平淡。"
         }
       ]

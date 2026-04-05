@@ -75,14 +75,12 @@
           "trigger_condition": "当被询问或面对“失败是否能决定整体能力”的讨论与证据检视时",
           "interpretation": "倾向以理性分析与抽象化来与情绪保持距离，避免被不堪体验淹没",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和、共情与验证感受，使用开放式问题引导具体化体验，鼓励同时承认理性与情绪两方面，避免争辩与评判。"
         },
         {
           "trigger_condition": "当面临他人反馈或可能的评价（考试成绩、作业批改、同伴讨论）",
           "interpretation": "将他人与环境视为“全好或全坏”的评判者，认为自己一旦不够好就会被完全否定",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用温和探询与反映，邀请辨识灰度与复杂性，鼓励举例支持多维评价，避免强化二元化语言。"
         }
       ]

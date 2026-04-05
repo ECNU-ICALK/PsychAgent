@@ -77,14 +77,12 @@
           "trigger_condition": "当被询问是否与父亲沟通这些感受，或想到与父亲直接谈论时",
           "interpretation": "来访者潜意识将父亲视为可能的严苛评判者，担心表达会被认定为失败（移情：将内在批评投向父亲形象）",
           "defense_mechanism": "sring",
-          "defense_definition": "压抑：将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "避免深入谈及个人感受，使用含糊与简短回答，快速转换话题；语气克制，情感表达降低，尽量保持中性。"
         },
         {
           "trigger_condition": "当讨论成功与失败标准，或被邀请检视证据与替代解释时",
           "interpretation": "倾向将问题转化为事实罗列与理性分析，弱化情绪层面以避免焦虑（移情：他人的关注被解读为评估与审查）",
           "defense_mechanism": "sring",
-          "defense_definition": "理智化：使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以逻辑与条目化方式回应，列举事实与成就，淡化主观感受；语气偏理性与分析。"
         }
       ]

@@ -85,21 +85,18 @@
           "trigger_condition": "当咨询师或他人邀请其回顾成就、给予正向肯定时",
           "interpretation": "认为对方只是客气或不了解真实付出（移情：把他人体验为不理解的评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平淡、克制的语气强调“这不算什么”，突出自己的不足与付出不多，用解释淡化他人的肯定。"
         },
         {
           "trigger_condition": "当被要求尝试新的自我肯定练习或面对积极改变的可能性时",
           "interpretation": "将改变视为几乎不可能，担心被证明自己不配（移情：把咨询师的鼓励体验为施压）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "使用犹豫和怀疑的语气，频繁表示“不确定有用”，通过拖延与降低期待来回避练习的情感影响。"
         },
         {
           "trigger_condition": "在谈及与他人比较或学业压力的话题时",
           "interpretation": "把他人视为更优秀的威胁者，确信自己必然不如人（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用肯定句快速断言“他们都更好”，减少自我探究，回避讨论自身努力与优势。"
         }
       ]

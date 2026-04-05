@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师聚焦“你已经产生的影响/价值”并邀请其直接触达情绪体验时",
           "interpretation": "将探索理解为需要‘证明自己足够好’，担心被评判为不够有价值",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象、概括的表述谈论“遗产/影响”，减少情绪词汇与体验描绘，语气克制、平稳。"
         },
         {
           "trigger_condition": "当被问及是否能向丈夫表达对死亡与被遗忘的恐惧时",
           "interpretation": "担心表达脆弱会让对方困惑或造成负担，从而关系变得紧张",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以简短、轻描淡写的方式回应（如“还好”），迅速转移到日常安排或任务层面的细节。"
         }
       ]

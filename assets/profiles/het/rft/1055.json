@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师肯定其进步或优势（如领导力、速度与敏捷性的提升）",
           "interpretation": "认为这些肯定带有安慰或客套成分，不足以改变“我不如人”的事实（移情：将外界视为评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平缓但使用“但是”转折来淡化成就（如“但是别人更强”），强调他人优势，回避情绪体验与被肯定的影响。"
         },
         {
           "trigger_condition": "当被邀请聚焦自己的主观感受与自我价值，而非与他人比较",
           "interpretation": "担心直接表达自我感受会显得自满或不客观，感觉不自在",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观数据和战术分析来回应，减少情绪用词，避免谈“我感觉怎样”，以理性叙述取代情感接触。"
         }
       ]

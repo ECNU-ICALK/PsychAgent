@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师提出现实检验或重构负性思维时",
           "interpretation": "将咨询师的建议理解为对自己能力的质疑，认为“这些方法对我不起作用”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气犹疑、重复强调此前方法都不起作用，列举诸多客观理由说明无法改变，以维持既有看法。"
         },
         {
           "trigger_condition": "当咨询师邀请其深入感受与表达情绪（如焦虑、内疚）时",
           "interpretation": "将情绪表达视为会失控或影响工作，因此尽量将情绪与事件分离、回避情绪体验",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以事实与任务为主的平淡叙述，减少情感词汇与主观感受，迅速把话题转回工作细节与安排。"
         },
         {
           "trigger_condition": "当咨询师肯定其努力或能力，或探询其优势时",
           "interpretation": "将他人的肯定听成隐含的更高标准，随即自我批评“我还不够”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“我没有做够”“我让学生失望”），语气内疚，降低自我价值感。"
         }
       ]

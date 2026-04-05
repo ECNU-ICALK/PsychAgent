@@ -79,14 +79,12 @@
           "trigger_condition": "当谈及被冷淡或被拒绝的约会情境时",
           "interpretation": "倾向认为他人对自己外貌持负面评价（将他人的想法等同于对自身的否定）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气低落并自我贬低，反复强调外貌是主因，轻忽其他可能性；用肯定句下结论，减少停顿与探讨。"
         },
         {
           "trigger_condition": "当需要解释“为何关注度下降/被拒绝增加”时",
           "interpretation": "将复杂的人际互动简化为“长相不好”这一单一原因",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用看似理性的因果链条强调外貌决定一切，语气笃定，回避探讨其他证据或不确定性。"
         }
       ]

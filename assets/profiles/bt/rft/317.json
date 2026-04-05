@@ -75,14 +75,12 @@
           "trigger_condition": "当在社交或咨询中被邀请分享书籍/爱好时",
           "interpretation": "对方可能会像派对上的人一样嘲讽我（移情：将过往评判经验投射到当前关系）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "采用温和、支持性的语气，先共情其担忧与羞耻感，再以开放式问题邀请其描述具体细节；允许停顿与情绪波动，避免评判性语言。"
         },
         {
           "trigger_condition": "当他人露出不耐烦或讽刺的非言语线索（如翻白眼）",
           "interpretation": "将他人视为轻蔑的评判者，认为自己必须立即撤退以自保",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "保持稳定、低刺激的语调，先命名现场线索与感受，再轻柔邀请其辨别事实与解释的差异；鼓励以“我”的陈述表达体验。"
         }
       ]

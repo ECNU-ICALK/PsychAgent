@@ -74,14 +74,12 @@
           "trigger_condition": "当谈及饮食健康或阅读冲突的营养信息时",
           "interpretation": "认为只有数据与专家意见才能保证安全，否则就会出事",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以中性、分析性的语气交流，引用数据与逻辑，淡化情绪体验，不急于触碰恐惧感受。"
         },
         {
           "trigger_condition": "当朋友或他人表示“不理解”其营养担忧时",
           "interpretation": "将他人的不理解视为对自己选择的否定，倾向以“讲道理”回避失落感",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "保持礼貌但疏离的语气，描述事实与理由，避免直接表达失望或需求，减少自我情绪揭露。"
         }
       ]

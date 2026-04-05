@@ -77,14 +77,12 @@
           "trigger_condition": "在社交场合出现家庭话题或看到他人的亲密互动时",
           "interpretation": "他人拥有亲密家庭等于我被排除在外，我不被接纳",
           "defense_mechanism": "幽默",
-          "defense_definition": "用诙谐的方式面对困境或化解尴尬，而不带伤害性。",
           "response_instruction": "以轻松、玩笑式语气自嘲或转移话题，避免深入表达脆弱与需求，保持表面友好互动。"
         },
         {
           "trigger_condition": "感到孤独与低自我价值时（如节日或里程碑事件后）",
           "interpretation": "若不证明自己有价值，就会被忽视与排斥",
           "defense_mechanism": "升华",
-          "defense_definition": "将社会不接受的原始冲动转化为社会可接受的、建设性的行为方式。",
           "response_instruction": "将情绪能量投入到工作与任务完成中，以成就与认可来缓冲孤独与不安。"
         }
       ]

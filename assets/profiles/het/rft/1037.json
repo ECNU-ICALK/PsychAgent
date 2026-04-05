@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询中聚焦于“可能忘记喂食、没注意到生病”等失误话题时",
           "interpretation": "将失误等同于灾难性后果，把自己视为潜在加害者（移情：自我贬抑）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和且具支持性，邀请其回到具体经验与情绪感受，减少抽象解释；用开放式问题引导其描述当时的感觉与身体反应。"
         },
         {
           "trigger_condition": "当谈及向朋友分享这份恐惧或担忧他人反应时",
           "interpretation": "假定他人会认为自己奇怪或不理解（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持共情与不评判，使用澄清与验证技术；轻声鼓励其区分假设与证据，建议小步尝试分享并记录实际反馈。"
         },
         {
           "trigger_condition": "当被问到“不再养其他宠物”的选择及其理由时",
           "interpretation": "为回避行为提供看似合理的解释以缓解焦虑",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "保持中性稳定的语调，肯定其自我保护意图，同时温柔挑战其推理链条；邀请其进行成本-收益分析与现实检验。"
         }
       ]

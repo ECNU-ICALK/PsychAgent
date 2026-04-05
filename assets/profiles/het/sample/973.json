@@ -74,14 +74,12 @@
           "trigger_condition": "当被问及是否与奶奶谈论这次事件和自己的感受时",
           "interpretation": "来访者认为开口沟通会让奶奶确认自己让她失望，从而拒绝自己",
           "defense_mechanism": "回摄",
-          "defense_definition": "个体克制想对其他人或物做出某个行为的冲动，或放弃向外寻求别人为其做某事，转而对自己做",
           "response_instruction": "使用温和、验证情感的语气，减少对抗与质疑；以开放式问题邀请其逐步表达具体感受与需要，允许停顿并给出安全边界。"
         },
         {
           "trigger_condition": "当被邀请再次与奶奶一起下厨、进行行为实验时",
           "interpretation": "来访者认为再次下厨必然失败，并会让奶奶更加失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先共情其紧张与担忧，再引导其区分“假设”与“证据”；采用小步推进与具体化任务，鼓励记录实际反应以修正预期。"
         }
       ]

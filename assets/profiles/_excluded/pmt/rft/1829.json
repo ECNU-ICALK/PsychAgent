@@ -76,14 +76,12 @@
           "trigger_condition": "当谈及父母对其职业的看法或回忆家庭聚会被讨论职业的情境时",
           "interpretation": "来访者倾向将自身的失败感投射为父母的负面评价，认为他们不可能认可自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以父母负面看法作为既定事实陈述，语气谨慎而偏消极；对证据式提问保持怀疑，回避直接确认。"
         },
         {
           "trigger_condition": "当咨询师建议通过证据式提问与重构思维来改变认知时",
           "interpretation": "将改变视为不太可能，倾向以理性怀疑弱化情感卷入",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以理性怀疑的语气提出“这是否有效”，减少情感表达，倾向讨论逻辑而非主观感受。"
         }
       ]

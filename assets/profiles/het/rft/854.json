@@ -85,21 +85,18 @@
           "trigger_condition": "当谈及或回想起负面反馈、作品被批评或不被喜欢时",
           "interpretation": "将他人的建设性反馈体验为对自我价值的全面否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责和道歉式语言，反复强调“都是我的错”，忽视情境与多元原因。"
         },
         {
           "trigger_condition": "在演出前或会谈中讨论潜在观众反应时",
           "interpretation": "把内在的自我怀疑与苛刻评判归于观众，假定他人会贬低自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用“他们会讨厌我/觉得我不行”等句式，固着于他人心态的臆测，回避探索自身真实需要与界限。"
         },
         {
           "trigger_condition": "当被邀请辨别事实与评价、或被引导注意积极反馈时",
           "interpretation": "自动把外界高标准与他人评价内化为必须遵循的绝对规则",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用“我必须/应该……”等规则化语言，坚持完美标准，难以接纳灰度与弹性。"
         }
       ]

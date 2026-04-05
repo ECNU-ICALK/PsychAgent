@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师或他人肯定其表现、给予表扬时",
           "interpretation": "将赞美理解为不真实或不重要（移情：将他人想象为苛刻评判者，赞美只是客套）",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "轻描淡写地回避赞美，转而强调瑕疵；语气克制，带自我批评色彩。"
         },
         {
           "trigger_condition": "当被邀请表达脆弱或谈论自我怀疑（如与队友/咨询师沟通感受）",
           "interpretation": "担心一旦暴露脆弱就会被视为软弱并遭评判",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "对情绪话题简短回应，迅速转向训练数据与技术细节；语气理性、平稳。"
         },
         {
           "trigger_condition": "当回顾比赛中的单次失误时",
           "interpretation": "将团队失分的责任过度归咎于自己，并据此否定整体能力",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "使用自责性表述（如“都是我的错”），忽视客观团队与情境因素；语气坚决、苛责。"
         }
       ]

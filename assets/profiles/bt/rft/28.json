@@ -76,14 +76,12 @@
           "trigger_condition": "当被邀请分享内心感受、或被建议向家人/朋友表达困扰时",
           "interpretation": "担心脆弱会被轻视或不被理解，表达情绪可能带来负面评价",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平稳克制，侧重讲事实与分析，淡化或绕开主观情绪体验。"
         },
         {
           "trigger_condition": "当面对做饭或钓鱼的失败与他人可能的评价时",
           "interpretation": "将外界可能的负面评价内化为对自我的否定（“都是我不行”）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与道歉的语气，降低自我价值，回避表达对他人不满。"
         }
       ]

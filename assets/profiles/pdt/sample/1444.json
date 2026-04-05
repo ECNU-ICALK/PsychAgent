@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师关注其成就、邀请其识别优势或给予正向反馈时",
           "interpretation": "认为正向反馈“不算数”或担心被期待、被揭穿“其实不够好”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和并验证感受，避免对抗式说服；采用开放式提问与具体化技术，邀请举例其实际成就与证据；慢速、留白，帮助其停留在被肯定的体验。"
         },
         {
           "trigger_condition": "当谈到是否向母亲或朋友表达自我怀疑、寻求支持",
           "interpretation": "表达脆弱会被视为软弱、可能被看低或拒绝",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "保持共情与安全氛围，使用温和邀请式语言；允许其按可承受的节奏分享，强调选择权与自我主导。"
         }
       ]

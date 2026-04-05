@@ -84,21 +84,18 @@
           "trigger_condition": "当与父母或他人谈及司法考试失利与职业发展时",
           "interpretation": "将对方体验为评判者，认为自己会被看作不够好（移情：被评判）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以事实性、简短的回答回避情感表达，快速转移话题，降低目光接触。"
         },
         {
           "trigger_condition": "当被邀请或被提醒参与垒球活动时",
           "interpretation": "认为他人忽视风险、自己若参与必将受伤",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性化措辞（如“风险/成本不成比例”）礼貌而坚定地拒绝。"
         },
         {
           "trigger_condition": "当看到同侪的职业进展并不由自主地进行比较时",
           "interpretation": "把挫折理解为自身核心缺陷，认为一切都是“我不行”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与绝对化语言（如“都是我不好”），降低自我肯定与求助意愿。"
         }
       ]

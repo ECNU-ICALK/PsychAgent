@@ -82,21 +82,18 @@
           "trigger_condition": "当谈及侄子的考试/未来或被询问其依据与证据时",
           "interpretation": "将单次失败视为整体失败，认为只有持续施压与控制才能避免灾难",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“教育在家庭里很重要”“我必须负责”等理性陈述为施压与控制寻找正当性，语气坚定但保持礼貌。"
         },
         {
           "trigger_condition": "当想到要与兄长谈及自己的焦虑与担忧时",
           "interpretation": "认为开口会麻烦对方、可能被评价不堪，因此选择独自承受",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式语言（如“都是我太敏感”）降低表达需求与求助意愿；语气克制，避免提出具体请求。"
         },
         {
           "trigger_condition": "在面对侄子学习吃力、自己感到强烈焦虑时",
           "interpretation": "把家庭的价值观与期望完全内化为个人义务，必须立即干预",
           "defense_mechanism": "sring",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以“应该/必须”句式表达对自己和侄子的要求，快速进入指令/监督模式，减少情感探询。"
         }
       ]

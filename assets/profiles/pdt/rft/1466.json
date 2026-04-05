@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师邀请深入探索自动化思维与核心假设时",
           "interpretation": "担心暴露“无能”会被评判，或认为过度探讨会证实自己的不足",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静克制、分析性的语气回应，更多讨论“方法是否有效/是否可行”，减少情绪词汇与自我暴露。"
         },
         {
           "trigger_condition": "当被鼓励分享更私密、带有羞耻感的经历（如被取笑）",
           "interpretation": "将内在对自我价值的负面评价投射到咨询师，感觉对方也会看轻自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊与保留的表达，降低自我暴露强度，语气犹豫，强调“这只是小事、不值得说”。"
         }
       ]

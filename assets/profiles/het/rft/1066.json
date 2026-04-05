@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师邀请其将“独立”转化为具体行动（制定预算/时间线）时",
           "interpretation": "潜意识将此理解为“必须完美准备，否则会失败”，因此暂时不宜行动",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以谨慎、分析性的语气强调需要更多信息与完备计划，避免直接承诺行动。"
         },
         {
           "trigger_condition": "当谈及工作中的暗恋对象与他人交往、触及被拒绝与失望的感受时",
           "interpretation": "将失望内化为“都是我不够好”，把外向的失落与愤怒转向自我批评",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "使用带内疚色彩的自责语句，降低自我价值，回避表达对他人的不满。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当收到作业反馈的批评或拿到不够完美的成绩时",
           "interpretation": "倾向将他人视为挑剔的评判者，认为他们把自己当作失败者（移情：将外界评价放大为否定）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与贬低自我的语气，强调自身不足；避免谈及外部因素与他人责任，降低自身期望以缓冲挫败感。"
         },
         {
           "trigger_condition": "当被询问负面想法的依据与证据、需要面对情绪时",
           "interpretation": "倾向以成绩与比较数据来说明问题，从而与羞耻与焦虑保持距离",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、客观的分析语气回应，列举成绩与同伴差异，尽量减少情绪词与主观感受的表达。"
         }
       ]

@@ -91,21 +91,18 @@
           "trigger_condition": "当浏览社交媒体、看到他人“完美家居/完美母亲”形象时",
           "interpretation": "潜意识将自身的自我苛责与不足感投射为“他人在评判我、我不够好”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以自我怀疑与防御性的语气表达（如“他们一定觉得我不行”），强调他人目光，回避谈及自身实际证据。"
         },
         {
           "trigger_condition": "当被邀请从不同视角看待事件、或被指出他人并未不满时",
           "interpretation": "用抽象与理性化语言（如“理论上我知道”）与情感分离，避免直面内疚与羞耻",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用“理论上/按理说”等抽象措辞，降低情感色彩，保持克制与冷静的表述，避免触及核心情绪体验。"
         },
         {
           "trigger_condition": "当意识到自己未满足自定的“应该”标准（如家务未及时完成）",
           "interpretation": "将外界的完美期待未经消化地内化为绝对准则，以自责维持安全感与控制感",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "反复使用“我应该/必须”句式，语气严格、苛责自己，强调规则与标准而非现实情境的复杂性。"
         }
       ]

@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师探询其是否愿意与乐队伙伴沟通并获得真实反馈时",
           "interpretation": "来访者认为他人会证实自己“不够好”，将内在的否定感归于他人的想法（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以温和、支持的语气，先共情其担忧，再用开放式问题引导其区分“担心”与“事实”，邀请其考虑小步尝试获取现实反馈。"
         },
         {
           "trigger_condition": "当回顾“一次错误意味着整体失败”的观点时",
           "interpretation": "把一次失误等同于全面失败，将自我与表现以全好/全坏的方式理解（移情：分裂）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "保持稳定、不评判的语气，使用澄清与对比提问，协助其同时看到优点与不足，逐步引入更整合的视角。"
         }
       ]

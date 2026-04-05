@@ -82,21 +82,18 @@
           "trigger_condition": "当母亲的成功被谈论或被公众认可时",
           "interpretation": "认为自己被比较与否定，他人会以外在成就衡量我的价值",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "采用自我批评与自我贬低的语气，减少主动表达需求，简短回应并避免眼神接触。"
         },
         {
           "trigger_condition": "当考虑向朋友倾诉不足感与自我怀疑时",
           "interpretation": "推测朋友会认为自己在抱怨或荒唐（将自身羞耻感归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用推测他人想法的表述（如“他们会觉得…”），语气犹疑，用回避性句式结束话题。"
         },
         {
           "trigger_condition": "在工作中被质疑或发生错误时",
           "interpretation": "以一次错误全盘定义自我（将自己看作“全坏”）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化词语（如“总是/从不”）描述自己，语气低落并拒绝讨论细节或灰度。"
         }
       ]

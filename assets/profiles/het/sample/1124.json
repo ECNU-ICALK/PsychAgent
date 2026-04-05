@@ -85,21 +85,18 @@
           "trigger_condition": "在社交场合看到幸福情侣时",
           "interpretation": "认为这证明自己不可能拥有这样的幸福（自我与他人的好坏分化倾向）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用简短、客观的描述，降低情绪词汇，避免深入讨论自身感受。"
         },
         {
           "trigger_condition": "当想到向朋友谈及对孤独的恐惧时",
           "interpretation": "相信朋友会觉得自己很可悲（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用假设性语言（如“他们可能会……”），避免直接表达需求或请求支持。"
         },
         {
           "trigger_condition": "在独处的夜晚被焦虑淹没时",
           "interpretation": "感到若不把注意力转移就会崩溃，需迅速压下不适情绪",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "迅速转换话题到日常活动（游戏、烹饪），弱化负面情绪的细节表达。"
         }
       ]

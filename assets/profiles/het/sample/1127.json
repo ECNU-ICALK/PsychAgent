@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其回顾成功经验或接纳正向反馈时",
           "interpretation": "将积极证据归因为偶然或外部因素，担心因此被期待更高，倾向否定其价值",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "轻描淡写积极反馈，强调“只是运气/不代表什么”；语气保留、略显不自信，避免长时间停留在积极细节。"
         },
         {
           "trigger_condition": "当咨询师建议与同事沟通或寻求支持时",
           "interpretation": "将求助理解为给他人添麻烦或暴露无能，从而转而苛责自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用“我自己忍着就好/不该麻烦别人”等表述，语调降低并回避目光接触，快速结束该话题。"
         }
       ]

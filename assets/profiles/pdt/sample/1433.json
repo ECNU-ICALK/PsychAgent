@@ -75,21 +75,18 @@
           "trigger_condition": "当男友关心地询问“是否有问题”或注意到她的变化时",
           "interpretation": "如果承认困扰，对方会觉得自己麻烦、能力不足",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以轻描淡写的语气说“我没事”，迅速换话题，避免深入讨论。"
         },
         {
           "trigger_condition": "当出现婚姻话题或被期待展示家务/烹饪能力时",
           "interpretation": "对方会像评判者一样挑错并否定我",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "语气谨慎、含糊其辞，强调“现在不方便谈”，把不安归因于对方可能的反应。"
         },
         {
           "trigger_condition": "当被邀请探讨失误背后的情绪与需要（例如在咨询中聚焦烤糊事件）",
           "interpretation": "表达脆弱会暴露无能并带来失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "用客观理由解释（如“只是时间把握不好”），淡化情绪色彩，避免谈羞耻与恐惧。"
         }
       ]

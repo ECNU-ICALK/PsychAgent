@@ -83,14 +83,12 @@
           "trigger_condition": "当需要在群体场合自我介绍或被多人注视时",
           "interpretation": "他人正在审视并否定我（把内在的严苛评判投射到他人身上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用防御性语气与绝对化措辞（如“大家都觉得……”），缩短互动、尽快结束谈话或寻找离场理由。"
         },
         {
           "trigger_condition": "当想到向朋友寻求帮助或他人提出愿意支持时",
           "interpretation": "如果求助会成为负担，别人可能不愿意或会看轻我",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以委婉但坚定的方式拒绝他人帮助，反复强调“我不该麻烦别人”，回避进一步探讨支持的具体方式。"
         }
       ]

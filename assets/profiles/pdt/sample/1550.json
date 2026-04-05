@@ -80,14 +80,12 @@
           "trigger_condition": "当朋友或同学成为潜在的倾诉对象、被邀请讨论失败感与自我怀疑时",
           "interpretation": "担心暴露脆弱会被看轻或被评判为“愚蠢”",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "避免深入表达情绪，使用简短、含糊的回答，转移话题至学业细节，保持克制的语气。"
         },
         {
           "trigger_condition": "当面对正式考试或被要求以分数评估能力时",
           "interpretation": "将考试视为唯一且决定性的评价者，从而回避面对羞耻与恐惧",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调“标准、测量、客观性”等词汇，以分析性的语气讨论考试难度，回避谈论羞耻与恐惧。"
         }
       ]

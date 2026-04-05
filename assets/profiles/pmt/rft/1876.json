@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师建议与朋友直接沟通或开展行为实验以确认朋友真实看法时",
           "interpretation": "来访者倾向于认为对方可能像想象中的评判者一样不理解自己（移情：将被评判的期待投射到他人）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以委婉、中性的语气强调“现在开口不太合适/这不重要”，给出许多理由弱化尝试的必要性，避免明确承诺进行实验。"
         },
         {
           "trigger_condition": "当谈及朋友对其不参加活动的可能反应与看法时",
           "interpretation": "来访者将自己的担心与负面评价归于朋友，认为他们会看轻或讨厌自己（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持谨慎语气，频繁使用“他们可能……”等推测性表达，避免细化证据与具体事实，侧重主观担心。"
         }
       ]

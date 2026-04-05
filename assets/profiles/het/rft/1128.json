@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师探讨向朋友寻求支持或分享担忧时",
           "interpretation": "认为朋友不会理解自己、可能会觉得自己在制造负担（移情：将内心的不被理解感投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以肯定语气简短回应，如“他们不会理解”，避免展开细节，语气平淡并尝试转移话题。"
         },
         {
           "trigger_condition": "当面对不确定的未来（寻找新室友）并被邀请评估证据与选项时",
           "interpretation": "以他人“糟糕室友”故事为理由，认为无论如何都会出错",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "引用外部案例作为依据，语气坚信不疑，重复“总会出问题”的判断，弱化反证。"
         }
       ]

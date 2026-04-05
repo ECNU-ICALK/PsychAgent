@@ -75,14 +75,12 @@
           "trigger_condition": "当重要他人（如老师）迟到或反馈不明确时",
           "interpretation": "将对自身不足的恐惧投射为对方的负面意图（“她在回避我/不想教我”）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气不确定、反复猜测对方意图，倾向用自责或揣测性的表述（如“是不是我太差了”），避免直接求证。"
         },
         {
           "trigger_condition": "当被建议与老师直接沟通以澄清时",
           "interpretation": "把提出需求等同于冒犯或会招致否定（担心被拒绝）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "最小化自身需求表达，使用含糊与转移的话语（如“算了，没关系”），语气轻、避免提出具体请求。"
         }
       ]

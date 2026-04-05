@@ -76,21 +76,18 @@
           "trigger_condition": "当咨询聚焦于错误带来的情绪体验与影响时",
           "interpretation": "认为应当控制情绪、以理性叙述来避免显得脆弱或无能",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、冷静的语气陈述事实，强调“只是一次失误/压力太大”，尽量减少情绪表达。"
         },
         {
           "trigger_condition": "当被邀请考虑向同事或家人寻求支持时",
           "interpretation": "他人会因我的困扰而不耐烦或看轻我（移情性地将负面评价归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "礼貌但坚定地回避求助建议，强调“不想麻烦别人”，弱化现实可用支持。"
         },
         {
           "trigger_condition": "当谈到责任归因或评价自我能力时",
           "interpretation": "将外界复杂因素内化为自身缺陷，倾向把全部过失归咎自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我指责与负性标签（如“我是傻子”），忽略情境因素与正向证据。"
         }
       ]

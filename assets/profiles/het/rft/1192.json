@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师邀请其对自身行为承担责任或共同探讨改进方案时",
           "interpretation": "将此体验成可能被指责或像父母那样责怪自己（移情：将咨询师体验为苛责的他者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用共情与非评判的语气，先验证其羞耻与无助感，再以合作式语言邀请其选择可执行的小步骤，避免指责或强迫。"
         },
         {
           "trigger_condition": "当咨询师建议从小而现实的目标开始（如每日短时步行）",
           "interpretation": "认为小改变没有意义，自己不可能改善（无望感）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以实验心态邀请其尝试，用“让我们一起检验”的语言，提供可观察的指标，降低争辩，强调自我选择与可撤回性。"
         }
       ]

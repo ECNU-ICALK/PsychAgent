@@ -79,14 +79,12 @@
           "trigger_condition": "当在工作场合看到同事的车卖得更快或被拿来与他人比较时",
           "interpretation": "他人会像评审一样否定我，我会丢脸",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "以回避式语言回应，缩短回答、减少细节，降低情感暴露并结束话题。"
         },
         {
           "trigger_condition": "当想到向朋友或同事表达自己的自我怀疑与焦虑时",
           "interpretation": "如果表达出来会被看轻或麻烦别人",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "避免谈及自我怀疑，转而聊一般性话题，用轻松语气掩饰不安，不触及个人感受。"
         }
       ]

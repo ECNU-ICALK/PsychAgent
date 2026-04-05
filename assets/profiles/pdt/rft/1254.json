@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师探询其是否可与朋友分享孤独与受挫感时",
           "interpretation": "认为一旦表达脆弱，朋友就会看不起自己（像外界评判者一样）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫、担忧被评判的语气表达顾虑，强调“他们会看不起我”，回避进一步开放性的自我披露。"
         },
         {
           "trigger_condition": "当谈及多次被拒的经历与未来可能性时",
           "interpretation": "用“命中注定”来解释失败，以减轻内在冲突与无力感",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用概括性、宿命论的表述（如“可能就是命中注定”），语气带无力感，以此弱化进一步探索具体细节。"
         }
       ]

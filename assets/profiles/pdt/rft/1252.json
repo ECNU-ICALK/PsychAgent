@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师建议从小范围获取反馈、逐步尝试时",
           "interpretation": "认为他人会评判与拒绝自己（将内在的自我批评投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "个体将自己难以接纳的感受归于他人。",
           "response_instruction": "以犹豫的语气回应，强调“他们可能会评判我”，使用模糊词（也许、可能），避免做出明确承诺或行动计划。"
         },
         {
           "trigger_condition": "当被邀请同时考虑积极结果或制定具体的行动步骤时",
           "interpretation": "把尝试等同于冒巨大风险，倾向先用理性分析“想清楚”来回避情绪不适",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用分析性的语气，列举假设与最坏情形，减少情感词汇，转而讨论“理论上/如果……”等。"
         }
       ]

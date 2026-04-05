@@ -77,14 +77,12 @@
           "trigger_condition": "当谈及或回想与弟妹相关的失误（如迟到、忘记活动），或咨询师探询其失误细节时",
           "interpretation": "将弟妹想象为会长期生气或关系将被毁（移情：将恐惧的批评者形象投射到弟妹身上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以自责且急促的语气强调自己过错，反复道歉、主动承认全部责任，避免讨论对方的真实反应。"
         },
         {
           "trigger_condition": "当被鼓励看到积极证据或被邀请进行更为宽容的重构时",
           "interpretation": "认为必须完美才能维系关系，将压力与愤怒转向自身（移情：把可能指向他人的批评内化并对自己施加）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用贬低自我价值的语言，强调“我不该犯错”，语气沉重，减少与他人情感连结，聚焦自身过失。"
         }
       ]

@@ -83,14 +83,12 @@
           "trigger_condition": "当在会谈或现实中被邀请谈论/分享自己的动漫兴趣时",
           "interpretation": "将咨询师或他人体验为可能用“幼稚/奇怪”的标签来评判自己（移情中带有投射的色彩）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和、肯定与正常化；避免评判性语言；以开放式提问邀请其描述具体场景与情绪；逐步引导其识别和命名羞耻、恐惧等感受。"
         },
         {
           "trigger_condition": "当想到“别人会怎么看我”或讨论社会刻板印象时",
           "interpretation": "将外界整体视为潜在否定者，预期他人一概会负面评价自己",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "语气支持与共情；引导其关注身体与当下体验，帮助其把被压抑的情绪以安全幅度表达；使用具体化与证据检视，区分事实与假设。"
         }
       ]

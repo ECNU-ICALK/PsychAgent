@@ -81,14 +81,12 @@
           "trigger_condition": "当讨论是否向丈夫表达自己的压力与需求时",
           "interpretation": "来访者潜意识将表达需求等同于给丈夫增加负担，担心被视为自私而被拒绝（移情）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用委婉、克制的语气，强调丈夫很忙、自己应该忍耐，避免直接提出具体请求或分担方案"
         },
         {
           "trigger_condition": "当咨询师提出‘在儿子练习期间预留10分钟阅读’的行为实验时",
           "interpretation": "将潜在的突发状况视为必然发生，强化对失败的预期，从而保持距离以避免失望（移情）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以冷静、务实的语气提出假设性障碍（例如‘难免会被打断’），用大量理由来淡化尝试的意义，同时避免触及自身的情绪需要"
         }
       ]

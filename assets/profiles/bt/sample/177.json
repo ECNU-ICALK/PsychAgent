@@ -77,14 +77,12 @@
           "trigger_condition": "在社交场合谈及职业或听到他人职业成就时",
           "interpretation": "他人会轻视我；他人的成功意味着我的失败",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "温和探询并标注两极化语言，邀请举例支持与反例；使用肯定语气引导其看到灰度与多维价值。"
         },
         {
           "trigger_condition": "当被鼓励向朋友或家人表达自卑与担忧时",
           "interpretation": "他们不会理解我、会觉得我在抱怨",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用共情与澄清式提问，鼓励现实检验（“你有哪些证据支持他们会这样看？”）；语气温和，降低评判焦虑。"
         }
       ]

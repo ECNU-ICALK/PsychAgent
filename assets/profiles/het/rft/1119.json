@@ -83,21 +83,18 @@
           "trigger_condition": "当他人给予正面反馈或咨询师表达肯定、提出建议时",
           "interpretation": "来访者潜意识倾向认为对方只是客套，真实看法是自己不够好（移情：将内在批判投射到他人的评价）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "礼貌但冷淡地淡化赞美，强调不足之处，避免深入讨论情感体验。"
         },
         {
           "trigger_condition": "面对高标准或紧迫截止日期的任务/销售目标时",
           "interpretation": "将外界的标准内化为绝对规则，认为不完美就会被指责（内在批判加剧）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分",
           "response_instruction": "使用“必须/应该”等绝对化表述，强调标准而非感受，语气坚硬、少有情感流露。"
         },
         {
           "trigger_condition": "当咨询师建议进行行为实验、尝试“足够好”的工作标准时",
           "interpretation": "担心一旦不完美就会被视为懒惰或无能，预期负面评价的到来",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "提出诸多理由解释为何现在不能尝试，语速加快、逻辑密集，用理性论证回避情感不适。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当被邀请向朋友更深入地分享内心想法或寻求支持时",
           "interpretation": "认为朋友会觉得自己矫情、会让自己“硬扛”（将内在自我批评投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫、含糊的方式婉拒分享，强调“不想显得在求同情”，减少暴露脆弱内容。"
         },
         {
           "trigger_condition": "当讨论设定目标或尝试新策略（如记录积极时刻）时",
           "interpretation": "担心一旦尝试就会失败，失败会证明自己“懒惰”，因此需要更谨慎或推迟",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用谨慎、保留的语气强调小步和可控性，提出种种顾虑以降低承诺强度。"
         }
       ]

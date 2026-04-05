@@ -85,21 +85,18 @@
           "trigger_condition": "当咨询师强调其成功案例或正面反馈并邀请其整合到自我评价时",
           "interpretation": "来访者倾向认为这些正面证据只是偶然或不算数，担心咨询师在忽视“真实问题”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以客观、冷静的语气陈述“逻辑”，淡化情绪体验；强调证据不足、举反例，弱化对积极体验的感受。"
         },
         {
           "trigger_condition": "当被邀请考虑与朋友分享自身不足感与自我怀疑时",
           "interpretation": "将自己的被轻视恐惧归于他人，认为朋友会不理解或把自己当成在抱怨（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用假设性措辞（“他们会…”“他们都…”），避免描述自身当下感受；语气谨慎、含糊其辞，少用第一人称体验。"
         },
         {
           "trigger_condition": "当回忆或讨论批评性反馈、指出作品技术缺陷时",
           "interpretation": "将对他人的不满或挫败转为自我指责，认为缺陷意味着自己整体不行",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬损语句（如“我就是不行”），承担全部责任，语气低落，减少对外部因素的讨论。"
         }
       ]

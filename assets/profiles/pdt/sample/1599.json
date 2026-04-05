@@ -76,21 +76,18 @@
           "trigger_condition": "当他人给予赞美或正面反馈时（如派对上被称赞笑容）",
           "interpretation": "认为对方只是出于礼貌并不真诚，从而维持对自我外貌的负面认知",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静但坚决的语气解释“他们只是礼貌”，罗列看似合理的理由来淡化或否定赞美。"
         },
         {
           "trigger_condition": "想到要参与约会或进入社交场合时",
           "interpretation": "相信他人会盯着自己的鼻子并评判自己丑陋，将内在的自我批评体验归因于外界目光",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用谨慎、笼统的表达（如“他们都会…”），回避具体证据，并以此为由拒绝参与。"
         },
         {
           "trigger_condition": "被咨询师提出行为实验或挑战负性信念的建议时",
           "interpretation": "对与既有负性信念相矛盾的正面证据保持不相信与怀疑",
           "defense_mechanism": "sring",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以轻度怀疑的语气强调“很难相信”，最小化正面信息并要求将步骤尽量缩小。"
         }
       ]

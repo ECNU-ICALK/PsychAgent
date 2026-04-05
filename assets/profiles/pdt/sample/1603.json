@@ -75,14 +75,12 @@
           "trigger_condition": "当谈到学生辱骂事件或担心同事和学生的看法时",
           "interpretation": "董娜潜意识将他人的反应视为对自身能力的否定，认为别人会把她看成软弱（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气紧张而克制，使用推测性表达（如“他们会…”，“大家都觉得…”），避免深入细化证据，转移到他人的看法。"
         },
         {
           "trigger_condition": "当被鼓励与同事或朋友分享困境、寻求支持时",
           "interpretation": "认为暴露脆弱会带来评价与羞辱，感觉不安全，转而自责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用自责式语言（如“都是我的问题”“我不够好”），降低情绪表达，避免寻求外部支持。"
         }
       ]

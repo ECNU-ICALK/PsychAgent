@@ -79,14 +79,12 @@
           "trigger_condition": "当谈到错过截止日期或担心被上级评估时",
           "interpretation": "他人会像苛刻的评判者一样否定自己，错误意味着被惩罚或被解雇",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "用自责与内疚的语气反复强调“我不该犯错、我太糟糕”，回避深入情感体验，转而细述加班补救计划与改进清单。"
         },
         {
           "trigger_condition": "当被邀请直接讨论外貌自卑与亲密关系焦虑时",
           "interpretation": "表达脆弱会被看低或被拒绝，因此需要保持理性与控制",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气克制、偏理性，使用分析与计划式表述（如“我需要列步骤、优化流程”），减少主观情感词与身体感受的描述。"
         }
       ]

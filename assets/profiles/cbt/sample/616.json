@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其与亲友分享感受或建议进行行为实验以挑战负性信念时",
           "interpretation": "认为表达困扰会让他人成为负担，可能被评判或拒绝",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气谨慎、保留，使用“我不想麻烦别人”“这可能没用”之类的理由推迟或回避行动，减少情感细节。"
         },
         {
           "trigger_condition": "在晚上独处、回忆失败关系并被询问具体情绪时",
           "interpretation": "将注意集中在失败证据，弱化积极关系经验以避免期望带来的再次失望",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以概括性、分析性的方式叙述经历，降低情绪词使用，避免进入当下感受。"
         }
       ]

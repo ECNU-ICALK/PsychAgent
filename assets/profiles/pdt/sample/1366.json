@@ -83,14 +83,12 @@
           "trigger_condition": "当在咨询中回顾被出版社/经纪人拒绝或讨论同侪的建设性反馈时",
           "interpretation": "将外界的批评或建议体验为对自我价值的整体否定（移情：把出版方/评审想象为严苛的拒绝者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与贬低自我的语气回应（如“都是我不够好”），降低对他人的指向，将情感内收。"
         },
         {
           "trigger_condition": "当咨询师邀请进行更为平衡的证据分析或建议进行行为实验（如继续投稿）时",
           "interpretation": "担心新的尝试会再次失败并带来羞耻或被否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以理性、客观的数据或行业困难为由婉拒尝试（如“行业太难，概率太低”），语气克制、列举事实来支撑回避。"
         }
       ]

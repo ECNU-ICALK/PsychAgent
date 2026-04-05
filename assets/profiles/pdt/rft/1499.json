@@ -76,14 +76,12 @@
           "trigger_condition": "当被邀请或想到在社交场合讲笑话时（例如咨询师建议尝试对亲密朋友讲一个小笑话）",
           "interpretation": "将他人可能的中性或支持性反应解读为会像那位陌生人一样嘲笑自己（移情：将陌生人的嘲讽经验投射到当前他人）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以谨慎、克制的语气表达担忧，强调“可能不行/先不”，避免过多自我暴露，优先提出理由与假设而非感受"
         },
         {
           "trigger_condition": "回忆那次被嘲笑的经历或预期他人评价",
           "interpretation": "把一次负面事件泛化为所有人都会如此对待自己（移情：将过去的羞耻经验套用到当前关系）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用非黑即白的判断语句，如“要么好笑要么很糟”，语气坚定但紧张，拒绝探索灰度可能性"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当谈及与他人比较或承认“跟不上新番”时",
           "interpretation": "认为他人（或咨询师）会像同伴那样评判自己“不够好”",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "语气克制而简短，回避深入情绪感受的描述，优先陈述事实层面。"
         },
         {
           "trigger_condition": "当被鼓励向朋友表达需要或寻求支持时",
           "interpretation": "担心表达脆弱会被视为麻烦或矫情，从而遭到轻视",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责性语言回应（如“都是我不行”），语气自我贬低，弱化对他人合理期待。"
         }
       ]

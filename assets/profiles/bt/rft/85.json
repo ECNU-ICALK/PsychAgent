@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师询问是否会与妻子讨论具体忧虑或建议与妻子分享时",
           "interpretation": "认为分享会增加妻子负担，自己应该独自承受（移情：将伴侣视为需要保护的脆弱者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和、克制的语气强调“我不想让她更担心”“我应该自己处理”，减少情绪表达并回避深入讨论。"
         },
         {
           "trigger_condition": "在儿子比赛中出现失误或普通表现时",
           "interpretation": "将对家庭与经济压力的焦虑转化为对儿子表现的批评与控制（移情：把外部压力归因到孩子的表现）",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "语速加快、语气紧张，使用绝对化词语（如“永远”“必须”）提出苛责性评论或建议。"
         }
       ]

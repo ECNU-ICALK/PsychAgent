@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师或他人建议其寻求老师/家教帮助时",
           "interpretation": "将求助等同于暴露无能，担心被权威看低或被否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "采用共情且探询式语气，先肯定其对独立的重视，再温和追问：除了“材料更难”，还有哪些顾虑？邀请其辨别事实与担忧，使用具体化与澄清问题的开放式问题。"
         },
         {
           "trigger_condition": "当谈及父母的期待与可能的失望时",
           "interpretation": "将紧张与害怕转向自责，认为一切后果由自己承担",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "温和反映其自责负担，邀请识别情绪（焦虑/羞耻）与界限；使用支持性、低对抗语气，鼓励以第一人称陈述感受并区分事实与评价。"
         },
         {
           "trigger_condition": "当被邀请回忆并整合过往的积极经验（如初中家教提升）时",
           "interpretation": "倾向以“这次不同”为由否定可借鉴性，减少希望感",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以接纳姿态回放其“这次不同”的理由，邀请列举相同与不同点；使用温和的苏格拉底式提问，帮助其发现可迁移的资源。"
         }
       ]

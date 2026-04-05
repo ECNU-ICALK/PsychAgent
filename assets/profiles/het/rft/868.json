@@ -77,14 +77,12 @@
           "trigger_condition": "当他人赞赏作品但并未购买时",
           "interpretation": "将对方理解为表面客套、实则拒绝与否定（把自身的自我怀疑投射到对方的动机上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以防御性与怀疑的语气回应，强调“他们只是客套”，淡化情感表达并迅速转移话题。"
         },
         {
           "trigger_condition": "当家人提及财务贡献或询问销售情况时",
           "interpretation": "把对方视为以“赚钱多少”单一维度衡量自我价值的评判者",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用市场与客观条件进行解释，语气平稳，避免表达羞耻或恐惧感受，保持情感距离。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师建议进行认知重构或行为实验以检验他人评价的假设时",
           "interpretation": "来访者倾向于认为改变很难、这些念头“太真实”，若参与实验会感到暴露与不安全",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以同理和验证为基调，先承认困难与担忧；使用温和、具体化的提问，帮助将任务拆分为微步骤，并邀请其以低风险场景开展微型实验。"
         },
         {
           "trigger_condition": "当谈到与朋友或家人分享其体像困扰与具体回避问题时",
           "interpretation": "来访者倾向于认为说出来会被评判或给他人添麻烦，因此选择不表达",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "维持安全的治疗氛围，鼓励以感受词汇命名情绪；允许停顿与沉默，以支持性语言逐步邀请其尝试在小范围内进行有限分享。"
         }
       ]

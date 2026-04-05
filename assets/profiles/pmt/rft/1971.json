@@ -83,21 +83,18 @@
           "trigger_condition": "当被建议与丈夫进行更深层的情感沟通或表达脆弱时",
           "interpretation": "认为表达情绪会让对方感觉被负担或无法理解自己（移情：担心被拒绝）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "语气克制、淡化情绪色彩，转而讨论日常细节或实际事务，避免直接描述内在感受。"
         },
         {
           "trigger_condition": "当被指出或询问自身的积极面与成就时",
           "interpretation": "倾向认为这些积极之处“不算数”，担心显露自我会被质疑",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "用否定句式或大量“但是”弱化他人肯定，语气平缓并迅速转移话题。"
         },
         {
           "trigger_condition": "在咨询中遇到开放式探索“我是谁”的问题",
           "interpretation": "感觉不确定与焦虑，担心一旦深入就失控或显得脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用分析性语言、概括化表述，避免使用情绪词，减少第一人称情感体验的细节。"
         }
       ]

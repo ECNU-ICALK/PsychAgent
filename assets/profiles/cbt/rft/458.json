@@ -75,14 +75,12 @@
           "trigger_condition": "当谈及向同事或主管表达自己需要休息时，或想到他人可能的反应",
           "interpretation": "他人会像内心想象的“评判者”那样指责我懒惰（移情：把自我批评投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎、含蓄，倾向使用假设句（比如“可能、也许”），避免直接表达个人需求，更多描述外界看法。"
         },
         {
           "trigger_condition": "当工作表现下降或注意力涣散被关注时",
           "interpretation": "认为一切问题都源于自己不够好，内疚自责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "采用自责式语言（如“都是我的错”），语气低落，减少对客观工作条件的讨论，更多聚焦自我否定。"
         }
       ]

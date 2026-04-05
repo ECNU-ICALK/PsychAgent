@@ -311,7 +311,6 @@ def _validate_pdt_profile(theory_info: Dict[str, Any], *, path: Path) -> None:
             "interpretation",
             "defense_mechanism",
             "response_instruction",
-            "defense_definition",
         ):
             if key not in item:
                 raise ValueError(

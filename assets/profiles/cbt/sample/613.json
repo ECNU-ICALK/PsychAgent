@@ -84,14 +84,12 @@
           "trigger_condition": "当被建议向妻子表达内在压力或谈及“供给不足”的感受时",
           "interpretation": "表达脆弱会让妻子担心，也意味着我不称职、在失败",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "回避情绪词汇与需要表达，语气克制，强调“我会再努力工作”的事实性表述，减少停顿与自我暴露。"
         },
         {
           "trigger_condition": "在社交媒体看到他人度假或谈及今年无法负担度假时",
           "interpretation": "他人的度假象征我不称职，并预示我必须做得更多才能不被嫌弃",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“应该/必须”类语句强调责任与供给，快速转向加班计划与目标，淡化个人情绪与限度。"
         }
       ]

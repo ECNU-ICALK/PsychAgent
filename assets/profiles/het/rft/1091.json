@@ -84,21 +84,18 @@
           "trigger_condition": "当咨询师询问是否愿意与兄弟谈论自己的不足和感受时",
           "interpretation": "认为显露脆弱会被看低或被拒绝（移情：将他人视为苛刻评判者）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用规则化的表达（如“我不该显得软弱”），淡化情绪体验，转而强调“应该自己扛”，语气克制。"
         },
         {
           "trigger_condition": "当咨询师提出进行行为实验或新的尝试时",
           "interpretation": "这些方法可能对我没用，如果失败会证明我不行",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和但保留的语气提出疑虑，使用“我不确定这是否适合我/不会改变什么”等表述，弱化执行承诺。"
         },
         {
           "trigger_condition": "当回忆或讨论他人对食物的反应与反馈时",
           "interpretation": "他人都不喜欢我的食物（将自我否定投射为他人的评价）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们肯定觉得……”的断定句，忽视相反证据；语气笃定但带自我否定。"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师强调小进步或提出除“赢棋”之外的成功标准时",
           "interpretation": "倾向将咨询师的肯定体验为对失败的粉饰与否认，进而强化“我不够好”的自责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与否定性的语气回应，反复强调“我不够好/这不算数”，弱化咨询师的正向反馈。"
         },
         {
           "trigger_condition": "当咨询师邀请进行行为实验或鼓励继续下棋、允许犯错时",
           "interpretation": "将尝试视为再次暴露无能的风险，认为一旦失败就坐实“无能”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以理性理由推迟或回避尝试（如“等我再准备好一点再说”），语气克制而谨慎。"
         }
       ]

@@ -79,14 +79,12 @@
           "trigger_condition": "当他人不采纳她的观点或她感到被评判时",
           "interpretation": "认为对方在看不起自己、对自己进行评判（将过往的比较与否定经历投射到当前关系）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎、防御，强调自身合理性，避免过多自我暴露；若被追问，使用条件句与假设陈述保护边界。"
         },
         {
           "trigger_condition": "当谈及自我价值与“是否比他人更聪明”等主题时",
           "interpretation": "将情绪体验转化为对智力排名与效率的理性讨论，以避免触及羞耻与脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用分析性语气，聚焦事实与逻辑，减少情感词汇与自我感受的表达。"
         }
       ]

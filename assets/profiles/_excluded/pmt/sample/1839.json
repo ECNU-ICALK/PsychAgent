@@ -75,14 +75,12 @@
           "trigger_condition": "当被要求回忆并具体描述那次失误或在比赛中被关注时",
           "interpretation": "倾向将他人的关注理解为批评或在等待自己出错（移情）",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "语气克制、简短，强调“我会专注比赛”，避免触及羞耻与恐惧的感受"
         },
         {
           "trigger_condition": "当咨询师探问其情绪体验与脆弱时",
           "interpretation": "担心暴露脆弱会被看轻，因此倾向转向事实与技术层面的讨论",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "偏向讨论战术安排、训练计划，用较为客观理性语气，减少情绪词汇"
         }
       ]

@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师提出寻找反证、平衡证据或建议尝试自我照料的小步骤时",
           "interpretation": "认为这些建议不切实际，无法理解眼下处境的严重性",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用无奈、疲惫的语气，反复强调“大环境不可控/现在不现实/没有时间”，以此否定和推开建议。"
         },
         {
           "trigger_condition": "当朋友或家人提供支持与建议、鼓励其分享感受时",
           "interpretation": "他们不理解事情的严重性，可能会轻视自己的担忧",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "简短回答、减少细节，避免深入交流，或直接说“他们不懂”，随后转换话题。"
         }
       ]

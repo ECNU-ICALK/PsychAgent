@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师建议在朋友面前练习或邀请他人支持时",
           "interpretation": "将他人视为潜在的评判者和嘲笑者（移情：他人会看不起我）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以谨慎、犹豫的语气表达担忧，礼貌拒绝他人参与练习，强调“不信任他人评价”与“担心被看不起”。"
         },
         {
           "trigger_condition": "当想到大型观众与演出日期临近、感觉风险更大时",
           "interpretation": "将情境视为必然导致羞辱的危险，认为失败不可避免（“更大观众=更严重后果”）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用事实性语言强调风险与“赌注”，以无奈的语气提出不表演或继续回避的理由。"
         }
       ]

@@ -78,21 +78,18 @@
           "trigger_condition": "在社交场合被人注视或出现沉默/不明朗的非言语线索",
           "interpretation": "将不确定的目光与肢体语言理解为对自己（及职业）的否定与轻视（移情：他人被视为批判性客体）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以谨慎、保留的语气描述“他们可能在看轻我”，避免深入探讨具体证据，强调主观感受并维持距离。"
         },
         {
           "trigger_condition": "当咨询师提出行为实验或建议在下次聚会与新人交流",
           "interpretation": "将建议视为可能把自己推入会被评判的危险情境，担心失控羞辱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以理性分析的方式讨论利弊与理论可能性，减少情感表露，语气平稳、强调“从逻辑上看……”。"
         },
         {
           "trigger_condition": "当谈到穿紫色（表达个人偏好）的话题",
           "interpretation": "担心一旦表达真实喜好就会暴露于他人评价，引发羞耻与不被接纳",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以中性、冷静的语气说“这只是颜色”，避免触及羞耻与恐惧的感受层面，保持描述性、少用情绪词。"
         }
       ]

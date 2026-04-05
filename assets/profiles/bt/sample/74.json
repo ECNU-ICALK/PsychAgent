@@ -77,21 +77,18 @@
           "trigger_condition": "当在课堂上收到来自老师或同学的正面反馈/称赞时",
           "interpretation": "来访者潜意识认为赞美不真实或只是敷衍（移情：他人被视为不可信的评判者）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "迅速否定或淡化赞美，语气简短，强调不足之处，回避讨论积极面。"
         },
         {
           "trigger_condition": "当面对建设性批评、或出现中性/不确定的事件（如老师缺席）时",
           "interpretation": "将外界事件个人化为自己的过错，认为他人对自己持负面评价（移情：他人被视作严苛评判者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬低语句（如“都是我的错”“我不行”），降低语速与音量，表现出内疚与羞耻，弱化自我主张。"
         },
         {
           "trigger_condition": "在与同学的作品进行比较、或对学习成败进行自我评估时",
           "interpretation": "以全好/全坏的方式看待自他，认为自己“永远不够好”（移情：他人被视为永远更好/更有价值）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用绝对化词语（如“永远”“完全”），忽略中间地带与进步迹象，语气笃定而消极。"
         }
       ]

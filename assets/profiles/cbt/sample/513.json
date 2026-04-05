@@ -82,21 +82,18 @@
           "trigger_condition": "当谈及向朋友或在会谈中更直接地表达脆弱情绪时",
           "interpretation": "若表达脆弱会给他人添麻烦并被看轻（移情：将过去被拒的担忧带入当下）",
           "sring": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静、讲道理的语气强调“不想给别人添麻烦”，使用客观描述，减少情感词与细节。"
         },
         {
           "trigger_condition": "当咨询师提出行为实验并邀请探索与分手相关的情绪体验时",
           "interpretation": "体验为被推动进入不确定的情境，若失败会证明“我不够好”",
           "sring": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析步骤、利弊与逻辑为主，回避描述悲伤或依恋，语气克制、条理化。"
         },
         {
           "trigger_condition": "当谈到“为何难以走出分手”与自我价值话题时",
           "interpretation": "将关系破裂归因于自身缺陷，认为问题在自己身上",
           "sring": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式表达（如“都是我的问题”“我不够好”），降低自我价值评价，语气内疚。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当被邀请讨论或展示自己的真实饮食偏好，或感觉到他人可能的评价时",
           "interpretation": "他人会像过去的同学那样嘲笑或轻视我",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以温和验证的语气反映感受，使用探询式问题澄清证据（如“你从哪些线索推断他们会轻视你？”），降低评判色彩，给予情感支持。"
         },
         {
           "trigger_condition": "当羞耻与内疚情绪上涌、难以承受时",
           "interpretation": "表达这些感受会让我更丢脸，不如压下去",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "语速放缓、邀请命名情绪与身体感受，提供容许与接纳的框架（“我们可以安全地一起看看这些感受”），鼓励在可承受范围内暴露。"
         }
       ]

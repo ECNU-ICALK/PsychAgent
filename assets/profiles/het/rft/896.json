@@ -83,21 +83,18 @@
           "trigger_condition": "当需要与家人谈及自己的失败感、照护负担或寻求情感支持时",
           "interpretation": "来访者倾向认为家人会把自己视为在博取同情或软弱（移情：将家人当作苛刻的评判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用含糊与弱化情绪的表达，避免直接请求支持，如“没事、我不想麻烦你们”，降低情感浓度并转移话题。"
         },
         {
           "trigger_condition": "当他人或咨询师强调其照护的价值与积极影响时",
           "interpretation": "将照护视为理所应当、非成就，以理性框架覆盖情感（移情：他人被体验为对成就不认可）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "语气平淡、使用客观化词汇（如“本来就应该做”），回避对被肯定的主观感受进行展开。"
         },
         {
           "trigger_condition": "在社交情境或网络中接触到同龄人的学历与成就信息时",
           "interpretation": "将他人与自我分为全好与全坏，自己被定位为彻底失败者（移情：他人被体验为全能成功者）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用极端化词汇（如“每个人都比我强”“我就是不行”），迅速否定自我，保持低眼神接触与短句回答。"
         }
       ]

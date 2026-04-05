@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师探索来访者的负面自我评价与失败体验时",
           "interpretation": "将外界的“必须高效与成功”的标准内化为对自己的苛刻审判，认为稍有不佳即等同失败者",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用温和、共情且不评判的语气；承认其痛苦，邀请其具体化体验；帮助识别自我攻击的声音并与之拉开距离。"
         },
         {
           "trigger_condition": "当被建议与亲友分享恐惧、寻求反馈时",
           "interpretation": "担心暴露脆弱会被看轻或被贴上“懒惰/无能”的标签",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以安全与允许的姿态逐步暴露；建议小步验证，先与最信任的朋友分享一个小且具体的担忧。"
         }
       ]

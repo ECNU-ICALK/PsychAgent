@@ -76,14 +76,12 @@
           "trigger_condition": "在会谈中被邀请检验证据、制定下一步行动或面对不确定性时",
           "interpretation": "担心贸然行动会暴露自己的不足，导致被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气谨慎，强调需要更多信息与证据，提出澄清性问题，暂缓情绪表达。"
         },
         {
           "trigger_condition": "在日常独处时出现对资助被拒的负性联想",
           "interpretation": "认为直面这些担忧会带来难以承受的焦虑与失望",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "转移话题或使用“先不去想”的表述，短句回应，快速切换到中性内容。"
         }
       ]

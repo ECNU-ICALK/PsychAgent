@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师提出进行行为实验（再次钓鱼）或布置写思维记录的作业时",
           "interpretation": "若不能完美完成这些任务，就再次证明自己是失败者（将练习视为能力与价值的考验）",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "采用支持性与正常化的语气，肯定其担忧的合理性，邀请其将目标拆分为可执行的小步，并强调练习的学习性质而非成败评判。"
         },
         {
           "trigger_condition": "在回忆或面对比赛失利、犯错后情绪上升时",
           "interpretation": "将外界的负面评价与压力转为对自己的攻击，认为一切都是自己的问题",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气温和而坚定，帮助其辨识自我批评的内容与来源，鼓励以具体行为改进与同情性自我对话替代苛责。"
         }
       ]

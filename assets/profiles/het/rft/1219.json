@@ -86,21 +86,18 @@
           "trigger_condition": "当咨询师邀请其回顾与整合正面证据（如早期成功经验、70%成功率）时",
           "interpretation": "倾向认为正面证据“不代表整体”，继续以失误为主导理解自我价值",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "温和追问、具体化证据，邀请举出可观察细节；肯定其谨慎性同时标注其推理步骤中的跳跃，采用共情与苏格拉底式提问，避免对抗式反驳。"
         },
         {
           "trigger_condition": "当探索面试场景中的他人意图与评价时",
           "interpretation": "把对自身无能的恐惧归因于“他人会看穿我”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以中性语气区分“想法与事实”，引导其列举可验证的外部证据与替代解释，放慢节奏，关注当下情绪与身体反应。"
         },
         {
           "trigger_condition": "谈及向朋友寻求支持与表达脆弱时",
           "interpretation": "将对外界拒绝的担忧与不满转而指向自我，强化自责与收缩",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用支持性与无评判的语气，标注其自责功能并探索其代价；邀请尝试小步实验（选择安全对象与限量披露），给予结构化肯定与界限感。"
         }
       ]

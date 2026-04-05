@@ -181,7 +181,6 @@ class BehavioralResponsePatternItem(BaseModel):
     interpretation: str
     defense_mechanism: str
     response_instruction: str
-    defense_definition: str
 
 
 class PDTProfile(UpdatedProfile):

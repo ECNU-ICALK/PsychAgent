@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询聚焦于制定逐步接近水域/暴露的具体步骤时",
           "interpretation": "将对危险的恐惧转化为对方案细节与风险评估的过度关注，以避免直接接触情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用客观、分析性的语气，强调步骤与可行性，减少情绪性词语与沉默，围绕计划细节展开。"
         },
         {
           "trigger_condition": "当被邀请靠近水域或参与水上活动时",
           "interpretation": "以“现在做没有意义/风险太大”为由，证明继续接触是不明智的，从而维持回避",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以冷静、合乎逻辑的措辞列举风险与成本，提出“等等再说/目前条件不合适”的推迟语，弱化当下行动动机。"
         }
       ]

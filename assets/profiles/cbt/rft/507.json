@@ -84,21 +84,18 @@
           "trigger_condition": "当被要求完成需要批判性思维的任务，或在关系中需要展现能力时",
           "interpretation": "他人（或咨询者）会像“有学位的人”那样挑剔地审视我，一旦失败就会认为我愚蠢",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以谨慎、收缩的语气说话，提前自我贬低或道歉，减少承担任务，尝试将决策与评价权交还给对方。"
         },
         {
           "trigger_condition": "当谈及退学决定的积极意义或收到他人正向反馈时",
           "interpretation": "正面反馈不可信或“不算数”，担心一旦接纳就要面对未完成学业的痛苦与遗憾",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件或想法分离，理智地谈论而缺乏情感反应。",
           "response_instruction": "用客观、罗列事实的方式谈论经历，回避情绪词汇与主观感受，语气平淡，缩短在情感话题上的停留时间。"
         },
         {
           "trigger_condition": "当关系变得亲近且对方既支持又提出挑战（如要求更独立地完成任务）",
           "interpretation": "对方可能会撤回支持或提高标准，最终暴露我的无能",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果提供看似合理的理由以进行辩解。",
           "response_instruction": "强调外部条件或“我没有学位”的理由来解释回避或退缩，用温和但回避性的表述转移话题，减少自我暴露。"
         }
       ]

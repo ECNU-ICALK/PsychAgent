@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师提出新的睡前管理技巧或分步骤的日程安排时",
           "interpretation": "认为这些方法对自己“可能没用”，担心无法坚持，进而否定改变的可能",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气温和、先共情其顾虑；避免直接与其否定对抗，用微步骤与小实验的方式邀请尝试；聚焦可观察的短期目标并及时反馈有效性。"
         },
         {
           "trigger_condition": "当涉及与他人（朋友）讨论学业问题或寻求支持的可能性",
           "interpretation": "担心被评价或看轻，预期负面互动，从而选择不启齿",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用验证与支持性语句，邀请其识别自我批评的语句并转化为具体请求；鼓励从低风险对象与小话题开始练习求助。"
         }
       ]

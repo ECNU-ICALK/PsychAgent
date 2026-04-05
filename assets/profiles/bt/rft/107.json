@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师邀请其挑战自动思维、生成替代观点或想象改变的可能性时",
           "interpretation": "倾向将咨询师的探索理解为缺乏现实依据，需要“证明”后才可信",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以冷静、抽离的语气强调“需要证据/证明”，回避深入探讨受伤与被拒绝的情绪体验。"
         },
         {
           "trigger_condition": "当咨询师尝试将其对朋友的支持能力连接到亲密关系能力时",
           "interpretation": "否定积极证据，认为“这不一样”，从而否认自己在亲密关系中的潜能",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "使用绝对化表达（如“永远”“不可能”）迅速否定积极链接，转回到“我做错了什么”的自责框架。"
         }
       ]

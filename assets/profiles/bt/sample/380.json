@@ -78,14 +78,12 @@
           "trigger_condition": "当被问及是否向朋友或身边人表达真实的孤独与自我憎恨时，或面临需要暴露脆弱的时刻",
           "interpretation": "如果暴露脆弱就会被看低或拒绝，因此必须把感受压下去",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以简短、含糊的方式带过敏感话题，回到中性描述；语气克制，避免表达强烈情绪与个人需求。"
         },
         {
           "trigger_condition": "在看到他人处于幸福关系或回想自己关系失败时",
           "interpretation": "把失败和问题完全归咎于自己，认为“都是我的错”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，表现为自我批评或自责。",
           "response_instruction": "使用自责与标签化用语（如“我就是不行”），语气低落，重复“如果当时我做得不同就好了”。"
         }
       ]

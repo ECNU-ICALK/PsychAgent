@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师建议进行逐步的行为实验（短途驾驶）以检验灾难化预测时",
           "interpretation": "将逐步暴露理解为把自己置于高风险中，担心再次出事",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "以谨慎、克制的语气表达担忧，请求更小、更可控的步骤与安全预案。"
         },
         {
           "trigger_condition": "当讨论回避驾驶对学业与社交的负面影响时",
           "interpretation": "将回避行为视为必要且正当的安全选择",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用平静但坚定的语气强调“安全最重要”，以安全为由为持续回避辩护。"
         }
       ]

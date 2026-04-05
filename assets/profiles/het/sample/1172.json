@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其肯定自己的成就、进行认知重构或积极自我陈述时",
           "interpretation": "将自我肯定等同于炫耀，担心被评判，于是与情感保持距离，更多以理性陈述替代情绪体验",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "采用温和、共情且不评判的语气，先验证其不适，再以具体事实连接情感与成就，避免强迫其表态。"
         },
         {
           "trigger_condition": "当被问及是否愿意与家人朋友分享自己的成就或接受赞赏时",
           "interpretation": "认为他人会把自己视为炫耀者，于是对外表达转为自我压抑，并为回避分享寻找合理理由",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以探索式提问、温柔语气，邀请其区分“炫耀”与“真实分享”，鼓励用具体例证检视推论。"
         }
       ]

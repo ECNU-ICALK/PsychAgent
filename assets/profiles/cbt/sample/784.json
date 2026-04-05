@@ -78,21 +78,18 @@
           "trigger_condition": "当谈及兄弟姐妹缺席生日或被忽视的话题时",
           "interpretation": "潜意识将他人的沉默或不一致理解为“像兄弟姐妹一样忽视我”（移情：认为对方会不在乎）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以质疑和指责的语气强调“不在乎/忽视”，使用绝对化措辞；必要时强调自身受伤以寻求确认。"
         },
         {
           "trigger_condition": "在沟通中情绪过强、感觉被误解时",
           "interpretation": "继续表达会更受伤，保持沉默更安全",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "突然沉默、缩短回答，回避细节与情感词；语气平淡，降低交流强度。"
         },
         {
           "trigger_condition": "面对亲密关系的不确定性或被忽视的线索",
           "interpretation": "将原本的伤心与渴望转化为对他人的愤怒以保护自我",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "提高音量、使用责备与泛化语句（如“你们总是……”），以愤怒掩盖脆弱，减少自我暴露。"
         }
       ]

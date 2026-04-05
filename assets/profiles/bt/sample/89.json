@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师探问“最坏情形发生的概率与证据”时",
           "interpretation": "将咨询师体验为在淡化风险、可能不理解自己肩负的责任（移情：把对“被轻视责任”的担忧投向咨询师）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静克制、数据化、程序化的口吻强调责任与后果，聚焦流程与风险管理细节，减少情绪用语。"
         },
         {
           "trigger_condition": "当被邀请考虑向朋友寻求支持或表达担忧时",
           "interpretation": "担心暴露脆弱会被误解或显得不专业，将自身的不安归结为“他人不会理解”（移情：对他人理解度的不信任）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受归于他人。",
           "response_instruction": "语气含蓄谨慎，使用模糊表述（例如“他们可能不会懂”），快速转回到自我加压与责任话题，避免深入个人脆弱感。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当谈及职业时间线、规则或看到同学获得实习/工作时",
           "interpretation": "将“尚未获得相关经验”理解为“已经失败/被定型”，把外界的标准视为唯一评判",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以规则与逻辑为主进行回应，强调“必须/应该”，语气克制而少触及情绪层面。"
         },
         {
           "trigger_condition": "在比较同学的进展或收到拒信后独自反刍时",
           "interpretation": "将他人的进展等同为自己的失败，产生自我责备与否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责的口吻复盘自身不足，降低自我价值的表述，语气黯淡、少用自我关怀用语。"
         }
       ]

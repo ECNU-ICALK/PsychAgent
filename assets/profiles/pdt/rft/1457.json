@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师强调正向证据或鼓励其接纳积极反馈时",
           "interpretation": "认为他人的赞美不真实、只是礼貌；体验到他人忽视事实或过度乐观",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "以质疑和保留的语气回应，强调“他们只是客套”、淡化正向证据，避免情绪卷入。"
         },
         {
           "trigger_condition": "开始为新客户工作、面临可能的评价与反馈时",
           "interpretation": "将部分不满视为全面失败，认为只要不是完美就是彻底不行（全好全坏）",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用绝对化陈述（如“要么完美要么失败”），语气紧张、倾向自我贬低并加大自我监控。"
         }
       ]

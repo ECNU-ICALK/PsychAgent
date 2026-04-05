@@ -77,21 +77,18 @@
           "trigger_condition": "当咨询师建议以更平衡的视角看待饮食风险或减少过度查阅资料时",
           "interpretation": "潜意识认为“只有持续研究和严格控制才安全”，将建议理解为不够重视风险",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以理性、冷静的语气列举数据与风险、强调预防细则，尽量回避对“恐惧与不确定”的直接感受表达。"
         },
         {
           "trigger_condition": "当被邀请参加涉及高热量食物的社交聚会时",
           "interpretation": "认为他人会逼迫我吃不健康食物或不理解我的担忧（把自己的不安归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "语气紧张、防御性强，强调“他们会让我失控”，用他人动机作为回避的理由。"
         },
         {
           "trigger_condition": "面对新的学习任务或挑战、出现一次失败时",
           "interpretation": "将情境与自我能力全盘地划归为“好/坏”“聪明/愚蠢”的两极",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用绝对化词汇（如“永远”“一定”“完全”），语气急促，坚持二元结论，排除中间地带与复杂性。"
         }
       ]

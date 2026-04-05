@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师或他人建议更多利用家庭支持、共同规划或依靠外部资源时",
           "interpretation": "倾向将求助理解为软弱，认为应当独自承担并解决问题（移情：将外界“应该独立”的规则内化）",
           "defense_mechanism": "sring",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用‘我应该自己处理’等陈述，语气平稳但略显坚持，降低对外部支持的接受度。"
         },
         {
           "trigger_condition": "当讨论未知的退休生活或被问及具体感受时",
           "interpretation": "通过强调计划与步骤来掌控不确定，弱化直接情绪体验（移情：将不确定视为威胁）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以条理化、步骤化的方式回应，尽量少用情绪词，保持冷静客观的语气。"
         }
       ]

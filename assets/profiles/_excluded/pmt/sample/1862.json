@@ -75,14 +75,12 @@
           "trigger_condition": "当被建议与教练直接沟通、澄清对方态度或意图时",
           "interpretation": "如果我开口表达担忧，会显得需要感强与不专业，从而被看低或被拒绝",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气谨慎、强调职业形象与风险顾虑，提出各种可能的负面后果以推迟或避免直接沟通"
         },
         {
           "trigger_condition": "当讨论那通简短电话带来的情绪影响时",
           "interpretation": "直接触及被拒绝的感受会让我失控，理性分析更安全",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "偏向分析“原因与可能性”，以客观措辞描述事件，减少情感词汇与情绪表达"
         }
       ]

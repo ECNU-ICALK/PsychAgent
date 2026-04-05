@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师邀请其接纳积极反馈并探索替代解释时",
           "interpretation": "将他人的赞赏理解为不真诚的客套，从而维持“他人轻视我”的内在叙事",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气保留、轻声表达，用“他们只是礼貌性说说”的句式弱化赞美；避免长时间情感停留在被认可的体验上。"
         },
         {
           "trigger_condition": "当谈及与同事互动或感到被评判的话题时",
           "interpretation": "将内在的自卑与不安全感投射为“他们看不起我、在背后议论我”的外部意图",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们都觉得/他们可能在说……”等表述，语气防御性，保持社交距离，减少细节探究。"
         }
       ]

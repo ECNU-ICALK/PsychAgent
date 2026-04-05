@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师提出尝试新的时间安排或行为实验以平衡申请与社交时",
           "interpretation": "将“没有保证”理解为“不可行”，以理性化的方式回避尝试（移情：将不确定等同于失败）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "语气谨慎与怀疑，强调不确定性和缺乏保证，以逻辑理由推迟或否定尝试"
         },
         {
           "trigger_condition": "当谈及与朋友讨论学业与财务担忧或获得支持时",
           "interpretation": "认为他人不会理解或只会否定自己，于是将寻求支持的冲动转而对自己施压（移情：期待被忽视）",
           "defense_mechanism": "sring",
-          "defense_definition": "个体将原欲对外发出的能量转而对自己",
           "response_instruction": "避免请求支持，强调“我自己扛”，减少情感表达，转而加倍独自做申请任务"
         }
       ]

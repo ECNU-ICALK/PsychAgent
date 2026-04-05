@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师强调她对朋友的实际支持并邀请她看见正向证据时",
           "interpretation": "潜意识里认为这些正向证据不足以证明价值，若承认就会放松对自己的要求而被视为不可靠",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "淡化积极证据，强调可能的不足之处，以谨慎、保留的语气回应（如“我可能还是说错了”）。"
         },
         {
           "trigger_condition": "当被邀请去直接向朋友求证他们的真实看法或反馈时",
           "interpretation": "预期对方会证实她“不可靠/不够好”（将自我贬低感投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "回避求证或改变话题，以犹豫且自我怀疑的语气表达担忧（如“他们大概会那样想”）。"
         }
       ]

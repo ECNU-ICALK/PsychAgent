@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师建议与女儿沟通或询问其饮食偏好时",
           "interpretation": "担心对方会像“评判者”一样直接否定自己，等同于“我不够好”",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象与理性分析来避免情感卷入和焦虑。",
           "response_instruction": "避免谈及被拒绝的感受，转而细化菜谱与步骤，用冷静、客观的语气讨论“应该怎么做”。"
         },
         {
           "trigger_condition": "当咨询师探询其负面自我评价与情绪体验的来源时",
           "interpretation": "将紧张与失败全归因于自己，认为“都是我的问题”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或失望转向自己，表现为自责与贬低自我。",
           "response_instruction": "使用自责性表述，降低自我价值评价，语气内疚、谨慎。"
         }
       ]

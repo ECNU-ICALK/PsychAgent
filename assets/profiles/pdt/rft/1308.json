@@ -83,21 +83,18 @@
           "trigger_condition": "当他人对其菜品表示赞美或给出正向反馈时",
           "interpretation": "倾向于认为对方只是礼貌或安慰，真实评价可能是不佳（移情：将内在的否定投向他人）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和、先接纳对方反馈，再以开放式问题探询证据（如“你具体喜欢哪一点？”），避免立即否定；适度自我揭示当下的不安感。"
         },
         {
           "trigger_condition": "准备为他人烹饪或回想晚宴烧糊菜的情境",
           "interpretation": "将外界的高标准与“零错误”规则内化，认为小失误等于整体失败（移情：内摄的苛刻他人）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用支持性语气，邀请区分“外在标准”与“个人可行标准”；鼓励具体化错误的影响范围，引导看见部分成功与改进点。"
         },
         {
           "trigger_condition": "看到他人进行体力活动或回想脚踝受伤细节",
           "interpretation": "以理性细节化和过度分析来回避情绪，预设再次受伤的可能性（移情：把危险感放大）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "保持稳定语速与共情语气，先镜映其担忧，再引导回到具体当下身体信号与安全行为；以小步行为实验替代长篇分析。"
         }
       ]

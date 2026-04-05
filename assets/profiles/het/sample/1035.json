@@ -76,21 +76,18 @@
           "trigger_condition": "当咨询师或他人提出以更平衡的视角看待咖啡风险/建议减少饮用时",
           "interpretation": "担心对风险的淡化意味着会失去对健康的控制（将他人的建议体验为对自身安全的威胁）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以数据与研究为主陈述，语气冷静，弱化或回避主观情绪体验。"
         },
         {
           "trigger_condition": "讨论是否向朋友求助或透露困扰时",
           "interpretation": "认为一旦表达脆弱会被看轻（“这只是咖啡”）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "简短否认需要帮助，转移话题，不深入展开对支持的渴望。"
         },
         {
           "trigger_condition": "在工作压力大且被建议减少咖啡时",
           "interpretation": "认为当下任务更重要，减少咖啡会导致失败与失控",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "强调现实任务的紧迫性，以“现在不是时候”为由推迟改变。"
         }
       ]

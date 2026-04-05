@@ -75,14 +75,12 @@
           "trigger_condition": "在咨询中被询问“失败的证据与反证据”时，或谈及低销量/额外支出等坏消息",
           "interpretation": "将负面迹象理解为必然走向失败的“确凿证据”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "坚持以“低销售/过去困难”为依据进行论证，语气焦虑但笃定，忽略或弱化正面数据与反例。"
         },
         {
           "trigger_condition": "谈及与父母或朋友沟通自己的恐惧与担忧时",
           "interpretation": "他们会被我不断的担忧所负担，因此不应多谈",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答并回避深入情感描述，用“我不想再麻烦他们”作结，减少自我暴露。"
         }
       ]

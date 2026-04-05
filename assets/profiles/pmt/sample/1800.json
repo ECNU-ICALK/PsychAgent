@@ -81,14 +81,12 @@
           "trigger_condition": "当看到同伴的优秀表现或被问及学业与毕业规划时",
           "interpretation": "认为别人会觉得自己不够好，自己的成就没有价值（投射了严苛的外部评判）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性化语言强调“普通/无意义”，语气平静、减少情感色彩；多用客观描述来压过主观感受。"
         },
         {
           "trigger_condition": "当想到向朋友倾诉或接受支持时",
           "interpretation": "认为对方会被自己拖累、不愿听自己的问题（将他人设为潜在拒斥者）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "简短回应、避免细节，礼貌转移话题到课程或泛泛近况；语气克制，降低情感强度。"
         }
       ]

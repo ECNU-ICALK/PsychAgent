@@ -72,14 +72,12 @@
           "trigger_condition": "当咨询师邀请其为“销量不佳=我很差”的想法寻找其他解释或证据时",
           "interpretation": "把注意力转向客观因素以避免直面被拒的羞耻（移情：将咨询师的探问体验为对自我价值的审视）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平稳、强调数据与多因素分析（市场竞争、营销力度），减少情感色彩与主观感受的表述。"
         },
         {
           "trigger_condition": "当谈到拒信与销量下滑等失败经历时",
           "interpretation": "将外界的拒绝等同为自我整体价值低劣（把他人的评价内向化成对自我的攻击）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬低与自责的语句，降低自我评价，语气带羞耻与无力，避免寻求支持。"
         }
       ]

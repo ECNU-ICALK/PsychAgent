@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师建议放松“必须按计划完美执行”的规则、倡导自我关怀时",
           "interpretation": "将灵活性理解为“变得更不负责任”，担心因此被视为失败",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平静但坚持的语气提出担忧，例如“如果不严格，我会更不高效”，用理性论证而回避情绪层面的体验。"
         },
         {
           "trigger_condition": "当谈到过去的失误（如迟到、未完成计划）时",
           "interpretation": "将具体情境的偶发失误等同于对自身品格的全面否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "自我贬低、使用负性标签（如“我就是失败者”），语气低落，强化内疚感。"
         },
         {
           "trigger_condition": "当深入探讨其内疚与羞耻等情绪体验时",
           "interpretation": "认为直接触及情绪是危险或无益，选择仅陈述事实以保持掌控",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用冷静、中性语气描述事件与计划，避免使用情绪词汇与停留在情绪层面。"
         }
       ]

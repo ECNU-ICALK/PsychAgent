@@ -79,21 +79,18 @@
           "trigger_condition": "当咨询师鼓励其关注积极面或考虑已获得的录取机会时",
           "interpretation": "潜意识认为咨询师在要求她忽视自己的痛苦、否认失败（移情：将支持体验为否定）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用“理论上……”等理性语言，语气平淡，降低情感表达，强调“我不确定能做到”。"
         },
         {
           "trigger_condition": "当被问及是否愿意与亲友分享感受或寻求支持时",
           "interpretation": "认为暴露脆弱会被嘲笑或看不起（移情：将他人视为潜在批评者）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答、转移话题，强调“我自己处理”，语气克制，减少情感词汇。"
         },
         {
           "trigger_condition": "当谈及九所录取与既有成就时",
           "interpretation": "这些成就与自己无关或“没有意义”（移情：贬低积极的客体）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以平淡语气陈述事实，避免表达喜悦或自豪，快速转回到拒信话题。"
         }
       ]

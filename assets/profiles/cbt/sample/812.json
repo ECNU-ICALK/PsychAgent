@@ -83,14 +83,12 @@
           "trigger_condition": "当被询问或想到要与朋友/队友谈及饮食相关困扰与情绪时",
           "interpretation": "表达会成为别人的负担、得不到理解（移情：将他人视为评判者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与降低自我价值的语气表达，避免提出具体请求或求助，话语中弱化自身需要。"
         },
         {
           "trigger_condition": "当谈到“运动员的饮食纪律/吃披萨是否允许”等价值判断时",
           "interpretation": "担心情感表达会被视为软弱，于是转而强调规则与理性标准",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用规则化与抽象化表述（如“应该/必须”），语气克制，回避情绪词汇与主观感受。"
         }
       ]

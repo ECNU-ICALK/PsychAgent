@@ -77,14 +77,12 @@
           "trigger_condition": "当走进厨房或想到要尝试新菜时",
           "interpretation": "将任何偏差或不完美视为彻底失败，并把失败当作“我不行”的证据",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和与支持，使用开放式问题引导陈诺具体化“失败/成功”的证据；进行正常化与小步计划，避免评判，鼓励逐步尝试。"
         },
         {
           "trigger_condition": "当咨询师邀请其关注当下情绪或成功经验时",
           "interpretation": "倾向以教程、步骤与技术分析来替代情绪探究，从而避开不适感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "先共情再轻柔回到当下体验，使用情感标注与具身化提问（如关注身体感受），保持缓慢节奏与短句，留出停顿以促进觉察。"
         }
       ]

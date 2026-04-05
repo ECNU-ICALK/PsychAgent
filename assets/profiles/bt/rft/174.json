@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师建议将“严格规则”改为“心愿/目标”，并鼓励适应性策略时",
           "interpretation": "将改变理解为“作弊”或放弃标准，担心被评判与不被认可",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以谨慎、解释型语气表达顾虑（如“这感觉像作弊”），强调坚持规则的“正确性”，对改变持保留态度。"
         },
         {
           "trigger_condition": "当咨询师指出其非黑即白思维并邀请设定更现实的练琴目标时",
           "interpretation": "倾向认为这些建议无助或否认其问题的严重性（如“我不知道这是否有用”）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "语气冷淡或怀疑，淡化建议的有效性，以简短回应或保留态度推迟尝试。"
         }
       ]

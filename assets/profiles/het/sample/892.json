@@ -70,14 +70,12 @@
           "trigger_condition": "当咨询师或他人指出外部因素（如时间冲突）或强调正面反馈时",
           "interpretation": "来访者体验为“你不理解我的痛苦，这主要是我的问题”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "坚持将低出席率归因于自己，语气平静但固执，使用“共同点是我/我的活动不够吸引人”等表述来维持认知。"
         },
         {
           "trigger_condition": "当谈到向朋友寻求支持或表达需要时",
           "interpretation": "认为自己是负担，别人不愿意支持自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与内疚语气（如“都是我的问题，我不该麻烦别人”），降低自我价值感并弱化求助行为。"
         }
       ]

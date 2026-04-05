@@ -82,21 +82,18 @@
           "trigger_condition": "当作品未达到预期或收到负面反馈时",
           "interpretation": "将一次失败视为全部能力的否定，认为这证明“我不够好”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平稳而不评判，先共情其羞耻与挫败，邀请具体化证据与反例；使用温和的挑战，区分一次错误与整体能力。"
         },
         {
           "trigger_condition": "当朋友给予赞美与支持时",
           "interpretation": "认为对方只是为了安慰自己，赞美不真实、没有价值",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "保持接纳的态度，反映其“难以相信赞美”的体验，邀请拆解赞美的具体内容与来源，进行现实检验与意义再建构。"
         },
         {
           "trigger_condition": "当看到他人更优秀的作品或想到同行的才能时",
           "interpretation": "把他人的优点视为对自身的全面否定，陷入比较与绝望",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气温和、以同理心承接自我批评，鼓励区分他人优势与自己的成长路径；使用具体化与时间线方法，识别自身可控的微小改进。"
         }
       ]

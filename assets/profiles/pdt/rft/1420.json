@@ -81,14 +81,12 @@
           "trigger_condition": "在社交场合他人谈笑、尚未直接与自己互动或邀请时",
           "interpretation": "认为他人会看出自己的尴尬并评判自己（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，使用模糊表述（如“他们可能会……”），减少自我揭露，选择沉默或简短回应。"
         },
         {
           "trigger_condition": "当被建议与母亲讨论社交焦虑、尝试获得支持时",
           "interpretation": "把可能的误解等同于必然的拒绝，认为表达只会带来否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "提出多种实际困难作为理由（如“她不会理解我”），语气犹豫，降低行动承诺。"
         }
       ]

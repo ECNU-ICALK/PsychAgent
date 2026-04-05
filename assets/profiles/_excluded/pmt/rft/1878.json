@@ -79,14 +79,12 @@
           "trigger_condition": "当面对或预期他人对其体重/外貌的评论（如聚餐、与人见面）",
           "interpretation": "他人会像评审一样挑剔并拒绝我（移情性地将内在苛责投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊与回避的表述、减少自我暴露，语气谨慎，转移到“最近很忙/不太饿”等中性话题。"
         },
         {
           "trigger_condition": "当咨询师或他人肯定其减重5磅等积极变化",
           "interpretation": "这些正向信息并不可靠或“没有意义”，需要用更严格标准来衡量",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用数字与规则强调“不算真正的进步”，语气平淡、避免谈情绪体验，以数据反驳正向反馈。"
         }
       ]

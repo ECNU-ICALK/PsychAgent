@@ -74,14 +74,12 @@
           "trigger_condition": "当谈及“我应该更早注意到”这类自责语句，或在照护细节被关注时",
           "interpretation": "潜意识将不可控的因素解读为自身失职，认为只有更严苛地要求自己才算合格",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用温和、共情的语气，承认其用心与责任感；以开放式提问引导区分可控与不可控因素，鼓励情感命名与现实检证，减少自我惩罚式语言。"
         },
         {
           "trigger_condition": "当面对病因与治疗的不确定性而不断检索信息、寻求“完美标准”时",
           "interpretation": "相信找到完美答案就能避免错误，以理性分析来对抗焦虑",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "降低解释强度，邀请其关注当下身体与情绪体验；以具体、有限的事实检视代替无限搜寻，强化对自身有效行为的认可。"
         }
       ]

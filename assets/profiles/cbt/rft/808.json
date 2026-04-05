@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其关注并承认小的成功、建议以不同视角审视进步时",
           "interpretation": "倾向认为小成功不重要、无法代表真正的进步",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和且验证其感受，避免对立；邀请其具体举例并量化“小成功”，使用开放式问题与反映式倾听，帮助其将事实与评价分离。"
         },
         {
           "trigger_condition": "当被询问是否愿意与朋友讨论自己的不足或寻求支持时",
           "interpretation": "认为表达不足会让自己更加尴尬或不被理解，因此选择不分享",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "保持共情与安全感，使用低风险的分享邀请（如仅描述一个具体情境），并提供选择权；鼓励其识别与命名情绪强度，逐步增加情感承载。"
         }
       ]

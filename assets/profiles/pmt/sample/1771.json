@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师询问“有什么证据支持你的担心”或对其假设提出挑战时",
           "interpretation": "将他人（上司/同伴）的评判体验投射到咨询师身上，感觉自己正在被审视与否定",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用平静、理性的语气罗列原因与假设，强调客观分析，减少情感表达以降低不适。"
         },
         {
           "trigger_condition": "当被邀请具体描述当下情绪或承认对被拒绝的恐惧时",
           "interpretation": "担心直接表达感受会导致被评判或失控，因此倾向保持距离",
           "defense_mechanism": "sring",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应",
           "response_instruction": "以描述事实和计划为主，语气克制，快速从情绪层面转向任务与细节。"
         }
       ]

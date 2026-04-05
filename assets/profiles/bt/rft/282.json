@@ -83,21 +83,18 @@
           "trigger_condition": "当咨询师邀请其细述在家庭聚会中被忽视的具体感受与片段时",
           "interpretation": "表达真实需求会让自己显得“太需要”，他人（包括咨询师）可能会不自在或敷衍",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以平铺直叙、轻描淡写的方式叙述事件细节，减少情绪词汇与主观感受描述，语气克制、稍显疏离。"
         },
         {
           "trigger_condition": "当咨询师鼓励其在家庭中尝试更多发声或进行小型行为实验时",
           "interpretation": "行动可能让自己出丑或被忽视，理性评估细节更安全",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用分析/假设性的语言讨论利弊与步骤，避免触及当下情绪体验，语气谨慎、客观。"
         },
         {
           "trigger_condition": "当谈及他人对自己的看法（如家人是否在乎、朋友是否喜欢）时",
           "interpretation": "将自身的自我怀疑与不被需要的感受归因于他人对自己的负面态度",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们可能觉得/他们大概只是……”的表述来推测他人动机，回避自我情感的直接表达。"
         }
       ]

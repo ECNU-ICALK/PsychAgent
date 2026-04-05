@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师建议联系家人/朋友寻求支持或讨论自我照护时",
           "interpretation": "来访者担心一旦开口会暴露自己“不称职”的一面，认为他人会对其负面评价（移情：将自我批判投向他人视角）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责性的语言表达（如“都是我的错”），降低自我价值，拒绝或推迟求助，语气克制、避免深入他人支持。"
         },
         {
           "trigger_condition": "当咨询师提出具体行动计划并评估利弊时",
           "interpretation": "来访者将结果以非黑即白方式理解：若未完全找回宠物即视为彻底失败",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "用绝对化、全或无的措辞回应（如“要么找回Max，要么我就是最差的主人”），语气紧张，忽略中间可能性。"
         }
       ]

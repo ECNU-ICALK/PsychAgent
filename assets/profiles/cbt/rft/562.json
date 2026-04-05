@@ -76,21 +76,18 @@
           "trigger_condition": "当朋友或观众给予正面反馈时",
           "interpretation": "来访者认为对方是在敷衍或不真诚（将自身的否定体验投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气温和与探询，邀请其区分事实与推测，具体化他人反馈的证据来源，鼓励检视与对方的实际互动细节。"
         },
         {
           "trigger_condition": "当咨询师建议录音回放或在低压环境练习最后一段时",
           "interpretation": "来访者担心这会“证明自己很糟”，预先想象最坏结果以应对不确定性",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "以支持与共情的语气，协商小步实验（时间短、环境安全），先关注中性与积极线索，设定可控的观察维度以降低情绪激活。"
         },
         {
           "trigger_condition": "当独自反复回想演出中的错误片段时",
           "interpretation": "将一次错误视为对整体自我价值的否定，攻击性转向自身",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用高共情与具身化语言，命名自我攻击，把评判转为具体可改进的行为项目，引导练习自我慈悲与平衡评价。"
         }
       ]

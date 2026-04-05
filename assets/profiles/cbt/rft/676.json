@@ -84,14 +84,12 @@
           "trigger_condition": "当被问及兴趣或察觉到他人微表情/评论时",
           "interpretation": "认为对方像那位朋友一样在嘲笑并看不起自己（将过去的负面经历投射到当前关系）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "用简短、回避的语气快速带过自己的兴趣，或说“没什么特别的”，避免展开细节；若被继续追问则转移话题。"
         },
         {
           "trigger_condition": "当咨询师鼓励她回忆正向反馈并记录积极体验时",
           "interpretation": "认为这些正向例子不足以改变总体评价，担心被忽视的负面经历再次发生",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象、概括性的语言讨论“社会怎么看成熟”，避免触及自己的情绪，语气平稳、缺乏情感色彩。"
         }
       ]

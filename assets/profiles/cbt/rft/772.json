@@ -82,21 +82,18 @@
           "trigger_condition": "当咨询师或他人赞扬其工作并邀请其探讨职业动机时",
           "interpretation": "将赞美体验为“审视”，担心被看成动机不纯的伪善者（移情：被评判）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "采用温和、具体化的提问；鼓励描述当下体验与具体行为证据，少用价值评判词；语气平稳，承认其矛盾感。"
         },
         {
           "trigger_condition": "夜间独处、临睡前出现反刍时",
           "interpretation": "把动机的不确定性视为危险，认为必须立即找到确定答案以避免被视为不真诚",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "引导其将注意力拉回当下的身体感受与事实清单；用短句、慢速，限制过度分析，鼓励记录可观察证据。"
         },
         {
           "trigger_condition": "与同事互动时感觉对方“注意到自己不对劲”",
           "interpretation": "将自身的不安投射到他人身上，推断对方在负面评价自己",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人",
           "response_instruction": "使用澄清式回应，区分事实与推测；提出检验性问题，语气柔和，避免对错式评判。"
         }
       ]

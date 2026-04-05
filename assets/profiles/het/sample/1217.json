@@ -85,14 +85,12 @@
           "trigger_condition": "当谈论向父母坦白性取向或回忆被心仪对象拒绝的经历时",
           "interpretation": "倾向将他人视为会评判并拒绝自己的“拒绝者”（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "采用稳定情绪与同理的语气，先承认恐惧的合理性，再以温和提问邀请具体证据与相反例子，避免对抗与贴标签。"
         },
         {
           "trigger_condition": "当强烈的焦虑与躯体不适（胸闷、恶心）出现且被询问更深入的细节与感受时",
           "interpretation": "倾向以回避亲密与自我暴露来保护自己，减少进一步触及痛点",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "降低刺激强度，使用地面化与慢速探询，允许暂停与选择性分享，以增强安全感。"
         }
       ]

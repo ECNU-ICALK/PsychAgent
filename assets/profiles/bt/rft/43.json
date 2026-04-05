@@ -82,14 +82,12 @@
           "trigger_condition": "当讨论或面对“主动接近他人、向高手请教”的建议时",
           "interpretation": "认为他人会像评判者一样嫌弃自己（会觉得我很烦）并拒绝我",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气犹豫、降低音量，使用自我否定措辞（如“可能会打扰你们”），提前为退缩留余地。"
         },
         {
           "trigger_condition": "当被邀请关注正向反馈与小的进步时",
           "interpretation": "把正向反馈视为“不算数”，坚持以负面标准评估自己以避免失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "淡化积极、迅速转回缺点，语气平淡并用“只是运气/不常发生”来覆盖正向信息。"
         }
       ]

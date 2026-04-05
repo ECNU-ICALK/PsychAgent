@@ -77,14 +77,12 @@
           "trigger_condition": "当谈及公众演唱或回忆忘词事件时",
           "interpretation": "将内在自我批评体验为“他人都在评判我、看我笑话”",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以笃定的口吻描述他人负面想法（如“大家都会笑我”），忽略反证，对他人反应作负面推断。"
         },
         {
           "trigger_condition": "当被鼓励向家人倾诉或尝试小步暴露练习时",
           "interpretation": "用看似理性的理由来弱化情绪困扰（如“每个人都会犯错，我应该早就好了”）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“应该/本来就该”的陈述，语气平淡、轻描淡写感受，以道理覆盖情绪，回避进一步情感探索。"
         }
       ]

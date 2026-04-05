@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师建议将“必须不焦虑”的规则改为“希望能更好地管理兴奋”，并邀请其进行自我同情练习时",
           "interpretation": "倾向认为这些建议“并不解决问题”，担心自己仍会在社交中失控",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以委婉但保留的语气表达质疑，如“这好像不能真正解决问题”，强调现实困难，并将话题拉回自身焦虑的合理性。"
         },
         {
           "trigger_condition": "当咨询师要求其识别并称赞自身的韧性与优点时",
           "interpretation": "将积极反馈视为“不习惯或不真实”，以保持距离避免自我肯定带来的不适",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用客观、平静的语气，如“我可以试试，但不确定有没有用”，避免表达积极情绪与自我赞美。"
         }
       ]

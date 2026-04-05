@@ -129,7 +129,7 @@ class RuntimeConfig:
     psychagent_retry_sleep_sec: float = 1.0
     psychagent_counselor_system_filename: str = "system.jinja2"
 
-    psychagent_skill_base_dir: str = "skills/sect"
+    psychagent_skill_base_dir: str = "assets/skills/sect"
     psychagent_skill_select_prompt_dir: str = "prompts/psychagent/skill/select_skill"
     psychagent_skill_rewrite_prompt_dir: str = "prompts/psychagent/skill/rewrite"
     psychagent_skill_sects: str | List[str] = "all"
@@ -301,7 +301,7 @@ def runtime_field_statuses() -> Dict[str, str]:
 
 def _runtime_defaults_for_psychagent_library() -> Dict[str, str]:
     return {
-        "psychagent_skill_base_dir": "skills/sect",
+        "psychagent_skill_base_dir": "assets/skills/sect",
         "psychagent_skill_select_prompt_dir": "prompts/psychagent/skill/select_skill",
         "psychagent_skill_rewrite_prompt_dir": "prompts/psychagent/skill/rewrite",
     }

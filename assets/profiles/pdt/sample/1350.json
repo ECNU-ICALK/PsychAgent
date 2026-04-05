@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师询问与儿子互动细节或指出其自责模式时",
           "interpretation": "担心自己会被看作不称职，于是将可能对外的失望或愤怒转向自我（对自己更苛责）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气自责、降低自我价值，反复使用“都是我不对”“我做得不好”等表述，回避表达对情境或外部因素的不满。"
         },
         {
           "trigger_condition": "当被邀请与他人（如朋友）讨论育儿困扰或公开表达感受时",
           "interpretation": "认为外界会负面评价自己，暴露脆弱等同于羞耻与风险",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "使用含糊与简短回应，避免展开个人感受，转向客观事实或结束话题，语气克制。"
         }
       ]

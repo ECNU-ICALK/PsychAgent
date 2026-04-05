@@ -82,21 +82,18 @@
           "trigger_condition": "当在社交场合谈及亲密关系时",
           "interpretation": "认为他人都已安稳而自己被排除，若表达自己会显得失败（移情：自我贬损）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气自责、降低音量，避免直视；使用“都是我不行”等自我批评句式，减少与对方的互动。"
         },
         {
           "trigger_condition": "当想到或看到前男友的婚姻与近况时",
           "interpretation": "将对方的选择当作对自身价值的否定（移情：摄入/内向投射）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以概括性判断表达“这说明我不值得被爱”，忽略复杂背景，语气沉重。"
         },
         {
           "trigger_condition": "当被邀请或被问及是否与亲友分享内心感受时",
           "interpretation": "担心表达会加剧痛苦或被误解，因此选择隐忍",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "礼貌地转移话题，强调“我没事”，减少情感词，维持冷静语气。"
         }
       ]

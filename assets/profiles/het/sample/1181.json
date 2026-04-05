@@ -78,14 +78,12 @@
           "trigger_condition": "当被邀请尝试新方法（如行为实验）或被鼓励继续练习烹饪时",
           "interpretation": "把尝试理解为“必须成功，否则再次证明我不行”，并预设结局不会改变（悲观期待）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以消极、怀疑的语气强调过去的失败和“不会有变化”的理由，用否定式预测来拒绝尝试。"
         },
         {
           "trigger_condition": "当做饭失败或在日常活动中出现小错误，被询问其体验或细节时",
           "interpretation": "把错误当成对整体价值的判决，认为“我不配、我不够好”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用强烈自责与贬低自己的语句，放大错误、忽视正面，语气沉重而否定。"
         }
       ]

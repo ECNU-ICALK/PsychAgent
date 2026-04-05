@@ -84,14 +84,12 @@
           "trigger_condition": "当他人（包括咨询师或朋友）给予积极反馈或建议其公开分享作品时",
           "interpretation": "认为对方只是出于礼貌，真实观点是负面评价；公开分享等同于暴露自身不足",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以委婉语否定积极反馈，强调作品的缺点，提出多种理由推迟或回避分享。"
         },
         {
           "trigger_condition": "当被探问拍照体验或讨论如何提升摄影时",
           "interpretation": "将问题完全归因于技术差距，淡化或绕开关于羞愧与自我价值的感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "采用分析性语气，罗列技术改进与学习计划，避免表达脆弱情绪。"
         }
       ]

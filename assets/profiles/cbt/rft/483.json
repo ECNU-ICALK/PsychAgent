@@ -76,21 +76,18 @@
           "trigger_condition": "当被鼓励与同伴或咨询师分享内疚与脆弱时",
           "interpretation": "认为表达情绪等同于软弱，会被他人轻视（移情：把他人看作严苛评判者）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "以简短含糊的方式回应情绪问题，迅速转向任务和事实，减少第一人称情感表述。"
         },
         {
           "trigger_condition": "当谈及未能救下的个体或被询问“责任归因”时",
           "interpretation": "将本不可控因素内化为个人过失，觉得必须独自承担全部后果",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责、承担全部责任的语句；弱化环境限制与团队因素。"
         },
         {
           "trigger_condition": "当咨询师或他人强调正向贡献并给予肯定时",
           "interpretation": "将肯定视为忽视问题的“安慰”，担心因此放松警惕而再次失败",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用冷静客观的语气强调流程、数据与标准，回避主观感受与自我接纳的讨论。"
         }
       ]

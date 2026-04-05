@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师邀请其考虑更平衡的证据、提出替代观点或正向肯定时",
           "interpretation": "将乐观视为不切实际，认为忽视严苛的现实会导致更大失望",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以冷静、分析性的语气强调房价与收入差距等客观数据，减少情绪用词与主观感受的表达。"
         },
         {
           "trigger_condition": "讨论求职受挫或面试被拒等经历时",
           "interpretation": "将失败完全内归因为“我不够好”，忽略情境与竞争等外部因素",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责式句式（如“都是我不够好”），语气压低、回避提出外部支持或缓冲因素。"
         }
       ]

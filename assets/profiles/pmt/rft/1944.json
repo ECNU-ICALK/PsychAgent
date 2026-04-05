@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师建议与朋友核实假设、开展行为实验时",
           "interpretation": "认为别人会否定或指责自己（将内在的自我批评与被评判感投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以谨慎而否定的语气回应，强调“他们会否认/我太敏感”，拒绝或拖延直接核实。"
         },
         {
           "trigger_condition": "与朋友相处时捕捉到模糊的目光或言谈线索",
           "interpretation": "将这些线索理解为对自己母职的否定与批评",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“我不行/我失败了”），回避表达对他人的失望或愤怒，降低自我价值。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当尝试高难度独奏并出现错误，或在现场/网络上看到他人轻松完成该独奏时",
           "interpretation": "把一次失败视为自身根本缺陷，认为他人会据此看低自己（将技能表现与自我价值绑定）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "先以温和、接纳的语气共情其羞愧与沮丧，再引导其区分技能与自我价值；使用具体化提问与事实检验，避免批评性用语。"
         },
         {
           "trigger_condition": "当被邀请回忆并肯定既往成功（如成功演出）时",
           "interpretation": "认为过去的成功不足以证明当前能力，从而忽视正面证据",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生。",
           "response_instruction": "以支持性语气邀请其具体描述成功的细节与努力过程，温和地对照当前的证据，鼓励其在叙述中保留积极面。"
         }
       ]

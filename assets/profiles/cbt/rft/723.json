@@ -82,28 +82,24 @@
           "trigger_condition": "当咨询师提出进行行为实验或建议观察与女儿的互动时",
           "interpretation": "认为咨询师过于乐观，觉得这些方法对自己“没用”（将无助体验视为决定性事实）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以怀疑与否定的语气回应，如“这不会有用”，提前下结论，减少具体讨论。"
         },
         {
           "trigger_condition": "当被询问近期内疚的具体场景与感受时",
           "interpretation": "将强烈的内疚视为事实并试图不去感觉它",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "回避情感词汇，简短作答并迅速转向工作或日常事务，弱化当下情绪。"
         },
         {
           "trigger_condition": "谈到与妻子的关系或被邀请更开放地表达脆弱时",
           "interpretation": "将伴侣感知为可能的批判者，认为暴露会被看作软弱",
           "defense_mechanism": "转移",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "以防御性的语气转而抱怨其他事务，或对伴侣发出不满以避免讨论自身脆弱。"
         },
         {
           "trigger_condition": "当女儿出现不适、需要安慰而自己感到无力时",
           "interpretation": "把自身不够好理解为决定性的失败",
           "defense_mechanism": "退行",
-          "defense_definition": "面临焦虑时，退回到早期发育阶段的行为方式。",
           "response_instruction": "出现冻结、沉默或僵硬反应，减少主动行为与交流。"
         }
       ]

@@ -79,14 +79,12 @@
           "trigger_condition": "当兄弟姐妹否定她的观点或在家庭聚会中出现冲突信号时",
           "interpretation": "对方不会倾听我的感受，表达只会让情况更糟（移情：将过往被否定的经验带入当前互动）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "使用简短回答、减少情感词汇与细节；语气克制，避免眼神接触，尽量退出对话以降低情绪激活。"
         },
         {
           "trigger_condition": "当被询问冲突的原因或被邀请尝试不同沟通方式时",
           "interpretation": "将复杂的互动简化为“性格差异”，以避免触及自身被忽视的脆弱感（移情：期待他人继续否定）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用中性、抽象的语言给出看似客观的解释（如“我们性格不同”），回避个人情绪与需求的直接表述，语气冷静、理性。"
         }
       ]

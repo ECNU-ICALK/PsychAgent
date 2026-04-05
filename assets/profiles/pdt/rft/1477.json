@@ -84,21 +84,18 @@
           "trigger_condition": "当被询问是否会把求职困难与家人分享时",
           "interpretation": "认为一旦表达沮丧会令家人失望、关系受损（移情：将被否定的期待投射到家人反应上）",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "减少情感词汇，简短回应，转而强调“我自己能处理”，语气克制，避免深入讨论情绪。"
         },
         {
           "trigger_condition": "在谈及岗位要求与自身资历不匹配时",
           "interpretation": "把注意力放在证书、经验等客观条目上以避免面对无望与羞耻感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用清单式、数据化的表达（如资格、预算、流程），语气平稳，淡化主观感受。"
         },
         {
           "trigger_condition": "讨论长期求职受挫的原因时",
           "interpretation": "将困难主要归因于“社会期待与刻板印象”，以缓冲自我价值受损",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用泛化陈述（如“社会就是这样”），避免个体化反思，语气平淡并减少自我暴露。"
         }
       ]

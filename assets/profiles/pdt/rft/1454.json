@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师或他人对其徒步/写作给予正向反馈时",
           "interpretation": "对方只是客气或不懂真正标准（将外界积极信息解释为无效）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以轻描淡写的语气回应，用“他们只是客气”“这不算什么”等词语否定积极评价，减少情感表达。"
         },
         {
           "trigger_condition": "当被询问与资深徒步者的比较或讨论自身成就时",
           "interpretation": "他人会像自己内在批评者一样否定我、看穿我（将自我批评投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用模糊与回避性表述，减少细节，转而强调自身不足；语气谨慎，避免直接接触他人的肯定。"
         }
       ]

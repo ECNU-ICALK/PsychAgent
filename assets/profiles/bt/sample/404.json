@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师邀请来访者探索强烈的自动化思维或建议与他人讨论财务困扰时",
           "interpretation": "认为讨论只会暴露自己的羞耻，他人会不理解或评判自己（移情：担心被拒绝/被羞辱）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "先共情其尴尬与担忧，语气温和，提供小而安全的尝试选项，避免直接逼迫其自我揭露，使用开放式问题与具体化引导。"
         },
         {
           "trigger_condition": "当出现意外支出或旅行临近引发强烈焦虑时",
           "interpretation": "将困境归咎于外界（如“宇宙与我作对”），并假定他人不会理解自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持稳定与接纳的语气，进行温和的现实检验，帮助区分事实与推断，引导识别并命名自身感受与需要。"
         }
       ]

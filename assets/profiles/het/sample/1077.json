@@ -76,14 +76,12 @@
           "trigger_condition": "当在顾客或同事面前出现工作差错，或同事就差错开玩笑时",
           "interpretation": "对方会看不起我、认为我愚蠢（移情：将内部自我否定投射到他人评价）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以防御性的语气过度解释或道歉，强调自己的不足，试图通过自我贬低来获得安全感。"
         },
         {
           "trigger_condition": "当他人或咨询师提出更平衡的观点、邀请其用证据反驳自我标签时",
           "interpretation": "积极重构显得勉强，错误才是更“真实”的证据",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "坚持以“如果我更聪明就不会犯错”的论点进行反驳，语气克制但坚定，反复引用差错作为证据。"
         }
       ]

@@ -79,14 +79,12 @@
           "trigger_condition": "当谈及作为人所承受的期待与压力、或被家人批评时",
           "interpretation": "来访者潜意识认为只有逃离人类角色（变成动物）才能摆脱评判与冲突",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境。",
           "response_instruction": "以温和共情的语气认可其对简单生活的向往，邀请其把幻想背后的需求转化为具体可行的生活简化与边界设置方案。"
         },
         {
           "trigger_condition": "当咨询师探索家人是否曾提供支持或肯定，或讨论向他人求助的可能性时",
           "interpretation": "来访者倾向于将冲突与批评内化为自我问题，认为自己不配被支持或肯定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持温柔而坚定的语气，指出自责的模式，鼓励表达对家人的真实感受与需求，使用开放式问题引导其识别可寻求的支持资源。"
         }
       ]

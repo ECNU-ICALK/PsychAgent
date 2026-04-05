@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师建议与丈夫沟通驾驶焦虑、寻求支持时",
           "interpretation": "来访者担心丈夫会觉得自己连“基本的驾驶”都处理不好，从而轻视自己（将内在的羞耻与担忧投射到丈夫）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫、谨慎的语气强调“不想被看不起”，提出暂缓沟通或转移话题到实际困难上。"
         },
         {
           "trigger_condition": "当咨询师引导其用更为平衡的视角看待驾驶风险与焦虑时",
           "interpretation": "来访者以“道路不可预测”为理由，强调理性层面的不可控，从而淡化情绪体验与身心感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用客观、冷静的语气陈述“不可控性”，减少对情绪的描述与停留。"
         },
         {
           "trigger_condition": "当谈及为何回避拥挤路段、并线或绕行时",
           "interpretation": "来访者以“为了安全”解释所有回避行为，将焦虑与害怕合理化为必要的谨慎",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "强调“谨慎是必须的”，以肯定句与理由链条为主，弱化对内在恐惧的承认。"
         }
       ]

@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师邀请其寻找反证、强调其成就与优势时",
           "interpretation": "倾向以客观化、抽象化方式谈论事实，弱化情绪体验与自我价值的主观感受",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "语气平稳、侧重事实与逻辑，少用情绪词；以概括性表述回应，回避深入触及自卑/羞耻感受"
         },
         {
           "trigger_condition": "当谈及同事获赞与对比场景时",
           "interpretation": "将他人成功等同于对自我价值的否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "以无奈且自贬的口吻强调“他们天赋/资源更好”，回避探索自身感受与多元评价标准"
         }
       ]

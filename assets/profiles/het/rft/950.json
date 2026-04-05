@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师询问是否与朋友讨论不足感及可能的反应时",
           "interpretation": "来访者潜意识认为朋友会觉得他在抱怨或夸张（移情：将评价投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，强调“他们可能会觉得我很夸张”，回避深入讨论支持的可能性与具体计划。"
         },
         {
           "trigger_condition": "当被探索冲浪失败与进步的具体情境时",
           "interpretation": "将外部挫败感转向自我贬责，以自我批评来维持控制感和“动力”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬低的表述（如“我不够好”），语气低落，忽略正面细节与小幅进步。"
         }
       ]

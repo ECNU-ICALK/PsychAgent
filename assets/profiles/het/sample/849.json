@@ -77,14 +77,12 @@
           "trigger_condition": "在咨询中谈及“他人如何看待其吸大麻习惯”或被邀请进行现实检验时",
           "interpretation": "担心一旦暴露或测试，就会证实他人确实在负面评判自己",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "以谨慎、委婉的语气表达担忧，提出从更小更安全的步骤开始（如先与信任的朋友交流），并请求过程中的支持与回顾。"
         },
         {
           "trigger_condition": "在社交/工作场景中出现与吸大麻相关的话题",
           "interpretation": "对方在影射和评判自己（将自我批评归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "避免目光接触、迅速转移话题或保持沉默，用简短中性语句结束讨论。"
         }
       ]

@@ -75,21 +75,18 @@
           "trigger_condition": "当需要在咨询或与他人场合承认失败并讨论求助时",
           "interpretation": "来访者潜意识认为他人（包括咨询师）会把自己看作不够聪明并予以贬低（移情：将自身的自我否定投向他人的目光）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎，避免直接暴露脆弱，使用模糊与委婉表达，减少细节披露。"
         },
         {
           "trigger_condition": "当面对挑战性任务、预期可能失败或丢脸时",
           "interpretation": "将外部可能的否定转化为强烈的自我批评，认为问题全在自己（移情：自我贬低）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与否定性语言（如“都是我不好”），快速承担全部责任，减少向外求助或讨论。"
         },
         {
           "trigger_condition": "当被鼓励采用不同视角、重新评估“应该独立”的信念时",
           "interpretation": "将对方的建议体验为对自身原则的否定与控制，从而增强内在紧张（移情：将外部建议视为控制）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以逻辑化语调强调规则与原则（如“理论上我应该能做到”），淡化情绪体验，转移到概念讨论。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其列举优势或挑战“我不够好”的预测时",
           "interpretation": "觉得必须拿出充分证据才能证明自己，否则最终仍会被否定",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平淡、强调外部条件或“也没什么用”的结论，如“会说三种语言也没帮上忙”。"
         },
         {
           "trigger_condition": "谈到面试受挫或未获录用时",
           "interpretation": "将复杂原因归结为自身缺陷，潜意识将失望和挫败转向自身",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气自责、降低自我价值，如“是我不够好”，回避表达对外部情境的合理不满。"
         }
       ]

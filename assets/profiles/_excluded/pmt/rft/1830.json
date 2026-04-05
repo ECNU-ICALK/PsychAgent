@@ -77,14 +77,12 @@
           "trigger_condition": "当咨询师邀请其回顾积极体验或挑战“我从未能钓到鱼”的信念时",
           "interpretation": "倾向把咨询师的探索理解为在淡化他的困境，需要他用证据证明自己",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用技术性、客观化语言回应（列举饵料、方法、时段等），语气克制，减少情绪表达。"
         },
         {
           "trigger_condition": "当咨询师建议其尝试向朋友更开放地分享挫败感时",
           "interpretation": "认为一旦分享就等于承认无能，朋友会觉得他小题大做或嘲笑他",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以“他们会怎么看我”为由推迟行动，语气犹疑，强调潜在负面反应以回避尝试。"
         }
       ]

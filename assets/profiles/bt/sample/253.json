@@ -79,14 +79,12 @@
           "trigger_condition": "当被邀请降低标准、接纳不完美或将注意力从结果转向过程时",
           "interpretation": "来访者倾向将“降低标准”理解为对重要关系（狗的记忆）的背叛与自我价值的贬损",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用礼貌而坚定的语气，以“应该/必须”式道德化语言强调完美的重要性，强调纪念的正当性，避免深入情感体验。"
         },
         {
           "trigger_condition": "当朋友或咨询师邀请其深入表达脆弱情绪与悲伤体验时",
           "interpretation": "将他人的关注体验为潜在评判，认为表达脆弱会导致被看轻或失去掌控",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "用概括性、抽象化的词汇叙述，减少情绪形容词与细节，语气克制、保持礼貌但不深入。"
         }
       ]

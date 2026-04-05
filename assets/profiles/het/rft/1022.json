@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师建议设置结构化的休息与日程（如将求职与放松分开）时",
           "interpretation": "休息等于拖延，最终会让自己更失望（倾向把建议理解为可能导致失败）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用担忧的语气，强调“休息会拖延并造成更糟结果”，使用‘如果…那就…’的推断，对建议持保留并提出多个顾虑。"
         },
         {
           "trigger_condition": "当咨询师探询其是否与朋友讨论真实感受、寻求支持时",
           "interpretation": "朋友不会理解自己、只会投来怜悯目光（移情：将自我羞耻感投射为他人的评价）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "避免深入细节，使用泛化的措辞如“他们不懂”，减少自我暴露，维持与他人的心理距离。"
         }
       ]

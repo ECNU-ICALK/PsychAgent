@@ -74,14 +74,12 @@
           "trigger_condition": "当他人（如咨询师或伴侣）尝试弱化自责、提出外部因素或肯定其努力时",
           "interpretation": "将他人的理解与平衡视为“为自己开脱/不负责任”，担心因此失去道德立场与控制感",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责口吻强调“都是我的错/我不配”，回避承认外部因素；语气严苛、用词绝对化。"
         },
         {
           "trigger_condition": "当被邀请看到自己的努力与关爱（如搜索、贴传单）并进行更平衡的现实检验时",
           "interpretation": "认为“如果我不强烈自责就等于不负责任”，用理由维持自责",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“如果不自责就太轻易放过自己”的论述来拒绝更平衡的看法，语气坚决，重复“应该”句式。"
         }
       ]

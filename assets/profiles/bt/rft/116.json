@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师邀请其识别正向证据或尝试行为实验时",
           "interpretation": "认为这些方法对自己可能无效，像以往的尝试“从不奏效”，以此预先降低期望以避免再次受挫",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和、验证性的语气共情其担忧，放慢语速，采用开放式问题探索“若小步尝试会怎样”，邀请其具体化过往有效的微小证据。"
         },
         {
           "trigger_condition": "当被邀请在关系中更多地敞开自身体验（如谈及与朋友的互动困难）",
           "interpretation": "将潜在的回应想象为评判或拒绝，从而认为表达脆弱会带来羞耻",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用此时此刻取向，温柔地标注情绪与身体感受，降低解释性提问的频率，采用短句与停顿以容纳情绪浮现。"
         }
       ]

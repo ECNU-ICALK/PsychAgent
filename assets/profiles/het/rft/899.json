@@ -79,21 +79,18 @@
           "trigger_condition": "当被邀请分享孕期的自豪或被问及个人成就时",
           "interpretation": "若表达自豪会被视为自夸或显得普通，从而被别人否定",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "使用谨慎、低调的语气，强调外在标准（如“应该”“必须”），淡化自我感受与成就。"
         },
         {
           "trigger_condition": "当丈夫对其孕期情绪表示不理解或关系出现紧张时",
           "interpretation": "把关系问题归结为自己不称职，认为自己正在失败（移情为自责）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬低与过度承担责任的表述，语气柔和并主动道歉。"
         },
         {
           "trigger_condition": "在网上阅读他人的怀孕经验、进行大量社会比较时",
           "interpretation": "以理性化的方式证明“怀孕并不特别”，从而避免面对自卑与羞耻感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "采用分析式、概括性语言（如“统计上几乎人人都能怀孕”），减少情绪表达。"
         }
       ]

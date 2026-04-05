@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师提出挑战负性想法或建议进行小型行为实验时",
           "interpretation": "认为改变无效，别人已经对自己下定负面评判（担心尝试只会带来更大失望）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以犹疑和低能量的语气表达怀疑，频繁使用“可能/不一定/没什么用”，避免明确承诺改变。"
         },
         {
           "trigger_condition": "当咨询师强调那次帮助同事并被感谢的正向经验时",
           "interpretation": "将该经验视为偶然且不具代表性，以避免对关系改善抱有希望",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用客观、抽离的口吻强调“整体并未改变”“个例不代表总体”，回避探讨当时的积极情绪体验。"
         }
       ]

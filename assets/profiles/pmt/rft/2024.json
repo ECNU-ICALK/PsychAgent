@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师探讨与朋友分享感受或建议其寻求同伴支持时",
           "interpretation": "来访者认为朋友会像竞争者一样评判自己为软弱、不够能力（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以犹豫和防御的语气表达担心被看不起，避免深入具体细节，语句中多使用“他们会觉得…”。"
         },
         {
           "trigger_condition": "当咨询师指出其将一次失败泛化为整体失败，并探询训练策略的功能时",
           "interpretation": "来访者把过度训练解释为“对自己负责”的必要之举，以抵御被视为失败者的焦虑",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性解释和“应该/必须”措辞说明为何需要更严格目标，语气坚定但回避情绪层面的探讨。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当他人（如教授、咨询师）给予正向反馈或强调其成就与优势时",
           "interpretation": "将赞美理解为“礼貌性”而非真实认可（移情：把重要他者视作难以满足的评判者）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和但坚定的语气质疑赞美的真实性，强调“只是礼貌”和“未达真正卓越”，使用保留与限定词（例如：也许、可能）来淡化正面信息。"
         },
         {
           "trigger_condition": "当需与同学或朋友讨论内在感受、寻求支持或建立更深连接时",
           "interpretation": "担心暴露脆弱会被评判或显得不够格，从而避免表达",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "保持表面平静与简短回应，回避深入情绪描述，转向谈论任务与目标，减少自我暴露。"
         }
       ]

@@ -80,21 +80,18 @@
           "trigger_condition": "当谈及或回想三层蛋糕失败，或面临复杂烘焙任务时",
           "interpretation": "一次失败就意味着“完全不行”，若再尝试会再次出丑",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用绝对化词语（如“永远”“完全”）自责，放大错误，降低自我评价与语气能量。"
         },
         {
           "trigger_condition": "当他人或咨询师邀请其关注近期成功或积极证据时",
           "interpretation": "承认成功等于忽视问题、会放松警惕",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "给出看似合理的解释来贬低成功（如“任务太简单”），弱化积极意义。"
         },
         {
           "trigger_condition": "当需要评价作品品质或做出成败判断时",
           "interpretation": "不是完美就是失败，没有中间地带",
           "defense_mechanism": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "使用非黑即白的评语，坚持“必须/只能”的表达，拒绝承认部分成功。"
         }
       ]

@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询师邀请深入触及羞耻/失败等情绪体验时",
           "interpretation": "表达脆弱会让自己被评判或控制（将父亲的苛责形象投射到咨询师）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以分析与策略性语言回应，强调预算、兼职等“怎么做”，回避具体情绪感受；语气克制、客观。"
         },
         {
           "trigger_condition": "当被邀请尝试改变思维或进行练习、但担心做不好时",
           "interpretation": "若做不好就会被否定，失败归咎于自己",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性表述（如“都是我不行/我应该更好”），语速放缓、音量降低，淡化对外界因素的讨论。"
         }
       ]

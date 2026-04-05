@@ -79,21 +79,18 @@
           "trigger_condition": "当咨询师探问并强化朋友的正面反馈、邀请来访者考虑其真实性与意义时",
           "interpretation": "将他人的赞美理解为不真诚或与现实（未售出）不符",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用怀疑与否定的语气，强调“他们只是客套”，对赞美保持距离。"
         },
         {
           "trigger_condition": "当咨询师建议从销售之外探索艺术的价值（如为亲人创作）时",
           "interpretation": "将“不以销售为目标”的创作理解为没有意义、不值得投入",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用因果式、绝对化表述强调“如果不卖就没价值”，语气坚决以维持既有信念。"
         },
         {
           "trigger_condition": "当被询问是否愿与家人分享当前的情绪困扰与创作压力时",
           "interpretation": "预设家人会认为自己的困扰“幼稚/不重要”，从而选择不表达",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "保持沉默或轻描淡写，避免展开感受细节，语气收敛。"
         }
       ]

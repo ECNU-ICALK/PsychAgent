@@ -83,14 +83,12 @@
           "trigger_condition": "当被建议向配偶分享关于失败感与自我怀疑的真实感受时",
           "interpretation": "潜意识认为对方会不理解或会看轻自己（将自我否定投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以担忧的口吻，使用“他们会…”等猜测性语言，回避具体事实与证据，减少自我暴露。"
         },
         {
           "trigger_condition": "当工作受挫（如未获晋升）并感到强烈失败与愤怒时",
           "interpretation": "将失败归咎于自身的全面不行，将外在失望转为自我指责",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我批评语句（如“都是我的错”“我不够好”），语气低落，并通过加班等自我施压行为来“惩罚”自己。"
         }
       ]

@@ -6,6 +6,6 @@
 
 - `profiles/`：供 `sample` / `rft` 复用的人物画像资产
 
-说明：初始化技能库已统一迁移到仓库根目录 [`../skills/sect/`](../skills/sect/)。
+说明：初始化技能库位于 [`assets/skills/sect/`](../assets/skills/sect/)。
 
 如果你想找“通用资产”而不是“最小可运行样例”，优先从这里看。

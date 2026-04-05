@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师提出尝试行为实验或改变认知时",
           "interpretation": "认为无论做什么都没有用，最终仍会回到原点（改变无效）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "采用稳定、共情的语气，承认其怀疑，邀请以“小步尝试”为框架，强调不以成败评判，仅收集经验。"
         },
         {
           "trigger_condition": "当被询问具体错误或谈到自责与内疚时",
           "interpretation": "将所有失误归咎于自己，以免面对他人可能的评价或批评",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "避免强化自责，用温和的反映与重述，引导区分事实与评价，并鼓励自我慈悲语句。"
         },
         {
           "trigger_condition": "当谈及过去的成功与现在的差距时",
           "interpretation": "把过去的外在标准不加消化地当作绝对规则（必须永远完美）",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以好奇与尊重的语气探问该标准的来源与适用范围，邀请采用连续谱与具体证据重新评估。"
         }
       ]

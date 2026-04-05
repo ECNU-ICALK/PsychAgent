@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师鼓励采取新尝试（如加入漫画论坛、探索替代观点）",
           "interpretation": "再尝试也只会失败，努力毫无意义",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以无奈、消极的语气回应，强调过去“都试过了”“太难”，使用“何必”“没必要”等词汇弱化建议的可行性。"
         },
         {
           "trigger_condition": "看到他人享受新系列或被问及是否愿意继续尝试时",
           "interpretation": "别人能找到而我找不到，说明是我不行",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责的方式表述（如“我太挑剔了”），语气自我否定，降低主动性与探索行为。"
         }
       ]

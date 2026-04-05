@@ -74,21 +74,18 @@
           "trigger_condition": "当咨询师建议与亲密朋友分享并寻求支持时",
           "interpretation": "认为朋友会觉得自己可笑、不被理解（将被嘲笑的担心投射到他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用犹豫且自我保护的语气表达顾虑（如“他们可能会笑我”），避免承诺分享，转而强调尴尬和不适。"
         },
         {
           "trigger_condition": "当咨询师提出进行认知练习或行为实验时",
           "interpretation": "认为这些方法对自己可能不起作用，以理由维持现状",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用大量“也许/可能”的限定词，给出看似理性的理由说明自己很难改变，从而推迟行动。"
         },
         {
           "trigger_condition": "当咨询师邀请其关注与狗之间的真实情感体验时",
           "interpretation": "将亲密与爱抽象化为照料—回报的交易，以避免情绪卷入",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "用分析性的语言讨论“因果”和“逻辑”，减少情感词汇，语气平淡、与情绪保持距离。"
         }
       ]

@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师邀请探索与挑战灾难化想法、讨论可能的改变时",
           "interpretation": "认为“谈了也不会改变什么”，改变是徒劳无功",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以低落、怀疑的语气简短回应，强调“没什么用”，减少展开细节。"
         },
         {
           "trigger_condition": "当被询问是否愿意与挚友分享困扰、寻求支持时",
           "interpretation": "预设他人会把自己视为软弱或反应过度（他人会评判我）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避披露，强调“不想显得软弱/过度反应”，语气克制，可能转移到事实性描述。"
         }
       ]

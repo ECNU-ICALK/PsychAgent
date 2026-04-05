@@ -79,14 +79,12 @@
           "trigger_condition": "当他人对其职业/爱好表现出不适或以玩笑方式回应时",
           "interpretation": "他人像过去那些人一样会评判与疏离自己（移情性地将他人体验为拒绝者）",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关事件分离，理智地应对而缺乏情感表达",
           "response_instruction": "保持礼貌与简短回应，迅速更换话题，语气轻描淡写，避免表达受伤或不适感。"
         },
         {
           "trigger_condition": "在新关系的早期被问及个人职业与兴趣时",
           "interpretation": "一旦透露真实自我就会被拒绝（将现实关系体验为潜在的否定与抛弃）",
           "defense_mechanism": "压抑",
-          "defense_definition": "不自觉地将难以接受的情感或冲动压入潜意识",
           "response_instruction": "选择性披露信息，强调中性内容，减少个人情感表达与细节分享。"
         }
       ]

@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询聚焦于金钱焦虑的感受本身，或被邀请停下过度控制、尝试更灵活策略时",
           "interpretation": "将放松控制等同于“失控”和危险，认为只有更多计划与规则才安全",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "优先使用客观、策略性与步骤化的语言，罗列计划与数据，尽量避免探讨脆弱情绪，语气平稳克制。"
         },
         {
           "trigger_condition": "当谈及那次买鞋的超支与由此带来的后果时",
           "interpretation": "下意识将责任过多归于自身，担心被评价为“不负责任”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与道歉式措辞，弱化自身成就与合理需求，语气压低、强调“我不应该”。"
         }
       ]

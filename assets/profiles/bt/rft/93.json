@@ -81,14 +81,12 @@
           "trigger_condition": "当咨询师邀请其检视“证据”、挑战“失败=自我价值低”的信念时",
           "interpretation": "若承认没达标，就等于承认自己一无是处，会被否定",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平稳，强调事实与逻辑，尽量淡化情绪体验，用“客观来说……”等表述绕开直接感受失败感。"
         },
         {
           "trigger_condition": "当谈到与经理/同事的看法和评价时",
           "interpretation": "潜意识里将内在的自我否定体验为他人会失望或看低自己（移情：把他人当作苛刻的评判者）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用假设性与模糊化语言（如“他们可能觉得……”），回避承认自身的不安与羞耻。"
         }
       ]

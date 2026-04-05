@@ -74,21 +74,18 @@
           "trigger_condition": "当咨询师邀请其回顾比赛中的积极表现或资源时",
           "interpretation": "认为强调积极是在忽视“关键时刻失败的事实”，从而坚持负面结论",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气温和且具同理心，使用具体化与情感命名的开放式问题，引导其连结当下感受而非仅停留在抽象结论。"
         },
         {
           "trigger_condition": "当谈到朋友的安慰与不再提及比赛时",
           "interpretation": "把自己难以接纳的自责感归于他人，认为他们其实在失望只是出于客套",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以探询式语气，轻柔对焦于证据与体验差异，邀请其区分“推测”与“可观察到的迹象”，避免对抗。"
         },
         {
           "trigger_condition": "当直接面对“我就是失败者”的自我评价时",
           "interpretation": "将对外在结果的愤怒与失望转向自身，强化自我责备",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "保持稳定、低刺激的语调，使用温和的界限与重构，鼓励其识别自我攻击的模式并尝试更中性的自我描述。"
         }
       ]

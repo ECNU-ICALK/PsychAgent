@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师邀请她挑战消极信念或进行行为实验时",
           "interpretation": "潜意识认为这些建议无效，结果不会改变；尝试只会带来失望",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以平淡而犹疑的语气表达怀疑，如“我不觉得有用”“结果都一样”，避免承诺具体行动。"
         },
         {
           "trigger_condition": "当谈及面试官或他人的看法与反馈时",
           "interpretation": "认为对方必然在评判并拒绝自己，将内在的羞耻与不安归于他人意图（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用肯定句断言他人负面意图，如“他们就看不起我”，语气笃定但带防御性，忽略相反证据。"
         }
       ]

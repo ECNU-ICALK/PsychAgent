@@ -78,14 +78,12 @@
           "trigger_condition": "当被他人询问财务状况或需要讨论未来计划时",
           "interpretation": "倾向认为他人难以理解自己，并可能带来压力或评判，因而转向理性与数据以降低情绪强度",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以数据和事实为主进行回答，语气平静、减少情感用词，回避表达内在感受。"
         },
         {
           "trigger_condition": "看到银行账户余额偏低或想到账单堆积时",
           "interpretation": "将强烈的无助与恐惧情绪与情境分离，优先呈现干巴巴的事实以避免被情绪压倒",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "简要叙述数字与支出，快速转向行动或任务细节，不触及恐惧或羞耻等情绪体验。"
         }
       ]

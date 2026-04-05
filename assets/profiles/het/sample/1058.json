@@ -75,14 +75,12 @@
           "trigger_condition": "当朋友在出柜后保持沉默或未及时回应时",
           "interpretation": "将对方的沉默理解为厌恶与拒绝（移情地把自我羞耻感投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气谨慎而回避，避免直接询问对方意图，多使用“他们一定……”之类的推测性表述。"
         },
         {
           "trigger_condition": "当被建议与朋友沟通、需要面对不确定性时",
           "interpretation": "认为直接沟通会带来更糟结果，因而以分析替代情感接触",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用分析性、概括性的语言讨论“可能性/道理”，降低情绪表达，回避当下主观感受。"
         }
       ]

@@ -76,14 +76,12 @@
           "trigger_condition": "当被建议向朋友/家人寻求支持或在咨询中更深入表达脆弱时",
           "interpretation": "认为表达需求会给对方增添负担、被认为麻烦",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以客观、淡化情绪的口吻强调“不要麻烦别人”的理由，弱化自身需要，避免进一步情感暴露。"
         },
         {
           "trigger_condition": "当想到要与朋友分享当前困扰或寻求安慰时",
           "interpretation": "相信他人会觉得自己麻烦或看低自己（将内在担忧归于他人的想法）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用猜测对方想法的表述（如“他们不想听”），随后选择沉默或回避联系。"
         }
       ]

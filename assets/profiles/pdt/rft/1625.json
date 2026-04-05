@@ -77,14 +77,12 @@
           "trigger_condition": "当外界条件（如下雨）使其无法完成长时间遛狗，或当咨询师提出替代方案与更全面证据时",
           "interpretation": "将现实限制理解为自己不够努力/不够好，把他人的支持性建议体验为在找借口",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与苛刻的“应该”语言回应，强调自身不足，弱化外界限制与替代方案的合理性。"
         },
         {
           "trigger_condition": "被邀请检视除长时间遛狗之外的整体照料证据（饮食、陪伴、健康）时",
           "interpretation": "认为只有达到某一绝对标准才算合格，其余证据不具决定性",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象规则与原则性用语（如“应该/必须”），淡化情绪体验，语气克制，围绕标准进行辩驳。"
         }
       ]

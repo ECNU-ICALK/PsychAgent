@@ -84,14 +84,12 @@
           "trigger_condition": "当被邀请或鼓励向家人分享真实感受与困扰时",
           "interpretation": "他们会觉得我太消极或不知感恩（移情：将内在批评投射到家人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "用谨慎、保留的语气表达担忧，强调“他们不会理解”，避免直接承诺分享，尽量把话题转回到自己需要更努力的叙事上。"
         },
         {
           "trigger_condition": "当谈及退休决定与职业意义时",
           "interpretation": "若不以理性解释“身体磨损、时机到了”，就可能暴露失落与脆弱",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "强调客观条件与理性判断，用客观化语言弱化情绪色彩，减少对失落与悲伤的直接表露。"
         }
       ]

@@ -78,14 +78,12 @@
           "trigger_condition": "当咨询师邀请其挑战负性思维、检视证据或进行行为实验时",
           "interpretation": "将咨询师的探索理解为可能揭露自己的“不够好”，担心被评判，认为咨询可能无效",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气谨慎、保留，频繁使用“我不确定”“可能没用”等表达，优先讨论逻辑与证据以回避情绪层面。"
         },
         {
           "trigger_condition": "在社交场景谈及工作或他人关注其职业时",
           "interpretation": "将他人的中性关注理解为轻视或否定（把自己的羞耻与不安归于他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用“他们看不起我”“他们一定觉得我不重要”等猜测性语句，保持距离并减少自我暴露。"
         }
       ]

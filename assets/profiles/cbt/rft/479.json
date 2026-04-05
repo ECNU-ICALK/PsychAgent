@@ -83,14 +83,12 @@
           "trigger_condition": "当咨询师提出“你可能并非父母离婚的唯一原因”或尝试减轻其自责时",
           "interpretation": "如果不把责任揽在自己身上，就等于为自己开脱、是不配的",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责的语气回应，反复强调“都是我的错”，弱化他因；减少情感表达，语气克制。"
         },
         {
           "trigger_condition": "当被邀请回顾证据、考虑金钱压力和父亲长工时等他因时",
           "interpretation": "认为咨询师在淡化自己的责任，只有强调自己的错才是诚实的",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用因果推断与具体事例证明“是我的错”，语气平静但坚持己见，重复个人化归因。"
         }
       ]

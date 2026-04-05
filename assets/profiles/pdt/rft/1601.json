@@ -81,14 +81,12 @@
           "trigger_condition": "当被询问分享升职与收入的动机，或谈及他人（家人）反应冷淡的话题时",
           "interpretation": "将询问或冷淡反应解读为对自己“炫耀”的批评与否定",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责与降低自我价值的表述，语气歉疚，强调“我不该说这些”，减少对成就的正面阐述。"
         },
         {
           "trigger_condition": "当他人（如咨询师）邀请其以多元视角理解叔叔的反应时",
           "interpretation": "认为为自己寻找其他解释像是在为自己开脱，不被允许",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "强调“应该”保持谦逊与克制，语气谨慎，避免为自身成就辩护或表达自豪。"
         }
       ]

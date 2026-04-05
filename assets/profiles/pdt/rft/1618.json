@@ -85,14 +85,12 @@
           "trigger_condition": "当付出未被认可或关键时刻未获得他人感谢（如志愿活动顺利却无人致谢）",
           "interpretation": "对方不重视我，我一定不够好（移情：将重要他人“不认可”的形象投射到当下他人）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责语气揽责，弱化他人因素，反复表达“我没做好/我不够好”，降低自我表达需求。"
         },
         {
           "trigger_condition": "出现小差错或失误（如丢东西、学生一时未理解）",
           "interpretation": "这是因为我天生健忘、缺乏组织力（将复杂情境简化为对自身缺陷的解释）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果编造看似合理的理由以进行辩解。",
           "response_instruction": "使用看似客观的归因（“我就是健忘”）迅速下结论，语气肯定，回避进一步探索其他可能因素。"
         }
       ]

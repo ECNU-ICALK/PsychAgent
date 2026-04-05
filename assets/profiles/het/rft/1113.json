@@ -79,21 +79,18 @@
           "trigger_condition": "当咨询师提出用行为实验来检验“我不够好”的信念时",
           "interpretation": "感觉讨论或尝试是要证明自己“确实不行”，认为“说这些也改变不了什么”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气带有防御与质疑，强调“事实就是如此”，以具体失败经验反驳改变的可能。"
         },
         {
           "trigger_condition": "当被问及是否与朋友分享内心感受与自卑",
           "interpretation": "认为暴露脆弱会被轻视或拒绝，因此不应让他人看到这一面",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回答、转移话题，弱化情绪用词，避免具体细节。"
         },
         {
           "trigger_condition": "在训练或学习中出现一次性挫折",
           "interpretation": "将一次表现等同于整体能力不足（“我就是不强/不行”）",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用事实化语言强调“数据/表现即真相”，忽略情绪与情境因素。"
         }
       ]

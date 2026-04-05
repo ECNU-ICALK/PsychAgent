@@ -77,21 +77,18 @@
           "trigger_condition": "在被分配或开始处理重要账目任务时",
           "interpretation": "将上司/同事的关注理解为审查与否定，仿佛他们在等自己出错",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "表现紧张、语速加快、不断解释和自我辩解，频繁询问“这样是否可以/有没有问题”。"
         },
         {
           "trigger_condition": "当咨询师提出行为实验或积极假设时",
           "interpretation": "将建议理解为暗示自己能力不足、必须被纠正",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以务实语气强调“真正问题是工作量太大”“这些方法没用”，回避深入讨论感受。"
         },
         {
           "trigger_condition": "当回忆那次账目错误并自我评价时",
           "interpretation": "把一次错误等同于整体无能与失败",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自贬措辞（如“我不该做这份工作”），降低音量、减少眼神接触。"
         }
       ]

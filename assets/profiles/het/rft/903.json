@@ -76,21 +76,18 @@
           "trigger_condition": "当谈及邻居的花更鲜艳或出现比较话题时",
           "interpretation": "将邻居体验为会评判自己价值的人，从而感到自己不够好",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用解释性、理性语气，给出诸如“他们可能用更好的土或肥料”之类的理由，淡化情绪讨论。"
         },
         {
           "trigger_condition": "当被询问是否与丈夫分享自卑感受时",
           "interpretation": "担心表达这些感受会显得可笑或被轻视",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中",
           "response_instruction": "轻描淡写地回避深入情感表达，用简短句式表示“我还没说”，保持克制的语气。"
         },
         {
           "trigger_condition": "当被鼓励关注自己向日葵的积极方面时",
           "interpretation": "认为积极反馈不能改变“我不够好”的事实",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "转向客观描述特征或技术细节，避免触及自尊的情感层面。"
         }
       ]

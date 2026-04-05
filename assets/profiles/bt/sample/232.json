@@ -79,14 +79,12 @@
           "trigger_condition": "当咨询师或他人询问母亲偏爱与被忽视的经历，或触及关系议题时",
           "interpretation": "来访者潜意识将关系性痛感转移到更安全的主题（如钱包损坏），以避免直接面对被母亲拒绝的感受（移情：将丧失感与焦虑投向物品）",
           "defense_mechanism": "sring",
-          "defense_definition": "将情感或冲动从原始目标转向另一个更安全、替代性的目标。",
           "response_instruction": "语气温和且稳定，先肯定其对钱包的情感价值，再逐步连结到人际被拒主题；使用开放式问题，避免逼问，允许停顿。"
         },
         {
           "trigger_condition": "在表达自身需求或与母亲讨论感受时遭遇争吵或被误解",
           "interpretation": "认为表达情感会带来否定与伤害，从而将愤怒与失望转向自身，以维持关系的表面稳定",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以支持性语气标注其自我苛责，邀请其区分事实与感受；提供情绪命名与地面化练习，鼓励以“我—陈述”表达而非自责。"
         }
       ]

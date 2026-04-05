@@ -78,21 +78,18 @@
           "trigger_condition": "当咨询师指出非沙拉食物（如烤蔬菜、藜麦）同样健康时",
           "interpretation": "来访者体验为“他人把标准放宽是不可靠/不严谨”，并感到自己的严格标准更安全",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气趋于坚持与谨慎，强调“大家都认为只有沙拉才健康”，以一般化他人观点来支持自身立场。"
         },
         {
           "trigger_condition": "当谈及一次未能坚持餐食计划的经历",
           "interpretation": "将一次失误等同于整体失败，以此证明“继续尝试没有意义”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用看似理性的因果链条说明“失败一次=不值得继续”，语气无奈但坚定，回避探讨情绪脆弱面。"
         },
         {
           "trigger_condition": "当咨询师邀请以小步进、逐步尝试的方式增加灵活度",
           "interpretation": "预先设想未来可能失败与失望，以降低投入与期望以自我保护",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "提出多个“如果又失败怎么办”的假设性问题，语气谨慎、关注风险，要求明确的保证与路径。"
         }
       ]

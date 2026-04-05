@@ -80,21 +80,18 @@
           "trigger_condition": "当收到外部求职的拒绝或缺乏回应时",
           "interpretation": "认为招聘方看不起自己、未来必然失败（将自我羞耻和不被认可的感受投向他人的评判）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用绝对化与无望的语气（如“永远不可能”），强调他人负面看法，减少具体事实与反证的讨论。"
         },
         {
           "trigger_condition": "当被询问或想到要继续投递简历、更新简历或采取具体行动时",
           "interpretation": "认为行动只会带来更多失败与羞辱，努力没有意义",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以“何必呢”“没意义”的措辞为不行动找理由，语气消极，回避制定具体计划与时间表。"
         },
         {
           "trigger_condition": "当与成功的朋友互动或谈及职业相关话题时",
           "interpretation": "将外向的羞耻与挫败感转向自我，认为自己不配、应该疏远他人以避免被比较",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自我贬损语句，主动结束话题并退出互动，以低沉语气表达“不配”“我就是失败者”。"
         }
       ]

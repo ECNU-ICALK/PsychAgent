@@ -77,21 +77,18 @@
           "trigger_condition": "当谈及“一次差成绩意味着什么”或被询问对失败的看法时",
           "interpretation": "倾向于把一次挫折理解为“整体失败”，仿佛没有中间地带",
           "sring": "分裂",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点。",
           "response_instruction": "以绝对化词语（如“一定”“全都”“完全不行”）描述自我与结果，语气紧绷，忽略部分成功或改进空间。"
         },
         {
           "trigger_condition": "在临近考试或等待成绩公布时",
           "interpretation": "认为预先设想最坏情形可以“有准备”以避免打击",
           "sring": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "反复描述最坏结果及应急方案，用“如果这次不行就完了”的句式，语速略快、关注未来威胁而非当下证据。"
         },
         {
           "trigger_condition": "当想到家人的期待或被问及对家人反应的担忧时",
           "interpretation": "将可能对外的失望与不满转向自身，强化自责与自我否定",
           "sring": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与贬低自我为主的表述（如“都是我不好”“我让他们失望”），降低自我价值，语气内疚。"
         }
       ]

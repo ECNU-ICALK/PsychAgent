@@ -80,14 +80,12 @@
           "trigger_condition": "当与客户直接交流或准备展示时，感到对方可能不信任自己",
           "interpretation": "来访者将客户的中性信号解读为对其不诚实的判断（移情：投射）",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "以平稳、专业的语气强调事实与流程，罗列证据与细节，尽量不涉及感受与不确定性。"
         },
         {
           "trigger_condition": "当被询问是否向亲密朋友分享焦虑或在关系中表达担忧时",
           "interpretation": "认为表达脆弱可能引发他人负面评价或增加麻烦",
           "defense_mechanism": "sring",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简单承认存在担忧但不展开细节，语气克制，若对话深入则转移到具体工作事项。"
         }
       ]

@@ -82,14 +82,12 @@
           "trigger_condition": "当咨询师提出识别并挑战负性自动思维、尝试改变时",
           "interpretation": "认为这些方法对自己不起作用，感觉改变不可能（将希望视为不现实）",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "语气温和且共情，承认其怀疑与辛苦；邀请以“小步实验”的方式尝试，不强迫，强调可随时调整。"
         },
         {
           "trigger_condition": "当咨询师肯定其进步并鼓励以内在标准评价自己时",
           "interpretation": "将外界“必须最好”的标准当作唯一正确，非最佳即无价值",
           "defense_mechanism": "摄入/内向投射",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "帮助分辨“内摄的必须最优”声音与自身真实需要；采用反映与澄清，鼓励用第一人称描述当下感受和渴望。"
         }
       ]

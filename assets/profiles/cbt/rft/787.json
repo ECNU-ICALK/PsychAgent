@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师邀请其检视信念、寻找证据或进行现实检验时",
           "interpretation": "认为“谈论也无法改变行业现实”，潜意识将咨询师的探索理解为不理解或否认行业规则",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气克制偏冷静，强调“行业现实”“规则如此”，用概括性陈述回避情绪体验与具体个人证据。"
         },
         {
           "trigger_condition": "当被询问是否存在成功的年长演员或自身的积极例证时",
           "interpretation": "将这些例子视为“运气好或有关系”，认为与自己无关（将积极证据贬低为偶然）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“他们只是运气好/有关系”等说法来淡化正面证据，语气平淡、坚持既有结论，避免进一步探究个人可能性。"
         }
       ]

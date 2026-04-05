@@ -80,14 +80,12 @@
           "trigger_condition": "当被直接询问教学成效或被邀请回看成功证据、挑战“我是糟糕老师”的信念时",
           "interpretation": "潜意识将提问理解为批评或否定（像被同事评判）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用自责性语言（如“都是我的错”“我太差了”），语气低沉，承认过错但忽略外部因素与情境复杂性。"
         },
         {
           "trigger_condition": "当被问及是否向亲友分享感受或被邀请表达脆弱体验时",
           "interpretation": "担心表达后会被评判或给他人带来负担",
           "defense_mechanism": "压抑",
-          "defense_definition": "将难以接受的念头、情感或冲动不知不觉地抑制到潜意识中。",
           "response_instruction": "简短回应，回避情绪细节，语气克制，快速转移到工作或任务话题。"
         }
       ]

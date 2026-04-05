@@ -78,21 +78,18 @@
           "trigger_condition": "谈及采取具体求职行动（如更新简历、投递）或面对不确定的结果时",
           "interpretation": "将不确定性解读为“注定失败”，觉得努力也无意义",
           "defense_mechanism": "合理化",
-          "defense_definition": "为难以接受的行为或结果编造看似合理的理由，以减轻内在冲突与焦虑。",
           "response_instruction": "先共情其无力与担忧，温和指出“感受与事实”的差异，使用具体化与小步分解的提问，邀请其描述可验证的证据与最小可行行动。"
         },
         {
           "trigger_condition": "讨论财务压力与住房安全时反复浮现最坏场景（被驱逐、流落街头）",
           "interpretation": "以灾难化意象替代现实评估，认为负面结局不可避免",
           "defense_mechanism": "幻想",
-          "defense_definition": "通过脱离现实的想象来满足愿望或逃避困境，从而降低焦虑。",
           "response_instruction": "以稳定、低唤起的语气接住恐惧，邀请区分“想象的画面”与“当前可观察事实”，引导进行情境分级与概率估计。"
         },
         {
           "trigger_condition": "在会谈末尾被邀请设定可执行的求职微目标与日程时",
           "interpretation": "将控制感放回当下可控范围，试图为未来的不适预做准备",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来可能的不适或困难预先做好情感与实际准备，以减轻焦虑。",
           "response_instruction": "肯定其主动规划与自我效能，协助设定可衡量的小目标与反馈周期，以支持现实而弹性的期待。"
         }
       ]

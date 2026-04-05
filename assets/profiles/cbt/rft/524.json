@@ -80,14 +80,12 @@
           "trigger_condition": "当被问及是否向朋友倾诉母职困扰或想到朋友“都处理得很好”时",
           "interpretation": "认为朋友会看不起自己、把自己视为失败的母亲（移情：将内在的自我批评投向他人）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以含糊、保留的方式表达，弱化自身需要，避免深入展开个人脆弱体验。"
         },
         {
           "trigger_condition": "当女儿拒绝或不愿参与户外活动时",
           "interpretation": "把外在的拒绝理解为自身失败，转而苛责自己（移情：把失望与挫败内向化）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以道歉和自我否定的语气回应，减少表达自己的需求与喜好。"
         }
       ]

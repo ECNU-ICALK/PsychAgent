@@ -77,14 +77,12 @@
           "trigger_condition": "当处于公共场合或被咨询师追问这些担忧的证据与来源时",
           "interpretation": "将不适解释为“社会压力要求不出众”，以减轻自责与焦虑（移情：以社会规范为外在解释）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用理性化的社会规范解释，语气平稳、克制情感表达，弱化对个人羞耻和恐惧的直接探讨。"
         },
         {
           "trigger_condition": "当置身于人群并主观感到被注视时",
           "interpretation": "认为他人正在不满或讨厌自己，将内在的批评和不安全感归于他人（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "以猜测他人感受的方式表达，例如“他们一定很不高兴”，语气紧张、减少自我表露，避免核查客观证据。"
         }
       ]

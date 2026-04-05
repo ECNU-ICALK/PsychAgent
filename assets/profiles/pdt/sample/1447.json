@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师邀请其表达情绪并尝试认知重构或行为实验时",
           "interpretation": "感觉改变很难、可能否定“衰老的事实”，担心自己做不到而再次失败",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "语气平稳，强调“这已经是长期自动化的想法”，多用抽象概括，减少情绪词汇与具体感受描述。"
         },
         {
           "trigger_condition": "当谈及向邻居寻求支持或分享困扰时",
           "interpretation": "认为他人会被自己拖累、自己会给别人添麻烦（将负担感归于对方）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "回避求助话题，快速以“我不该麻烦别人”作结，并转回到自我消化的表述。"
         },
         {
           "trigger_condition": "当讨论到犯错或被指出忽视积极面时",
           "interpretation": "将负面情感指向自身，认为“都是我的问题，我本来就笨拙”",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "以自责与贬抑的语气回应，强化“我不行”的主题，减少对情境性因素的讨论。"
         }
       ]

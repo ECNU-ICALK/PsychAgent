@@ -83,14 +83,12 @@
           "trigger_condition": "当被建议向朋友或亲密他人表达脆弱、寻求支持时",
           "interpretation": "他们会觉得我小题大做、会轻视我（把自己的担心投射到他人意图上）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "语气迟疑，反复强调“这不算什么/我可能是多想了”，避免深入展开具体情绪与细节。"
         },
         {
           "trigger_condition": "当在会谈中被邀请回忆积极反馈或承认自己的进步时",
           "interpretation": "正面反馈不真实或不算数，只是安慰我",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用客观、评估性的语句，降低情感表达强度，迅速回到“证据/比较”的理性讨论。"
         }
       ]

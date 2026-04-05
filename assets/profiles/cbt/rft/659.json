@@ -74,14 +74,12 @@
           "trigger_condition": "当咨询师提出认知重构或行为实验，鼓励以更慈悲的视角看待亏损时",
           "interpretation": "认为重构是“自我欺骗/空话”，难以容许更温和的自我看法",
           "defense_mechanism": "sring",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑",
           "response_instruction": "以质疑与谨慎的语气回应，强调逻辑与证据，淡化情感体验，避免深入羞耻感的探讨"
         },
         {
           "trigger_condition": "当被探问是否向朋友倾诉或寻求支持时",
           "interpretation": "把潜在的愤怒/羞耻转向自身，认为“不该麻烦别人”，并加重自我批评",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "拒绝主动求助，以自责性语言表述，语气克制，维持自我隔离"
         }
       ]

@@ -76,14 +76,12 @@
           "trigger_condition": "在会谈中回顾工作坊他人作品获赞、被邀请分享或谈及自我评估时",
           "interpretation": "他人或咨询师会看到我的不足并否定我（将他人视为挑剔的评判者）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气自责、降低自我评价，使用“我不够聪明/我不行”之类表述，回避展开自我能力的具体证据。"
         },
         {
           "trigger_condition": "当被直接聚焦当前感受（如羞耻、焦虑）并探索其来源时",
           "interpretation": "表达情绪会暴露弱点并带来负面评价",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "转而谈论学习计划或技巧，以概念化、客观化语言叙述，减少情绪词汇与主观体验的细节。"
         }
       ]

@@ -77,14 +77,12 @@
           "trigger_condition": "当想到他人可能评价自己或在社交场合需要展示能力时",
           "interpretation": "他人会像挑剔的评判者一样看不起我（移情：投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己难以接纳的感受归于他人，与”拥有“对应",
           "response_instruction": "以谨慎、回避的语气表达，减少自我暴露，并频繁寻求确认与保证。"
         },
         {
           "trigger_condition": "当被引导关注或承认积极经历与能力时",
           "interpretation": "积极的部分不重要，承认它会显得自我夸大或不真实",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "轻描淡写积极内容，转而强调负面细节，用保留和谨慎的措辞。"
         }
       ]

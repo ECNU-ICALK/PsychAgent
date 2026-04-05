@@ -77,14 +77,12 @@
           "trigger_condition": "当被建议向亲友分享困扰或寻求支持时",
           "interpretation": "潜意识认为亲友会被自己拖累、会看轻自己（投射性解读）",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "委婉拒绝分享，强调“我不该麻烦别人”，语气平静但回避深入谈及他人支持"
         },
         {
           "trigger_condition": "在谈及失败经历或被要求再次尝试挑战时",
           "interpretation": "认为一次失败等于整体无能，必须远离以免再次受挫",
           "defense_mechanism": "sring",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁",
           "response_instruction": "使用自我贬低的措辞（如“我不够聪明”），语气低落，降低交流与参与度"
         }
       ]

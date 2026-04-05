@@ -81,14 +81,12 @@
           "trigger_condition": "当被建议向丈夫或老师寻求帮助、或开口表达脆弱需求时",
           "interpretation": "将求助解读为给别人添麻烦，也意味着自己不够能力（移情：把内在的“不能麻烦他人”的规则加诸关系）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和但坚定的语气强调“我不想麻烦别人”，优先提出不涉及求助的替代方案，减少情感自揭示。"
         },
         {
           "trigger_condition": "当咨询聚焦于挫败感受并邀请深入体验情绪时",
           "interpretation": "将深入表达视为抱怨或失控，转而以计划与技巧讨论来保持掌控感",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用分析性、任务导向的语言，讨论练习策略与步骤，弱化主观情绪词汇，维持冷静、克制的语调。"
         }
       ]

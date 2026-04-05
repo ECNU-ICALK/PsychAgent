@@ -79,21 +79,18 @@
           "trigger_condition": "当咨询师邀请其回顾以往成功或查看现实证据时",
           "interpretation": "来访者倾向将“这次不同且更重要”作为理由，认为以往的成功不具参考价值",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和、先共情其压力，再以具体化提问引导其同时列举支持与反驳证据，逐步检验“这次不同”的依据。"
         },
         {
           "trigger_condition": "当谈及“害怕让大家失望”并将他人期待内化为压力时",
           "interpretation": "将他人的高期待与失望归因于对方（假定他人会严苛评价自己）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用澄清与界定边界的提问，区分事实与推测，鼓励其以第一人称表达需要与界限，降低对他人想法的臆测。"
         },
         {
           "trigger_condition": "当被邀请同时考虑通过与未通过两种结局并做准备时",
           "interpretation": "在焦虑中尝试以计划与准备来获得可控感",
           "defense_mechanism": "预期",
-          "defense_definition": "为未来的潜在不适预先做好情感和实际的准备，以减轻焦虑。",
           "response_instruction": "强化其有效的准备行为，采用支持性语气，协助将目标分解与进度回顾常态化，巩固现实检验。"
         }
       ]

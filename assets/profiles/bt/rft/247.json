@@ -85,14 +85,12 @@
           "trigger_condition": "当咨询聚焦于设定具体的社交尝试目标或行为实验时",
           "interpretation": "感觉被推动暴露自己的不足，担心失败会证实“我不行”",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和而坚定的语气反复强调“我就是内向”，提出诸多实际困难来推迟或淡化行动承诺。"
         },
         {
           "trigger_condition": "当谈及被他人喜欢、建立亲密关系等敏感议题时",
           "interpretation": "预期他人不会接纳自己，将潜在的拒绝内化为自身缺陷",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "降低音量、出现自责式表述（如“都是我不好”），语气收敛、避免目光接触，快速结束相关话题。"
         }
       ]

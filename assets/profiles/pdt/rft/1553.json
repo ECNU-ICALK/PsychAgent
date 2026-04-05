@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师邀请其探讨负性信念的功能或好处、并考虑放下这些想法时",
           "interpretation": "担心一旦怀抱希望就会再次被拒绝，因此倾向为维持低期待寻找理由",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气平淡，强调维持低期待的“保护作用”，使用“如果不抱期待，就不会太失望”之类表述。"
         },
         {
           "trigger_condition": "在回顾多次求职被拒或与朋友成功进行比较时",
           "interpretation": "将痛苦情绪与经历分离，更多以事实罗列的方式谈论，以避免直面羞耻与悲伤",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "以客观、简短的描述陈述经历，避免使用情绪词汇与细节，快速转向对策或结论。"
         }
       ]

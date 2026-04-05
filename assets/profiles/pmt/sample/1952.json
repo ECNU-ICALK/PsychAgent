@@ -75,14 +75,12 @@
           "trigger_condition": "当咨询师强调她的成功或提出更平衡的视角时",
           "interpretation": "倾向认为这些积极证据“不算数”，感觉咨询师在淡化她的失败（将成功视为无关）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "坚持使用“这不代表什么/这次不重要”等表述，语气平稳但坚定，反复强调高标准与例外的差异。"
         },
         {
           "trigger_condition": "回顾关键失误与他人期望压力时",
           "interpretation": "认为失败全由自己承担，别人都会因此失望（过度自责）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "使用高度自责与绝对化语言（如“都是我的错”），语气低落，忽视他人或情境因素。"
         }
       ]

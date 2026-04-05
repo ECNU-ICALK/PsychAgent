@@ -82,14 +82,12 @@
           "trigger_condition": "当他人直接称赞其唱歌或鼓励其参加更大舞台（如电视节目）时",
           "interpretation": "对方的赞美是出于礼貌或同情（将自身不被认可的担忧投射为他人的动机）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "保持礼貌回应但质疑赞美的真诚，用自我贬低语句弱化反馈，并以降低期待或回避机会作为后续行动。"
         },
         {
           "trigger_condition": "当自己想到要抓住音乐行业的机会、面对可能的评判时",
           "interpretation": "若不是足够好，就不该期望更大的机会（以看似合理的逻辑否定真实愿望）",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "使用“我不该”“还是算了”之类的语句，语气克制、谨慎，通过强调潜在失败理由来停止行动。"
         }
       ]

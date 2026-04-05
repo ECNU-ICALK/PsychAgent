@@ -84,14 +84,12 @@
           "trigger_condition": "当咨询师引导其回忆正面反馈与成功经历时",
           "interpretation": "认为那些成功不具代表性、不能说明整体能力",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以温和但否定的语气淡化积极证据，例如“那只是运气好”，并给出看似客观的理由弱化成功。"
         },
         {
           "trigger_condition": "当讨论他人反馈或潜在评价场景时",
           "interpretation": "将内在的自我批评体验外归，预设他人会全面否定自己",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用推测性语言强调他人的负面看法（如“他们会觉得我很差”），并据此表达退缩意愿。"
         }
       ]

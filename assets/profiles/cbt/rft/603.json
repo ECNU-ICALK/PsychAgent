@@ -75,14 +75,12 @@
           "trigger_condition": "当被询问这些负面预测的现实性或被要求回忆正向证据时",
           "interpretation": "倾向认为积极例证只是侥幸，无法改变整体走向（移情：将希望视为不可靠）",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "语气温和、支持性，先验证其情绪，再以具体化追问引导其区分事实与推测，鼓励列举反例与证据。"
         },
         {
           "trigger_condition": "在与同事互动时察觉他人情绪或眼神后",
           "interpretation": "认为同事都能感受到并否定自己的能力（移情：投射）",
           "defense_mechanism": "sring",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "使用澄清与界定边界的提问，邀请区分事实与推测；语气稳定、不评判，鼓励具体化描述同事的实际言行。"
         }
       ]

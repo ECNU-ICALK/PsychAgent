@@ -81,21 +81,18 @@
           "trigger_condition": "当咨询师邀请其接纳或回顾正向反馈与努力成效时",
           "interpretation": "认为对方的肯定“不真实/只是客气”，担心被看穿自己的“不够好”",
           "defense_mechanism": "否认",
-          "defense_definition": "拒绝承认不愉快的现实，当作其从未发生",
           "response_instruction": "以轻描淡写的口吻否定赞许，如“只是运气好/他们客气而已”，回避停留在积极感受上。"
         },
         {
           "trigger_condition": "当被询问‘此刻的感受’或被引导停留在情绪体验上时",
           "interpretation": "直接触碰情绪会暴露脆弱、失去掌控",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用分析与概括性语言讨论“原因/模式”，减少情绪词汇与自我体验细节。"
         },
         {
           "trigger_condition": "当被鼓励向朋友寻求支持或更多地与他人连接时",
           "interpretation": "表达需要会‘麻烦到他人’，可能被拒绝或被嫌弃",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "用‘我不该麻烦别人/大家都很忙’等理由婉拒建议，语气礼貌但回避具体行动。"
         }
       ]

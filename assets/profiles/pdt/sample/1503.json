@@ -80,14 +80,12 @@
           "trigger_condition": "当咨询师提出制定具体行动计划或正向想象练习时",
           "interpretation": "这些方法对现实没有实际帮助，无法改变失败的结局",
           "defense_mechanism": "合理化",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解。",
           "response_instruction": "以无力、怀疑的语气回应，如“我看不出有用”“这一切太压倒性了”，表面同意尝试但语气保留、动力不足。"
         },
         {
           "trigger_condition": "当咨询师邀请其寻找反证、指出成功不只依赖完美时",
           "interpretation": "将正面例子归为“少数例外”，以维持自身信念和心理平衡",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "使用抽象概括（如“那只是例外而不是规律”），降低情感表达，采用分析性语句回避触及脆弱情绪。"
         }
       ]

@@ -77,21 +77,18 @@
           "trigger_condition": "当咨询师或他人指出求职中的正面迹象（如获得面试）时",
           "interpretation": "来访者认为这些并不算数，只有拿到录用才有价值（移情：将正面反馈视为无效）",
           "defense_mechanism": "sring",
-          "defense_definition": "为无法接受的行为或结果杜撰看似合理的理由来辩解",
           "response_instruction": "使用否定性语言，强调“没意义/不算”，语气平淡偏消极，弱化正面证据。"
         },
         {
           "trigger_condition": "当看到同龄人分享职业成功或听闻他人被录用时",
           "interpretation": "来访者以极端方式比较，将自己视为“完全落后”，他人视为“完全成功”（移情：分裂式认知）",
           "defense_mechanism": "sring",
-          "defense_definition": "将人或事极端地看作“全好”或“全坏”，无法整合好坏并存的观点",
           "response_instruction": "使用绝对化词语（如“永远、一直、完全”），强化自我否定，避免讨论中间可能性。"
         },
         {
           "trigger_condition": "在经历多次求职拒绝后独处或反思未来时",
           "interpretation": "将外界的拒绝内化为对自我价值的全面否定（移情：把他人的判断吸收为自己的声音）",
           "defense_mechanism": "sring",
-          "defense_definition": "将他人的价值观、特质或规则不加批判地内化为自己的一部分。",
           "response_instruction": "以自我批评的口吻陈述“我不够好”，减少情感表达而更多陈述结论。"
         }
       ]

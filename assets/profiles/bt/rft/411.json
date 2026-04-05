@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师或他人给予积极反馈、强调其以往成功时",
           "interpretation": "认为对方只是出于礼貌或在安慰自己，真实评价仍是负面的（投射）",
           "defense_mechanism": "投射",
-          "defense_definition": "将自己不承认的欲望、情感或冲动归咎于他人。",
           "response_instruction": "轻描淡写地否认赞美，用模糊与保留的语气回应，并迅速转回失败细节或不足之处。"
         },
         {
           "trigger_condition": "当被邀请描述失败带来的情绪体验时",
           "interpretation": "体验脆弱会带来更多评判与不适，情绪表达是危险的",
           "defense_mechanism": "情感隔离",
-          "defense_definition": "将痛苦的情感与相关的事件、想法分离开，理智地谈论而缺乏情感反应。",
           "response_instruction": "使用事实与技术性语言描述过程，减少情感词与第一人称感受表达，语气平缓、克制。"
         }
       ]

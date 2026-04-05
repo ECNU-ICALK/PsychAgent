@@ -76,14 +76,12 @@
           "trigger_condition": "当咨询师提出更平衡的视角或替代解释、邀请共同检视证据时",
           "interpretation": "担心探索会证实“都是我的错”，将理解过程体验为可能的指责与控诉（自我指向的移情）",
           "defense_mechanism": "转向自身",
-          "defense_definition": "将对外的愤怒或攻击性转向自己，可能导致自我批评或抑郁。",
           "response_instruction": "语气犹疑，重复自责性提问（如“如果真的是我的错怎么办”），寻求确定性与证据，降低情感暴露。"
         },
         {
           "trigger_condition": "当谈到“是否并非全是我的错”与责任归属问题时",
           "interpretation": "相信只有找到确凿证据才能允许自己减轻自责，用理性分析来避免触及痛苦情绪",
           "defense_mechanism": "理智化",
-          "defense_definition": "使用过度抽象的理性思考来避免情感卷入和焦虑。",
           "response_instruction": "请求列举事实与证据，偏向分析和归因讨论，语气谨慎、情感表达克制。"
         }
       ]
